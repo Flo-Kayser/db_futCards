@@ -1,0 +1,15 @@
+{
+  "name": "db_futcards",
+  "type": "module",
+  "scripts": {
+    "build:PlayerFiles": "node scripts/generate-player-files.js",
+    "build:VersionFiles": "node scripts/generate-version-files.js",
+    "build:VersionIndex": "node scripts/generate-version-index.js",
+    "build:CountryFiles": "node scripts/generate-country-files.js",
+
+    "fetch:VersionData": "node scripts/fetch-version-data.js",
+    "fetch:ManagerData": "node scripts/fetch-manager-data.js"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
