@@ -6,9 +6,12 @@
     "build:VersionFiles": "node scripts/generate-version-files.js",
     "build:VersionIndex": "node scripts/generate-version-index.js",
     "build:CountryFiles": "node scripts/generate-country-files.js",
-
+    "build:LeaguesFiles": "node scripts/generate-league-files.js",
+    "build:all": "npm run build:PlayerFiles && npm run build:VersionFiles && npm run build:VersionIndex && npm run build:CountryFiles",
     "fetch:VersionData": "node scripts/fetch-version-data.js",
-    "fetch:ManagerData": "node scripts/fetch-manager-data.js"
+    "fetch:ManagerData": "node scripts/fetch-manager-data.js",
+    "fetch:all": "npm run fetch:VersionData && npm run fetch:ManagerData",
+    "all": "npm run fetch:all && npm run build:all"
   },
   "devDependencies": {},
   "dependencies": {}

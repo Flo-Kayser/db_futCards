@@ -1,7 +1,7 @@
 import fs from "fs/promises";
 import path from "path";
-import { remapVersionId, pick } from "./helperFunctions/remapVersionId.js";
-import { PICK_FIELDS } from "./helperFunctions/constantsHelper.js";
+import { remapVersionId, pick } from "./helpers/helperFunctions.js";
+import { PICK_FIELDS } from "./helpers/constantsHelper.js";
 const INPUT = path.join("db", "core-data", "all-cards.json");
 const OUT_DIR = path.join("db", "versions");
 
@@ -9,7 +9,7 @@ async function main() {
   console.log("starting version file generation");
   console.time("genVersionFiles");
 
-  await fs.rmdir(OUT_DIR, { recursive: true, force: true });
+  await fs.rm(OUT_DIR, { recursive: true, force: true });
   console.log(`Cleared ${OUT_DIR}`);
   await fs.mkdir(OUT_DIR, { recursive: true });
 

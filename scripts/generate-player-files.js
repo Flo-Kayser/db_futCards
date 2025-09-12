@@ -1,7 +1,7 @@
 import fs from "fs/promises";
 import path from "path";
-import { remapVersionId, pick } from "./helperFunctions/remapVersionId.js";
-import { PICK_FIELDS } from "./helperFunctions/constantsHelper.js";
+import { remapVersionId, pick } from "./helpers/helperFunctions.js";
+import { PICK_FIELDS } from "./helpers/constantsHelper.js";
 
 const INPUT = path.join("db", "core-data", "all-cards.json");
 const OUT_DIR = path.join("db", "players");
