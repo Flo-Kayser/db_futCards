@@ -1,21 +1,19 @@
 import fs from "fs/promises";
 import path from "path";
+import {
+  COUNTRYID_FOR_LEAGUEID,
+  PICK_FIELDS,
+  BASE_VERSION_IDS,
+} from "./helpers/constantsHelper.js";
+import { remapVersionId, pick } from "./helpers/helperFunctions.js";
 
-const INPUT_ALL_CARDS = path.join("db", "core-data", "all-cards.json");
-const INPUT_LEAGUES_DATA = path.join(
-  "db",
-  "core-data",
-  "manager-fetched-data.json"
-);
-
-const INDEX_DIR = path.join("db", "index-data");
+const INPUT_ALL_CARDS = path.join("db/core-data/all-cards.json");
+const INPUT_MANAGER = path.join("db/core-data/manager-fetched-data.json");
+const INDEX_DIR = path.join("db/index-data");
 const INDEX_FILE = path.join(INDEX_DIR, "leaguesIndex.json");
-const OUT_DIR = path.join("db", "leagues");
-const OUT_DIR_ALL = path.join(OUT_DIR, "leagues-all");
-const OUT_DIR_NO_BASE = path.join(OUT_DIR, "leagues-noBase");
-const OUT_DIR_ONLY_BEST = path.join(OUT_DIR, "leagues-onlyBest");
-
-const BETTER_LEAGUE_NAMES = {
+const L_OUT = "db/leagues";
+const C_OUT = "db/clubs";
+const BETTER_NAMES = {
   "Bundesliga 2": "2. Bundesliga",
   CSL: "Chinese Super League",
   CSSL: "Swiss Super League",
@@ -27,102 +25,179 @@ const BETTER_LEAGUE_NAMES = {
   "Ö. Bundesliga": "Österreichische Bundesliga",
 };
 
-const COUNTRYID_FOR_LEAGUEID = {
-  1:   { lid: 13, sortId: 0 },
-  4:   { lid: 7, sortId: 0 },
-  10:  { lid: 34, sortId: 0 },
-  13:  { lid: 14, sortId: 5 },
-  14:  { lid: 14, sortId: 6 },
-  16:  { lid: 18, sortId: 15 },
-  17:  { lid: 18, sortId: 16 },
-  19:  { lid: 21, sortId: 1 },
-  20:  { lid: 21, sortId: 2 },
-  31:  { lid: 27, sortId: 12 },
-  32:  { lid: 27, sortId: 13 },
-  39:  { lid: 95, sortId: 0 },
-  41:  { lid: 36, sortId: 0 },
-  50:  { lid: 42, sortId: 0 },
-  53:  { lid: 45, sortId: 9 },
-  54:  { lid: 45, sortId: 10 },
-  58:  { lid: 46, sortId: 0 },
-  60:  { lid: 14, sortId: 7 },
-  61:  { lid: 14, sortId: 8 },
-  63:  { lid: 22, sortId: 0 },
-  65:  { lid: 25, sortId: 0 },
-  66:  { lid: 37, sortId: 0 },
-  68:  { lid: 48, sortId: 0 },
-  80:  { lid: 4, sortId: 18 },
-  83:  { lid: 166, sortId: 0 },
-  189: { lid: 47, sortId: 19 },
-  308: { lid: 38, sortId: 21 },
-  317: { lid: 10, sortId: 0 },
-  319: { lid: 12, sortId: 0 },
-  322: { lid: 17, sortId: 0 },
-  330: { lid: 39, sortId: 0 },
-  332: { lid: 49, sortId: 0 },
-  350: { lid: 183, sortId: 0 },
-  351: { lid: 195, sortId: 0 },
-  353: { lid: 52, sortId: 0 },
-  1003:{ lid: 54, sortId: 0 },
-  1014:{ lid: 54, sortId: 0 },
-  2012:{ lid: 155, sortId: 0 },
-  2076:{ lid: 21, sortId: 3 },
-  2149:{ lid: 159, sortId: 0 },
-  2172:{ lid: 190, sortId: 0 },
-  2209:{ lid: 56, sortId: 0 },
-  2210:{ lid: 11, sortId: 0 },
-  2211:{ lid: 23, sortId: 0 },
-  2215:{ lid: 21, sortId: 4 },
-  2216:{ lid: 14, sortId: 0 },
-  2218:{ lid: 18, sortId: 17 },
-  2221:{ lid: 95, sortId: 0 },
-  2222:{ lid: 45, sortId: 11 },
-  2228:{ lid: 38, sortId: 22 },
-  2229:{ lid: 34, sortId: 0 },
-  2230:{ lid: 12, sortId: 0 },
-  2231:{ lid: 47, sortId: 20 },
-  2232:{ lid: 46, sortId: 0 },
-  2233:{ lid: 42, sortId: 0 },
-  2236:{ lid: 27, sortId: 14 },
-  2244:{ lid: 5, sortId: 0 },
-};
-
-
-async function loadLeaguesMeta() {
-  const raw = await fs.readFile(INPUT_LEAGUES_DATA, "utf8");
-  const data = JSON.parse(raw);
-
-  const result = new Map();
-  for (const meta of data.leagues) {
-    const name = meta?.name ?? null;
-    const abbrName = meta?.abbrName ?? null;
-    const id = meta?.id ?? null;
-    const isWomen = meta?.isWomen ?? null;
-    const betterName = BETTER_LEAGUE_NAMES[name] ?? null;
-
-    result.set(String(id), { name, abbrName, isWomen, betterName });
-  }
-  return result;
+// Utility: sicheres Schreiben als {clubId, clubName, cards}
+async function writeClubFile(dir, clubId, clubName, cards) {
+  await fs.writeFile(
+    path.join(dir, `${clubId}.json`),
+    JSON.stringify({ clubId, clubName, cards }, null, 2)
+  );
 }
 
 async function main() {
-  for (const dir of [
-    OUT_DIR,
-    OUT_DIR_ALL,
-    OUT_DIR_NO_BASE,
-    OUT_DIR_ONLY_BEST,
+  // --- Setup
+  for (const d of [
+    L_OUT,
+    `${L_OUT}/leagues-all`,
+    `${L_OUT}/leagues-noBase`,
+    `${L_OUT}/leagues-onlyBest`,
+    C_OUT,
+    `${C_OUT}/clubs-all`,
+    `${C_OUT}/clubs-noBase`,
+    `${C_OUT}/clubs-onlyBest`,
   ]) {
-    await fs.rm(dir, { recursive: true, force: true });
-    await fs.mkdir(dir, { recursive: true });
+    await fs.rm(d, { recursive: true, force: true });
+    await fs.mkdir(d, { recursive: true });
   }
 
-  const raw = await fs.readFile(INPUT_ALL_CARDS, "utf8");
-  const cards = JSON.parse(raw);
+  // Stelle sicher, dass index-data existiert
+  await fs.mkdir(INDEX_DIR, { recursive: true });
+  
+  const [cards, manager] = await Promise.all([
+    fs.readFile(INPUT_ALL_CARDS, "utf8").then(JSON.parse),
+    fs.readFile(INPUT_MANAGER, "utf8").then(JSON.parse),
+  ]);
   if (!Array.isArray(cards)) throw new Error("Invalid all-cards.json");
 
-  const leaguesMeta = await loadLeaguesMeta();
-  setLeagueCountryIdFromCards(leaguesMeta, cards);
+  // --- Maps & Counters
+  const leagueAll = new Map(),
+    leagueBest = new Map();
+  const clubAll = new Map(),
+    clubBest = new Map();
+  const leagueCounts = {},
+    clubCounts = new Map();
+  const clubNames = new Map(
+    manager.clubs?.map((c) => [String(c.id), c.name ?? ""])
+  );
 
-  //   console.log(leaguesMeta);
+  // --- Karten verarbeiten
+  for (const c of cards) {
+    if (
+      !c?.leagueId ||
+      !c?.assetId ||
+      !c?.resourceId ||
+      !c?.versionId ||
+      !c?.rating
+    )
+      continue;
+    const lId = String(c.leagueId),
+      clId = String(c.clubId ?? "");
+    const vId = remapVersionId(String(c.versionId), c.rating);
+    const rating = Number(c.rating);
+    const entry = {
+      ...pick(c, PICK_FIELDS),
+      name: c.name,
+      cardName: c.cardName,
+      originalVersionId: c.versionId,
+      versionId: vId,
+    };
+
+    // Liga all + best
+    (leagueAll.get(lId) ?? leagueAll.set(lId, {}).get(lId))[c.resourceId] =
+      entry;
+    const lBest =
+      leagueBest.get(lId) ?? leagueBest.set(lId, new Map()).get(lId);
+    const lSlot = lBest.get(c.assetId);
+    if (!lSlot || rating > lSlot.maxRating)
+      lBest.set(c.assetId, {
+        maxRating: rating,
+        entries: { [c.resourceId]: entry },
+      });
+    else if (rating === lSlot.maxRating) lSlot.entries[c.resourceId] = entry;
+
+    // Club all + counts
+    if (clId) {
+      (clubAll.get(clId) ?? clubAll.set(clId, {}).get(clId))[c.resourceId] =
+        entry;
+      const cc = clubCounts.get(clId) ?? { all: 0, nobase: 0, onlybest: 0 };
+      cc.all++;
+      if (!BASE_VERSION_IDS.has(vId)) cc.nobase++;
+      clubCounts.set(clId, cc);
+      const cBest =
+        clubBest.get(clId) ?? clubBest.set(clId, new Map()).get(clId);
+      const cSlot = cBest.get(c.assetId);
+      if (!cSlot || rating > cSlot.maxRating)
+        cBest.set(c.assetId, {
+          maxRating: rating,
+          entries: { [c.resourceId]: entry },
+        });
+      else if (rating === cSlot.maxRating) cSlot.entries[c.resourceId] = entry;
+    }
+  }
+
+  // --- Liga-Dateien
+  for (const [lId, allCards] of leagueAll) {
+    const noBase = Object.fromEntries(
+      Object.entries(allCards).filter(
+        ([_, e]) => !BASE_VERSION_IDS.has(String(e.versionId))
+      )
+    );
+    const onlyBest = {};
+    for (const { entries } of leagueBest.get(lId).values())
+      Object.assign(onlyBest, entries);
+
+    await fs.writeFile(
+      `${L_OUT}/leagues-all/${lId}.json`,
+      JSON.stringify(allCards, null, 2)
+    );
+    await fs.writeFile(
+      `${L_OUT}/leagues-noBase/${lId}.json`,
+      JSON.stringify(noBase, null, 2)
+    );
+    await fs.writeFile(
+      `${L_OUT}/leagues-onlyBest/${lId}.json`,
+      JSON.stringify(onlyBest, null, 2)
+    );
+    leagueCounts[lId] = {
+      all: Object.keys(allCards).length,
+      nobase: Object.keys(noBase).length,
+      onlybest: Object.keys(onlyBest).length,
+    };
+  }
+
+  // --- Club-Dateien (inkl. Namen)
+  for (const [clId, allCards] of clubAll) {
+    const clubName = clubNames.get(clId) ?? "";
+    const noBase = Object.fromEntries(
+      Object.entries(allCards).filter(
+        ([_, e]) => !BASE_VERSION_IDS.has(String(e.versionId))
+      )
+    );
+    const onlyBest = {};
+    for (const { entries } of (clubBest.get(clId) ?? new Map()).values())
+      Object.assign(onlyBest, entries);
+
+    await writeClubFile(`${C_OUT}/clubs-all`, clId, clubName, allCards);
+    await writeClubFile(`${C_OUT}/clubs-noBase`, clId, clubName, noBase);
+    await writeClubFile(`${C_OUT}/clubs-onlyBest`, clId, clubName, onlyBest);
+    clubCounts.get(clId).onlybest = Object.keys(onlyBest).length; // final count
+  }
+
+  // --- League-Index mit Club-Counts
+  const clubsByLeague = new Map();
+  for (const cl of manager.clubs ?? []) {
+    const lid = cl.league;
+    if (!lid) continue;
+    (clubsByLeague.get(lid) ?? clubsByLeague.set(lid, []).get(lid)).push(cl.id);
+  }
+  const leaguesMeta = (manager.leagues ?? []).map((l) => ({
+    id: l.id,
+    name: l.name ?? null,
+    betterName: BETTER_NAMES[l.name] ?? null,
+    abbrName: l.abbrName ?? null,
+    isWomen: l.isWomen ?? null,
+    cId: (COUNTRYID_FOR_LEAGUEID[l.id] ?? {}).lid ?? null,
+    sortId: (COUNTRYID_FOR_LEAGUEID[l.id] ?? {}).sortId ?? null,
+    counts: leagueCounts[l.id] ?? { all: 0, nobase: 0, onlybest: 0 },
+    clubIds: (clubsByLeague.get(l.id) ?? []).map((cid) => ({
+      id: cid,
+      name: clubNames.get(String(cid)) ?? "",
+      counts: clubCounts.get(String(cid)) ?? { all: 0, nobase: 0, onlybest: 0 },
+    })),
+  }));
+  await fs.writeFile(INDEX_FILE, JSON.stringify(leaguesMeta, null, 2));
 }
-main();
+
+main().catch((e) => {
+  console.error(e);
+  process.exit(1);
+});
