@@ -1,0 +1,44 @@
+name: Build all Files
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Workflow gestartet
+        run: echo "Workflow gestartet"
+
+      - name: Repository klonen
+        uses: actions/checkout@v4
+
+      - name: Node.js einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install (if needed)
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm i --no-fund --no-audit
+          fi
+
+      - name: Run fetch + build (npm run all)
+        run: npm run all
+
+      - name: Änderungen committen
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore(db): auto-update ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
+          git push
+
+      - name: Update erfolgreich beendet
+        run: echo "Update erfolgreich beendet"
+
+      

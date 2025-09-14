@@ -168,11 +168,13 @@ async function main() {
     const deName = enName ? translateCountryNameToGerman(enName) : null;
 
     countriesCounts[countryId] = {
-      all: Object.keys(mappingAll).length,
-      nobase: Object.keys(mappingNoBase).length,
-      onlybest: Object.keys(mappingOnlyBest).length,
+      c: {
+        all: Object.keys(mappingAll).length,
+        nobase: Object.keys(mappingNoBase).length,
+        onlybest: Object.keys(mappingOnlyBest).length,
+      },
       name: enName,
-      abbrName: abbrName,
+      aName: abbrName,
       deName: deName,
     };
   }
