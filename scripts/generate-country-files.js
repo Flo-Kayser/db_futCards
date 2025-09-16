@@ -1,3 +1,4 @@
+// scripts/build-countries-index.js
 import fs from "fs/promises";
 import path from "path";
 import {
@@ -6,197 +7,153 @@ import {
   translateCountryNameToGerman,
 } from "./helpers/helperFunctions.js";
 import { assignSortIdsByGermanName } from "./helpers/sortingId.js";
-import { PICK_FIELDS, PREFERREDCOUNTRIES } from "./helpers/constantsHelper.js";
+import { PICK_FIELDS, PREFERREDCOUNTRIES,BASE_VERSION_IDS } from "./helpers/constantsHelper.js";
 
-const INPUT_ALL_CARDS = path.join("db", "core-data", "all-cards.json");
-const INPUT_COUNTRY_DATA = path.join(
-  "db",
-  "core-data",
-  "manager-fetched-data.json"
-);
-const INDEX_DIR = path.join("db", "index-data");
-const INDEX_FILE = path.join(INDEX_DIR, "countriesIndex.json");
-const OUT_DIR = path.join("db", "countries");
-const OUT_DIR_ALL = path.join(OUT_DIR, "countries-all");
-const OUT_DIR_NO_BASE = path.join(OUT_DIR, "countries-nobase");
-const OUT_DIR_ONLY_BEST = path.join(OUT_DIR, "countries-onlybest");
+const INPUT_ALL_CARDS   = path.join("db", "core-data", "all-cards.json");
+const INPUT_COUNTRYDATA = path.join("db", "core-data", "manager-fetched-data.json");
+const INDEX_DIR         = path.join("db", "index-data");
+const INDEX_FILE        = path.join(INDEX_DIR, "countriesIndex.json");
+const OUT_DIR           = path.join("db", "countries");
+const OUT_ALL           = path.join(OUT_DIR, "countries-all");
+const OUT_NOBASE        = path.join(OUT_DIR, "countries-noBase");
+const OUT_ONLYBEST      = path.join(OUT_DIR, "countries-onlyBest");
+const OUT_ONLYBESTSPEC  = path.join(OUT_DIR, "countries-onlyBestSpecial");
 
-const BASE_VERSION_IDS = new Set([
-  "2000",
-  "2001",
-  "2002",
-  "3000",
-  "3001",
-  "3002",
-]);
 
 async function loadCountriesMeta() {
-  const raw = await fs.readFile(INPUT_COUNTRY_DATA, "utf8");
-  const data = JSON.parse(raw);
-
-  if (
-    !data ||
-    typeof data !== "object" ||
-    !data.countries ||
-    typeof data.countries !== "object"
-  ) {
-    throw new Error(
-      "manager-fetched-data.json structure error { countries: { ... } }"
-    );
+  const data = JSON.parse(await fs.readFile(INPUT_COUNTRYDATA, "utf8"));
+  if (!Array.isArray(data?.countries)) {
+    throw new Error("manager-fetched-data.json muss { countries: [...] } enthalten");
   }
-
-  const result = new Map();
-  for (const meta of data.countries) {
-    const name = meta?.name ?? null;
-    const abbrName = meta?.abbrName ?? null;
-    const id = meta?.id ?? null;
-    result.set(String(id), { name, abbrName });
+  const map = new Map();
+  for (const c of data.countries) {
+    map.set(String(c.id), { name: c?.name ?? null, abbrName: c?.abbrName ?? null });
   }
-  return result;
+  return map;
 }
 
 async function main() {
   console.log("starting country file generation");
   console.time("genCountryFiles");
 
-  for (const dir of [
-    OUT_DIR,
-    OUT_DIR_ALL,
-    OUT_DIR_NO_BASE,
-    OUT_DIR_ONLY_BEST,
-  ]) {
-    await fs.rm(dir, { recursive: true, force: true });
-    await fs.mkdir(dir, { recursive: true });
+  // Ausgabeverzeichnisse leeren/erstellen
+  for (const d of [OUT_DIR, OUT_ALL, OUT_NOBASE, OUT_ONLYBEST, OUT_ONLYBESTSPEC]) {
+    await fs.rm(d, { recursive: true, force: true });
+    await fs.mkdir(d, { recursive: true });
   }
 
-  const raw = await fs.readFile(INPUT_ALL_CARDS, "utf8");
-  const cards = JSON.parse(raw);
+  const cards = JSON.parse(await fs.readFile(INPUT_ALL_CARDS, "utf8"));
   if (!Array.isArray(cards)) throw new Error("Invalid all-cards.json");
 
   const countryMeta = await loadCountriesMeta();
 
-  const countryMapAll = new Map();
-  const countryMapOnlyBest = new Map();
+  const countryAll  = new Map(); // countryId -> {resourceId: entry}
+  const countryBest = new Map(); // countryId -> Map<assetId, {maxRating, entries}>
 
-  for (const card of cards) {
-    if (!card) continue;
+  for (const c of cards) {
+    if (!c) continue;
 
-    const countryId = String(card.countryId ?? "");
-    const assetId = String(card.assetId ?? "");
-    const resourceId = String(card.resourceId ?? "");
-    const originalVersionId = String(card.versionId ?? "");
-    const effectiveVersionId = remapVersionId(originalVersionId, card.rating);
-    const rating = Number(card.rating ?? 0);
+    const countryId = String(c.countryId ?? "");
+    const assetId   = String(c.assetId ?? "");
+    const rid       = String(c.resourceId ?? "");
+    const vIdOrig   = String(c.versionId ?? "");
+    const vId       = remapVersionId(vIdOrig, c.rating);
+    const rating    = Number(c.rating ?? 0);
 
-    if (!countryId || !assetId || !resourceId || !effectiveVersionId) continue;
+    if (!countryId || !assetId || !rid || !vId) continue;
 
     const entry = {
-      name: card.name,
-      cardName: card.cardName,
-      originalVersionId,
-      ...pick(card, PICK_FIELDS),
+      name: c.name,
+      cardName: c.cardName,
+      originalVersionId: vIdOrig,
+      ...pick(c, PICK_FIELDS),
+      versionId: vId,
     };
-    entry.versionId = effectiveVersionId;
 
-    if (!countryMapAll.has(countryId)) countryMapAll.set(countryId, {});
-    countryMapAll.get(countryId)[resourceId] = entry;
+    if (!countryAll.has(countryId)) countryAll.set(countryId, {});
+    countryAll.get(countryId)[rid] = entry;
 
-    if (!countryMapOnlyBest.has(countryId))
-      countryMapOnlyBest.set(countryId, new Map());
-    const perAsset = countryMapOnlyBest.get(countryId);
+    if (!countryBest.has(countryId)) countryBest.set(countryId, new Map());
+    const perAsset = countryBest.get(countryId);
     const slot = perAsset.get(assetId);
 
-    if (!slot || rating > slot.maxRating) {
-      perAsset.set(assetId, {
-        maxRating: rating,
-        entries: { [resourceId]: entry },
-      });
+    if (!slot) {
+      perAsset.set(assetId, { maxRating: rating, entries: { [rid]: entry } });
+    } else if (rating > slot.maxRating) {
+      perAsset.set(assetId, { maxRating: rating, entries: { [rid]: entry } });
     } else if (rating === slot.maxRating) {
-      slot.entries[resourceId] = entry;
+      slot.entries[rid] = entry;
     }
   }
-
-  let writtenAll = 0;
-  let writtenNoBase = 0;
-  let writtenOnlyBest = 0;
 
   const countriesCounts = {};
 
-  for (const [countryId, mappingAll] of countryMapAll.entries()) {
-    // mapping all cards
-    const fileAll = path.join(OUT_DIR_ALL, `${countryId}.json`);
-    await fs.writeFile(fileAll, JSON.stringify(mappingAll, null, 2), "utf8");
-    writtenAll++;
+  for (const [cid, allMap] of countryAll) {
+    // all
+    await fs.writeFile(path.join(OUT_ALL, `${cid}.json`),
+      JSON.stringify(allMap, null, 2), "utf8");
 
-    // mapping all cards without base cards
-    const mappingNoBase = {};
-    for (const [resourceId, entry] of Object.entries(mappingAll)) {
-      const vId = String(entry.versionId ?? "");
-      if (!BASE_VERSION_IDS.has(vId)) {
-        mappingNoBase[resourceId] = entry;
-      }
-    }
-    const fileNoBase = path.join(OUT_DIR_NO_BASE, `${countryId}.json`);
-    await fs.writeFile(
-      fileNoBase,
-      JSON.stringify(mappingNoBase, null, 2),
-      "utf8"
+    // noBase
+    const noBase = Object.fromEntries(
+      Object.entries(allMap).filter(([_, e]) => !BASE_VERSION_IDS.has(String(e.versionId)))
     );
-    writtenNoBase++;
+    await fs.writeFile(path.join(OUT_NOBASE, `${cid}.json`),
+      JSON.stringify(noBase, null, 2), "utf8");
 
-    // mapping only the best card from the players
-    const perAsset = countryMapOnlyBest.get(countryId) ?? new Map();
-    const mappingOnlyBest = {};
+    // onlyBest & onlyBestSpecial
+    const onlyBest        = {};
+    const onlyBestSpecial = {};
+    const perAsset = countryBest.get(cid) ?? new Map();
+
     for (const { entries } of perAsset.values()) {
-      for (const [resourceId, entry] of Object.entries(entries)) {
-        mappingOnlyBest[resourceId] = entry;
+      for (const [rid, e] of Object.entries(entries)) {
+        onlyBest[rid] = e;
+        // ➜ onlyBestSpecial: beste Karte **und** ihre eigene Version ist KEINE Base-Version
+        if (!BASE_VERSION_IDS.has(String(e.versionId))) {
+          onlyBestSpecial[rid] = e;
+        }
       }
     }
-    const fileOnlyBest = path.join(OUT_DIR_ONLY_BEST, `${countryId}.json`);
-    await fs.writeFile(
-      fileOnlyBest,
-      JSON.stringify(mappingOnlyBest, null, 2),
-      "utf8"
-    );
-    writtenOnlyBest++;
 
-    // meta daten
-    const meta = countryMeta.get(countryId) ?? {};
+    await fs.writeFile(path.join(OUT_ONLYBEST, `${cid}.json`),
+      JSON.stringify(onlyBest, null, 2), "utf8");
+    await fs.writeFile(path.join(OUT_ONLYBESTSPEC, `${cid}.json`),
+      JSON.stringify(onlyBestSpecial, null, 2), "utf8");
 
-    const enName = meta?.name ?? null;
-    const abbrName = meta?.abbrName ?? null;
+    // Meta
+    const meta = countryMeta.get(cid) ?? {};
+    const enName = meta.name ?? null;
     const deName = enName ? translateCountryNameToGerman(enName) : null;
 
-    countriesCounts[countryId] = {
+    countriesCounts[cid] = {
       c: {
-        all: Object.keys(mappingAll).length,
-        nobase: Object.keys(mappingNoBase).length,
-        onlybest: Object.keys(mappingOnlyBest).length,
+        all: Object.keys(allMap).length,
+        nobase: Object.keys(noBase).length,
+        onlybest: Object.keys(onlyBest).length,
+        onlybestSpecial: Object.keys(onlyBestSpecial).length,
       },
       name: enName,
-      aName: abbrName,
-      deName: deName,
+      aName: meta.abbrName ?? null,
+      deName,
     };
   }
 
-  const countriesCountsWithSort = assignSortIdsByGermanName(
-    countriesCounts,
-    PREFERREDCOUNTRIES
+  const sorted = assignSortIdsByGermanName(countriesCounts, PREFERREDCOUNTRIES);
+  const ids = Object.keys(sorted).sort((a, b) => Number(a) - Number(b));
+
+  await fs.writeFile(
+    INDEX_FILE,
+    JSON.stringify({
+      totalCountries: ids.length,
+      countries: Object.fromEntries(ids.map((id) => [id, sorted[id]])),
+    }, null, 2),
+    "utf8"
   );
 
-  const ids = Object.keys(countriesCountsWithSort).sort(
-    (a, b) => Number(a) - Number(b)
-  );
-
-  const indexPayload = {
-    totalCountries: ids.length,
-    countries: Object.fromEntries(
-      ids.map((id) => [id, countriesCountsWithSort[id]])
-    ),
-  };
-
-  await fs.writeFile(INDEX_FILE, JSON.stringify(indexPayload, null, 2), "utf8");
+  console.timeEnd("genCountryFiles");
+  console.log(`✔ countriesIndex.json geschrieben (${ids.length} Länder)`);
 }
+
 main().catch((err) => {
   console.error(err);
   process.exit(1);
