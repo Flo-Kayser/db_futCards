@@ -48,20 +48,26 @@ async function buildHeroClubs() {
   for (const [leagueId, cards] of Object.entries(heroesByLeague)) {
     // alle Varianten picken
     const all = cards.map((c) => ({
-    ...pick(c, PICK_FIELDS),
-    name: c.name,
-    cardName: c.cardName
-  }));
+      ...pick(c, PICK_FIELDS),
+      assetId: c.assetId, // <— neu
+      rating: Number(c.rating),
+      versionId: String(c.versionId),
+      name: c.name,
+      cardName: c.cardName,
+    }));
+
     const noBase = all.filter(
       (c) => !BASE_VERSION_IDS.has(String(c.versionId))
     );
     const best = Object.values(
       all.reduce((acc, c) => {
-        const key = c.resourceId;
+        const key = String(c.assetId ?? c.resourceId);
+        if (!key) return acc;
         if (!acc[key] || acc[key].rating < c.rating) acc[key] = c;
         return acc;
       }, {})
     );
+
     const bestSpecial = best.filter(
       (c) => !BASE_VERSION_IDS.has(String(c.versionId))
     );
