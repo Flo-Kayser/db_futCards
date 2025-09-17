@@ -47,7 +47,11 @@ async function buildHeroClubs() {
 
   for (const [leagueId, cards] of Object.entries(heroesByLeague)) {
     // alle Varianten picken
-    const all = cards.map((c) => pick(c, PICK_FIELDS));
+    const all = cards.map((c) => ({
+    ...pick(c, PICK_FIELDS),
+    name: c.name,
+    cardName: c.cardName
+  }));
     const noBase = all.filter(
       (c) => !BASE_VERSION_IDS.has(String(c.versionId))
     );
