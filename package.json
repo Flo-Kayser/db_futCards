@@ -13,9 +13,11 @@
     "build:ResourceMap": "node scripts/build-resource-map.js",
 
     "build:all": "npm run build:PlayerFiles && npm run build:VersionFiles && npm run build:VersionIndex && npm run build:LeagueFiles && npm run build:CountryFiles && npm run build:ClubFiles && npm run build:HeroFiles && npm run build:ResourceMap",
+
+    "fetch:AllCards": "node scripts/fetch-all-cards.js",
     "fetch:VersionData": "node scripts/fetch-version-data.js",
     "fetch:ManagerData": "node scripts/fetch-manager-data.js",
-    "fetch:all": "npm run fetch:VersionData && npm run fetch:ManagerData",
+    "fetch:all": "npm run fetch:AllCards && npm run fetch:VersionData && npm run fetch:ManagerData",
     "all": "npm run fetch:all && npm run build:all"
   },
   "devDependencies": {},

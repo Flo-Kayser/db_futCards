@@ -1,7 +1,7 @@
 import fs from "fs/promises";
 import path from "path";
 
-const SOURCE_URL = "https://api.easysbc.io/players/version-assets";
+const SOURCE_URL = "https://api-fc26.easysbc.io/players/version-assets";
 const OUT_FILE = path.join("db", "core-data", "versions-fetched-data.json");
 
 async function main() {

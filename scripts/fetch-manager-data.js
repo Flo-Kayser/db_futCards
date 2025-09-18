@@ -1,7 +1,7 @@
 import fs from "fs/promises";
 import path from "path";
 
-const SOURCE_URL = "https://api.easysbc.io/squad-builder/manager-data";
+const SOURCE_URL = "https://api-fc26.easysbc.io/squad-builder/manager-data";
 const OUT_FILE = path.join("db", "core-data", "manager-fetched-data.json");
 
 async function main() {
