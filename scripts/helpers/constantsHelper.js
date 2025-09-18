@@ -21,7 +21,8 @@ export const PICK_FIELDS = [
   "sbcPrice",
   "price",
 
-  "resourceId"
+  "resourceId",
+  "assetId"
 ];
 
 export const EN_TO_DE_COUNTRIES = {
