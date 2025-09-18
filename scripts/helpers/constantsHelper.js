@@ -20,6 +20,8 @@ export const PICK_FIELDS = [
   "hasDynamicImage",
   "sbcPrice",
   "price",
+
+  "resourceId"
 ];
 
 export const EN_TO_DE_COUNTRIES = {
@@ -285,6 +287,7 @@ export const COUNTRYID_FOR_LEAGUEID = {
   2233: { cId: 42, sortId: 32 },
   2236: { cId: 27, sortId: 18 },
   2244: { cId: 5, sortId: 57 },
+  2249: { cId:55, sortId: 58 },
 };
 
 export const BASE_VERSION_IDS = new Set([
