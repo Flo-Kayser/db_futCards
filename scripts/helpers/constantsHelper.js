@@ -254,7 +254,7 @@ export const COUNTRYID_FOR_LEAGUEID = {
   66: { cId: 37, sortId: 28 },
   68: { cId: 48, sortId: 26 },
   80: { cId: 4, sortId: 5 },
-  83: { cId: 166, sortId: 43 },
+  83: { cId: 167, sortId: 43 },
   189: { cId: 47, sortId: 6 },
   308: { cId: 38, sortId: 27 },
   317: { cId: 10, sortId: 38 },
