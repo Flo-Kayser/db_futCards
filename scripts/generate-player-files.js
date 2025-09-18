@@ -57,7 +57,7 @@ async function main() {
     const rawVersionId = cardVersionData.versionId ?? card.versionId;
     const mappedVersionId = remapVersionId(
       rawVersionId,
-      card.cardVersionLevel ?? card.cardLevel ?? card.versionLevel ?? card.level ?? null
+      card.rating
     );
 
     cardVersionData.versionId = mappedVersionId;
