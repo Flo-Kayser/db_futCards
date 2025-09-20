@@ -6,6 +6,7 @@ export const PICK_FIELDS = [
 
   "rating",
   "preferredFoot",
+  "weakFoot",
   "skillMoves",
   "preferredPosition",
   "possiblePositions",
