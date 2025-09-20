@@ -1,0 +1,875 @@
+{
+  "clubName": "Real Sociedad",
+  "players": {
+    "70796": {
+      "name": "Alazne Estensoro",
+      "cardName": "Alazne Estensoro",
+      "originalVersionId": "0",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "rolesPlusPlus": [
+        1
+      ],
+      "attributes": [
+        60,
+        58,
+        58,
+        60,
+        22,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 70796,
+      "assetId": 70796
+    },
+    "72783": {
+      "name": "Intza Eguiguren",
+      "cardName": "Intza Eguiguren",
+      "originalVersionId": "0",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31
+      ],
+      "rolesPlusPlus": [
+        31
+      ],
+      "attributes": [
+        65,
+        58,
+        62,
+        60,
+        38,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 72783,
+      "assetId": 72783
+    },
+    "227359": {
+      "name": "Claire Lavogez",
+      "cardName": "Lavogez",
+      "originalVersionId": "0",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        32,
+        43
+      ],
+      "rolesPlusPlus": [
+        21,
+        32,
+        43
+      ],
+      "attributes": [
+        73,
+        75,
+        76,
+        74,
+        51,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 227359,
+      "assetId": 227359
+    },
+    "256302": {
+      "name": "Ainhoa Moraza",
+      "cardName": "Ainhoa Moraza",
+      "originalVersionId": "0",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB"
+      ],
+      "playStyles": [
+        14,
+        15,
+        16,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        47,
+        146
+      ],
+      "rolesPlusPlus": [
+        5,
+        47,
+        146
+      ],
+      "attributes": [
+        80,
+        45,
+        67,
+        66,
+        77,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 600,
+      "resourceId": 256302,
+      "assetId": 256302
+    },
+    "259334": {
+      "name": "Nerea Eizagirre",
+      "cardName": "Nerea Eizagirre",
+      "originalVersionId": "1",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        13,
+        22,
+        3,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        30,
+        38
+      ],
+      "rolesPlusPlus": [
+        22,
+        30,
+        38
+      ],
+      "attributes": [
+        79,
+        83,
+        78,
+        82,
+        62,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 259334,
+      "assetId": 259334
+    },
+    "261843": {
+      "name": "Andreia Jacinto",
+      "cardName": "Andreia Jacinto",
+      "originalVersionId": "0",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 38,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        13,
+        17,
+        19,
+        24,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        18,
+        20
+      ],
+      "rolesPlusPlus": [
+        15,
+        18,
+        20
+      ],
+      "attributes": [
+        74,
+        65,
+        78,
+        77,
+        65,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 261843,
+      "assetId": 261843
+    },
+    "268948": {
+      "name": "María Molina",
+      "cardName": "María Molina",
+      "originalVersionId": "1",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16,
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "rolesPlusPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        66,
+        44,
+        61,
+        64,
+        74,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 1400,
+      "resourceId": 268948,
+      "assetId": 268948
+    },
+    "268993": {
+      "name": "Lucía Rodríguez",
+      "cardName": "Lucía Rodríguez",
+      "originalVersionId": "0",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        8,
+        13
+      ],
+      "rolesPlusPlus": [
+        4,
+        8,
+        13
+      ],
+      "attributes": [
+        76,
+        52,
+        74,
+        75,
+        73,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 268993,
+      "assetId": 268993
+    },
+    "268995": {
+      "name": "Claudia Florentino",
+      "cardName": "Claudia Florentino",
+      "originalVersionId": "0",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        17,
+        18,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        14,
+        19
+      ],
+      "rolesPlusPlus": [
+        11,
+        14,
+        19
+      ],
+      "attributes": [
+        63,
+        35,
+        59,
+        67,
+        72,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 1200,
+      "resourceId": 268995,
+      "assetId": 268995
+    },
+    "271443": {
+      "name": "Emma Ramírez",
+      "cardName": "Emma Ramírez",
+      "originalVersionId": "0",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        26,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5
+      ],
+      "rolesPlusPlus": [
+        5
+      ],
+      "attributes": [
+        70,
+        55,
+        71,
+        70,
+        74,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 600,
+      "resourceId": 271443,
+      "assetId": 271443
+    },
+    "272007": {
+      "name": "Paula Fernández",
+      "cardName": "Paula Fernández",
+      "originalVersionId": "1",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3002",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        16,
+        17,
+        22,
+        24,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        19
+      ],
+      "rolesPlusPlus": [
+        15,
+        19
+      ],
+      "attributes": [
+        77,
+        70,
+        78,
+        79,
+        78,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 272007,
+      "assetId": 272007
+    },
+    "272025": {
+      "name": "Violeta Quiles",
+      "cardName": "Violeta Quiles",
+      "originalVersionId": "0",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        27,
+        28
+      ],
+      "rolesPlusPlus": [
+        10,
+        27,
+        28
+      ],
+      "attributes": [
+        78,
+        65,
+        68,
+        73,
+        66,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 1200,
+      "resourceId": 272025,
+      "assetId": 272025
+    },
+    "272048": {
+      "name": "Arola Aparicio",
+      "cardName": "Arola Aparicio",
+      "originalVersionId": "0",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        36
+      ],
+      "rolesPlusPlus": [
+        23,
+        36
+      ],
+      "attributes": [
+        83,
+        65,
+        67,
+        73,
+        63,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 1300,
+      "resourceId": 272048,
+      "assetId": 272048
+    },
+    "272054": {
+      "name": "Klára Cahynová",
+      "cardName": "Cahynová",
+      "originalVersionId": "0",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 12,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        17,
+        19,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        14,
+        17,
+        18
+      ],
+      "rolesPlusPlus": [
+        13,
+        14,
+        17,
+        18
+      ],
+      "attributes": [
+        61,
+        37,
+        71,
+        72,
+        77,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 272054,
+      "assetId": 272054
+    },
+    "272073": {
+      "name": "Lucía Pardo",
+      "cardName": "Lucía Pardo",
+      "originalVersionId": "1",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        33,
+        41,
+        43
+      ],
+      "rolesPlusPlus": [
+        33,
+        41,
+        43
+      ],
+      "attributes": [
+        84,
+        74,
+        71,
+        77,
+        38,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 1600,
+      "resourceId": 272073,
+      "assetId": 272073
+    },
+    "272199": {
+      "name": "Mirari Uria",
+      "cardName": "Mirari Uria",
+      "originalVersionId": "1",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        35,
+        42
+      ],
+      "rolesPlusPlus": [
+        35,
+        42
+      ],
+      "attributes": [
+        70,
+        71,
+        70,
+        71,
+        45,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 272199,
+      "assetId": 272199
+    },
+    "272200": {
+      "name": "Cecilia Marcos",
+      "cardName": "Cecilia Marcos",
+      "originalVersionId": "0",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        35,
+        38,
+        40
+      ],
+      "rolesPlusPlus": [
+        10,
+        35,
+        38,
+        40
+      ],
+      "attributes": [
+        73,
+        66,
+        69,
+        75,
+        54,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 2000,
+      "resourceId": 272200,
+      "assetId": 272200
+    },
+    "276711": {
+      "name": "Nahia Aparicio",
+      "cardName": "Nahia Aparicio",
+      "originalVersionId": "0",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13,
+        48
+      ],
+      "rolesPlusPlus": [
+        11,
+        13,
+        48
+      ],
+      "attributes": [
+        64,
+        39,
+        65,
+        61,
+        75,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 800,
+      "resourceId": 276711,
+      "assetId": 276711
+    },
+    "277452": {
+      "name": "Edna Imade",
+      "cardName": "Imade",
+      "originalVersionId": "0",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 133,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        19,
+        29,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "rolesPlusPlus": [
+        41
+      ],
+      "attributes": [
+        76,
+        81,
+        64,
+        74,
+        45,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 600,
+      "resourceId": 277452,
+      "assetId": 277452
+    },
+    "279191": {
+      "name": "Elene Guridi",
+      "cardName": "Elene Guridi",
+      "originalVersionId": "0",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "rolesPlusPlus": [
+        18
+      ],
+      "attributes": [
+        55,
+        56,
+        62,
+        57,
+        54,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 279191,
+      "assetId": 279191
+    }
+  }
+}
