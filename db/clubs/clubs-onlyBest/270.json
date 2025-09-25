@@ -302,7 +302,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 200209,
       "assetId": 200209
     },
@@ -347,7 +347,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 650,
       "resourceId": 213835,
       "assetId": 213835
     },
@@ -393,7 +393,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 216286,
       "assetId": 216286
     },
@@ -435,56 +435,9 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 236875,
       "assetId": 236875
-    },
-    "243666": {
-      "name": "Callum McCowatt",
-      "cardName": "McCowatt",
-      "originalVersionId": "0",
-      "clubId": 270,
-      "leagueId": 1,
-      "countryId": 198,
-      "versionId": "2001",
-      "rating": 67,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LW",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        2
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        31,
-        33,
-        39
-      ],
-      "rolesPlusPlus": [
-        31,
-        33,
-        39
-      ],
-      "attributes": [
-        76,
-        67,
-        65,
-        67,
-        52,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 600,
-      "resourceId": 243666,
-      "assetId": 243666
     },
     "243891": {
       "name": "Mads Larsen",
@@ -526,7 +479,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 243891,
       "assetId": 243891
     },
@@ -568,7 +521,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 247658,
       "assetId": 247658
     },
@@ -652,7 +605,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 252737,
       "assetId": 252737
     },
@@ -731,7 +684,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 257036,
       "assetId": 257036
     },
@@ -819,7 +772,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 262538,
       "assetId": 262538
     },
@@ -934,7 +887,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 266890,
       "assetId": 266890
     },
@@ -1017,7 +970,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 271320,
       "assetId": 271320
     },
@@ -1096,6 +1049,56 @@
       "price": 200,
       "resourceId": 275332,
       "assetId": 275332
+    },
+    "50575314": {
+      "name": "Callum McCowatt",
+      "cardName": "McCowatt",
+      "originalVersionId": "3",
+      "clubId": 270,
+      "leagueId": 1,
+      "countryId": 198,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        2,
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31,
+        33,
+        39,
+        132
+      ],
+      "rolesPlusPlus": [
+        31,
+        33,
+        39,
+        132
+      ],
+      "attributes": [
+        86,
+        80,
+        79,
+        81,
+        66,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 10000,
+      "resourceId": 50575314,
+      "assetId": 243666
     }
   }
 }
