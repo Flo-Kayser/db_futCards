@@ -39,8 +39,8 @@
       83,
       82
     ],
-    "hasDynamicImage": true,
-    "price": 282000,
+    "hasDynamicImage": false,
+    "price": 308000,
     "resourceId": 5454,
     "assetId": 5454
   },
@@ -91,8 +91,8 @@
       78,
       80
     ],
-    "hasDynamicImage": true,
-    "price": 674000,
+    "hasDynamicImage": false,
+    "price": 710000,
     "resourceId": 28765,
     "assetId": 28765
   },
@@ -134,8 +134,8 @@
       43,
       83
     ],
-    "hasDynamicImage": true,
-    "price": 120000,
+    "hasDynamicImage": false,
+    "price": 101000,
     "resourceId": 150418,
     "assetId": 150418
   },
@@ -182,8 +182,8 @@
       47,
       85
     ],
-    "hasDynamicImage": true,
-    "price": 650000,
+    "hasDynamicImage": false,
+    "price": 629000,
     "resourceId": 166676,
     "assetId": 166676
   },
@@ -229,7 +229,7 @@
       91,
       90
     ],
-    "hasDynamicImage": true,
+    "hasDynamicImage": false,
     "price": 103000,
     "resourceId": 261593,
     "assetId": 261593
@@ -276,8 +276,8 @@
       41,
       83
     ],
-    "hasDynamicImage": true,
-    "price": 385000,
+    "hasDynamicImage": false,
+    "price": 315000,
     "resourceId": 269603,
     "assetId": 269603
   },
@@ -322,7 +322,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 168000,
+    "price": 154000,
     "resourceId": 50533774,
     "assetId": 202126
   },
@@ -370,7 +370,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 16000,
     "resourceId": 50541683,
     "assetId": 210035
   },
@@ -417,7 +417,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 10500,
+    "price": 10250,
     "resourceId": 50557280,
     "assetId": 225632
   },
@@ -461,9 +461,60 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 27000,
+    "price": 20500,
     "resourceId": 50568351,
     "assetId": 236703
+  },
+  "50572732": {
+    "name": "Luis Díaz",
+    "cardName": "Díaz",
+    "originalVersionId": "150",
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 56,
+    "versionId": "150",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      13,
+      20,
+      25,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      29,
+      40,
+      43,
+      130,
+      139
+    ],
+    "rolesPlusPlus": [
+      29,
+      40,
+      43,
+      130,
+      139
+    ],
+    "attributes": [
+      90,
+      82,
+      80,
+      88,
+      47,
+      77
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50572732,
+    "assetId": 241084
   },
   "50582603": {
     "name": "Josip Stanišić",
@@ -512,6 +563,61 @@
     "resourceId": 50582603,
     "assetId": 250955
   },
+  "50588501": {
+    "name": "Malik Tillman",
+    "cardName": "Tillman",
+    "originalVersionId": "150",
+    "clubId": 32,
+    "leagueId": 19,
+    "countryId": 95,
+    "versionId": "150",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LW"
+    ],
+    "playStyles": [
+      13,
+      2,
+      20,
+      22,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      18,
+      32,
+      33,
+      40,
+      121,
+      131
+    ],
+    "rolesPlusPlus": [
+      18,
+      32,
+      33,
+      40,
+      121,
+      131
+    ],
+    "attributes": [
+      86,
+      80,
+      80,
+      85,
+      70,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 100000,
+    "resourceId": 50588501,
+    "assetId": 256853
+  },
   "50591004": {
     "name": "Carney Chukwuemeka",
     "cardName": "Chukwuemeka",
@@ -555,7 +661,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 19200,
+    "sbcPrice": 19000,
     "resourceId": 50591004,
     "assetId": 259356
   },

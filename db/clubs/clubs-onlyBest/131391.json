@@ -35,7 +35,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 2200,
       "resourceId": 72223,
       "assetId": 72223
     },
@@ -72,7 +72,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 72366,
       "assetId": 72366
     },
@@ -111,7 +111,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 550,
       "resourceId": 74395,
       "assetId": 74395
     },
@@ -150,7 +150,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 400,
       "resourceId": 245825,
       "assetId": 245825
     },
@@ -195,7 +195,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 350,
       "resourceId": 272032,
       "assetId": 272032
     },
@@ -240,7 +240,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 272270,
       "assetId": 272270
     },
@@ -279,7 +279,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 250,
       "resourceId": 275574,
       "assetId": 275574
     },
@@ -316,7 +316,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 200,
       "resourceId": 275761,
       "assetId": 275761
     },
@@ -356,7 +356,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 400,
       "resourceId": 275765,
       "assetId": 275765
     },
@@ -401,7 +401,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 400,
       "resourceId": 275768,
       "assetId": 275768
     },
@@ -443,52 +443,6 @@
       "price": 0,
       "resourceId": 275770,
       "assetId": 275770
-    },
-    "275784": {
-      "name": "Lauri",
-      "cardName": "Lauri",
-      "originalVersionId": "1",
-      "clubId": 131391,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "ST"
-      ],
-      "playStyles": [
-        26,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        28,
-        32,
-        43
-      ],
-      "rolesPlusPlus": [
-        28,
-        32,
-        43
-      ],
-      "attributes": [
-        75,
-        72,
-        72,
-        75,
-        42,
-        72
-      ],
-      "hasDynamicImage": false,
-      "price": 1100,
-      "resourceId": 275784,
-      "assetId": 275784
     },
     "275787": {
       "name": "Laura Pérez",
@@ -533,7 +487,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 450,
       "resourceId": 275787,
       "assetId": 275787
     },
@@ -616,7 +570,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 400,
       "resourceId": 277048,
       "assetId": 277048
     },
@@ -662,7 +616,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 350,
       "resourceId": 277073,
       "assetId": 277073
     },
@@ -699,9 +653,59 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 277116,
       "assetId": 277116
+    },
+    "50607432": {
+      "name": "Lauri",
+      "cardName": "Lauri",
+      "originalVersionId": "150",
+      "clubId": 131391,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "150",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        26,
+        4,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        28,
+        32,
+        41,
+        143
+      ],
+      "rolesPlusPlus": [
+        28,
+        32,
+        41,
+        143
+      ],
+      "attributes": [
+        84,
+        82,
+        81,
+        84,
+        55,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 12750,
+      "resourceId": 50607432,
+      "assetId": 275784
     }
   }
 }

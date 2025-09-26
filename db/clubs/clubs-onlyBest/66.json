@@ -34,7 +34,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 700,
       "resourceId": 74883,
       "assetId": 74883
     },
@@ -108,7 +108,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 78145,
       "assetId": 78145
     },
@@ -235,59 +235,9 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 211256,
       "assetId": 211256
-    },
-    "219683": {
-      "name": "Corentin Tolisso",
-      "cardName": "Tolisso",
-      "originalVersionId": "1",
-      "clubId": 66,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "3002",
-      "rating": 81,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        19,
-        22,
-        26,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        21,
-        22,
-        118
-      ],
-      "rolesPlusPlus": [
-        16,
-        21,
-        22,
-        118
-      ],
-      "attributes": [
-        68,
-        78,
-        78,
-        76,
-        77,
-        79
-      ],
-      "hasDynamicImage": false,
-      "price": 900,
-      "resourceId": 219683,
-      "assetId": 219683
     },
     "225782": {
       "name": "Ainsley Maitland-Niles",
@@ -330,7 +280,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 225782,
       "assetId": 225782
     },
@@ -373,7 +323,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 225859,
       "assetId": 225859
     },
@@ -415,7 +365,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 234078,
       "assetId": 234078
     },
@@ -452,7 +402,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1000,
       "resourceId": 234371,
       "assetId": 234371
     },
@@ -532,7 +482,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 247050,
       "assetId": 247050
     },
@@ -623,7 +573,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 256104,
       "assetId": 256104
     },
@@ -668,7 +618,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 256420,
       "assetId": 256420
     },
@@ -754,7 +704,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 550,
       "resourceId": 262102,
       "assetId": 262102
     },
@@ -833,7 +783,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 550,
       "resourceId": 263815,
       "assetId": 263815
     },
@@ -875,7 +825,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 500,
       "resourceId": 265459,
       "assetId": 265459
     },
@@ -1034,7 +984,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 276747,
       "assetId": 276747
     },
@@ -1073,7 +1023,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 276901,
       "assetId": 276901
     },
@@ -1115,6 +1065,57 @@
       "resourceId": 278789,
       "assetId": 278789
     },
+    "50551331": {
+      "name": "Corentin Tolisso",
+      "cardName": "Tolisso",
+      "originalVersionId": "150",
+      "clubId": 66,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "150",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        19,
+        22,
+        26,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        19,
+        21,
+        22,
+        118
+      ],
+      "rolesPlusPlus": [
+        16,
+        19,
+        21,
+        22,
+        118
+      ],
+      "attributes": [
+        75,
+        81,
+        81,
+        80,
+        80,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50551331,
+      "assetId": 219683
+    },
     "50595973": {
       "name": "Martín Satriano",
       "cardName": "Satriano",
@@ -1151,7 +1152,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 450,
       "resourceId": 50595973,
       "assetId": 264325
     }

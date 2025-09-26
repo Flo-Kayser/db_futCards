@@ -38,8 +38,8 @@
       90,
       87
     ],
-    "hasDynamicImage": true,
-    "price": 490000,
+    "hasDynamicImage": false,
+    "price": 440000,
     "resourceId": 16619,
     "assetId": 16619
   },
@@ -86,8 +86,8 @@
       42,
       82
     ],
-    "hasDynamicImage": true,
-    "price": 407000,
+    "hasDynamicImage": false,
+    "price": 349000,
     "resourceId": 204550,
     "assetId": 204550
   },
@@ -130,8 +130,110 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 10500,
+    "price": 10000,
     "resourceId": 50518723,
     "assetId": 187075
+  },
+  "50534715": {
+    "name": "Diego Chará",
+    "cardName": "Chará",
+    "originalVersionId": "150",
+    "clubId": 111140,
+    "leagueId": 39,
+    "countryId": 56,
+    "versionId": "150",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      15,
+      18,
+      26,
+      28
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      11,
+      15,
+      18,
+      116,
+      120
+    ],
+    "rolesPlusPlus": [
+      11,
+      15,
+      18,
+      116,
+      120
+    ],
+    "attributes": [
+      75,
+      65,
+      73,
+      76,
+      80,
+      83
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50534715,
+    "assetId": 203067
+  },
+  "50572732": {
+    "name": "Luis Díaz",
+    "cardName": "Díaz",
+    "originalVersionId": "150",
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 56,
+    "versionId": "150",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      13,
+      20,
+      25,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      29,
+      40,
+      43,
+      130,
+      139
+    ],
+    "rolesPlusPlus": [
+      29,
+      40,
+      43,
+      130,
+      139
+    ],
+    "attributes": [
+      90,
+      82,
+      80,
+      88,
+      47,
+      77
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50572732,
+    "assetId": 241084
   }
 }

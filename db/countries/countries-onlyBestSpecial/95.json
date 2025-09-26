@@ -43,8 +43,8 @@
       46,
       70
     ],
-    "hasDynamicImage": true,
-    "price": 119000,
+    "hasDynamicImage": false,
+    "price": 110000,
     "resourceId": 7743,
     "assetId": 7743
   },
@@ -85,8 +85,8 @@
       54,
       84
     ],
-    "hasDynamicImage": true,
-    "price": 109000,
+    "hasDynamicImage": false,
+    "price": 105000,
     "resourceId": 16254,
     "assetId": 16254
   },
@@ -133,8 +133,8 @@
       73,
       74
     ],
-    "hasDynamicImage": true,
-    "price": 78500,
+    "hasDynamicImage": false,
+    "price": 73000,
     "resourceId": 39386,
     "assetId": 39386
   },
@@ -180,7 +180,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 500000,
+    "price": 479000,
     "resourceId": 71608,
     "assetId": 71608
   },
@@ -225,8 +225,8 @@
       47,
       80
     ],
-    "hasDynamicImage": true,
-    "price": 75000,
+    "hasDynamicImage": false,
+    "price": 52500,
     "resourceId": 155897,
     "assetId": 155897
   },
@@ -276,7 +276,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 5700000,
+    "price": 4130000,
     "resourceId": 226301,
     "assetId": 226301
   },
@@ -328,9 +328,99 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 8500000,
+    "price": 7100000,
     "resourceId": 275243,
     "assetId": 275243
+  },
+  "50496153": {
+    "name": "Brad Guzan",
+    "cardName": "Guzan",
+    "originalVersionId": "150",
+    "clubId": 112885,
+    "leagueId": 39,
+    "countryId": 95,
+    "versionId": "150",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      10,
+      30,
+      31,
+      35
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      1,
+      145
+    ],
+    "rolesPlusPlus": [
+      1,
+      145
+    ],
+    "attributes": [
+      84,
+      83,
+      81,
+      84,
+      55,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 15000,
+    "resourceId": 50496153,
+    "assetId": 164505
+  },
+  "50533726": {
+    "name": "Darlington Nagbe",
+    "cardName": "Nagbe",
+    "originalVersionId": "150",
+    "clubId": 687,
+    "leagueId": 39,
+    "countryId": 95,
+    "versionId": "150",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      20,
+      24,
+      26
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      15,
+      20,
+      118
+    ],
+    "rolesPlusPlus": [
+      15,
+      20,
+      118
+    ],
+    "attributes": [
+      80,
+      73,
+      80,
+      84,
+      71,
+      80
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50533726,
+    "assetId": 202078
   },
   "50559444": {
     "name": "Christian Pulisic",
@@ -383,7 +473,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 282000,
+    "price": 256000,
     "resourceId": 50559444,
     "assetId": 227796
   },
@@ -432,5 +522,60 @@
     "price": 0,
     "resourceId": 50573723,
     "assetId": 242075
+  },
+  "50588501": {
+    "name": "Malik Tillman",
+    "cardName": "Tillman",
+    "originalVersionId": "150",
+    "clubId": 32,
+    "leagueId": 19,
+    "countryId": 95,
+    "versionId": "150",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LW"
+    ],
+    "playStyles": [
+      13,
+      2,
+      20,
+      22,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      18,
+      32,
+      33,
+      40,
+      121,
+      131
+    ],
+    "rolesPlusPlus": [
+      18,
+      32,
+      33,
+      40,
+      121,
+      131
+    ],
+    "attributes": [
+      86,
+      80,
+      80,
+      85,
+      70,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 100000,
+    "resourceId": 50588501,
+    "assetId": 256853
   }
 }

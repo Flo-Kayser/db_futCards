@@ -43,8 +43,8 @@
       46,
       70
     ],
-    "hasDynamicImage": true,
-    "price": 119000,
+    "hasDynamicImage": false,
+    "price": 110000,
     "resourceId": 7743,
     "assetId": 7743
   },
@@ -91,8 +91,8 @@
       73,
       74
     ],
-    "hasDynamicImage": true,
-    "price": 78500,
+    "hasDynamicImage": false,
+    "price": 73000,
     "resourceId": 39386,
     "assetId": 39386
   },
@@ -137,8 +137,8 @@
       47,
       80
     ],
-    "hasDynamicImage": true,
-    "price": 75000,
+    "hasDynamicImage": false,
+    "price": 52500,
     "resourceId": 155897,
     "assetId": 155897
   },
@@ -178,10 +178,54 @@
       84,
       80
     ],
-    "hasDynamicImage": true,
-    "price": 35000,
+    "hasDynamicImage": false,
+    "price": 31750,
     "resourceId": 191694,
     "assetId": 191694
+  },
+  "50496153": {
+    "name": "Brad Guzan",
+    "cardName": "Guzan",
+    "originalVersionId": "150",
+    "clubId": 112885,
+    "leagueId": 39,
+    "countryId": 95,
+    "versionId": "150",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      10,
+      30,
+      31,
+      35
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      1,
+      145
+    ],
+    "rolesPlusPlus": [
+      1,
+      145
+    ],
+    "attributes": [
+      84,
+      83,
+      81,
+      84,
+      55,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 15000,
+    "resourceId": 50496153,
+    "assetId": 164505
   },
   "50521244": {
     "name": "Thomas Müller",
@@ -234,6 +278,103 @@
     "resourceId": 50521244,
     "assetId": 189596
   },
+  "50533726": {
+    "name": "Darlington Nagbe",
+    "cardName": "Nagbe",
+    "originalVersionId": "150",
+    "clubId": 687,
+    "leagueId": 39,
+    "countryId": 95,
+    "versionId": "150",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      20,
+      24,
+      26
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      15,
+      20,
+      118
+    ],
+    "rolesPlusPlus": [
+      15,
+      20,
+      118
+    ],
+    "attributes": [
+      80,
+      73,
+      80,
+      84,
+      71,
+      80
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50533726,
+    "assetId": 202078
+  },
+  "50534715": {
+    "name": "Diego Chará",
+    "cardName": "Chará",
+    "originalVersionId": "150",
+    "clubId": 111140,
+    "leagueId": 39,
+    "countryId": 56,
+    "versionId": "150",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      15,
+      18,
+      26,
+      28
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      11,
+      15,
+      18,
+      116,
+      120
+    ],
+    "rolesPlusPlus": [
+      11,
+      15,
+      18,
+      116,
+      120
+    ],
+    "attributes": [
+      75,
+      65,
+      73,
+      76,
+      80,
+      83
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50534715,
+    "assetId": 203067
+  },
   "50557599": {
     "name": "Denis Bouanga",
     "cardName": "Bouanga",
@@ -279,7 +420,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 11000,
     "resourceId": 50557599,
     "assetId": 225951
   },

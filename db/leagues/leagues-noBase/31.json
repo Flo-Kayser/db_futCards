@@ -41,7 +41,7 @@
       76
     ],
     "isObjective": true,
-    "hasDynamicImage": true,
+    "hasDynamicImage": false,
     "price": 0,
     "resourceId": 1025,
     "assetId": 1025
@@ -85,8 +85,8 @@
       90,
       87
     ],
-    "hasDynamicImage": true,
-    "price": 490000,
+    "hasDynamicImage": false,
+    "price": 440000,
     "resourceId": 16619,
     "assetId": 16619
   },
@@ -134,8 +134,8 @@
       46,
       70
     ],
-    "hasDynamicImage": true,
-    "price": 1689000,
+    "hasDynamicImage": false,
+    "price": 1636000,
     "resourceId": 120274,
     "assetId": 120274
   },
@@ -184,8 +184,8 @@
       83,
       85
     ],
-    "hasDynamicImage": true,
-    "price": 559000,
+    "hasDynamicImage": false,
+    "price": 540000,
     "resourceId": 135455,
     "assetId": 135455
   },
@@ -235,8 +235,8 @@
       41,
       70
     ],
-    "hasDynamicImage": true,
-    "price": 0,
+    "hasDynamicImage": false,
+    "price": 260000,
     "resourceId": 170733,
     "assetId": 170733
   },
@@ -284,8 +284,8 @@
       75,
       83
     ],
-    "hasDynamicImage": true,
-    "price": 695000,
+    "hasDynamicImage": false,
+    "price": 719000,
     "resourceId": 171877,
     "assetId": 171877
   },
@@ -336,8 +336,8 @@
       80,
       82
     ],
-    "hasDynamicImage": true,
-    "price": 506000,
+    "hasDynamicImage": false,
+    "price": 499000,
     "resourceId": 173210,
     "assetId": 173210
   },
@@ -378,8 +378,8 @@
       43,
       74
     ],
-    "hasDynamicImage": true,
-    "price": 0,
+    "hasDynamicImage": false,
+    "price": 439000,
     "resourceId": 188428,
     "assetId": 188428
   },
@@ -426,8 +426,8 @@
       42,
       82
     ],
-    "hasDynamicImage": true,
-    "price": 407000,
+    "hasDynamicImage": false,
+    "price": 349000,
     "resourceId": 204550,
     "assetId": 204550
   },
@@ -469,8 +469,8 @@
       42,
       79
     ],
-    "hasDynamicImage": true,
-    "price": 110000,
+    "hasDynamicImage": false,
+    "price": 103000,
     "resourceId": 233700,
     "assetId": 233700
   },
@@ -515,8 +515,8 @@
       62,
       65
     ],
-    "hasDynamicImage": true,
-    "price": 127000,
+    "hasDynamicImage": false,
+    "price": 106000,
     "resourceId": 242625,
     "assetId": 242625
   },
@@ -561,8 +561,8 @@
       43,
       80
     ],
-    "hasDynamicImage": true,
-    "price": 118000,
+    "hasDynamicImage": false,
+    "price": 97500,
     "resourceId": 262271,
     "assetId": 262271
   },
@@ -605,8 +605,8 @@
       91,
       89
     ],
-    "hasDynamicImage": true,
-    "price": 1215000,
+    "hasDynamicImage": false,
+    "price": 1498000,
     "resourceId": 266690,
     "assetId": 266690
   },
@@ -654,8 +654,8 @@
       59,
       69
     ],
-    "hasDynamicImage": true,
-    "price": 330000,
+    "hasDynamicImage": false,
+    "price": 296000,
     "resourceId": 266695,
     "assetId": 266695
   },
@@ -706,8 +706,8 @@
       53,
       75
     ],
-    "hasDynamicImage": true,
-    "price": 677000,
+    "hasDynamicImage": false,
+    "price": 550000,
     "resourceId": 274750,
     "assetId": 274750
   },
@@ -757,7 +757,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 32250,
+    "price": 27000,
     "resourceId": 50508651,
     "assetId": 177003
   },
@@ -802,7 +802,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 33300,
+    "sbcPrice": 32700,
     "resourceId": 50512578,
     "assetId": 180930
   },
@@ -843,9 +843,58 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 10500,
     "resourceId": 50548464,
     "assetId": 216816
+  },
+  "50549518": {
+    "name": "Giovanni Di Lorenzo",
+    "cardName": "Di Lorenzo",
+    "originalVersionId": "150",
+    "clubId": 48,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "150",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      10,
+      22,
+      26
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      5,
+      48,
+      104,
+      106
+    ],
+    "rolesPlusPlus": [
+      5,
+      48,
+      104,
+      106
+    ],
+    "attributes": [
+      86,
+      74,
+      76,
+      80,
+      82,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50549518,
+    "assetId": 217870
   },
   "50559444": {
     "name": "Christian Pulisic",
@@ -898,7 +947,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 282000,
+    "price": 256000,
     "resourceId": 50559444,
     "assetId": 227796
   },
@@ -946,9 +995,56 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 12250,
     "resourceId": 50559899,
     "assetId": 228251
+  },
+  "50561230": {
+    "name": "Gianluca Mancini",
+    "cardName": "Mancini",
+    "originalVersionId": "150",
+    "clubId": 52,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "150",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      16,
+      17,
+      28,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      13,
+      48,
+      111,
+      112
+    ],
+    "rolesPlusPlus": [
+      13,
+      48,
+      111,
+      112
+    ],
+    "attributes": [
+      73,
+      52,
+      60,
+      71,
+      87,
+      84
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50561230,
+    "assetId": 229582
   },
   "50564404": {
     "name": "Fikayo Tomori",
@@ -997,6 +1093,58 @@
     "price": 0,
     "resourceId": 50564404,
     "assetId": 232756
+  },
+  "50565204": {
+    "name": "Riccardo Orsolini",
+    "cardName": "Orsolini",
+    "originalVersionId": "150",
+    "clubId": 189,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "150",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      12,
+      20,
+      6,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      23,
+      26,
+      35,
+      36,
+      124
+    ],
+    "rolesPlusPlus": [
+      23,
+      26,
+      35,
+      36,
+      124
+    ],
+    "attributes": [
+      85,
+      85,
+      84,
+      86,
+      68,
+      75
+    ],
+    "hasDynamicImage": true,
+    "price": 57500,
+    "resourceId": 50565204,
+    "assetId": 233556
   },
   "50572327": {
     "name": "Teun Koopmeiners",
@@ -1093,7 +1241,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 62500,
+    "price": 59500,
     "resourceId": 50609602,
     "assetId": 277954
   }

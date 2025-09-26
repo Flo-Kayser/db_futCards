@@ -41,7 +41,7 @@
       76
     ],
     "isObjective": true,
-    "hasDynamicImage": true,
+    "hasDynamicImage": false,
     "price": 0,
     "resourceId": 1025,
     "assetId": 1025
@@ -87,8 +87,8 @@
       91,
       82
     ],
-    "hasDynamicImage": true,
-    "price": 238000,
+    "hasDynamicImage": false,
+    "price": 204000,
     "resourceId": 3622,
     "assetId": 3622
   },
@@ -142,7 +142,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 678000,
+    "price": 669000,
     "resourceId": 5589,
     "assetId": 5589
   },
@@ -191,8 +191,8 @@
       37,
       58
     ],
-    "hasDynamicImage": true,
-    "price": 670000,
+    "hasDynamicImage": false,
+    "price": 609000,
     "resourceId": 214101,
     "assetId": 214101
   },
@@ -237,9 +237,61 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 5000000,
+    "price": 4800000,
     "resourceId": 242519,
     "assetId": 242519
+  },
+  "50543846": {
+    "name": "Bruno Fernandes",
+    "cardName": "Bruno Fernandes",
+    "originalVersionId": "150",
+    "clubId": 11,
+    "leagueId": 13,
+    "countryId": 38,
+    "versionId": "150",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      11,
+      13,
+      3,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      26
+    ],
+    "rolesPlus": [
+      18,
+      32,
+      121,
+      131
+    ],
+    "rolesPlusPlus": [
+      18,
+      32,
+      121,
+      131
+    ],
+    "attributes": [
+      75,
+      84,
+      90,
+      85,
+      70,
+      77
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50543846,
+    "assetId": 212198
   },
   "50574092": {
     "name": "João Félix",
@@ -289,7 +341,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 161000,
+    "price": 119000,
     "resourceId": 50574092,
     "assetId": 242444
   },
@@ -332,7 +384,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 10500,
+    "price": 10250,
     "resourceId": 50605646,
     "assetId": 273998
   }

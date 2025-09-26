@@ -71,7 +71,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 850,
       "resourceId": 75736,
       "assetId": 75736
     },
@@ -147,7 +147,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 76416,
       "assetId": 76416
     },
@@ -226,7 +226,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 80665,
       "assetId": 80665
     },
@@ -265,7 +265,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1200,
       "resourceId": 204092,
       "assetId": 204092
     },
@@ -347,7 +347,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1400,
       "resourceId": 210366,
       "assetId": 210366
     },
@@ -387,7 +387,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 1100,
       "resourceId": 211738,
       "assetId": 211738
     },
@@ -483,7 +483,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 228813,
       "assetId": 228813
     },
@@ -568,7 +568,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 2800,
+      "price": 2900,
       "resourceId": 234236,
       "assetId": 234236
     },
@@ -621,7 +621,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 236786,
       "assetId": 236786
     },
@@ -670,7 +670,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 650,
       "resourceId": 237328,
       "assetId": 237328
     },
@@ -715,7 +715,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 247263,
       "assetId": 247263
     },
@@ -804,7 +804,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 10000,
       "resourceId": 255106,
       "assetId": 255106
     },
@@ -856,59 +856,6 @@
       "resourceId": 256197,
       "assetId": 256197
     },
-    "256853": {
-      "name": "Malik Tillman",
-      "cardName": "Tillman",
-      "originalVersionId": "1",
-      "clubId": 32,
-      "leagueId": 19,
-      "countryId": 95,
-      "versionId": "3002",
-      "rating": 82,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LW"
-      ],
-      "playStyles": [
-        13,
-        2,
-        20,
-        22,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        21,
-        31,
-        32,
-        33,
-        40
-      ],
-      "rolesPlusPlus": [
-        21,
-        31,
-        32,
-        33,
-        40
-      ],
-      "attributes": [
-        84,
-        76,
-        77,
-        83,
-        65,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 950,
-      "resourceId": 256853,
-      "assetId": 256853
-    },
     "264219": {
       "name": "Ernest Poku",
       "cardName": "Poku",
@@ -952,7 +899,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 4800,
+      "price": 2700,
       "resourceId": 264219,
       "assetId": 264219
     },
@@ -995,7 +942,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1000,
       "resourceId": 268622,
       "assetId": 268622
     },
@@ -1037,7 +984,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1100,
       "resourceId": 275028,
       "assetId": 275028
     },
@@ -1082,7 +1029,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 275029,
       "assetId": 275029
     },
@@ -1127,7 +1074,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 850,
       "resourceId": 276528,
       "assetId": 276528
     },
@@ -1175,9 +1122,64 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 16000,
       "resourceId": 50541683,
       "assetId": 210035
+    },
+    "50588501": {
+      "name": "Malik Tillman",
+      "cardName": "Tillman",
+      "originalVersionId": "150",
+      "clubId": 32,
+      "leagueId": 19,
+      "countryId": 95,
+      "versionId": "150",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LW"
+      ],
+      "playStyles": [
+        13,
+        2,
+        20,
+        22,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        32,
+        33,
+        40,
+        121,
+        131
+      ],
+      "rolesPlusPlus": [
+        18,
+        32,
+        33,
+        40,
+        121,
+        131
+      ],
+      "attributes": [
+        86,
+        80,
+        80,
+        85,
+        70,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 100000,
+      "resourceId": 50588501,
+      "assetId": 256853
     },
     "50593799": {
       "name": "Ezequiel Fernández",
@@ -1222,7 +1224,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 650,
       "resourceId": 50593799,
       "assetId": 262151
     },
@@ -1267,7 +1269,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 700,
       "resourceId": 50604429,
       "assetId": 272781
     },

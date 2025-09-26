@@ -39,8 +39,8 @@
       45,
       86
     ],
-    "hasDynamicImage": true,
-    "price": 190000,
+    "hasDynamicImage": false,
+    "price": 160000,
     "resourceId": 5661,
     "assetId": 5661
   },
@@ -84,8 +84,8 @@
       85,
       80
     ],
-    "hasDynamicImage": true,
-    "price": 219000,
+    "hasDynamicImage": false,
+    "price": 195000,
     "resourceId": 25924,
     "assetId": 25924
   },
@@ -134,8 +134,8 @@
       90,
       88
     ],
-    "hasDynamicImage": true,
-    "price": 132000,
+    "hasDynamicImage": false,
+    "price": 117000,
     "resourceId": 26709,
     "assetId": 26709
   },
@@ -182,8 +182,8 @@
       89,
       86
     ],
-    "hasDynamicImage": true,
-    "price": 115000,
+    "hasDynamicImage": false,
+    "price": 105000,
     "resourceId": 142754,
     "assetId": 142754
   },
@@ -232,8 +232,8 @@
       37,
       58
     ],
-    "hasDynamicImage": true,
-    "price": 670000,
+    "hasDynamicImage": false,
+    "price": 609000,
     "resourceId": 214101,
     "assetId": 214101
   },
@@ -281,8 +281,8 @@
       63,
       73
     ],
-    "hasDynamicImage": true,
-    "price": 138000,
+    "hasDynamicImage": false,
+    "price": 133000,
     "resourceId": 262285,
     "assetId": 262285
   },
@@ -329,8 +329,8 @@
       55,
       76
     ],
-    "hasDynamicImage": true,
-    "price": 370000,
+    "hasDynamicImage": false,
+    "price": 315000,
     "resourceId": 266691,
     "assetId": 266691
   },
@@ -373,7 +373,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 10000,
+    "sbcPrice": 9300,
     "resourceId": 50515160,
     "assetId": 183512
   },
@@ -473,7 +473,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 16100,
+    "sbcPrice": 15300,
     "resourceId": 50557758,
     "assetId": 226110
   },
@@ -524,9 +524,62 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 406000,
+    "price": 390000,
     "resourceId": 50557809,
     "assetId": 226161
+  },
+  "50561790": {
+    "name": "Oyarzabal",
+    "cardName": "Oyarzabal",
+    "originalVersionId": "150",
+    "clubId": 457,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "150",
+    "rating": 86,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      2,
+      20,
+      24,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      27,
+      31,
+      38,
+      132,
+      142
+    ],
+    "rolesPlusPlus": [
+      27,
+      31,
+      38,
+      132,
+      142
+    ],
+    "attributes": [
+      84,
+      87,
+      86,
+      86,
+      47,
+      70
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50561790,
+    "assetId": 230142
   },
   "50569864": {
     "name": "Conor Gallagher",
@@ -582,6 +635,61 @@
     "resourceId": 50569864,
     "assetId": 238216
   },
+  "50570701": {
+    "name": "Federico Valverde",
+    "cardName": "Valverde",
+    "originalVersionId": "150",
+    "clubId": 243,
+    "leagueId": 53,
+    "countryId": 60,
+    "versionId": "150",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM",
+      "RB"
+    ],
+    "playStyles": [
+      16,
+      18,
+      19,
+      2,
+      21,
+      26
+    ],
+    "playStylesPlus": [
+      10
+    ],
+    "rolesPlus": [
+      5,
+      22,
+      116,
+      118,
+      149
+    ],
+    "rolesPlusPlus": [
+      5,
+      22,
+      116,
+      118,
+      149
+    ],
+    "attributes": [
+      89,
+      84,
+      85,
+      84,
+      83,
+      86
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50570701,
+    "assetId": 239053
+  },
   "50571778": {
     "name": "Éder Militão",
     "cardName": "Éder Militão",
@@ -624,9 +732,63 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 439000,
+    "price": 419000,
     "resourceId": 50571778,
     "assetId": 240130
+  },
+  "50588164": {
+    "name": "Nico Williams",
+    "cardName": "Nico Williams",
+    "originalVersionId": "150",
+    "clubId": 448,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "150",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM"
+    ],
+    "playStyles": [
+      0,
+      13,
+      25,
+      26,
+      7
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      26,
+      29,
+      127,
+      130,
+      139
+    ],
+    "rolesPlusPlus": [
+      26,
+      29,
+      127,
+      130,
+      139
+    ],
+    "attributes": [
+      94,
+      77,
+      81,
+      88,
+      38,
+      68
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50588164,
+    "assetId": 256516
   },
   "50588711": {
     "name": "Tyrhys Dolan",
@@ -724,6 +886,57 @@
     "resourceId": 50591232,
     "assetId": 259584
   },
+  "50592463": {
+    "name": "Arnau Martínez",
+    "cardName": "Arnau Martínez",
+    "originalVersionId": "150",
+    "clubId": 110062,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "150",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CB",
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      14,
+      25,
+      26
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      13,
+      25,
+      46,
+      104
+    ],
+    "rolesPlusPlus": [
+      13,
+      25,
+      46,
+      104
+    ],
+    "attributes": [
+      85,
+      60,
+      81,
+      80,
+      80,
+      77
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50592463,
+    "assetId": 260815
+  },
   "50608827": {
     "name": "Fermín",
     "cardName": "Fermín",
@@ -770,7 +983,7 @@
       61
     ],
     "hasDynamicImage": true,
-    "price": 20500,
+    "price": 20250,
     "resourceId": 50608827,
     "assetId": 277179
   }
