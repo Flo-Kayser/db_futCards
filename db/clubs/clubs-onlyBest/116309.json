@@ -38,7 +38,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 400,
       "resourceId": 70490,
       "assetId": 70490
     },
@@ -76,7 +76,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 70592,
       "assetId": 70592
     },
@@ -117,7 +117,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 550,
       "resourceId": 70713,
       "assetId": 70713
     },
@@ -164,7 +164,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 71527,
       "assetId": 71527
     },
@@ -201,7 +201,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 1600,
       "resourceId": 76323,
       "assetId": 76323
     },
@@ -280,50 +280,9 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1500,
       "resourceId": 226897,
       "assetId": 226897
-    },
-    "235962": {
-      "name": "Nichelle Prince",
-      "cardName": "Prince",
-      "originalVersionId": "0",
-      "clubId": 116309,
-      "leagueId": 2221,
-      "countryId": 70,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        22,
-        42
-      ],
-      "rolesPlusPlus": [
-        22,
-        42
-      ],
-      "attributes": [
-        83,
-        74,
-        72,
-        80,
-        40,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 450,
-      "resourceId": 235962,
-      "assetId": 235962
     },
     "264011": {
       "name": "Alana Cook",
@@ -364,7 +323,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 264011,
       "assetId": 264011
     },
@@ -403,7 +362,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 1600,
       "resourceId": 267204,
       "assetId": 267204
     },
@@ -447,7 +406,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 267226,
       "assetId": 267226
     },
@@ -535,7 +494,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 267268,
       "assetId": 267268
     },
@@ -577,7 +536,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 267276,
       "assetId": 267276
     },
@@ -658,7 +617,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 267334,
       "assetId": 267334
     },
@@ -916,7 +875,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 273476,
       "assetId": 273476
     },
@@ -957,7 +916,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 273480,
       "assetId": 273480
     },
@@ -1048,7 +1007,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 5000,
       "resourceId": 279799,
       "assetId": 279799
     },
@@ -1100,9 +1059,56 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 286000,
+      "price": 250000,
       "resourceId": 50558541,
       "assetId": 226893
+    },
+    "50567610": {
+      "name": "Nichelle Prince",
+      "cardName": "Prince",
+      "originalVersionId": "87",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 70,
+      "versionId": "87",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        13,
+        21,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        42,
+        144
+      ],
+      "rolesPlusPlus": [
+        22,
+        42,
+        144
+      ],
+      "attributes": [
+        86,
+        82,
+        78,
+        86,
+        46,
+        76
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 4300,
+      "resourceId": 50567610,
+      "assetId": 235962
     }
   }
 }

@@ -164,7 +164,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 208949,
       "assetId": 208949
     },
@@ -215,51 +215,6 @@
       "price": 250,
       "resourceId": 209281,
       "assetId": 209281
-    },
-    "212729": {
-      "name": "Tozé",
-      "cardName": "Tozé",
-      "originalVersionId": "0",
-      "clubId": 113037,
-      "leagueId": 350,
-      "countryId": 38,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        22,
-        3
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        22,
-        33
-      ],
-      "rolesPlusPlus": [
-        18,
-        22,
-        33
-      ],
-      "attributes": [
-        73,
-        76,
-        77,
-        80,
-        55,
-        59
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 212729,
-      "assetId": 212729
     },
     "221652": {
       "name": "Sergio",
@@ -340,7 +295,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 600,
       "resourceId": 224189,
       "assetId": 224189
     },
@@ -435,7 +390,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1600,
       "resourceId": 240503,
       "assetId": 240503
     },
@@ -983,6 +938,53 @@
       "price": 0,
       "resourceId": 277511,
       "assetId": 277511
+    },
+    "50544377": {
+      "name": "Tozé",
+      "cardName": "Tozé",
+      "originalVersionId": "87",
+      "clubId": 113037,
+      "leagueId": 350,
+      "countryId": 38,
+      "versionId": "87",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        22,
+        3,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        33,
+        122
+      ],
+      "rolesPlusPlus": [
+        18,
+        33,
+        122
+      ],
+      "attributes": [
+        80,
+        83,
+        84,
+        86,
+        65,
+        70
+      ],
+      "isObjective": true,
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50544377,
+      "assetId": 212729
     },
     "50566636": {
       "name": "Mohammed Al Saeed",
