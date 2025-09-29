@@ -1,6 +1,56 @@
 {
   "clubName": "Spurs",
   "players": {
+    "50576803": {
+      "name": "Mohammed Kudus",
+      "cardName": "Kudus",
+      "originalVersionId": "150",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 117,
+      "versionId": "150",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        12,
+        13,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        39,
+        43,
+        126,
+        136
+      ],
+      "rolesPlusPlus": [
+        39,
+        43,
+        126,
+        136
+      ],
+      "attributes": [
+        91,
+        80,
+        77,
+        88,
+        65,
+        78
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50576803,
+      "assetId": 245155
+    },
     "50604574": {
       "name": "Lucas Bergvall",
       "cardName": "Bergvall",
@@ -42,7 +92,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 16500,
+      "price": 17000,
       "resourceId": 50604574,
       "assetId": 272926
     }

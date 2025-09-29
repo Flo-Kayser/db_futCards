@@ -39,8 +39,21 @@
         "tertiaryColor": "#ff4be0"
       }
     },
+    "57": {
+      "count": 1,
+      "file": "db/versions/57.json",
+      "details": {
+        "name": "Showdown Upgrade",
+        "hasStrip": true,
+        "createdAt": "2025-09-17T17:01:45.964Z",
+        "url": "https://cdn.easysbc.io/fc26/cards/e_57_0.png",
+        "primaryColor": "#c8f24a",
+        "secondaryColor": "#3f3f3f",
+        "tertiaryColor": "#717248"
+      }
+    },
     "58": {
-      "count": 2,
+      "count": 1,
       "file": "db/versions/58.json",
       "details": {
         "name": "Showdown",
@@ -105,7 +118,7 @@
       }
     },
     "150": {
-      "count": 24,
+      "count": 26,
       "file": "db/versions/150.json",
       "details": {
         "name": "Cornerstones",
@@ -210,8 +223,8 @@
     }
   },
   "meta": {
-    "totalVersions": 16,
-    "totalVersionsWithoutBase": 10,
-    "updatedAt": "2025-09-28T17:24:01.246Z"
+    "totalVersions": 17,
+    "totalVersionsWithoutBase": 11,
+    "updatedAt": "2025-09-29T17:27:39.899Z"
   }
 }
