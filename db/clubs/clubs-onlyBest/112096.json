@@ -158,7 +158,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 181291,
       "assetId": 181291
     },
@@ -284,7 +284,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 300,
       "resourceId": 211591,
       "assetId": 211591
     },
@@ -338,7 +338,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 212476,
       "assetId": 212476
     },
@@ -421,7 +421,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 213901,
       "assetId": 213901
     },
@@ -465,7 +465,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 222148,
       "assetId": 222148
     },
@@ -502,7 +502,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 250,
       "resourceId": 222951,
       "assetId": 222951
     },
@@ -542,48 +542,6 @@
       "price": 200,
       "resourceId": 225061,
       "assetId": 225061
-    },
-    "225316": {
-      "name": "Jack Hendry",
-      "cardName": "Hendry",
-      "originalVersionId": "1",
-      "clubId": 112096,
-      "leagueId": 350,
-      "countryId": 42,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10,
-        19
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        13
-      ],
-      "rolesPlusPlus": [
-        11,
-        13
-      ],
-      "attributes": [
-        73,
-        56,
-        63,
-        64,
-        71,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 225316,
-      "assetId": 225316
     },
     "232901": {
       "name": "Mukhtar Ali",
@@ -984,9 +942,54 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 350,
       "resourceId": 278567,
       "assetId": 278567
+    },
+    "50556964": {
+      "name": "Jack Hendry",
+      "cardName": "Hendry",
+      "originalVersionId": "87",
+      "clubId": 112096,
+      "leagueId": 350,
+      "countryId": 42,
+      "versionId": "87",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13,
+        148
+      ],
+      "rolesPlusPlus": [
+        11,
+        13,
+        148
+      ],
+      "attributes": [
+        78,
+        65,
+        72,
+        74,
+        82,
+        87
+      ],
+      "hasDynamicImage": false,
+      "sbcPrice": 8300,
+      "resourceId": 50556964,
+      "assetId": 225316
     }
   }
 }
