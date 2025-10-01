@@ -365,7 +365,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 212248,
       "assetId": 212248
     },
@@ -409,7 +409,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 229354,
       "assetId": 229354
     },
@@ -456,7 +456,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 229487,
       "assetId": 229487
     },
@@ -539,50 +539,6 @@
       "price": 200,
       "resourceId": 233725,
       "assetId": 233725
-    },
-    "234901": {
-      "name": "Nicklas Shipnoski",
-      "cardName": "Shipnoski",
-      "originalVersionId": "0",
-      "clubId": 110532,
-      "leagueId": 2076,
-      "countryId": 21,
-      "versionId": "2000",
-      "rating": 64,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        27,
-        30
-      ],
-      "rolesPlusPlus": [
-        26,
-        27,
-        30
-      ],
-      "attributes": [
-        79,
-        59,
-        56,
-        65,
-        26,
-        56
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 234901,
-      "assetId": 234901
     },
     "234924": {
       "name": "Adama Diakhaby",
@@ -800,7 +756,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 244188,
       "assetId": 244188
     },
@@ -1044,6 +1000,55 @@
       "price": 200,
       "resourceId": 277842,
       "assetId": 277842
+    },
+    "50566549": {
+      "name": "Nicklas Shipnoski",
+      "cardName": "Shipnoski",
+      "originalVersionId": "3",
+      "clubId": 110532,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        27,
+        30,
+        139
+      ],
+      "rolesPlusPlus": [
+        26,
+        27,
+        30,
+        139
+      ],
+      "attributes": [
+        88,
+        80,
+        77,
+        82,
+        44,
+        75
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50566549,
+      "assetId": 234901
     }
   }
 }

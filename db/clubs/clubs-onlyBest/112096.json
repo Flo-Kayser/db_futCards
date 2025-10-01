@@ -158,7 +158,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 181291,
       "assetId": 181291
     },
@@ -338,7 +338,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 212476,
       "assetId": 212476
     },
@@ -380,7 +380,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 213064,
       "assetId": 213064
     },
@@ -421,7 +421,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 213901,
       "assetId": 213901
     },
@@ -465,7 +465,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 222148,
       "assetId": 222148
     },
@@ -502,7 +502,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 222951,
       "assetId": 222951
     },
@@ -747,47 +747,6 @@
       "resourceId": 248255,
       "assetId": 248255
     },
-    "248498": {
-      "name": "Khalid Al Ghannam",
-      "cardName": "Al Ghannam",
-      "originalVersionId": "1",
-      "clubId": 112096,
-      "leagueId": 350,
-      "countryId": 183,
-      "versionId": "3000",
-      "rating": 60,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM"
-      ],
-      "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        27
-      ],
-      "rolesPlusPlus": [
-        27
-      ],
-      "attributes": [
-        71,
-        51,
-        53,
-        70,
-        29,
-        41
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 248498,
-      "assetId": 248498
-    },
     "253079": {
       "name": "Meshal Sibyani",
       "cardName": "Sibyani",
@@ -987,9 +946,53 @@
         87
       ],
       "hasDynamicImage": false,
-      "sbcPrice": 8300,
+      "sbcPrice": 7400,
       "resourceId": 50556964,
       "assetId": 225316
+    },
+    "50580146": {
+      "name": "Khalid Al Ghannam",
+      "cardName": "Al Ghannam",
+      "originalVersionId": "3",
+      "clubId": 112096,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        20,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        128
+      ],
+      "rolesPlusPlus": [
+        27,
+        128
+      ],
+      "attributes": [
+        87,
+        76,
+        79,
+        85,
+        50,
+        65
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50580146,
+      "assetId": 248498
     }
   }
 }

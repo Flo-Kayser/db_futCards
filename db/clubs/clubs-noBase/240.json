@@ -1,6 +1,51 @@
 {
   "clubName": "Atlético de Madrid",
   "players": {
+    "50525395": {
+      "name": "Koke",
+      "cardName": "Koke",
+      "originalVersionId": "3",
+      "clubId": 240,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        24,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        20,
+        119
+      ],
+      "rolesPlusPlus": [
+        15,
+        20,
+        119
+      ],
+      "attributes": [
+        73,
+        75,
+        86,
+        81,
+        80,
+        81
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50525395,
+      "assetId": 193747
+    },
     "50557809": {
       "name": "Marcos Llorente",
       "cardName": "Marcos Llorente",
@@ -48,7 +93,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 400000,
+      "price": 395000,
       "resourceId": 50557809,
       "assetId": 226161
     },

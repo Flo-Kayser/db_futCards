@@ -37,7 +37,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 70335,
       "assetId": 70335
     },
@@ -399,7 +399,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 191648,
       "assetId": 191648
     },
@@ -447,7 +447,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 201895,
       "assetId": 201895
     },
@@ -567,7 +567,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 500,
       "resourceId": 233169,
       "assetId": 233169
     },
@@ -612,7 +612,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 237075,
       "assetId": 237075
     },
@@ -653,53 +653,6 @@
       "resourceId": 241091,
       "assetId": 241091
     },
-    "241162": {
-      "name": "Joseph Paintsil",
-      "cardName": "Paintsil",
-      "originalVersionId": "1",
-      "clubId": 697,
-      "leagueId": 39,
-      "countryId": 117,
-      "versionId": "3002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM"
-      ],
-      "playStyles": [
-        21
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        27,
-        30,
-        39
-      ],
-      "rolesPlusPlus": [
-        26,
-        27,
-        30,
-        39
-      ],
-      "attributes": [
-        90,
-        70,
-        68,
-        80,
-        35,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 650,
-      "resourceId": 241162,
-      "assetId": 241162
-    },
     "242703": {
       "name": "JT Marcinkowski",
       "cardName": "Marcinkowski",
@@ -735,7 +688,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 242703,
       "assetId": 242703
     },
@@ -949,7 +902,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 400,
       "resourceId": 258095,
       "assetId": 258095
     },
@@ -1149,6 +1102,54 @@
       "price": 200,
       "resourceId": 275251,
       "assetId": 275251
+    },
+    "50572810": {
+      "name": "Joseph Paintsil",
+      "cardName": "Paintsil",
+      "originalVersionId": "3",
+      "clubId": 697,
+      "leagueId": 39,
+      "countryId": 117,
+      "versionId": "3",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        21,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        27,
+        39,
+        130
+      ],
+      "rolesPlusPlus": [
+        26,
+        27,
+        39,
+        130
+      ],
+      "attributes": [
+        92,
+        77,
+        75,
+        85,
+        40,
+        75
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50572810,
+      "assetId": 241162
     }
   }
 }

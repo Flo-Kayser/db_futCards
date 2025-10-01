@@ -109,7 +109,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 191528,
       "assetId": 191528
     },
@@ -193,7 +193,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 215892,
       "assetId": 215892
     },
@@ -283,7 +283,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 224648,
       "assetId": 224648
     },
@@ -336,48 +336,6 @@
       "resourceId": 225478,
       "assetId": 225478
     },
-    "227527": {
-      "name": "Fábio Abreu",
-      "cardName": "Fábio Abreu",
-      "originalVersionId": "1",
-      "clubId": 111768,
-      "leagueId": 2012,
-      "countryId": 98,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        29,
-        4,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "rolesPlusPlus": [
-        41
-      ],
-      "attributes": [
-        82,
-        75,
-        59,
-        69,
-        26,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 227527,
-      "assetId": 227527
-    },
     "228017": {
       "name": "Zhang Yuning",
       "cardName": "Zhang Yuning",
@@ -417,7 +375,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 228017,
       "assetId": 228017
     },
@@ -1174,7 +1132,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 266170,
       "assetId": 266170
     },
@@ -1254,6 +1212,49 @@
       "price": 200,
       "resourceId": 275172,
       "assetId": 275172
+    },
+    "50559175": {
+      "name": "Fábio Abreu",
+      "cardName": "Fábio Abreu",
+      "originalVersionId": "3",
+      "clubId": 111768,
+      "leagueId": 2012,
+      "countryId": 98,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        29,
+        4,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        142
+      ],
+      "rolesPlusPlus": [
+        41,
+        142
+      ],
+      "attributes": [
+        88,
+        81,
+        70,
+        77,
+        32,
+        84
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50559175,
+      "assetId": 227527
     }
   }
 }

@@ -249,7 +249,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 240944,
       "assetId": 240944
     },
@@ -374,7 +374,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 253322,
       "assetId": 253322
     },
@@ -501,7 +501,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 254173,
       "assetId": 254173
     },
@@ -550,7 +550,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 254206,
       "assetId": 254206
     },
@@ -592,49 +592,9 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 259834,
       "assetId": 259834
-    },
-    "259904": {
-      "name": "Gonzalo Valle",
-      "cardName": "Valle",
-      "originalVersionId": "1",
-      "clubId": 110986,
-      "leagueId": 1003,
-      "countryId": 57,
-      "versionId": "3001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        34,
-        35
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        1
-      ],
-      "rolesPlusPlus": [
-        1
-      ],
-      "attributes": [
-        67,
-        70,
-        65,
-        72,
-        26,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 259904,
-      "assetId": 259904
     },
     "269915": {
       "name": "Lautaro Pastrán",
@@ -750,6 +710,46 @@
       "price": 200,
       "resourceId": 274719,
       "assetId": 274719
+    },
+    "50591552": {
+      "name": "Gonzalo Valle",
+      "cardName": "Valle",
+      "originalVersionId": "3",
+      "clubId": 110986,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        33,
+        34,
+        35
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101
+      ],
+      "rolesPlusPlus": [
+        101
+      ],
+      "attributes": [
+        79,
+        81,
+        77,
+        84,
+        40,
+        80
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50591552,
+      "assetId": 259904
     }
   }
 }

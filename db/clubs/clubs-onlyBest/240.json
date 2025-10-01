@@ -1,49 +1,6 @@
 {
   "clubName": "Atlético de Madrid",
   "players": {
-    "193747": {
-      "name": "Koke",
-      "cardName": "Koke",
-      "originalVersionId": "1",
-      "clubId": 240,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "3002",
-      "rating": 81,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        15,
-        20
-      ],
-      "rolesPlusPlus": [
-        15,
-        20
-      ],
-      "attributes": [
-        61,
-        72,
-        83,
-        78,
-        76,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 193747,
-      "assetId": 193747
-    },
     "194765": {
       "name": "Antoine Griezmann",
       "cardName": "Griezmann",
@@ -94,7 +51,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 15750,
+      "price": 11500,
       "resourceId": 194765,
       "assetId": 194765
     },
@@ -136,7 +93,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 11500,
+      "price": 10500,
       "resourceId": 200389,
       "assetId": 200389
     },
@@ -173,7 +130,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 214979,
       "assetId": 214979
     },
@@ -265,7 +222,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1500,
       "resourceId": 216549,
       "assetId": 216549
     },
@@ -304,7 +261,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 220440,
       "assetId": 220440
     },
@@ -346,7 +303,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 231591,
       "assetId": 231591
     },
@@ -389,7 +346,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 233084,
       "assetId": 233084
     },
@@ -519,7 +476,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 93000,
+      "price": 80000,
       "resourceId": 246191,
       "assetId": 246191
     },
@@ -567,7 +524,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1100,
       "resourceId": 247103,
       "assetId": 247103
     },
@@ -613,7 +570,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 350,
       "resourceId": 253002,
       "assetId": 253002
     },
@@ -659,7 +616,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 253396,
       "assetId": 253396
     },
@@ -714,7 +671,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1500,
       "resourceId": 257279,
       "assetId": 257279
     },
@@ -760,7 +717,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 259516,
       "assetId": 259516
     },
@@ -803,7 +760,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 700,
       "resourceId": 265396,
       "assetId": 265396
     },
@@ -846,7 +803,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 266039,
       "assetId": 266039
     },
@@ -889,9 +846,54 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1000,
       "resourceId": 272449,
       "assetId": 272449
+    },
+    "50525395": {
+      "name": "Koke",
+      "cardName": "Koke",
+      "originalVersionId": "3",
+      "clubId": 240,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        24,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        20,
+        119
+      ],
+      "rolesPlusPlus": [
+        15,
+        20,
+        119
+      ],
+      "attributes": [
+        73,
+        75,
+        86,
+        81,
+        80,
+        81
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50525395,
+      "assetId": 193747
     },
     "50557809": {
       "name": "Marcos Llorente",
@@ -940,7 +942,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 400000,
+      "price": 395000,
       "resourceId": 50557809,
       "assetId": 226161
     },
@@ -1046,7 +1048,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 50572338,
       "assetId": 240690
     },

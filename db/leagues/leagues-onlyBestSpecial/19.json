@@ -40,7 +40,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 319000,
+    "price": 295000,
     "resourceId": 5454,
     "assetId": 5454
   },
@@ -92,7 +92,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 650000,
+    "price": 610000,
     "resourceId": 28765,
     "assetId": 28765
   },
@@ -135,7 +135,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 109000,
+    "price": 95000,
     "resourceId": 150418,
     "assetId": 150418
   },
@@ -183,7 +183,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 665000,
+    "price": 579000,
     "resourceId": 166676,
     "assetId": 166676
   },
@@ -230,7 +230,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 112000,
+    "price": 104000,
     "resourceId": 261593,
     "assetId": 261593
   },
@@ -277,7 +277,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 359000,
+    "price": 329000,
     "resourceId": 269603,
     "assetId": 269603
   },
@@ -322,7 +322,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 125000,
+    "price": 104000,
     "resourceId": 50533774,
     "assetId": 202126
   },
@@ -371,7 +371,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 88350,
+    "sbcPrice": 82150,
     "price": 68500,
     "resourceId": 50541306,
     "assetId": 209658
@@ -420,9 +420,58 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 19000,
     "resourceId": 50541683,
     "assetId": 210035
+  },
+  "50557023": {
+    "name": "Konrad Laimer",
+    "cardName": "Laimer",
+    "originalVersionId": "3",
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 4,
+    "versionId": "3",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "CDM",
+      "CM",
+      "LB",
+      "RB"
+    ],
+    "playStyles": [
+      17,
+      26,
+      28
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      6,
+      15,
+      18,
+      110
+    ],
+    "rolesPlusPlus": [
+      6,
+      15,
+      18,
+      110
+    ],
+    "attributes": [
+      84,
+      73,
+      79,
+      78,
+      83,
+      79
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50557023,
+    "assetId": 225375
   },
   "50557280": {
     "name": "Oliver Burke",
@@ -467,7 +516,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10750,
     "resourceId": 50557280,
     "assetId": 225632
   },
@@ -511,7 +560,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 17750,
     "resourceId": 50568351,
     "assetId": 236703
   },
@@ -563,7 +612,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 380000,
+    "price": 325000,
     "resourceId": 50572732,
     "assetId": 241084
   },
@@ -665,7 +714,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 46750,
+    "price": 36500,
     "resourceId": 50588501,
     "assetId": 256853
   },
@@ -712,7 +761,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 19900,
+    "sbcPrice": 17200,
     "resourceId": 50591004,
     "assetId": 259356
   },
@@ -763,5 +812,56 @@
     "price": 0,
     "resourceId": 50605299,
     "assetId": 273651
+  },
+  "50606976": {
+    "name": "Can Uzun",
+    "cardName": "Uzun",
+    "originalVersionId": "3",
+    "clubId": 1824,
+    "leagueId": 19,
+    "countryId": 48,
+    "versionId": "3",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      22,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      31,
+      33,
+      34,
+      43,
+      121
+    ],
+    "rolesPlusPlus": [
+      31,
+      33,
+      34,
+      43,
+      121
+    ],
+    "attributes": [
+      75,
+      81,
+      75,
+      83,
+      32,
+      70
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50606976,
+    "assetId": 275328
   }
 }

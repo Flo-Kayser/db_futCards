@@ -39,7 +39,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 450,
       "resourceId": 227204,
       "assetId": 227204
     },
@@ -138,7 +138,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 2500,
       "resourceId": 262545,
       "assetId": 262545
     },
@@ -366,55 +366,9 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 272084,
       "assetId": 272084
-    },
-    "272094": {
-      "name": "Fiamma Benítez",
-      "cardName": "Fiamma Benítez",
-      "originalVersionId": "1",
-      "clubId": 116327,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "3002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        13,
-        24,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        31,
-        32
-      ],
-      "rolesPlusPlus": [
-        18,
-        31,
-        32
-      ],
-      "attributes": [
-        78,
-        73,
-        77,
-        79,
-        60,
-        72
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 272094,
-      "assetId": 272094
     },
     "272099": {
       "name": "Macarena Portales",
@@ -686,7 +640,7 @@
         89
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 272201,
       "assetId": 272201
     },
@@ -723,7 +677,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 272271,
       "assetId": 272271
     },
@@ -911,7 +865,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 17100,
+      "sbcPrice": 13400,
       "resourceId": 50559017,
       "assetId": 227369
     },
@@ -951,6 +905,51 @@
       "price": 200,
       "resourceId": 50600594,
       "assetId": 268946
+    },
+    "50603742": {
+      "name": "Fiamma Benítez",
+      "cardName": "Fiamma Benítez",
+      "originalVersionId": "3",
+      "clubId": 116327,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        24,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        31,
+        132
+      ],
+      "rolesPlusPlus": [
+        18,
+        31,
+        132
+      ],
+      "attributes": [
+        83,
+        80,
+        82,
+        85,
+        66,
+        79
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50603742,
+      "assetId": 272094
     }
   }
 }

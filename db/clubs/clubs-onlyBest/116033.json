@@ -42,7 +42,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 8100,
+      "price": 7900,
       "resourceId": 227310,
       "assetId": 227310
     },
@@ -93,7 +93,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 139000,
+      "price": 133000,
       "resourceId": 227361,
       "assetId": 227361
     },
@@ -138,7 +138,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 2500,
       "resourceId": 227392,
       "assetId": 227392
     },
@@ -191,7 +191,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 8200,
+      "price": 8000,
       "resourceId": 231432,
       "assetId": 231432
     },
@@ -236,7 +236,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1500,
       "resourceId": 242896,
       "assetId": 242896
     },
@@ -277,7 +277,7 @@
         89
       ],
       "hasDynamicImage": false,
-      "price": 10750,
+      "price": 10000,
       "resourceId": 245956,
       "assetId": 245956
     },
@@ -319,7 +319,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 10750,
+      "price": 10000,
       "resourceId": 246272,
       "assetId": 246272
     },
@@ -356,7 +356,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 248751,
       "assetId": 248751
     },
@@ -403,7 +403,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 261740,
       "assetId": 261740
     },
@@ -483,7 +483,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 264944,
       "assetId": 264944
     },
@@ -525,7 +525,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 750,
       "resourceId": 264980,
       "assetId": 264980
     },
@@ -614,7 +614,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1500,
       "resourceId": 265536,
       "assetId": 265536
     },
@@ -666,7 +666,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 25000,
+      "price": 22000,
       "resourceId": 265674,
       "assetId": 265674
     },
@@ -714,7 +714,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 54000,
+      "price": 49000,
       "resourceId": 265898,
       "assetId": 265898
     },
@@ -767,48 +767,6 @@
       "price": 700,
       "resourceId": 265905,
       "assetId": 265905
-    },
-    "273946": {
-      "name": "Korbin Shrader",
-      "cardName": "Shrader",
-      "originalVersionId": "1",
-      "clubId": 116033,
-      "leagueId": 2218,
-      "countryId": 95,
-      "versionId": "3002",
-      "rating": 82,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        18
-      ],
-      "rolesPlusPlus": [
-        16,
-        18
-      ],
-      "attributes": [
-        74,
-        76,
-        78,
-        80,
-        71,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 800,
-      "resourceId": 273946,
-      "assetId": 273946
     },
     "274753": {
       "name": "Tarciane",
@@ -1083,7 +1041,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 5500,
       "resourceId": 278219,
       "assetId": 278219
     },
@@ -1132,9 +1090,54 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 169000,
+      "price": 148000,
       "resourceId": 50558964,
       "assetId": 227316
+    },
+    "50605594": {
+      "name": "Korbin Shrader",
+      "cardName": "Shrader",
+      "originalVersionId": "3",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 95,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        2,
+        20,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18,
+        115
+      ],
+      "rolesPlusPlus": [
+        16,
+        18,
+        115
+      ],
+      "attributes": [
+        79,
+        80,
+        81,
+        84,
+        75,
+        77
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50605594,
+      "assetId": 273946
     }
   }
 }
