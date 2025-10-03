@@ -35,7 +35,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 250,
       "resourceId": 73016,
       "assetId": 73016
     },
@@ -80,7 +80,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 550,
       "resourceId": 73057,
       "assetId": 73057
     },
@@ -129,7 +129,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 450,
       "resourceId": 190765,
       "assetId": 190765
     },
@@ -224,7 +224,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 208333,
       "assetId": 208333
     },
@@ -264,7 +264,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 500,
       "resourceId": 210772,
       "assetId": 210772
     },
@@ -314,7 +314,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 212190,
       "assetId": 212190
     },
@@ -412,7 +412,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 11000,
+      "price": 12000,
       "resourceId": 215441,
       "assetId": 215441
     },
@@ -637,7 +637,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 350,
       "resourceId": 235407,
       "assetId": 235407
     },
@@ -676,7 +676,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 241050,
       "assetId": 241050
     },
@@ -723,7 +723,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 3300,
       "resourceId": 246863,
       "assetId": 246863
     },
@@ -772,59 +772,9 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 5100,
       "resourceId": 247819,
       "assetId": 247819
-    },
-    "251852": {
-      "name": "Karim Adeyemi",
-      "cardName": "Adeyemi",
-      "originalVersionId": "1",
-      "clubId": 22,
-      "leagueId": 19,
-      "countryId": 21,
-      "versionId": "3002",
-      "rating": 81,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "CAM",
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        21
-      ],
-      "playStylesPlus": [
-        25
-      ],
-      "rolesPlus": [
-        23,
-        26,
-        33,
-        39
-      ],
-      "rolesPlusPlus": [
-        23,
-        26,
-        33,
-        39
-      ],
-      "attributes": [
-        96,
-        76,
-        72,
-        82,
-        36,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 10750,
-      "resourceId": 251852,
-      "assetId": 251852
     },
     "254117": {
       "name": "Maximilian Beier",
@@ -965,7 +915,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 259716,
       "assetId": 259716
     },
@@ -1009,7 +959,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 7900,
+      "price": 7200,
       "resourceId": 262105,
       "assetId": 262105
     },
@@ -1048,7 +998,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 266906,
       "assetId": 266906
     },
@@ -1095,7 +1045,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 5200,
+      "price": 6000,
       "resourceId": 270964,
       "assetId": 270964
     },
@@ -1173,6 +1123,59 @@
       "price": 500,
       "resourceId": 278854,
       "assetId": 278854
+    },
+    "50583500": {
+      "name": "Karim Adeyemi",
+      "cardName": "Adeyemi",
+      "originalVersionId": "150",
+      "clubId": 22,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "150",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21,
+        22,
+        5
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        26,
+        33,
+        39,
+        123,
+        135
+      ],
+      "rolesPlusPlus": [
+        26,
+        33,
+        39,
+        123,
+        135
+      ],
+      "attributes": [
+        97,
+        82,
+        78,
+        86,
+        42,
+        75
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50583500,
+      "assetId": 251852
     },
     "50583685": {
       "name": "Fábio Silva",
@@ -1300,7 +1303,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 600,
       "resourceId": 50610103,
       "assetId": 278455
     }

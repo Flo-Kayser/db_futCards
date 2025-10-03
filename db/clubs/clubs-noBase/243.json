@@ -1,6 +1,110 @@
 {
   "clubName": "Real Madrid",
   "players": {
+    "50562929": {
+      "name": "Trent Alexander-Arnold",
+      "cardName": "Alexander-Arnold",
+      "originalVersionId": "150",
+      "clubId": 243,
+      "leagueId": 53,
+      "countryId": 14,
+      "versionId": "150",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        12,
+        26,
+        3
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        5,
+        24,
+        46,
+        104,
+        106
+      ],
+      "rolesPlusPlus": [
+        5,
+        24,
+        46,
+        104,
+        106
+      ],
+      "attributes": [
+        83,
+        73,
+        90,
+        83,
+        85,
+        78
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50562929,
+      "assetId": 231281
+    },
+    "50563395": {
+      "name": "Kylian Mbappé",
+      "cardName": "Mbappé",
+      "originalVersionId": "86",
+      "clubId": 243,
+      "leagueId": 53,
+      "countryId": 18,
+      "versionId": "86",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        22,
+        25,
+        5,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        43,
+        139,
+        141
+      ],
+      "rolesPlusPlus": [
+        43,
+        139,
+        141
+      ],
+      "attributes": [
+        97,
+        91,
+        82,
+        92,
+        38,
+        76
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 4781500,
+      "resourceId": 50563395,
+      "assetId": 231747
+    },
     "50570701": {
       "name": "Federico Valverde",
       "cardName": "Valverde",
@@ -53,7 +157,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 1200000,
+      "price": 1130000,
       "resourceId": 50570701,
       "assetId": 239053
     },

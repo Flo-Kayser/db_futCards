@@ -40,7 +40,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1200,
       "resourceId": 74462,
       "assetId": 74462
     },
@@ -78,7 +78,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 950,
       "resourceId": 74463,
       "assetId": 74463
     },
@@ -163,7 +163,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 13750,
+      "price": 14500,
       "resourceId": 188545,
       "assetId": 188545
     },
@@ -204,7 +204,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 9200,
+      "price": 9300,
       "resourceId": 192448,
       "assetId": 192448
     },
@@ -293,7 +293,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 213661,
       "assetId": 213661
     },
@@ -341,7 +341,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 217000,
+      "price": 229000,
       "resourceId": 228702,
       "assetId": 228702
     },
@@ -390,7 +390,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 11750,
       "resourceId": 231677,
       "assetId": 231677
     },
@@ -438,7 +438,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 412000,
+      "price": 399000,
       "resourceId": 233419,
       "assetId": 233419
     },
@@ -542,7 +542,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 161000,
+      "price": 162000,
       "resourceId": 241486,
       "assetId": 241486
     },
@@ -592,7 +592,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 4400,
+      "price": 4500,
       "resourceId": 244260,
       "assetId": 244260
     },
@@ -642,7 +642,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 245037,
       "assetId": 245037
     },
@@ -730,7 +730,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 122000,
+      "price": 139000,
       "resourceId": 251854,
       "assetId": 251854
     },
@@ -781,7 +781,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 15750,
+      "price": 19750,
       "resourceId": 253163,
       "assetId": 253163
     },
@@ -820,53 +820,9 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1500,
       "resourceId": 259532,
       "assetId": 259532
-    },
-    "263578": {
-      "name": "Balde",
-      "cardName": "Balde",
-      "originalVersionId": "1",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "3002",
-      "rating": 83,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        14,
-        17,
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9,
-        10
-      ],
-      "rolesPlusPlus": [
-        9,
-        10
-      ],
-      "attributes": [
-        91,
-        50,
-        75,
-        79,
-        78,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 12750,
-      "resourceId": 263578,
-      "assetId": 263578
     },
     "264240": {
       "name": "Gavi",
@@ -955,7 +911,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 1000,
       "resourceId": 265600,
       "assetId": 265600
     },
@@ -998,7 +954,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 650,
       "resourceId": 272600,
       "assetId": 272600
     },
@@ -1090,7 +1046,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 278046,
       "assetId": 278046
     },
@@ -1136,6 +1092,55 @@
       "price": 0,
       "resourceId": 278923,
       "assetId": 278923
+    },
+    "50595226": {
+      "name": "Balde",
+      "cardName": "Balde",
+      "originalVersionId": "150",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "150",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12,
+        14,
+        17,
+        18,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        27,
+        109,
+        110
+      ],
+      "rolesPlusPlus": [
+        7,
+        27,
+        109,
+        110
+      ],
+      "attributes": [
+        94,
+        53,
+        78,
+        84,
+        83,
+        70
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50595226,
+      "assetId": 263578
     },
     "50608827": {
       "name": "Fermín",
@@ -1183,7 +1188,7 @@
         61
       ],
       "hasDynamicImage": true,
-      "price": 20500,
+      "price": 20750,
       "resourceId": 50608827,
       "assetId": 277179
     }

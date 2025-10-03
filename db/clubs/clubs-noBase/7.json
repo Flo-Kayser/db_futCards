@@ -1,4 +1,47 @@
 {
   "clubName": "Everton",
-  "players": {}
+  "players": {
+    "50536583": {
+      "name": "Jordan Pickford",
+      "cardName": "Pickford",
+      "originalVersionId": "150",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "150",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2,
+        145
+      ],
+      "rolesPlusPlus": [
+        2,
+        145
+      ],
+      "attributes": [
+        85,
+        80,
+        89,
+        88,
+        55,
+        82
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50536583,
+      "assetId": 204935
+    }
+  }
 }

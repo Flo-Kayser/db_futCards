@@ -51,7 +51,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 12000,
+      "price": 13500,
       "resourceId": 194765,
       "assetId": 194765
     },
@@ -93,7 +93,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 14250,
+      "price": 14750,
       "resourceId": 200389,
       "assetId": 200389
     },
@@ -130,7 +130,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 1000,
       "resourceId": 214979,
       "assetId": 214979
     },
@@ -261,7 +261,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 750,
       "resourceId": 220440,
       "assetId": 220440
     },
@@ -303,7 +303,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 850,
       "resourceId": 231591,
       "assetId": 231591
     },
@@ -346,7 +346,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 800,
       "resourceId": 233084,
       "assetId": 233084
     },
@@ -433,7 +433,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 700,
       "resourceId": 245371,
       "assetId": 245371
     },
@@ -476,57 +476,9 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 73000,
+      "price": 77000,
       "resourceId": 246191,
       "assetId": 246191
-    },
-    "247103": {
-      "name": "Dávid Hancko",
-      "cardName": "Hancko",
-      "originalVersionId": "1",
-      "clubId": 240,
-      "leagueId": 53,
-      "countryId": 43,
-      "versionId": "3002",
-      "rating": 83,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        10,
-        14,
-        17,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        7,
-        11,
-        13
-      ],
-      "rolesPlusPlus": [
-        7,
-        11,
-        13
-      ],
-      "attributes": [
-        77,
-        66,
-        73,
-        74,
-        82,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 950,
-      "resourceId": 247103,
-      "assetId": 247103
     },
     "253002": {
       "name": "Giacomo Raspadori",
@@ -570,7 +522,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 253002,
       "assetId": 253002
     },
@@ -616,7 +568,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 253396,
       "assetId": 253396
     },
@@ -671,7 +623,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1500,
       "resourceId": 257279,
       "assetId": 257279
     },
@@ -717,7 +669,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 259516,
       "assetId": 259516
     },
@@ -760,7 +712,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2000,
       "resourceId": 265396,
       "assetId": 265396
     },
@@ -846,7 +798,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 272449,
       "assetId": 272449
     },
@@ -943,7 +895,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 392000,
+      "price": 390000,
       "resourceId": 50557809,
       "assetId": 226161
     },
@@ -1049,9 +1001,60 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 750,
       "resourceId": 50572338,
       "assetId": 240690
+    },
+    "50578751": {
+      "name": "Dávid Hancko",
+      "cardName": "Hancko",
+      "originalVersionId": "150",
+      "clubId": 240,
+      "leagueId": 53,
+      "countryId": 43,
+      "versionId": "150",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        10,
+        14,
+        17,
+        18,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        11,
+        107,
+        113
+      ],
+      "rolesPlusPlus": [
+        8,
+        11,
+        107,
+        113
+      ],
+      "attributes": [
+        80,
+        68,
+        75,
+        76,
+        85,
+        85
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 69050,
+      "resourceId": 50578751,
+      "assetId": 247103
     },
     "50591232": {
       "name": "Matteo Ruggeri",
