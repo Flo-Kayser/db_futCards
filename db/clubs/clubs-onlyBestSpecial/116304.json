@@ -1,6 +1,51 @@
 {
   "clubName": "Washington Spirit",
   "players": {
+    "50596987": {
+      "name": "Esme Morgan",
+      "cardName": "Morgan",
+      "originalVersionId": "87",
+      "clubId": 116304,
+      "leagueId": 2221,
+      "countryId": 14,
+      "versionId": "87",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        28,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48,
+        113
+      ],
+      "rolesPlusPlus": [
+        11,
+        48,
+        113
+      ],
+      "attributes": [
+        78,
+        43,
+        80,
+        76,
+        83,
+        80
+      ],
+      "isObjective": true,
+      "hasDynamicImage": false,
+      "resourceId": 50596987,
+      "assetId": 265339
+    },
     "50603865": {
       "name": "Gift Monday",
       "cardName": "Monday",
@@ -43,7 +88,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 11000,
       "resourceId": 50603865,
       "assetId": 272217
     }

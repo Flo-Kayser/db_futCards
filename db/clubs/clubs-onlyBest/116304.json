@@ -80,7 +80,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 71560,
       "assetId": 71560
     },
@@ -118,7 +118,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 300,
       "resourceId": 71561,
       "assetId": 71561
     },
@@ -155,7 +155,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 71562,
       "assetId": 71562
     },
@@ -200,7 +200,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 700,
       "resourceId": 236642,
       "assetId": 236642
     },
@@ -285,7 +285,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 241545,
       "assetId": 241545
     },
@@ -330,7 +330,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 243261,
       "assetId": 243261
     },
@@ -541,50 +541,9 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 264953,
       "assetId": 264953
-    },
-    "265339": {
-      "name": "Esme Morgan",
-      "cardName": "Morgan",
-      "originalVersionId": "0",
-      "clubId": 116304,
-      "leagueId": 2221,
-      "countryId": 14,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        13,
-        48
-      ],
-      "rolesPlusPlus": [
-        11,
-        13,
-        48
-      ],
-      "attributes": [
-        75,
-        34,
-        71,
-        68,
-        75,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 265339,
-      "assetId": 265339
     },
     "266816": {
       "name": "Aubrey Kingsbury",
@@ -673,7 +632,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 27750,
+      "price": 22750,
       "resourceId": 266928,
       "assetId": 266928
     },
@@ -838,7 +797,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 300,
       "resourceId": 267295,
       "assetId": 267295
     },
@@ -887,7 +846,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 268262,
       "assetId": 268262
     },
@@ -1010,7 +969,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 274779,
       "assetId": 274779
     },
@@ -1137,6 +1096,51 @@
       "resourceId": 279908,
       "assetId": 279908
     },
+    "50596987": {
+      "name": "Esme Morgan",
+      "cardName": "Morgan",
+      "originalVersionId": "87",
+      "clubId": 116304,
+      "leagueId": 2221,
+      "countryId": 14,
+      "versionId": "87",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        28,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48,
+        113
+      ],
+      "rolesPlusPlus": [
+        11,
+        48,
+        113
+      ],
+      "attributes": [
+        78,
+        43,
+        80,
+        76,
+        83,
+        80
+      ],
+      "isObjective": true,
+      "hasDynamicImage": false,
+      "resourceId": 50596987,
+      "assetId": 265339
+    },
     "50603865": {
       "name": "Gift Monday",
       "cardName": "Monday",
@@ -1179,7 +1183,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 11000,
       "resourceId": 50603865,
       "assetId": 272217
     }
