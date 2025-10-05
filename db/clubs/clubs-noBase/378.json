@@ -1,6 +1,51 @@
 {
   "clubName": "Stade Brestois 29",
   "players": {
+    "50547058": {
+      "name": "Brendan Chardonnet",
+      "cardName": "Chardonnet",
+      "originalVersionId": "150",
+      "clubId": 378,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "150",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13,
+        111
+      ],
+      "rolesPlusPlus": [
+        12,
+        13,
+        111
+      ],
+      "attributes": [
+        75,
+        55,
+        65,
+        70,
+        85,
+        85
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50547058,
+      "assetId": 215410
+    },
     "50551381": {
       "name": "Ludovic Ajorque",
       "cardName": "Ajorque",
@@ -42,7 +87,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 10750,
+      "price": 11000,
       "resourceId": 50551381,
       "assetId": 219733
     }

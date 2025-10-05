@@ -109,7 +109,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 76730,
       "assetId": 76730
     },
@@ -194,51 +194,6 @@
       "price": 350,
       "resourceId": 204105,
       "assetId": 204105
-    },
-    "215410": {
-      "name": "Brendan Chardonnet",
-      "cardName": "Chardonnet",
-      "originalVersionId": "0",
-      "clubId": 378,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "2002",
-      "rating": 77,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        15,
-        16,
-        19
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        12,
-        13
-      ],
-      "rolesPlusPlus": [
-        11,
-        12,
-        13
-      ],
-      "attributes": [
-        46,
-        46,
-        54,
-        60,
-        79,
-        76
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 215410,
-      "assetId": 215410
     },
     "230020": {
       "name": "Pierre Lees-Melou",
@@ -577,7 +532,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 252541,
       "assetId": 252541
     },
@@ -616,7 +571,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 550,
       "resourceId": 262344,
       "assetId": 262344
     },
@@ -654,7 +609,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 263908,
       "assetId": 263908
     },
@@ -778,7 +733,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 271691,
       "assetId": 271691
     },
@@ -819,9 +774,54 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 279573,
       "assetId": 279573
+    },
+    "50547058": {
+      "name": "Brendan Chardonnet",
+      "cardName": "Chardonnet",
+      "originalVersionId": "150",
+      "clubId": 378,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "150",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13,
+        111
+      ],
+      "rolesPlusPlus": [
+        12,
+        13,
+        111
+      ],
+      "attributes": [
+        75,
+        55,
+        65,
+        70,
+        85,
+        85
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50547058,
+      "assetId": 215410
     },
     "50551381": {
       "name": "Ludovic Ajorque",
@@ -864,7 +864,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 10750,
+      "price": 11000,
       "resourceId": 50551381,
       "assetId": 219733
     },
@@ -911,7 +911,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 50558882,
       "assetId": 227234
     },
@@ -959,7 +959,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 550,
       "resourceId": 50580221,
       "assetId": 248573
     },
@@ -1050,7 +1050,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 50606340,
       "assetId": 274692
     }
