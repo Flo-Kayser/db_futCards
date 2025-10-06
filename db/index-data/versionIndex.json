@@ -131,7 +131,7 @@
       }
     },
     "150": {
-      "count": 51,
+      "count": 52,
       "file": "db/versions/150.json",
       "details": {
         "name": "Cornerstones",
@@ -154,6 +154,19 @@
         "primaryColor": "#fffffe",
         "secondaryColor": "#54462b",
         "tertiaryColor": "#94792e"
+      }
+    },
+    "177": {
+      "count": 1,
+      "file": "db/versions/177.json",
+      "details": {
+        "name": "POTM LIGA F",
+        "hasStrip": true,
+        "createdAt": "2025-09-17T17:01:45.964Z",
+        "url": "https://cdn.easysbc.io/fc26/cards/e_177_0.png",
+        "primaryColor": "#f3f3f3",
+        "secondaryColor": "#00256a",
+        "tertiaryColor": "#00ead2"
       }
     },
     "2000": {
@@ -236,8 +249,8 @@
     }
   },
   "meta": {
-    "totalVersions": 18,
-    "totalVersionsWithoutBase": 12,
-    "updatedAt": "2025-10-05T17:26:28.987Z"
+    "totalVersions": 19,
+    "totalVersionsWithoutBase": 13,
+    "updatedAt": "2025-10-06T17:27:38.359Z"
   }
 }

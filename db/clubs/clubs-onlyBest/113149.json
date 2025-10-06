@@ -113,7 +113,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 400,
       "resourceId": 176048,
       "assetId": 176048
     },
@@ -286,7 +286,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 215565,
       "assetId": 215565
     },
@@ -330,7 +330,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 216346,
       "assetId": 216346
     },
@@ -377,7 +377,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 217242,
       "assetId": 217242
     },
@@ -418,7 +418,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 221680,
       "assetId": 221680
     },
@@ -463,54 +463,6 @@
       "price": 0,
       "resourceId": 226495,
       "assetId": 226495
-    },
-    "234505": {
-      "name": "Evander",
-      "cardName": "Evander",
-      "originalVersionId": "0",
-      "clubId": 113149,
-      "leagueId": 39,
-      "countryId": 54,
-      "versionId": "2002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [
-        10,
-        20,
-        7,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        21,
-        31,
-        132
-      ],
-      "rolesPlusPlus": [
-        21,
-        31,
-        132
-      ],
-      "attributes": [
-        72,
-        77,
-        78,
-        81,
-        66,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 234505,
-      "assetId": 234505
     },
     "237254": {
       "name": "Kévin Denkey",
@@ -588,7 +540,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 850,
       "resourceId": 237255,
       "assetId": 237255
     },
@@ -760,7 +712,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 800,
       "resourceId": 246423,
       "assetId": 246423
     },
@@ -842,7 +794,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 258620,
       "assetId": 258620
     },
@@ -926,7 +878,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 260842,
       "assetId": 260842
     },
@@ -963,7 +915,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 750,
       "resourceId": 266382,
       "assetId": 266382
     },
@@ -1165,6 +1117,54 @@
       "resourceId": 275602,
       "assetId": 275602
     },
+    "50566153": {
+      "name": "Evander",
+      "cardName": "Evander",
+      "originalVersionId": "150",
+      "clubId": 113149,
+      "leagueId": 39,
+      "countryId": 54,
+      "versionId": "150",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        10,
+        20,
+        7,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31,
+        132
+      ],
+      "rolesPlusPlus": [
+        21,
+        31,
+        132
+      ],
+      "attributes": [
+        80,
+        83,
+        84,
+        85,
+        72,
+        75
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 14300,
+      "resourceId": 50566153,
+      "assetId": 234505
+    },
     "50571980": {
       "name": "Brenner",
       "cardName": "Brenner",
@@ -1202,7 +1202,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 50571980,
       "assetId": 240332
     },
