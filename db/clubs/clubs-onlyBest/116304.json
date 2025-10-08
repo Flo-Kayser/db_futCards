@@ -80,7 +80,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 550,
       "resourceId": 71560,
       "assetId": 71560
     },
@@ -118,7 +118,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 71561,
       "assetId": 71561
     },
@@ -243,7 +243,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 241224,
       "assetId": 241224
     },
@@ -501,7 +501,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1400,
       "resourceId": 258979,
       "assetId": 258979
     },
@@ -632,7 +632,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 29000,
+      "price": 31250,
       "resourceId": 266928,
       "assetId": 266928
     },
@@ -715,7 +715,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 267243,
       "assetId": 267243
     },
@@ -797,58 +797,9 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 267295,
       "assetId": 267295
-    },
-    "268262": {
-      "name": "Rosemonde Kouassi",
-      "cardName": "Kouassi",
-      "originalVersionId": "1",
-      "clubId": 116304,
-      "leagueId": 2221,
-      "countryId": 108,
-      "versionId": "3002",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM"
-      ],
-      "playStyles": [
-        21
-      ],
-      "playStylesPlus": [
-        25
-      ],
-      "rolesPlus": [
-        26,
-        29,
-        30,
-        39
-      ],
-      "rolesPlusPlus": [
-        26,
-        29,
-        30,
-        39
-      ],
-      "attributes": [
-        94,
-        79,
-        71,
-        80,
-        37,
-        75
-      ],
-      "hasDynamicImage": false,
-      "price": 950,
-      "resourceId": 268262,
-      "assetId": 268262
     },
     "272115": {
       "name": "Leicy Santos",
@@ -930,7 +881,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 273493,
       "assetId": 273493
     },
@@ -969,7 +920,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 274779,
       "assetId": 274779
     },
@@ -1141,6 +1092,58 @@
       "resourceId": 50596987,
       "assetId": 265339
     },
+    "50599910": {
+      "name": "Rosemonde Kouassi",
+      "cardName": "Kouassi",
+      "originalVersionId": "3",
+      "clubId": 116304,
+      "leagueId": 2221,
+      "countryId": 108,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        21,
+        4
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        26,
+        29,
+        30,
+        39,
+        140
+      ],
+      "rolesPlusPlus": [
+        26,
+        29,
+        30,
+        39,
+        140
+      ],
+      "attributes": [
+        95,
+        82,
+        76,
+        83,
+        41,
+        79
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50599910,
+      "assetId": 268262
+    },
     "50603865": {
       "name": "Gift Monday",
       "cardName": "Monday",
@@ -1183,7 +1186,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 12500,
       "resourceId": 50603865,
       "assetId": 272217
     }
