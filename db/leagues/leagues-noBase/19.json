@@ -40,7 +40,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 243000,
+    "price": 255000,
     "resourceId": 5454,
     "assetId": 5454
   },
@@ -92,7 +92,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 524000,
+    "price": 590000,
     "resourceId": 28765,
     "assetId": 28765
   },
@@ -135,7 +135,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 88000,
+    "price": 81000,
     "resourceId": 150418,
     "assetId": 150418
   },
@@ -183,7 +183,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 474000,
+    "price": 445000,
     "resourceId": 166676,
     "assetId": 166676
   },
@@ -230,7 +230,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 97000,
+    "price": 105000,
     "resourceId": 261593,
     "assetId": 261593
   },
@@ -322,7 +322,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 143000,
+    "price": 115000,
     "resourceId": 50533774,
     "assetId": 202126
   },
@@ -370,7 +370,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 20750,
+    "price": 20250,
     "resourceId": 50536286,
     "assetId": 204638
   },
@@ -419,7 +419,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 88600,
+    "sbcPrice": 95500,
     "price": 68500,
     "resourceId": 50541306,
     "assetId": 209658
@@ -467,7 +467,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 11750,
     "resourceId": 50541494,
     "assetId": 209846
   },
@@ -565,7 +565,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 15000,
     "resourceId": 50557023,
     "assetId": 225375
   },
@@ -612,7 +612,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 10750,
     "resourceId": 50557280,
     "assetId": 225632
   },
@@ -656,7 +656,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 16250,
     "resourceId": 50568351,
     "assetId": 236703
   },
@@ -708,7 +708,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 287000,
+    "price": 290000,
     "resourceId": 50572732,
     "assetId": 241084
   },
@@ -806,7 +806,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 51500,
+    "price": 51000,
     "resourceId": 50582607,
     "assetId": 250959
   },
@@ -860,7 +860,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 441000,
+    "price": 445000,
     "resourceId": 50583500,
     "assetId": 251852
   },
@@ -909,7 +909,8 @@
       34,
       78
     ],
-    "hasDynamicImage": false,
+    "hasDynamicImage": true,
+    "price": 10500,
     "resourceId": 50583609,
     "assetId": 251961
   },
@@ -964,7 +965,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 46250,
+    "price": 45250,
     "resourceId": 50588501,
     "assetId": 256853
   },
@@ -1011,7 +1012,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 19800,
+    "sbcPrice": 20200,
     "resourceId": 50591004,
     "assetId": 259356
   },
@@ -1161,8 +1162,58 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 210000,
+    "price": 224000,
     "resourceId": 67349948,
     "assetId": 241084
+  },
+  "84088206": {
+    "name": "Harry Kane",
+    "cardName": "Kane",
+    "originalVersionId": "42",
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 14,
+    "versionId": "42",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      10,
+      22,
+      4,
+      7
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      42,
+      44,
+      141
+    ],
+    "rolesPlusPlus": [
+      42,
+      44,
+      141
+    ],
+    "attributes": [
+      72,
+      93,
+      84,
+      83,
+      51,
+      84
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 195250,
+    "price": 186650,
+    "resourceId": 84088206,
+    "assetId": 202126
   }
 }

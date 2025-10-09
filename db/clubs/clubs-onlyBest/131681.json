@@ -34,7 +34,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 72179,
       "assetId": 72179
     },
@@ -74,7 +74,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 700,
       "resourceId": 205812,
       "assetId": 205812
     },
@@ -164,7 +164,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 20750,
+      "price": 21750,
       "resourceId": 215698,
       "assetId": 215698
     },
@@ -295,7 +295,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 350,
       "resourceId": 240277,
       "assetId": 240277
     },
@@ -343,7 +343,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 48250,
+      "price": 46500,
       "resourceId": 241721,
       "assetId": 241721
     },
@@ -387,7 +387,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 243627,
       "assetId": 243627
     },
@@ -475,7 +475,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 245630,
       "assetId": 245630
     },
@@ -610,7 +610,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 253473,
       "assetId": 253473
     },
@@ -653,7 +653,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 254840,
       "assetId": 254840
     },
@@ -739,7 +739,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 450,
       "resourceId": 265774,
       "assetId": 265774
     },
@@ -861,7 +861,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 2200,
       "resourceId": 279782,
       "assetId": 279782
     },
@@ -948,7 +948,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 28000,
+      "price": 28750,
       "resourceId": 50508651,
       "assetId": 177003
     },
@@ -994,64 +994,9 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 750,
       "resourceId": 50541656,
       "assetId": 210008
-    },
-    "50559444": {
-      "name": "Christian Pulisic",
-      "cardName": "Pulisic",
-      "originalVersionId": "3",
-      "clubId": 131681,
-      "leagueId": 31,
-      "countryId": 95,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        25,
-        3,
-        6,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        33,
-        36,
-        37,
-        135,
-        143
-      ],
-      "rolesPlusPlus": [
-        26,
-        33,
-        36,
-        37,
-        135,
-        143
-      ],
-      "attributes": [
-        90,
-        84,
-        82,
-        88,
-        49,
-        68
-      ],
-      "hasDynamicImage": true,
-      "price": 201000,
-      "resourceId": 50559444,
-      "assetId": 227796
     },
     "50564059": {
       "name": "Christopher Nkunku",
@@ -1193,9 +1138,64 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 11250,
       "resourceId": 50574312,
       "assetId": 242664
+    },
+    "67336660": {
+      "name": "Christian Pulisic",
+      "cardName": "Pulisic",
+      "originalVersionId": "114",
+      "clubId": 131681,
+      "leagueId": 31,
+      "countryId": 95,
+      "versionId": "114",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        25,
+        3,
+        6,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        33,
+        36,
+        37,
+        135,
+        143
+      ],
+      "rolesPlusPlus": [
+        26,
+        33,
+        36,
+        37,
+        135,
+        143
+      ],
+      "attributes": [
+        91,
+        85,
+        83,
+        89,
+        50,
+        69
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 320250,
+      "resourceId": 67336660,
+      "assetId": 227796
     }
   }
 }
