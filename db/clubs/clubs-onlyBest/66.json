@@ -280,7 +280,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 225782,
       "assetId": 225782
     },
@@ -365,7 +365,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 234078,
       "assetId": 234078
     },
@@ -402,7 +402,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 400,
       "resourceId": 234371,
       "assetId": 234371
     },
@@ -618,7 +618,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 256420,
       "assetId": 256420
     },
@@ -665,7 +665,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 300,
       "resourceId": 256970,
       "assetId": 256970
     },
@@ -704,7 +704,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 262102,
       "assetId": 262102
     },
@@ -783,51 +783,9 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 263815,
       "assetId": 263815
-    },
-    "265459": {
-      "name": "Tyler Morton",
-      "cardName": "Morton",
-      "originalVersionId": "1",
-      "clubId": 66,
-      "leagueId": 16,
-      "countryId": 14,
-      "versionId": "3001",
-      "rating": 72,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        17,
-        18,
-        49
-      ],
-      "rolesPlusPlus": [
-        17,
-        18,
-        49
-      ],
-      "attributes": [
-        64,
-        59,
-        74,
-        73,
-        66,
-        65
-      ],
-      "hasDynamicImage": false,
-      "price": 1000,
-      "resourceId": 265459,
-      "assetId": 265459
     },
     "268312": {
       "name": "Saël Kumbedi",
@@ -909,7 +867,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 268763,
       "assetId": 268763
     },
@@ -984,7 +942,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 550,
       "resourceId": 276747,
       "assetId": 276747
     },
@@ -1023,7 +981,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 250,
       "resourceId": 276901,
       "assetId": 276901
     },
@@ -1113,7 +1071,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 62000,
+      "price": 63500,
       "resourceId": 50551331,
       "assetId": 219683
     },
@@ -1153,9 +1111,62 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 50595973,
       "assetId": 264325
+    },
+    "50597107": {
+      "name": "Tyler Morton",
+      "cardName": "Morton",
+      "originalVersionId": "22",
+      "clubId": 66,
+      "leagueId": 16,
+      "countryId": 14,
+      "versionId": "22",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        20,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        17,
+        18,
+        19,
+        21,
+        114,
+        149
+      ],
+      "rolesPlusPlus": [
+        17,
+        18,
+        19,
+        21,
+        114,
+        149
+      ],
+      "attributes": [
+        80,
+        70,
+        87,
+        84,
+        81,
+        76
+      ],
+      "hasDynamicImage": true,
+      "price": 21000,
+      "resourceId": 50597107,
+      "assetId": 265459
     }
   }
 }

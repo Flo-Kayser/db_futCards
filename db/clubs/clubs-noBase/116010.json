@@ -1,6 +1,57 @@
 {
   "clubName": "Chelsea",
   "players": {
+    "50558894": {
+      "name": "Lucy Bronze",
+      "cardName": "Bronze",
+      "originalVersionId": "22",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "22",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        15,
+        26,
+        27
+      ],
+      "playStylesPlus": [
+        14
+      ],
+      "rolesPlus": [
+        3,
+        5,
+        24,
+        106
+      ],
+      "rolesPlusPlus": [
+        3,
+        5,
+        24,
+        106
+      ],
+      "attributes": [
+        83,
+        70,
+        83,
+        81,
+        88,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 281000,
+      "resourceId": 50558894,
+      "assetId": 227246
+    },
     "50569905": {
       "name": "Millie Bright",
       "cardName": "Bright",
@@ -50,7 +101,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 104000,
+      "price": 108000,
       "resourceId": 50569905,
       "assetId": 238257
     },
@@ -155,7 +206,7 @@
         67
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 8700,
+      "sbcPrice": 8200,
       "resourceId": 67382330,
       "assetId": 273466
     }

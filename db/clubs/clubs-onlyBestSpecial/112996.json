@@ -1,6 +1,62 @@
 {
   "clubName": "LAFC",
   "players": {
+    "50531752": {
+      "name": "Heung Min Son",
+      "cardName": "Son",
+      "originalVersionId": "22",
+      "clubId": 112996,
+      "leagueId": 39,
+      "countryId": 167,
+      "versionId": "22",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        12,
+        22,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        29,
+        40,
+        41,
+        127,
+        138,
+        143
+      ],
+      "rolesPlusPlus": [
+        29,
+        40,
+        41,
+        127,
+        138,
+        143
+      ],
+      "attributes": [
+        87,
+        88,
+        85,
+        86,
+        45,
+        76
+      ],
+      "hasDynamicImage": true,
+      "price": 3200000,
+      "resourceId": 50531752,
+      "assetId": 200104
+    },
     "50557599": {
       "name": "Denis Bouanga",
       "cardName": "Bouanga",
@@ -46,7 +102,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 12750,
       "resourceId": 50557599,
       "assetId": 225951
     }

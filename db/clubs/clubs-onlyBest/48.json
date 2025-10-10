@@ -114,7 +114,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1500,
       "resourceId": 192505,
       "assetId": 192505
     },
@@ -163,7 +163,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 11750,
+      "price": 11000,
       "resourceId": 192985,
       "assetId": 192985
     },
@@ -204,7 +204,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 200752,
       "assetId": 200752
     },
@@ -248,7 +248,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 202884,
       "assetId": 202884
     },
@@ -297,7 +297,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 216409,
       "assetId": 216409
     },
@@ -383,7 +383,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 220532,
       "assetId": 220532
     },
@@ -461,7 +461,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 225116,
       "assetId": 225116
     },
@@ -554,54 +554,9 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1000,
       "resourceId": 236632,
       "assetId": 236632
-    },
-    "237238": {
-      "name": "Scott McTominay",
-      "cardName": "McTominay",
-      "originalVersionId": "1",
-      "clubId": 48,
-      "leagueId": 31,
-      "countryId": 42,
-      "versionId": "3002",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        19,
-        20,
-        29,
-        4,
-        6,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18
-      ],
-      "rolesPlusPlus": [
-        18
-      ],
-      "attributes": [
-        76,
-        82,
-        77,
-        80,
-        80,
-        85
-      ],
-      "hasDynamicImage": false,
-      "price": 4200,
-      "resourceId": 237238,
-      "assetId": 237238
     },
     "239380": {
       "name": "Noa Lang",
@@ -685,7 +640,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 239679,
       "assetId": 239679
     },
@@ -817,7 +772,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1000,
       "resourceId": 244263,
       "assetId": 244263
     },
@@ -859,7 +814,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 245992,
       "assetId": 245992
     },
@@ -947,7 +902,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 262394,
       "assetId": 262394
     },
@@ -1108,7 +1063,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 272726,
       "assetId": 272726
     },
@@ -1155,7 +1110,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 276706,
       "assetId": 276706
     },
@@ -1194,7 +1149,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 250,
       "resourceId": 278319,
       "assetId": 278319
     },
@@ -1243,9 +1198,61 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 107000,
+      "price": 0,
       "resourceId": 50549518,
       "assetId": 217870
+    },
+    "50568886": {
+      "name": "Scott McTominay",
+      "cardName": "McTominay",
+      "originalVersionId": "22",
+      "clubId": 48,
+      "leagueId": 31,
+      "countryId": 42,
+      "versionId": "22",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        19,
+        20,
+        29,
+        4,
+        6
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        19,
+        31,
+        118,
+        121
+      ],
+      "rolesPlusPlus": [
+        19,
+        31,
+        118,
+        121
+      ],
+      "attributes": [
+        78,
+        84,
+        80,
+        84,
+        82,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 1300000,
+      "resourceId": 50568886,
+      "assetId": 237238
     },
     "50573038": {
       "name": "Eljif Elmas",

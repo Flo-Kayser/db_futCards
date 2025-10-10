@@ -26,6 +26,19 @@
         "tertiaryColor": "#94792e"
       }
     },
+    "22": {
+      "count": 22,
+      "file": "db/versions/22.json",
+      "details": {
+        "name": "Ratings Reload",
+        "hasStrip": true,
+        "createdAt": "2025-10-03T19:15:00.368Z",
+        "url": "https://cdn.easysbc.io/fc26/cards/e_22_0.png",
+        "primaryColor": "#fff6dd",
+        "secondaryColor": "#563b12",
+        "tertiaryColor": "#b89258"
+      }
+    },
     "42": {
       "count": 1,
       "file": "db/versions/42.json",
@@ -37,6 +50,19 @@
         "primaryColor": "#ffffff",
         "secondaryColor": "#93020e",
         "tertiaryColor": "#d10214"
+      }
+    },
+    "43": {
+      "count": 1,
+      "file": "db/versions/43.json",
+      "details": {
+        "name": "POTM Premier League",
+        "hasStrip": true,
+        "createdAt": "2025-09-17T17:01:45.964Z",
+        "url": "https://cdn.easysbc.io/fc26/cards/e_43_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#3d195b",
+        "tertiaryColor": "#00f5ff"
       }
     },
     "51": {
@@ -275,8 +301,8 @@
     }
   },
   "meta": {
-    "totalVersions": 21,
-    "totalVersionsWithoutBase": 15,
-    "updatedAt": "2025-10-09T17:29:08.257Z"
+    "totalVersions": 23,
+    "totalVersionsWithoutBase": 17,
+    "updatedAt": "2025-10-10T17:26:41.001Z"
   }
 }
