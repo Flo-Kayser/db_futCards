@@ -51,7 +51,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 3200000,
+    "price": 482000,
     "resourceId": 50531752,
     "assetId": 200104
   },
@@ -97,6 +97,7 @@
       74
     ],
     "hasDynamicImage": true,
+    "price": 16000,
     "resourceId": 50536618,
     "assetId": 204970
   },
@@ -197,7 +198,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 281000,
+    "price": 100000,
     "resourceId": 50558894,
     "assetId": 227246
   },
@@ -244,6 +245,7 @@
       86
     ],
     "hasDynamicImage": true,
+    "price": 60000,
     "resourceId": 50564136,
     "assetId": 232488
   },
@@ -295,7 +297,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 999000,
+    "price": 324000,
     "resourceId": 50567442,
     "assetId": 235794
   },
@@ -348,7 +350,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 10500,
     "resourceId": 50568566,
     "assetId": 236918
   },
@@ -400,7 +402,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 1300000,
+    "price": 172000,
     "resourceId": 50568886,
     "assetId": 237238
   },
@@ -448,7 +450,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 0,
+    "price": 76000,
     "resourceId": 50570879,
     "assetId": 239231
   },
@@ -495,7 +497,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 5000000,
+    "price": 1079000,
     "resourceId": 50577839,
     "assetId": 246191
   },
@@ -544,7 +546,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 0,
+    "price": 324000,
     "resourceId": 50588937,
     "assetId": 257289
   },
@@ -590,7 +592,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 12500,
     "resourceId": 50594661,
     "assetId": 263013
   },
@@ -641,7 +643,8 @@
       61
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 72450,
+    "sbcPrice": 72750,
+    "price": 63350,
     "resourceId": 50595957,
     "assetId": 264309
   },
@@ -693,8 +696,59 @@
       85
     ],
     "hasDynamicImage": true,
+    "price": 10500,
     "resourceId": 50596538,
     "assetId": 264890
+  },
+  "50597098": {
+    "name": "Johan Bakayoko",
+    "cardName": "Bakayoko",
+    "originalVersionId": "22",
+    "clubId": 112172,
+    "leagueId": 19,
+    "countryId": 7,
+    "versionId": "22",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      12,
+      20,
+      25,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      23,
+      35,
+      126,
+      136
+    ],
+    "rolesPlusPlus": [
+      23,
+      35,
+      126,
+      136
+    ],
+    "attributes": [
+      88,
+      82,
+      78,
+      87,
+      40,
+      70
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 49050,
+    "resourceId": 50597098,
+    "assetId": 265450
   },
   "50597107": {
     "name": "Tyler Morton",
@@ -745,7 +799,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 11000,
     "resourceId": 50597107,
     "assetId": 265459
   },
@@ -801,7 +855,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 0,
+    "price": 810000,
     "resourceId": 50598576,
     "assetId": 266928
   },
@@ -849,7 +903,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 22750,
+    "price": 12500,
     "resourceId": 50599023,
     "assetId": 267375
   },
@@ -903,7 +957,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 0,
+    "price": 795000,
     "resourceId": 50601052,
     "assetId": 269404
   },
@@ -957,6 +1011,7 @@
       65
     ],
     "hasDynamicImage": true,
+    "price": 67000,
     "resourceId": 50608943,
     "assetId": 277295
   },
@@ -1009,6 +1064,7 @@
       72
     ],
     "hasDynamicImage": true,
+    "price": 10500,
     "resourceId": 50609574,
     "assetId": 277926
   },
@@ -1056,8 +1112,107 @@
       83
     ],
     "hasDynamicImage": true,
+    "price": 110000,
     "resourceId": 50609694,
     "assetId": 278046
+  },
+  "67343100": {
+    "name": "Patrik Schick",
+    "cardName": "Schick",
+    "originalVersionId": "22",
+    "clubId": 32,
+    "leagueId": 19,
+    "countryId": 12,
+    "versionId": "22",
+    "rating": 86,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      22,
+      4,
+      5,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      42,
+      44,
+      141
+    ],
+    "rolesPlusPlus": [
+      42,
+      44,
+      141
+    ],
+    "attributes": [
+      83,
+      86,
+      76,
+      84,
+      39,
+      81
+    ],
+    "hasDynamicImage": false,
+    "sbcPrice": 19250,
+    "price": 0,
+    "resourceId": 67343100,
+    "assetId": 234236
+  },
+  "67350100": {
+    "name": "Antoine Semenyo",
+    "cardName": "Semenyo",
+    "originalVersionId": "22",
+    "clubId": 1943,
+    "leagueId": 13,
+    "countryId": 117,
+    "versionId": "22",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 3,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      19,
+      27,
+      29,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      26,
+      30,
+      123,
+      135
+    ],
+    "rolesPlusPlus": [
+      26,
+      30,
+      123,
+      135
+    ],
+    "attributes": [
+      87,
+      85,
+      80,
+      86,
+      46,
+      84
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 49050,
+    "resourceId": 67350100,
+    "assetId": 241236
   },
   "67356691": {
     "name": "Michael Olise",
@@ -1108,7 +1263,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 1200000,
+    "price": 479000,
     "resourceId": 67356691,
     "assetId": 247827
   }
