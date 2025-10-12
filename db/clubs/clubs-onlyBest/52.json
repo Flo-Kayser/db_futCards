@@ -78,7 +78,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 750,
       "resourceId": 80170,
       "assetId": 80170
     },
@@ -120,7 +120,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 190813,
       "assetId": 190813
     },
@@ -165,7 +165,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 208268,
       "assetId": 208268
     },
@@ -218,7 +218,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 7200,
+      "price": 7600,
       "resourceId": 211110,
       "assetId": 211110
     },
@@ -387,7 +387,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 229668,
       "assetId": 229668
     },
@@ -427,7 +427,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 229906,
       "assetId": 229906
     },
@@ -467,7 +467,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 230872,
       "assetId": 230872
     },
@@ -551,7 +551,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 236403,
       "assetId": 236403
     },
@@ -676,7 +676,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1200,
       "resourceId": 258826,
       "assetId": 258826
     },
@@ -715,7 +715,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 259608,
       "assetId": 259608
     },
@@ -846,52 +846,6 @@
       "resourceId": 262745,
       "assetId": 262745
     },
-    "265695": {
-      "name": "Matías Soulé",
-      "cardName": "Soulé",
-      "originalVersionId": "0",
-      "clubId": 52,
-      "leagueId": 31,
-      "countryId": 52,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "RM"
-      ],
-      "playStyles": [
-        0,
-        20,
-        3,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        33
-      ],
-      "rolesPlusPlus": [
-        26,
-        33
-      ],
-      "attributes": [
-        79,
-        74,
-        76,
-        81,
-        36,
-        58
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 265695,
-      "assetId": 265695
-    },
     "268728": {
       "name": "Anass Salah-Eddine",
       "cardName": "Salah-Eddine",
@@ -1010,7 +964,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 275291,
       "assetId": 275291
     },
@@ -1087,7 +1041,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 500,
       "resourceId": 279200,
       "assetId": 279200
     },
@@ -1135,7 +1089,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 12750,
       "resourceId": 50559899,
       "assetId": 228251
     },
@@ -1183,7 +1137,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 12250,
       "resourceId": 50561230,
       "assetId": 229582
     },
@@ -1223,9 +1177,60 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 50563871,
       "assetId": 232223
+    },
+    "50597343": {
+      "name": "Matías Soulé",
+      "cardName": "Soulé",
+      "originalVersionId": "22",
+      "clubId": 52,
+      "leagueId": 31,
+      "countryId": 52,
+      "versionId": "22",
+      "rating": 83,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        20,
+        3,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        33,
+        121,
+        131
+      ],
+      "rolesPlusPlus": [
+        26,
+        33,
+        121,
+        131
+      ],
+      "attributes": [
+        84,
+        82,
+        84,
+        86,
+        42,
+        65
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50597343,
+      "assetId": 265695
     },
     "50608328": {
       "name": "Jan Ziółkowski",
@@ -1262,7 +1267,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 550,
       "resourceId": 50608328,
       "assetId": 276680
     }
