@@ -77,7 +77,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 2800,
+      "price": 600,
       "resourceId": 72754,
       "assetId": 72754
     },
@@ -195,7 +195,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 196978,
       "assetId": 196978
     },
@@ -583,7 +583,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 242000,
       "assetId": 242000
     },
@@ -625,7 +625,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 750,
       "resourceId": 242271,
       "assetId": 242271
     },
@@ -712,7 +712,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 245336,
       "assetId": 245336
     },
@@ -754,7 +754,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 245388,
       "assetId": 245388
     },
@@ -794,7 +794,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 246158,
       "assetId": 246158
     },
@@ -838,7 +838,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 251954,
       "assetId": 251954
     },
@@ -925,7 +925,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 274102,
       "assetId": 274102
     },
@@ -966,46 +966,6 @@
       "resourceId": 274104,
       "assetId": 274104
     },
-    "274915": {
-      "name": "El Hadji Malick Diouf",
-      "cardName": "Diouf",
-      "originalVersionId": "0",
-      "clubId": 19,
-      "leagueId": 13,
-      "countryId": 136,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        10,
-        28
-      ],
-      "rolesPlusPlus": [
-        10,
-        28
-      ],
-      "attributes": [
-        80,
-        67,
-        68,
-        74,
-        70,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 274915,
-      "assetId": 274915
-    },
     "278097": {
       "name": "George Earthy",
       "cardName": "Earthy",
@@ -1043,7 +1003,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 278097,
       "assetId": 278097
     },
@@ -1084,7 +1044,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 650,
       "resourceId": 278101,
       "assetId": 278101
     },
@@ -1189,7 +1149,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 23750,
+      "sbcPrice": 23500,
       "resourceId": 50556019,
       "assetId": 224371
     },
@@ -1235,7 +1195,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 550,
       "resourceId": 50573233,
       "assetId": 241585
     },
@@ -1280,9 +1240,56 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 50602505,
       "assetId": 270857
+    },
+    "50606563": {
+      "name": "El Hadji Malick Diouf",
+      "cardName": "Diouf",
+      "originalVersionId": "22",
+      "clubId": 19,
+      "leagueId": 13,
+      "countryId": 136,
+      "versionId": "22",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        14,
+        19,
+        21,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        28,
+        107
+      ],
+      "rolesPlusPlus": [
+        10,
+        28,
+        107
+      ],
+      "attributes": [
+        85,
+        75,
+        76,
+        80,
+        82,
+        84
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50606563,
+      "assetId": 274915
     },
     "50606750": {
       "name": "Soungoutou Magassa",
@@ -1325,7 +1332,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 50606750,
       "assetId": 275102
     }
