@@ -51,7 +51,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 384000,
+    "price": 360000,
     "resourceId": 50531752,
     "assetId": 200104
   },
@@ -97,7 +97,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 12250,
     "resourceId": 50536618,
     "assetId": 204970
   },
@@ -198,7 +198,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 85000,
+    "price": 73500,
     "resourceId": 50558894,
     "assetId": 227246
   },
@@ -245,7 +245,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 49500,
+    "price": 40250,
     "resourceId": 50564136,
     "assetId": 232488
   },
@@ -297,7 +297,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 230000,
+    "price": 213000,
     "resourceId": 50567442,
     "assetId": 235794
   },
@@ -344,7 +344,8 @@
       90
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 27000,
+    "sbcPrice": 27700,
+    "price": 25550,
     "resourceId": 50568109,
     "assetId": 236461
   },
@@ -449,7 +450,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 123000,
+    "price": 96000,
     "resourceId": 50568886,
     "assetId": 237238
   },
@@ -497,9 +498,58 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 59000,
+    "price": 57000,
     "resourceId": 50570879,
     "assetId": 239231
+  },
+  "50573355": {
+    "name": "Pape Gueye",
+    "cardName": "Gueye",
+    "originalVersionId": "22",
+    "clubId": 483,
+    "leagueId": 53,
+    "countryId": 136,
+    "versionId": "22",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      16,
+      19,
+      2,
+      24
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      15,
+      18,
+      114,
+      119
+    ],
+    "rolesPlusPlus": [
+      15,
+      18,
+      114,
+      119
+    ],
+    "attributes": [
+      75,
+      72,
+      82,
+      82,
+      83,
+      85
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 29700,
+    "resourceId": 50573355,
+    "assetId": 241707
   },
   "50577839": {
     "name": "Julián Alvarez",
@@ -544,7 +594,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 729000,
+    "price": 689000,
     "resourceId": 50577839,
     "assetId": 246191
   },
@@ -593,7 +643,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 248000,
+    "price": 235000,
     "resourceId": 50588937,
     "assetId": 257289
   },
@@ -743,7 +793,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10500,
     "resourceId": 50596538,
     "assetId": 264890
   },
@@ -793,7 +843,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 48700,
+    "sbcPrice": 48950,
     "resourceId": 50597098,
     "assetId": 265450
   },
@@ -953,7 +1003,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 605000,
+    "price": 549000,
     "resourceId": 50598576,
     "assetId": 266928
   },
@@ -1001,7 +1051,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11500,
     "resourceId": 50599023,
     "assetId": 267375
   },
@@ -1055,7 +1105,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 665000,
+    "price": 640000,
     "resourceId": 50601052,
     "assetId": 269404
   },
@@ -1103,6 +1153,7 @@
     ],
     "isObjective": true,
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50606563,
     "assetId": 274915
   },
@@ -1156,7 +1207,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 52000,
+    "price": 44750,
     "resourceId": 50608943,
     "assetId": 277295
   },
@@ -1209,7 +1260,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 10500,
+    "price": 11000,
     "resourceId": 50609574,
     "assetId": 277926
   },
@@ -1257,7 +1308,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 91000,
+    "price": 81000,
     "resourceId": 50609694,
     "assetId": 278046
   },
@@ -1303,8 +1354,8 @@
       39,
       81
     ],
-    "hasDynamicImage": false,
-    "sbcPrice": 18750,
+    "hasDynamicImage": true,
+    "sbcPrice": 19250,
     "price": 0,
     "resourceId": 67343100,
     "assetId": 234236
@@ -1355,9 +1406,55 @@
       84
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 48700,
+    "sbcPrice": 48950,
     "resourceId": 67350100,
     "assetId": 241236
+  },
+  "67353613": {
+    "name": "Nayef Aguerd",
+    "cardName": "Aguerd",
+    "originalVersionId": "22",
+    "clubId": 219,
+    "leagueId": 16,
+    "countryId": 129,
+    "versionId": "22",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      15,
+      17,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      12,
+      13,
+      111
+    ],
+    "rolesPlusPlus": [
+      12,
+      13,
+      111
+    ],
+    "attributes": [
+      78,
+      55,
+      72,
+      71,
+      86,
+      85
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 29700,
+    "resourceId": 67353613,
+    "assetId": 244749
   },
   "67356691": {
     "name": "Michael Olise",
@@ -1408,7 +1505,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 316000,
+    "price": 281000,
     "resourceId": 67356691,
     "assetId": 247827
   }

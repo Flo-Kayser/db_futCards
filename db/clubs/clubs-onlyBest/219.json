@@ -189,7 +189,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 188567,
       "assetId": 188567
     },
@@ -237,7 +237,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 350,
       "resourceId": 201455,
       "assetId": 201455
     },
@@ -359,7 +359,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 211784,
       "assetId": 211784
     },
@@ -450,7 +450,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 232097,
       "assetId": 232097
     },
@@ -492,7 +492,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 235875,
       "assetId": 235875
     },
@@ -539,7 +539,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 236804,
       "assetId": 236804
     },
@@ -580,7 +580,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 237841,
       "assetId": 237841
     },
@@ -620,7 +620,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 239559,
       "assetId": 239559
     },
@@ -710,7 +710,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 241496,
       "assetId": 241496
     },
@@ -883,7 +883,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 246147,
       "assetId": 246147
     },
@@ -1000,7 +1000,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 263602,
       "assetId": 263602
     },
@@ -1083,7 +1083,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 268131,
       "assetId": 268131
     },
@@ -1203,7 +1203,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 50542384,
       "assetId": 210736
     },
@@ -1244,7 +1244,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 17500,
       "resourceId": 50546964,
       "assetId": 215316
     },
@@ -1438,51 +1438,6 @@
       "resourceId": 50572435,
       "assetId": 240787
     },
-    "50576397": {
-      "name": "Nayef Aguerd",
-      "cardName": "Aguerd",
-      "originalVersionId": "1",
-      "clubId": 219,
-      "leagueId": 16,
-      "countryId": 129,
-      "versionId": "3002",
-      "rating": 81,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10,
-        17,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        12,
-        13
-      ],
-      "rolesPlusPlus": [
-        11,
-        12,
-        13
-      ],
-      "attributes": [
-        72,
-        50,
-        67,
-        65,
-        82,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 50576397,
-      "assetId": 244749
-    },
     "50601507": {
       "name": "Arthur Vermeeren",
       "cardName": "Vermeeren",
@@ -1525,7 +1480,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 50601507,
       "assetId": 269859
     },
@@ -1572,9 +1527,55 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 66500,
+      "price": 65000,
       "resourceId": 67335715,
       "assetId": 226851
+    },
+    "67353613": {
+      "name": "Nayef Aguerd",
+      "cardName": "Aguerd",
+      "originalVersionId": "22",
+      "clubId": 219,
+      "leagueId": 16,
+      "countryId": 129,
+      "versionId": "22",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        17,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13,
+        111
+      ],
+      "rolesPlusPlus": [
+        12,
+        13,
+        111
+      ],
+      "attributes": [
+        78,
+        55,
+        72,
+        71,
+        86,
+        85
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 29700,
+      "resourceId": 67353613,
+      "assetId": 244749
     }
   }
 }
