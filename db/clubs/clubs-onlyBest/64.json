@@ -38,7 +38,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 70005,
       "assetId": 70005
     },
@@ -159,7 +159,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 550,
       "resourceId": 75320,
       "assetId": 75320
     },
@@ -310,7 +310,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 1000,
       "resourceId": 176994,
       "assetId": 176994
     },
@@ -392,7 +392,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 212613,
       "assetId": 212613
     },
@@ -481,7 +481,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 221284,
       "assetId": 221284
     },
@@ -527,7 +527,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 223597,
       "assetId": 223597
     },
@@ -618,7 +618,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 227232,
       "assetId": 227232
     },
@@ -664,7 +664,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 4000,
       "resourceId": 229236,
       "assetId": 229236
     },
@@ -707,7 +707,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 235454,
       "assetId": 235454
     },
@@ -799,7 +799,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 257020,
       "assetId": 257020
     },
@@ -848,7 +848,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 4600,
+      "price": 4700,
       "resourceId": 258601,
       "assetId": 258601
     },
@@ -971,7 +971,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 300,
       "resourceId": 270997,
       "assetId": 270997
     },
@@ -1008,7 +1008,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 271918,
       "assetId": 271918
     },
@@ -1046,7 +1046,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 276207,
       "assetId": 276207
     },
@@ -1088,52 +1088,6 @@
       "resourceId": 277935,
       "assetId": 277935
     },
-    "50536618": {
-      "name": "Florian Thauvin",
-      "cardName": "Thauvin",
-      "originalVersionId": "22",
-      "clubId": 64,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "22",
-      "rating": 85,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        20,
-        3
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        33,
-        141,
-        143
-      ],
-      "rolesPlusPlus": [
-        33,
-        141,
-        143
-      ],
-      "attributes": [
-        82,
-        87,
-        87,
-        89,
-        54,
-        74
-      ],
-      "hasDynamicImage": true,
-      "price": 12250,
-      "resourceId": 50536618,
-      "assetId": 204970
-    },
     "50565514": {
       "name": "Odsonne Edouard",
       "cardName": "Edouard",
@@ -1171,7 +1125,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 50565514,
       "assetId": 233866
     },
@@ -1213,9 +1167,56 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 50591464,
       "assetId": 259816
+    },
+    "67313834": {
+      "name": "Florian Thauvin",
+      "cardName": "Thauvin",
+      "originalVersionId": "79",
+      "clubId": 64,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "79",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        20,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        43,
+        133,
+        141
+      ],
+      "rolesPlusPlus": [
+        43,
+        133,
+        141
+      ],
+      "attributes": [
+        83,
+        88,
+        87,
+        89,
+        54,
+        75
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 19900,
+      "resourceId": 67313834,
+      "assetId": 204970
     }
   }
 }

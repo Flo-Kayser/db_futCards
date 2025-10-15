@@ -39,7 +39,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 37500,
+    "price": 43000,
     "resourceId": 226306,
     "assetId": 226306
   },
@@ -86,7 +86,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 68000,
+    "price": 77000,
     "resourceId": 226373,
     "assetId": 226373
   },
@@ -185,6 +185,51 @@
     "resourceId": 50580365,
     "assetId": 248717
   },
+  "50580470": {
+    "name": "Klara Bühl",
+    "cardName": "Bühl",
+    "originalVersionId": "3",
+    "clubId": 115995,
+    "leagueId": 2215,
+    "countryId": 21,
+    "versionId": "3",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      12,
+      14,
+      24,
+      3,
+      6,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      130
+    ],
+    "rolesPlusPlus": [
+      130
+    ],
+    "attributes": [
+      86,
+      85,
+      83,
+      87,
+      36,
+      75
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50580470,
+    "assetId": 248822
+  },
   "50596538": {
     "name": "Jovana Damnjanović",
     "cardName": "Damnjanović",
@@ -233,7 +278,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 10500,
+    "price": 11000,
     "resourceId": 50596538,
     "assetId": 264890
   },
@@ -275,7 +320,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 11750,
     "resourceId": 50596703,
     "assetId": 265055
   },
@@ -327,7 +372,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11500,
     "resourceId": 50596717,
     "assetId": 265069
   },
@@ -373,5 +418,53 @@
     "price": 11750,
     "resourceId": 50597030,
     "assetId": 265382
+  },
+  "50603487": {
+    "name": "Selina Vobian",
+    "cardName": "Vobian",
+    "originalVersionId": "3",
+    "clubId": 116002,
+    "leagueId": 2215,
+    "countryId": 21,
+    "versionId": "3",
+    "rating": 81,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM"
+    ],
+    "playStyles": [
+      20,
+      3,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      25,
+      32,
+      33,
+      131
+    ],
+    "rolesPlusPlus": [
+      25,
+      32,
+      33,
+      131
+    ],
+    "attributes": [
+      82,
+      78,
+      83,
+      84,
+      48,
+      65
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50603487,
+    "assetId": 271839
   }
 }

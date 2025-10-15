@@ -111,7 +111,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 400,
       "resourceId": 73163,
       "assetId": 73163
     },
@@ -148,7 +148,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 157970,
       "assetId": 157970
     },
@@ -190,7 +190,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 171791,
       "assetId": 171791
     },
@@ -229,7 +229,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 211561,
       "assetId": 211561
     },
@@ -271,7 +271,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 214606,
       "assetId": 214606
     },
@@ -398,7 +398,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 300,
       "resourceId": 240728,
       "assetId": 240728
     },
@@ -444,7 +444,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 251025,
       "assetId": 251025
     },
@@ -482,7 +482,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 253146,
       "assetId": 253146
     },
@@ -527,7 +527,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 254556,
       "assetId": 254556
     },
@@ -567,7 +567,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 650,
       "resourceId": 254680,
       "assetId": 254680
     },
@@ -689,7 +689,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 260340,
       "assetId": 260340
     },
@@ -769,7 +769,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 263018,
       "assetId": 263018
     },
@@ -812,7 +812,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 550,
       "resourceId": 264825,
       "assetId": 264825
     },
@@ -857,7 +857,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 268275,
       "assetId": 268275
     },
@@ -934,7 +934,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 270587,
       "assetId": 270587
     },
@@ -977,46 +977,6 @@
       "resourceId": 274004,
       "assetId": 274004
     },
-    "50405501": {
-      "name": "Dailon Livramento",
-      "cardName": "Dailon Livramento",
-      "originalVersionId": "1",
-      "clubId": 114510,
-      "leagueId": 308,
-      "countryId": 104,
-      "versionId": "3001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        43,
-        44
-      ],
-      "rolesPlusPlus": [
-        43,
-        44
-      ],
-      "attributes": [
-        82,
-        71,
-        56,
-        68,
-        34,
-        64
-      ],
-      "hasDynamicImage": false,
-      "price": 450,
-      "resourceId": 50405501,
-      "assetId": 73853
-    },
     "50578828": {
       "name": "Abdu Conté",
       "cardName": "Abdu Conté",
@@ -1057,6 +1017,51 @@
       "price": 200,
       "resourceId": 50578828,
       "assetId": 247180
+    },
+    "67182717": {
+      "name": "Dailon Livramento",
+      "cardName": "Dailon Livramento",
+      "originalVersionId": "3",
+      "clubId": 114510,
+      "leagueId": 308,
+      "countryId": 104,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        43,
+        44,
+        142
+      ],
+      "rolesPlusPlus": [
+        43,
+        44,
+        142
+      ],
+      "attributes": [
+        89,
+        83,
+        74,
+        80,
+        45,
+        78
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67182717,
+      "assetId": 73853
     }
   }
 }

@@ -37,7 +37,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 70145,
       "assetId": 70145
     },
@@ -80,7 +80,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 226998,
       "assetId": 226998
     },
@@ -216,7 +216,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 239756,
       "assetId": 239756
     },
@@ -257,7 +257,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 7100,
+      "price": 7400,
       "resourceId": 244302,
       "assetId": 244302
     },
@@ -303,7 +303,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1000,
       "resourceId": 247513,
       "assetId": 247513
     },
@@ -357,52 +357,6 @@
       "resourceId": 247788,
       "assetId": 247788
     },
-    "248822": {
-      "name": "Klara Bühl",
-      "cardName": "Bühl",
-      "originalVersionId": "1",
-      "clubId": 115995,
-      "leagueId": 2215,
-      "countryId": 21,
-      "versionId": "3002",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        0,
-        12,
-        14,
-        24,
-        3,
-        6,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        130
-      ],
-      "rolesPlusPlus": [
-        130
-      ],
-      "attributes": [
-        84,
-        84,
-        81,
-        84,
-        34,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 7300,
-      "resourceId": 248822,
-      "assetId": 248822
-    },
     "259287": {
       "name": "Pernille Harder",
       "cardName": "Harder",
@@ -451,7 +405,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 7200,
+      "price": 7500,
       "resourceId": 259287,
       "assetId": 259287
     },
@@ -494,7 +448,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1500,
       "resourceId": 264886,
       "assetId": 264886
     },
@@ -534,7 +488,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 264899,
       "assetId": 264899
     },
@@ -580,7 +534,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 264903,
       "assetId": 264903
     },
@@ -619,7 +573,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 264908,
       "assetId": 264908
     },
@@ -703,7 +657,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 264994,
       "assetId": 264994
     },
@@ -745,7 +699,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 266933,
       "assetId": 266933
     },
@@ -787,7 +741,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 270525,
       "assetId": 270525
     },
@@ -828,7 +782,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 550,
       "resourceId": 271860,
       "assetId": 271860
     },
@@ -865,7 +819,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 273168,
       "assetId": 273168
     },
@@ -906,7 +860,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 277039,
       "assetId": 277039
     },
@@ -954,7 +908,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 400,
       "resourceId": 277278,
       "assetId": 277278
     },
@@ -1053,6 +1007,51 @@
       "resourceId": 50580365,
       "assetId": 248717
     },
+    "50580470": {
+      "name": "Klara Bühl",
+      "cardName": "Bühl",
+      "originalVersionId": "3",
+      "clubId": 115995,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        14,
+        24,
+        3,
+        6,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        130
+      ],
+      "rolesPlusPlus": [
+        130
+      ],
+      "attributes": [
+        86,
+        85,
+        83,
+        87,
+        36,
+        75
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50580470,
+      "assetId": 248822
+    },
     "50596538": {
       "name": "Jovana Damnjanović",
       "cardName": "Damnjanović",
@@ -1101,7 +1100,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 10500,
+      "price": 11000,
       "resourceId": 50596538,
       "assetId": 264890
     }

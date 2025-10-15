@@ -40,52 +40,6 @@
     "resourceId": 80490,
     "assetId": 80490
   },
-  "203725": {
-    "name": "Virgil Misidjan",
-    "cardName": "Misidjan",
-    "originalVersionId": "0",
-    "clubId": 1910,
-    "leagueId": 10,
-    "countryId": 92,
-    "versionId": "2001",
-    "rating": 70,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      21
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      27,
-      30,
-      43
-    ],
-    "rolesPlusPlus": [
-      27,
-      30,
-      43
-    ],
-    "attributes": [
-      81,
-      62,
-      64,
-      72,
-      34,
-      62
-    ],
-    "hasDynamicImage": false,
-    "price": 450,
-    "resourceId": 203725,
-    "assetId": 203725
-  },
   "204060": {
     "name": "Tjaronn Chery",
     "cardName": "Chery",
@@ -132,7 +86,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 600,
     "resourceId": 204060,
     "assetId": 204060
   },
@@ -175,7 +129,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 300,
     "resourceId": 205402,
     "assetId": 205402
   },
@@ -299,7 +253,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 450,
     "resourceId": 210384,
     "assetId": 210384
   },
@@ -337,7 +291,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 450,
     "resourceId": 212546,
     "assetId": 212546
   },
@@ -385,7 +339,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 500,
     "resourceId": 219814,
     "assetId": 219814
   },
@@ -524,7 +478,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 600,
     "resourceId": 225653,
     "assetId": 225653
   },
@@ -564,7 +518,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 400,
     "resourceId": 228120,
     "assetId": 228120
   },
@@ -602,7 +556,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 300,
     "resourceId": 232413,
     "assetId": 232413
   },
@@ -641,7 +595,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 300,
     "resourceId": 237807,
     "assetId": 237807
   },
@@ -767,7 +721,7 @@
       55
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 400,
     "resourceId": 243293,
     "assetId": 243293
   },
@@ -816,7 +770,7 @@
       50
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 450,
     "resourceId": 243904,
     "assetId": 243904
   },
@@ -863,7 +817,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 400,
     "resourceId": 247120,
     "assetId": 247120
   },
@@ -945,7 +899,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 350,
     "resourceId": 251629,
     "assetId": 251629
   },
@@ -984,7 +938,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 350,
     "resourceId": 260564,
     "assetId": 260564
   },
@@ -1104,7 +1058,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 450,
     "resourceId": 262100,
     "assetId": 262100
   },
@@ -1146,7 +1100,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 450,
     "resourceId": 264248,
     "assetId": 264248
   },
@@ -1192,7 +1146,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 1500,
     "resourceId": 50405612,
     "assetId": 73964
   },
@@ -1232,6 +1186,52 @@
     "price": 200,
     "resourceId": 50410678,
     "assetId": 79030
+  },
+  "50535373": {
+    "name": "Virgil Misidjan",
+    "cardName": "Misidjan",
+    "originalVersionId": "3",
+    "clubId": 1910,
+    "leagueId": 10,
+    "countryId": 92,
+    "versionId": "3",
+    "rating": 80,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      21,
+      5
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      27,
+      43,
+      130
+    ],
+    "rolesPlusPlus": [
+      27,
+      43,
+      130
+    ],
+    "attributes": [
+      87,
+      77,
+      78,
+      84,
+      44,
+      75
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 50535373,
+    "assetId": 203725
   },
   "50555438": {
     "name": "Sheraldo Becker",
@@ -1326,7 +1326,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 450,
     "resourceId": 50573186,
     "assetId": 241538
   }
