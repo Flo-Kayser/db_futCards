@@ -37,7 +37,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 1600,
       "resourceId": 71651,
       "assetId": 71651
     },
@@ -79,7 +79,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 1900,
       "resourceId": 71998,
       "assetId": 71998
     },
@@ -127,7 +127,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 1300,
       "resourceId": 76687,
       "assetId": 76687
     },
@@ -174,7 +174,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 700,
       "resourceId": 202652,
       "assetId": 202652
     },
@@ -213,7 +213,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 222104,
       "assetId": 222104
     },
@@ -253,7 +253,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 228789,
       "assetId": 228789
     },
@@ -299,7 +299,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 229942,
       "assetId": 229942
     },
@@ -387,7 +387,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 230918,
       "assetId": 230918
     },
@@ -484,7 +484,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1400,
       "resourceId": 238616,
       "assetId": 238616
     },
@@ -573,7 +573,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1700,
       "resourceId": 247090,
       "assetId": 247090
     },
@@ -610,7 +610,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 248158,
       "assetId": 248158
     },
@@ -655,50 +655,6 @@
       "resourceId": 248695,
       "assetId": 248695
     },
-    "252042": {
-      "name": "João Pedro",
-      "cardName": "João Pedro",
-      "originalVersionId": "0",
-      "clubId": 5,
-      "leagueId": 13,
-      "countryId": 54,
-      "versionId": "2002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        21
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        32,
-        41,
-        43
-      ],
-      "rolesPlusPlus": [
-        32,
-        41,
-        43
-      ],
-      "attributes": [
-        78,
-        78,
-        72,
-        81,
-        37,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 550,
-      "resourceId": 252042,
-      "assetId": 252042
-    },
     "258485": {
       "name": "Filip Jörgensen",
       "cardName": "Jörgensen",
@@ -735,7 +691,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 258485,
       "assetId": 258485
     },
@@ -775,7 +731,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 259031,
       "assetId": 259031
     },
@@ -861,7 +817,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1000,
       "resourceId": 259307,
       "assetId": 259307
     },
@@ -990,7 +946,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 550,
       "resourceId": 262859,
       "assetId": 262859
     },
@@ -1124,7 +1080,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 700,
       "resourceId": 272978,
       "assetId": 272978
     },
@@ -1339,7 +1295,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 60800,
+      "sbcPrice": 60750,
       "resourceId": 50569722,
       "assetId": 238074
     },
@@ -1387,9 +1343,56 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 61500,
+      "price": 63500,
       "resourceId": 50570879,
       "assetId": 239231
+    },
+    "50583690": {
+      "name": "João Pedro",
+      "cardName": "João Pedro",
+      "originalVersionId": "22",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 54,
+      "versionId": "22",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        21,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        43,
+        141
+      ],
+      "rolesPlusPlus": [
+        32,
+        43,
+        141
+      ],
+      "attributes": [
+        85,
+        86,
+        80,
+        87,
+        43,
+        76
+      ],
+      "hasDynamicImage": false,
+      "sbcPrice": 112000,
+      "resourceId": 50583690,
+      "assetId": 252042
     },
     "50587727": {
       "name": "Moisés Caicedo",
@@ -1436,7 +1439,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 112000,
+      "price": 106000,
       "resourceId": 50587727,
       "assetId": 256079
     },
@@ -1492,7 +1495,7 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 462000,
+      "price": 459000,
       "resourceId": 50589182,
       "assetId": 257534
     },
@@ -1621,7 +1624,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1100,
       "resourceId": 50610461,
       "assetId": 278813
     }

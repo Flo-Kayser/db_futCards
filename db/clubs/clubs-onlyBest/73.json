@@ -38,7 +38,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 70004,
       "assetId": 70004
     },
@@ -79,7 +79,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 850,
       "resourceId": 74449,
       "assetId": 74449
     },
@@ -161,7 +161,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 50000,
+      "price": 48000,
       "resourceId": 207865,
       "assetId": 207865
     },
@@ -207,7 +207,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 220814,
       "assetId": 220814
     },
@@ -350,7 +350,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 4100,
       "resourceId": 226271,
       "assetId": 226271
     },
@@ -440,7 +440,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1245000,
+      "price": 1173000,
       "resourceId": 231443,
       "assetId": 231443
     },
@@ -531,7 +531,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 186000,
+      "price": 169000,
       "resourceId": 235212,
       "assetId": 235212
     },
@@ -616,7 +616,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 240225,
       "assetId": 240225
     },
@@ -662,7 +662,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 243780,
       "assetId": 243780
     },
@@ -711,7 +711,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 74000,
+      "price": 69000,
       "resourceId": 247635,
       "assetId": 247635
     },
@@ -797,7 +797,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 135000,
+      "price": 124000,
       "resourceId": 252145,
       "assetId": 252145
     },
@@ -849,7 +849,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 51500,
+      "price": 48000,
       "resourceId": 255253,
       "assetId": 255253
     },
@@ -894,7 +894,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 77500,
+      "price": 67000,
       "resourceId": 256196,
       "assetId": 256196
     },
@@ -983,7 +983,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 950,
       "resourceId": 258781,
       "assetId": 258781
     },
@@ -1065,7 +1065,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1800,
       "resourceId": 264652,
       "assetId": 264652
     },
@@ -1112,63 +1112,9 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 270673,
       "assetId": 270673
-    },
-    "271421": {
-      "name": "Désiré Doué",
-      "cardName": "Doué",
-      "originalVersionId": "1",
-      "clubId": 73,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "3002",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "CM",
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        13,
-        22,
-        24,
-        25,
-        7
-      ],
-      "playStylesPlus": [
-        23
-      ],
-      "rolesPlus": [
-        22,
-        36,
-        40,
-        137
-      ],
-      "rolesPlusPlus": [
-        22,
-        36,
-        40,
-        137
-      ],
-      "attributes": [
-        83,
-        80,
-        77,
-        90,
-        55,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 17250,
-      "resourceId": 271421,
-      "assetId": 271421
     },
     "279709": {
       "name": "Lucas Beraldo",
@@ -1212,7 +1158,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 279709,
       "assetId": 279709
     },
@@ -1249,9 +1195,72 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 279880,
       "assetId": 279880
+    },
+    "50603069": {
+      "name": "Désiré Doué",
+      "cardName": "Doué",
+      "originalVersionId": "22",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "22",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        13,
+        22,
+        23,
+        24,
+        25,
+        7
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        22,
+        26,
+        36,
+        39,
+        125,
+        131,
+        137,
+        140
+      ],
+      "rolesPlusPlus": [
+        22,
+        26,
+        36,
+        39,
+        125,
+        131,
+        137,
+        140
+      ],
+      "attributes": [
+        85,
+        82,
+        80,
+        91,
+        57,
+        77
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50603069,
+      "assetId": 271421
     },
     "50604482": {
       "name": "João Neves",
@@ -1300,7 +1309,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 211000,
+      "price": 192000,
       "resourceId": 50604482,
       "assetId": 272834
     }

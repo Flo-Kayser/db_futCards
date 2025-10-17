@@ -151,7 +151,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 750,
       "resourceId": 189342,
       "assetId": 189342
     },
@@ -188,7 +188,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 198009,
       "assetId": 198009
     },
@@ -275,7 +275,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 450,
       "resourceId": 208574,
       "assetId": 208574
     },
@@ -312,7 +312,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 211320,
       "assetId": 211320
     },
@@ -454,7 +454,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1300,
       "resourceId": 231512,
       "assetId": 231512
     },
@@ -587,7 +587,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 5400,
+      "price": 5200,
       "resourceId": 239580,
       "assetId": 239580
     },
@@ -633,7 +633,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 240679,
       "assetId": 240679
     },
@@ -727,7 +727,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 243630,
       "assetId": 243630
     },
@@ -816,7 +816,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1400,
       "resourceId": 247246,
       "assetId": 247246
     },
@@ -857,7 +857,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 600,
       "resourceId": 251870,
       "assetId": 251870
     },
@@ -943,7 +943,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 700,
       "resourceId": 255654,
       "assetId": 255654
     },
@@ -988,7 +988,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 257290,
       "assetId": 257290
     },
@@ -1035,7 +1035,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 258966,
       "assetId": 258966
     },
@@ -1130,7 +1130,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 266872,
       "assetId": 266872
     },
@@ -1174,7 +1174,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 750,
       "resourceId": 268802,
       "assetId": 268802
     },
@@ -1264,7 +1264,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 750,
       "resourceId": 277954,
       "assetId": 277954
     },
@@ -1401,7 +1401,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 6400,
+      "price": 5500,
       "resourceId": 50575228,
       "assetId": 243580
     },
@@ -1449,9 +1449,63 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 171000,
+      "price": 168000,
       "resourceId": 50578894,
       "assetId": 247246
+    },
+    "50592698": {
+      "name": "Francisco Conceição",
+      "cardName": "Francisco Conceição",
+      "originalVersionId": "22",
+      "clubId": 45,
+      "leagueId": 31,
+      "countryId": 38,
+      "versionId": "22",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        20,
+        21,
+        22,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        25,
+        33,
+        37,
+        126,
+        136
+      ],
+      "rolesPlusPlus": [
+        23,
+        25,
+        33,
+        37,
+        126,
+        136
+      ],
+      "attributes": [
+        91,
+        77,
+        80,
+        88,
+        42,
+        62
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50592698,
+      "assetId": 261050
     },
     "50609602": {
       "name": "Kenan Yıldız",
@@ -1500,8 +1554,65 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 57000,
+      "price": 48500,
       "resourceId": 50609602,
+      "assetId": 277954
+    },
+    "67386818": {
+      "name": "Kenan Yıldız",
+      "cardName": "Yıldız",
+      "originalVersionId": "22",
+      "clubId": 45,
+      "leagueId": 31,
+      "countryId": 48,
+      "versionId": "22",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        29,
+        30,
+        33,
+        39,
+        40,
+        121,
+        131
+      ],
+      "rolesPlusPlus": [
+        29,
+        30,
+        33,
+        39,
+        40,
+        121,
+        131
+      ],
+      "attributes": [
+        89,
+        86,
+        82,
+        90,
+        45,
+        74
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67386818,
       "assetId": 277954
     }
   }

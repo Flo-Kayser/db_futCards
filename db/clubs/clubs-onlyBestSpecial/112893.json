@@ -1,6 +1,66 @@
 {
   "clubName": "Inter Miami CF",
   "players": {
+    "50489671": {
+      "name": "Lionel Messi",
+      "cardName": "Messi",
+      "originalVersionId": "22",
+      "clubId": 112893,
+      "leagueId": 39,
+      "countryId": 52,
+      "versionId": "22",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        20,
+        25,
+        3,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        26,
+        33,
+        35,
+        132,
+        136,
+        137,
+        143
+      ],
+      "rolesPlusPlus": [
+        26,
+        33,
+        35,
+        132,
+        136,
+        137,
+        143
+      ],
+      "attributes": [
+        82,
+        87,
+        87,
+        91,
+        35,
+        66
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50489671,
+      "assetId": 158023
+    },
     "50520980": {
       "name": "Jordi Alba",
       "cardName": "Jordi Alba",
@@ -42,7 +102,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 19250,
       "resourceId": 50520980,
       "assetId": 189332
     }
