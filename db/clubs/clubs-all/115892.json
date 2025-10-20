@@ -38,7 +38,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 900,
       "resourceId": 210321,
       "assetId": 210321
     },
@@ -75,7 +75,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 700,
       "resourceId": 215651,
       "assetId": 215651
     },
@@ -118,7 +118,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 600,
       "resourceId": 223198,
       "assetId": 223198
     },
@@ -431,7 +431,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 450,
       "resourceId": 240943,
       "assetId": 240943
     },
@@ -475,7 +475,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 10000,
       "resourceId": 241775,
       "assetId": 241775
     },
@@ -563,7 +563,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 255109,
       "assetId": 255109
     },
@@ -836,6 +836,43 @@
       "resourceId": 50406353,
       "assetId": 74705
     },
+    "50601081": {
+      "name": "Hisham Al Dubais",
+      "cardName": "Al Dubais",
+      "originalVersionId": "0",
+      "clubId": 115892,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "rolesPlusPlus": [
+        41
+      ],
+      "attributes": [
+        69,
+        56,
+        43,
+        55,
+        22,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50601081,
+      "assetId": 269433
+    },
     "50601345": {
       "name": "Nawaf Hawsawi",
       "cardName": "Hawsawi",
@@ -876,6 +913,52 @@
       "price": 200,
       "resourceId": 50601345,
       "assetId": 269697
+    },
+    "50603321": {
+      "name": "Lázaro",
+      "cardName": "Lázaro",
+      "originalVersionId": "0",
+      "clubId": 115892,
+      "leagueId": 350,
+      "countryId": 54,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        29,
+        42
+      ],
+      "rolesPlusPlus": [
+        23,
+        27,
+        29,
+        42
+      ],
+      "attributes": [
+        78,
+        64,
+        64,
+        67,
+        39,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50603321,
+      "assetId": 271673
     }
   }
 }

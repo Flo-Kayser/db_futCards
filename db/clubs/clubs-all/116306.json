@@ -34,7 +34,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 70675,
       "assetId": 70675
     },
@@ -72,7 +72,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 400,
       "resourceId": 70684,
       "assetId": 70684
     },
@@ -192,7 +192,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 227384,
       "assetId": 227384
     },
@@ -318,7 +318,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 238212,
       "assetId": 238212
     },
@@ -357,7 +357,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 550,
       "resourceId": 243771,
       "assetId": 243771
     },
@@ -448,7 +448,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 264960,
       "assetId": 264960
     },
@@ -492,7 +492,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 265854,
       "assetId": 265854
     },
@@ -617,7 +617,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 267286,
       "assetId": 267286
     },
@@ -742,7 +742,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 267379,
       "assetId": 267379
     },
@@ -829,7 +829,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 550,
       "resourceId": 268012,
       "assetId": 268012
     },
@@ -910,7 +910,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 450,
       "resourceId": 273486,
       "assetId": 273486
     },
@@ -950,7 +950,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 275981,
       "assetId": 275981
     },
@@ -993,9 +993,54 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 279811,
       "assetId": 279811
+    },
+    "50597510": {
+      "name": "Malia Berkely",
+      "cardName": "Berkely",
+      "originalVersionId": "1",
+      "clubId": 116306,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "3001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13,
+        14
+      ],
+      "rolesPlusPlus": [
+        11,
+        13,
+        14
+      ],
+      "attributes": [
+        45,
+        57,
+        67,
+        64,
+        74,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 50597510,
+      "assetId": 265862
     },
     "50598875": {
       "name": "Yazmeen Ryan",
@@ -1041,10 +1086,47 @@
         82
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 7900,
+      "sbcPrice": 8200,
       "price": 7800,
       "resourceId": 50598875,
       "assetId": 267227
+    },
+    "50606454": {
+      "name": "Chloe Ricketts",
+      "cardName": "Ricketts",
+      "originalVersionId": "1",
+      "clubId": 116306,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "3000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "rolesPlusPlus": [
+        18
+      ],
+      "attributes": [
+        61,
+        55,
+        61,
+        63,
+        42,
+        47
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50606454,
+      "assetId": 274806
     }
   }
 }
