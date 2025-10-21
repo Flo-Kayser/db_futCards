@@ -74,7 +74,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 550,
       "resourceId": 205812,
       "assetId": 205812
     },
@@ -121,7 +121,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 213666,
       "assetId": 213666
     },
@@ -164,7 +164,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 11750,
+      "price": 12250,
       "resourceId": 215698,
       "assetId": 215698
     },
@@ -295,7 +295,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 600,
       "resourceId": 240277,
       "assetId": 240277
     },
@@ -343,7 +343,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 26000,
+      "price": 24500,
       "resourceId": 241721,
       "assetId": 241721
     },
@@ -387,48 +387,9 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 2100,
       "resourceId": 243627,
       "assetId": 243627
-    },
-    "245152": {
-      "name": "Santiago Giménez",
-      "cardName": "Giménez",
-      "originalVersionId": "0",
-      "clubId": 131681,
-      "leagueId": 31,
-      "countryId": 83,
-      "versionId": "2002",
-      "rating": 79,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "rolesPlusPlus": [
-        41
-      ],
-      "attributes": [
-        78,
-        80,
-        70,
-        77,
-        46,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 245152,
-      "assetId": 245152
     },
     "245630": {
       "name": "Youssouf Fofana",
@@ -610,7 +571,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 600,
       "resourceId": 253473,
       "assetId": 253473
     },
@@ -653,7 +614,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 600,
       "resourceId": 254840,
       "assetId": 254840
     },
@@ -739,7 +700,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 265774,
       "assetId": 265774
     },
@@ -861,7 +822,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 800,
       "resourceId": 279782,
       "assetId": 279782
     },
@@ -948,7 +909,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 24750,
       "resourceId": 50508651,
       "assetId": 177003
     },
@@ -994,7 +955,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 50541656,
       "assetId": 210008
     },
@@ -1042,7 +1003,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 50564059,
       "assetId": 232411
     },
@@ -1138,9 +1099,53 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 12250,
       "resourceId": 50574312,
       "assetId": 242664
+    },
+    "50576800": {
+      "name": "Santiago Giménez",
+      "cardName": "Giménez",
+      "originalVersionId": "22",
+      "clubId": 131681,
+      "leagueId": 31,
+      "countryId": 83,
+      "versionId": "22",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        22,
+        4,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        43,
+        141
+      ],
+      "rolesPlusPlus": [
+        43,
+        141
+      ],
+      "attributes": [
+        85,
+        87,
+        76,
+        84,
+        50,
+        75
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 42300,
+      "resourceId": 50576800,
+      "assetId": 245152
     },
     "67336660": {
       "name": "Christian Pulisic",
@@ -1193,7 +1198,7 @@
         69
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 282750,
+      "sbcPrice": 301250,
       "resourceId": 67336660,
       "assetId": 227796
     }
