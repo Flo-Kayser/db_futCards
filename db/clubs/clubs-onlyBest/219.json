@@ -147,7 +147,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1300,
       "resourceId": 76410,
       "assetId": 76410
     },
@@ -278,7 +278,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 500,
       "resourceId": 211101,
       "assetId": 211101
     },
@@ -317,7 +317,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 211784,
       "assetId": 211784
     },
@@ -408,7 +408,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 850,
       "resourceId": 232097,
       "assetId": 232097
     },
@@ -450,7 +450,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 500,
       "resourceId": 235875,
       "assetId": 235875
     },
@@ -538,7 +538,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 237841,
       "assetId": 237841
     },
@@ -578,7 +578,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 450,
       "resourceId": 239559,
       "assetId": 239559
     },
@@ -622,7 +622,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 240753,
       "assetId": 240753
     },
@@ -668,7 +668,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 241496,
       "assetId": 241496
     },
@@ -794,57 +794,6 @@
       "resourceId": 245854,
       "assetId": 245854
     },
-    "246147": {
-      "name": "Mason Greenwood",
-      "cardName": "Greenwood",
-      "originalVersionId": "1",
-      "clubId": 219,
-      "leagueId": 16,
-      "countryId": 14,
-      "versionId": "3002",
-      "rating": 82,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        2,
-        20,
-        6,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        25,
-        32,
-        126
-      ],
-      "rolesPlusPlus": [
-        23,
-        25,
-        32,
-        126
-      ],
-      "attributes": [
-        83,
-        83,
-        77,
-        83,
-        37,
-        63
-      ],
-      "hasDynamicImage": false,
-      "price": 1200,
-      "resourceId": 246147,
-      "assetId": 246147
-    },
     "255125": {
       "name": "Azzedine Ounahi",
       "cardName": "Ounahi",
@@ -958,7 +907,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 263602,
       "assetId": 263602
     },
@@ -1041,7 +990,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 750,
       "resourceId": 268131,
       "assetId": 268131
     },
@@ -1165,7 +1114,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 21000,
+      "price": 22000,
       "resourceId": 50520215,
       "assetId": 188567
     },
@@ -1246,7 +1195,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 32250,
       "resourceId": 50546964,
       "assetId": 215316
     },
@@ -1391,7 +1340,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 50572382,
       "assetId": 240734
     },
@@ -1436,9 +1385,59 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 50572435,
       "assetId": 240787
+    },
+    "50577795": {
+      "name": "Mason Greenwood",
+      "cardName": "Greenwood",
+      "originalVersionId": "3",
+      "clubId": 219,
+      "leagueId": 16,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        2,
+        20,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        25,
+        32,
+        126
+      ],
+      "rolesPlusPlus": [
+        23,
+        25,
+        32,
+        126
+      ],
+      "attributes": [
+        85,
+        85,
+        80,
+        86,
+        40,
+        67
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50577795,
+      "assetId": 246147
     },
     "50601507": {
       "name": "Arthur Vermeeren",
@@ -1529,7 +1528,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 90500,
+      "price": 91000,
       "resourceId": 67335715,
       "assetId": 226851
     },
@@ -1575,7 +1574,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 28400,
+      "sbcPrice": 31100,
       "resourceId": 67353613,
       "assetId": 244749
     }

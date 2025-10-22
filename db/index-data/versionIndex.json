@@ -1,7 +1,7 @@
 {
   "versions": {
     "3": {
-      "count": 115,
+      "count": 138,
       "file": "db/versions/3.json",
       "details": {
         "name": "Team of the Week",
@@ -37,6 +37,19 @@
         "primaryColor": "#fff6dd",
         "secondaryColor": "#563b12",
         "tertiaryColor": "#b89258"
+      }
+    },
+    "25": {
+      "count": 1,
+      "file": "db/versions/25.json",
+      "details": {
+        "name": "End Of An Era",
+        "hasStrip": true,
+        "createdAt": "2025-10-15T21:15:00.410Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_25_0.png",
+        "primaryColor": "#fcfaff",
+        "secondaryColor": "#3d177f",
+        "tertiaryColor": "#4ff3fc"
       }
     },
     "42": {
@@ -314,8 +327,8 @@
     }
   },
   "meta": {
-    "totalVersions": 24,
-    "totalVersionsWithoutBase": 18,
-    "updatedAt": "2025-10-21T17:27:43.794Z"
+    "totalVersions": 25,
+    "totalVersionsWithoutBase": 19,
+    "updatedAt": "2025-10-22T17:27:50.584Z"
   }
 }

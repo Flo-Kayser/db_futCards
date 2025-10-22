@@ -73,7 +73,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 1700,
       "resourceId": 75087,
       "assetId": 75087
     },
@@ -110,7 +110,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 3000,
       "resourceId": 77354,
       "assetId": 77354
     },
@@ -149,7 +149,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1900,
       "resourceId": 163264,
       "assetId": 163264
     },
@@ -197,50 +197,9 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1000,
       "resourceId": 200145,
       "assetId": 200145
-    },
-    "203263": {
-      "name": "Harry Maguire",
-      "cardName": "Maguire",
-      "originalVersionId": "0",
-      "clubId": 11,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "2002",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        19
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        13
-      ],
-      "rolesPlusPlus": [
-        11,
-        13
-      ],
-      "attributes": [
-        35,
-        57,
-        70,
-        65,
-        80,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 1900,
-      "resourceId": 203263,
-      "assetId": 203263
     },
     "205988": {
       "name": "Luke Shaw",
@@ -283,7 +242,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1200,
       "resourceId": 205988,
       "assetId": 205988
     },
@@ -322,7 +281,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 3400,
       "resourceId": 226753,
       "assetId": 226753
     },
@@ -413,7 +372,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1100,
       "resourceId": 233064,
       "assetId": 233064
     },
@@ -506,7 +465,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1000,
       "resourceId": 235243,
       "assetId": 235243
     },
@@ -554,7 +513,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1000,
       "resourceId": 236401,
       "assetId": 236401
     },
@@ -594,7 +553,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1000,
       "resourceId": 238041,
       "assetId": 238041
     },
@@ -688,7 +647,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1100,
       "resourceId": 240243,
       "assetId": 240243
     },
@@ -740,7 +699,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 4400,
+      "price": 4900,
       "resourceId": 243014,
       "assetId": 243014
     },
@@ -908,7 +867,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1100,
       "resourceId": 254088,
       "assetId": 254088
     },
@@ -1038,7 +997,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1100,
       "resourceId": 260592,
       "assetId": 260592
     },
@@ -1124,7 +1083,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1900,
       "resourceId": 269233,
       "assetId": 269233
     },
@@ -1202,9 +1161,51 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 9100,
+      "price": 6300,
       "resourceId": 277432,
       "assetId": 277432
+    },
+    "50534911": {
+      "name": "Harry Maguire",
+      "cardName": "Maguire",
+      "originalVersionId": "3",
+      "clubId": 11,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19,
+        28,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        111
+      ],
+      "rolesPlusPlus": [
+        13,
+        111
+      ],
+      "attributes": [
+        75,
+        60,
+        74,
+        70,
+        83,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50534911,
+      "assetId": 203263
     },
     "50543846": {
       "name": "Bruno Fernandes",
@@ -1255,7 +1256,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 500000,
+      "price": 429000,
       "resourceId": 50543846,
       "assetId": 212198
     },
@@ -1295,7 +1296,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 8700,
       "resourceId": 50586451,
       "assetId": 254803
     },
@@ -1342,7 +1343,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 69500,
+      "price": 71500,
       "resourceId": 50600735,
       "assetId": 269087
     },

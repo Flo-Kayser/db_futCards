@@ -86,54 +86,6 @@
       "resourceId": 241546,
       "assetId": 241546
     },
-    "245697": {
-      "name": "Clara Mateo",
-      "cardName": "Mateo",
-      "originalVersionId": "1",
-      "clubId": 116035,
-      "leagueId": 2218,
-      "countryId": 18,
-      "versionId": "3002",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        22,
-        26,
-        6,
-        7
-      ],
-      "playStylesPlus": [
-        1
-      ],
-      "rolesPlus": [
-        41,
-        143
-      ],
-      "rolesPlusPlus": [
-        41,
-        143
-      ],
-      "attributes": [
-        87,
-        86,
-        80,
-        84,
-        56,
-        75
-      ],
-      "hasDynamicImage": false,
-      "price": 4000,
-      "resourceId": 245697,
-      "assetId": 245697
-    },
     "264865": {
       "name": "Mylène Chavas",
       "cardName": "Chavas",
@@ -169,7 +121,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 264865,
       "assetId": 264865
     },
@@ -206,7 +158,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 264906,
       "assetId": 264906
     },
@@ -296,7 +248,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 264963,
       "assetId": 264963
     },
@@ -335,7 +287,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 265027,
       "assetId": 265027
     },
@@ -382,7 +334,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 265861,
       "assetId": 265861
     },
@@ -426,7 +378,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 550,
       "resourceId": 269208,
       "assetId": 269208
     },
@@ -464,7 +416,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 269811,
       "assetId": 269811
     },
@@ -501,7 +453,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 269943,
       "assetId": 269943
     },
@@ -539,7 +491,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 269972,
       "assetId": 269972
     },
@@ -580,7 +532,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 271174,
       "assetId": 271174
     },
@@ -618,7 +570,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 274786,
       "assetId": 274786
     },
@@ -655,7 +607,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 275399,
       "assetId": 275399
     },
@@ -695,7 +647,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 276548,
       "assetId": 276548
     },
@@ -739,7 +691,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 276765,
       "assetId": 276765
     },
@@ -819,9 +771,60 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 350,
       "resourceId": 276862,
       "assetId": 276862
+    },
+    "50577345": {
+      "name": "Clara Mateo",
+      "cardName": "Mateo",
+      "originalVersionId": "3",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        22,
+        26,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        2
+      ],
+      "rolesPlus": [
+        41,
+        130,
+        143
+      ],
+      "rolesPlusPlus": [
+        41,
+        130,
+        143
+      ],
+      "attributes": [
+        88,
+        87,
+        82,
+        85,
+        57,
+        77
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50577345,
+      "assetId": 245697
     }
   }
 }

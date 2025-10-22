@@ -1,6 +1,46 @@
 {
   "clubName": "Brighton",
   "players": {
+    "50517794": {
+      "name": "Danny Welbeck",
+      "cardName": "Welbeck",
+      "originalVersionId": "3",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 82,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141
+      ],
+      "rolesPlusPlus": [
+        141
+      ],
+      "attributes": [
+        79,
+        83,
+        78,
+        83,
+        50,
+        82
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50517794,
+      "assetId": 186146
+    },
     "50600926": {
       "name": "Diego Gómez",
       "cardName": "Gómez",
@@ -47,7 +87,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 11250,
+      "price": 11000,
       "resourceId": 50600926,
       "assetId": 269278
     }
