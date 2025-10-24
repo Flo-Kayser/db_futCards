@@ -38,7 +38,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 250,
       "resourceId": 73021,
       "assetId": 73021
     },
@@ -81,7 +81,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 73025,
       "assetId": 73025
     },
@@ -118,7 +118,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 73652,
       "assetId": 73652
     },
@@ -273,7 +273,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 226355,
       "assetId": 226355
     },
@@ -391,7 +391,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 248715,
       "assetId": 248715
     },
@@ -437,7 +437,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 264914,
       "assetId": 264914
     },
@@ -483,7 +483,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 650,
       "resourceId": 264930,
       "assetId": 264930
     },
@@ -570,47 +570,6 @@
       "resourceId": 264985,
       "assetId": 264985
     },
-    "265006": {
-      "name": "Vanessa Leimenstoll",
-      "cardName": "Leimenstoll",
-      "originalVersionId": "0",
-      "clubId": 116003,
-      "leagueId": 2215,
-      "countryId": 21,
-      "versionId": "2001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        42
-      ],
-      "rolesPlusPlus": [
-        26,
-        42
-      ],
-      "attributes": [
-        79,
-        71,
-        68,
-        74,
-        45,
-        61
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 265006,
-      "assetId": 265006
-    },
     "265007": {
       "name": "Anna Gerhardt",
       "cardName": "Gerhardt",
@@ -650,7 +609,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 600,
       "resourceId": 265007,
       "assetId": 265007
     },
@@ -694,7 +653,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 265023,
       "assetId": 265023
     },
@@ -862,7 +821,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 600,
       "resourceId": 265102,
       "assetId": 265102
     },
@@ -1071,9 +1030,57 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 300,
       "resourceId": 276842,
       "assetId": 276842
+    },
+    "50596654": {
+      "name": "Vanessa Leimenstoll",
+      "cardName": "Leimenstoll",
+      "originalVersionId": "151",
+      "clubId": 116003,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "151",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        12,
+        13,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        42,
+        136
+      ],
+      "rolesPlusPlus": [
+        26,
+        42,
+        136
+      ],
+      "attributes": [
+        90,
+        84,
+        80,
+        85,
+        56,
+        72
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50596654,
+      "assetId": 265006
     }
   }
 }

@@ -1,6 +1,56 @@
 {
   "clubName": "AS Monaco",
   "players": {
+    "50527512": {
+      "name": "Paul Pogba",
+      "cardName": "Pogba",
+      "originalVersionId": "151",
+      "clubId": 69,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "151",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        13,
+        20,
+        23,
+        3
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        132
+      ],
+      "rolesPlusPlus": [
+        18,
+        21,
+        132
+      ],
+      "attributes": [
+        80,
+        83,
+        86,
+        88,
+        60,
+        70
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 215000,
+      "resourceId": 50527512,
+      "assetId": 195864
+    },
     "50584652": {
       "name": "Ansu Fati",
       "cardName": "Ansu Fati",
@@ -94,9 +144,59 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 15250,
+      "price": 16000,
       "resourceId": 50596510,
       "assetId": 264862
+    },
+    "67304728": {
+      "name": "Paul Pogba",
+      "cardName": "Pogba",
+      "originalVersionId": "151",
+      "clubId": 69,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "151",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        17,
+        23,
+        24,
+        8
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        116
+      ],
+      "rolesPlusPlus": [
+        18,
+        21,
+        116
+      ],
+      "attributes": [
+        76,
+        78,
+        83,
+        85,
+        86,
+        84
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 215000,
+      "resourceId": 67304728,
+      "assetId": 195864
     }
   }
 }

@@ -35,7 +35,7 @@
         37
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 70458,
       "assetId": 70458
     },
@@ -115,54 +115,6 @@
       "price": 700,
       "resourceId": 190941,
       "assetId": 190941
-    },
-    "195864": {
-      "name": "Paul Pogba",
-      "cardName": "Pogba",
-      "originalVersionId": "1",
-      "clubId": 69,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "3002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        13,
-        20,
-        3
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        18,
-        21
-      ],
-      "rolesPlusPlus": [
-        16,
-        18,
-        21
-      ],
-      "attributes": [
-        64,
-        76,
-        81,
-        83,
-        60,
-        78
-      ],
-      "hasDynamicImage": false,
-      "price": 2000,
-      "resourceId": 195864,
-      "assetId": 195864
     },
     "202335": {
       "name": "Eric Dier",
@@ -428,7 +380,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1400,
       "resourceId": 229261,
       "assetId": 229261
     },
@@ -470,7 +422,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 232440,
       "assetId": 232440
     },
@@ -633,7 +585,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 244915,
       "assetId": 244915
     },
@@ -847,7 +799,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 270050,
       "assetId": 270050
     },
@@ -884,7 +836,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 271661,
       "assetId": 271661
     },
@@ -972,7 +924,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 272785,
       "assetId": 272785
     },
@@ -1185,7 +1137,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 275138,
       "assetId": 275138
     },
@@ -1265,6 +1217,56 @@
       "price": 500,
       "resourceId": 50402541,
       "assetId": 70893
+    },
+    "50527512": {
+      "name": "Paul Pogba",
+      "cardName": "Pogba",
+      "originalVersionId": "151",
+      "clubId": 69,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "151",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        13,
+        20,
+        23,
+        3
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        132
+      ],
+      "rolesPlusPlus": [
+        18,
+        21,
+        132
+      ],
+      "attributes": [
+        80,
+        83,
+        86,
+        88,
+        60,
+        70
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 215000,
+      "resourceId": 50527512,
+      "assetId": 195864
     },
     "50584652": {
       "name": "Ansu Fati",
@@ -1359,9 +1361,59 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 15250,
+      "price": 16000,
       "resourceId": 50596510,
       "assetId": 264862
+    },
+    "67304728": {
+      "name": "Paul Pogba",
+      "cardName": "Pogba",
+      "originalVersionId": "151",
+      "clubId": 69,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "151",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        17,
+        23,
+        24,
+        8
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        116
+      ],
+      "rolesPlusPlus": [
+        18,
+        21,
+        116
+      ],
+      "attributes": [
+        76,
+        78,
+        83,
+        85,
+        86,
+        84
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 215000,
+      "resourceId": 67304728,
+      "assetId": 195864
     }
   }
 }

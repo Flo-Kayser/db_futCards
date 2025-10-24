@@ -34,7 +34,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 200,
       "resourceId": 70803,
       "assetId": 70803
     },
@@ -73,7 +73,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 70816,
       "assetId": 70816
     },
@@ -111,7 +111,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 1000,
       "resourceId": 71978,
       "assetId": 71978
     },
@@ -196,60 +196,6 @@
       "price": 750,
       "resourceId": 227346,
       "assetId": 227346
-    },
-    "233662": {
-      "name": "Sakina Karchaoui",
-      "cardName": "Karchaoui",
-      "originalVersionId": "1",
-      "clubId": 116034,
-      "leagueId": 2218,
-      "countryId": 18,
-      "versionId": "3002",
-      "rating": 87,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LB",
-        "LW"
-      ],
-      "playStyles": [
-        12,
-        13,
-        14,
-        16,
-        20,
-        25,
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        10,
-        22,
-        121,
-        140
-      ],
-      "rolesPlusPlus": [
-        10,
-        22,
-        121,
-        140
-      ],
-      "attributes": [
-        89,
-        76,
-        87,
-        88,
-        77,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 32000,
-      "resourceId": 233662,
-      "assetId": 233662
     },
     "233852": {
       "name": "Jackie Groenen",
@@ -377,7 +323,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1600,
       "resourceId": 247504,
       "assetId": 247504
     },
@@ -471,7 +417,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1600,
       "resourceId": 262457,
       "assetId": 262457
     },
@@ -550,7 +496,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 550,
       "resourceId": 264967,
       "assetId": 264967
     },
@@ -639,7 +585,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 275916,
       "assetId": 275916
     },
@@ -719,7 +665,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 277866,
       "assetId": 277866
     },
@@ -798,7 +744,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 278225,
       "assetId": 278225
     },
@@ -890,9 +836,69 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 89000,
+      "price": 64000,
       "resourceId": 50557984,
       "assetId": 226336
+    },
+    "50565310": {
+      "name": "Sakina Karchaoui",
+      "cardName": "Karchaoui",
+      "originalVersionId": "151",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "151",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        13,
+        14,
+        16,
+        20,
+        25,
+        26
+      ],
+      "playStylesPlus": [
+        23
+      ],
+      "rolesPlus": [
+        31,
+        38,
+        40,
+        110,
+        121,
+        127
+      ],
+      "rolesPlusPlus": [
+        31,
+        38,
+        40,
+        110,
+        121,
+        127
+      ],
+      "attributes": [
+        90,
+        78,
+        88,
+        89,
+        80,
+        70
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50565310,
+      "assetId": 233662
     },
     "50596553": {
       "name": "Jade Le Guilly",
@@ -939,7 +945,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 23000,
+      "price": 24000,
       "resourceId": 50596553,
       "assetId": 264905
     }

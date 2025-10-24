@@ -40,7 +40,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 5400,
       "resourceId": 71003,
       "assetId": 71003
     },
@@ -207,7 +207,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1600,
       "resourceId": 212616,
       "assetId": 212616
     },
@@ -297,7 +297,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 246263,
       "assetId": 246263
     },
@@ -380,7 +380,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 260056,
       "assetId": 260056
     },
@@ -515,7 +515,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 266624,
       "assetId": 266624
     },
@@ -595,7 +595,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 267872,
       "assetId": 267872
     },
@@ -797,7 +797,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 275343,
       "assetId": 275343
     },
@@ -1054,7 +1054,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 1215000,
+      "price": 1199000,
       "resourceId": 50489671,
       "assetId": 158023
     },
@@ -1099,7 +1099,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 13250,
       "resourceId": 50520980,
       "assetId": 189332
     },
@@ -1151,9 +1151,50 @@
         83
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 427000,
+      "sbcPrice": 426000,
       "resourceId": 50521159,
       "assetId": 189511
+    },
+    "50592380": {
+      "name": "Ian Fray",
+      "cardName": "Fray",
+      "originalVersionId": "1",
+      "clubId": 112893,
+      "leagueId": 39,
+      "countryId": 82,
+      "versionId": "3000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        48
+      ],
+      "rolesPlusPlus": [
+        5,
+        48
+      ],
+      "attributes": [
+        74,
+        41,
+        54,
+        61,
+        64,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50592380,
+      "assetId": 260732
     }
   }
 }

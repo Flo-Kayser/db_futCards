@@ -40,7 +40,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 73316,
       "assetId": 73316
     },
@@ -162,7 +162,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 700,
       "resourceId": 173030,
       "assetId": 173030
     },
@@ -296,7 +296,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 214944,
       "assetId": 214944
     },
@@ -384,7 +384,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 222390,
       "assetId": 222390
     },
@@ -476,7 +476,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 232498,
       "assetId": 232498
     },
@@ -554,7 +554,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 236033,
       "assetId": 236033
     },
@@ -697,7 +697,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 243558,
       "assetId": 243558
     },
@@ -868,7 +868,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 248805,
       "assetId": 248805
     },
@@ -955,7 +955,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 251756,
       "assetId": 251756
     },
@@ -1081,7 +1081,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 700,
       "resourceId": 271373,
       "assetId": 271373
     },
@@ -1123,7 +1123,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 272486,
       "assetId": 272486
     },
@@ -1161,7 +1161,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 700,
       "resourceId": 276633,
       "assetId": 276633
     },
@@ -1256,10 +1256,87 @@
         47,
         70
       ],
-      "isObjective": true,
       "hasDynamicImage": true,
       "resourceId": 50575207,
       "assetId": 243559
+    },
+    "50583404": {
+      "name": "Randy Nteka",
+      "cardName": "Nteka",
+      "originalVersionId": "1",
+      "clubId": 480,
+      "leagueId": 53,
+      "countryId": 98,
+      "versionId": "3001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "rolesPlusPlus": [
+        41
+      ],
+      "attributes": [
+        69,
+        70,
+        65,
+        67,
+        54,
+        84
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 50583404,
+      "assetId": 251756
+    },
+    "50608281": {
+      "name": "Nobel Mendy",
+      "cardName": "Mendy",
+      "originalVersionId": "0",
+      "clubId": 480,
+      "leagueId": 53,
+      "countryId": 136,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "rolesPlusPlus": [
+        11
+      ],
+      "attributes": [
+        65,
+        44,
+        57,
+        56,
+        64,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50608281,
+      "assetId": 276633
     }
   }
 }

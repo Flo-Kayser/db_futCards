@@ -276,7 +276,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 222557,
       "assetId": 222557
     },
@@ -325,7 +325,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 600,
       "resourceId": 231390,
       "assetId": 231390
     },
@@ -406,7 +406,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 240448,
       "assetId": 240448
     },
@@ -449,7 +449,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 240501,
       "assetId": 240501
     },
@@ -612,7 +612,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 252487,
       "assetId": 252487
     },
@@ -660,7 +660,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 258813,
       "assetId": 258813
     },
@@ -748,51 +748,6 @@
       "resourceId": 261140,
       "assetId": 261140
     },
-    "270517": {
-      "name": "Diego Luna",
-      "cardName": "Luna",
-      "originalVersionId": "1",
-      "clubId": 111065,
-      "leagueId": 39,
-      "countryId": 95,
-      "versionId": "3001",
-      "rating": 72,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        29,
-        30,
-        33
-      ],
-      "rolesPlusPlus": [
-        29,
-        30,
-        33
-      ],
-      "attributes": [
-        79,
-        64,
-        66,
-        76,
-        42,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 270517,
-      "assetId": 270517
-    },
     "270652": {
       "name": "William Agada",
       "cardName": "Agada",
@@ -826,7 +781,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 250,
       "resourceId": 270652,
       "assetId": 270652
     },
@@ -909,7 +864,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 274970,
       "assetId": 274970
     },
@@ -1075,9 +1030,57 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 950,
       "resourceId": 50544370,
       "assetId": 212722
+    },
+    "50602165": {
+      "name": "Diego Luna",
+      "cardName": "Luna",
+      "originalVersionId": "151",
+      "clubId": 111065,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "151",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        20,
+        22,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        29,
+        30,
+        133
+      ],
+      "rolesPlusPlus": [
+        29,
+        30,
+        133
+      ],
+      "attributes": [
+        83,
+        82,
+        84,
+        85,
+        55,
+        80
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50602165,
+      "assetId": 270517
     }
   }
 }

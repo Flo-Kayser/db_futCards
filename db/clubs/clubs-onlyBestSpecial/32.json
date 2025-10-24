@@ -1,6 +1,63 @@
 {
   "clubName": "Leverkusen",
   "players": {
+    "50568976": {
+      "name": "Nathan Tella",
+      "cardName": "Tella",
+      "originalVersionId": "151",
+      "clubId": 32,
+      "leagueId": 19,
+      "countryId": 133,
+      "versionId": "151",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        21,
+        25,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        32,
+        35,
+        126,
+        133,
+        136,
+        143
+      ],
+      "rolesPlusPlus": [
+        23,
+        32,
+        35,
+        126,
+        133,
+        136,
+        143
+      ],
+      "attributes": [
+        88,
+        83,
+        86,
+        86,
+        56,
+        70
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50568976,
+      "assetId": 237328
+    },
     "50588501": {
       "name": "Malik Tillman",
       "cardName": "Tillman",
@@ -52,7 +109,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 29500,
+      "price": 29000,
       "resourceId": 50588501,
       "assetId": 256853
     },
@@ -159,7 +216,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 39500,
+      "price": 39750,
       "resourceId": 67318899,
       "assetId": 210035
     },

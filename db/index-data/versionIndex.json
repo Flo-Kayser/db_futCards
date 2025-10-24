@@ -221,6 +221,19 @@
         "tertiaryColor": "#a38569"
       }
     },
+    "151": {
+      "count": 28,
+      "file": "db/versions/151.json",
+      "details": {
+        "name": "Ultimate Scream",
+        "hasStrip": true,
+        "createdAt": "2025-10-23T17:45:00.357Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_151_0.png",
+        "primaryColor": "#fff1d7",
+        "secondaryColor": "#673486",
+        "tertiaryColor": "#cf94bc"
+      }
+    },
     "160": {
       "count": 15,
       "file": "db/versions/160.json",
@@ -232,6 +245,19 @@
         "primaryColor": "#fffffe",
         "secondaryColor": "#54462b",
         "tertiaryColor": "#94792e"
+      }
+    },
+    "168": {
+      "count": 6,
+      "file": "db/versions/168.json",
+      "details": {
+        "name": "Ultimate Scream Hero",
+        "hasStrip": true,
+        "createdAt": "2025-10-23T17:45:00.358Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_168_0.png",
+        "primaryColor": "#f3f9ff",
+        "secondaryColor": "#403fdb",
+        "tertiaryColor": "#55b6ce"
       }
     },
     "177": {
@@ -248,7 +274,7 @@
       }
     },
     "2000": {
-      "count": 4599,
+      "count": 4606,
       "file": "db/versions/2000.json",
       "details": {
         "name": "Bronze Common",
@@ -261,7 +287,7 @@
       }
     },
     "2001": {
-      "count": 6350,
+      "count": 6362,
       "file": "db/versions/2001.json",
       "details": {
         "name": "Silver Common",
@@ -274,7 +300,7 @@
       }
     },
     "2002": {
-      "count": 1636,
+      "count": 1637,
       "file": "db/versions/2002.json",
       "details": {
         "name": "Gold Common",
@@ -287,7 +313,7 @@
       }
     },
     "3000": {
-      "count": 2377,
+      "count": 2381,
       "file": "db/versions/3000.json",
       "details": {
         "name": "Bronze Rare",
@@ -300,7 +326,7 @@
       }
     },
     "3001": {
-      "count": 3191,
+      "count": 3199,
       "file": "db/versions/3001.json",
       "details": {
         "name": "Silver Rare",
@@ -327,8 +353,8 @@
     }
   },
   "meta": {
-    "totalVersions": 25,
-    "totalVersionsWithoutBase": 19,
-    "updatedAt": "2025-10-24T13:28:26.685Z"
+    "totalVersions": 27,
+    "totalVersionsWithoutBase": 21,
+    "updatedAt": "2025-10-24T17:28:13.310Z"
   }
 }

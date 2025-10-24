@@ -192,7 +192,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 166539,
     "assetId": 166539
   },
@@ -232,7 +232,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 400,
     "resourceId": 178363,
     "assetId": 178363
   },
@@ -274,7 +274,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 550,
     "resourceId": 228591,
     "assetId": 228591
   },
@@ -402,7 +402,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 4300,
     "resourceId": 244949,
     "assetId": 244949
   },
@@ -440,7 +440,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 350,
     "resourceId": 246038,
     "assetId": 246038
   },
@@ -609,7 +609,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 700,
     "resourceId": 265894,
     "assetId": 265894
   },
@@ -657,7 +657,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 13000,
+    "price": 12750,
     "resourceId": 265898,
     "assetId": 265898
   },
@@ -747,7 +747,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 400,
     "resourceId": 268805,
     "assetId": 268805
   },
@@ -824,7 +824,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 250,
     "resourceId": 273180,
     "assetId": 273180
   },
@@ -867,7 +867,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 250,
     "resourceId": 273194,
     "assetId": 273194
   },
@@ -904,7 +904,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 250,
     "resourceId": 273196,
     "assetId": 273196
   },
@@ -942,7 +942,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 273199,
     "assetId": 273199
   },
@@ -981,7 +981,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 300,
     "resourceId": 273202,
     "assetId": 273202
   },
@@ -1023,8 +1023,92 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 50561353,
     "assetId": 229705
+  },
+  "50567104": {
+    "name": "Jean-Ricner Bellegarde",
+    "cardName": "Bellegarde",
+    "originalVersionId": "0",
+    "clubId": 110,
+    "leagueId": 13,
+    "countryId": 80,
+    "versionId": "2002",
+    "rating": 75,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      18,
+      31,
+      32
+    ],
+    "rolesPlusPlus": [
+      18,
+      31,
+      32
+    ],
+    "attributes": [
+      78,
+      63,
+      72,
+      78,
+      70,
+      72
+    ],
+    "hasDynamicImage": false,
+    "price": 550,
+    "resourceId": 50567104,
+    "assetId": 235456
+  },
+  "50569088": {
+    "name": "Hannes Delcroix",
+    "cardName": "Delcroix",
+    "originalVersionId": "0",
+    "clubId": 1796,
+    "leagueId": 13,
+    "countryId": 80,
+    "versionId": "2001",
+    "rating": 71,
+    "preferredFoot": "Left",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "LB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      8,
+      12,
+      48
+    ],
+    "rolesPlusPlus": [
+      8,
+      12,
+      48
+    ],
+    "attributes": [
+      66,
+      35,
+      61,
+      61,
+      71,
+      70
+    ],
+    "hasDynamicImage": false,
+    "price": 1000,
+    "resourceId": 50569088,
+    "assetId": 237440
   }
 }

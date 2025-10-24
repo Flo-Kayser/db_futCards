@@ -129,7 +129,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 300,
     "resourceId": 205402,
     "assetId": 205402
   },
@@ -210,7 +210,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 300,
     "resourceId": 210205,
     "assetId": 210205
   },
@@ -378,7 +378,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 300,
     "resourceId": 222900,
     "assetId": 222900
   },
@@ -556,7 +556,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 350,
     "resourceId": 232413,
     "assetId": 232413
   },
@@ -595,7 +595,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 550,
     "resourceId": 237807,
     "assetId": 237807
   },
@@ -817,7 +817,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 550,
     "resourceId": 247120,
     "assetId": 247120
   },
@@ -938,7 +938,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 600,
     "resourceId": 260564,
     "assetId": 260564
   },
@@ -1014,7 +1014,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 350,
     "resourceId": 261673,
     "assetId": 261673
   },
@@ -1146,9 +1146,46 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 600,
     "resourceId": 50405612,
     "assetId": 73964
+  },
+  "50409907": {
+    "name": "Djenairo Daniels",
+    "cardName": "Daniels",
+    "originalVersionId": "0",
+    "clubId": 82,
+    "leagueId": 50,
+    "countryId": 92,
+    "versionId": "2000",
+    "rating": 58,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      42
+    ],
+    "rolesPlusPlus": [
+      42
+    ],
+    "attributes": [
+      58,
+      59,
+      44,
+      55,
+      26,
+      60
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 50409907,
+    "assetId": 78259
   },
   "50410678": {
     "name": "Devon Koswal",
@@ -1230,7 +1267,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 10500,
+    "price": 10250,
     "resourceId": 50535373,
     "assetId": 203725
   },
@@ -1282,6 +1319,49 @@
     "resourceId": 50555438,
     "assetId": 223790
   },
+  "50562209": {
+    "name": "Jay-Roy Grot",
+    "cardName": "Grot",
+    "originalVersionId": "1",
+    "clubId": 272,
+    "leagueId": 1,
+    "countryId": 92,
+    "versionId": "3001",
+    "rating": 67,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      29,
+      4
+    ],
+    "playStylesPlus": [
+      27
+    ],
+    "rolesPlus": [
+      41
+    ],
+    "rolesPlusPlus": [
+      41
+    ],
+    "attributes": [
+      77,
+      67,
+      60,
+      62,
+      48,
+      83
+    ],
+    "hasDynamicImage": false,
+    "price": 400,
+    "resourceId": 50562209,
+    "assetId": 230561
+  },
   "50573186": {
     "name": "Shaquille Pinas",
     "cardName": "Pinas",
@@ -1330,5 +1410,50 @@
     "price": 250,
     "resourceId": 50573186,
     "assetId": 241538
+  },
+  "50575267": {
+    "name": "Delano Burgzorg",
+    "cardName": "Burgzorg",
+    "originalVersionId": "0",
+    "clubId": 12,
+    "leagueId": 14,
+    "countryId": 92,
+    "versionId": "2001",
+    "rating": 69,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      23
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      27,
+      30,
+      42
+    ],
+    "rolesPlusPlus": [
+      27,
+      30,
+      42
+    ],
+    "attributes": [
+      81,
+      65,
+      57,
+      73,
+      30,
+      71
+    ],
+    "hasDynamicImage": false,
+    "price": 500,
+    "resourceId": 50575267,
+    "assetId": 243619
   }
 }

@@ -37,7 +37,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 76739,
       "assetId": 76739
     },
@@ -75,7 +75,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 350,
       "resourceId": 76740,
       "assetId": 76740
     },
@@ -213,7 +213,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1400,
       "resourceId": 197781,
       "assetId": 197781
     },
@@ -293,7 +293,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 198951,
       "assetId": 198951
     },
@@ -331,7 +331,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 203747,
       "assetId": 203747
     },
@@ -372,7 +372,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 212602,
       "assetId": 212602
     },
@@ -412,7 +412,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 221087,
       "assetId": 221087
     },
@@ -464,53 +464,6 @@
       "resourceId": 226226,
       "assetId": 226226
     },
-    "226456": {
-      "name": "Pablo Fornals",
-      "cardName": "Pablo Fornals",
-      "originalVersionId": "0",
-      "clubId": 449,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM",
-        "RM"
-      ],
-      "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        15,
-        16,
-        22,
-        25
-      ],
-      "rolesPlusPlus": [
-        15,
-        16,
-        22,
-        25
-      ],
-      "attributes": [
-        65,
-        75,
-        80,
-        80,
-        73,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 600,
-      "resourceId": 226456,
-      "assetId": 226456
-    },
     "228520": {
       "name": "Ezequiel Ávila",
       "cardName": "Ávila",
@@ -552,7 +505,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 228520,
       "assetId": 228520
     },
@@ -637,7 +590,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 237034,
       "assetId": 237034
     },
@@ -677,7 +630,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 241184,
       "assetId": 241184
     },
@@ -769,7 +722,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 246657,
       "assetId": 246657
     },
@@ -904,7 +857,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 400,
       "resourceId": 267430,
       "assetId": 267430
     },
@@ -953,7 +906,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 267860,
       "assetId": 267860
     },
@@ -991,7 +944,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 272487,
       "assetId": 272487
     },
@@ -1033,7 +986,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 276471,
       "assetId": 276471
     },
@@ -1127,6 +1080,63 @@
       "resourceId": 50555806,
       "assetId": 224158
     },
+    "50558104": {
+      "name": "Pablo Fornals",
+      "cardName": "Pablo Fornals",
+      "originalVersionId": "151",
+      "clubId": 449,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "151",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12,
+        20,
+        21,
+        26,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        22,
+        24,
+        116,
+        120,
+        125,
+        137
+      ],
+      "rolesPlusPlus": [
+        15,
+        22,
+        24,
+        116,
+        120,
+        125,
+        137
+      ],
+      "attributes": [
+        84,
+        85,
+        84,
+        86,
+        78,
+        77
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50558104,
+      "assetId": 226456
+    },
     "67364339": {
       "name": "Antony",
       "cardName": "Antony",
@@ -1175,7 +1185,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 148000,
+      "price": 152000,
       "resourceId": 67364339,
       "assetId": 255475
     }

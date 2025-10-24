@@ -76,7 +76,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 70592,
       "assetId": 70592
     },
@@ -201,7 +201,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 500,
       "resourceId": 76323,
       "assetId": 76323
     },
@@ -373,7 +373,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 235962,
       "assetId": 235962
     },
@@ -416,7 +416,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 264011,
       "assetId": 264011
     },
@@ -455,7 +455,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 267204,
       "assetId": 267204
     },
@@ -499,7 +499,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 267226,
       "assetId": 267226
     },
@@ -587,7 +587,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 267268,
       "assetId": 267268
     },
@@ -710,7 +710,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 267334,
       "assetId": 267334
     },
@@ -883,7 +883,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 600,
       "resourceId": 273136,
       "assetId": 273136
     },
@@ -1100,7 +1100,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 7700,
+      "price": 7400,
       "resourceId": 279799,
       "assetId": 279799
     },
@@ -1137,7 +1137,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 300,
       "resourceId": 50407973,
       "assetId": 76325
     },
@@ -1189,7 +1189,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 175000,
+      "price": 179000,
       "resourceId": 50558541,
       "assetId": 226893
     },
@@ -1233,7 +1233,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 11500,
       "resourceId": 50558545,
       "assetId": 226897
     },
@@ -1280,10 +1280,68 @@
         76
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 4600,
+      "sbcPrice": 4800,
       "price": 0,
       "resourceId": 50567610,
       "assetId": 235962
+    },
+    "67335757": {
+      "name": "Debinha",
+      "cardName": "Debinha",
+      "originalVersionId": "151",
+      "clubId": 116309,
+      "leagueId": 2221,
+      "countryId": 54,
+      "versionId": "151",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20,
+        22,
+        23,
+        5,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        21,
+        25,
+        37,
+        123,
+        131,
+        135
+      ],
+      "rolesPlusPlus": [
+        21,
+        25,
+        37,
+        123,
+        131,
+        135
+      ],
+      "attributes": [
+        87,
+        82,
+        87,
+        92,
+        48,
+        78
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67335757,
+      "assetId": 226893
     }
   }
 }
