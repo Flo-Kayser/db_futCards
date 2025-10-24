@@ -7,6 +7,7 @@ const INPUT     = path.join("db", "core-data", "all-cards.json");
 const OUT_DIR   = path.join("db", "players");
 const INDEX_DIR = path.join("db", "index-data");
 const META_FILE = path.join(INDEX_DIR, "metaIndex.json");
+const ASSET_NAME_FILE = path.join(INDEX_DIR, "assetIdToName.json");
 
 const readJson  = (file) => fs.readFile(file, "utf8").then(JSON.parse);
 const writeJson = (file, data) => fs.writeFile(file, JSON.stringify(data, null, 2), "utf8");
@@ -37,6 +38,7 @@ async function main() {
   if (!Array.isArray(cards)) throw new Error("Invalid all-cards.json");
 
   const perPlayer = new Map();
+  const assetNameMap = {}; // <- neue Map für assetId → Name
 
   // Karten pro assetId sammeln
   for (const card of cards) {
@@ -46,6 +48,11 @@ async function main() {
     const resourceId = String(card.resourceId ?? "");
     if (!assetId || !resourceId) continue;
 
+    // --- neue Zuordnung: assetId → Spielername
+    if (!assetNameMap[assetId]) {
+      assetNameMap[assetId] = card.name || card.cardName || "";
+    }
+
     if (!perPlayer.has(assetId)) perPlayer.set(assetId, {});
     const playerObj = perPlayer.get(assetId);
 
@@ -53,12 +60,8 @@ async function main() {
     if (!playerObj.name && card.name) playerObj.name = String(card.name);
 
     const cardVersionData = pick(card, PICK_FIELDS);
-
     const rawVersionId = cardVersionData.versionId ?? card.versionId;
-    const mappedVersionId = remapVersionId(
-      rawVersionId,
-      card.rating
-    );
+    const mappedVersionId = remapVersionId(rawVersionId, card.rating);
 
     cardVersionData.versionId = mappedVersionId;
     if (rawVersionId !== mappedVersionId) {
@@ -75,6 +78,10 @@ async function main() {
     await fs.writeFile(filePath, JSON.stringify(payload, null, 2), "utf8");
     written++;
   }
+
+  // --- neue JSON mit allen assetIds und Namen ---
+  await writeJson(ASSET_NAME_FILE, assetNameMap);
+  console.log(`Wrote assetId → name mapping to ${ASSET_NAME_FILE} (${Object.keys(assetNameMap).length} entries)`);
 
   // --- Meta: onlyBest = Anzahl eindeutiger assetIds ---
   await upsertMetaFlatCounts(META_FILE, {
