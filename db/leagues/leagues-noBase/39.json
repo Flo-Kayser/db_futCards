@@ -44,7 +44,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 50500,
+    "price": 60000,
     "resourceId": 7743,
     "assetId": 7743
   },
@@ -92,7 +92,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 44750,
+    "price": 49250,
     "resourceId": 39386,
     "assetId": 39386
   },
@@ -138,7 +138,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 18750,
+    "price": 23750,
     "resourceId": 155897,
     "assetId": 155897
   },
@@ -179,7 +179,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 28750,
+    "price": 37000,
     "resourceId": 191694,
     "assetId": 191694
   },
@@ -226,7 +226,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 10250,
+    "price": 10000,
     "resourceId": 50402470,
     "assetId": 70822
   },
@@ -287,7 +287,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 1199000,
+    "price": 1215000,
     "resourceId": 50489671,
     "assetId": 158023
   },
@@ -331,7 +331,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 13000,
     "resourceId": 50496153,
     "assetId": 164505
   },
@@ -376,7 +376,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 12500,
     "resourceId": 50520980,
     "assetId": 189332
   },
@@ -428,7 +428,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 426000,
+    "sbcPrice": 446500,
     "resourceId": 50521159,
     "assetId": 189511
   },
@@ -479,7 +479,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 12000,
     "resourceId": 50521244,
     "assetId": 189596
   },
@@ -529,6 +529,7 @@
       81
     ],
     "hasDynamicImage": true,
+    "price": 22000,
     "resourceId": 50523342,
     "assetId": 191694
   },
@@ -584,7 +585,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 381000,
+    "price": 402000,
     "resourceId": 50531752,
     "assetId": 200104
   },
@@ -784,7 +785,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 12750,
     "resourceId": 50557599,
     "assetId": 225951
   },
@@ -877,7 +878,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 15200,
+    "sbcPrice": 13400,
     "resourceId": 50566153,
     "assetId": 234505
   },
@@ -988,7 +989,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 10500,
+    "price": 11000,
     "resourceId": 50572392,
     "assetId": 240744
   },
@@ -1037,9 +1038,61 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 12250,
     "resourceId": 50572810,
     "assetId": 241162
+  },
+  "50600799": {
+    "name": "Owen Wolff",
+    "cardName": "Wolff",
+    "originalVersionId": "151",
+    "clubId": 114161,
+    "leagueId": 39,
+    "countryId": 95,
+    "versionId": "151",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "LM"
+    ],
+    "playStyles": [
+      11,
+      17,
+      24,
+      26
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      17,
+      22,
+      49,
+      118
+    ],
+    "rolesPlusPlus": [
+      17,
+      22,
+      49,
+      118
+    ],
+    "attributes": [
+      82,
+      70,
+      83,
+      86,
+      79,
+      77
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50600799,
+    "assetId": 269151
   },
   "50602165": {
     "name": "Diego Luna",
@@ -1088,6 +1141,55 @@
     "hasDynamicImage": true,
     "resourceId": 50602165,
     "assetId": 270517
+  },
+  "67298196": {
+    "name": "Jordi Alba",
+    "cardName": "Jordi Alba",
+    "originalVersionId": "25",
+    "clubId": 112893,
+    "leagueId": 39,
+    "countryId": 45,
+    "versionId": "25",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB"
+    ],
+    "playStyles": [
+      14,
+      17,
+      21,
+      8
+    ],
+    "playStylesPlus": [
+      11
+    ],
+    "rolesPlus": [
+      7,
+      47,
+      110
+    ],
+    "rolesPlusPlus": [
+      7,
+      47,
+      110
+    ],
+    "attributes": [
+      89,
+      80,
+      86,
+      88,
+      83,
+      80
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 222500,
+    "price": 210150,
+    "resourceId": 67298196,
+    "assetId": 189332
   },
   "67298460": {
     "name": "Thomas Müller",
@@ -1142,6 +1244,7 @@
       75
     ],
     "hasDynamicImage": true,
+    "price": 22750,
     "resourceId": 67298460,
     "assetId": 189596
   }
