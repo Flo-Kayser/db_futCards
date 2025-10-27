@@ -30,16 +30,45 @@ async function buildBatches() {
     await fs.readFile(INPUT_FETCHED_COLLECTIONS, "utf-8")
   );
 
-  const totwCollections = fetchedCollections.filter(
-    (c) =>
-      c.name.toLowerCase().includes("totw") ||
-      c.name.toLowerCase().includes("team of the week")
-  );
-  const otherCollections = fetchedCollections.filter(
-    (c) =>
-      !c.name.toLowerCase().includes("totw") &&
-      !c.name.toLowerCase().includes("team of the week")
-  );
+  const findPlayerData = (id) => {
+    const card = allCards.find((card) => card.resourceId === id);
+    return card ? pickFields(card, PICK_FIELDS) : null;
+  };
+
+  const totwCollections = fetchedCollections
+    .filter(
+      (c) =>
+        c.name.toLowerCase().includes("totw") ||
+        c.name.toLowerCase().includes("team of the week")
+    )
+    .map((c) => ({
+      id: c.id,
+      name: c.name,
+      allIds: c.allIds,
+      highlightedPlayers:
+        c.highlightedIds
+          ?.slice(0, 6)
+          .map(findPlayerData)
+          .filter(Boolean)
+          .sort((a, b) => b.rating - a.rating) ?? [],
+    }));
+  const otherCollections = fetchedCollections
+    .filter(
+      (c) =>
+        !c.name.toLowerCase().includes("totw") &&
+        !c.name.toLowerCase().includes("team of the week")
+    )
+    .map((c) => ({
+      id: c.id,
+      name: c.name,
+      allIds: c.allIds,
+      highlightedPlayers:
+        c.highlightedIds
+          ?.slice(0, 6)
+          .map(findPlayerData)
+          .filter(Boolean)
+          .sort((a, b) => b.rating - a.rating) ?? [],
+    }));
 
   fs.mkdir(OUT_INDEX_DIR, { recursive: true });
   fs.writeFile(OUT_FILE_TOTW, JSON.stringify(totwCollections, null, 2));
@@ -49,14 +78,13 @@ async function buildBatches() {
 
   fs.mkdir(OUT_BATCHES_DIR, { recursive: true });
 
-  const findPlayerData = (id) => {
-    const card = allCards.find((card) => card.resourceId === id);
-    return card ? pickFields(card, PICK_FIELDS) : null;
-  }
-
   const allCollections = [...totwCollections, ...otherCollections];
-  for(const c of allCollections) {
-    const players =  c.allIds?.map(findPlayerData)?.filter(Boolean).sort((a,b)=>b.rating - a.rating) || [];
+  for (const c of allCollections) {
+    const players =
+      c.allIds
+        ?.map(findPlayerData)
+        ?.filter(Boolean)
+        .sort((a, b) => b.rating - a.rating) || [];
 
     const filePath = path.join(OUT_BATCHES_DIR, `${c.id}.json`);
     await fs.writeFile(filePath, JSON.stringify(players, null, 2));
