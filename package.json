@@ -10,14 +10,17 @@
     "build:ClubFiles": "node scripts/build-club-files.js",
     "build:HeroFiles": "node scripts/build-hero-club-files.js",
 
+    "build:Batches": "node scripts/build-batches.js",
+
     "build:ResourceMap": "node scripts/build-resource-map.js",
 
-    "build:all": "npm run build:PlayerFiles && npm run build:VersionFiles && npm run build:VersionIndex && npm run build:LeagueFiles && npm run build:CountryFiles && npm run build:ClubFiles && npm run build:HeroFiles && npm run build:ResourceMap",
+    "build:all": "npm run build:PlayerFiles && npm run build:VersionFiles && npm run build:VersionIndex && npm run build:LeagueFiles && npm run build:CountryFiles && npm run build:ClubFiles && npm run build:HeroFiles && npm run build:ResourceMap && npm run build:Batches",
 
+    "fetch:Collections": "node scripts/fetch-collections.js",
     "fetch:AllCards": "node scripts/fetch-all-cards.js",
     "fetch:VersionData": "node scripts/fetch-version-data.js",
     "fetch:ManagerData": "node scripts/fetch-manager-data.js",
-    "fetch:all": "npm run fetch:AllCards && npm run fetch:VersionData && npm run fetch:ManagerData",
+    "fetch:all": "npm run fetch:AllCards && npm run fetch:VersionData && npm run fetch:ManagerData && npm run fetch:Collections",
     "all": "npm run fetch:all && npm run build:all"
   },
   "devDependencies": {},
