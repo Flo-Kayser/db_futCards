@@ -7,26 +7,45 @@ const PLAYERS_DIR = path.join("db", "players");
 const INDEX_DIR   = path.join("db", "index-data");
 const OUT_FILE    = path.join(INDEX_DIR, "resourceMap.json");
 
-// normalisiert Array- oder Objekt-Dateien
 function normalizeAssetFile(json) {
+  const isValidCard = (obj) => {
+    if (!obj) return false;
+
+    const keys = Object.keys(obj);
+    if (
+      (keys.length <= 2 && (keys.includes("name") || keys.includes("cardName"))) ||
+      (!obj.resourceId && !obj.rating)
+    ) {
+      return false;
+    }
+
+    return true;
+  };
+
   if (Array.isArray(json)) {
-    return json.map(c => ({
-      rid: String(c.resourceId ?? ""),
+    return json
+      .filter(isValidCard)
+      .map((c) => ({
+        rid: String(c.resourceId ?? ""),
+        countryId: c.countryId,
+        leagueId: c.leagueId,
+        versionId: String(c.versionId ?? ""),
+        clubId: c.clubId,
+        rating: Number(c.rating ?? 0)
+      }))
+      .filter((c) => c.rid);
+  }
+
+  return Object.entries(json)
+    .filter(([_, c]) => isValidCard(c))
+    .map(([rid, c]) => ({
+      rid: String(rid),
       countryId: c.countryId,
       leagueId: c.leagueId,
       versionId: String(c.versionId ?? ""),
       clubId: c.clubId,
       rating: Number(c.rating ?? 0)
-    })).filter(c => c.rid);
-  }
-  return Object.entries(json).map(([rid, c]) => ({
-    rid: String(rid),
-    countryId: c.countryId,
-    leagueId: c.leagueId,
-    versionId: String(c.versionId ?? ""),
-    clubId: c.clubId,
-    rating: Number(c.rating ?? 0)
-  }));
+    }));
 }
 
 function bestIdsForAsset(items) {
@@ -38,7 +57,6 @@ async function buildMap() {
   const files = await fs.readdir(PLAYERS_DIR);
   const outMap = {};
 
-  // globale Sets für eindeutige IDs
   const allIds        = new Set();
   const noBaseIds     = new Set();
   const onlyBestIds   = new Set();
@@ -54,7 +72,6 @@ async function buildMap() {
     const bestIds = bestIdsForAsset(items);
 
     for (const i of items) {
-      // Eintrag schreiben
       outMap[i.rid] = {
         c: i.countryId,
         l: i.leagueId,
@@ -63,7 +80,6 @@ async function buildMap() {
         m: 1, // all
       };
 
-      // eindeutige Zähler
       allIds.add(i.rid);
       if (!BASE_VERSION_IDS.has(i.versionId)) {
         outMap[i.rid].m |= 2;
