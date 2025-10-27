@@ -3,11 +3,13 @@ import path from "path";
 
 const BATCH_SIZE = 50;
 
-const OUT_FILE = path.join("db", "core-data", "all-cards.json");
+const OUT_DIR = path.join("db", "core-data");
+const OUT_FILE_ALL = path.join(OUT_DIR, "all-cards.json");
+const OUT_FILE_NOBASE = path.join(OUT_DIR, "cards-noBase.json");
+
 const BASE_URL = "https://api-fc26.easysbc.io";
 const CARDS_ENDPOINT = (page) => `/players?page=${page}`;
 
-// Hilfsfunktion: lädt eine einzelne Seite
 async function fetchPage(page) {
   const res = await fetch(BASE_URL + CARDS_ENDPOINT(page));
   if (!res.ok) throw new Error(`HTTP ${res.status} für Seite ${page}`);
@@ -17,9 +19,9 @@ async function fetchPage(page) {
 
 async function main() {
   try {
-    await fs.mkdir(path.dirname(OUT_FILE), { recursive: true });
+    await fs.mkdir(OUT_DIR, { recursive: true });
 
-    // Erst mal Seite 1 holen, um totalPages zu erfahren
+    // 🔹 Erste Seite laden
     const firstRes = await fetch(BASE_URL + CARDS_ENDPOINT(1));
     if (!firstRes.ok) throw new Error(`HTTP ${firstRes.status}`);
     const firstData = await firstRes.json();
@@ -27,7 +29,7 @@ async function main() {
     const totalPages = firstData?.totalPages ?? 1;
     const allCards = [...(firstData?.players ?? [])];
 
-    // Ab Seite 2 alle restlichen Seiten in 50er-Batches parallel laden
+    // 🔹 Weitere Seiten in Batches laden
     const pages = [];
     for (let p = 2; p <= totalPages; p++) pages.push(p);
 
@@ -38,10 +40,20 @@ async function main() {
       for (const players of batchResults) allCards.push(...players);
     }
 
-    await fs.writeFile(OUT_FILE, JSON.stringify(allCards, null, 2), "utf8");
-    console.log(`✅ ${allCards.length} Karten gespeichert in ${OUT_FILE}`);
+    // 🔹 Datei 1: Alle Karten
+    await fs.writeFile(OUT_FILE_ALL, JSON.stringify(allCards, null, 2), "utf8");
+    console.log(`✅ ${allCards.length} Karten gespeichert in ${OUT_FILE_ALL}`);
+
+    // 🔹 Datei 2: ohne Base-Karten (versionId 0 oder 1)
+    const noBaseCards = allCards.filter(
+      (card) => card.versionId !== 0 && card.versionId !== 1
+    );
+    await fs.writeFile(OUT_FILE_NOBASE, JSON.stringify(noBaseCards, null, 2), "utf8");
+    console.log(
+      `✅ ${noBaseCards.length} Karten ohne Base-Version gespeichert in ${OUT_FILE_NOBASE}`
+    );
   } catch (err) {
-    console.error("Fehler beim Fetch:", err);
+    console.error("❌ Fehler beim Fetch:", err);
   }
 }
 
