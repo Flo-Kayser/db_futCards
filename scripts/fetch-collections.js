@@ -33,6 +33,13 @@ const TOTW_2 = {
   ],
 };
 
+const CORNERSTONES_1={
+  id: 3,
+  name: "Cornerstones 1",
+  highlightedIds: [50561790,50543846,50572732,50589182,50588501,50570701],
+  allIds: [50561790,50543846,50572732,50589182,50588501,50570701,50572286,50588164,50558964,50549518,50496153,50534715,50551331,50561230,50565204,50567290,50567538,50596717,50598886,50607432]
+}
+
 async function fetchCollections() {
   console.log("📦 Starting to fetch collections...");
   let allCollections = [];
@@ -65,6 +72,7 @@ async function fetchCollections() {
 
   allCollections.push(TOTW_2);
   allCollections.push(TOTW_1);
+  allCollections.push(CORNERSTONES_1);
 
   await fs.mkdir(path.dirname(OUT_FILE), { recursive: true });
   await fs.writeFile(OUT_FILE, JSON.stringify(allCollections, null, 2));
