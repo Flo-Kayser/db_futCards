@@ -75,54 +75,6 @@
       "resourceId": 74074,
       "assetId": 74074
     },
-    "208418": {
-      "name": "Yannick Carrasco",
-      "cardName": "Carrasco",
-      "originalVersionId": "0",
-      "clubId": 111674,
-      "leagueId": 350,
-      "countryId": 7,
-      "versionId": "2002",
-      "rating": 81,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        12,
-        20,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        30,
-        38,
-        39,
-        40
-      ],
-      "rolesPlusPlus": [
-        30,
-        38,
-        39,
-        40
-      ],
-      "attributes": [
-        87,
-        80,
-        77,
-        85,
-        58,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 450,
-      "resourceId": 208418,
-      "assetId": 208418
-    },
     "208977": {
       "name": "Fahad Al Muwallad",
       "cardName": "Al Muwallad",
@@ -250,7 +202,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 0,
       "resourceId": 216774,
       "assetId": 216774
     },
@@ -669,48 +621,6 @@
       "resourceId": 269433,
       "assetId": 269433
     },
-    "269682": {
-      "name": "Ali Makki",
-      "cardName": "Makki",
-      "originalVersionId": "0",
-      "clubId": 111674,
-      "leagueId": 350,
-      "countryId": 183,
-      "versionId": "2000",
-      "rating": 57,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "CB",
-        "LB",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        15
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        3
-      ],
-      "rolesPlusPlus": [
-        3
-      ],
-      "attributes": [
-        49,
-        27,
-        46,
-        41,
-        58,
-        65
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 269682,
-      "assetId": 269682
-    },
     "271637": {
       "name": "Hussain Al Sibyani",
       "cardName": "Al Sibyani",
@@ -988,46 +898,54 @@
       "resourceId": 279785,
       "assetId": 279785
     },
-    "50406349": {
-      "name": "Abdulaziz Al Othman",
-      "cardName": "Al Othman",
-      "originalVersionId": "0",
+    "50540066": {
+      "name": "Yannick Carrasco",
+      "cardName": "Carrasco",
+      "originalVersionId": "151",
       "clubId": 111674,
       "leagueId": 350,
-      "countryId": 183,
-      "versionId": "2000",
-      "rating": 60,
+      "countryId": 7,
+      "versionId": "151",
+      "rating": 85,
       "preferredFoot": "Right",
       "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "ST",
+      "skillMoves": 4,
+      "preferredPosition": "LM",
       "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
+        "LM",
+        "LW"
       ],
-      "playStyles": [],
+      "playStyles": [
+        12,
+        20,
+        24,
+        7
+      ],
       "playStylesPlus": [],
       "rolesPlus": [
-        23,
-        42
+        27,
+        29,
+        39,
+        130
       ],
       "rolesPlusPlus": [
-        23,
-        42
+        27,
+        29,
+        39,
+        130
       ],
       "attributes": [
-        74,
-        54,
-        48,
-        56,
-        34,
-        69
+        89,
+        84,
+        82,
+        88,
+        63,
+        73
       ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 50406349,
-      "assetId": 74701
+      "hasDynamicImage": true,
+      "sbcPrice": 72400,
+      "resourceId": 50540066,
+      "assetId": 208418
     },
     "50575275": {
       "name": "Yacine Adli",
@@ -1069,7 +987,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 50575275,
       "assetId": 243627
     },
@@ -1110,6 +1028,58 @@
       "price": 200,
       "resourceId": 50591658,
       "assetId": 260010
+    },
+    "50601330": {
+      "name": "Ali Makki",
+      "cardName": "Makki",
+      "originalVersionId": "151",
+      "clubId": 111674,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "151",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        13,
+        15,
+        6,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        7,
+        24,
+        125
+      ],
+      "rolesPlusPlus": [
+        3,
+        7,
+        24,
+        125
+      ],
+      "attributes": [
+        87,
+        84,
+        83,
+        85,
+        60,
+        77
+      ],
+      "hasDynamicImage": false,
+      "sbcPrice": 9900,
+      "resourceId": 50601330,
+      "assetId": 269682
     },
     "50610039": {
       "name": "Unai Hernández",
@@ -1156,6 +1126,56 @@
       "price": 200,
       "resourceId": 50610039,
       "assetId": 278391
+    },
+    "67183565": {
+      "name": "Abdulaziz Al Othman",
+      "cardName": "Al Othman",
+      "originalVersionId": "151",
+      "clubId": 111674,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "151",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        22,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35,
+        42,
+        141
+      ],
+      "rolesPlusPlus": [
+        23,
+        35,
+        42,
+        141
+      ],
+      "attributes": [
+        81,
+        84,
+        80,
+        82,
+        60,
+        80
+      ],
+      "hasDynamicImage": false,
+      "sbcPrice": 10000,
+      "resourceId": 67183565,
+      "assetId": 74701
     }
   }
 }

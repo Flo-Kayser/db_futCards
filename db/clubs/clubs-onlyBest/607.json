@@ -1,54 +1,6 @@
 {
   "clubName": "Al Ittihad",
   "players": {
-    "165153": {
-      "name": "Karim Benzema",
-      "cardName": "Benzema",
-      "originalVersionId": "1",
-      "clubId": 607,
-      "leagueId": 350,
-      "countryId": 18,
-      "versionId": "3002",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        22,
-        26,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        6
-      ],
-      "rolesPlus": [
-        41,
-        143
-      ],
-      "rolesPlusPlus": [
-        41,
-        143
-      ],
-      "attributes": [
-        75,
-        84,
-        81,
-        83,
-        38,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 4300,
-      "resourceId": 165153,
-      "assetId": 165153
-    },
     "200888": {
       "name": "Danilo Pereira",
       "cardName": "Danilo Pereira",
@@ -90,7 +42,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 200888,
       "assetId": 200888
     },
@@ -139,7 +91,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 209499,
       "assetId": 209499
     },
@@ -269,7 +221,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 4400,
+      "price": 4700,
       "resourceId": 215914,
       "assetId": 215914
     },
@@ -627,7 +579,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1600,
       "resourceId": 241852,
       "assetId": 241852
     },
@@ -1163,7 +1115,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 2700,
       "resourceId": 278391,
       "assetId": 278391
     },
@@ -1203,6 +1155,58 @@
       "price": 200,
       "resourceId": 279593,
       "assetId": 279593
+    },
+    "50496801": {
+      "name": "Karim Benzema",
+      "cardName": "Benzema",
+      "originalVersionId": "151",
+      "clubId": 607,
+      "leagueId": 350,
+      "countryId": 18,
+      "versionId": "151",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        22,
+        26,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        32,
+        41,
+        134,
+        143
+      ],
+      "rolesPlusPlus": [
+        32,
+        41,
+        134,
+        143
+      ],
+      "attributes": [
+        80,
+        86,
+        83,
+        85,
+        40,
+        79
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50496801,
+      "assetId": 165153
     },
     "50595476": {
       "name": "Roger Fernandes",
