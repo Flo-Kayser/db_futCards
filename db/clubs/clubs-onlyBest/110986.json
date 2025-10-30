@@ -37,7 +37,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2200,
       "resourceId": 199103,
       "assetId": 199103
     },
@@ -84,7 +84,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2100,
       "resourceId": 215036,
       "assetId": 215036
     },
@@ -124,7 +124,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 2800,
+      "price": 2200,
       "resourceId": 221860,
       "assetId": 221860
     },
@@ -167,7 +167,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2200,
       "resourceId": 231550,
       "assetId": 231550
     },
@@ -208,7 +208,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2000,
       "resourceId": 236267,
       "assetId": 236267
     },
@@ -249,7 +249,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2100,
       "resourceId": 240944,
       "assetId": 240944
     },
@@ -288,7 +288,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2200,
       "resourceId": 242492,
       "assetId": 242492
     },
@@ -333,7 +333,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2100,
       "resourceId": 245357,
       "assetId": 245357
     },
@@ -374,7 +374,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2100,
       "resourceId": 253322,
       "assetId": 253322
     },
@@ -415,7 +415,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2100,
       "resourceId": 253349,
       "assetId": 253349
     },
@@ -462,7 +462,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2100,
       "resourceId": 254062,
       "assetId": 254062
     },
@@ -501,7 +501,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2100,
       "resourceId": 254173,
       "assetId": 254173
     },
@@ -550,51 +550,9 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2100,
       "resourceId": 254206,
       "assetId": 254206
-    },
-    "259834": {
-      "name": "Gabriel Villamíl",
-      "cardName": "Villamíl",
-      "originalVersionId": "0",
-      "clubId": 110986,
-      "leagueId": 1003,
-      "countryId": 53,
-      "versionId": "2001",
-      "rating": 68,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        2
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        33
-      ],
-      "rolesPlusPlus": [
-        18,
-        33
-      ],
-      "attributes": [
-        71,
-        60,
-        65,
-        69,
-        56,
-        50
-      ],
-      "hasDynamicImage": false,
-      "price": 2500,
-      "resourceId": 259834,
-      "assetId": 259834
     },
     "269915": {
       "name": "Lautaro Pastrán",
@@ -632,7 +590,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2100,
       "resourceId": 269915,
       "assetId": 269915
     },
@@ -669,7 +627,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2000,
       "resourceId": 274717,
       "assetId": 274717
     },
@@ -707,9 +665,53 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2100,
       "resourceId": 274719,
       "assetId": 274719
+    },
+    "50591482": {
+      "name": "Gabriel Villamíl",
+      "cardName": "Villamíl",
+      "originalVersionId": "3",
+      "clubId": 110986,
+      "leagueId": 1003,
+      "countryId": 53,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        2,
+        26,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        33,
+        118
+      ],
+      "rolesPlusPlus": [
+        33,
+        118
+      ],
+      "attributes": [
+        83,
+        76,
+        80,
+        81,
+        70,
+        68
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50591482,
+      "assetId": 259834
     },
     "50591552": {
       "name": "Gonzalo Valle",

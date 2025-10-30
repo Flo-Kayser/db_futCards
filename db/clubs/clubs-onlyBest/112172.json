@@ -165,50 +165,6 @@
       "resourceId": 76500,
       "assetId": 76500
     },
-    "78012": {
-      "name": "Yan Diomande",
-      "cardName": "Diomande",
-      "originalVersionId": "0",
-      "clubId": 112172,
-      "leagueId": 19,
-      "countryId": 108,
-      "versionId": "2001",
-      "rating": 66,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        27,
-        29
-      ],
-      "rolesPlusPlus": [
-        23,
-        27,
-        29
-      ],
-      "attributes": [
-        71,
-        61,
-        62,
-        64,
-        25,
-        49
-      ],
-      "hasDynamicImage": false,
-      "price": 600,
-      "resourceId": 78012,
-      "assetId": 78012
-    },
     "79107": {
       "name": "Andrija Maksimović",
       "cardName": "Maksimović",
@@ -326,7 +282,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 4800,
       "resourceId": 185122,
       "assetId": 185122
     },
@@ -417,7 +373,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 650,
       "resourceId": 212188,
       "assetId": 212188
     },
@@ -463,7 +419,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 222331,
       "assetId": 222331
     },
@@ -500,7 +456,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 222546,
       "assetId": 222546
     },
@@ -1187,7 +1143,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 276216,
       "assetId": 276216
     },
@@ -1232,7 +1188,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 276602,
       "assetId": 276602
     },
@@ -1274,7 +1230,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 550,
       "resourceId": 277887,
       "assetId": 277887
     },
@@ -1324,6 +1280,56 @@
       "resourceId": 278061,
       "assetId": 278061
     },
+    "50409660": {
+      "name": "Yan Diomande",
+      "cardName": "Diomande",
+      "originalVersionId": "3",
+      "clubId": 112172,
+      "leagueId": 19,
+      "countryId": 108,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        10,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        29,
+        136
+      ],
+      "rolesPlusPlus": [
+        23,
+        27,
+        29,
+        136
+      ],
+      "attributes": [
+        85,
+        78,
+        80,
+        81,
+        39,
+        67
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50409660,
+      "assetId": 78012
+    },
     "50536286": {
       "name": "Willi Orban",
       "cardName": "Orban",
@@ -1368,7 +1374,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 16750,
       "resourceId": 50536286,
       "assetId": 204638
     },
@@ -1511,7 +1517,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 51400,
+      "sbcPrice": 49700,
       "resourceId": 50597098,
       "assetId": 265450
     },
@@ -1560,7 +1566,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 700,
       "resourceId": 50609337,
       "assetId": 277689
     }

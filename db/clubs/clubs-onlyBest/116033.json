@@ -42,7 +42,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 15000,
+      "price": 13750,
       "resourceId": 227310,
       "assetId": 227310
     },
@@ -93,7 +93,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 44000,
+      "price": 41500,
       "resourceId": 227361,
       "assetId": 227361
     },
@@ -138,7 +138,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1400,
       "resourceId": 227392,
       "assetId": 227392
     },
@@ -191,7 +191,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 14750,
+      "price": 14000,
       "resourceId": 231432,
       "assetId": 231432
     },
@@ -236,7 +236,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1400,
       "resourceId": 242896,
       "assetId": 242896
     },
@@ -319,7 +319,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 19500,
+      "price": 18750,
       "resourceId": 246272,
       "assetId": 246272
     },
@@ -356,7 +356,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 248751,
       "assetId": 248751
     },
@@ -521,7 +521,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 350,
       "resourceId": 265092,
       "assetId": 265092
     },
@@ -567,7 +567,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1400,
       "resourceId": 265536,
       "assetId": 265536
     },
@@ -615,50 +615,9 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 8800,
       "resourceId": 265898,
       "assetId": 265898
-    },
-    "274753": {
-      "name": "Tarciane",
-      "cardName": "Tarciane",
-      "originalVersionId": "0",
-      "clubId": 116033,
-      "leagueId": 2218,
-      "countryId": 54,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        12,
-        48
-      ],
-      "rolesPlusPlus": [
-        11,
-        12,
-        48
-      ],
-      "attributes": [
-        68,
-        39,
-        63,
-        60,
-        73,
-        81
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 274753,
-      "assetId": 274753
     },
     "277169": {
       "name": "Wassa Sangare",
@@ -733,7 +692,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 5100,
       "resourceId": 277170,
       "assetId": 277170
     },
@@ -772,7 +731,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 1400,
       "resourceId": 277171,
       "assetId": 277171
     },
@@ -809,7 +768,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 277175,
       "assetId": 277175
     },
@@ -895,7 +854,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 95000,
+      "price": 98000,
       "resourceId": 50558964,
       "assetId": 227316
     },
@@ -946,7 +905,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 27600,
+      "sbcPrice": 26700,
       "resourceId": 50593388,
       "assetId": 261740
     },
@@ -1052,7 +1011,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 11500,
       "resourceId": 50597553,
       "assetId": 265905
     },
@@ -1098,9 +1057,62 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 11750,
       "resourceId": 50605594,
       "assetId": 273946
+    },
+    "50606401": {
+      "name": "Tarciane",
+      "cardName": "Tarciane",
+      "originalVersionId": "91",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 54,
+      "versionId": "91",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        10,
+        16,
+        17,
+        19,
+        28,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        12,
+        48,
+        103,
+        111
+      ],
+      "rolesPlusPlus": [
+        4,
+        12,
+        48,
+        103,
+        111
+      ],
+      "attributes": [
+        78,
+        50,
+        78,
+        70,
+        86,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50606401,
+      "assetId": 274753
     },
     "50609867": {
       "name": "Tabitha Chawinga",
@@ -1144,7 +1156,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 18000,
       "resourceId": 50609867,
       "assetId": 278219
     }

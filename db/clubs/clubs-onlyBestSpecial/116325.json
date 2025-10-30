@@ -1,6 +1,58 @@
 {
   "clubName": "FC Barcelona",
   "players": {
+    "50558851": {
+      "name": "Alexia Putellas",
+      "cardName": "Alexia Putellas",
+      "originalVersionId": "3",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 92,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        20,
+        3,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        22
+      ],
+      "rolesPlus": [
+        22,
+        121,
+        133
+      ],
+      "rolesPlusPlus": [
+        22,
+        121,
+        133
+      ],
+      "attributes": [
+        83,
+        90,
+        91,
+        92,
+        74,
+        81
+      ],
+      "hasDynamicImage": false,
+      "price": 2000000,
+      "resourceId": 50558851,
+      "assetId": 227203
+    },
     "50594179": {
       "name": "Claudia Pina",
       "cardName": "Claudia Pina",
@@ -55,7 +107,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 929000,
+      "price": 1085000,
       "resourceId": 50594179,
       "assetId": 262531
     },
@@ -161,7 +213,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 580000,
+      "price": 604000,
       "resourceId": 50601052,
       "assetId": 269404
     }

@@ -35,7 +35,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 200,
       "resourceId": 70253,
       "assetId": 70253
     },
@@ -260,7 +260,7 @@
         88
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 220793,
       "assetId": 220793
     },
@@ -310,7 +310,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 950,
       "resourceId": 223959,
       "assetId": 223959
     },
@@ -404,7 +404,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 14500,
+      "price": 13500,
       "resourceId": 232293,
       "assetId": 232293
     },
@@ -810,7 +810,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 259675,
       "assetId": 259675
     },
@@ -893,7 +893,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 262607,
       "assetId": 262607
     },
@@ -944,7 +944,7 @@
         90
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 263205,
       "assetId": 263205
     },
@@ -993,57 +993,6 @@
       "price": 0,
       "resourceId": 265195,
       "assetId": 265195
-    },
-    "270571": {
-      "name": "Gabriel Sara",
-      "cardName": "Gabriel Sara",
-      "originalVersionId": "1",
-      "clubId": 325,
-      "leagueId": 68,
-      "countryId": 54,
-      "versionId": "3002",
-      "rating": 80,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "RM"
-      ],
-      "playStyles": [
-        10,
-        13,
-        2,
-        3,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        22,
-        26,
-        33
-      ],
-      "rolesPlusPlus": [
-        18,
-        22,
-        26,
-        33
-      ],
-      "attributes": [
-        74,
-        74,
-        83,
-        79,
-        68,
-        78
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 270571,
-      "assetId": 270571
     },
     "271211": {
       "name": "Jankat Yılmaz",
@@ -1116,7 +1065,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 271368,
       "assetId": 271368
     },
@@ -1156,7 +1105,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 700,
       "resourceId": 278168,
       "assetId": 278168
     },
@@ -1279,7 +1228,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 850,
       "resourceId": 50518590,
       "assetId": 186942
     },
@@ -1368,7 +1317,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 400,
       "resourceId": 50557948,
       "assetId": 226300
     },
@@ -1420,6 +1369,57 @@
       "price": 700,
       "resourceId": 50584450,
       "assetId": 252802
+    },
+    "50602219": {
+      "name": "Gabriel Sara",
+      "cardName": "Gabriel Sara",
+      "originalVersionId": "3",
+      "clubId": 325,
+      "leagueId": 68,
+      "countryId": 54,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        13,
+        3,
+        6,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        26,
+        33,
+        118
+      ],
+      "rolesPlusPlus": [
+        22,
+        26,
+        33,
+        118
+      ],
+      "attributes": [
+        79,
+        79,
+        86,
+        83,
+        71,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 12000,
+      "resourceId": 50602219,
+      "assetId": 270571
     }
   }
 }

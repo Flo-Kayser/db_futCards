@@ -38,7 +38,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 70191,
       "assetId": 70191
     },
@@ -277,7 +277,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 350,
       "resourceId": 204549,
       "assetId": 204549
     },
@@ -365,47 +365,6 @@
       "price": 350,
       "resourceId": 226431,
       "assetId": 226431
-    },
-    "234167": {
-      "name": "Siebe Van der Heyden",
-      "cardName": "Van der Heyden",
-      "originalVersionId": "1",
-      "clubId": 674,
-      "leagueId": 4,
-      "countryId": 7,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        18
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        48
-      ],
-      "rolesPlusPlus": [
-        11,
-        48
-      ],
-      "attributes": [
-        59,
-        34,
-        57,
-        53,
-        74,
-        75
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 234167,
-      "assetId": 234167
     },
     "234905": {
       "name": "Dante Vanzeir",
@@ -650,7 +609,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 261325,
       "assetId": 261325
     },
@@ -859,7 +818,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 700,
       "resourceId": 266681,
       "assetId": 266681
     },
@@ -1238,6 +1197,51 @@
       "price": 200,
       "resourceId": 50561353,
       "assetId": 229705
+    },
+    "50565815": {
+      "name": "Siebe Van der Heyden",
+      "cardName": "Van der Heyden",
+      "originalVersionId": "3",
+      "clubId": 674,
+      "leagueId": 4,
+      "countryId": 7,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16,
+        18,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48,
+        113
+      ],
+      "rolesPlusPlus": [
+        11,
+        48,
+        113
+      ],
+      "attributes": [
+        78,
+        41,
+        71,
+        65,
+        81,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50565815,
+      "assetId": 234167
     },
     "50583281": {
       "name": "Michał Skóraś",

@@ -1,6 +1,56 @@
 {
   "clubName": "RB Leipzig",
   "players": {
+    "50409660": {
+      "name": "Yan Diomande",
+      "cardName": "Diomande",
+      "originalVersionId": "3",
+      "clubId": 112172,
+      "leagueId": 19,
+      "countryId": 108,
+      "versionId": "3",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        10,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        29,
+        136
+      ],
+      "rolesPlusPlus": [
+        23,
+        27,
+        29,
+        136
+      ],
+      "attributes": [
+        85,
+        78,
+        80,
+        81,
+        39,
+        67
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50409660,
+      "assetId": 78012
+    },
     "50536286": {
       "name": "Willi Orban",
       "cardName": "Orban",
@@ -45,7 +95,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 16750,
       "resourceId": 50536286,
       "assetId": 204638
     },
@@ -188,7 +238,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 51400,
+      "sbcPrice": 49700,
       "resourceId": 50597098,
       "assetId": 265450
     }

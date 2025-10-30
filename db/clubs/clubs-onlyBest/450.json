@@ -36,7 +36,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1000,
       "resourceId": 72425,
       "assetId": 72425
     },
@@ -74,7 +74,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 650,
       "resourceId": 72426,
       "assetId": 72426
     },
@@ -123,7 +123,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 192629,
       "assetId": 192629
     },
@@ -249,7 +249,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1300,
       "resourceId": 222572,
       "assetId": 222572
     },
@@ -292,7 +292,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1600,
       "resourceId": 223061,
       "assetId": 223061
     },
@@ -331,7 +331,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 224179,
       "assetId": 224179
     },
@@ -409,7 +409,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 600,
       "resourceId": 234102,
       "assetId": 234102
     },
@@ -495,7 +495,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 240223,
       "assetId": 240223
     },
@@ -535,7 +535,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 252866,
       "assetId": 252866
     },
@@ -621,7 +621,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 259694,
       "assetId": 259694
     },
@@ -660,7 +660,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 9500,
       "resourceId": 262140,
       "assetId": 262140
     },
@@ -743,50 +743,9 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 1400,
       "resourceId": 264095,
       "assetId": 264095
-    },
-    "265800": {
-      "name": "Jutglà",
-      "cardName": "Jutglà",
-      "originalVersionId": "0",
-      "clubId": 450,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        6,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "rolesPlusPlus": [
-        41
-      ],
-      "attributes": [
-        76,
-        75,
-        65,
-        77,
-        29,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 550,
-      "resourceId": 265800,
-      "assetId": 265800
     },
     "266331": {
       "name": "Hugo Álvarez",
@@ -868,7 +827,7 @@
         46
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 270860,
       "assetId": 270860
     },
@@ -958,7 +917,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 800,
       "resourceId": 272453,
       "assetId": 272453
     },
@@ -996,7 +955,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1100,
       "resourceId": 277419,
       "assetId": 277419
     },
@@ -1081,9 +1040,52 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1700,
       "resourceId": 279112,
       "assetId": 279112
+    },
+    "50597448": {
+      "name": "Jutglà",
+      "cardName": "Jutglà",
+      "originalVersionId": "3",
+      "clubId": 450,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        142
+      ],
+      "rolesPlusPlus": [
+        41,
+        142
+      ],
+      "attributes": [
+        83,
+        81,
+        73,
+        83,
+        35,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50597448,
+      "assetId": 265800
     }
   }
 }

@@ -147,7 +147,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1900,
       "resourceId": 76410,
       "assetId": 76410
     },
@@ -195,7 +195,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 201455,
       "assetId": 201455
     },
@@ -278,7 +278,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 800,
       "resourceId": 211101,
       "assetId": 211101
     },
@@ -317,7 +317,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 211784,
       "assetId": 211784
     },
@@ -408,7 +408,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 350,
       "resourceId": 232097,
       "assetId": 232097
     },
@@ -450,7 +450,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 235875,
       "assetId": 235875
     },
@@ -668,7 +668,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 450,
       "resourceId": 241496,
       "assetId": 241496
     },
@@ -714,7 +714,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 700,
       "resourceId": 242835,
       "assetId": 242835
     },
@@ -907,7 +907,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 250,
       "resourceId": 263602,
       "assetId": 263602
     },
@@ -994,48 +994,6 @@
       "resourceId": 268131,
       "assetId": 268131
     },
-    "271400": {
-      "name": "Igor Paixão",
-      "cardName": "Igor Paixão",
-      "originalVersionId": "1",
-      "clubId": 219,
-      "leagueId": 16,
-      "countryId": 54,
-      "versionId": "3002",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        12,
-        20,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        30
-      ],
-      "rolesPlusPlus": [
-        30
-      ],
-      "attributes": [
-        83,
-        80,
-        75,
-        81,
-        32,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 271400,
-      "assetId": 271400
-    },
     "276235": {
       "name": "François Mughe",
       "cardName": "Mughe",
@@ -1070,7 +1028,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 276235,
       "assetId": 276235
     },
@@ -1114,7 +1072,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 24000,
+      "price": 23250,
       "resourceId": 50520215,
       "assetId": 188567
     },
@@ -1195,7 +1153,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 32750,
+      "price": 32000,
       "resourceId": 50546964,
       "assetId": 215316
     },
@@ -1293,7 +1251,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13250,
       "resourceId": 50572155,
       "assetId": 240507
     },
@@ -1385,7 +1343,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 50572435,
       "assetId": 240787
     },
@@ -1436,7 +1394,7 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 14500,
       "resourceId": 50577795,
       "assetId": 246147
     },
@@ -1482,9 +1440,62 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 50601507,
       "assetId": 269859
+    },
+    "50603048": {
+      "name": "Igor Paixão",
+      "cardName": "Igor Paixão",
+      "originalVersionId": "91",
+      "clubId": 219,
+      "leagueId": 16,
+      "countryId": 54,
+      "versionId": "91",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        20,
+        21,
+        7
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        27,
+        38,
+        128,
+        130,
+        139
+      ],
+      "rolesPlusPlus": [
+        27,
+        38,
+        128,
+        130,
+        139
+      ],
+      "attributes": [
+        90,
+        86,
+        82,
+        87,
+        40,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50603048,
+      "assetId": 271400
     },
     "67335715": {
       "name": "Benjamin Pavard",
@@ -1529,7 +1540,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 99500,
+      "price": 101000,
       "resourceId": 67335715,
       "assetId": 226851
     },
@@ -1575,7 +1586,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 33150,
+      "sbcPrice": 32350,
       "resourceId": 67353613,
       "assetId": 244749
     }

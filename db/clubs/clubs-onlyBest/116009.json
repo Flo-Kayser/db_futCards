@@ -71,7 +71,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 3300,
+      "price": 2000,
       "resourceId": 71364,
       "assetId": 71364
     },
@@ -145,7 +145,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 79431,
       "assetId": 79431
     },
@@ -191,7 +191,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 4400,
       "resourceId": 227110,
       "assetId": 227110
     },
@@ -239,7 +239,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1400,
       "resourceId": 227119,
       "assetId": 227119
     },
@@ -336,7 +336,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 30250,
+      "price": 29250,
       "resourceId": 237288,
       "assetId": 237288
     },
@@ -381,7 +381,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1400,
       "resourceId": 239761,
       "assetId": 239761
     },
@@ -472,7 +472,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 14500,
+      "price": 14000,
       "resourceId": 245802,
       "assetId": 245802
     },
@@ -518,7 +518,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 14500,
+      "price": 13750,
       "resourceId": 246426,
       "assetId": 246426
     },
@@ -565,7 +565,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1400,
       "resourceId": 248343,
       "assetId": 248343
     },
@@ -612,7 +612,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 14750,
+      "price": 13750,
       "resourceId": 257001,
       "assetId": 257001
     },
@@ -652,7 +652,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 850,
       "resourceId": 258680,
       "assetId": 258680
     },
@@ -701,7 +701,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 28250,
+      "price": 27250,
       "resourceId": 258980,
       "assetId": 258980
     },
@@ -789,57 +789,6 @@
       "price": 350,
       "resourceId": 265106,
       "assetId": 265106
-    },
-    "265239": {
-      "name": "Katie McCabe",
-      "cardName": "McCabe",
-      "originalVersionId": "1",
-      "clubId": 116009,
-      "leagueId": 2216,
-      "countryId": 25,
-      "versionId": "3002",
-      "rating": 87,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        12,
-        18,
-        21,
-        27,
-        28
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9,
-        29,
-        110,
-        140
-      ],
-      "rolesPlusPlus": [
-        9,
-        29,
-        110,
-        140
-      ],
-      "attributes": [
-        80,
-        81,
-        82,
-        83,
-        83,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 15750,
-      "resourceId": 265239,
-      "assetId": 265239
     },
     "265240": {
       "name": "Lia Wälti",
@@ -1170,7 +1119,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 279129,
       "assetId": 279129
     },
@@ -1220,7 +1169,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 21500,
+      "price": 23500,
       "resourceId": 50577520,
       "assetId": 245872
     },
@@ -1266,9 +1215,60 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 12250,
       "resourceId": 50594661,
       "assetId": 263013
+    },
+    "50596887": {
+      "name": "Katie McCabe",
+      "cardName": "McCabe",
+      "originalVersionId": "3",
+      "clubId": 116009,
+      "leagueId": 2216,
+      "countryId": 25,
+      "versionId": "3",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        18,
+        2,
+        21,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        29,
+        110,
+        140
+      ],
+      "rolesPlusPlus": [
+        9,
+        29,
+        110,
+        140
+      ],
+      "attributes": [
+        83,
+        82,
+        83,
+        84,
+        84,
+        84
+      ],
+      "hasDynamicImage": false,
+      "price": 51000,
+      "resourceId": 50596887,
+      "assetId": 265239
     }
   }
 }

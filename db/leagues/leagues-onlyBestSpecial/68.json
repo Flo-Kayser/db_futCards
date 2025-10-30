@@ -1,4 +1,57 @@
 {
+  "50540945": {
+    "name": "Fred",
+    "cardName": "Fred",
+    "originalVersionId": "91",
+    "clubId": 326,
+    "leagueId": 68,
+    "countryId": 54,
+    "versionId": "91",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      13,
+      16
+    ],
+    "playStylesPlus": [
+      26
+    ],
+    "rolesPlus": [
+      14,
+      15,
+      19,
+      121,
+      131
+    ],
+    "rolesPlusPlus": [
+      14,
+      15,
+      19,
+      121,
+      131
+    ],
+    "attributes": [
+      82,
+      77,
+      83,
+      87,
+      81,
+      80
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50540945,
+    "assetId": 209297
+  },
   "50548195": {
     "name": "Rafa",
     "cardName": "Rafa",
@@ -140,8 +193,59 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 11000,
+    "price": 11250,
     "resourceId": 50595683,
     "assetId": 264035
+  },
+  "50602219": {
+    "name": "Gabriel Sara",
+    "cardName": "Gabriel Sara",
+    "originalVersionId": "3",
+    "clubId": 325,
+    "leagueId": 68,
+    "countryId": 54,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM"
+    ],
+    "playStyles": [
+      10,
+      13,
+      3,
+      6,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      22,
+      26,
+      33,
+      118
+    ],
+    "rolesPlusPlus": [
+      22,
+      26,
+      33,
+      118
+    ],
+    "attributes": [
+      79,
+      79,
+      86,
+      83,
+      71,
+      81
+    ],
+    "hasDynamicImage": true,
+    "price": 12000,
+    "resourceId": 50602219,
+    "assetId": 270571
   }
 }
