@@ -1,6 +1,61 @@
 {
   "clubName": "VfL Wolfsburg",
   "players": {
+    "50572365": {
+      "name": "Lineth Beerensteyn",
+      "cardName": "Beerensteyn",
+      "originalVersionId": "151",
+      "clubId": 115998,
+      "leagueId": 2215,
+      "countryId": 34,
+      "versionId": "151",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        25,
+        4,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        38,
+        43,
+        130,
+        139,
+        142
+      ],
+      "rolesPlusPlus": [
+        27,
+        38,
+        43,
+        130,
+        139,
+        142
+      ],
+      "attributes": [
+        92,
+        82,
+        75,
+        88,
+        55,
+        78
+      ],
+      "hasDynamicImage": true,
+      "price": 57000,
+      "resourceId": 50572365,
+      "assetId": 240717
+    },
     "50596703": {
       "name": "Vivien Endemann",
       "cardName": "Endemann",
@@ -39,7 +94,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 11000,
       "resourceId": 50596703,
       "assetId": 265055
     }

@@ -71,7 +71,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 76624,
       "assetId": 76624
     },
@@ -197,7 +197,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 190815,
       "assetId": 190815
     },
@@ -236,7 +236,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 700,
       "resourceId": 194730,
       "assetId": 194730
     },
@@ -321,7 +321,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 205070,
       "assetId": 205070
     },
@@ -361,7 +361,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1100,
       "resourceId": 205186,
       "assetId": 205186
     },
@@ -401,7 +401,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 213565,
       "assetId": 213565
     },
@@ -574,7 +574,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 1500,
       "resourceId": 239250,
       "assetId": 239250
     },
@@ -716,55 +716,6 @@
       "resourceId": 252064,
       "assetId": 252064
     },
-    "254310": {
-      "name": "Francés",
-      "cardName": "Francés",
-      "originalVersionId": "0",
-      "clubId": 110062,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "LB",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        10,
-        18
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        3,
-        7,
-        11,
-        13
-      ],
-      "rolesPlusPlus": [
-        3,
-        7,
-        11,
-        13
-      ],
-      "attributes": [
-        75,
-        45,
-        67,
-        67,
-        75,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 254310,
-      "assetId": 254310
-    },
     "267894": {
       "name": "Jhon Solís",
       "cardName": "Solís",
@@ -802,7 +753,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 1000,
       "resourceId": 267894,
       "assetId": 267894
     },
@@ -927,7 +878,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 3000,
       "resourceId": 272718,
       "assetId": 272718
     },
@@ -969,7 +920,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1600,
       "resourceId": 279026,
       "assetId": 279026
     },
@@ -1009,7 +960,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 50573319,
       "assetId": 241671
     },
@@ -1057,6 +1008,61 @@
       "price": 350,
       "resourceId": 50578433,
       "assetId": 246785
+    },
+    "50585958": {
+      "name": "Francés",
+      "cardName": "Francés",
+      "originalVersionId": "151",
+      "clubId": 110062,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "151",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        15,
+        18,
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        11,
+        24,
+        103,
+        107,
+        113
+      ],
+      "rolesPlusPlus": [
+        8,
+        11,
+        24,
+        103,
+        107,
+        113
+      ],
+      "attributes": [
+        82,
+        54,
+        78,
+        80,
+        83,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 13000,
+      "resourceId": 50585958,
+      "assetId": 254310
     },
     "50586773": {
       "name": "Azzedine Ounahi",

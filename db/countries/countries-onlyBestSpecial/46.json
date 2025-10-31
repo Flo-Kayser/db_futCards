@@ -1,54 +1,4 @@
 {
-  "6975": {
-    "name": "Freddie Ljungberg",
-    "cardName": "Ljungberg",
-    "originalVersionId": "72",
-    "clubId": 114605,
-    "leagueId": 13,
-    "countryId": 46,
-    "versionId": "72",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "RM"
-    ],
-    "playStyles": [
-      1,
-      10,
-      7,
-      8
-    ],
-    "playStylesPlus": [
-      21
-    ],
-    "rolesPlus": [
-      40,
-      125,
-      129
-    ],
-    "rolesPlusPlus": [
-      40,
-      125,
-      129
-    ],
-    "attributes": [
-      87,
-      81,
-      82,
-      86,
-      45,
-      77
-    ],
-    "hasDynamicImage": false,
-    "price": 74000,
-    "resourceId": 6975,
-    "assetId": 6975
-  },
   "41236": {
     "name": "Zlatan Ibrahimović",
     "cardName": "Ibrahimović",
@@ -93,7 +43,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 3275000,
+    "price": 3503000,
     "resourceId": 41236,
     "assetId": 41236
   },
@@ -144,7 +94,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 879000,
+    "price": 880000,
     "resourceId": 226369,
     "assetId": 226369
   },
@@ -194,7 +144,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 258000,
+    "price": 260000,
     "resourceId": 226975,
     "assetId": 226975
   },
@@ -237,7 +187,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 87000,
+    "price": 89000,
     "resourceId": 239261,
     "assetId": 239261
   },
@@ -286,9 +236,70 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 177000,
+    "price": 169000,
     "resourceId": 266695,
     "assetId": 266695
+  },
+  "50338623": {
+    "name": "Freddie Ljungberg",
+    "cardName": "Ljungberg",
+    "originalVersionId": "168",
+    "clubId": 114605,
+    "leagueId": 13,
+    "countryId": 46,
+    "versionId": "168",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      1,
+      10,
+      21,
+      8
+    ],
+    "playStylesPlus": [
+      7
+    ],
+    "rolesPlus": [
+      23,
+      27,
+      35,
+      38,
+      125,
+      129,
+      137,
+      140
+    ],
+    "rolesPlusPlus": [
+      23,
+      27,
+      35,
+      38,
+      125,
+      129,
+      137,
+      140
+    ],
+    "attributes": [
+      90,
+      82,
+      83,
+      87,
+      47,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 98500,
+    "resourceId": 50338623,
+    "assetId": 6975
   },
   "50403375": {
     "name": "Hampus Skoglund",
@@ -372,7 +383,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 11000,
     "resourceId": 50540080,
     "assetId": 208432
   },
@@ -423,7 +434,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 66250,
+    "sbcPrice": 66500,
     "price": 0,
     "resourceId": 50558661,
     "assetId": 227013
@@ -478,6 +489,62 @@
     "resourceId": 50579125,
     "assetId": 247477
   },
+  "50591364": {
+    "name": "Daniel Svensson",
+    "cardName": "Svensson",
+    "originalVersionId": "151",
+    "clubId": 22,
+    "leagueId": 19,
+    "countryId": 46,
+    "versionId": "151",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CM",
+      "LB",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      13,
+      22,
+      25,
+      26,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      10,
+      22,
+      29,
+      118,
+      140,
+      147
+    ],
+    "rolesPlusPlus": [
+      10,
+      22,
+      29,
+      118,
+      140,
+      147
+    ],
+    "attributes": [
+      84,
+      64,
+      82,
+      83,
+      80,
+      81
+    ],
+    "hasDynamicImage": true,
+    "price": 16750,
+    "resourceId": 50591364,
+    "assetId": 259716
+  },
   "50604574": {
     "name": "Lucas Bergvall",
     "cardName": "Bergvall",
@@ -519,7 +586,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 13500,
     "resourceId": 50604574,
     "assetId": 272926
   }

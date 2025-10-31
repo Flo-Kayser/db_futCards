@@ -143,6 +143,122 @@
     "resourceId": 50496801,
     "assetId": 165153
   },
+  "50524730": {
+    "name": "Juan Cuadrado",
+    "cardName": "Cuadrado",
+    "originalVersionId": "151",
+    "clubId": 110738,
+    "leagueId": 31,
+    "countryId": 56,
+    "versionId": "151",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 5,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      17,
+      21,
+      22,
+      23
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      5,
+      24,
+      25,
+      37,
+      106,
+      123,
+      135
+    ],
+    "rolesPlusPlus": [
+      5,
+      24,
+      25,
+      37,
+      106,
+      123,
+      135
+    ],
+    "attributes": [
+      87,
+      83,
+      86,
+      88,
+      85,
+      76
+    ],
+    "hasDynamicImage": true,
+    "price": 130000,
+    "resourceId": 50524730,
+    "assetId": 193082
+  },
+  "50526413": {
+    "name": "Antoine Griezmann",
+    "cardName": "Griezmann",
+    "originalVersionId": "151",
+    "clubId": 240,
+    "leagueId": 53,
+    "countryId": 18,
+    "versionId": "151",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      10,
+      13,
+      20,
+      6,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      32,
+      34,
+      41,
+      130,
+      131,
+      143
+    ],
+    "rolesPlusPlus": [
+      32,
+      34,
+      41,
+      130,
+      131,
+      143
+    ],
+    "attributes": [
+      80,
+      88,
+      87,
+      90,
+      61,
+      76
+    ],
+    "hasDynamicImage": true,
+    "price": 558000,
+    "resourceId": 50526413,
+    "assetId": 194765
+  },
   "50527512": {
     "name": "Paul Pogba",
     "cardName": "Pogba",
@@ -189,7 +305,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 232250,
+    "sbcPrice": 229250,
     "resourceId": 50527512,
     "assetId": 195864
   },
@@ -240,7 +356,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 17750,
     "resourceId": 50534077,
     "assetId": 202429
   },
@@ -289,9 +405,67 @@
       73
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 67850,
+    "sbcPrice": 67150,
     "resourceId": 50540066,
     "assetId": 208418
+  },
+  "50542758": {
+    "name": "Paulo Dybala",
+    "cardName": "Dybala",
+    "originalVersionId": "151",
+    "clubId": 52,
+    "leagueId": 31,
+    "countryId": 52,
+    "versionId": "151",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      13,
+      20,
+      22,
+      3,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      31,
+      33,
+      44,
+      132,
+      141,
+      143
+    ],
+    "rolesPlusPlus": [
+      31,
+      33,
+      44,
+      132,
+      141,
+      143
+    ],
+    "attributes": [
+      83,
+      87,
+      86,
+      89,
+      44,
+      70
+    ],
+    "hasDynamicImage": true,
+    "price": 692000,
+    "resourceId": 50542758,
+    "assetId": 211110
   },
   "50544270": {
     "name": "Joshua Kimmich",
@@ -345,7 +519,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 203000,
+    "price": 205000,
     "resourceId": 50544270,
     "assetId": 212622
   },
@@ -403,7 +577,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 15000,
     "resourceId": 50556849,
     "assetId": 225201
   },
@@ -461,7 +635,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 14500,
     "resourceId": 50558104,
     "assetId": 226456
   },
@@ -512,10 +686,119 @@
       81
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 66250,
+    "sbcPrice": 66500,
     "price": 0,
     "resourceId": 50558661,
     "assetId": 227013
+  },
+  "50559004": {
+    "name": "Inès Jaurena",
+    "cardName": "Jaurena",
+    "originalVersionId": "151",
+    "clubId": 116036,
+    "leagueId": 2218,
+    "countryId": 18,
+    "versionId": "151",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      16,
+      24,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      11,
+      18,
+      20,
+      116
+    ],
+    "rolesPlusPlus": [
+      11,
+      18,
+      20,
+      116
+    ],
+    "attributes": [
+      76,
+      75,
+      79,
+      83,
+      84,
+      80
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50559004,
+    "assetId": 227356
+  },
+  "50563091": {
+    "name": "Ousmane Dembélé",
+    "cardName": "Dembélé",
+    "originalVersionId": "151",
+    "clubId": 73,
+    "leagueId": 16,
+    "countryId": 18,
+    "versionId": "151",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      13,
+      21,
+      23,
+      25,
+      6,
+      9
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      23,
+      32,
+      35,
+      126,
+      136,
+      143
+    ],
+    "rolesPlusPlus": [
+      23,
+      32,
+      35,
+      126,
+      136,
+      143
+    ],
+    "attributes": [
+      92,
+      88,
+      83,
+      94,
+      50,
+      69
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50563091,
+    "assetId": 231443
   },
   "50565310": {
     "name": "Sakina Karchaoui",
@@ -574,7 +857,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 428000,
+    "price": 427000,
     "resourceId": 50565310,
     "assetId": 233662
   },
@@ -625,6 +908,65 @@
     "hasDynamicImage": true,
     "resourceId": 50568290,
     "assetId": 236642
+  },
+  "50568936": {
+    "name": "Mariona",
+    "cardName": "Mariona",
+    "originalVersionId": "151",
+    "clubId": 116009,
+    "leagueId": 2216,
+    "countryId": 45,
+    "versionId": "151",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "RW"
+    ],
+    "playStyles": [
+      10,
+      13,
+      20,
+      22,
+      26,
+      8
+    ],
+    "playStylesPlus": [
+      11
+    ],
+    "rolesPlus": [
+      18,
+      34,
+      36,
+      121,
+      131,
+      149
+    ],
+    "rolesPlusPlus": [
+      18,
+      34,
+      36,
+      121,
+      131,
+      149
+    ],
+    "attributes": [
+      80,
+      86,
+      88,
+      90,
+      76,
+      79
+    ],
+    "hasDynamicImage": true,
+    "price": 480000,
+    "resourceId": 50568936,
+    "assetId": 237288
   },
   "50568976": {
     "name": "Nathan Tella",
@@ -680,7 +1022,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 22500,
+    "price": 23000,
     "resourceId": 50568976,
     "assetId": 237328
   },
@@ -729,6 +1071,114 @@
     "hasDynamicImage": true,
     "resourceId": 50569591,
     "assetId": 237943
+  },
+  "50572365": {
+    "name": "Lineth Beerensteyn",
+    "cardName": "Beerensteyn",
+    "originalVersionId": "151",
+    "clubId": 115998,
+    "leagueId": 2215,
+    "countryId": 34,
+    "versionId": "151",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      25,
+      4,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      27,
+      38,
+      43,
+      130,
+      139,
+      142
+    ],
+    "rolesPlusPlus": [
+      27,
+      38,
+      43,
+      130,
+      139,
+      142
+    ],
+    "attributes": [
+      92,
+      82,
+      75,
+      88,
+      55,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 57000,
+    "resourceId": 50572365,
+    "assetId": 240717
+  },
+  "50573144": {
+    "name": "Timothy Weah",
+    "cardName": "Weah",
+    "originalVersionId": "151",
+    "clubId": 219,
+    "leagueId": 16,
+    "countryId": 95,
+    "versionId": "151",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      14,
+      18,
+      21,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      23,
+      35,
+      106,
+      124,
+      146
+    ],
+    "rolesPlusPlus": [
+      23,
+      35,
+      106,
+      124,
+      146
+    ],
+    "attributes": [
+      91,
+      79,
+      81,
+      86,
+      80,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 79000,
+    "resourceId": 50573144,
+    "assetId": 241496
   },
   "50573369": {
     "name": "Rafael Leão",
@@ -784,7 +1234,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 1416000,
+    "price": 1395000,
     "resourceId": 50573369,
     "assetId": 241721
   },
@@ -841,7 +1291,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 200000,
+    "price": 212000,
     "resourceId": 50574662,
     "assetId": 243014
   },
@@ -898,9 +1348,121 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 51500,
+    "price": 52000,
     "resourceId": 50583518,
     "assetId": 251870
+  },
+  "50584797": {
+    "name": "Jeremie Frimpong",
+    "cardName": "Frimpong",
+    "originalVersionId": "151",
+    "clubId": 9,
+    "leagueId": 13,
+    "countryId": 34,
+    "versionId": "151",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      18,
+      20,
+      21,
+      6
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      6,
+      26,
+      36,
+      105,
+      123,
+      135
+    ],
+    "rolesPlusPlus": [
+      6,
+      26,
+      36,
+      105,
+      123,
+      135
+    ],
+    "attributes": [
+      96,
+      81,
+      80,
+      87,
+      75,
+      67
+    ],
+    "hasDynamicImage": true,
+    "price": 501000,
+    "resourceId": 50584797,
+    "assetId": 253149
+  },
+  "50585958": {
+    "name": "Francés",
+    "cardName": "Francés",
+    "originalVersionId": "151",
+    "clubId": 110062,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "151",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "CB",
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      10,
+      15,
+      18,
+      29
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      8,
+      11,
+      24,
+      103,
+      107,
+      113
+    ],
+    "rolesPlusPlus": [
+      8,
+      11,
+      24,
+      103,
+      107,
+      113
+    ],
+    "attributes": [
+      82,
+      54,
+      78,
+      80,
+      83,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 13000,
+    "resourceId": 50585958,
+    "assetId": 254310
   },
   "50588121": {
     "name": "Jasper Moon",
@@ -947,6 +1509,227 @@
     "hasDynamicImage": true,
     "resourceId": 50588121,
     "assetId": 256473
+  },
+  "50589524": {
+    "name": "Nicolas Seiwald",
+    "cardName": "Seiwald",
+    "originalVersionId": "151",
+    "clubId": 112172,
+    "leagueId": 19,
+    "countryId": 4,
+    "versionId": "151",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      15,
+      17,
+      18,
+      24
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      13,
+      18,
+      111,
+      114,
+      119
+    ],
+    "rolesPlusPlus": [
+      13,
+      18,
+      111,
+      114,
+      119
+    ],
+    "attributes": [
+      80,
+      70,
+      82,
+      82,
+      82,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 20000,
+    "resourceId": 50589524,
+    "assetId": 257876
+  },
+  "50591364": {
+    "name": "Daniel Svensson",
+    "cardName": "Svensson",
+    "originalVersionId": "151",
+    "clubId": 22,
+    "leagueId": 19,
+    "countryId": 46,
+    "versionId": "151",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CM",
+      "LB",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      13,
+      22,
+      25,
+      26,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      10,
+      22,
+      29,
+      118,
+      140,
+      147
+    ],
+    "rolesPlusPlus": [
+      10,
+      22,
+      29,
+      118,
+      140,
+      147
+    ],
+    "attributes": [
+      84,
+      64,
+      82,
+      83,
+      80,
+      81
+    ],
+    "hasDynamicImage": true,
+    "price": 16750,
+    "resourceId": 50591364,
+    "assetId": 259716
+  },
+  "50596584": {
+    "name": "Géraldine Reuteler",
+    "cardName": "Reuteler",
+    "originalVersionId": "151",
+    "clubId": 115997,
+    "leagueId": 2215,
+    "countryId": 47,
+    "versionId": "151",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      10,
+      12,
+      17,
+      22,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      22,
+      31,
+      42,
+      121,
+      132,
+      143
+    ],
+    "rolesPlusPlus": [
+      22,
+      31,
+      42,
+      121,
+      132,
+      143
+    ],
+    "attributes": [
+      91,
+      83,
+      83,
+      86,
+      60,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 25000,
+    "resourceId": 50596584,
+    "assetId": 264936
+  },
+  "50596635": {
+    "name": "Eseosa Aigbogun",
+    "cardName": "Aigbogun",
+    "originalVersionId": "151",
+    "clubId": 131724,
+    "leagueId": 2218,
+    "countryId": 47,
+    "versionId": "151",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "LW",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      15,
+      16,
+      20,
+      26
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      3,
+      8,
+      23,
+      107,
+      127,
+      138
+    ],
+    "rolesPlusPlus": [
+      3,
+      8,
+      23,
+      107,
+      127,
+      138
+    ],
+    "attributes": [
+      86,
+      75,
+      80,
+      82,
+      84,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 12750,
+    "resourceId": 50596635,
+    "assetId": 264987
   },
   "50596654": {
     "name": "Vanessa Leimenstoll",
@@ -1241,7 +2024,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "sbcPrice": 8800,
+    "sbcPrice": 9200,
     "resourceId": 50601330,
     "assetId": 269682
   },
@@ -1454,7 +2237,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 12250,
     "resourceId": 50608494,
     "assetId": 276846
   },
@@ -1552,7 +2335,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "sbcPrice": 9300,
+    "sbcPrice": 9200,
     "resourceId": 67183565,
     "assetId": 74701
   },
@@ -1609,7 +2392,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 20750,
+    "price": 21500,
     "resourceId": 67298460,
     "assetId": 189596
   },
@@ -1659,7 +2442,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 232250,
+    "sbcPrice": 229250,
     "resourceId": 67304728,
     "assetId": 195864
   },
@@ -1710,7 +2493,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 82000,
+    "sbcPrice": 80500,
     "price": 0,
     "resourceId": 67314056,
     "assetId": 205192
@@ -1770,7 +2553,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 692000,
+    "price": 675000,
     "resourceId": 67335757,
     "assetId": 226893
   },
@@ -1824,7 +2607,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 131000,
+    "sbcPrice": 129250,
     "resourceId": 67346556,
     "assetId": 237692
   },
@@ -1883,7 +2666,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 5033000,
+    "price": 3299000,
     "resourceId": 67347658,
     "assetId": 238794
   },
@@ -1933,6 +2716,64 @@
     "resourceId": 67349364,
     "assetId": 240500
   },
+  "67351308": {
+    "name": "João Félix",
+    "cardName": "João Félix",
+    "originalVersionId": "151",
+    "clubId": 112139,
+    "leagueId": 350,
+    "countryId": 38,
+    "versionId": "151",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      20,
+      23,
+      24
+    ],
+    "playStylesPlus": [
+      22
+    ],
+    "rolesPlus": [
+      30,
+      38,
+      41,
+      132,
+      139,
+      143
+    ],
+    "rolesPlusPlus": [
+      30,
+      38,
+      41,
+      132,
+      139,
+      143
+    ],
+    "attributes": [
+      85,
+      86,
+      85,
+      89,
+      52,
+      76
+    ],
+    "hasDynamicImage": true,
+    "price": 349000,
+    "resourceId": 67351308,
+    "assetId": 242444
+  },
   "67360928": {
     "name": "Ladislav Krejčí",
     "cardName": "Krejčí",
@@ -1978,7 +2819,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 16500,
+    "sbcPrice": 16750,
     "resourceId": 67360928,
     "assetId": 252064
   },
@@ -2028,8 +2869,63 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 33250,
+    "sbcPrice": 33750,
     "resourceId": 67378592,
     "assetId": 269728
+  },
+  "84113876": {
+    "name": "Christian Pulisic",
+    "cardName": "Pulisic",
+    "originalVersionId": "151",
+    "clubId": 131681,
+    "leagueId": 31,
+    "countryId": 95,
+    "versionId": "151",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      25,
+      3,
+      6,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      26,
+      36,
+      37,
+      43,
+      133,
+      135
+    ],
+    "rolesPlusPlus": [
+      26,
+      36,
+      37,
+      43,
+      133,
+      135
+    ],
+    "attributes": [
+      89,
+      85,
+      84,
+      90,
+      49,
+      70
+    ],
+    "hasDynamicImage": true,
+    "price": 315000,
+    "resourceId": 84113876,
+    "assetId": 227796
   }
 }

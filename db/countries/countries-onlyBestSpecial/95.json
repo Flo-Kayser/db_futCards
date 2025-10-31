@@ -86,7 +86,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 90000,
+    "price": 86000,
     "resourceId": 16254,
     "assetId": 16254
   },
@@ -134,7 +134,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 40000,
+    "price": 38500,
     "resourceId": 39386,
     "assetId": 39386
   },
@@ -180,7 +180,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 322000,
+    "price": 258000,
     "resourceId": 71608,
     "assetId": 71608
   },
@@ -276,7 +276,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 2835000,
+    "price": 3100000,
     "resourceId": 226301,
     "assetId": 226301
   },
@@ -328,7 +328,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 9175000,
+    "price": 7770000,
     "resourceId": 275243,
     "assetId": 275243
   },
@@ -464,7 +464,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13750,
     "resourceId": 50496153,
     "assetId": 164505
   },
@@ -565,7 +565,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 69500,
+    "price": 64500,
     "resourceId": 50557984,
     "assetId": 226336
   },
@@ -616,7 +616,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 62500,
+    "price": 58000,
     "resourceId": 50563723,
     "assetId": 232075
   },
@@ -667,6 +667,59 @@
     "hasDynamicImage": true,
     "resourceId": 50568290,
     "assetId": 236642
+  },
+  "50573144": {
+    "name": "Timothy Weah",
+    "cardName": "Weah",
+    "originalVersionId": "151",
+    "clubId": 219,
+    "leagueId": 16,
+    "countryId": 95,
+    "versionId": "151",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      14,
+      18,
+      21,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      23,
+      35,
+      106,
+      124,
+      146
+    ],
+    "rolesPlusPlus": [
+      23,
+      35,
+      106,
+      124,
+      146
+    ],
+    "attributes": [
+      91,
+      79,
+      81,
+      86,
+      80,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 79000,
+    "resourceId": 50573144,
+    "assetId": 241496
   },
   "50573723": {
     "name": "Josh Sargent",
@@ -765,7 +818,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 33000,
+    "price": 32750,
     "resourceId": 50588501,
     "assetId": 256853
   },
@@ -821,7 +874,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 785000,
+    "price": 610000,
     "resourceId": 50598576,
     "assetId": 266928
   },
@@ -1063,7 +1116,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 12250,
     "resourceId": 50605594,
     "assetId": 273946
   },
@@ -1124,7 +1177,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 12250,
     "resourceId": 50608494,
     "assetId": 276846
   },
@@ -1228,7 +1281,7 @@
       69
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 353750,
+    "sbcPrice": 356250,
     "resourceId": 67336660,
     "assetId": 227796
   },
@@ -1281,5 +1334,60 @@
     "sbcPrice": 8300,
     "resourceId": 67382330,
     "assetId": 273466
+  },
+  "84113876": {
+    "name": "Christian Pulisic",
+    "cardName": "Pulisic",
+    "originalVersionId": "151",
+    "clubId": 131681,
+    "leagueId": 31,
+    "countryId": 95,
+    "versionId": "151",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      25,
+      3,
+      6,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      26,
+      36,
+      37,
+      43,
+      133,
+      135
+    ],
+    "rolesPlusPlus": [
+      26,
+      36,
+      37,
+      43,
+      133,
+      135
+    ],
+    "attributes": [
+      89,
+      85,
+      84,
+      90,
+      49,
+      70
+    ],
+    "hasDynamicImage": true,
+    "price": 315000,
+    "resourceId": 84113876,
+    "assetId": 227796
   }
 }

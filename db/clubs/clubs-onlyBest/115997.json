@@ -34,7 +34,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 73714,
       "assetId": 73714
     },
@@ -111,7 +111,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 79451,
       "assetId": 79451
     },
@@ -201,7 +201,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 4200,
+      "price": 3900,
       "resourceId": 261773,
       "assetId": 261773
     },
@@ -239,7 +239,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 261796,
       "assetId": 261796
     },
@@ -277,7 +277,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 264058,
       "assetId": 264058
     },
@@ -322,54 +322,6 @@
       "price": 400,
       "resourceId": 264925,
       "assetId": 264925
-    },
-    "264936": {
-      "name": "Géraldine Reuteler",
-      "cardName": "Reuteler",
-      "originalVersionId": "1",
-      "clubId": 115997,
-      "leagueId": 2215,
-      "countryId": 47,
-      "versionId": "3002",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        10,
-        12,
-        17,
-        22,
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        22,
-        143
-      ],
-      "rolesPlusPlus": [
-        22,
-        143
-      ],
-      "attributes": [
-        90,
-        82,
-        81,
-        85,
-        59,
-        75
-      ],
-      "hasDynamicImage": false,
-      "price": 1400,
-      "resourceId": 264936,
-      "assetId": 264936
     },
     "264939": {
       "name": "Lara Prašnikar",
@@ -629,7 +581,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 265058,
       "assetId": 265058
     },
@@ -675,7 +627,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 800,
       "resourceId": 265121,
       "assetId": 265121
     },
@@ -713,7 +665,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 271404,
       "assetId": 271404
     },
@@ -751,7 +703,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 8400,
       "resourceId": 271405,
       "assetId": 271405
     },
@@ -790,7 +742,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 550,
       "resourceId": 272097,
       "assetId": 272097
     },
@@ -872,7 +824,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 700,
       "resourceId": 273405,
       "assetId": 273405
     },
@@ -909,7 +861,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 900,
       "resourceId": 275523,
       "assetId": 275523
     },
@@ -946,7 +898,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 275904,
       "assetId": 275904
     },
@@ -985,7 +937,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 277041,
       "assetId": 277041
     },
@@ -1027,9 +979,65 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 50558785,
       "assetId": 227137
+    },
+    "50596584": {
+      "name": "Géraldine Reuteler",
+      "cardName": "Reuteler",
+      "originalVersionId": "151",
+      "clubId": 115997,
+      "leagueId": 2215,
+      "countryId": 47,
+      "versionId": "151",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        10,
+        12,
+        17,
+        22,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        31,
+        42,
+        121,
+        132,
+        143
+      ],
+      "rolesPlusPlus": [
+        22,
+        31,
+        42,
+        121,
+        132,
+        143
+      ],
+      "attributes": [
+        91,
+        83,
+        83,
+        86,
+        60,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 25000,
+      "resourceId": 50596584,
+      "assetId": 264936
     }
   }
 }
