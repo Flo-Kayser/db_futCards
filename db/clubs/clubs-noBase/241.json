@@ -1,6 +1,56 @@
 {
   "clubName": "FC Barcelona",
   "players": {
+    "50563325": {
+      "name": "Marcus Rashford",
+      "cardName": "Rashford",
+      "originalVersionId": "151",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 14,
+      "versionId": "151",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        2,
+        21,
+        25,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        34,
+        41,
+        43,
+        142
+      ],
+      "rolesPlusPlus": [
+        34,
+        41,
+        43,
+        142
+      ],
+      "attributes": [
+        88,
+        87,
+        83,
+        86,
+        40,
+        71
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 257250,
+      "resourceId": 50563325,
+      "assetId": 231677
+    },
     "50595226": {
       "name": "Balde",
       "cardName": "Balde",
@@ -47,7 +97,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 285000,
+      "price": 288000,
       "resourceId": 50595226,
       "assetId": 263578
     },
@@ -97,7 +147,7 @@
         61
       ],
       "hasDynamicImage": true,
-      "price": 26500,
+      "price": 31000,
       "resourceId": 50608827,
       "assetId": 277179
     },
@@ -145,9 +195,59 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 94000,
+      "price": 94500,
       "resourceId": 50609694,
       "assetId": 278046
+    },
+    "67340541": {
+      "name": "Marcus Rashford",
+      "cardName": "Rashford",
+      "originalVersionId": "151",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 14,
+      "versionId": "151",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 5,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        21,
+        25,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        26,
+        35,
+        136
+      ],
+      "rolesPlusPlus": [
+        23,
+        26,
+        35,
+        136
+      ],
+      "attributes": [
+        93,
+        84,
+        86,
+        85,
+        40,
+        71
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 257250,
+      "resourceId": 67340541,
+      "assetId": 231677
     }
   }
 }
