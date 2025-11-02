@@ -1,6 +1,56 @@
 {
   "clubName": "SSC Napoli",
   "players": {
+    "50524153": {
+      "name": "Romelu Lukaku",
+      "cardName": "Lukaku",
+      "originalVersionId": "151",
+      "clubId": 48,
+      "leagueId": 31,
+      "countryId": 7,
+      "versionId": "151",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        24,
+        29,
+        6,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        34,
+        42,
+        132,
+        141
+      ],
+      "rolesPlusPlus": [
+        34,
+        42,
+        132,
+        141
+      ],
+      "attributes": [
+        84,
+        86,
+        80,
+        81,
+        42,
+        85
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 23550,
+      "resourceId": 50524153,
+      "assetId": 192505
+    },
     "50524633": {
       "name": "Kevin De Bruyne",
       "cardName": "De Bruyne",
@@ -51,7 +101,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 199000,
+      "price": 197000,
       "resourceId": 50524633,
       "assetId": 192985
     },
@@ -100,7 +150,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 69000,
+      "price": 79000,
       "resourceId": 50549518,
       "assetId": 217870
     },
@@ -145,7 +195,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 11250,
       "resourceId": 50558884,
       "assetId": 227236
     },
@@ -197,7 +247,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 104000,
+      "price": 105000,
       "resourceId": 50568886,
       "assetId": 237238
     }
