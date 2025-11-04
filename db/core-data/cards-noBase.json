@@ -1,5 +1,82 @@
 [
   {
+    "resourceId": 50585084,
+    "assetId": 253436,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LB",
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "rating": 87,
+    "preferredFoot": "Right",
+    "skillMoves": 3,
+    "playStyles": [
+      0,
+      12,
+      14,
+      21,
+      26
+    ],
+    "playStylesPlus": [],
+    "eaRolesPlus": [
+      5,
+      9,
+      24,
+      37
+    ],
+    "eaRolesPlusPlus": [
+      106,
+      110,
+      125
+    ],
+    "metalId": 3,
+    "clubId": 116325,
+    "leagueId": 2222,
+    "countryId": 45,
+    "weakFoot": 4,
+    "attributes": [
+      88,
+      85,
+      83,
+      81,
+      82,
+      73
+    ],
+    "metaRating": 86.13082061653242,
+    "playerRoleId": 6,
+    "canEvolve": false,
+    "hasDynamicImage": true,
+    "playerUrl": "https://assets.easysbc.io/fc26/players/50585084.png",
+    "newPlayer": true,
+    "versionId": 151,
+    "eaPlayerId": null,
+    "untradeable": false,
+    "owned": false,
+    "name": "Ona Batlle",
+    "cardName": "Ona Batlle",
+    "sbcPrice": 54600,
+    "rolesPlus": [
+      5,
+      9,
+      24,
+      37,
+      106,
+      110,
+      125
+    ],
+    "rolesPlusPlus": [
+      5,
+      9,
+      24,
+      37,
+      106,
+      110,
+      125
+    ]
+  },
+  {
     "resourceId": 50564146,
     "assetId": 232498,
     "preferredPosition": "ST",
@@ -49,7 +126,7 @@
     "canEvolve": true,
     "hasDynamicImage": true,
     "playerUrl": "https://assets.easysbc.io/fc26/players/50564146.png",
-    "newPlayer": true,
+    "newPlayer": false,
     "versionId": 151,
     "eaPlayerId": null,
     "untradeable": false,
@@ -120,7 +197,7 @@
     "canEvolve": true,
     "hasDynamicImage": true,
     "playerUrl": "https://assets.easysbc.io/fc26/players/50565806.png",
-    "newPlayer": true,
+    "newPlayer": false,
     "versionId": 151,
     "eaPlayerId": null,
     "untradeable": false,
@@ -181,14 +258,14 @@
     "canEvolve": true,
     "hasDynamicImage": true,
     "playerUrl": "https://assets.easysbc.io/fc26/players/50609100.png",
-    "newPlayer": true,
+    "newPlayer": false,
     "versionId": 177,
     "eaPlayerId": null,
     "untradeable": false,
     "owned": false,
     "name": "Edna Imade",
     "cardName": "Imade",
-    "sbcPrice": 24550,
+    "sbcPrice": 25100,
     "rolesPlus": [
       42,
       44,
@@ -252,7 +329,7 @@
     "owned": false,
     "name": "Romelu Lukaku",
     "cardName": "Lukaku",
-    "sbcPrice": 24350,
+    "sbcPrice": 24900,
     "rolesPlus": [
       34,
       42,
@@ -318,7 +395,7 @@
     "owned": false,
     "name": "Marcus Rashford",
     "cardName": "Rashford",
-    "sbcPrice": 269750,
+    "sbcPrice": 274500,
     "rolesPlus": [
       23,
       26,
@@ -450,7 +527,7 @@
     "owned": false,
     "name": "Marcus Rashford",
     "cardName": "Rashford",
-    "sbcPrice": 269750,
+    "sbcPrice": 274500,
     "rolesPlus": [
       34,
       41,
@@ -523,7 +600,7 @@
     "owned": false,
     "name": "Ousmane Dembélé",
     "cardName": "Dembélé",
-    "price": 4900000,
+    "price": 4945000,
     "rolesPlus": [
       23,
       32,
@@ -600,7 +677,7 @@
     "owned": false,
     "name": "Mariona",
     "cardName": "Mariona",
-    "price": 221000,
+    "price": 226000,
     "rolesPlus": [
       18,
       34,
@@ -675,7 +752,7 @@
     "owned": false,
     "name": "Jeremie Frimpong",
     "cardName": "Frimpong",
-    "price": 250000,
+    "price": 256000,
     "rolesPlus": [
       6,
       26,
@@ -749,7 +826,7 @@
     "owned": false,
     "name": "Claudio Marchisio",
     "cardName": "Marchisio",
-    "price": 495000,
+    "price": 517000,
     "rolesPlus": [
       27,
       49,
@@ -825,7 +902,7 @@
     "owned": false,
     "name": "Paulo Futre",
     "cardName": "Paulo Futre",
-    "price": 1745000,
+    "price": 1644000,
     "rolesPlus": [
       35,
       38,
@@ -901,7 +978,7 @@
     "owned": false,
     "name": "Blaise Matuidi",
     "cardName": "Matuidi",
-    "price": 818000,
+    "price": 810000,
     "rolesPlus": [
       16,
       20,
@@ -975,7 +1052,7 @@
     "owned": false,
     "name": "Yaya Touré",
     "cardName": "Touré",
-    "price": 1630000,
+    "price": 1950000,
     "rolesPlus": [
       16,
       21,
@@ -1051,7 +1128,7 @@
     "owned": false,
     "name": "João Félix",
     "cardName": "João Félix",
-    "price": 254000,
+    "price": 250000,
     "rolesPlus": [
       30,
       38,
@@ -1125,7 +1202,7 @@
     "owned": false,
     "name": "Juan Cuadrado",
     "cardName": "Cuadrado",
-    "price": 50500,
+    "price": 52000,
     "rolesPlus": [
       5,
       24,
@@ -1199,7 +1276,7 @@
     "owned": false,
     "name": "Timothy Weah",
     "cardName": "Weah",
-    "price": 40000,
+    "price": 39500,
     "rolesPlus": [
       23,
       35,
@@ -1274,7 +1351,7 @@
     "owned": false,
     "name": "Antoine Griezmann",
     "cardName": "Griezmann",
-    "price": 301000,
+    "price": 306000,
     "rolesPlus": [
       32,
       34,
@@ -1350,7 +1427,7 @@
     "owned": false,
     "name": "Paulo Dybala",
     "cardName": "Dybala",
-    "price": 446000,
+    "price": 466000,
     "rolesPlus": [
       31,
       33,
@@ -1429,7 +1506,7 @@
     "owned": false,
     "name": "Wesley Sneijder",
     "cardName": "Sneijder",
-    "price": 549000,
+    "price": 528000,
     "rolesPlus": [
       29,
       33,
@@ -1504,7 +1581,7 @@
     "owned": false,
     "name": "Christian Pulisic",
     "cardName": "Pulisic",
-    "price": 136000,
+    "price": 138000,
     "rolesPlus": [
       26,
       36,
@@ -1650,7 +1727,7 @@
     "owned": false,
     "name": "Lineth Beerensteyn",
     "cardName": "Beerensteyn",
-    "price": 40500,
+    "price": 37000,
     "rolesPlus": [
       27,
       38,
@@ -1725,7 +1802,7 @@
     "owned": false,
     "name": "Eseosa Aigbogun",
     "cardName": "Aigbogun",
-    "price": 11500,
+    "price": 11750,
     "rolesPlus": [
       3,
       8,
@@ -1799,7 +1876,7 @@
     "owned": false,
     "name": "Daniel Svensson",
     "cardName": "Svensson",
-    "price": 11750,
+    "price": 11500,
     "rolesPlus": [
       10,
       22,
@@ -1870,7 +1947,7 @@
     "owned": false,
     "name": "Nicolas Seiwald",
     "cardName": "Seiwald",
-    "price": 12000,
+    "price": 12500,
     "rolesPlus": [
       13,
       18,
@@ -2023,7 +2100,7 @@
     "owned": false,
     "name": "Géraldine Reuteler",
     "cardName": "Reuteler",
-    "price": 13500,
+    "price": 13750,
     "rolesPlus": [
       22,
       31,
@@ -2097,7 +2174,7 @@
     "owned": false,
     "name": "Park Ji Sung",
     "cardName": "Park Ji Sung",
-    "sbcPrice": 220750,
+    "sbcPrice": 224250,
     "rolesPlus": [
       21,
       23,
@@ -2163,7 +2240,7 @@
     "owned": false,
     "name": "Wesley",
     "cardName": "Wesley",
-    "sbcPrice": 44250,
+    "sbcPrice": 46000,
     "rolesPlus": [
       6,
       24,
@@ -2296,7 +2373,7 @@
     "owned": false,
     "name": "Kylian Mbappé",
     "cardName": "Mbappé",
-    "sbcPrice": 4131750,
+    "sbcPrice": 4262000,
     "rolesPlus": [
       43,
       139,
@@ -2359,7 +2436,7 @@
     "owned": false,
     "name": "Ladislav Krejčí",
     "cardName": "Krejčí",
-    "sbcPrice": 16750,
+    "sbcPrice": 17000,
     "rolesPlus": [
       11,
       13,
@@ -3597,7 +3674,7 @@
     "owned": false,
     "name": "Micky van de Ven",
     "cardName": "van de Ven",
-    "price": 179000,
+    "price": 189000,
     "rolesPlus": [
       11,
       113
@@ -3664,7 +3741,7 @@
     "owned": false,
     "name": "Jude Bellingham",
     "cardName": "Bellingham",
-    "price": 409000,
+    "price": 418000,
     "rolesPlus": [
       33,
       121,
@@ -3733,7 +3810,7 @@
     "owned": false,
     "name": "Alexia Putellas",
     "cardName": "Alexia Putellas",
-    "price": 629000,
+    "price": 624000,
     "rolesPlus": [
       22,
       121,
@@ -3801,7 +3878,7 @@
     "owned": false,
     "name": "Pernille Harder",
     "cardName": "Harder",
-    "price": 21250,
+    "price": 22000,
     "rolesPlus": [
       30,
       33,
@@ -3864,7 +3941,7 @@
     "owned": false,
     "name": "Kamil Grabara",
     "cardName": "Grabara",
-    "price": 12750,
+    "price": 12000,
     "rolesPlus": [
       45,
       101
@@ -3927,7 +4004,7 @@
     "owned": false,
     "name": "Katie McCabe",
     "cardName": "McCabe",
-    "price": 26250,
+    "price": 26500,
     "rolesPlus": [
       9,
       29,
@@ -4105,7 +4182,7 @@
     "owned": false,
     "name": "Siebe Van der Heyden",
     "cardName": "Van der Heyden",
-    "price": 12000,
+    "price": 12500,
     "rolesPlus": [
       11,
       48,
@@ -4166,7 +4243,7 @@
     "owned": false,
     "name": "André-Franck Zambo Anguissa",
     "cardName": "Zambo Anguissa",
-    "price": 11750,
+    "price": 12000,
     "rolesPlus": [
       21,
       119
@@ -4231,7 +4308,7 @@
     "owned": false,
     "name": "Elvis Sarić",
     "cardName": "Sarić",
-    "price": 11750,
+    "price": 12250,
     "rolesPlus": [
       16,
       18,
@@ -4298,7 +4375,7 @@
     "owned": false,
     "name": "Gabriel Sara",
     "cardName": "Gabriel Sara",
-    "price": 12500,
+    "price": 12000,
     "rolesPlus": [
       22,
       26,
@@ -4364,7 +4441,7 @@
     "owned": false,
     "name": "Jean-Mattéo Bahoya",
     "cardName": "Bahoya",
-    "sbcPrice": 31500,
+    "sbcPrice": 32500,
     "rolesPlus": [
       29,
       33,
@@ -4429,7 +4506,7 @@
     "owned": false,
     "name": "Matthis Abline",
     "cardName": "Abline",
-    "price": 12000,
+    "price": 11750,
     "rolesPlus": [
       36,
       41,
@@ -4491,7 +4568,7 @@
     "owned": false,
     "name": "Ismael Saibari",
     "cardName": "Saibari",
-    "price": 11750,
+    "price": 12000,
     "rolesPlus": [
       18,
       31,
@@ -4681,7 +4758,7 @@
     "owned": false,
     "name": "Gabriel Villamíl",
     "cardName": "Villamíl",
-    "price": 11750,
+    "price": 12500,
     "rolesPlus": [
       33,
       118
@@ -4742,7 +4819,7 @@
     "owned": false,
     "name": "Alex Badolato",
     "cardName": "Badolato",
-    "price": 11750,
+    "price": 12000,
     "rolesPlus": [
       22,
       33,
@@ -4803,7 +4880,7 @@
     "owned": false,
     "name": "Jutglà",
     "cardName": "Jutglà",
-    "price": 11750,
+    "price": 12000,
     "rolesPlus": [
       41,
       142
@@ -4863,7 +4940,7 @@
     "owned": false,
     "name": "Vangelis Pavlidis",
     "cardName": "Pavlidis",
-    "price": 11500,
+    "price": 12000,
     "rolesPlus": [
       43,
       144
@@ -5100,7 +5177,7 @@
     "owned": false,
     "name": "Yannick Carrasco",
     "cardName": "Carrasco",
-    "sbcPrice": 61700,
+    "sbcPrice": 66600,
     "rolesPlus": [
       27,
       29,
@@ -5144,7 +5221,6 @@
       143
     ],
     "metalId": 3,
-    "isObjective": true,
     "clubId": 607,
     "leagueId": 350,
     "countryId": 18,
@@ -5169,6 +5245,7 @@
     "owned": false,
     "name": "Karim Benzema",
     "cardName": "Benzema",
+    "price": 0,
     "rolesPlus": [
       32,
       41,
@@ -5367,7 +5444,7 @@
     "owned": false,
     "name": "Abdulaziz Al Othman",
     "cardName": "Al Othman",
-    "sbcPrice": 7600,
+    "sbcPrice": 10000,
     "rolesPlus": [
       23,
       35,
@@ -5436,7 +5513,7 @@
     "owned": false,
     "name": "Phil Foden",
     "cardName": "Foden",
-    "sbcPrice": 120500,
+    "sbcPrice": 120000,
     "rolesPlus": [
       22,
       25,
@@ -5504,7 +5581,7 @@
     "name": "Jordi Alba",
     "cardName": "Jordi Alba",
     "price": 210150,
-    "sbcPrice": 211000,
+    "sbcPrice": 214500,
     "rolesPlus": [
       7,
       47,
@@ -5570,7 +5647,7 @@
     "name": "Fridolina Rolfö",
     "cardName": "Rolfö",
     "price": 0,
-    "sbcPrice": 62000,
+    "sbcPrice": 64250,
     "rolesPlus": [
       10,
       30,
@@ -5705,7 +5782,7 @@
     "name": "Denis Suárez",
     "cardName": "Denis Suárez",
     "price": 0,
-    "sbcPrice": 75500,
+    "sbcPrice": 76500,
     "rolesPlus": [
       18,
       29,
@@ -5778,7 +5855,7 @@
     "owned": false,
     "name": "Vini Jr.",
     "cardName": "Vini Jr.",
-    "price": 3277000,
+    "price": 3318000,
     "rolesPlus": [
       27,
       38,
@@ -5850,7 +5927,7 @@
     "owned": false,
     "name": "Javier Mascherano",
     "cardName": "Mascherano",
-    "price": 229000,
+    "price": 226000,
     "rolesPlus": [
       11,
       49,
@@ -5920,7 +5997,7 @@
     "owned": false,
     "name": "Marek Hamšík",
     "cardName": "Hamšík",
-    "price": 958000,
+    "price": 912000,
     "rolesPlus": [
       21,
       31,
@@ -5997,7 +6074,7 @@
     "owned": false,
     "name": "Sakina Karchaoui",
     "cardName": "Karchaoui",
-    "price": 439000,
+    "price": 445000,
     "rolesPlus": [
       31,
       38,
@@ -6072,7 +6149,7 @@
     "owned": false,
     "name": "Joshua Kimmich",
     "cardName": "Kimmich",
-    "price": 232000,
+    "price": 234000,
     "rolesPlus": [
       5,
       49,
@@ -6147,7 +6224,7 @@
     "owned": false,
     "name": "Debinha",
     "cardName": "Debinha",
-    "price": 665000,
+    "price": 667000,
     "rolesPlus": [
       21,
       25,
@@ -6221,7 +6298,7 @@
     "owned": false,
     "name": "Antonio Di Natale",
     "cardName": "Di Natale",
-    "price": 1577000,
+    "price": 1534000,
     "rolesPlus": [
       29,
       40,
@@ -6297,7 +6374,7 @@
     "owned": false,
     "name": "Rafael Leão",
     "cardName": "Rafael Leão",
-    "price": 1550000,
+    "price": 1545000,
     "rolesPlus": [
       27,
       38,
@@ -6372,7 +6449,7 @@
     "owned": false,
     "name": "Juan David Cabal",
     "cardName": "Cabal",
-    "price": 74500,
+    "price": 70000,
     "rolesPlus": [
       28,
       29,
@@ -6446,7 +6523,7 @@
     "owned": false,
     "name": "Saeed Al Owairan",
     "cardName": "Al Owairan",
-    "price": 495000,
+    "price": 500000,
     "rolesPlus": [
       34,
       35,
@@ -6517,7 +6594,7 @@
     "owned": false,
     "name": "Paul Pogba",
     "cardName": "Pogba",
-    "sbcPrice": 214250,
+    "sbcPrice": 217250,
     "rolesPlus": [
       18,
       21,
@@ -6582,7 +6659,7 @@
     "owned": false,
     "name": "Danny da Costa",
     "cardName": "da Costa",
-    "price": 19500,
+    "price": 18000,
     "rolesPlus": [
       11,
       13,
@@ -6867,7 +6944,7 @@
     "owned": false,
     "name": "Bryan Mbeumo",
     "cardName": "Mbeumo",
-    "price": 198000,
+    "price": 207000,
     "rolesPlus": [
       23,
       35,
@@ -7123,7 +7200,7 @@
     "owned": false,
     "name": "Paul Pogba",
     "cardName": "Pogba",
-    "sbcPrice": 214250,
+    "sbcPrice": 217250,
     "rolesPlus": [
       18,
       21,
@@ -7192,7 +7269,7 @@
     "owned": false,
     "name": "Nathan Tella",
     "cardName": "Tella",
-    "price": 25500,
+    "price": 24500,
     "rolesPlus": [
       23,
       32,
@@ -7269,7 +7346,7 @@
     "owned": false,
     "name": "Álex Berenguer",
     "cardName": "Álex Berenguer",
-    "price": 16250,
+    "price": 15250,
     "rolesPlus": [
       26,
       30,
@@ -7346,7 +7423,7 @@
     "owned": false,
     "name": "Thomas Müller",
     "cardName": "Müller",
-    "price": 21750,
+    "price": 21500,
     "rolesPlus": [
       31,
       41,
@@ -8002,7 +8079,7 @@
     "owned": false,
     "name": "Jorge Campos",
     "cardName": "Campos",
-    "price": 23500,
+    "price": 22500,
     "rolesPlus": [
       41,
       44,
@@ -8133,7 +8210,7 @@
     "owned": false,
     "name": "Sergio Busquets",
     "cardName": "Sergio Busquets",
-    "sbcPrice": 420000,
+    "sbcPrice": 424500,
     "rolesPlus": [
       13,
       15,
@@ -8195,7 +8272,7 @@
     "owned": false,
     "name": "Mario Gila",
     "cardName": "Mario Gila",
-    "price": 12000,
+    "price": 12250,
     "rolesPlus": [
       11,
       12,
@@ -8316,7 +8393,7 @@
     "owned": false,
     "name": "Danilho Doekhi",
     "cardName": "Doekhi",
-    "price": 11500,
+    "price": 12000,
     "rolesPlus": [
       11,
       12,
@@ -8565,7 +8642,7 @@
     "owned": false,
     "name": "Mason Greenwood",
     "cardName": "Greenwood",
-    "price": 16000,
+    "price": 17250,
     "rolesPlus": [
       23,
       25,
@@ -8626,7 +8703,7 @@
     "owned": false,
     "name": "Tom Pettersson",
     "cardName": "Pettersson",
-    "price": 12000,
+    "price": 12250,
     "rolesPlus": [
       13,
       111
@@ -8687,7 +8764,7 @@
     "owned": false,
     "name": "Leroy Sané",
     "cardName": "Sané",
-    "price": 12000,
+    "price": 12250,
     "rolesPlus": [
       26,
       30,
@@ -8750,7 +8827,7 @@
     "owned": false,
     "name": "Victor Torp",
     "cardName": "Torp",
-    "price": 12750,
+    "price": 12500,
     "rolesPlus": [
       18,
       21,
@@ -8872,7 +8949,7 @@
     "owned": false,
     "name": "Aral Şimşir",
     "cardName": "Şimşir",
-    "price": 12250,
+    "price": 12000,
     "rolesPlus": [
       40,
       138
@@ -8933,7 +9010,7 @@
     "owned": false,
     "name": "Sara Holmgaard",
     "cardName": "Holmgaard",
-    "price": 12000,
+    "price": 12500,
     "rolesPlus": [
       9,
       28,
@@ -9122,7 +9199,7 @@
     "owned": false,
     "name": "Joshua King",
     "cardName": "King",
-    "price": 11750,
+    "price": 12500,
     "rolesPlus": [
       30,
       39,
@@ -9186,7 +9263,7 @@
     "owned": false,
     "name": "Manaka Matsukubo",
     "cardName": "Matsukubo",
-    "price": 12500,
+    "price": 12000,
     "rolesPlus": [
       33,
       42,
@@ -9248,7 +9325,7 @@
     "owned": false,
     "name": "Nico Paz",
     "cardName": "Nico Paz",
-    "price": 11750,
+    "price": 12000,
     "rolesPlus": [
       32,
       33,
@@ -9305,7 +9382,7 @@
     "owned": false,
     "name": "Danny Welbeck",
     "cardName": "Welbeck",
-    "price": 11750,
+    "price": 12000,
     "rolesPlus": [
       141
     ],
@@ -9476,7 +9553,7 @@
     "owned": false,
     "name": "Ayase Ueda",
     "cardName": "Ueda",
-    "price": 12000,
+    "price": 13000,
     "rolesPlus": [
       42,
       44,
@@ -9534,7 +9611,7 @@
     "owned": false,
     "name": "Younes Ebnoutalib",
     "cardName": "Ebnoutalib",
-    "price": 12000,
+    "price": 11750,
     "rolesPlus": [
       141
     ],
@@ -9594,7 +9671,7 @@
     "owned": false,
     "name": "Can Uzun",
     "cardName": "Uzun",
-    "sbcPrice": 40100,
+    "sbcPrice": 40300,
     "rolesPlus": [
       31,
       33,
@@ -9656,7 +9733,7 @@
     "owned": false,
     "name": "Santiago Giménez",
     "cardName": "Giménez",
-    "sbcPrice": 40100,
+    "sbcPrice": 40300,
     "rolesPlus": [
       43,
       141
@@ -9720,7 +9797,7 @@
     "owned": false,
     "name": "Jack Grealish",
     "cardName": "Grealish",
-    "sbcPrice": 70300,
+    "sbcPrice": 68550,
     "rolesPlus": [
       33,
       38,
@@ -9851,7 +9928,7 @@
     "owned": false,
     "name": "Dean Huijsen",
     "cardName": "Huijsen",
-    "sbcPrice": 62000,
+    "sbcPrice": 62500,
     "rolesPlus": [
       13,
       48,
@@ -9914,7 +9991,7 @@
     "owned": false,
     "name": "Riccardo Calafiori",
     "cardName": "Calafiori",
-    "sbcPrice": 62000,
+    "sbcPrice": 62500,
     "rolesPlus": [
       7,
       8,
@@ -9978,7 +10055,7 @@
     "owned": false,
     "name": "Leny Yoro",
     "cardName": "Yoro",
-    "price": 91000,
+    "price": 89000,
     "rolesPlus": [
       13,
       48,
@@ -10047,7 +10124,7 @@
     "owned": false,
     "name": "Selma Bacha",
     "cardName": "Bacha",
-    "price": 210000,
+    "price": 280000,
     "rolesPlus": [
       10,
       40,
@@ -10120,7 +10197,7 @@
     "owned": false,
     "name": "Lauren James",
     "cardName": "James",
-    "price": 375000,
+    "price": 368000,
     "rolesPlus": [
       25,
       37,
@@ -10260,7 +10337,7 @@
     "owned": false,
     "name": "Grimaldo",
     "cardName": "Grimaldo",
-    "price": 40500,
+    "price": 44500,
     "rolesPlus": [
       7,
       29,
@@ -10333,7 +10410,7 @@
     "owned": false,
     "name": "Denzel Dumfries",
     "cardName": "Dumfries",
-    "price": 63000,
+    "price": 63500,
     "rolesPlus": [
       4,
       6,
@@ -10568,7 +10645,7 @@
     "owned": false,
     "name": "Désiré Doué",
     "cardName": "Doué",
-    "price": 411000,
+    "price": 418000,
     "rolesPlus": [
       22,
       26,
@@ -10645,7 +10722,7 @@
     "owned": false,
     "name": "Crystal Dunn",
     "cardName": "Dunn",
-    "price": 52000,
+    "price": 56000,
     "rolesPlus": [
       10,
       22,
@@ -10716,7 +10793,7 @@
     "owned": false,
     "name": "Antony",
     "cardName": "Antony",
-    "price": 114000,
+    "price": 121000,
     "rolesPlus": [
       25,
       37,
@@ -10787,7 +10864,7 @@
     "owned": false,
     "name": "Francisco Conceição",
     "cardName": "Francisco Conceição",
-    "price": 25750,
+    "price": 28250,
     "rolesPlus": [
       23,
       25,
@@ -10929,7 +11006,7 @@
     "owned": false,
     "name": "Khadija Shaw",
     "cardName": "Shaw",
-    "price": 118000,
+    "price": 126000,
     "rolesPlus": [
       42,
       43,
@@ -10999,7 +11076,7 @@
     "owned": false,
     "name": "Dominik Szoboszlai",
     "cardName": "Szoboszlai",
-    "price": 127000,
+    "price": 145000,
     "rolesPlus": [
       32,
       34,
@@ -11065,7 +11142,7 @@
     "owned": false,
     "name": "Zion Suzuki",
     "cardName": "Suzuki",
-    "price": 12500,
+    "price": 12750,
     "rolesPlus": [
       45,
       101
@@ -11129,7 +11206,7 @@
     "owned": false,
     "name": "Maximilian Beier",
     "cardName": "Beier",
-    "price": 22500,
+    "price": 23250,
     "rolesPlus": [
       26,
       30,
@@ -11255,7 +11332,7 @@
     "owned": false,
     "name": "Glódís Perla Viggósdóttir",
     "cardName": "Viggósdóttir",
-    "price": 11500,
+    "price": 12250,
     "rolesPlus": [
       11,
       12,
@@ -11319,7 +11396,7 @@
     "owned": false,
     "name": "Jakub Kamiński",
     "cardName": "Kamiński",
-    "price": 12500,
+    "price": 11750,
     "rolesPlus": [
       29,
       40,
@@ -11390,7 +11467,7 @@
     "owned": false,
     "name": "Martín Ojeda",
     "cardName": "Ojeda",
-    "price": 12000,
+    "price": 12250,
     "rolesPlus": [
       21,
       26,
@@ -11464,7 +11541,7 @@
     "owned": false,
     "name": "Iván Romero",
     "cardName": "Iván Romero",
-    "price": 11750,
+    "price": 12500,
     "rolesPlus": [
       26,
       30,
@@ -11530,7 +11607,7 @@
     "owned": false,
     "name": "João Pedro",
     "cardName": "João Pedro",
-    "sbcPrice": 130500,
+    "sbcPrice": 127250,
     "rolesPlus": [
       32,
       43,
@@ -11659,7 +11736,7 @@
     "owned": false,
     "name": "Mohamed Salah",
     "cardName": "Salah",
-    "price": 729000,
+    "price": 699000,
     "rolesPlus": [
       126,
       136
@@ -11844,7 +11921,7 @@
     "owned": false,
     "name": "Rodrygo",
     "cardName": "Rodrygo",
-    "price": 88000,
+    "price": 84500,
     "rolesPlus": [
       37,
       43,
@@ -11911,7 +11988,7 @@
     "owned": false,
     "name": "Riyad Mahrez",
     "cardName": "Mahrez",
-    "price": 14750,
+    "price": 15000,
     "rolesPlus": [
       26,
       35,
@@ -12037,7 +12114,7 @@
     "owned": false,
     "name": "Virgil Ghiță",
     "cardName": "Ghiță",
-    "price": 13000,
+    "price": 12250,
     "rolesPlus": [
       48,
       113
@@ -12095,7 +12172,7 @@
     "owned": false,
     "name": "Jhon Lucumí",
     "cardName": "Lucumí",
-    "price": 12750,
+    "price": 11750,
     "rolesPlus": [
       13,
       48,
@@ -12152,7 +12229,7 @@
     "owned": false,
     "name": "Thomas Strakosha",
     "cardName": "Strakosha",
-    "price": 13000,
+    "price": 13500,
     "rolesPlus": [
       101
     ],
@@ -12206,7 +12283,7 @@
     "owned": false,
     "name": "Stefan Posch",
     "cardName": "Posch",
-    "price": 12500,
+    "price": 12000,
     "rolesPlus": [
       103
     ],
@@ -12268,7 +12345,7 @@
     "owned": false,
     "name": "Jess Park",
     "cardName": "Park",
-    "price": 12000,
+    "price": 12500,
     "rolesPlus": [
       18,
       22,
@@ -12333,7 +12410,7 @@
     "owned": false,
     "name": "Cody Gakpo",
     "cardName": "Gakpo",
-    "price": 27000,
+    "price": 27500,
     "rolesPlus": [
       27,
       30,
@@ -12465,7 +12542,7 @@
     "owned": false,
     "name": "Esmee Brugts",
     "cardName": "Brugts",
-    "price": 12000,
+    "price": 12500,
     "rolesPlus": [
       10,
       38,
@@ -12529,7 +12606,7 @@
     "owned": false,
     "name": "Pierre-Emerick Aubameyang",
     "cardName": "Aubameyang",
-    "price": 23250,
+    "price": 23750,
     "rolesPlus": [
       42,
       141
@@ -12662,7 +12739,7 @@
     "owned": false,
     "name": "Florian Thauvin",
     "cardName": "Thauvin",
-    "sbcPrice": 17700,
+    "sbcPrice": 18200,
     "rolesPlus": [
       43,
       133,
@@ -12724,7 +12801,7 @@
     "owned": false,
     "name": "Virgil Misidjan",
     "cardName": "Misidjan",
-    "price": 12750,
+    "price": 12250,
     "rolesPlus": [
       27,
       43,
@@ -12786,7 +12863,7 @@
     "owned": false,
     "name": "Gabriel Pec",
     "cardName": "Gabriel Pec",
-    "price": 11750,
+    "price": 12250,
     "rolesPlus": [
       26,
       40,
@@ -12846,7 +12923,7 @@
     "owned": false,
     "name": "Bia Zaneratto",
     "cardName": "Bia Zaneratto",
-    "price": 12500,
+    "price": 12250,
     "rolesPlus": [
       43,
       141
@@ -12905,7 +12982,7 @@
     "owned": false,
     "name": "Dailon Livramento",
     "cardName": "Dailon Livramento",
-    "price": 12000,
+    "price": 12250,
     "rolesPlus": [
       43,
       44,
@@ -12968,7 +13045,7 @@
     "owned": false,
     "name": "Selina Vobian",
     "cardName": "Vobian",
-    "price": 12750,
+    "price": 12250,
     "rolesPlus": [
       25,
       32,
@@ -13032,7 +13109,7 @@
     "owned": false,
     "name": "Jordan Ayew",
     "cardName": "Ayew",
-    "price": 12000,
+    "price": 12250,
     "rolesPlus": [
       23,
       35,
@@ -13091,7 +13168,7 @@
     "owned": false,
     "name": "Chupete",
     "cardName": "Chupete",
-    "price": 11750,
+    "price": 13000,
     "rolesPlus": [
       41,
       144
@@ -13341,7 +13418,7 @@
     "name": "Jean-Philippe Mateta",
     "cardName": "Mateta",
     "price": 25550,
-    "sbcPrice": 26950,
+    "sbcPrice": 26750,
     "rolesPlus": [
       41,
       42,
@@ -13471,7 +13548,7 @@
     "owned": false,
     "name": "Johan Bakayoko",
     "cardName": "Bakayoko",
-    "sbcPrice": 43150,
+    "sbcPrice": 45000,
     "rolesPlus": [
       23,
       35,
@@ -13537,7 +13614,7 @@
     "owned": false,
     "name": "Antoine Semenyo",
     "cardName": "Semenyo",
-    "sbcPrice": 43150,
+    "sbcPrice": 45000,
     "rolesPlus": [
       26,
       30,
@@ -13667,7 +13744,7 @@
     "owned": false,
     "name": "Lucy Bronze",
     "cardName": "Bronze",
-    "price": 111000,
+    "price": 102000,
     "rolesPlus": [
       3,
       5,
@@ -13735,7 +13812,7 @@
     "owned": false,
     "name": "Michael Olise",
     "cardName": "Olise",
-    "price": 199000,
+    "price": 210000,
     "rolesPlus": [
       23,
       25,
@@ -13870,7 +13947,7 @@
     "owned": false,
     "name": "Trinity Rodman",
     "cardName": "Rodman",
-    "price": 510000,
+    "price": 498000,
     "rolesPlus": [
       26,
       36,
@@ -13942,7 +14019,7 @@
     "owned": false,
     "name": "Heung Min Son",
     "cardName": "Son",
-    "price": 390000,
+    "price": 389000,
     "rolesPlus": [
       29,
       40,
@@ -14014,7 +14091,7 @@
     "owned": false,
     "name": "Scott McTominay",
     "cardName": "McTominay",
-    "price": 128000,
+    "price": 126000,
     "rolesPlus": [
       19,
       31,
@@ -14079,7 +14156,7 @@
     "owned": false,
     "name": "Pau Cubarsí",
     "cardName": "Pau Cubarsí",
-    "price": 99500,
+    "price": 109000,
     "rolesPlus": [
       11,
       12,
@@ -14141,7 +14218,7 @@
     "owned": false,
     "name": "Marc Cucurella",
     "cardName": "Marc Cucurella",
-    "price": 80000,
+    "price": 87000,
     "rolesPlus": [
       7,
       10,
@@ -14210,7 +14287,7 @@
     "owned": false,
     "name": "Salma Paralluelo",
     "cardName": "Salma Paralluelo",
-    "price": 800000,
+    "price": 649000,
     "rolesPlus": [
       35,
       39,
@@ -14276,7 +14353,7 @@
     "owned": false,
     "name": "Julián Alvarez",
     "cardName": "Alvarez",
-    "price": 720000,
+    "price": 690000,
     "rolesPlus": [
       42,
       43,
@@ -14341,7 +14418,7 @@
     "owned": false,
     "name": "Tyler Morton",
     "cardName": "Morton",
-    "price": 12000,
+    "price": 12500,
     "rolesPlus": [
       17,
       18,
@@ -14408,7 +14485,7 @@
     "owned": false,
     "name": "Lotte Wubben-Moy",
     "cardName": "Wubben-Moy",
-    "price": 11750,
+    "price": 12250,
     "rolesPlus": [
       12,
       111,
@@ -14475,7 +14552,7 @@
     "owned": false,
     "name": "Eberechi Eze",
     "cardName": "Eze",
-    "price": 165000,
+    "price": 169000,
     "rolesPlus": [
       39,
       43,
@@ -14541,7 +14618,7 @@
     "owned": false,
     "name": "Oscar Bobb",
     "cardName": "Bobb",
-    "price": 19500,
+    "price": 22500,
     "rolesPlus": [
       26,
       36,
@@ -14610,7 +14687,7 @@
     "owned": false,
     "name": "Mary Alice Vignola",
     "cardName": "Vignola",
-    "price": 12000,
+    "price": 12250,
     "rolesPlus": [
       10,
       29,
@@ -14676,7 +14753,7 @@
     "name": "Arda Güler",
     "cardName": "Güler",
     "price": 63350,
-    "sbcPrice": 68850,
+    "sbcPrice": 69400,
     "rolesPlus": [
       25,
       26,
@@ -14806,7 +14883,7 @@
     "owned": false,
     "name": "Hugo Ekitiké",
     "cardName": "Ekitiké",
-    "price": 208000,
+    "price": 206000,
     "rolesPlus": [
       32,
       43,
@@ -14873,7 +14950,7 @@
     "owned": false,
     "name": "Anders Dreyer",
     "cardName": "Dreyer",
-    "price": 11000,
+    "price": 12000,
     "rolesPlus": [
       35,
       37,
@@ -14945,7 +15022,7 @@
     "owned": false,
     "name": "Manaka Matsukubo",
     "cardName": "Matsukubo",
-    "price": 14250,
+    "price": 12750,
     "rolesPlus": [
       21,
       31,
@@ -15075,7 +15152,7 @@
     "owned": false,
     "name": "Jovana Damnjanović",
     "cardName": "Damnjanović",
-    "price": 11250,
+    "price": 11500,
     "rolesPlus": [
       22,
       33,
@@ -15144,7 +15221,7 @@
     "name": "Erling Haaland",
     "cardName": "Haaland",
     "price": 633400,
-    "sbcPrice": 717000,
+    "sbcPrice": 728750,
     "rolesPlus": [
       44,
       141
@@ -15207,7 +15284,7 @@
     "name": "Harry Kane",
     "cardName": "Kane",
     "price": 186650,
-    "sbcPrice": 204250,
+    "sbcPrice": 213000,
     "rolesPlus": [
       42,
       44,
@@ -15274,7 +15351,7 @@
     "owned": false,
     "name": "Christian Pulisic",
     "cardName": "Pulisic",
-    "sbcPrice": 323500,
+    "sbcPrice": 328750,
     "rolesPlus": [
       26,
       33,
@@ -15348,7 +15425,7 @@
     "owned": false,
     "name": "Vini Jr.",
     "cardName": "Vini Jr.",
-    "price": 2100000,
+    "price": 1299000,
     "rolesPlus": [
       30,
       38,
@@ -15410,7 +15487,7 @@
     "owned": false,
     "name": "Jordi Alba",
     "cardName": "Jordi Alba",
-    "price": 12750,
+    "price": 13000,
     "rolesPlus": [
       10,
       47,
@@ -15475,7 +15552,7 @@
     "owned": false,
     "name": "Moisés Caicedo",
     "cardName": "Caicedo",
-    "price": 105000,
+    "price": 97500,
     "rolesPlus": [
       49,
       114
@@ -15537,7 +15614,7 @@
     "owned": false,
     "name": "Luis Díaz",
     "cardName": "Díaz",
-    "price": 70000,
+    "price": 68000,
     "rolesPlus": [
       29,
       39,
@@ -15605,7 +15682,7 @@
     "owned": false,
     "name": "Rosemonde Kouassi",
     "cardName": "Kouassi",
-    "price": 12500,
+    "price": 12250,
     "rolesPlus": [
       26,
       29,
@@ -15737,7 +15814,7 @@
     "owned": false,
     "name": "Bruno Guimarães",
     "cardName": "Bruno Guimarães",
-    "price": 25750,
+    "price": 27250,
     "rolesPlus": [
       21,
       116,
@@ -15800,7 +15877,7 @@
     "owned": false,
     "name": "Valentín Barco",
     "cardName": "Barco",
-    "price": 12000,
+    "price": 11750,
     "rolesPlus": [
       10,
       18,
@@ -15864,7 +15941,7 @@
     "owned": false,
     "name": "Lynn Wilms",
     "cardName": "Wilms",
-    "price": 12250,
+    "price": 12500,
     "rolesPlus": [
       5,
       25,
@@ -15927,7 +16004,7 @@
     "name": "Yazmeen Ryan",
     "cardName": "Ryan",
     "price": 7800,
-    "sbcPrice": 7600,
+    "sbcPrice": 7400,
     "rolesPlus": [
       30,
       39,
@@ -15993,7 +16070,7 @@
     "owned": false,
     "name": "Vicki Becho",
     "cardName": "Becho",
-    "price": 12000,
+    "price": 12250,
     "rolesPlus": [
       35,
       37,
@@ -16055,7 +16132,7 @@
     "owned": false,
     "name": "Jesurun Rak-Sakyi",
     "cardName": "Rak-Sakyi",
-    "price": 12750,
+    "price": 12500,
     "rolesPlus": [
       36,
       126
@@ -16120,7 +16197,7 @@
     "owned": false,
     "name": "Joey Veerman",
     "cardName": "Veerman",
-    "price": 12000,
+    "price": 13000,
     "rolesPlus": [
       16,
       20,
@@ -16246,7 +16323,7 @@
     "owned": false,
     "name": "Vivien Endemann",
     "cardName": "Endemann",
-    "price": 12250,
+    "price": 12750,
     "rolesPlus": [
       136
     ],
@@ -16301,7 +16378,7 @@
     "owned": false,
     "name": "Craig Halkett",
     "cardName": "Halkett",
-    "price": 12250,
+    "price": 12750,
     "rolesPlus": [
       12,
       113
@@ -16422,7 +16499,7 @@
     "owned": false,
     "name": "Nicolò Cambiaghi",
     "cardName": "Cambiaghi",
-    "price": 12500,
+    "price": 13000,
     "rolesPlus": [
       38,
       127
@@ -16477,7 +16554,7 @@
     "owned": false,
     "name": "Alexander Schlager",
     "cardName": "Schlager",
-    "price": 13000,
+    "price": 14250,
     "rolesPlus": [
       102
     ],
@@ -16534,7 +16611,7 @@
     "owned": false,
     "name": "Yoan Bonny",
     "cardName": "Bonny",
-    "price": 11750,
+    "price": 12000,
     "rolesPlus": [
       41,
       42,
@@ -16594,7 +16671,7 @@
     "owned": false,
     "name": "Brandon Thomas-Asante",
     "cardName": "Thomas-Asante",
-    "price": 12000,
+    "price": 13000,
     "rolesPlus": [
       42,
       134
@@ -16713,7 +16790,7 @@
     "owned": false,
     "name": "Pablo Felipe",
     "cardName": "Pablo Felipe",
-    "price": 12500,
+    "price": 12750,
     "rolesPlus": [
       26,
       141
@@ -16770,7 +16847,7 @@
     "owned": false,
     "name": "Theo Bair",
     "cardName": "Bair",
-    "price": 12500,
+    "price": 13000,
     "rolesPlus": [
       44,
       142
@@ -16957,7 +17034,7 @@
     "owned": false,
     "name": "Luany",
     "cardName": "Luany",
-    "sbcPrice": 60000,
+    "sbcPrice": 64500,
     "rolesPlus": [
       41,
       43,
@@ -17083,7 +17160,7 @@
     "owned": false,
     "name": "Saïd Benrahma",
     "cardName": "Benrahma",
-    "sbcPrice": 28550,
+    "sbcPrice": 29300,
     "rolesPlus": [
       33,
       38,
@@ -17152,7 +17229,7 @@
     "owned": false,
     "name": "Jule Brand",
     "cardName": "Brand",
-    "sbcPrice": 23700,
+    "sbcPrice": 23400,
     "rolesPlus": [
       29,
       40,
@@ -17278,7 +17355,7 @@
     "owned": false,
     "name": "Balde",
     "cardName": "Balde",
-    "price": 314000,
+    "price": 330000,
     "rolesPlus": [
       7,
       27,
@@ -17344,7 +17421,7 @@
     "owned": false,
     "name": "Kim Little",
     "cardName": "Little",
-    "price": 19000,
+    "price": 20500,
     "rolesPlus": [
       14,
       16,
@@ -17412,7 +17489,7 @@
     "owned": false,
     "name": "Millie Bright",
     "cardName": "Bright",
-    "price": 79000,
+    "price": 74500,
     "rolesPlus": [
       12,
       15,
@@ -17481,7 +17558,7 @@
     "owned": false,
     "name": "Angelo Stiller",
     "cardName": "Stiller",
-    "price": 18750,
+    "price": 20000,
     "rolesPlus": [
       14,
       19,
@@ -17683,7 +17760,7 @@
     "owned": false,
     "name": "Karim Adeyemi",
     "cardName": "Adeyemi",
-    "price": 321000,
+    "price": 320000,
     "rolesPlus": [
       26,
       33,
@@ -17752,7 +17829,7 @@
     "owned": false,
     "name": "João Neves",
     "cardName": "João Neves",
-    "price": 164000,
+    "price": 162000,
     "rolesPlus": [
       16,
       20,
@@ -17823,7 +17900,7 @@
     "owned": false,
     "name": "Florian Wirtz",
     "cardName": "Wirtz",
-    "price": 730000,
+    "price": 699000,
     "rolesPlus": [
       21,
       43,
@@ -17897,7 +17974,7 @@
     "owned": false,
     "name": "Claudia Pina",
     "cardName": "Claudia Pina",
-    "price": 1300000,
+    "price": 1500000,
     "rolesPlus": [
       27,
       29,
@@ -17968,7 +18045,7 @@
     "owned": false,
     "name": "Dávid Hancko",
     "cardName": "Hancko",
-    "sbcPrice": 63800,
+    "sbcPrice": 63300,
     "rolesPlus": [
       8,
       11,
@@ -18032,7 +18109,7 @@
     "owned": false,
     "name": "Christian Günter",
     "cardName": "Günter",
-    "price": 12750,
+    "price": 12500,
     "rolesPlus": [
       7,
       27,
@@ -18094,7 +18171,7 @@
     "owned": false,
     "name": "Khéphren Thuram",
     "cardName": "Thuram",
-    "price": 147000,
+    "price": 155000,
     "rolesPlus": [
       16,
       20,
@@ -18159,7 +18236,7 @@
     "owned": false,
     "name": "Jade Le Guilly",
     "cardName": "Le Guilly",
-    "price": 14750,
+    "price": 14250,
     "rolesPlus": [
       3,
       6,
@@ -18226,7 +18303,7 @@
     "owned": false,
     "name": "Angel Gomes",
     "cardName": "Gomes",
-    "price": 13000,
+    "price": 14250,
     "rolesPlus": [
       16,
       20,
@@ -18291,7 +18368,7 @@
     "owned": false,
     "name": "Marten de Roon",
     "cardName": "de Roon",
-    "price": 12250,
+    "price": 12500,
     "rolesPlus": [
       16,
       20,
@@ -18358,7 +18435,7 @@
     "owned": false,
     "name": "Cristiano Ronaldo",
     "cardName": "Cristiano Ronaldo",
-    "price": 1120000,
+    "price": 1110000,
     "rolesPlus": [
       41,
       44,
@@ -18417,7 +18494,7 @@
     "owned": false,
     "name": "Jordan Pickford",
     "cardName": "Pickford",
-    "price": 21000,
+    "price": 22500,
     "rolesPlus": [
       2,
       145
@@ -18674,7 +18751,7 @@
     "owned": false,
     "name": "Carles Gil",
     "cardName": "Carles Gil",
-    "price": 13000,
+    "price": 11500,
     "rolesPlus": [
       22,
       26,
@@ -18745,7 +18822,7 @@
     "owned": false,
     "name": "Kylian Mbappé",
     "cardName": "Mbappé",
-    "sbcPrice": 3955500,
+    "sbcPrice": 3861750,
     "rolesPlus": [
       43,
       139,
@@ -18863,7 +18940,7 @@
     ],
     "metaRating": 90.01762906681492,
     "playerRoleId": 16,
-    "canEvolve": false,
+    "canEvolve": true,
     "hasDynamicImage": true,
     "playerUrl": "https://assets.easysbc.io/fc26/players/50575052.png",
     "newPlayer": false,
@@ -18873,7 +18950,7 @@
     "owned": false,
     "name": "Georgia Stanway",
     "cardName": "Stanway",
-    "price": 19500,
+    "price": 19250,
     "rolesPlus": [
       49,
       116
@@ -18937,7 +19014,7 @@
     "owned": false,
     "name": "Rose Lavelle",
     "cardName": "Lavelle",
-    "price": 40250,
+    "price": 42500,
     "rolesPlus": [
       22,
       118,
@@ -19001,7 +19078,7 @@
     "owned": false,
     "name": "Konrad Laimer",
     "cardName": "Laimer",
-    "price": 15500,
+    "price": 14750,
     "rolesPlus": [
       6,
       15,
@@ -19126,7 +19203,7 @@
     "owned": false,
     "name": "Federico Baschirotto",
     "cardName": "Baschirotto",
-    "price": 12000,
+    "price": 12250,
     "rolesPlus": [
       11,
       13,
@@ -19186,7 +19263,7 @@
     "owned": false,
     "name": "Omar Alderete",
     "cardName": "Alderete",
-    "price": 12250,
+    "price": 12000,
     "rolesPlus": [
       12,
       13,
@@ -19249,7 +19326,7 @@
     "owned": false,
     "name": "Joseph Paintsil",
     "cardName": "Paintsil",
-    "price": 13250,
+    "price": 12500,
     "rolesPlus": [
       26,
       27,
@@ -19317,7 +19394,7 @@
     "owned": false,
     "name": "Rafa",
     "cardName": "Rafa",
-    "price": 13750,
+    "price": 13500,
     "rolesPlus": [
       30,
       31,
@@ -19443,7 +19520,7 @@
     "owned": false,
     "name": "Korbin Shrader",
     "cardName": "Shrader",
-    "price": 13500,
+    "price": 12500,
     "rolesPlus": [
       16,
       18,
@@ -19504,7 +19581,7 @@
     "owned": false,
     "name": "Koke",
     "cardName": "Koke",
-    "price": 13000,
+    "price": 16500,
     "rolesPlus": [
       15,
       20,
@@ -19634,7 +19711,7 @@
     "owned": false,
     "name": "Diego Gómez",
     "cardName": "Gómez",
-    "price": 18250,
+    "price": 12750,
     "rolesPlus": [
       16,
       18,
@@ -19758,7 +19835,7 @@
     "owned": false,
     "name": "Marco Essimi",
     "cardName": "Essimi",
-    "price": 12000,
+    "price": 12750,
     "rolesPlus": [
       27,
       126
@@ -19817,7 +19894,7 @@
     "owned": false,
     "name": "Khalid Al Ghannam",
     "cardName": "Al Ghannam",
-    "price": 12000,
+    "price": 12500,
     "rolesPlus": [
       27,
       128
@@ -19872,7 +19949,7 @@
     "owned": false,
     "name": "Gonzalo Valle",
     "cardName": "Valle",
-    "price": 14250,
+    "price": 14000,
     "rolesPlus": [
       101
     ],
@@ -19930,7 +20007,7 @@
     "owned": false,
     "name": "Ismaïla Sarr",
     "cardName": "Sarr",
-    "price": 13750,
+    "price": 14500,
     "rolesPlus": [
       31,
       36,
@@ -19994,7 +20071,7 @@
     "owned": false,
     "name": "Nicklas Shipnoski",
     "cardName": "Shipnoski",
-    "price": 12000,
+    "price": 13000,
     "rolesPlus": [
       26,
       27,
@@ -20057,7 +20134,7 @@
     "owned": false,
     "name": "Fiamma Benítez",
     "cardName": "Fiamma Benítez",
-    "price": 12750,
+    "price": 13000,
     "rolesPlus": [
       18,
       31,
@@ -20117,7 +20194,7 @@
     "owned": false,
     "name": "Fábio Abreu",
     "cardName": "Fábio Abreu",
-    "price": 12250,
+    "price": 12000,
     "rolesPlus": [
       41,
       142
@@ -20178,7 +20255,7 @@
     "owned": false,
     "name": "Pablo Pagis",
     "cardName": "Pagis",
-    "price": 12000,
+    "price": 12250,
     "rolesPlus": [
       27,
       29,
@@ -20245,7 +20322,7 @@
     "owned": false,
     "name": "Can Uzun",
     "cardName": "Uzun",
-    "price": 13000,
+    "price": 13500,
     "rolesPlus": [
       31,
       33,
@@ -20496,7 +20573,7 @@
     "owned": false,
     "name": "Nico Paz",
     "cardName": "Nico Paz",
-    "sbcPrice": 35850,
+    "sbcPrice": 36700,
     "rolesPlus": [
       32,
       33,
@@ -20629,7 +20706,7 @@
     "name": "Leon Goretzka",
     "cardName": "Goretzka",
     "price": 68500,
-    "sbcPrice": 87400,
+    "sbcPrice": 86350,
     "rolesPlus": [
       22,
       49,
@@ -20753,7 +20830,7 @@
     "name": "Nichelle Prince",
     "cardName": "Prince",
     "price": 0,
-    "sbcPrice": 4200,
+    "sbcPrice": 4300,
     "rolesPlus": [
       22,
       42,
@@ -20815,7 +20892,7 @@
     "name": "Mateo Retegui",
     "cardName": "Retegui",
     "price": 0,
-    "sbcPrice": 10100,
+    "sbcPrice": 9300,
     "rolesPlus": [
       41,
       43,
@@ -20884,7 +20961,7 @@
     "owned": false,
     "name": "Federico Valverde",
     "cardName": "Valverde",
-    "price": 1450000,
+    "price": 1279000,
     "rolesPlus": [
       5,
       22,
@@ -20956,7 +21033,7 @@
     "owned": false,
     "name": "Tijjani Reijnders",
     "cardName": "Reijnders",
-    "price": 979000,
+    "price": 1199000,
     "rolesPlus": [
       31,
       33,
@@ -21030,7 +21107,7 @@
     "owned": false,
     "name": "Nico Williams",
     "cardName": "Nico Williams",
-    "price": 1043000,
+    "price": 1075000,
     "rolesPlus": [
       26,
       29,
@@ -21160,7 +21237,7 @@
     "owned": false,
     "name": "Gianluca Mancini",
     "cardName": "Mancini",
-    "price": 13500,
+    "price": 13250,
     "rolesPlus": [
       13,
       48,
@@ -21226,7 +21303,7 @@
     "owned": false,
     "name": "Denise O'Sullivan",
     "cardName": "O'Sullivan",
-    "price": 13750,
+    "price": 15500,
     "rolesPlus": [
       15,
       21,
@@ -21291,7 +21368,7 @@
     "owned": false,
     "name": "Giovanni Di Lorenzo",
     "cardName": "Di Lorenzo",
-    "price": 90000,
+    "price": 88500,
     "rolesPlus": [
       5,
       48,
@@ -21426,7 +21503,7 @@
     "owned": false,
     "name": "Luis Díaz",
     "cardName": "Díaz",
-    "price": 219000,
+    "price": 215000,
     "rolesPlus": [
       29,
       40,
@@ -21553,7 +21630,7 @@
     "owned": false,
     "name": "Ryan Yates",
     "cardName": "Yates",
-    "price": 14000,
+    "price": 14750,
     "rolesPlus": [
       15,
       17,
@@ -21753,7 +21830,7 @@
     "owned": false,
     "name": "Bruno Fernandes",
     "cardName": "Bruno Fernandes",
-    "price": 450000,
+    "price": 448000,
     "rolesPlus": [
       18,
       32,
@@ -21824,7 +21901,7 @@
     "owned": false,
     "name": "Cole Palmer",
     "cardName": "Palmer",
-    "price": 463000,
+    "price": 480000,
     "rolesPlus": [
       31,
       33,
@@ -21893,7 +21970,7 @@
     "owned": false,
     "name": "Lisa Karl",
     "cardName": "Karl",
-    "price": 12000,
+    "price": 12750,
     "rolesPlus": [
       6,
       10,
@@ -21962,7 +22039,7 @@
     "owned": false,
     "name": "Riccardo Orsolini",
     "cardName": "Orsolini",
-    "price": 14500,
+    "price": 15500,
     "rolesPlus": [
       23,
       26,
@@ -22094,7 +22171,7 @@
     "owned": false,
     "name": "Oyarzabal",
     "cardName": "Oyarzabal",
-    "price": 35750,
+    "price": 33250,
     "rolesPlus": [
       27,
       31,
@@ -22165,7 +22242,7 @@
     "owned": false,
     "name": "Malik Tillman",
     "cardName": "Tillman",
-    "price": 25250,
+    "price": 24500,
     "rolesPlus": [
       18,
       32,
@@ -22236,7 +22313,7 @@
     "owned": false,
     "name": "Corentin Tolisso",
     "cardName": "Tolisso",
-    "price": 58000,
+    "price": 55500,
     "rolesPlus": [
       16,
       19,
@@ -22305,7 +22382,7 @@
     "owned": false,
     "name": "Diego Chará",
     "cardName": "Chará",
-    "price": 11750,
+    "price": 12000,
     "rolesPlus": [
       11,
       15,
@@ -22373,7 +22450,7 @@
     "owned": false,
     "name": "Lauri",
     "cardName": "Lauri",
-    "price": 11500,
+    "price": 11750,
     "rolesPlus": [
       28,
       32,
@@ -22436,7 +22513,7 @@
     "owned": false,
     "name": "Éder Militão",
     "cardName": "Éder Militão",
-    "price": 555000,
+    "price": 621000,
     "rolesPlus": [
       11,
       12,
@@ -22503,7 +22580,7 @@
     "owned": false,
     "name": "Debinha",
     "cardName": "Debinha",
-    "price": 191000,
+    "price": 202000,
     "rolesPlus": [
       34,
       131,
@@ -22570,7 +22647,7 @@
     "owned": false,
     "name": "Christian Pulisic",
     "cardName": "Pulisic",
-    "price": 100000,
+    "price": 99500,
     "rolesPlus": [
       26,
       33,
@@ -22634,7 +22711,7 @@
     "owned": false,
     "name": "Ryan Gravenberch",
     "cardName": "Gravenberch",
-    "price": 200000,
+    "price": 199000,
     "rolesPlus": [
       114
     ],
@@ -22690,7 +22767,7 @@
     "owned": false,
     "name": "David Raum",
     "cardName": "Raum",
-    "price": 15000,
+    "price": 16000,
     "rolesPlus": [
       10,
       109
@@ -22751,7 +22828,7 @@
     "owned": false,
     "name": "Sara Däbritz",
     "cardName": "Däbritz",
-    "price": 21000,
+    "price": 21750,
     "rolesPlus": [
       16,
       22,
@@ -22810,7 +22887,7 @@
     "owned": false,
     "name": "Cameron Burgess",
     "cardName": "Burgess",
-    "price": 13000,
+    "price": 12500,
     "rolesPlus": [
       13,
       111
@@ -22865,7 +22942,7 @@
     "owned": false,
     "name": "Gerónimo Rulli",
     "cardName": "Rulli",
-    "price": 35500,
+    "price": 37250,
     "rolesPlus": [
       145
     ],
@@ -22928,7 +23005,7 @@
     "owned": false,
     "name": "Anton Stach",
     "cardName": "Stach",
-    "price": 15000,
+    "price": 14500,
     "rolesPlus": [
       14,
       16,
@@ -22997,7 +23074,7 @@
     "owned": false,
     "name": "João Félix",
     "cardName": "João Félix",
-    "price": 78000,
+    "price": 79000,
     "rolesPlus": [
       30,
       32,
@@ -23060,7 +23137,7 @@
     "owned": false,
     "name": "Hampus Skoglund",
     "cardName": "Skoglund",
-    "price": 13000,
+    "price": 12750,
     "rolesPlus": [
       46,
       105
@@ -23122,7 +23199,7 @@
     "owned": false,
     "name": "Denis Bouanga",
     "cardName": "Bouanga",
-    "price": 14000,
+    "price": 13750,
     "rolesPlus": [
       38,
       43,
@@ -23183,7 +23260,7 @@
     "owned": false,
     "name": "Evan Weir",
     "cardName": "Weir",
-    "price": 12250,
+    "price": 13000,
     "rolesPlus": [
       8,
       9,
@@ -23245,7 +23322,7 @@
     "owned": false,
     "name": "Lorenzo Pellegrini",
     "cardName": "Pellegrini",
-    "price": 16750,
+    "price": 14750,
     "rolesPlus": [
       22,
       32,
@@ -23368,7 +23445,7 @@
     "owned": false,
     "name": "Carney Chukwuemeka",
     "cardName": "Chukwuemeka",
-    "sbcPrice": 17700,
+    "sbcPrice": 17600,
     "rolesPlus": [
       21,
       34,
@@ -23431,7 +23508,7 @@
     "owned": false,
     "name": "Baptiste Santamaria",
     "cardName": "Santamaria",
-    "price": 12500,
+    "price": 13250,
     "rolesPlus": [
       14,
       15,
@@ -23499,7 +23576,7 @@
     "owned": false,
     "name": "Callum McCowatt",
     "cardName": "McCowatt",
-    "price": 12000,
+    "price": 13000,
     "rolesPlus": [
       31,
       33,
@@ -23563,7 +23640,7 @@
     "owned": false,
     "name": "Oliver Burke",
     "cardName": "Burke",
-    "price": 12500,
+    "price": 13000,
     "rolesPlus": [
       26,
       41,
@@ -23627,7 +23704,7 @@
     "owned": false,
     "name": "Gabri Veiga",
     "cardName": "Gabri Veiga",
-    "price": 13250,
+    "price": 12500,
     "rolesPlus": [
       22,
       30,
@@ -23690,7 +23767,7 @@
     "owned": false,
     "name": "Dayro Moreno",
     "cardName": "Moreno",
-    "price": 13000,
+    "price": 12000,
     "rolesPlus": [
       41,
       142
@@ -23749,7 +23826,7 @@
     "owned": false,
     "name": "Ludovic Ajorque",
     "cardName": "Ajorque",
-    "price": 12500,
+    "price": 13000,
     "rolesPlus": [
       41,
       144
@@ -23804,7 +23881,7 @@
     "owned": false,
     "name": "Ivan Prtajin",
     "cardName": "Prtajin",
-    "price": 12250,
+    "price": 13250,
     "rolesPlus": [
       144
     ],
@@ -23859,7 +23936,7 @@
     "owned": false,
     "name": "Isobel Goodwin",
     "cardName": "Goodwin",
-    "price": 12250,
+    "price": 13000,
     "rolesPlus": [
       41,
       142
@@ -23919,7 +23996,7 @@
     "owned": false,
     "name": "Lucía Rodríguez",
     "cardName": "Lucía Rodríguez",
-    "sbcPrice": 8300,
+    "sbcPrice": 7200,
     "rolesPlus": [
       4,
       13,
@@ -23983,7 +24060,7 @@
     "owned": false,
     "name": "Synne Jensen",
     "cardName": "Jensen",
-    "sbcPrice": 16200,
+    "sbcPrice": 15700,
     "rolesPlus": [
       36,
       37,
@@ -24044,7 +24121,7 @@
     "owned": false,
     "name": "Yuri Berchiche",
     "cardName": "Yuri Berchiche",
-    "sbcPrice": 7800,
+    "sbcPrice": 8300,
     "rolesPlus": [
       7,
       109
@@ -24103,7 +24180,7 @@
     "owned": false,
     "name": "Edin Džeko",
     "cardName": "Džeko",
-    "sbcPrice": 36750,
+    "sbcPrice": 34700,
     "rolesPlus": [
       44,
       141
@@ -24163,7 +24240,7 @@
     "owned": false,
     "name": "Reece James",
     "cardName": "James",
-    "sbcPrice": 59350,
+    "sbcPrice": 58100,
     "rolesPlus": [
       3,
       46,
@@ -24417,7 +24494,7 @@
     "owned": false,
     "name": "Marcos Llorente",
     "cardName": "Marcos Llorente",
-    "price": 430000,
+    "price": 429000,
     "rolesPlus": [
       4,
       18,
@@ -24549,7 +24626,7 @@
     "owned": false,
     "name": "Benjamin Pavard",
     "cardName": "Pavard",
-    "price": 108000,
+    "price": 114000,
     "rolesPlus": [
       11,
       13,
@@ -24845,7 +24922,7 @@
     "owned": false,
     "name": "Lena Oberdorf",
     "cardName": "Oberdorf",
-    "price": 28500,
+    "price": 28250,
     "rolesPlus": [
       49,
       114
@@ -25431,7 +25508,7 @@
     "owned": false,
     "name": "Jaden Philogene",
     "cardName": "Philogene",
-    "price": 17000,
+    "price": 18000,
     "rolesPlus": [
       23,
       127
@@ -25614,7 +25691,7 @@
     "owned": false,
     "name": "Erling Haaland",
     "cardName": "Haaland",
-    "price": 489000,
+    "price": 450000,
     "rolesPlus": [
       141
     ],
@@ -25671,7 +25748,7 @@
     "owned": false,
     "name": "Lucas Bergvall",
     "cardName": "Bergvall",
-    "price": 15750,
+    "price": 17250,
     "rolesPlus": [
       21,
       116
@@ -25931,7 +26008,7 @@
     "owned": false,
     "name": "Jang Seong Won",
     "cardName": "Jang Seong Won",
-    "price": 14250,
+    "price": 14750,
     "rolesPlus": [
       5,
       25,
@@ -26059,7 +26136,7 @@
     "owned": false,
     "name": "Iñigo Martínez",
     "cardName": "Iñigo Martínez",
-    "price": 26000,
+    "price": 24000,
     "rolesPlus": [
       11,
       113
@@ -26303,7 +26380,7 @@
     "owned": false,
     "name": "Luka Modrić",
     "cardName": "Modrić",
-    "price": 29500,
+    "price": 36750,
     "rolesPlus": [
       15,
       21,
@@ -26570,7 +26647,7 @@
     "owned": false,
     "name": "Kenan Yıldız",
     "cardName": "Yıldız",
-    "price": 39500,
+    "price": 40000,
     "rolesPlus": [
       30,
       33,
@@ -26762,7 +26839,7 @@
     "owned": false,
     "name": "Grimaldo",
     "cardName": "Grimaldo",
-    "price": 21000,
+    "price": 22500,
     "rolesPlus": [
       10,
       129
@@ -26942,7 +27019,7 @@
     "owned": false,
     "name": "Harry Kane",
     "cardName": "Kane",
-    "price": 104000,
+    "price": 103000,
     "rolesPlus": [
       141
     ],
@@ -26998,7 +27075,7 @@
     "owned": false,
     "name": "Mika Godts",
     "cardName": "Godts",
-    "price": 13750,
+    "price": 13000,
     "rolesPlus": [
       40,
       138
@@ -27190,7 +27267,7 @@
     "owned": false,
     "name": "Antoine Semenyo",
     "cardName": "Semenyo",
-    "price": 12500,
+    "price": 13500,
     "rolesPlus": [
       23,
       30,
@@ -27251,7 +27328,7 @@
     "owned": false,
     "name": "Nazareno Colombo",
     "cardName": "Colombo",
-    "price": 13000,
+    "price": 12000,
     "rolesPlus": [
       4,
       13,
@@ -27624,7 +27701,7 @@
     "owned": false,
     "name": "Melvine Malard",
     "cardName": "Malard",
-    "price": 17000,
+    "price": 16750,
     "rolesPlus": [
       30,
       39,
@@ -27926,7 +28003,7 @@
     "owned": false,
     "name": "André Gomes",
     "cardName": "André Gomes",
-    "price": 14750,
+    "price": 13500,
     "rolesPlus": [
       1,
       102
@@ -28341,7 +28418,7 @@
     "owned": false,
     "name": "Medina Dešić",
     "cardName": "Dešić",
-    "price": 12000,
+    "price": 12250,
     "rolesPlus": [
       41,
       144
@@ -28453,7 +28530,7 @@
     "owned": false,
     "name": "Zakaria Eddahchouri",
     "cardName": "Eddahchouri",
-    "price": 12250,
+    "price": 12000,
     "rolesPlus": [
       142
     ],
@@ -28509,7 +28586,7 @@
     "owned": false,
     "name": "Ronaldo",
     "cardName": "Ronaldo",
-    "price": 12500000,
+    "price": 12100000,
     "rolesPlus": [
       141
     ],
@@ -28572,7 +28649,7 @@
     "owned": false,
     "name": "Mia Hamm",
     "cardName": "Hamm",
-    "price": 7077000,
+    "price": 7106000,
     "rolesPlus": [
       32,
       136,
@@ -28638,7 +28715,7 @@
     "owned": false,
     "name": "Pelé",
     "cardName": "Pelé",
-    "price": 8100000,
+    "price": 5800000,
     "rolesPlus": [
       31,
       132,
@@ -28704,7 +28781,7 @@
     "owned": false,
     "name": "Franz Beckenbauer",
     "cardName": "Beckenbauer",
-    "price": 1450000,
+    "price": 2101000,
     "rolesPlus": [
       20,
       113,
@@ -28759,7 +28836,7 @@
     "owned": false,
     "name": "Gianluigi Buffon",
     "cardName": "Buffon",
-    "price": 590000,
+    "price": 600000,
     "rolesPlus": [
       101
     ],
@@ -28818,7 +28895,7 @@
     "owned": false,
     "name": "Carlos Alberto",
     "cardName": "Carlos Alberto",
-    "price": 1648000,
+    "price": 1575000,
     "rolesPlus": [
       103,
       113
@@ -28881,7 +28958,7 @@
     "owned": false,
     "name": "Paolo Maldini",
     "cardName": "Maldini",
-    "price": 2850000,
+    "price": 3622000,
     "rolesPlus": [
       11,
       107,
@@ -28944,7 +29021,7 @@
     "owned": false,
     "name": "Rio Ferdinand",
     "cardName": "Ferdinand",
-    "price": 1900000,
+    "price": 1659000,
     "rolesPlus": [
       13,
       111
@@ -29005,7 +29082,7 @@
     "owned": false,
     "name": "Lilian Thuram",
     "cardName": "Thuram",
-    "price": 2399000,
+    "price": 1837000,
     "rolesPlus": [
       103,
       148
@@ -29058,7 +29135,7 @@
     "owned": false,
     "name": "Lev Yashin",
     "cardName": "Yashin",
-    "price": 540000,
+    "price": 515000,
     "rolesPlus": [
       102
     ],
@@ -29111,7 +29188,7 @@
     "owned": false,
     "name": "Oliver Kahn",
     "cardName": "Kahn",
-    "price": 728000,
+    "price": 708000,
     "rolesPlus": [
       101
     ],
@@ -29164,7 +29241,7 @@
     "owned": false,
     "name": "Edwin van der Sar",
     "cardName": "van der Sar",
-    "price": 509000,
+    "price": 490000,
     "rolesPlus": [
       101
     ],
@@ -29222,7 +29299,7 @@
     "owned": false,
     "name": "Jaap Stam",
     "cardName": "Stam",
-    "price": 1719000,
+    "price": 1780000,
     "rolesPlus": [
       11,
       112
@@ -29277,7 +29354,7 @@
     "owned": false,
     "name": "Petr Čech",
     "cardName": "Čech",
-    "price": 345000,
+    "price": 350000,
     "rolesPlus": [
       101
     ],
@@ -29337,7 +29414,7 @@
     "owned": false,
     "name": "Giorgio Chiellini",
     "cardName": "Chiellini",
-    "price": 940000,
+    "price": 1150000,
     "rolesPlus": [
       48,
       111
@@ -29398,7 +29475,7 @@
     "owned": false,
     "name": "Thierry Henry",
     "cardName": "Henry",
-    "price": 2592000,
+    "price": 2470000,
     "rolesPlus": [
       139,
       141
@@ -29458,7 +29535,7 @@
     "owned": false,
     "name": "Garrincha",
     "cardName": "Garrincha",
-    "price": 1160000,
+    "price": 1180000,
     "rolesPlus": [
       126,
       136
@@ -29523,7 +29600,7 @@
     "owned": false,
     "name": "Diego Armando Maradona",
     "cardName": "Maradona",
-    "price": 14000000,
+    "price": 4350000,
     "rolesPlus": [
       31,
       32,
@@ -29582,7 +29659,7 @@
     "owned": false,
     "name": "Casillas",
     "cardName": "Casillas",
-    "price": 755000,
+    "price": 632000,
     "rolesPlus": [
       102
     ],
@@ -29638,7 +29715,7 @@
     "owned": false,
     "name": "Lúcio",
     "cardName": "Lúcio",
-    "price": 950000,
+    "price": 953000,
     "rolesPlus": [
       112
     ],
@@ -29700,7 +29777,7 @@
     "owned": false,
     "name": "Johan Cruyff",
     "cardName": "Cruyff",
-    "price": 4715000,
+    "price": 4799000,
     "rolesPlus": [
       31,
       132,
@@ -29765,7 +29842,7 @@
     "owned": false,
     "name": "Marcel Desailly",
     "cardName": "Desailly",
-    "price": 820000,
+    "price": 811000,
     "rolesPlus": [
       48,
       111,
@@ -29830,7 +29907,7 @@
     "owned": false,
     "name": "Homare Sawa",
     "cardName": "Sawa",
-    "price": 896000,
+    "price": 945000,
     "rolesPlus": [
       21,
       118,
@@ -29897,7 +29974,7 @@
     "owned": false,
     "name": "Ronaldinho",
     "cardName": "Ronaldinho",
-    "price": 5300000,
+    "price": 5299000,
     "rolesPlus": [
       29,
       134,
@@ -29958,7 +30035,7 @@
     "owned": false,
     "name": "Cafu",
     "cardName": "Cafu",
-    "price": 997000,
+    "price": 995000,
     "rolesPlus": [
       6,
       105
@@ -30020,7 +30097,7 @@
     "owned": false,
     "name": "Vincent Kompany",
     "cardName": "Kompany",
-    "price": 575000,
+    "price": 560000,
     "rolesPlus": [
       11,
       113
@@ -30085,7 +30162,7 @@
     "owned": false,
     "name": "Patrick Vieira",
     "cardName": "Vieira",
-    "price": 1575000,
+    "price": 1570000,
     "rolesPlus": [
       19,
       20,
@@ -30146,7 +30223,7 @@
     "owned": false,
     "name": "Peter Schmeichel",
     "cardName": "Schmeichel",
-    "price": 368000,
+    "price": 393000,
     "rolesPlus": [
       102
     ],
@@ -30208,7 +30285,7 @@
     "owned": false,
     "name": "Zinedine Zidane",
     "cardName": "Zidane",
-    "price": 3699000,
+    "price": 3570000,
     "rolesPlus": [
       34,
       121,
@@ -30273,7 +30350,7 @@
     "owned": false,
     "name": "Jairzinho",
     "cardName": "Jairzinho",
-    "price": 2321000,
+    "price": 2155000,
     "rolesPlus": [
       26,
       136,
@@ -30334,7 +30411,7 @@
     "owned": false,
     "name": "Eusébio",
     "cardName": "Eusébio",
-    "price": 3230000,
+    "price": 5132000,
     "rolesPlus": [
       41,
       143
@@ -30396,7 +30473,7 @@
     "owned": false,
     "name": "Laurent Blanc",
     "cardName": "Blanc",
-    "price": 765000,
+    "price": 800000,
     "rolesPlus": [
       11,
       113,
@@ -30462,7 +30539,7 @@
     "owned": false,
     "name": "Ramires",
     "cardName": "Ramires",
-    "price": 1200000,
+    "price": 740000,
     "rolesPlus": [
       24,
       49,
@@ -30522,7 +30599,7 @@
     "owned": false,
     "name": "Ledley King",
     "cardName": "King",
-    "price": 300000,
+    "price": 296000,
     "rolesPlus": [
       111
     ],
@@ -30583,7 +30660,7 @@
     "owned": false,
     "name": "Lothar Matthäus",
     "cardName": "Matthäus",
-    "price": 1990000,
+    "price": 1657000,
     "rolesPlus": [
       13,
       116,
@@ -30649,7 +30726,7 @@
     "owned": false,
     "name": "Claude Makélélé",
     "cardName": "Makélélé",
-    "price": 458000,
+    "price": 450000,
     "rolesPlus": [
       17,
       24,
@@ -30716,7 +30793,7 @@
     "owned": false,
     "name": "Alex Morgan",
     "cardName": "Morgan",
-    "price": 2850000,
+    "price": 2995000,
     "rolesPlus": [
       41,
       43,
@@ -30779,7 +30856,7 @@
     "owned": false,
     "name": "Eden Hazard",
     "cardName": "Hazard",
-    "price": 1299000,
+    "price": 1300000,
     "rolesPlus": [
       130,
       139
@@ -30844,7 +30921,7 @@
     "owned": false,
     "name": "Xavi",
     "cardName": "Xavi",
-    "price": 619000,
+    "price": 603000,
     "rolesPlus": [
       31,
       116,
@@ -30909,7 +30986,7 @@
     "owned": false,
     "name": "Blaise Matuidi",
     "cardName": "Matuidi",
-    "price": 534000,
+    "price": 555000,
     "rolesPlus": [
       17,
       18,
@@ -30969,7 +31046,7 @@
     "owned": false,
     "name": "Sol Campbell",
     "cardName": "Campbell",
-    "price": 428000,
+    "price": 399000,
     "rolesPlus": [
       111
     ],
@@ -31030,7 +31107,7 @@
     "owned": false,
     "name": "George Best",
     "cardName": "Best",
-    "price": 1000000,
+    "price": 1041000,
     "rolesPlus": [
       31,
       36,
@@ -31100,7 +31177,7 @@
     "owned": false,
     "name": "Gareth Bale",
     "cardName": "Bale",
-    "price": 2200000,
+    "price": 2052000,
     "rolesPlus": [
       35,
       41,
@@ -31169,7 +31246,7 @@
     "owned": false,
     "name": "Zé Roberto",
     "cardName": "Zé Roberto",
-    "price": 433000,
+    "price": 450000,
     "rolesPlus": [
       9,
       118,
@@ -31236,7 +31313,7 @@
     "owned": false,
     "name": "Zico",
     "cardName": "Zico",
-    "price": 5586000,
+    "price": 7000000,
     "rolesPlus": [
       31,
       32,
@@ -31300,7 +31377,7 @@
     "owned": false,
     "name": "Kenny Dalglish",
     "cardName": "Dalglish",
-    "price": 1563000,
+    "price": 1575000,
     "rolesPlus": [
       43,
       141
@@ -31364,7 +31441,7 @@
     "owned": false,
     "name": "Lotta Schelin",
     "cardName": "Schelin",
-    "price": 895000,
+    "price": 880000,
     "rolesPlus": [
       30,
       139,
@@ -31425,7 +31502,7 @@
     "owned": false,
     "name": "Ashley Cole",
     "cardName": "Cole",
-    "price": 289000,
+    "price": 277000,
     "rolesPlus": [
       107
     ],
@@ -31484,7 +31561,7 @@
     "owned": false,
     "name": "Samuel Eto'o",
     "cardName": "Eto'o",
-    "price": 2070000,
+    "price": 2020000,
     "rolesPlus": [
       42,
       141
@@ -31545,7 +31622,7 @@
     "owned": false,
     "name": "Gianluca Zambrotta",
     "cardName": "Zambrotta",
-    "price": 400000,
+    "price": 395000,
     "rolesPlus": [
       3,
       105,
@@ -31606,7 +31683,7 @@
     "owned": false,
     "name": "Alessandro Nesta",
     "cardName": "Nesta",
-    "price": 288000,
+    "price": 275000,
     "rolesPlus": [
       13,
       111
@@ -31665,7 +31742,7 @@
     "owned": false,
     "name": "Bixente Lizarazu",
     "cardName": "Lizarazu",
-    "price": 187000,
+    "price": 189000,
     "rolesPlus": [
       107
     ],
@@ -31725,7 +31802,7 @@
     "owned": false,
     "name": "Marek Hamšík",
     "cardName": "Hamšík",
-    "price": 408000,
+    "price": 401000,
     "rolesPlus": [
       31,
       118,
@@ -31790,7 +31867,7 @@
     "owned": false,
     "name": "Bobby Charlton",
     "cardName": "Charlton",
-    "price": 1585000,
+    "price": 1460000,
     "rolesPlus": [
       32,
       34,
@@ -31851,7 +31928,7 @@
     "owned": false,
     "name": "Nemanja Vidić",
     "cardName": "Vidić",
-    "price": 800000,
+    "price": 510000,
     "rolesPlus": [
       112
     ],
@@ -31914,7 +31991,7 @@
     "owned": false,
     "name": "Iniesta",
     "cardName": "Iniesta",
-    "price": 1401000,
+    "price": 1376000,
     "rolesPlus": [
       39,
       121,
@@ -31983,7 +32060,7 @@
     "owned": false,
     "name": "Yaya Touré",
     "cardName": "Touré",
-    "price": 860000,
+    "price": 966000,
     "rolesPlus": [
       14,
       16,
@@ -32054,7 +32131,7 @@
     "owned": false,
     "name": "Philipp Lahm",
     "cardName": "Lahm",
-    "price": 380000,
+    "price": 349000,
     "rolesPlus": [
       5,
       14,
@@ -32122,7 +32199,7 @@
     "owned": false,
     "name": "David Ginola",
     "cardName": "Ginola",
-    "price": 1800000,
+    "price": 1796000,
     "rolesPlus": [
       31,
       43,
@@ -32188,7 +32265,7 @@
     "owned": false,
     "name": "Camille Abily",
     "cardName": "Abily",
-    "price": 627000,
+    "price": 637000,
     "rolesPlus": [
       22,
       121,
@@ -32256,7 +32333,7 @@
     "owned": false,
     "name": "Frank Rijkaard",
     "cardName": "Rijkaard",
-    "price": 305000,
+    "price": 336000,
     "rolesPlus": [
       13,
       14,
@@ -32325,7 +32402,7 @@
     "owned": false,
     "name": "Ruud Gullit",
     "cardName": "Gullit",
-    "price": 4469000,
+    "price": 3789000,
     "rolesPlus": [
       41,
       118,
@@ -32386,7 +32463,7 @@
     "owned": false,
     "name": "Ferenc Puskás",
     "cardName": "Puskás",
-    "price": 1699000,
+    "price": 1820000,
     "rolesPlus": [
       141
     ],
@@ -32446,7 +32523,7 @@
     "owned": false,
     "name": "Fernando Hierro",
     "cardName": "Fernando Hierro",
-    "price": 181000,
+    "price": 177000,
     "rolesPlus": [
       13,
       111
@@ -32510,7 +32587,7 @@
     "owned": false,
     "name": "Claudio Marchisio",
     "cardName": "Marchisio",
-    "price": 268000,
+    "price": 275000,
     "rolesPlus": [
       20,
       27,
@@ -32577,7 +32654,7 @@
     "owned": false,
     "name": "Raúl",
     "cardName": "Raúl",
-    "price": 868000,
+    "price": 867000,
     "rolesPlus": [
       42,
       43,
@@ -32638,7 +32715,7 @@
     "owned": false,
     "name": "Marcelo",
     "cardName": "Marcelo",
-    "price": 765000,
+    "price": 775000,
     "rolesPlus": [
       10,
       109
@@ -32704,7 +32781,7 @@
     "owned": false,
     "name": "Luís Figo",
     "cardName": "Luís Figo",
-    "price": 364000,
+    "price": 375000,
     "rolesPlus": [
       33,
       37,
@@ -32768,7 +32845,7 @@
     "owned": false,
     "name": "Roberto Carlos",
     "cardName": "Roberto Carlos",
-    "price": 1009000,
+    "price": 1070000,
     "rolesPlus": [
       110
     ],
@@ -32829,7 +32906,7 @@
     "owned": false,
     "name": "Hristo Stoichkov",
     "cardName": "Stoichkov",
-    "price": 1194000,
+    "price": 1200000,
     "rolesPlus": [
       39,
       136,
@@ -32893,7 +32970,7 @@
     "owned": false,
     "name": "Antonio Di Natale",
     "cardName": "Di Natale",
-    "price": 1140000,
+    "price": 1095000,
     "rolesPlus": [
       40,
       41,
@@ -32958,7 +33035,7 @@
     "owned": false,
     "name": "Franck Ribéry",
     "cardName": "Ribéry",
-    "price": 1080000,
+    "price": 1010000,
     "rolesPlus": [
       30,
       129,
@@ -33023,7 +33100,7 @@
     "owned": false,
     "name": "Paulo Futre",
     "cardName": "Paulo Futre",
-    "price": 372000,
+    "price": 390000,
     "rolesPlus": [
       43,
       136,
@@ -33088,7 +33165,7 @@
     "owned": false,
     "name": "Caroline Seger",
     "cardName": "Seger",
-    "price": 260000,
+    "price": 269000,
     "rolesPlus": [
       20,
       114,
@@ -33149,7 +33226,7 @@
     "owned": false,
     "name": "Steffi Jones",
     "cardName": "Jones",
-    "price": 260000,
+    "price": 251000,
     "rolesPlus": [
       11,
       113
@@ -33211,7 +33288,7 @@
     "owned": false,
     "name": "Abedi Pelé",
     "cardName": "Abedi Pelé",
-    "price": 429000,
+    "price": 411000,
     "rolesPlus": [
       32,
       129,
@@ -33271,7 +33348,7 @@
     "owned": false,
     "name": "Iván Córdoba",
     "cardName": "Córdoba",
-    "price": 434000,
+    "price": 445000,
     "rolesPlus": [
       12,
       111
@@ -33326,7 +33403,7 @@
     "owned": false,
     "name": "Jerzy Dudek",
     "cardName": "Dudek",
-    "price": 51500,
+    "price": 59000,
     "rolesPlus": [
       101
     ],
@@ -33452,7 +33529,7 @@
     "owned": false,
     "name": "Ricardo Carvalho",
     "cardName": "Ricardo Carvalho",
-    "price": 212000,
+    "price": 222000,
     "rolesPlus": [
       11,
       112
@@ -33512,7 +33589,7 @@
     "owned": false,
     "name": "Emilio Butragueño",
     "cardName": "Emilio Butragueño",
-    "price": 1314000,
+    "price": 1259000,
     "rolesPlus": [
       142
     ],
@@ -33566,7 +33643,7 @@
     "owned": false,
     "name": "Tim Howard",
     "cardName": "Howard",
-    "price": 88500,
+    "price": 85000,
     "rolesPlus": [
       101
     ],
@@ -33626,7 +33703,7 @@
     "owned": false,
     "name": "Fabio Cannavaro",
     "cardName": "Cannavaro",
-    "price": 770000,
+    "price": 871000,
     "rolesPlus": [
       11,
       48,
@@ -33690,7 +33767,7 @@
     "owned": false,
     "name": "Maicon",
     "cardName": "Maicon",
-    "price": 420000,
+    "price": 404000,
     "rolesPlus": [
       5,
       46,
@@ -33753,7 +33830,7 @@
     "owned": false,
     "name": "Julie Foudy",
     "cardName": "Foudy",
-    "price": 242000,
+    "price": 234000,
     "rolesPlus": [
       116,
       118
@@ -33815,7 +33892,7 @@
     "owned": false,
     "name": "Alessandro Del Piero",
     "cardName": "Del Piero",
-    "price": 749000,
+    "price": 840000,
     "rolesPlus": [
       31,
       132,
@@ -33880,7 +33957,7 @@
     "owned": false,
     "name": "Harry Kewell",
     "cardName": "Kewell",
-    "price": 244000,
+    "price": 240000,
     "rolesPlus": [
       27,
       33,
@@ -33944,7 +34021,7 @@
     "owned": false,
     "name": "Bastian Schweinsteiger",
     "cardName": "Schweinsteiger",
-    "price": 185000,
+    "price": 193000,
     "rolesPlus": [
       22,
       118,
@@ -34012,7 +34089,7 @@
     "owned": false,
     "name": "Toni Kroos",
     "cardName": "Kroos",
-    "price": 439000,
+    "price": 408000,
     "rolesPlus": [
       21,
       31,
@@ -34080,7 +34157,7 @@
     "owned": false,
     "name": "Javier Zanetti",
     "cardName": "Zanetti",
-    "price": 248000,
+    "price": 255000,
     "rolesPlus": [
       18,
       105,
@@ -34145,7 +34222,7 @@
     "owned": false,
     "name": "Roy Keane",
     "cardName": "Keane",
-    "price": 92500,
+    "price": 96500,
     "rolesPlus": [
       19,
       114,
@@ -34206,7 +34283,7 @@
     "owned": false,
     "name": "Capdevila",
     "cardName": "Capdevila",
-    "price": 145000,
+    "price": 147000,
     "rolesPlus": [
       10,
       109
@@ -34267,7 +34344,7 @@
     "owned": false,
     "name": "Jürgen Kohler",
     "cardName": "Kohler",
-    "price": 78500,
+    "price": 79000,
     "rolesPlus": [
       48,
       112
@@ -34333,7 +34410,7 @@
     "owned": false,
     "name": "Emmanuel Petit",
     "cardName": "Petit",
-    "price": 330000,
+    "price": 333000,
     "rolesPlus": [
       9,
       17,
@@ -34401,7 +34478,7 @@
     "owned": false,
     "name": "Aya Miyama",
     "cardName": "Miyama",
-    "price": 302000,
+    "price": 297000,
     "rolesPlus": [
       21,
       29,
@@ -34469,7 +34546,7 @@
     "owned": false,
     "name": "Enzo Francescoli",
     "cardName": "Francescoli",
-    "price": 190000,
+    "price": 191000,
     "rolesPlus": [
       31,
       132,
@@ -34601,7 +34678,7 @@
     "owned": false,
     "name": "Steven Gerrard",
     "cardName": "Gerrard",
-    "price": 260000,
+    "price": 262000,
     "rolesPlus": [
       21,
       116,
@@ -34661,7 +34738,7 @@
     "owned": false,
     "name": "Sócrates",
     "cardName": "Sócrates",
-    "price": 520000,
+    "price": 538000,
     "rolesPlus": [
       131
     ],
@@ -34719,7 +34796,7 @@
     "owned": false,
     "name": "Saeed Al Owairan",
     "cardName": "Al Owairan",
-    "price": 259000,
+    "price": 250000,
     "rolesPlus": [
       32,
       43,
@@ -34782,7 +34859,7 @@
     "owned": false,
     "name": "Andrea Pirlo",
     "cardName": "Pirlo",
-    "price": 260000,
+    "price": 256000,
     "rolesPlus": [
       116,
       120
@@ -34841,7 +34918,7 @@
     "owned": false,
     "name": "Alex Scott",
     "cardName": "Scott",
-    "price": 65500,
+    "price": 68000,
     "rolesPlus": [
       5,
       106
@@ -34902,7 +34979,7 @@
     "owned": false,
     "name": "DaMarcus Beasley",
     "cardName": "Beasley",
-    "price": 36000,
+    "price": 38000,
     "rolesPlus": [
       9,
       38,
@@ -34967,7 +35044,7 @@
     "owned": false,
     "name": "Joe Cole",
     "cardName": "Cole",
-    "price": 120000,
+    "price": 124000,
     "rolesPlus": [
       33,
       137,
@@ -35029,7 +35106,7 @@
     "owned": false,
     "name": "Fernando Torres",
     "cardName": "Fernando Torres",
-    "price": 776000,
+    "price": 778000,
     "rolesPlus": [
       142
     ],
@@ -35091,7 +35168,7 @@
     "owned": false,
     "name": "Francesco Totti",
     "cardName": "Totti",
-    "price": 2199000,
+    "price": 1294000,
     "rolesPlus": [
       41,
       131,
@@ -35156,7 +35233,7 @@
     "owned": false,
     "name": "Gervinho",
     "cardName": "Gervinho",
-    "price": 193000,
+    "price": 194000,
     "rolesPlus": [
       27,
       39,
@@ -35222,7 +35299,7 @@
     "owned": false,
     "name": "Sonia Bompastor",
     "cardName": "Bompastor",
-    "price": 86000,
+    "price": 93000,
     "rolesPlus": [
       110,
       127
@@ -35285,7 +35362,7 @@
     "owned": false,
     "name": "Rafael Márquez",
     "cardName": "Márquez",
-    "price": 92000,
+    "price": 101000,
     "rolesPlus": [
       13,
       112,
@@ -35351,7 +35428,7 @@
     "owned": false,
     "name": "John Barnes",
     "cardName": "Barnes",
-    "price": 300000,
+    "price": 279000,
     "rolesPlus": [
       27,
       133,
@@ -35410,7 +35487,7 @@
     "owned": false,
     "name": "Laura Georges",
     "cardName": "Georges",
-    "price": 155000,
+    "price": 157000,
     "rolesPlus": [
       112
     ],
@@ -35468,7 +35545,7 @@
     "owned": false,
     "name": "Nadine Keßler",
     "cardName": "Keßler",
-    "price": 50000,
+    "price": 52000,
     "rolesPlus": [
       121,
       131
@@ -35532,7 +35609,7 @@
     "owned": false,
     "name": "Rivaldo",
     "cardName": "Rivaldo",
-    "price": 500000,
+    "price": 520000,
     "rolesPlus": [
       30,
       132,
@@ -35595,7 +35672,7 @@
     "owned": false,
     "name": "Roberto Baggio",
     "cardName": "Baggio",
-    "price": 340000,
+    "price": 324000,
     "rolesPlus": [
       31,
       132
@@ -35656,7 +35733,7 @@
     "owned": false,
     "name": "Gennaro Gattuso",
     "cardName": "Gattuso",
-    "price": 98000,
+    "price": 94000,
     "rolesPlus": [
       17,
       114,
@@ -35720,7 +35797,7 @@
     "owned": false,
     "name": "Cha Bum Kun",
     "cardName": "Cha Bum Kun",
-    "price": 506000,
+    "price": 510000,
     "rolesPlus": [
       136,
       141
@@ -35782,7 +35859,7 @@
     "owned": false,
     "name": "Tomas Brolin",
     "cardName": "Brolin",
-    "price": 151000,
+    "price": 149000,
     "rolesPlus": [
       31,
       37,
@@ -35845,7 +35922,7 @@
     "owned": false,
     "name": "Dennis Bergkamp",
     "cardName": "Bergkamp",
-    "price": 305000,
+    "price": 295000,
     "rolesPlus": [
       132,
       141
@@ -35903,7 +35980,7 @@
     "owned": false,
     "name": "Kelly Smith",
     "cardName": "Smith",
-    "price": 517000,
+    "price": 483000,
     "rolesPlus": [
       141
     ],
@@ -35961,7 +36038,7 @@
     "owned": false,
     "name": "Robin van Persie",
     "cardName": "van Persie",
-    "price": 397000,
+    "price": 391000,
     "rolesPlus": [
       141
     ],
@@ -36021,7 +36098,7 @@
     "owned": false,
     "name": "Gianfranco Zola",
     "cardName": "Zola",
-    "price": 590000,
+    "price": 565000,
     "rolesPlus": [
       31,
       132,
@@ -36084,7 +36161,7 @@
     "owned": false,
     "name": "Javier Mascherano",
     "cardName": "Mascherano",
-    "price": 95000,
+    "price": 94000,
     "rolesPlus": [
       12,
       113,
@@ -36146,7 +36223,7 @@
     "owned": false,
     "name": "Fara Williams",
     "cardName": "Williams",
-    "price": 33000,
+    "price": 37250,
     "rolesPlus": [
       116,
       121
@@ -36205,7 +36282,7 @@
     "owned": false,
     "name": "Kaká",
     "cardName": "Kaká",
-    "price": 1075000,
+    "price": 1055000,
     "rolesPlus": [
       32,
       131
@@ -36265,7 +36342,7 @@
     "owned": false,
     "name": "Marinette Pichon",
     "cardName": "Pichon",
-    "price": 286000,
+    "price": 290000,
     "rolesPlus": [
       141
     ],
@@ -36325,7 +36402,7 @@
     "owned": false,
     "name": "Zlatan Ibrahimović",
     "cardName": "Ibrahimović",
-    "price": 3360000,
+    "price": 3700000,
     "rolesPlus": [
       44,
       141
@@ -36388,7 +36465,7 @@
     "owned": false,
     "name": "Jay-Jay Okocha",
     "cardName": "Okocha",
-    "price": 355000,
+    "price": 347000,
     "rolesPlus": [
       34,
       43,
@@ -36453,7 +36530,7 @@
     "owned": false,
     "name": "Jamie Carragher",
     "cardName": "Carragher",
-    "price": 41000,
+    "price": 40500,
     "rolesPlus": [
       7,
       103,
@@ -36516,7 +36593,7 @@
     "owned": false,
     "name": "Didier Drogba",
     "cardName": "Drogba",
-    "price": 700000,
+    "price": 710000,
     "rolesPlus": [
       41,
       144
@@ -36575,7 +36652,7 @@
     "owned": false,
     "name": "Franco Baresi",
     "cardName": "Baresi",
-    "price": 208000,
+    "price": 197000,
     "rolesPlus": [
       13,
       111
@@ -36633,7 +36710,7 @@
     "owned": false,
     "name": "Bobby Moore",
     "cardName": "Moore",
-    "price": 154000,
+    "price": 155000,
     "rolesPlus": [
       111
     ],
@@ -36696,7 +36773,7 @@
     "owned": false,
     "name": "Frank Lampard",
     "cardName": "Lampard",
-    "price": 180000,
+    "price": 193000,
     "rolesPlus": [
       31,
       118,
@@ -36762,7 +36839,7 @@
     "owned": false,
     "name": "Carles Puyol",
     "cardName": "Carles Puyol",
-    "price": 285000,
+    "price": 282000,
     "rolesPlus": [
       11,
       103,
@@ -36826,7 +36903,7 @@
     "owned": false,
     "name": "Eric Cantona",
     "cardName": "Cantona",
-    "price": 989000,
+    "price": 930000,
     "rolesPlus": [
       41,
       143
@@ -36881,7 +36958,7 @@
     "owned": false,
     "name": "Nadine Angerer",
     "cardName": "Angerer",
-    "price": 160000,
+    "price": 150000,
     "rolesPlus": [
       102
     ],
@@ -36941,7 +37018,7 @@
     "owned": false,
     "name": "Ludovic Giuly",
     "cardName": "Giuly",
-    "price": 44500,
+    "price": 49500,
     "rolesPlus": [
       126,
       136
@@ -37001,7 +37078,7 @@
     "owned": false,
     "name": "Włodzimierz Smolarek",
     "cardName": "Smolarek",
-    "price": 199000,
+    "price": 196000,
     "rolesPlus": [
       39,
       42,
@@ -37065,7 +37142,7 @@
     "owned": false,
     "name": "Xabi Alonso",
     "cardName": "Xabi Alonso",
-    "price": 120000,
+    "price": 128000,
     "rolesPlus": [
       14,
       116,
@@ -37187,7 +37264,7 @@
     "owned": false,
     "name": "Sissi",
     "cardName": "Sissi",
-    "price": 280000,
+    "price": 282000,
     "rolesPlus": [
       32,
       131
@@ -37250,7 +37327,7 @@
     "owned": false,
     "name": "Freddie Ljungberg",
     "cardName": "Ljungberg",
-    "price": 42000,
+    "price": 41000,
     "rolesPlus": [
       40,
       125,
@@ -37314,7 +37391,7 @@
     "owned": false,
     "name": "Rudi Völler",
     "cardName": "Völler",
-    "price": 390000,
+    "price": 373000,
     "rolesPlus": [
       41,
       142
@@ -37374,7 +37451,7 @@
     "owned": false,
     "name": "Michael Laudrup",
     "cardName": "Laudrup",
-    "price": 118000,
+    "price": 113000,
     "rolesPlus": [
       131,
       140
@@ -37433,7 +37510,7 @@
     "owned": false,
     "name": "Robbie Keane",
     "cardName": "Keane",
-    "price": 179000,
+    "price": 182000,
     "rolesPlus": [
       43,
       141
@@ -37552,7 +37629,7 @@
     "owned": false,
     "name": "Gerd Müller",
     "cardName": "Müller",
-    "price": 592000,
+    "price": 610000,
     "rolesPlus": [
       41,
       142
@@ -37610,7 +37687,7 @@
     "owned": false,
     "name": "Ronald Koeman",
     "cardName": "Koeman",
-    "price": 187000,
+    "price": 189000,
     "rolesPlus": [
       113
     ],
@@ -37664,7 +37741,7 @@
     "owned": false,
     "name": "Seydou Doumbia",
     "cardName": "Doumbia",
-    "price": 249000,
+    "price": 238000,
     "rolesPlus": [
       141
     ],
@@ -37721,7 +37798,7 @@
     "owned": false,
     "name": "Michael Owen",
     "cardName": "Owen",
-    "price": 260000,
+    "price": 270000,
     "rolesPlus": [
       41,
       142
@@ -37783,7 +37860,7 @@
     "owned": false,
     "name": "John Arne Riise",
     "cardName": "Riise",
-    "price": 74000,
+    "price": 79500,
     "rolesPlus": [
       7,
       47,
@@ -37850,7 +37927,7 @@
     "owned": false,
     "name": "Robert Pirès",
     "cardName": "Pirès",
-    "price": 115000,
+    "price": 119000,
     "rolesPlus": [
       32,
       125,
@@ -37914,7 +37991,7 @@
     "owned": false,
     "name": "Landon Donovan",
     "cardName": "Donovan",
-    "price": 31500,
+    "price": 34750,
     "rolesPlus": [
       25,
       43,
@@ -37977,7 +38054,7 @@
     "owned": false,
     "name": "Diego Forlán",
     "cardName": "Forlán",
-    "price": 176000,
+    "price": 175000,
     "rolesPlus": [
       39,
       43,
@@ -38039,7 +38116,7 @@
     "owned": false,
     "name": "Hugo Sánchez",
     "cardName": "Sánchez",
-    "price": 394000,
+    "price": 371000,
     "rolesPlus": [
       141
     ],
@@ -38101,7 +38178,7 @@
     "owned": false,
     "name": "Wayne Rooney",
     "cardName": "Rooney",
-    "price": 675000,
+    "price": 685000,
     "rolesPlus": [
       43,
       132,
@@ -38162,7 +38239,7 @@
     "owned": false,
     "name": "Sidney Govou",
     "cardName": "Govou",
-    "price": 244000,
+    "price": 239000,
     "rolesPlus": [
       23,
       141
@@ -38221,7 +38298,7 @@
     "owned": false,
     "name": "Andriy Shevchenko",
     "cardName": "Shevchenko",
-    "price": 181000,
+    "price": 185000,
     "rolesPlus": [
       136,
       141
@@ -38347,7 +38424,7 @@
     "owned": false,
     "name": "Davor Šuker",
     "cardName": "Šuker",
-    "price": 97000,
+    "price": 98000,
     "rolesPlus": [
       141
     ],
@@ -38409,7 +38486,7 @@
     "owned": false,
     "name": "Park Ji Sung",
     "cardName": "Park Ji Sung",
-    "price": 40500,
+    "price": 42250,
     "rolesPlus": [
       28,
       33,
@@ -38472,7 +38549,7 @@
     "owned": false,
     "name": "Marco van Basten",
     "cardName": "van Basten",
-    "price": 267000,
+    "price": 270000,
     "rolesPlus": [
       142
     ],
@@ -38530,7 +38607,7 @@
     "owned": false,
     "name": "Carlos Tévez",
     "cardName": "Tévez",
-    "price": 342000,
+    "price": 339000,
     "rolesPlus": [
       132,
       141
@@ -38590,7 +38667,7 @@
     "owned": false,
     "name": "Patrick Kluivert",
     "cardName": "Kluivert",
-    "price": 73000,
+    "price": 76500,
     "rolesPlus": [
       42,
       141
@@ -38646,7 +38723,7 @@
     "owned": false,
     "name": "Ole Gunnar Solskjær",
     "cardName": "Solskjær",
-    "price": 46000,
+    "price": 51000,
     "rolesPlus": [
       142
     ],
@@ -38708,7 +38785,7 @@
     "owned": false,
     "name": "Gheorghe Hagi",
     "cardName": "Hagi",
-    "price": 192000,
+    "price": 189000,
     "rolesPlus": [
       29,
       121,
@@ -38772,7 +38849,7 @@
     "owned": false,
     "name": "Juan Sebastián Verón",
     "cardName": "Verón",
-    "price": 74000,
+    "price": 74500,
     "rolesPlus": [
       18,
       121,
@@ -38830,7 +38907,7 @@
     "owned": false,
     "name": "Sami Al Jaber",
     "cardName": "Al Jaber",
-    "price": 21500,
+    "price": 20750,
     "rolesPlus": [
       141
     ],
@@ -38890,7 +38967,7 @@
     "owned": false,
     "name": "Paul Scholes",
     "cardName": "Scholes",
-    "price": 103000,
+    "price": 116000,
     "rolesPlus": [
       121,
       131
@@ -38949,7 +39026,7 @@
     "owned": false,
     "name": "Luis Hernández",
     "cardName": "Hernández",
-    "price": 110000,
+    "price": 106000,
     "rolesPlus": [
       142
     ],
@@ -39006,7 +39083,7 @@
     "owned": false,
     "name": "Hidetoshi Nakata",
     "cardName": "Nakata",
-    "price": 53500,
+    "price": 64000,
     "rolesPlus": [
       121,
       131
@@ -39067,7 +39144,7 @@
     "owned": false,
     "name": "Víctor Ibarbo",
     "cardName": "Ibarbo",
-    "price": 166000,
+    "price": 168000,
     "rolesPlus": [
       26,
       41,
@@ -39131,7 +39208,7 @@
     "owned": false,
     "name": "Guti",
     "cardName": "Guti",
-    "price": 48000,
+    "price": 55000,
     "rolesPlus": [
       22,
       121,
@@ -39192,7 +39269,7 @@
     "owned": false,
     "name": "Ian Rush",
     "cardName": "Rush",
-    "price": 74000,
+    "price": 77000,
     "rolesPlus": [
       142
     ],
@@ -39252,7 +39329,7 @@
     "owned": false,
     "name": "Steve McManaman",
     "cardName": "McManaman",
-    "price": 46000,
+    "price": 47250,
     "rolesPlus": [
       29,
       31,
@@ -39314,7 +39391,7 @@
     "owned": false,
     "name": "Ruud van Nistelrooy",
     "cardName": "van Nistelrooy",
-    "price": 121000,
+    "price": 124000,
     "rolesPlus": [
       142
     ],
@@ -39376,7 +39453,7 @@
     "owned": false,
     "name": "Tomáš Rosický",
     "cardName": "Rosický",
-    "price": 32500,
+    "price": 36250,
     "rolesPlus": [
       21,
       25,
@@ -39442,7 +39519,7 @@
     "owned": false,
     "name": "Dirk Kuyt",
     "cardName": "Kuyt",
-    "price": 23750,
+    "price": 23500,
     "rolesPlus": [
       22,
       132,
@@ -39562,7 +39639,7 @@
     "owned": false,
     "name": "Miroslav Klose",
     "cardName": "Klose",
-    "price": 149000,
+    "price": 136000,
     "rolesPlus": [
       142
     ],
@@ -39626,7 +39703,7 @@
     "owned": false,
     "name": "David Beckham",
     "cardName": "Beckham",
-    "price": 320000,
+    "price": 331000,
     "rolesPlus": [
       24,
       35,
@@ -39687,7 +39764,7 @@
     "owned": false,
     "name": "Mario Gomez",
     "cardName": "Gomez",
-    "price": 38000,
+    "price": 40000,
     "rolesPlus": [
       144
     ],
@@ -39744,7 +39821,7 @@
     "owned": false,
     "name": "Jean-Pierre Papin",
     "cardName": "Papin",
-    "price": 72500,
+    "price": 71500,
     "rolesPlus": [
       44,
       141
@@ -39805,7 +39882,7 @@
     "owned": false,
     "name": "Jari Litmanen",
     "cardName": "Litmanen",
-    "price": 24500,
+    "price": 28750,
     "rolesPlus": [
       18,
       32,
@@ -39864,7 +39941,7 @@
     "owned": false,
     "name": "Gary Lineker",
     "cardName": "Lineker",
-    "price": 105000,
+    "price": 99500,
     "rolesPlus": [
       142
     ],
@@ -39919,7 +39996,7 @@
     "owned": false,
     "name": "Ian Wright",
     "cardName": "Wright",
-    "price": 114000,
+    "price": 115000,
     "rolesPlus": [
       142
     ],
@@ -39976,7 +40053,7 @@
     "owned": false,
     "name": "Hernán Crespo",
     "cardName": "Crespo",
-    "price": 83500,
+    "price": 80000,
     "rolesPlus": [
       44,
       142
@@ -40035,7 +40112,7 @@
     "owned": false,
     "name": "Mohammed Noor",
     "cardName": "Noor",
-    "price": 15500,
+    "price": 14750,
     "rolesPlus": [
       121,
       131
@@ -40097,7 +40174,7 @@
     "owned": false,
     "name": "Juan Román Riquelme",
     "cardName": "Riquelme",
-    "price": 90500,
+    "price": 92000,
     "rolesPlus": [
       31,
       134
@@ -40154,7 +40231,7 @@
     "owned": false,
     "name": "Henrik Larsson",
     "cardName": "Larsson",
-    "price": 81500,
+    "price": 82000,
     "rolesPlus": [
       141
     ],
@@ -40209,7 +40286,7 @@
     "owned": false,
     "name": "Gianluca Vialli",
     "cardName": "Vialli",
-    "price": 53000,
+    "price": 56500,
     "rolesPlus": [
       141
     ],
@@ -40266,7 +40343,7 @@
     "owned": false,
     "name": "Clint Dempsey",
     "cardName": "Dempsey",
-    "price": 14000,
+    "price": 14750,
     "rolesPlus": [
       31,
       40,
@@ -40326,7 +40403,7 @@
     "owned": false,
     "name": "Nwankwo Kanu",
     "cardName": "Kanu",
-    "price": 15750,
+    "price": 18750,
     "rolesPlus": [
       143
     ],
@@ -40383,7 +40460,7 @@
     "owned": false,
     "name": "Dimitar Berbatov",
     "cardName": "Berbatov",
-    "price": 25000,
+    "price": 28000,
     "rolesPlus": [
       41,
       142
@@ -40441,7 +40518,7 @@
     "owned": false,
     "name": "Birgit Prinz",
     "cardName": "Prinz",
-    "price": 134000,
+    "price": 125000,
     "rolesPlus": [
       144
     ],
@@ -40494,7 +40571,7 @@
     "owned": false,
     "name": "Jorge Campos",
     "cardName": "Campos",
-    "price": 29000,
+    "price": 33250,
     "rolesPlus": [
       145
     ],
@@ -40550,7 +40627,7 @@
     "owned": false,
     "name": "Celia Šašić",
     "cardName": "Šašić",
-    "price": 29750,
+    "price": 31000,
     "rolesPlus": [
       144
     ],
@@ -40607,7 +40684,7 @@
     "owned": false,
     "name": "Alan Shearer",
     "cardName": "Shearer",
-    "price": 103000,
+    "price": 100000,
     "rolesPlus": [
       41,
       144
@@ -40670,7 +40747,7 @@
     "owned": false,
     "name": "Tim Cahill",
     "cardName": "Cahill",
-    "price": 17250,
+    "price": 17000,
     "rolesPlus": [
       18,
       44,
@@ -40731,7 +40808,7 @@
     "owned": false,
     "name": "Peter Crouch",
     "cardName": "Crouch",
-    "price": 19750,
+    "price": 20500,
     "rolesPlus": [
       144
     ],
