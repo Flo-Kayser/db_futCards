@@ -284,7 +284,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 218339,
       "assetId": 218339
     },
@@ -371,7 +371,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 650,
       "resourceId": 227370,
       "assetId": 227370
     },
@@ -416,7 +416,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 232639,
       "assetId": 232639
     },
@@ -502,7 +502,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 234573,
       "assetId": 234573
     },
@@ -546,48 +546,9 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 600,
       "resourceId": 236532,
       "assetId": 236532
-    },
-    "244257": {
-      "name": "Jonathan Burkardt",
-      "cardName": "Burkardt",
-      "originalVersionId": "1",
-      "clubId": 1824,
-      "leagueId": 19,
-      "countryId": 21,
-      "versionId": "3002",
-      "rating": 82,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        44
-      ],
-      "rolesPlusPlus": [
-        44
-      ],
-      "attributes": [
-        83,
-        82,
-        67,
-        81,
-        44,
-        76
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 244257,
-      "assetId": 244257
     },
     "248573": {
       "name": "Junior Dina Ebimbe",
@@ -723,7 +684,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 6700,
+      "price": 6100,
       "resourceId": 256500,
       "assetId": 256500
     },
@@ -763,7 +724,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 256658,
       "assetId": 256658
     },
@@ -903,7 +864,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 850,
       "resourceId": 260407,
       "assetId": 260407
     },
@@ -991,7 +952,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 268896,
       "assetId": 268896
     },
@@ -1078,7 +1039,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 269701,
       "assetId": 269701
     },
@@ -1170,7 +1131,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 300,
       "resourceId": 270846,
       "assetId": 270846
     },
@@ -1247,7 +1208,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 400,
       "resourceId": 277929,
       "assetId": 277929
     },
@@ -1287,9 +1248,54 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 278228,
       "assetId": 278228
+    },
+    "50575905": {
+      "name": "Jonathan Burkardt",
+      "cardName": "Burkardt",
+      "originalVersionId": "42",
+      "clubId": 1824,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "42",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        22,
+        25,
+        4,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        44,
+        141
+      ],
+      "rolesPlusPlus": [
+        44,
+        141
+      ],
+      "attributes": [
+        87,
+        86,
+        78,
+        85,
+        51,
+        83
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 37750,
+      "resourceId": 50575905,
+      "assetId": 244257
     },
     "67378592": {
       "name": "Jean-Mattéo Bahoya",
@@ -1317,27 +1323,41 @@
       ],
       "playStylesPlus": [],
       "rolesPlus": [
+        27,
+        28,
         29,
+        30,
+        31,
         33,
+        34,
+        38,
+        39,
         40,
         132
       ],
       "rolesPlusPlus": [
+        27,
+        28,
         29,
+        30,
+        31,
         33,
+        34,
+        38,
+        39,
         40,
         132
       ],
       "attributes": [
         96,
         80,
-        81,
+        99,
         83,
         60,
         70
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 32500,
+      "sbcPrice": 32250,
       "resourceId": 67378592,
       "assetId": 269728
     },
@@ -1387,7 +1407,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 40300,
+      "sbcPrice": 42950,
       "resourceId": 67384192,
       "assetId": 275328
     }

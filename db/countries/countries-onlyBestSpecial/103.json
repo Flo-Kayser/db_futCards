@@ -42,54 +42,9 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 2020000,
+    "price": 1950000,
     "resourceId": 9676,
     "assetId": 9676
-  },
-  "50558884": {
-    "name": "André-Franck Zambo Anguissa",
-    "cardName": "Zambo Anguissa",
-    "originalVersionId": "3",
-    "clubId": 48,
-    "leagueId": 31,
-    "countryId": 103,
-    "versionId": "3",
-    "rating": 84,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [
-      19,
-      24,
-      26,
-      4
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      21,
-      119
-    ],
-    "rolesPlusPlus": [
-      21,
-      119
-    ],
-    "attributes": [
-      78,
-      79,
-      78,
-      81,
-      81,
-      87
-    ],
-    "hasDynamicImage": true,
-    "price": 12000,
-    "resourceId": 50558884,
-    "assetId": 227236
   },
   "50574662": {
     "name": "Bryan Mbeumo",
@@ -121,16 +76,26 @@
     ],
     "rolesPlus": [
       23,
+      24,
+      25,
       35,
+      37,
       41,
+      43,
+      44,
       126,
       136,
       142
     ],
     "rolesPlusPlus": [
       23,
+      24,
+      25,
       35,
+      37,
       41,
+      43,
+      44,
       126,
       136,
       142
@@ -139,13 +104,65 @@
       89,
       87,
       81,
-      86,
+      99,
       51,
       78
     ],
     "hasDynamicImage": true,
-    "price": 207000,
+    "price": 145000,
     "resourceId": 50574662,
     "assetId": 243014
+  },
+  "67336100": {
+    "name": "André-Franck Zambo Anguissa",
+    "cardName": "Zambo Anguissa",
+    "originalVersionId": "114",
+    "clubId": 48,
+    "leagueId": 31,
+    "countryId": 103,
+    "versionId": "114",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      16,
+      19,
+      24,
+      26,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      14,
+      21,
+      31,
+      119
+    ],
+    "rolesPlusPlus": [
+      14,
+      21,
+      31,
+      119
+    ],
+    "attributes": [
+      80,
+      81,
+      81,
+      83,
+      83,
+      89
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 83950,
+    "price": 75150,
+    "resourceId": 67336100,
+    "assetId": 227236
   }
 }

@@ -1,6 +1,57 @@
 {
   "clubName": "Lombardia FC",
   "players": {
+    "50539776": {
+      "name": "Hakan Çalhanoğlu",
+      "cardName": "Çalhanoğlu",
+      "originalVersionId": "3",
+      "clubId": 131682,
+      "leagueId": 31,
+      "countryId": 48,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        2,
+        20,
+        22,
+        26,
+        3
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        15,
+        116,
+        120
+      ],
+      "rolesPlusPlus": [
+        15,
+        116,
+        120
+      ],
+      "attributes": [
+        77,
+        82,
+        88,
+        83,
+        83,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 36000,
+      "resourceId": 50539776,
+      "assetId": 208128
+    },
     "50564744": {
       "name": "Denzel Dumfries",
       "cardName": "Dumfries",
@@ -49,7 +100,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 63500,
+      "price": 56500,
       "resourceId": 50564744,
       "assetId": 233096
     },
@@ -101,6 +152,7 @@
         86,
         81
       ],
+      "isObjective": true,
       "hasDynamicImage": true,
       "price": 0,
       "resourceId": 50590296,
@@ -148,7 +200,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 14250,
       "resourceId": 50591213,
       "assetId": 259565
     }

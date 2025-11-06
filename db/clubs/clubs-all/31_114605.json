@@ -2,6 +2,66 @@
   {
     "clubId": 114605,
     "leagueId": 31,
+    "countryId": 43,
+    "versionId": "168",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      2,
+      24,
+      26
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      20,
+      21,
+      22,
+      31,
+      32,
+      34,
+      118,
+      119,
+      133
+    ],
+    "rolesPlusPlus": [
+      20,
+      21,
+      22,
+      31,
+      32,
+      34,
+      118,
+      119,
+      133
+    ],
+    "attributes": [
+      84,
+      88,
+      88,
+      87,
+      99,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 927000,
+    "resourceId": 50503525,
+    "assetId": 171877,
+    "name": "Marek Hamšík",
+    "cardName": "Hamšík"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 31,
     "countryId": 27,
     "versionId": "168",
     "rating": 88,
@@ -25,21 +85,39 @@
       16
     ],
     "rolesPlus": [
+      14,
+      15,
+      17,
+      19,
+      21,
+      22,
       27,
+      28,
+      29,
+      30,
       49,
       116,
       118,
       120
     ],
     "rolesPlusPlus": [
+      14,
+      15,
+      17,
+      19,
+      21,
+      22,
       27,
+      28,
+      29,
+      30,
       49,
       116,
       118,
       120
     ],
     "attributes": [
-      83,
+      99,
       82,
       86,
       87,
@@ -47,11 +125,76 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 517000,
+    "price": 454000,
     "resourceId": 50504858,
     "assetId": 173210,
     "name": "Claudio Marchisio",
     "cardName": "Marchisio"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "168",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      5,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      28,
+      29,
+      30,
+      39,
+      40,
+      41,
+      42,
+      44,
+      127,
+      138,
+      143
+    ],
+    "rolesPlusPlus": [
+      28,
+      29,
+      30,
+      39,
+      40,
+      41,
+      42,
+      44,
+      127,
+      138,
+      143
+    ],
+    "attributes": [
+      99,
+      92,
+      87,
+      91,
+      50,
+      72
+    ],
+    "hasDynamicImage": true,
+    "price": 1590000,
+    "resourceId": 50451922,
+    "assetId": 120274,
+    "name": "Antonio Di Natale",
+    "cardName": "Di Natale"
   },
   {
     "clubId": 114605,
@@ -82,8 +225,17 @@
       25
     ],
     "rolesPlus": [
+      18,
+      19,
+      20,
+      22,
+      28,
       29,
+      30,
+      32,
       33,
+      34,
+      39,
       40,
       121,
       127,
@@ -91,8 +243,17 @@
       138
     ],
     "rolesPlusPlus": [
+      18,
+      19,
+      20,
+      22,
+      28,
       29,
+      30,
+      32,
       33,
+      34,
+      39,
       40,
       121,
       127,
@@ -103,123 +264,16 @@
       85,
       85,
       91,
-      87,
+      99,
       55,
       76
     ],
     "hasDynamicImage": true,
-    "price": 528000,
+    "price": 484000,
     "resourceId": 50606398,
     "assetId": 274750,
     "name": "Wesley Sneijder",
     "cardName": "Sneijder"
-  },
-  {
-    "clubId": 114605,
-    "leagueId": 31,
-    "countryId": 43,
-    "versionId": "168",
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [
-      10,
-      2,
-      24,
-      26
-    ],
-    "playStylesPlus": [
-      8
-    ],
-    "rolesPlus": [
-      21,
-      31,
-      118,
-      119,
-      133
-    ],
-    "rolesPlusPlus": [
-      21,
-      31,
-      118,
-      119,
-      133
-    ],
-    "attributes": [
-      84,
-      88,
-      88,
-      87,
-      80,
-      84
-    ],
-    "hasDynamicImage": true,
-    "price": 912000,
-    "resourceId": 50503525,
-    "assetId": 171877,
-    "name": "Marek Hamšík",
-    "cardName": "Hamšík"
-  },
-  {
-    "clubId": 114605,
-    "leagueId": 31,
-    "countryId": 27,
-    "versionId": "168",
-    "rating": 89,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "ST"
-    ],
-    "playStyles": [
-      1,
-      5,
-      7,
-      9
-    ],
-    "playStylesPlus": [
-      0
-    ],
-    "rolesPlus": [
-      29,
-      40,
-      41,
-      127,
-      138,
-      143
-    ],
-    "rolesPlusPlus": [
-      29,
-      40,
-      41,
-      127,
-      138,
-      143
-    ],
-    "attributes": [
-      91,
-      92,
-      87,
-      91,
-      50,
-      72
-    ],
-    "hasDynamicImage": true,
-    "price": 1534000,
-    "resourceId": 50451922,
-    "assetId": 120274,
-    "name": "Antonio Di Natale",
-    "cardName": "Di Natale"
   },
   {
     "clubId": 114605,
@@ -258,7 +312,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 953000,
+    "price": 975000,
     "resourceId": 266690,
     "assetId": 266690,
     "name": "Lúcio",
@@ -306,7 +360,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 401000,
+    "price": 382000,
     "resourceId": 171877,
     "assetId": 171877,
     "name": "Marek Hamšík",
@@ -357,7 +411,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 275000,
+    "price": 260000,
     "resourceId": 173210,
     "assetId": 173210,
     "name": "Claudio Marchisio",
@@ -405,7 +459,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 1095000,
+    "price": 1070000,
     "resourceId": 120274,
     "assetId": 120274,
     "name": "Antonio Di Natale",
@@ -448,7 +502,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 445000,
+    "price": 450000,
     "resourceId": 16619,
     "assetId": 16619,
     "name": "Iván Córdoba",
@@ -497,7 +551,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 404000,
+    "price": 377000,
     "resourceId": 135455,
     "assetId": 135455,
     "name": "Maicon",
@@ -548,7 +602,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 320000,
+    "price": 315000,
     "resourceId": 274750,
     "assetId": 274750,
     "name": "Wesley Sneijder",
@@ -598,7 +652,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 194000,
+    "price": 184000,
     "resourceId": 170733,
     "assetId": 170733,
     "name": "Gervinho",
@@ -646,7 +700,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 149000,
+    "price": 132000,
     "resourceId": 266695,
     "assetId": 266695,
     "name": "Tomas Brolin",
@@ -737,7 +791,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 48000,
+    "price": 51500,
     "resourceId": 262271,
     "assetId": 262271,
     "name": "Diego Milito",
@@ -778,7 +832,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 238000,
+    "price": 213000,
     "resourceId": 188428,
     "assetId": 188428,
     "name": "Seydou Doumbia",
@@ -823,7 +877,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 64000,
+    "price": 52500,
     "resourceId": 242625,
     "assetId": 242625,
     "name": "Hidetoshi Nakata",
@@ -870,7 +924,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 168000,
+    "price": 155000,
     "resourceId": 204550,
     "assetId": 204550,
     "name": "Víctor Ibarbo",
@@ -912,7 +966,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 56500,
+    "price": 60000,
     "resourceId": 233700,
     "assetId": 233700,
     "name": "Gianluca Vialli",

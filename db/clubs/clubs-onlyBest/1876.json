@@ -39,7 +39,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 750,
       "resourceId": 72745,
       "assetId": 72745
     },
@@ -155,7 +155,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 77727,
       "assetId": 77727
     },
@@ -192,7 +192,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 79389,
       "assetId": 79389
     },
@@ -319,7 +319,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 196432,
       "assetId": 196432
     },
@@ -587,7 +587,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 550,
       "resourceId": 215998,
       "assetId": 215998
     },
@@ -815,7 +815,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 224334,
       "assetId": 224334
     },
@@ -954,7 +954,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 231340,
       "assetId": 231340
     },
@@ -1037,7 +1037,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 300,
       "resourceId": 241930,
       "assetId": 241930
     },
@@ -1129,7 +1129,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 850,
       "resourceId": 245138,
       "assetId": 245138
     },
@@ -1179,57 +1179,6 @@
       "price": 350,
       "resourceId": 245461,
       "assetId": 245461
-    },
-    "259788": {
-      "name": "Juan Portillo",
-      "cardName": "Portillo",
-      "originalVersionId": "1",
-      "clubId": 1876,
-      "leagueId": 353,
-      "countryId": 52,
-      "versionId": "3002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "CDM",
-        "LB"
-      ],
-      "playStyles": [
-        15,
-        18,
-        28
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        8,
-        12,
-        13,
-        15,
-        48
-      ],
-      "rolesPlusPlus": [
-        8,
-        12,
-        13,
-        15,
-        48
-      ],
-      "attributes": [
-        79,
-        57,
-        66,
-        70,
-        73,
-        86
-      ],
-      "hasDynamicImage": false,
-      "price": 650,
-      "resourceId": 259788,
-      "assetId": 259788
     },
     "272951": {
       "name": "Kevin Castaño",
@@ -1398,7 +1347,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 279165,
       "assetId": 279165
     },
@@ -1515,6 +1464,60 @@
       "price": 350,
       "resourceId": 279934,
       "assetId": 279934
+    },
+    "50591436": {
+      "name": "Juan Portillo",
+      "cardName": "Portillo",
+      "originalVersionId": "58",
+      "clubId": 1876,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "58",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB"
+      ],
+      "playStyles": [
+        15,
+        18,
+        28,
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        12,
+        48,
+        108,
+        113,
+        115
+      ],
+      "rolesPlusPlus": [
+        7,
+        12,
+        48,
+        108,
+        113,
+        115
+      ],
+      "attributes": [
+        81,
+        65,
+        74,
+        80,
+        81,
+        88
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 37000,
+      "resourceId": 50591436,
+      "assetId": 259788
     }
   }
 }

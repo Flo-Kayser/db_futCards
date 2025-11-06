@@ -75,7 +75,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 76740,
       "assetId": 76740
     },
@@ -161,7 +161,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 400,
       "resourceId": 194911,
       "assetId": 194911
     },
@@ -331,7 +331,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 203747,
       "assetId": 203747
     },
@@ -412,7 +412,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 400,
       "resourceId": 221087,
       "assetId": 221087
     },
@@ -552,7 +552,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 600,
       "resourceId": 228520,
       "assetId": 228520
     },
@@ -953,7 +953,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 267860,
       "assetId": 267860
     },
@@ -991,7 +991,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 500,
       "resourceId": 272487,
       "assetId": 272487
     },
@@ -1155,18 +1155,38 @@
       ],
       "playStylesPlus": [],
       "rolesPlus": [
+        14,
         15,
+        17,
+        18,
+        19,
+        21,
         22,
+        23,
         24,
+        26,
+        35,
+        36,
+        49,
         116,
         120,
         125,
         137
       ],
       "rolesPlusPlus": [
+        14,
         15,
+        17,
+        18,
+        19,
+        21,
         22,
+        23,
         24,
+        26,
+        35,
+        36,
+        49,
         116,
         120,
         125,
@@ -1175,13 +1195,13 @@
       "attributes": [
         84,
         85,
-        84,
+        99,
         86,
         78,
         77
       ],
       "hasDynamicImage": true,
-      "price": 15000,
+      "price": 11250,
       "resourceId": 50558104,
       "assetId": 226456
     },
@@ -1227,7 +1247,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 50587123,
       "assetId": 255475
     },
@@ -1279,8 +1299,54 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 121000,
+      "price": 104000,
       "resourceId": 67364339,
+      "assetId": 255475
+    },
+    "84141555": {
+      "name": "Antony",
+      "cardName": "Antony",
+      "originalVersionId": "3",
+      "clubId": 449,
+      "leagueId": 53,
+      "countryId": 54,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        20,
+        23
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        36,
+        37,
+        126
+      ],
+      "rolesPlusPlus": [
+        36,
+        37,
+        126
+      ],
+      "attributes": [
+        88,
+        84,
+        83,
+        86,
+        49,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 36250,
+      "resourceId": 84141555,
       "assetId": 255475
     }
   }

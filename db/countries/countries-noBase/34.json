@@ -41,7 +41,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 1780000,
+    "price": 2700000,
     "resourceId": 5740,
     "assetId": 5740
   },
@@ -87,7 +87,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 124000,
+    "price": 118000,
     "resourceId": 10264,
     "assetId": 10264
   },
@@ -138,7 +138,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 23500,
+    "price": 24000,
     "resourceId": 15723,
     "assetId": 15723
   },
@@ -179,7 +179,7 @@
       92
     ],
     "hasDynamicImage": false,
-    "price": 490000,
+    "price": 420000,
     "resourceId": 51539,
     "assetId": 51539
   },
@@ -223,7 +223,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 189000,
+    "price": 182000,
     "resourceId": 167680,
     "assetId": 167680
   },
@@ -274,7 +274,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 4799000,
+    "price": 5801000,
     "resourceId": 190045,
     "assetId": 190045
   },
@@ -319,7 +319,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 270000,
+    "price": 249000,
     "resourceId": 192181,
     "assetId": 192181
   },
@@ -374,7 +374,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 336000,
+    "price": 330000,
     "resourceId": 214098,
     "assetId": 214098
   },
@@ -424,7 +424,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 3789000,
+    "price": 3749000,
     "resourceId": 214100,
     "assetId": 214100
   },
@@ -472,7 +472,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 295000,
+    "price": 285000,
     "resourceId": 238388,
     "assetId": 238388
   },
@@ -518,7 +518,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 76500,
+    "price": 82000,
     "resourceId": 238424,
     "assetId": 238424
   },
@@ -564,7 +564,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 391000,
+    "price": 360000,
     "resourceId": 262112,
     "assetId": 262112
   },
@@ -616,7 +616,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 320000,
+    "price": 315000,
     "resourceId": 274750,
     "assetId": 274750
   },
@@ -665,7 +665,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 12000,
     "resourceId": 50540109,
     "assetId": 208461
   },
@@ -711,7 +711,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 14750,
     "resourceId": 50564306,
     "assetId": 232658
   },
@@ -763,7 +763,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 63500,
+    "price": 56500,
     "resourceId": 50564744,
     "assetId": 233096
   },
@@ -804,7 +804,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 14750,
     "resourceId": 50571021,
     "assetId": 239373
   },
@@ -860,7 +860,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 1199000,
+    "price": 1145000,
     "resourceId": 50572286,
     "assetId": 240638
   },
@@ -940,32 +940,83 @@
     "playStylesPlus": [],
     "rolesPlus": [
       27,
+      28,
+      29,
       38,
+      40,
+      41,
       43,
+      44,
       130,
       139,
       142
     ],
     "rolesPlusPlus": [
       27,
+      28,
+      29,
       38,
+      40,
+      41,
       43,
+      44,
       130,
       139,
       142
     ],
     "attributes": [
       92,
-      82,
+      99,
       75,
       88,
       55,
       78
     ],
     "hasDynamicImage": true,
-    "price": 37000,
+    "price": 18500,
     "resourceId": 50572365,
     "assetId": 240717
+  },
+  "50573483": {
+    "name": "Jizz Hornkamp",
+    "cardName": "Hornkamp",
+    "originalVersionId": "3",
+    "clubId": 100634,
+    "leagueId": 10,
+    "countryId": 34,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      24,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141
+    ],
+    "rolesPlusPlus": [
+      141
+    ],
+    "attributes": [
+      83,
+      87,
+      75,
+      81,
+      70,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 14500,
+    "resourceId": 50573483,
+    "assetId": 241835
   },
   "50574164": {
     "name": "Cody Gakpo",
@@ -1011,9 +1062,57 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 27500,
+    "price": 29250,
     "resourceId": 50574164,
     "assetId": 242516
+  },
+  "50575698": {
+    "name": "Wouter Burger",
+    "cardName": "Burger",
+    "originalVersionId": "3",
+    "clubId": 10029,
+    "leagueId": 19,
+    "countryId": 34,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      16,
+      18,
+      19
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      15,
+      17,
+      21,
+      119
+    ],
+    "rolesPlusPlus": [
+      15,
+      17,
+      21,
+      119
+    ],
+    "attributes": [
+      83,
+      75,
+      82,
+      80,
+      82,
+      88
+    ],
+    "hasDynamicImage": true,
+    "price": 13750,
+    "resourceId": 50575698,
+    "assetId": 244050
   },
   "50577752": {
     "name": "Ryan Gravenberch",
@@ -1053,7 +1152,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 199000,
+    "price": 210000,
     "resourceId": 50577752,
     "assetId": 246104
   },
@@ -1106,7 +1205,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 14500,
     "resourceId": 50584757,
     "assetId": 253109
   },
@@ -1139,17 +1238,29 @@
       25
     ],
     "rolesPlus": [
+      3,
+      4,
       6,
+      24,
+      25,
       26,
       36,
+      37,
+      46,
       105,
       123,
       135
     ],
     "rolesPlusPlus": [
+      3,
+      4,
       6,
+      24,
+      25,
       26,
       36,
+      37,
+      46,
       105,
       123,
       135
@@ -1160,10 +1271,10 @@
       80,
       87,
       75,
-      67
+      99
     ],
     "hasDynamicImage": true,
-    "price": 256000,
+    "price": 198000,
     "resourceId": 50584797,
     "assetId": 253149
   },
@@ -1210,7 +1321,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 14250,
     "resourceId": 50585065,
     "assetId": 253417
   },
@@ -1251,7 +1362,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 14750,
     "resourceId": 50594046,
     "assetId": 262398
   },
@@ -1294,7 +1405,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 189000,
+    "price": 205000,
     "resourceId": 50596101,
     "assetId": 264453
   },
@@ -1346,7 +1457,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 14250,
     "resourceId": 50599178,
     "assetId": 267530
   },
@@ -1382,8 +1493,17 @@
       25
     ],
     "rolesPlus": [
+      18,
+      19,
+      20,
+      22,
+      28,
       29,
+      30,
+      32,
       33,
+      34,
+      39,
       40,
       121,
       127,
@@ -1391,8 +1511,17 @@
       138
     ],
     "rolesPlusPlus": [
+      18,
+      19,
+      20,
+      22,
+      28,
       29,
+      30,
+      32,
       33,
+      34,
+      39,
       40,
       121,
       127,
@@ -1403,12 +1532,12 @@
       85,
       85,
       91,
-      87,
+      99,
       55,
       76
     ],
     "hasDynamicImage": true,
-    "price": 528000,
+    "price": 484000,
     "resourceId": 50606398,
     "assetId": 274750
   }

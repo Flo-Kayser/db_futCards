@@ -2,6 +2,66 @@
   {
     "clubId": 114605,
     "leagueId": 53,
+    "countryId": 52,
+    "versionId": "168",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CB",
+      "CDM"
+    ],
+    "playStyles": [
+      10,
+      11,
+      16,
+      18
+    ],
+    "playStylesPlus": [
+      9
+    ],
+    "rolesPlus": [
+      11,
+      13,
+      16,
+      17,
+      48,
+      49,
+      112,
+      114,
+      115
+    ],
+    "rolesPlusPlus": [
+      11,
+      13,
+      16,
+      17,
+      48,
+      49,
+      112,
+      114,
+      115
+    ],
+    "attributes": [
+      78,
+      56,
+      80,
+      99,
+      90,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 204000,
+    "resourceId": 50474402,
+    "assetId": 142754,
+    "name": "Javier Mascherano",
+    "cardName": "Mascherano"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 53,
     "countryId": 38,
     "versionId": "168",
     "rating": 89,
@@ -27,25 +87,39 @@
       6
     ],
     "rolesPlus": [
+      23,
+      24,
+      25,
       35,
+      37,
       38,
+      40,
       41,
+      42,
+      44,
       126,
       136,
       139,
       143
     ],
     "rolesPlusPlus": [
+      23,
+      24,
+      25,
       35,
+      37,
       38,
+      40,
       41,
+      42,
+      44,
       126,
       136,
       139,
       143
     ],
     "attributes": [
-      94,
+      99,
       83,
       81,
       94,
@@ -53,63 +127,11 @@
       63
     ],
     "hasDynamicImage": true,
-    "price": 1644000,
+    "price": 1491000,
     "resourceId": 50545749,
     "assetId": 214101,
     "name": "Paulo Futre",
     "cardName": "Paulo Futre"
-  },
-  {
-    "clubId": 114605,
-    "leagueId": 53,
-    "countryId": 52,
-    "versionId": "168",
-    "rating": 89,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CB",
-      "CDM"
-    ],
-    "playStyles": [
-      10,
-      11,
-      16,
-      18
-    ],
-    "playStylesPlus": [
-      9
-    ],
-    "rolesPlus": [
-      11,
-      49,
-      112,
-      114,
-      115
-    ],
-    "rolesPlusPlus": [
-      11,
-      49,
-      112,
-      114,
-      115
-    ],
-    "attributes": [
-      78,
-      56,
-      80,
-      81,
-      90,
-      87
-    ],
-    "hasDynamicImage": true,
-    "price": 226000,
-    "resourceId": 50474402,
-    "assetId": 142754,
-    "name": "Javier Mascherano",
-    "cardName": "Mascherano"
   },
   {
     "clubId": 114605,
@@ -198,7 +220,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 147000,
+    "price": 125000,
     "resourceId": 25924,
     "assetId": 25924,
     "name": "Capdevila",
@@ -247,7 +269,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 101000,
+    "price": 120000,
     "resourceId": 26709,
     "assetId": 26709,
     "name": "Rafael Márquez",
@@ -294,7 +316,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 94000,
+    "price": 89000,
     "resourceId": 142754,
     "assetId": 142754,
     "name": "Javier Mascherano",
@@ -341,7 +363,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 175000,
+    "price": 159000,
     "resourceId": 266691,
     "assetId": 266691,
     "name": "Diego Forlán",
@@ -389,7 +411,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 55000,
+    "price": 52000,
     "resourceId": 262285,
     "assetId": 262285,
     "name": "Guti",
@@ -433,7 +455,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 79500,
+    "price": 76500,
     "resourceId": 5661,
     "assetId": 5661,
     "name": "Fernando Morientes",

@@ -46,7 +46,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 255000,
+    "price": 229000,
     "resourceId": 1041,
     "assetId": 1041
   },
@@ -91,7 +91,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 80000,
+    "price": 75000,
     "resourceId": 7512,
     "assetId": 7512
   },
@@ -187,7 +187,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 94000,
+    "price": 89000,
     "resourceId": 142754,
     "assetId": 142754
   },
@@ -240,7 +240,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 4350000,
+    "price": 4195000,
     "resourceId": 190042,
     "assetId": 190042
   },
@@ -289,7 +289,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 74500,
+    "price": 74000,
     "resourceId": 243027,
     "assetId": 243027
   },
@@ -335,7 +335,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 48000,
+    "price": 51500,
     "resourceId": 262271,
     "assetId": 262271
   },
@@ -382,7 +382,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 339000,
+    "price": 320000,
     "resourceId": 274966,
     "assetId": 274966
   },
@@ -414,6 +414,10 @@
     ],
     "rolesPlus": [
       11,
+      13,
+      16,
+      17,
+      48,
       49,
       112,
       114,
@@ -421,6 +425,10 @@
     ],
     "rolesPlusPlus": [
       11,
+      13,
+      16,
+      17,
+      48,
       49,
       112,
       114,
@@ -430,12 +438,12 @@
       78,
       56,
       80,
-      81,
+      99,
       90,
       87
     ],
     "hasDynamicImage": true,
-    "price": 226000,
+    "price": 204000,
     "resourceId": 50474402,
     "assetId": 142754
   },
@@ -496,7 +504,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 1100000,
+    "price": 1030000,
     "resourceId": 50489671,
     "assetId": 158023
   },
@@ -629,6 +637,8 @@
     "rolesPlus": [
       31,
       33,
+      34,
+      42,
       44,
       132,
       141,
@@ -637,13 +647,15 @@
     "rolesPlusPlus": [
       31,
       33,
+      34,
+      42,
       44,
       132,
       141,
       143
     ],
     "attributes": [
-      83,
+      99,
       87,
       86,
       89,
@@ -651,7 +663,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 466000,
+    "price": 416000,
     "resourceId": 50542758,
     "assetId": 211110
   },
@@ -692,7 +704,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 37250,
+    "price": 36250,
     "resourceId": 50546964,
     "assetId": 215316
   },
@@ -733,7 +745,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 14750,
     "resourceId": 50548464,
     "assetId": 216816
   },
@@ -780,7 +792,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 44750,
+    "price": 42500,
     "resourceId": 50564136,
     "assetId": 232488
   },
@@ -838,7 +850,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 11750,
     "resourceId": 50572392,
     "assetId": 240744
   },
@@ -885,7 +897,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 690000,
+    "price": 669000,
     "resourceId": 50577839,
     "assetId": 246191
   },
@@ -931,9 +943,63 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 14500,
     "resourceId": 50583684,
     "assetId": 252036
+  },
+  "50591436": {
+    "name": "Juan Portillo",
+    "cardName": "Portillo",
+    "originalVersionId": "58",
+    "clubId": 1876,
+    "leagueId": 353,
+    "countryId": 52,
+    "versionId": "58",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "LB"
+    ],
+    "playStyles": [
+      15,
+      18,
+      28,
+      29
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      7,
+      12,
+      48,
+      108,
+      113,
+      115
+    ],
+    "rolesPlusPlus": [
+      7,
+      12,
+      48,
+      108,
+      113,
+      115
+    ],
+    "attributes": [
+      81,
+      65,
+      74,
+      80,
+      81,
+      88
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 37000,
+    "resourceId": 50591436,
+    "assetId": 259788
   },
   "50595018": {
     "name": "Valentín Barco",
@@ -980,7 +1046,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 14250,
     "resourceId": 50595018,
     "assetId": 263370
   },
@@ -1080,7 +1146,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 36700,
+    "sbcPrice": 35050,
     "resourceId": 50609494,
     "assetId": 277846
   },
@@ -1127,7 +1193,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 14250,
     "resourceId": 67386710,
     "assetId": 277846
   }

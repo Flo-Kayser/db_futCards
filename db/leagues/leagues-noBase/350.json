@@ -41,7 +41,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 14750,
+    "price": 16500,
     "resourceId": 168880,
     "assetId": 168880
   },
@@ -130,7 +130,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 250000,
+    "price": 253000,
     "resourceId": 266694,
     "assetId": 266694
   },
@@ -180,7 +180,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 1110000,
+    "price": 1100000,
     "resourceId": 50352449,
     "assetId": 20801
   },
@@ -212,19 +212,27 @@
       6
     ],
     "rolesPlus": [
+      31,
       32,
+      33,
       41,
+      42,
+      44,
       134,
       143
     ],
     "rolesPlusPlus": [
+      31,
       32,
+      33,
       41,
+      42,
+      44,
       134,
       143
     ],
     "attributes": [
-      80,
+      99,
       86,
       83,
       85,
@@ -281,7 +289,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 12500,
+    "price": 14500,
     "resourceId": 50517070,
     "assetId": 185422
   },
@@ -331,7 +339,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 15000,
+    "price": 15750,
     "resourceId": 50536133,
     "assetId": 204485
   },
@@ -374,7 +382,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 27000,
     "resourceId": 50536173,
     "assetId": 204525
   },
@@ -404,14 +412,20 @@
     "playStylesPlus": [],
     "rolesPlus": [
       27,
+      28,
       29,
+      38,
       39,
+      40,
       130
     ],
     "rolesPlusPlus": [
       27,
+      28,
       29,
+      38,
       39,
+      40,
       130
     ],
     "attributes": [
@@ -420,10 +434,10 @@
       82,
       88,
       63,
-      73
+      99
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 66600,
+    "sbcPrice": 67450,
     "resourceId": 50540066,
     "assetId": 208418
   },
@@ -479,6 +493,7 @@
       87,
       86
     ],
+    "isObjective": true,
     "hasDynamicImage": true,
     "price": 0,
     "resourceId": 50541147,
@@ -577,7 +592,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "sbcPrice": 29300,
+    "sbcPrice": 32300,
     "resourceId": 50552269,
     "assetId": 220621
   },
@@ -628,7 +643,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 18750,
+    "price": 20000,
     "resourceId": 50555941,
     "assetId": 224293
   },
@@ -673,7 +688,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "sbcPrice": 7300,
+    "sbcPrice": 7700,
     "resourceId": 50556964,
     "assetId": 225316
   },
@@ -721,10 +736,54 @@
       41,
       87
     ],
+    "isObjective": true,
     "hasDynamicImage": true,
     "price": 0,
     "resourceId": 50566227,
     "assetId": 234579
+  },
+  "50567162": {
+    "name": "Saeed Al Rubaie",
+    "cardName": "Al Rubaie",
+    "originalVersionId": "3",
+    "clubId": 113060,
+    "leagueId": 350,
+    "countryId": 183,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      15,
+      18,
+      19
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      48,
+      111
+    ],
+    "rolesPlusPlus": [
+      48,
+      111
+    ],
+    "attributes": [
+      81,
+      44,
+      69,
+      68,
+      83,
+      89
+    ],
+    "hasDynamicImage": true,
+    "price": 14250,
+    "resourceId": 50567162,
+    "assetId": 235514
   },
   "50567538": {
     "name": "Marwane Saadane",
@@ -769,7 +828,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 12250,
     "resourceId": 50567538,
     "assetId": 235890
   },
@@ -815,7 +874,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "sbcPrice": 9300,
+    "sbcPrice": 9600,
     "price": 0,
     "resourceId": 50573498,
     "assetId": 241850
@@ -868,7 +927,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 79000,
+    "price": 76000,
     "resourceId": 50574092,
     "assetId": 242444
   },
@@ -913,7 +972,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 12500,
+    "price": 15000,
     "resourceId": 50580146,
     "assetId": 248498
   },
@@ -945,17 +1004,27 @@
       21
     ],
     "rolesPlus": [
+      31,
+      33,
       34,
       35,
+      37,
       41,
+      42,
+      44,
       132,
       136,
       143
     ],
     "rolesPlusPlus": [
+      31,
+      33,
       34,
       35,
+      37,
       41,
+      42,
+      44,
       132,
       136,
       143
@@ -966,10 +1035,10 @@
       81,
       87,
       37,
-      74
+      99
     ],
     "hasDynamicImage": true,
-    "price": 500000,
+    "price": 428000,
     "resourceId": 50598342,
     "assetId": 266694
   },
@@ -1002,26 +1071,54 @@
     "playStylesPlus": [],
     "rolesPlus": [
       3,
+      4,
+      5,
+      6,
       7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      23,
       24,
+      26,
+      46,
+      47,
+      48,
       125
     ],
     "rolesPlusPlus": [
       3,
+      4,
+      5,
+      6,
       7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      23,
       24,
+      26,
+      46,
+      47,
+      48,
       125
     ],
     "attributes": [
       87,
       84,
       83,
-      85,
+      99,
       60,
       77
     ],
     "hasDynamicImage": false,
-    "sbcPrice": 7600,
+    "sbcPrice": 10750,
     "resourceId": 50601330,
     "assetId": 269682
   },
@@ -1052,18 +1149,32 @@
     "playStylesPlus": [],
     "rolesPlus": [
       23,
+      24,
+      25,
+      26,
       35,
+      36,
+      37,
       42,
+      43,
+      44,
       141
     ],
     "rolesPlusPlus": [
       23,
+      24,
+      25,
+      26,
       35,
+      36,
+      37,
       42,
+      43,
+      44,
       141
     ],
     "attributes": [
-      81,
+      99,
       84,
       80,
       82,
@@ -1071,7 +1182,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "sbcPrice": 10000,
+    "sbcPrice": 8200,
     "resourceId": 67183565,
     "assetId": 74701
   },
@@ -1105,31 +1216,49 @@
       22
     ],
     "rolesPlus": [
+      27,
+      28,
+      29,
       30,
+      31,
+      33,
+      34,
       38,
+      40,
       41,
+      42,
+      44,
       132,
       139,
       143
     ],
     "rolesPlusPlus": [
+      27,
+      28,
+      29,
       30,
+      31,
+      33,
+      34,
       38,
+      40,
       41,
+      42,
+      44,
       132,
       139,
       143
     ],
     "attributes": [
       85,
-      86,
+      99,
       85,
       89,
       52,
       76
     ],
     "hasDynamicImage": true,
-    "price": 250000,
+    "price": 216000,
     "resourceId": 67351308,
     "assetId": 242444
   }

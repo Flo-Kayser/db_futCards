@@ -24,18 +24,22 @@
     "playStylesPlus": [],
     "rolesPlus": [
       18,
+      19,
+      20,
       22,
       121
     ],
     "rolesPlusPlus": [
       18,
+      19,
+      20,
       22,
       121
     ],
     "attributes": [
       85,
       79,
-      82,
+      99,
       85,
       75,
       83
@@ -93,7 +97,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 624000,
+    "price": 609000,
     "resourceId": 50558851,
     "assetId": 227203
   },
@@ -141,7 +145,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 20250,
     "resourceId": 50558975,
     "assetId": 227327
   },
@@ -247,7 +251,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 18500,
+    "price": 19750,
     "resourceId": 50577527,
     "assetId": 245879
   },
@@ -279,19 +283,39 @@
     ],
     "playStylesPlus": [],
     "rolesPlus": [
+      3,
+      4,
       5,
+      7,
+      8,
       9,
+      23,
       24,
+      26,
+      35,
+      36,
       37,
+      46,
+      47,
       106,
       110,
       125
     ],
     "rolesPlusPlus": [
+      3,
+      4,
       5,
+      7,
+      8,
       9,
+      23,
       24,
+      26,
+      35,
+      36,
       37,
+      46,
+      47,
       106,
       110,
       125
@@ -300,12 +324,12 @@
       88,
       85,
       83,
-      81,
+      99,
       82,
       73
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 54600,
+    "sbcPrice": 54300,
     "resourceId": 50585084,
     "assetId": 253436
   },
@@ -363,7 +387,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 1500000,
+    "price": 1550000,
     "resourceId": 50594179,
     "assetId": 262531
   },
@@ -458,7 +482,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 14500,
     "resourceId": 50596672,
     "assetId": 265024
   },
@@ -510,9 +534,52 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 14250,
     "resourceId": 50599178,
     "assetId": 267530
+  },
+  "50600596": {
+    "name": "María Molina",
+    "cardName": "María Molina",
+    "originalVersionId": "3",
+    "clubId": 116336,
+    "leagueId": 2222,
+    "countryId": 45,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      16,
+      18,
+      19
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      48,
+      111
+    ],
+    "rolesPlusPlus": [
+      48,
+      111
+    ],
+    "attributes": [
+      78,
+      54,
+      72,
+      75,
+      83,
+      84
+    ],
+    "hasDynamicImage": false,
+    "price": 14250,
+    "resourceId": 50600596,
+    "assetId": 268948
   },
   "50600641": {
     "name": "Lucía Rodríguez",
@@ -557,7 +624,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "sbcPrice": 7200,
+    "sbcPrice": 7300,
     "resourceId": 50600641,
     "assetId": 268993
   },
@@ -611,7 +678,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 649000,
+    "price": 750000,
     "resourceId": 50601052,
     "assetId": 269404
   },
@@ -657,7 +724,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 15000,
     "resourceId": 50603742,
     "assetId": 272094
   },
@@ -708,7 +775,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 64500,
+    "sbcPrice": 60500,
     "resourceId": 50606428,
     "assetId": 274780
   },
@@ -758,7 +825,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11250,
     "resourceId": 50607432,
     "assetId": 275784
   },
@@ -805,7 +872,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 25100,
+    "sbcPrice": 27800,
     "resourceId": 50609100,
     "assetId": 277452
   }

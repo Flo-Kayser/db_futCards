@@ -124,7 +124,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 205812,
       "assetId": 205812
     },
@@ -171,7 +171,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1500,
       "resourceId": 213666,
       "assetId": 213666
     },
@@ -214,7 +214,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 16000,
+      "price": 20500,
       "resourceId": 215698,
       "assetId": 215698
     },
@@ -312,7 +312,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 2100,
       "resourceId": 227796,
       "assetId": 227796
     },
@@ -353,7 +353,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1200,
       "resourceId": 232756,
       "assetId": 232756
     },
@@ -486,7 +486,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 15000,
+      "price": 11750,
       "resourceId": 241721,
       "assetId": 241721
     },
@@ -573,7 +573,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 243627,
       "assetId": 243627
     },
@@ -612,7 +612,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 245152,
       "assetId": 245152
     },
@@ -925,7 +925,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 450,
       "resourceId": 265774,
       "assetId": 265774
     },
@@ -1047,7 +1047,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 600,
       "resourceId": 279782,
       "assetId": 279782
     },
@@ -1084,7 +1084,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 50404934,
       "assetId": 73286
     },
@@ -1134,7 +1134,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 36750,
+      "price": 36250,
       "resourceId": 50508651,
       "assetId": 177003
     },
@@ -1180,9 +1180,52 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 50541656,
       "assetId": 210008
+    },
+    "50547346": {
+      "name": "Mike Maignan",
+      "cardName": "Maignan",
+      "originalVersionId": "3",
+      "clubId": 131681,
+      "leagueId": 31,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        31,
+        35
+      ],
+      "playStylesPlus": [
+        34
+      ],
+      "rolesPlus": [
+        145
+      ],
+      "rolesPlusPlus": [
+        145
+      ],
+      "attributes": [
+        86,
+        84,
+        86,
+        89,
+        65,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 88000,
+      "resourceId": 50547346,
+      "assetId": 215698
     },
     "50559444": {
       "name": "Christian Pulisic",
@@ -1235,7 +1278,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 99500,
+      "price": 83000,
       "resourceId": 50559444,
       "assetId": 227796
     },
@@ -1366,30 +1409,40 @@
       ],
       "rolesPlus": [
         27,
+        28,
+        29,
         38,
+        40,
         42,
+        43,
+        44,
         130,
         139,
         141
       ],
       "rolesPlusPlus": [
         27,
+        28,
+        29,
         38,
+        40,
         42,
+        43,
+        44,
         130,
         139,
         141
       ],
       "attributes": [
         94,
-        80,
+        99,
         82,
         88,
         31,
         77
       ],
       "hasDynamicImage": true,
-      "price": 1545000,
+      "price": 1620000,
       "resourceId": 50573369,
       "assetId": 241721
     },
@@ -1437,7 +1490,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 14500,
       "resourceId": 50574312,
       "assetId": 242664
     },
@@ -1481,7 +1534,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 40300,
+      "sbcPrice": 42950,
       "resourceId": 50576800,
       "assetId": 245152
     },
@@ -1536,7 +1589,7 @@
         69
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 328750,
+      "sbcPrice": 313250,
       "resourceId": 67336660,
       "assetId": 227796
     },
@@ -1567,23 +1620,41 @@
       ],
       "playStylesPlus": [],
       "rolesPlus": [
+        23,
+        24,
+        25,
         26,
+        31,
+        32,
+        34,
         36,
         37,
+        41,
+        42,
         43,
+        44,
         133,
         135
       ],
       "rolesPlusPlus": [
+        23,
+        24,
+        25,
         26,
+        31,
+        32,
+        34,
         36,
         37,
+        41,
+        42,
         43,
+        44,
         133,
         135
       ],
       "attributes": [
-        89,
+        99,
         85,
         84,
         90,
@@ -1591,7 +1662,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 138000,
+      "price": 113000,
       "resourceId": 84113876,
       "assetId": 227796
     }

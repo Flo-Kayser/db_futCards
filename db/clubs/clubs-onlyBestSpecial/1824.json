@@ -1,6 +1,51 @@
 {
   "clubName": "Frankfurt",
   "players": {
+    "50575905": {
+      "name": "Jonathan Burkardt",
+      "cardName": "Burkardt",
+      "originalVersionId": "42",
+      "clubId": 1824,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "42",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        22,
+        25,
+        4,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        44,
+        141
+      ],
+      "rolesPlusPlus": [
+        44,
+        141
+      ],
+      "attributes": [
+        87,
+        86,
+        78,
+        85,
+        51,
+        83
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 37750,
+      "resourceId": 50575905,
+      "assetId": 244257
+    },
     "67378592": {
       "name": "Jean-Mattéo Bahoya",
       "cardName": "Bahoya",
@@ -27,27 +72,41 @@
       ],
       "playStylesPlus": [],
       "rolesPlus": [
+        27,
+        28,
         29,
+        30,
+        31,
         33,
+        34,
+        38,
+        39,
         40,
         132
       ],
       "rolesPlusPlus": [
+        27,
+        28,
         29,
+        30,
+        31,
         33,
+        34,
+        38,
+        39,
         40,
         132
       ],
       "attributes": [
         96,
         80,
-        81,
+        99,
         83,
         60,
         70
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 32500,
+      "sbcPrice": 32250,
       "resourceId": 67378592,
       "assetId": 269728
     },
@@ -97,7 +156,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 40300,
+      "sbcPrice": 42950,
       "resourceId": 67384192,
       "assetId": 275328
     }

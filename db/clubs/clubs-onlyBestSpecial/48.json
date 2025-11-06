@@ -27,14 +27,22 @@
       ],
       "playStylesPlus": [],
       "rolesPlus": [
+        31,
+        33,
         34,
         42,
+        43,
+        44,
         132,
         141
       ],
       "rolesPlusPlus": [
+        31,
+        33,
         34,
         42,
+        43,
+        44,
         132,
         141
       ],
@@ -44,10 +52,10 @@
         80,
         81,
         42,
-        85
+        99
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 24900,
+      "sbcPrice": 27800,
       "resourceId": 50524153,
       "assetId": 192505
     },
@@ -101,7 +109,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 240000,
+      "price": 238000,
       "resourceId": 50524633,
       "assetId": 192985
     },
@@ -150,54 +158,9 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 88500,
+      "price": 83000,
       "resourceId": 50549518,
       "assetId": 217870
-    },
-    "50558884": {
-      "name": "André-Franck Zambo Anguissa",
-      "cardName": "Zambo Anguissa",
-      "originalVersionId": "3",
-      "clubId": 48,
-      "leagueId": 31,
-      "countryId": 103,
-      "versionId": "3",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        19,
-        24,
-        26,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        21,
-        119
-      ],
-      "rolesPlusPlus": [
-        21,
-        119
-      ],
-      "attributes": [
-        78,
-        79,
-        78,
-        81,
-        81,
-        87
-      ],
-      "hasDynamicImage": true,
-      "price": 12000,
-      "resourceId": 50558884,
-      "assetId": 227236
     },
     "50568886": {
       "name": "Scott McTominay",
@@ -247,9 +210,61 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 126000,
+      "price": 110000,
       "resourceId": 50568886,
       "assetId": 237238
+    },
+    "67336100": {
+      "name": "André-Franck Zambo Anguissa",
+      "cardName": "Zambo Anguissa",
+      "originalVersionId": "114",
+      "clubId": 48,
+      "leagueId": 31,
+      "countryId": 103,
+      "versionId": "114",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        19,
+        24,
+        26,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        21,
+        31,
+        119
+      ],
+      "rolesPlusPlus": [
+        14,
+        21,
+        31,
+        119
+      ],
+      "attributes": [
+        80,
+        81,
+        81,
+        83,
+        83,
+        89
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 83950,
+      "price": 75150,
+      "resourceId": 67336100,
+      "assetId": 227236
     }
   }
 }

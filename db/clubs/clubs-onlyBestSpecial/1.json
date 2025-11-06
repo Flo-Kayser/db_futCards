@@ -1,6 +1,56 @@
 {
   "clubName": "Arsenal",
   "players": {
+    "50566026": {
+      "name": "Declan Rice",
+      "cardName": "Rice",
+      "originalVersionId": "3",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        12,
+        15,
+        16,
+        19,
+        24,
+        26,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        118,
+        149
+      ],
+      "rolesPlusPlus": [
+        14,
+        118,
+        149
+      ],
+      "attributes": [
+        78,
+        74,
+        86,
+        81,
+        84,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 64000,
+      "resourceId": 50566026,
+      "assetId": 234378
+    },
     "50567442": {
       "name": "Eberechi Eze",
       "cardName": "Eze",
@@ -49,7 +99,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 169000,
+      "price": 155000,
       "resourceId": 50567442,
       "assetId": 235794
     },
@@ -100,7 +150,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 144950,
+      "sbcPrice": 130550,
       "resourceId": 50579796,
       "assetId": 248148
     },
@@ -149,7 +199,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 62500,
+      "sbcPrice": 58500,
       "resourceId": 50589359,
       "assetId": 257711
     },
@@ -233,17 +283,31 @@
       ],
       "playStylesPlus": [],
       "rolesPlus": [
+        7,
         8,
+        9,
+        10,
         19,
+        20,
+        21,
+        22,
+        47,
         118
       ],
       "rolesPlusPlus": [
+        7,
         8,
+        9,
+        10,
         19,
+        20,
+        21,
+        22,
+        47,
         118
       ],
       "attributes": [
-        80,
+        99,
         74,
         82,
         83,

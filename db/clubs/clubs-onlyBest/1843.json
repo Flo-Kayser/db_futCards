@@ -74,7 +74,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 700,
       "resourceId": 193786,
       "assetId": 193786
     },
@@ -111,7 +111,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 250,
       "resourceId": 199904,
       "assetId": 199904
     },
@@ -195,7 +195,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 750,
       "resourceId": 205531,
       "assetId": 205531
     },
@@ -286,7 +286,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 219956,
       "assetId": 219956
     },
@@ -451,7 +451,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 224378,
       "assetId": 224378
     },
@@ -545,7 +545,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 240100,
       "assetId": 240100
     },
@@ -672,7 +672,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 250,
       "resourceId": 244836,
       "assetId": 244836
     },
@@ -719,7 +719,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 244874,
       "assetId": 244874
     },
@@ -765,7 +765,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 3500,
       "resourceId": 245035,
       "assetId": 245035
     },
@@ -810,7 +810,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 253019,
       "assetId": 253019
     },
@@ -856,7 +856,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 600,
       "resourceId": 257111,
       "assetId": 257111
     },
@@ -895,7 +895,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 268860,
       "assetId": 268860
     },
@@ -939,49 +939,9 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 350,
       "resourceId": 270133,
       "assetId": 270133
-    },
-    "270926": {
-      "name": "Niccolò Pierozzi",
-      "cardName": "Pierozzi",
-      "originalVersionId": "0",
-      "clubId": 1843,
-      "leagueId": 32,
-      "countryId": 27,
-      "versionId": "2001",
-      "rating": 69,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        3,
-        23
-      ],
-      "rolesPlusPlus": [
-        3,
-        23
-      ],
-      "attributes": [
-        73,
-        63,
-        65,
-        72,
-        65,
-        65
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 270926,
-      "assetId": 270926
     },
     "276443": {
       "name": "Davide Veroli",
@@ -1019,7 +979,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 250,
       "resourceId": 276443,
       "assetId": 276443
     },
@@ -1066,6 +1026,50 @@
       "price": 350,
       "resourceId": 276451,
       "assetId": 276451
+    },
+    "50602574": {
+      "name": "Niccolò Pierozzi",
+      "cardName": "Pierozzi",
+      "originalVersionId": "3",
+      "clubId": 1843,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        16,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        123
+      ],
+      "rolesPlusPlus": [
+        3,
+        123
+      ],
+      "attributes": [
+        87,
+        77,
+        80,
+        86,
+        81,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 14000,
+      "resourceId": 50602574,
+      "assetId": 270926
     }
   }
 }

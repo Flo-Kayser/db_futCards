@@ -50,7 +50,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 220000,
+      "price": 189000,
       "resourceId": 50562929,
       "assetId": 231281
     },
@@ -102,7 +102,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 3861750,
+      "sbcPrice": 3832500,
       "resourceId": 50563395,
       "assetId": 231747
     },
@@ -156,7 +156,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 1299000,
+      "price": 1319000,
       "resourceId": 50570442,
       "assetId": 238794
     },
@@ -212,7 +212,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 1279000,
+      "price": 1401000,
       "resourceId": 50570701,
       "assetId": 239053
     },
@@ -258,7 +258,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 621000,
+      "price": 499000,
       "resourceId": 50571778,
       "assetId": 240130
     },
@@ -317,6 +317,7 @@
         34,
         70
       ],
+      "isObjective": true,
       "hasDynamicImage": true,
       "price": 0,
       "resourceId": 50575460,
@@ -373,7 +374,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 418000,
+      "price": 410000,
       "resourceId": 50584019,
       "assetId": 252371
     },
@@ -424,10 +425,56 @@
         61
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 69400,
+      "sbcPrice": 71450,
       "price": 63350,
       "resourceId": 50595957,
       "assetId": 264309
+    },
+    "50600537": {
+      "name": "Álvaro Carreras",
+      "cardName": "Álvaro Carreras",
+      "originalVersionId": "3",
+      "clubId": 243,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        10,
+        14,
+        16,
+        2,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        110
+      ],
+      "rolesPlusPlus": [
+        9,
+        110
+      ],
+      "attributes": [
+        89,
+        72,
+        82,
+        86,
+        81,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 145000,
+      "resourceId": 50600537,
+      "assetId": 268889
     },
     "50609997": {
       "name": "Dean Huijsen",
@@ -471,7 +518,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 62500,
+      "sbcPrice": 58500,
       "resourceId": 50609997,
       "assetId": 278349
     },
@@ -523,7 +570,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 4262000,
+      "sbcPrice": 4084500,
       "resourceId": 67340611,
       "assetId": 231747
     },
@@ -559,16 +606,26 @@
       ],
       "rolesPlus": [
         27,
+        28,
+        29,
         38,
+        40,
+        41,
         42,
+        44,
         130,
         139,
         143
       ],
       "rolesPlusPlus": [
         27,
+        28,
+        29,
         38,
+        40,
+        41,
         42,
+        44,
         130,
         139,
         143
@@ -576,13 +633,13 @@
       "attributes": [
         95,
         88,
-        81,
+        99,
         92,
         30,
         75
       ],
       "hasDynamicImage": true,
-      "price": 3318000,
+      "price": 2879000,
       "resourceId": 67347658,
       "assetId": 238794
     },
@@ -634,7 +691,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 84500,
+      "price": 80500,
       "resourceId": 67352676,
       "assetId": 243812
     }

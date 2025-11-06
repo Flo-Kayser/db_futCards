@@ -40,7 +40,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 700,
       "resourceId": 227357,
       "assetId": 227357
     },
@@ -80,44 +80,6 @@
       "price": 350,
       "resourceId": 236648,
       "assetId": 236648
-    },
-    "246177": {
-      "name": "Emelyne Laurent",
-      "cardName": "Laurent",
-      "originalVersionId": "0",
-      "clubId": 116036,
-      "leagueId": 2218,
-      "countryId": 18,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        35
-      ],
-      "rolesPlusPlus": [
-        35
-      ],
-      "attributes": [
-        81,
-        71,
-        67,
-        77,
-        47,
-        43
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 246177,
-      "assetId": 246177
     },
     "246568": {
       "name": "Falone Meffometou",
@@ -203,7 +165,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 750,
       "resourceId": 264895,
       "assetId": 264895
     },
@@ -369,7 +331,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 265890,
       "assetId": 265890
     },
@@ -462,7 +424,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 350,
       "resourceId": 265956,
       "assetId": 265956
     },
@@ -641,7 +603,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 269817,
       "assetId": 269817
     },
@@ -751,14 +713,34 @@
       "playStylesPlus": [],
       "rolesPlus": [
         11,
+        12,
+        13,
+        14,
+        15,
+        17,
         18,
+        19,
         20,
+        21,
+        22,
+        48,
+        49,
         116
       ],
       "rolesPlusPlus": [
         11,
+        12,
+        13,
+        14,
+        15,
+        17,
         18,
+        19,
         20,
+        21,
+        22,
+        48,
+        49,
         116
       ],
       "attributes": [
@@ -766,13 +748,60 @@
         75,
         79,
         83,
-        84,
+        99,
         80
       ],
       "isObjective": true,
       "hasDynamicImage": true,
       "resourceId": 50559004,
       "assetId": 227356
+    },
+    "50577825": {
+      "name": "Emelyne Laurent",
+      "cardName": "Laurent",
+      "originalVersionId": "3",
+      "clubId": 116036,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        22,
+        25,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        35,
+        141
+      ],
+      "rolesPlusPlus": [
+        35,
+        141
+      ],
+      "attributes": [
+        90,
+        83,
+        81,
+        87,
+        60,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 18000,
+      "resourceId": 50577825,
+      "assetId": 246177
     },
     "50578012": {
       "name": "Aldana Cometti",
@@ -858,7 +887,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 900,
       "resourceId": 50596650,
       "assetId": 265002
     }
