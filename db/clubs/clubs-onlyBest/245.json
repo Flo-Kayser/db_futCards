@@ -82,7 +82,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 200,
       "resourceId": 75690,
       "assetId": 75690
     },
@@ -119,7 +119,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 76116,
       "assetId": 76116
     },
@@ -494,7 +494,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 223689,
       "assetId": 223689
     },
@@ -626,7 +626,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 236572,
       "assetId": 236572
     },
@@ -750,52 +750,6 @@
       "resourceId": 253428,
       "assetId": 253428
     },
-    "255009": {
-      "name": "Kenneth Taylor",
-      "cardName": "Taylor",
-      "originalVersionId": "1",
-      "clubId": 245,
-      "leagueId": 10,
-      "countryId": 34,
-      "versionId": "3002",
-      "rating": 78,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        11,
-        8,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        22,
-        33
-      ],
-      "rolesPlusPlus": [
-        18,
-        22,
-        33
-      ],
-      "attributes": [
-        73,
-        77,
-        78,
-        78,
-        67,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 255009,
-      "assetId": 255009
-    },
     "256325": {
       "name": "Josip Šutalo",
       "cardName": "Šutalo",
@@ -836,7 +790,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 800,
       "resourceId": 256325,
       "assetId": 256325
     },
@@ -925,7 +879,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 262218,
       "assetId": 262218
     },
@@ -1054,7 +1008,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 550,
       "resourceId": 265390,
       "assetId": 265390
     },
@@ -1096,7 +1050,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 269153,
       "assetId": 269153
     },
@@ -1140,7 +1094,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 272357,
       "assetId": 272357
     },
@@ -1192,7 +1146,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 500,
       "resourceId": 274288,
       "assetId": 274288
     },
@@ -1238,6 +1192,56 @@
       "resourceId": 50560335,
       "assetId": 228687
     },
+    "50586657": {
+      "name": "Kenneth Taylor",
+      "cardName": "Taylor",
+      "originalVersionId": "50",
+      "clubId": 245,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "50",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        22,
+        33,
+        121,
+        131
+      ],
+      "rolesPlusPlus": [
+        18,
+        22,
+        33,
+        121,
+        131
+      ],
+      "attributes": [
+        80,
+        83,
+        84,
+        84,
+        73,
+        80
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50586657,
+      "assetId": 255009
+    },
     "50590026": {
       "name": "Mika Godts",
       "cardName": "Godts",
@@ -1278,7 +1282,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 14750,
       "resourceId": 50590026,
       "assetId": 258378
     }

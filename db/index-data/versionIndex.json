@@ -52,6 +52,45 @@
         "tertiaryColor": "#4ff3fc"
       }
     },
+    "26": {
+      "count": 4,
+      "file": "db/versions/26.json",
+      "details": {
+        "name": "Special Item",
+        "hasStrip": true,
+        "createdAt": "2025-10-31T16:30:00.347Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_26_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#010056",
+        "tertiaryColor": "#00eeff"
+      }
+    },
+    "27": {
+      "count": 2,
+      "file": "db/versions/27.json",
+      "details": {
+        "name": "Centurions Evolution",
+        "hasStrip": true,
+        "createdAt": "2025-10-31T16:30:00.347Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_27_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#010056",
+        "tertiaryColor": "#00eeff"
+      }
+    },
+    "31": {
+      "count": 4,
+      "file": "db/versions/31.json",
+      "details": {
+        "name": "UWCL Road to the Knockouts",
+        "hasStrip": true,
+        "createdAt": "2025-09-17T17:01:45.964Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_31_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#003d77",
+        "tertiaryColor": "#ff6d4f"
+      }
+    },
     "42": {
       "count": 2,
       "file": "db/versions/42.json",
@@ -66,7 +105,7 @@
       }
     },
     "43": {
-      "count": 1,
+      "count": 2,
       "file": "db/versions/43.json",
       "details": {
         "name": "POTM Premier League",
@@ -76,6 +115,32 @@
         "primaryColor": "#ffffff",
         "secondaryColor": "#3d195b",
         "tertiaryColor": "#00f5ff"
+      }
+    },
+    "46": {
+      "count": 14,
+      "file": "db/versions/46.json",
+      "details": {
+        "name": "UEL Road to the Knockouts",
+        "hasStrip": true,
+        "createdAt": "2025-09-17T17:01:45.964Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_46_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#3b1904",
+        "tertiaryColor": "#ff6900"
+      }
+    },
+    "50": {
+      "count": 19,
+      "file": "db/versions/50.json",
+      "details": {
+        "name": "UCL Road to the Knockouts",
+        "hasStrip": true,
+        "createdAt": "2025-09-17T17:01:45.964Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_50_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#010056",
+        "tertiaryColor": "#00eeff"
       }
     },
     "51": {
@@ -193,6 +258,19 @@
         "primaryColor": "#fef7b9",
         "secondaryColor": "#18cf12",
         "tertiaryColor": "#fef7b9"
+      }
+    },
+    "105": {
+      "count": 6,
+      "file": "db/versions/105.json",
+      "details": {
+        "name": "UECL Road to the Knockouts",
+        "hasStrip": true,
+        "createdAt": "2025-09-17T17:01:45.964Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_105_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#002d08",
+        "tertiaryColor": "#00be14"
       }
     },
     "114": {
@@ -353,8 +431,8 @@
     }
   },
   "meta": {
-    "totalVersions": 27,
-    "totalVersionsWithoutBase": 21,
-    "updatedAt": "2025-11-06T18:45:05.746Z"
+    "totalVersions": 33,
+    "totalVersionsWithoutBase": 27,
+    "updatedAt": "2025-11-07T18:39:53.453Z"
   }
 }

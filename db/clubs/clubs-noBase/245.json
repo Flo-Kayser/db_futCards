@@ -1,6 +1,56 @@
 {
   "clubName": "Ajax",
   "players": {
+    "50586657": {
+      "name": "Kenneth Taylor",
+      "cardName": "Taylor",
+      "originalVersionId": "50",
+      "clubId": 245,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "50",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        22,
+        33,
+        121,
+        131
+      ],
+      "rolesPlusPlus": [
+        18,
+        22,
+        33,
+        121,
+        131
+      ],
+      "attributes": [
+        80,
+        83,
+        84,
+        84,
+        73,
+        80
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50586657,
+      "assetId": 255009
+    },
     "50590026": {
       "name": "Mika Godts",
       "cardName": "Godts",
@@ -41,7 +91,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 14750,
       "resourceId": 50590026,
       "assetId": 258378
     }

@@ -34,7 +34,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 70803,
       "assetId": 70803
     },
@@ -111,7 +111,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 1800,
       "resourceId": 71978,
       "assetId": 71978
     },
@@ -193,7 +193,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 227346,
       "assetId": 227346
     },
@@ -372,7 +372,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1000,
       "resourceId": 253469,
       "assetId": 253469
     },
@@ -417,7 +417,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1800,
       "resourceId": 262457,
       "assetId": 262457
     },
@@ -622,7 +622,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 276774,
       "assetId": 276774
     },
@@ -702,51 +702,9 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 277925,
       "assetId": 277925
-    },
-    "278225": {
-      "name": "Tara Elimbi Gilbert",
-      "cardName": "Elimbi Gilbert",
-      "originalVersionId": "0",
-      "clubId": 116034,
-      "leagueId": 2218,
-      "countryId": 18,
-      "versionId": "2002",
-      "rating": 77,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        21
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9,
-        10
-      ],
-      "rolesPlusPlus": [
-        9,
-        10
-      ],
-      "attributes": [
-        80,
-        39,
-        67,
-        70,
-        73,
-        58
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 278225,
-      "assetId": 278225
     },
     "279205": {
       "name": "Alyssa Fernandes",
@@ -836,7 +794,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 47250,
       "resourceId": 50557984,
       "assetId": 226336
     },
@@ -927,7 +885,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 420000,
+      "price": 393000,
       "resourceId": 50565310,
       "assetId": 233662
     },
@@ -976,9 +934,58 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 11500,
       "resourceId": 50596553,
       "assetId": 264905
+    },
+    "50609873": {
+      "name": "Tara Elimbi Gilbert",
+      "cardName": "Elimbi Gilbert",
+      "originalVersionId": "31",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "31",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        10,
+        14,
+        17,
+        21,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        28,
+        108,
+        110
+      ],
+      "rolesPlusPlus": [
+        9,
+        28,
+        108,
+        110
+      ],
+      "attributes": [
+        87,
+        46,
+        80,
+        81,
+        85,
+        72
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50609873,
+      "assetId": 278225
     }
   }
 }

@@ -34,7 +34,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 76337,
       "assetId": 76337
     },
@@ -75,7 +75,7 @@
         37
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 700,
       "resourceId": 78063,
       "assetId": 78063
     },
@@ -155,7 +155,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1800,
       "resourceId": 167495,
       "assetId": 167495
     },
@@ -192,7 +192,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 350,
       "resourceId": 186569,
       "assetId": 186569
     },
@@ -339,7 +339,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 23750,
+      "price": 23000,
       "resourceId": 212622,
       "assetId": 212622
     },
@@ -383,7 +383,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 11500,
+      "price": 11250,
       "resourceId": 213331,
       "assetId": 213331
     },
@@ -429,7 +429,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 3600,
       "resourceId": 229558,
       "assetId": 229558
     },
@@ -475,7 +475,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 234205,
       "assetId": 234205
     },
@@ -516,7 +516,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 2300,
       "resourceId": 234396,
       "assetId": 234396
     },
@@ -602,7 +602,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1000,
       "resourceId": 248266,
       "assetId": 248266
     },
@@ -657,7 +657,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 16250,
+      "price": 19250,
       "resourceId": 256790,
       "assetId": 256790
     },
@@ -745,51 +745,9 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 263887,
       "assetId": 263887
-    },
-    "275298": {
-      "name": "Aleksandar Pavlović",
-      "cardName": "Pavlović",
-      "originalVersionId": "0",
-      "clubId": 21,
-      "leagueId": 19,
-      "countryId": 21,
-      "versionId": "2002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        11
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        21
-      ],
-      "rolesPlusPlus": [
-        16,
-        21
-      ],
-      "attributes": [
-        62,
-        64,
-        79,
-        78,
-        76,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 900,
-      "resourceId": 275298,
-      "assetId": 275298
     },
     "278578": {
       "name": "Jonah Kusi-Asare",
@@ -869,7 +827,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 101000,
+      "price": 110000,
       "resourceId": 50533774,
       "assetId": 202126
     },
@@ -918,7 +876,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 87850,
+      "sbcPrice": 86000,
       "price": 68500,
       "resourceId": 50541306,
       "assetId": 209658
@@ -995,7 +953,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 218000,
+      "price": 222000,
       "resourceId": 50544270,
       "assetId": 212622
     },
@@ -1045,7 +1003,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 15750,
       "resourceId": 50557023,
       "assetId": 225375
     },
@@ -1097,7 +1055,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 220000,
+      "price": 239000,
       "resourceId": 50572732,
       "assetId": 241084
     },
@@ -1189,6 +1147,57 @@
       "resourceId": 50590845,
       "assetId": 259197
     },
+    "50606946": {
+      "name": "Aleksandar Pavlović",
+      "cardName": "Pavlović",
+      "originalVersionId": "50",
+      "clubId": 21,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "50",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        14,
+        16,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        49,
+        116,
+        117,
+        120
+      ],
+      "rolesPlusPlus": [
+        21,
+        49,
+        116,
+        117,
+        120
+      ],
+      "attributes": [
+        82,
+        72,
+        88,
+        86,
+        85,
+        80
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50606946,
+      "assetId": 275298
+    },
     "67349948": {
       "name": "Luis Díaz",
       "cardName": "Díaz",
@@ -1235,7 +1244,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 71000,
+      "price": 70500,
       "resourceId": 67349948,
       "assetId": 241084
     },
@@ -1288,7 +1297,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 212000,
+      "price": 198000,
       "resourceId": 67356691,
       "assetId": 247827
     },
@@ -1337,7 +1346,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 193750,
+      "sbcPrice": 196250,
       "price": 186650,
       "resourceId": 84088206,
       "assetId": 202126

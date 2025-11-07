@@ -78,7 +78,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 350,
       "resourceId": 192991,
       "assetId": 192991
     },
@@ -178,7 +178,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 212523,
       "assetId": 212523
     },
@@ -415,7 +415,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1000,
       "resourceId": 231240,
       "assetId": 231240
     },
@@ -582,7 +582,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 235410,
       "assetId": 235410
     },
@@ -891,7 +891,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 550,
       "resourceId": 243526,
       "assetId": 243526
     },
@@ -977,7 +977,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 252544,
       "assetId": 252544
     },
@@ -1014,7 +1014,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 252799,
       "assetId": 252799
     },
@@ -1145,52 +1145,6 @@
       "price": 200,
       "resourceId": 260638,
       "assetId": 260638
-    },
-    "262968": {
-      "name": "Archie Brown",
-      "cardName": "Brown",
-      "originalVersionId": "1",
-      "clubId": 326,
-      "leagueId": 68,
-      "countryId": 14,
-      "versionId": "3001",
-      "rating": 71,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        25
-      ],
-      "playStylesPlus": [
-        27
-      ],
-      "rolesPlus": [
-        9,
-        10,
-        29
-      ],
-      "rolesPlusPlus": [
-        9,
-        10,
-        29
-      ],
-      "attributes": [
-        85,
-        48,
-        65,
-        71,
-        62,
-        79
-      ],
-      "hasDynamicImage": false,
-      "price": 1100,
-      "resourceId": 262968,
-      "assetId": 262968
     },
     "264001": {
       "name": "Oğuz Aydın",
@@ -1373,7 +1327,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 3900,
       "resourceId": 50541905,
       "assetId": 210257
     },
@@ -1520,9 +1474,58 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 14000,
       "resourceId": 50592114,
       "assetId": 260466
+    },
+    "50594616": {
+      "name": "Archie Brown",
+      "cardName": "Brown",
+      "originalVersionId": "46",
+      "clubId": 326,
+      "leagueId": 68,
+      "countryId": 14,
+      "versionId": "46",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        14,
+        18,
+        25
+      ],
+      "playStylesPlus": [
+        27
+      ],
+      "rolesPlus": [
+        9,
+        28,
+        29,
+        110
+      ],
+      "rolesPlusPlus": [
+        9,
+        28,
+        29,
+        110
+      ],
+      "attributes": [
+        92,
+        65,
+        77,
+        82,
+        80,
+        87
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50594616,
+      "assetId": 262968
     }
   }
 }

@@ -36,7 +36,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 12250,
+      "price": 11750,
       "resourceId": 177683,
       "assetId": 177683
     },
@@ -127,7 +127,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 192883,
       "assetId": 192883
     },
@@ -219,7 +219,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1400,
       "resourceId": 199845,
       "assetId": 199845
     },
@@ -347,7 +347,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 11750,
+      "price": 12000,
       "resourceId": 224232,
       "assetId": 224232
     },
@@ -439,7 +439,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 215000,
+      "price": 380000,
       "resourceId": 226851,
       "assetId": 226851
     },
@@ -526,7 +526,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 17000,
+      "price": 15250,
       "resourceId": 231478,
       "assetId": 231478
     },
@@ -657,7 +657,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 241736,
       "assetId": 241736
     },
@@ -736,7 +736,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 243311,
       "assetId": 243311
     },
@@ -870,7 +870,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 268534,
       "assetId": 268534
     },
@@ -909,7 +909,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 268558,
       "assetId": 268558
     },
@@ -950,7 +950,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 276278,
       "assetId": 276278
     },
@@ -989,7 +989,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 250,
       "resourceId": 277327,
       "assetId": 277327
     },
@@ -1040,7 +1040,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 36000,
+      "price": 35000,
       "resourceId": 50539776,
       "assetId": 208128
     },
@@ -1131,7 +1131,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 56500,
+      "price": 47500,
       "resourceId": 50564744,
       "assetId": 233096
     },
@@ -1189,15 +1189,15 @@
       "resourceId": 50590296,
       "assetId": 258648
     },
-    "50591213": {
+    "67368429": {
       "name": "Yoan Bonny",
       "cardName": "Bonny",
-      "originalVersionId": "3",
+      "originalVersionId": "50",
       "clubId": 131682,
       "leagueId": 31,
       "countryId": 18,
-      "versionId": "3",
-      "rating": 81,
+      "versionId": "50",
+      "rating": 86,
       "preferredFoot": "Right",
       "weakFoot": 3,
       "skillMoves": 4,
@@ -1209,30 +1209,36 @@
       "playStyles": [
         0,
         11,
+        20,
         4
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        24
+      ],
       "rolesPlus": [
+        32,
         41,
         42,
+        133,
         143
       ],
       "rolesPlusPlus": [
+        32,
         41,
         42,
+        133,
         143
       ],
       "attributes": [
-        89,
-        81,
-        76,
-        83,
-        39,
-        80
+        94,
+        86,
+        82,
+        88,
+        45,
+        85
       ],
-      "hasDynamicImage": true,
-      "price": 14250,
-      "resourceId": 50591213,
+      "hasDynamicImage": false,
+      "resourceId": 67368429,
       "assetId": 259565
     }
   }

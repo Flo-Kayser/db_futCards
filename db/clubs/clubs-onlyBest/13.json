@@ -37,7 +37,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 250,
       "resourceId": 163600,
       "assetId": 163600
     },
@@ -157,7 +157,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 350,
       "resourceId": 198039,
       "assetId": 198039
     },
@@ -196,7 +196,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 400,
       "resourceId": 203487,
       "assetId": 203487
     },
@@ -235,7 +235,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 203841,
       "assetId": 203841
     },
@@ -320,7 +320,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 350,
       "resourceId": 207650,
       "assetId": 207650
     },
@@ -366,7 +366,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 210047,
       "assetId": 210047
     },
@@ -496,7 +496,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 488000,
+      "price": 478000,
       "resourceId": 233731,
       "assetId": 233731
     },
@@ -536,7 +536,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 233934,
       "assetId": 233934
     },
@@ -618,7 +618,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 237329,
       "assetId": 237329
     },
@@ -664,55 +664,9 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 7200,
+      "price": 6900,
       "resourceId": 241096,
       "assetId": 241096
-    },
-    "242964": {
-      "name": "Anthony Gordon",
-      "cardName": "Gordon",
-      "originalVersionId": "1",
-      "clubId": 13,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "3002",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        12,
-        21,
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        36,
-        39
-      ],
-      "rolesPlusPlus": [
-        36,
-        39
-      ],
-      "attributes": [
-        91,
-        79,
-        78,
-        83,
-        50,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 800,
-      "resourceId": 242964,
-      "assetId": 242964
     },
     "246923": {
       "name": "Jacob Ramsey",
@@ -791,7 +745,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 251809,
       "assetId": 251809
     },
@@ -834,7 +788,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 256261,
       "assetId": 256261
     },
@@ -879,7 +833,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 257470,
       "assetId": 257470
     },
@@ -920,7 +874,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 258805,
       "assetId": 258805
     },
@@ -1006,7 +960,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 266127,
       "assetId": 266127
     },
@@ -1045,7 +999,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 270519,
       "assetId": 270519
     },
@@ -1088,7 +1042,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 270617,
       "assetId": 270617
     },
@@ -1125,7 +1079,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 250,
       "resourceId": 274246,
       "assetId": 274246
     },
@@ -1171,6 +1125,59 @@
       "resourceId": 50566472,
       "assetId": 234824
     },
+    "50574612": {
+      "name": "Anthony Gordon",
+      "cardName": "Gordon",
+      "originalVersionId": "50",
+      "clubId": 13,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "50",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        20,
+        21
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        27,
+        35,
+        38,
+        136,
+        139
+      ],
+      "rolesPlusPlus": [
+        27,
+        35,
+        38,
+        136,
+        139
+      ],
+      "attributes": [
+        94,
+        86,
+        83,
+        88,
+        55,
+        76
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50574612,
+      "assetId": 242964
+    },
     "50579499": {
       "name": "Bruno Guimarães",
       "cardName": "Bruno Guimarães",
@@ -1215,7 +1222,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 24000,
       "resourceId": 50579499,
       "assetId": 247851
     },
@@ -1260,7 +1267,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 700,
       "resourceId": 50585670,
       "assetId": 254022
     }

@@ -37,7 +37,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 76739,
       "assetId": 76739
     },
@@ -75,7 +75,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 76740,
       "assetId": 76740
     },
@@ -122,7 +122,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 193352,
       "assetId": 193352
     },
@@ -161,7 +161,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 194911,
       "assetId": 194911
     },
@@ -213,7 +213,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1400,
       "resourceId": 197781,
       "assetId": 197781
     },
@@ -260,43 +260,6 @@
       "resourceId": 198141,
       "assetId": 198141
     },
-    "198951": {
-      "name": "Cédric Bakambu",
-      "cardName": "Bakambu",
-      "originalVersionId": "0",
-      "clubId": 449,
-      "leagueId": 53,
-      "countryId": 110,
-      "versionId": "2002",
-      "rating": 77,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42
-      ],
-      "rolesPlusPlus": [
-        42
-      ],
-      "attributes": [
-        78,
-        78,
-        68,
-        72,
-        40,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 198951,
-      "assetId": 198951
-    },
     "203747": {
       "name": "Héctor Bellerín",
       "cardName": "Héctor Bellerín",
@@ -331,7 +294,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 350,
       "resourceId": 203747,
       "assetId": 203747
     },
@@ -372,7 +335,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 212602,
       "assetId": 212602
     },
@@ -412,7 +375,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 221087,
       "assetId": 221087
     },
@@ -590,7 +553,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 237034,
       "assetId": 237034
     },
@@ -682,7 +645,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 241867,
       "assetId": 241867
     },
@@ -722,7 +685,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1500,
       "resourceId": 246657,
       "assetId": 246657
     },
@@ -906,7 +869,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 267860,
       "assetId": 267860
     },
@@ -944,7 +907,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 200,
       "resourceId": 272487,
       "assetId": 272487
     },
@@ -1027,9 +990,55 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 277537,
       "assetId": 277537
+    },
+    "50530599": {
+      "name": "Cédric Bakambu",
+      "cardName": "Bakambu",
+      "originalVersionId": "46",
+      "clubId": 449,
+      "leagueId": 53,
+      "countryId": 110,
+      "versionId": "46",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        20,
+        22,
+        25,
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        44,
+        142
+      ],
+      "rolesPlusPlus": [
+        41,
+        44,
+        142
+      ],
+      "attributes": [
+        88,
+        87,
+        76,
+        84,
+        48,
+        78
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50530599,
+      "assetId": 198951
     },
     "50555806": {
       "name": "Sofyan Amrabat",
@@ -1206,7 +1215,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 104000,
+      "price": 93500,
       "resourceId": 67364339,
       "assetId": 255475
     }

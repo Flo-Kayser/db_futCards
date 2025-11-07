@@ -158,7 +158,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 211515,
       "assetId": 211515
     },
@@ -203,7 +203,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 10000,
       "resourceId": 220651,
       "assetId": 220651
     },
@@ -370,7 +370,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 750,
       "resourceId": 230872,
       "assetId": 230872
     },
@@ -491,51 +491,9 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 242458,
       "assetId": 242458
-    },
-    "250723": {
-      "name": "Kouadio Manu Koné",
-      "cardName": "Koné",
-      "originalVersionId": "1",
-      "clubId": 52,
-      "leagueId": 31,
-      "countryId": 18,
-      "versionId": "3002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CM"
-      ],
-      "playStyles": [
-        2,
-        20,
-        26,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18
-      ],
-      "rolesPlusPlus": [
-        18
-      ],
-      "attributes": [
-        74,
-        74,
-        75,
-        81,
-        74,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 1000,
-      "resourceId": 250723,
-      "assetId": 250723
     },
     "258826": {
       "name": "Devyne Rensch",
@@ -579,7 +537,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 258826,
       "assetId": 258826
     },
@@ -618,7 +576,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 259608,
       "assetId": 259608
     },
@@ -867,7 +825,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 275291,
       "assetId": 275291
     },
@@ -906,7 +864,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 350,
       "resourceId": 277695,
       "assetId": 277695
     },
@@ -991,7 +949,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 49500,
+      "sbcPrice": 50000,
       "resourceId": 50411818,
       "assetId": 80170
     },
@@ -1053,7 +1011,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 416000,
+      "price": 380000,
       "resourceId": 50542758,
       "assetId": 211110
     },
@@ -1101,7 +1059,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 15750,
+      "price": 15250,
       "resourceId": 50559899,
       "assetId": 228251
     },
@@ -1149,7 +1107,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 14500,
       "resourceId": 50561230,
       "assetId": 229582
     },
@@ -1192,6 +1150,54 @@
       "price": 350,
       "resourceId": 50563871,
       "assetId": 232223
+    },
+    "50582371": {
+      "name": "Kouadio Manu Koné",
+      "cardName": "Koné",
+      "originalVersionId": "46",
+      "clubId": 52,
+      "leagueId": 31,
+      "countryId": 18,
+      "versionId": "46",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        2,
+        20,
+        26,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        19,
+        21,
+        118
+      ],
+      "rolesPlusPlus": [
+        14,
+        19,
+        21,
+        118
+      ],
+      "attributes": [
+        81,
+        82,
+        82,
+        88,
+        84,
+        86
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50582371,
+      "assetId": 250723
     },
     "50597343": {
       "name": "Matías Soulé",
@@ -1278,7 +1284,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 50608328,
       "assetId": 276680
     }

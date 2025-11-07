@@ -1,6 +1,57 @@
 {
   "clubName": "FC Porto",
   "players": {
+    "50404645": {
+      "name": "Rodrigo Mora",
+      "cardName": "Rodrigo Mora",
+      "originalVersionId": "46",
+      "clubId": 236,
+      "leagueId": 308,
+      "countryId": 38,
+      "versionId": "46",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        23,
+        7
+      ],
+      "playStylesPlus": [
+        13
+      ],
+      "rolesPlus": [
+        33,
+        43,
+        132,
+        140
+      ],
+      "rolesPlusPlus": [
+        33,
+        43,
+        132,
+        140
+      ],
+      "attributes": [
+        86,
+        81,
+        83,
+        88,
+        50,
+        50
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50404645,
+      "assetId": 72997
+    },
     "50590377": {
       "name": "Gabri Veiga",
       "cardName": "Gabri Veiga",
@@ -48,7 +99,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 14000,
       "resourceId": 50590377,
       "assetId": 258729
     }

@@ -308,7 +308,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 6900,
+      "price": 2000,
       "resourceId": 72876,
       "assetId": 72876
     },
@@ -348,7 +348,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 72877,
       "assetId": 72877
     },
@@ -385,7 +385,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 72878,
       "assetId": 72878
     },
@@ -426,7 +426,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 212934,
       "assetId": 212934
     },
@@ -580,51 +580,9 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 236420,
       "assetId": 236420
-    },
-    "257265": {
-      "name": "Matheus Silva",
-      "cardName": "Matheus Silva",
-      "originalVersionId": "1",
-      "clubId": 113888,
-      "leagueId": 2244,
-      "countryId": 54,
-      "versionId": "3001",
-      "rating": 69,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "CB",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        18,
-        21
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        3
-      ],
-      "rolesPlusPlus": [
-        3
-      ],
-      "attributes": [
-        82,
-        49,
-        58,
-        69,
-        64,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 1000,
-      "resourceId": 257265,
-      "assetId": 257265
     },
     "258239": {
       "name": "Mateusz Kochalski",
@@ -699,7 +657,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 271135,
       "assetId": 271135
     },
@@ -858,6 +816,55 @@
       "price": 200,
       "resourceId": 278145,
       "assetId": 278145
+    },
+    "50588913": {
+      "name": "Matheus Silva",
+      "cardName": "Matheus Silva",
+      "originalVersionId": "50",
+      "clubId": 113888,
+      "leagueId": 2244,
+      "countryId": 54,
+      "versionId": "50",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        11,
+        16,
+        18,
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        24,
+        48,
+        103
+      ],
+      "rolesPlusPlus": [
+        6,
+        24,
+        48,
+        103
+      ],
+      "attributes": [
+        90,
+        64,
+        73,
+        83,
+        80,
+        83
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50588913,
+      "assetId": 257265
     }
   }
 }

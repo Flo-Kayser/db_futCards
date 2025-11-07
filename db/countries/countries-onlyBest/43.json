@@ -187,7 +187,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 72556,
     "assetId": 72556
   },
@@ -266,7 +266,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 200,
     "resourceId": 72954,
     "assetId": 72954
   },
@@ -419,7 +419,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 600,
     "resourceId": 73203,
     "assetId": 73203
   },
@@ -787,7 +787,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 900,
     "resourceId": 216435,
     "assetId": 216435
   },
@@ -870,7 +870,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 219768,
     "assetId": 219768
   },
@@ -912,7 +912,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 350,
     "resourceId": 220061,
     "assetId": 220061
   },
@@ -953,7 +953,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 220407,
     "assetId": 220407
   },
@@ -1073,54 +1073,9 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 350,
     "resourceId": 222951,
     "assetId": 222951
-  },
-  "227562": {
-    "name": "Lukáš Haraslín",
-    "cardName": "Haraslín",
-    "originalVersionId": "0",
-    "clubId": 267,
-    "leagueId": 319,
-    "countryId": 43,
-    "versionId": "2002",
-    "rating": 78,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "RW",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      20,
-      22,
-      27
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      38
-    ],
-    "rolesPlusPlus": [
-      38
-    ],
-    "attributes": [
-      80,
-      74,
-      73,
-      81,
-      40,
-      59
-    ],
-    "hasDynamicImage": false,
-    "price": 350,
-    "resourceId": 227562,
-    "assetId": 227562
   },
   "227706": {
     "name": "Jakub Hromada",
@@ -1158,7 +1113,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 300,
     "resourceId": 227706,
     "assetId": 227706
   },
@@ -1614,7 +1569,7 @@
       55
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 252099,
     "assetId": 252099
   },
@@ -2178,7 +2133,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 300,
     "resourceId": 276259,
     "assetId": 276259
   },
@@ -2297,7 +2252,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 350,
     "resourceId": 277482,
     "assetId": 277482
   },
@@ -2358,9 +2313,67 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 927000,
+    "price": 920000,
     "resourceId": 50503525,
     "assetId": 171877
+  },
+  "50559210": {
+    "name": "Lukáš Haraslín",
+    "cardName": "Haraslín",
+    "originalVersionId": "105",
+    "clubId": 267,
+    "leagueId": 319,
+    "countryId": 43,
+    "versionId": "105",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      27,
+      9
+    ],
+    "playStylesPlus": [
+      22
+    ],
+    "rolesPlus": [
+      30,
+      36,
+      39,
+      41,
+      127,
+      135,
+      138
+    ],
+    "rolesPlusPlus": [
+      30,
+      36,
+      39,
+      41,
+      127,
+      135,
+      138
+    ],
+    "attributes": [
+      89,
+      85,
+      84,
+      90,
+      50,
+      70
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50559210,
+    "assetId": 227562
   },
   "50578751": {
     "name": "Dávid Hancko",
@@ -2409,7 +2422,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 64050,
+    "sbcPrice": 69550,
     "resourceId": 50578751,
     "assetId": 247103
   }

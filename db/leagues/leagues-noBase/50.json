@@ -1,4 +1,53 @@
 {
+  "50542741": {
+    "name": "Callum McGregor",
+    "cardName": "McGregor",
+    "originalVersionId": "46",
+    "clubId": 78,
+    "leagueId": 50,
+    "countryId": 42,
+    "versionId": "46",
+    "rating": 86,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      2,
+      24,
+      26,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      16,
+      20,
+      21,
+      149
+    ],
+    "rolesPlusPlus": [
+      16,
+      20,
+      21,
+      149
+    ],
+    "attributes": [
+      84,
+      83,
+      84,
+      87,
+      80,
+      85
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 50542741,
+    "assetId": 211093
+  },
   "50553693": {
     "name": "Craig Halkett",
     "cardName": "Halkett",
@@ -38,8 +87,111 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 14750,
     "resourceId": 50553693,
     "assetId": 222045
+  },
+  "50571708": {
+    "name": "Max Aarons",
+    "cardName": "Aarons",
+    "originalVersionId": "46",
+    "clubId": 86,
+    "leagueId": 50,
+    "countryId": 14,
+    "versionId": "46",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      14,
+      18,
+      21,
+      26,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      3,
+      7,
+      24,
+      105,
+      109
+    ],
+    "rolesPlusPlus": [
+      3,
+      7,
+      24,
+      105,
+      109
+    ],
+    "attributes": [
+      87,
+      55,
+      74,
+      83,
+      80,
+      83
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50571708,
+    "assetId": 240060
+  },
+  "50583782": {
+    "name": "Leighton Clarkson",
+    "cardName": "Clarkson",
+    "originalVersionId": "105",
+    "clubId": 77,
+    "leagueId": 50,
+    "countryId": 14,
+    "versionId": "105",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      13,
+      22,
+      3,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      17,
+      22,
+      33,
+      131
+    ],
+    "rolesPlusPlus": [
+      17,
+      22,
+      33,
+      131
+    ],
+    "attributes": [
+      83,
+      84,
+      85,
+      86,
+      75,
+      70
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50583782,
+    "assetId": 252134
   }
 }

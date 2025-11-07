@@ -1,52 +1,6 @@
 {
   "clubName": "Manchester City",
   "players": {
-    "50570733": {
-      "name": "Erling Haaland",
-      "cardName": "Haaland",
-      "originalVersionId": "3",
-      "clubId": 10,
-      "leagueId": 13,
-      "countryId": 36,
-      "versionId": "3",
-      "rating": 91,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        1,
-        2,
-        29,
-        4,
-        5,
-        7
-      ],
-      "playStylesPlus": [
-        6
-      ],
-      "rolesPlus": [
-        141
-      ],
-      "rolesPlusPlus": [
-        141
-      ],
-      "attributes": [
-        87,
-        92,
-        72,
-        81,
-        47,
-        89
-      ],
-      "hasDynamicImage": true,
-      "price": 449000,
-      "resourceId": 50570733,
-      "assetId": 239085
-    },
     "50572286": {
       "name": "Tijjani Reijnders",
       "cardName": "Reijnders",
@@ -99,7 +53,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 1145000,
+      "price": 1175000,
       "resourceId": 50572286,
       "assetId": 240638
     },
@@ -153,7 +107,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 21250,
+      "price": 20500,
       "resourceId": 50608943,
       "assetId": 277295
     },
@@ -227,19 +181,19 @@
         73
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 120500,
+      "sbcPrice": 118500,
       "resourceId": 67346556,
       "assetId": 237692
     },
-    "67347949": {
+    "84125165": {
       "name": "Erling Haaland",
       "cardName": "Haaland",
-      "originalVersionId": "43",
+      "originalVersionId": "50",
       "clubId": 10,
       "leagueId": 13,
       "countryId": 36,
-      "versionId": "43",
-      "rating": 91,
+      "versionId": "50",
+      "rating": 92,
       "preferredFoot": "Left",
       "weakFoot": 3,
       "skillMoves": 3,
@@ -250,34 +204,34 @@
       "playStyles": [
         1,
         2,
+        29,
         4,
         5,
-        6,
         7
       ],
       "playStylesPlus": [
-        29
+        6
       ],
       "rolesPlus": [
+        42,
         44,
         141
       ],
       "rolesPlusPlus": [
+        42,
         44,
         141
       ],
       "attributes": [
-        88,
-        93,
-        73,
-        82,
-        48,
-        89
+        89,
+        94,
+        75,
+        83,
+        50,
+        90
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 689000,
-      "price": 633400,
-      "resourceId": 67347949,
+      "resourceId": 84125165,
       "assetId": 239085
     }
   }

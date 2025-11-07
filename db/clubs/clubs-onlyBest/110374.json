@@ -37,7 +37,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 400,
       "resourceId": 72180,
       "assetId": 72180
     },
@@ -120,7 +120,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 450,
       "resourceId": 206654,
       "assetId": 206654
     },
@@ -157,7 +157,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 300,
       "resourceId": 219584,
       "assetId": 219584
     },
@@ -286,7 +286,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 234112,
       "assetId": 234112
     },
@@ -596,7 +596,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 238370,
       "assetId": 238370
     },
@@ -638,7 +638,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 240777,
       "assetId": 240777
     },
@@ -808,7 +808,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 258976,
       "assetId": 258976
     },
@@ -940,7 +940,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 264044,
       "assetId": 264044
     },
@@ -982,7 +982,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 850,
       "resourceId": 266596,
       "assetId": 266596
     },
@@ -1063,52 +1063,9 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 275325,
       "assetId": 275325
-    },
-    "276682": {
-      "name": "Cher Ndour",
-      "cardName": "Ndour",
-      "originalVersionId": "0",
-      "clubId": 110374,
-      "leagueId": 31,
-      "countryId": 27,
-      "versionId": "2001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        20,
-        33
-      ],
-      "rolesPlusPlus": [
-        18,
-        20,
-        33
-      ],
-      "attributes": [
-        55,
-        62,
-        69,
-        71,
-        58,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 500,
-      "resourceId": 276682,
-      "assetId": 276682
     },
     "278340": {
       "name": "Pietro Comuzzo",
@@ -1145,7 +1102,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 278340,
       "assetId": 278340
     },
@@ -1190,7 +1147,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 35150,
+      "sbcPrice": 32850,
       "resourceId": 50512578,
       "assetId": 180930
     },
@@ -1234,7 +1191,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 350,
       "resourceId": 50574066,
       "assetId": 242418
     },
@@ -1276,7 +1233,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 50580033,
       "assetId": 248385
     },
@@ -1326,6 +1283,60 @@
       "price": 350,
       "resourceId": 50584810,
       "assetId": 253162
+    },
+    "50608330": {
+      "name": "Cher Ndour",
+      "cardName": "Ndour",
+      "originalVersionId": "105",
+      "clubId": 110374,
+      "leagueId": 31,
+      "countryId": 27,
+      "versionId": "105",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        16,
+        22,
+        6,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18,
+        20,
+        33,
+        121,
+        131
+      ],
+      "rolesPlusPlus": [
+        16,
+        18,
+        20,
+        33,
+        121,
+        131
+      ],
+      "attributes": [
+        84,
+        78,
+        85,
+        87,
+        75,
+        83
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50608330,
+      "assetId": 276682
     }
   }
 }

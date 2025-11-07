@@ -50,7 +50,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 189000,
+      "price": 174000,
       "resourceId": 50562929,
       "assetId": 231281
     },
@@ -104,7 +104,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 1319000,
+      "price": 1310000,
       "resourceId": 50570442,
       "assetId": 238794
     },
@@ -160,55 +160,9 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 1401000,
+      "price": 2100000,
       "resourceId": 50570701,
       "assetId": 239053
-    },
-    "50571778": {
-      "name": "Éder Militão",
-      "cardName": "Éder Militão",
-      "originalVersionId": "3",
-      "clubId": 243,
-      "leagueId": 53,
-      "countryId": 54,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        15,
-        16,
-        19,
-        2
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        12,
-        113
-      ],
-      "rolesPlusPlus": [
-        11,
-        12,
-        113
-      ],
-      "attributes": [
-        84,
-        53,
-        72,
-        74,
-        87,
-        84
-      ],
-      "hasDynamicImage": true,
-      "price": 499000,
-      "resourceId": 50571778,
-      "assetId": 240130
     },
     "50575460": {
       "name": "Rodrygo",
@@ -322,7 +276,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 410000,
+      "price": 334000,
       "resourceId": 50584019,
       "assetId": 252371
     },
@@ -373,7 +327,7 @@
         61
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 71450,
+      "sbcPrice": 68900,
       "price": 63350,
       "resourceId": 50595957,
       "assetId": 264309
@@ -420,7 +374,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 145000,
+      "price": 125000,
       "resourceId": 50600537,
       "assetId": 268889
     },
@@ -466,7 +420,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 58500,
+      "sbcPrice": 61500,
       "resourceId": 50609997,
       "assetId": 278349
     },
@@ -518,7 +472,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 4084500,
+      "sbcPrice": 4188250,
       "resourceId": 67340611,
       "assetId": 231747
     },
@@ -587,9 +541,57 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 2879000,
+      "price": 2935000,
       "resourceId": 67347658,
       "assetId": 238794
+    },
+    "67348994": {
+      "name": "Éder Militão",
+      "cardName": "Éder Militão",
+      "originalVersionId": "50",
+      "clubId": 243,
+      "leagueId": 53,
+      "countryId": 54,
+      "versionId": "50",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        19,
+        2,
+        4,
+        8
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        11,
+        12,
+        113
+      ],
+      "rolesPlusPlus": [
+        11,
+        12,
+        113
+      ],
+      "attributes": [
+        85,
+        55,
+        74,
+        75,
+        88,
+        86
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67348994,
+      "assetId": 240130
     }
   }
 }

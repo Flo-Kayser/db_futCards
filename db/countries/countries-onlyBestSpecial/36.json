@@ -37,7 +37,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 45500,
+    "price": 35000,
     "resourceId": 1845,
     "assetId": 1845
   },
@@ -87,7 +87,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 73000,
+    "price": 65000,
     "resourceId": 274967,
     "assetId": 274967
   },
@@ -140,6 +140,57 @@
     "resourceId": 50517070,
     "assetId": 185422
   },
+  "50558750": {
+    "name": "Caroline Graham Hansen",
+    "cardName": "Graham Hansen",
+    "originalVersionId": "31",
+    "clubId": 116325,
+    "leagueId": 2222,
+    "countryId": 36,
+    "versionId": "31",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      10,
+      22,
+      23,
+      25
+    ],
+    "playStylesPlus": [
+      20
+    ],
+    "rolesPlus": [
+      23,
+      35,
+      126,
+      136
+    ],
+    "rolesPlusPlus": [
+      23,
+      35,
+      126,
+      136
+    ],
+    "attributes": [
+      89,
+      88,
+      88,
+      91,
+      48,
+      76
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50558750,
+    "assetId": 227102
+  },
   "50559017": {
     "name": "Synne Jensen",
     "cardName": "Jensen",
@@ -186,55 +237,9 @@
       81
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 15700,
+    "sbcPrice": 15400,
     "resourceId": 50559017,
     "assetId": 227369
-  },
-  "50570733": {
-    "name": "Erling Haaland",
-    "cardName": "Haaland",
-    "originalVersionId": "3",
-    "clubId": 10,
-    "leagueId": 13,
-    "countryId": 36,
-    "versionId": "3",
-    "rating": 91,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      1,
-      2,
-      29,
-      4,
-      5,
-      7
-    ],
-    "playStylesPlus": [
-      6
-    ],
-    "rolesPlus": [
-      141
-    ],
-    "rolesPlusPlus": [
-      141
-    ],
-    "attributes": [
-      87,
-      92,
-      72,
-      81,
-      47,
-      89
-    ],
-    "hasDynamicImage": true,
-    "price": 449000,
-    "resourceId": 50570733,
-    "assetId": 239085
   },
   "50577939": {
     "name": "Leo Cornic",
@@ -276,7 +281,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 14500,
+    "price": 14000,
     "resourceId": 50577939,
     "assetId": 246291
   },
@@ -371,7 +376,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 11500,
     "resourceId": 50597902,
     "assetId": 266254
   },
@@ -425,19 +430,19 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 21250,
+    "price": 20500,
     "resourceId": 50608943,
     "assetId": 277295
   },
-  "67347949": {
+  "84125165": {
     "name": "Erling Haaland",
     "cardName": "Haaland",
-    "originalVersionId": "43",
+    "originalVersionId": "50",
     "clubId": 10,
     "leagueId": 13,
     "countryId": 36,
-    "versionId": "43",
-    "rating": 91,
+    "versionId": "50",
+    "rating": 92,
     "preferredFoot": "Left",
     "weakFoot": 3,
     "skillMoves": 3,
@@ -448,34 +453,34 @@
     "playStyles": [
       1,
       2,
+      29,
       4,
       5,
-      6,
       7
     ],
     "playStylesPlus": [
-      29
+      6
     ],
     "rolesPlus": [
+      42,
       44,
       141
     ],
     "rolesPlusPlus": [
+      42,
       44,
       141
     ],
     "attributes": [
-      88,
-      93,
-      73,
-      82,
-      48,
-      89
+      89,
+      94,
+      75,
+      83,
+      50,
+      90
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 689000,
-    "price": 633400,
-    "resourceId": 67347949,
+    "resourceId": 84125165,
     "assetId": 239085
   }
 }
