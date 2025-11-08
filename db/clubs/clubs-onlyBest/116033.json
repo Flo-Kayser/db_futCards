@@ -42,7 +42,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 11000,
+      "price": 12500,
       "resourceId": 227310,
       "assetId": 227310
     },
@@ -93,7 +93,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 16500,
+      "price": 15500,
       "resourceId": 227361,
       "assetId": 227361
     },
@@ -138,7 +138,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1200,
       "resourceId": 227392,
       "assetId": 227392
     },
@@ -191,7 +191,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 12000,
+      "price": 11000,
       "resourceId": 231432,
       "assetId": 231432
     },
@@ -236,7 +236,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1200,
       "resourceId": 242896,
       "assetId": 242896
     },
@@ -319,7 +319,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 16250,
+      "price": 15500,
       "resourceId": 246272,
       "assetId": 246272
     },
@@ -478,7 +478,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 10000,
       "resourceId": 264980,
       "assetId": 264980
     },
@@ -615,7 +615,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 7300,
+      "price": 6800,
       "resourceId": 265898,
       "assetId": 265898
     },
@@ -731,7 +731,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 8000,
+      "price": 10000,
       "resourceId": 277171,
       "assetId": 277171
     },
@@ -768,46 +768,9 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 277175,
       "assetId": 277175
-    },
-    "277951": {
-      "name": "Lily Yohannes",
-      "cardName": "Yohannes",
-      "originalVersionId": "1",
-      "clubId": 116033,
-      "leagueId": 2218,
-      "countryId": 95,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18
-      ],
-      "rolesPlusPlus": [
-        18
-      ],
-      "attributes": [
-        69,
-        68,
-        68,
-        76,
-        63,
-        65
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 277951,
-      "assetId": 277951
     },
     "50558964": {
       "name": "Wendie Renard",
@@ -854,7 +817,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 62000,
+      "price": 49500,
       "resourceId": 50558964,
       "assetId": 227316
     },
@@ -961,7 +924,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 220000,
+      "price": 189000,
       "resourceId": 50597322,
       "assetId": 265674
     },
@@ -1011,7 +974,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 13250,
       "resourceId": 50597553,
       "assetId": 265905
     },
@@ -1057,7 +1020,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 14000,
       "resourceId": 50605594,
       "assetId": 273946
     },
@@ -1115,6 +1078,52 @@
       "resourceId": 50606401,
       "assetId": 274753
     },
+    "50609599": {
+      "name": "Lily Yohannes",
+      "cardName": "Yohannes",
+      "originalVersionId": "58",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 95,
+      "versionId": "58",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        16,
+        26,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        20,
+        21,
+        118
+      ],
+      "rolesPlusPlus": [
+        20,
+        21,
+        118
+      ],
+      "attributes": [
+        83,
+        81,
+        82,
+        86,
+        77,
+        79
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50609599,
+      "assetId": 277951
+    },
     "50609867": {
       "name": "Tabitha Chawinga",
       "cardName": "Chawinga",
@@ -1157,7 +1166,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 19250,
+      "price": 16500,
       "resourceId": 50609867,
       "assetId": 278219
     }

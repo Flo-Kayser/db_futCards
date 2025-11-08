@@ -1,6 +1,55 @@
 {
   "clubName": "Newcastle Utd",
   "players": {
+    "50529680": {
+      "name": "Dan Burn",
+      "cardName": "Burn",
+      "originalVersionId": "8",
+      "clubId": 13,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "8",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        15,
+        16,
+        18,
+        19
+      ],
+      "playStylesPlus": [
+        4
+      ],
+      "rolesPlus": [
+        12,
+        111,
+        113
+      ],
+      "rolesPlusPlus": [
+        12,
+        111,
+        113
+      ],
+      "attributes": [
+        82,
+        65,
+        74,
+        76,
+        86,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50529680,
+      "assetId": 198032
+    },
     "50574612": {
       "name": "Anthony Gordon",
       "cardName": "Gordon",
@@ -51,6 +100,7 @@
         76
       ],
       "hasDynamicImage": true,
+      "price": 415000,
       "resourceId": 50574612,
       "assetId": 242964
     },
@@ -98,7 +148,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 24000,
+      "price": 25000,
       "resourceId": 50579499,
       "assetId": 247851
     }

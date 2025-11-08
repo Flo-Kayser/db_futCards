@@ -13,6 +13,19 @@
         "tertiaryColor": "#574e2c"
       }
     },
+    "8": {
+      "count": 4,
+      "file": "db/versions/8.json",
+      "details": {
+        "name": "Star Performer",
+        "hasStrip": true,
+        "createdAt": "2025-11-07T16:30:00.322Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_8_0.png",
+        "primaryColor": "#fffaf3",
+        "secondaryColor": "#d36f0d",
+        "tertiaryColor": "#ffc439"
+      }
+    },
     "12": {
       "count": 124,
       "file": "db/versions/12.json",
@@ -56,7 +69,7 @@
       "count": 4,
       "file": "db/versions/26.json",
       "details": {
-        "name": "Special Item",
+        "name": "UCL Primetime Hero",
         "hasStrip": true,
         "createdAt": "2025-10-31T16:30:00.347Z",
         "url": "https://assets.easysbc.io/fc26/cards/e_26_0.png",
@@ -69,7 +82,7 @@
       "count": 2,
       "file": "db/versions/27.json",
       "details": {
-        "name": "Centurions Evolution",
+        "name": "UWCL Primetime Hero",
         "hasStrip": true,
         "createdAt": "2025-10-31T16:30:00.347Z",
         "url": "https://assets.easysbc.io/fc26/cards/e_27_0.png",
@@ -79,10 +92,10 @@
       }
     },
     "31": {
-      "count": 4,
+      "count": 5,
       "file": "db/versions/31.json",
       "details": {
-        "name": "UWCL Road to the Knockouts",
+        "name": "UEFA Women's Champions League Primetime",
         "hasStrip": true,
         "createdAt": "2025-09-17T17:01:45.964Z",
         "url": "https://assets.easysbc.io/fc26/cards/e_31_0.png",
@@ -121,7 +134,7 @@
       "count": 14,
       "file": "db/versions/46.json",
       "details": {
-        "name": "UEL Road to the Knockouts",
+        "name": "UEFA Europa League Primetime",
         "hasStrip": true,
         "createdAt": "2025-09-17T17:01:45.964Z",
         "url": "https://assets.easysbc.io/fc26/cards/e_46_0.png",
@@ -134,7 +147,7 @@
       "count": 19,
       "file": "db/versions/50.json",
       "details": {
-        "name": "UCL Road to the Knockouts",
+        "name": "UEFA Champions League Primetime",
         "hasStrip": true,
         "createdAt": "2025-09-17T17:01:45.964Z",
         "url": "https://assets.easysbc.io/fc26/cards/e_50_0.png",
@@ -170,7 +183,7 @@
       }
     },
     "58": {
-      "count": 3,
+      "count": 7,
       "file": "db/versions/58.json",
       "details": {
         "name": "Showdown",
@@ -264,7 +277,7 @@
       "count": 6,
       "file": "db/versions/105.json",
       "details": {
-        "name": "UECL Road to the Knockouts",
+        "name": "UEFA Conference League Primetime",
         "hasStrip": true,
         "createdAt": "2025-09-17T17:01:45.964Z",
         "url": "https://assets.easysbc.io/fc26/cards/e_105_0.png",
@@ -431,8 +444,8 @@
     }
   },
   "meta": {
-    "totalVersions": 33,
-    "totalVersionsWithoutBase": 27,
-    "updatedAt": "2025-11-07T18:39:53.453Z"
+    "totalVersions": 34,
+    "totalVersionsWithoutBase": 28,
+    "updatedAt": "2025-11-08T18:37:24.010Z"
   }
 }

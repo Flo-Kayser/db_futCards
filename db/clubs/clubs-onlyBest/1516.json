@@ -291,7 +291,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 244456,
       "assetId": 244456
     },
@@ -369,7 +369,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1000,
       "resourceId": 247187,
       "assetId": 247187
     },
@@ -450,7 +450,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 251847,
       "assetId": 251847
     },
@@ -730,7 +730,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 270686,
       "assetId": 270686
     },
@@ -806,7 +806,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 277211,
       "assetId": 277211
     },
@@ -853,46 +853,6 @@
       "price": 200,
       "resourceId": 278012,
       "assetId": 278012
-    },
-    "279252": {
-      "name": "Mikel Gogorza",
-      "cardName": "Gogorza",
-      "originalVersionId": "0",
-      "clubId": 1516,
-      "leagueId": 1,
-      "countryId": 13,
-      "versionId": "2001",
-      "rating": 67,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        38,
-        39
-      ],
-      "rolesPlusPlus": [
-        38,
-        39
-      ],
-      "attributes": [
-        76,
-        63,
-        63,
-        67,
-        32,
-        55
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 279252,
-      "assetId": 279252
     },
     "50405654": {
       "name": "Ovie Ejeheri",
@@ -1019,9 +979,61 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 13750,
       "resourceId": 50588581,
       "assetId": 256933
+    },
+    "50610900": {
+      "name": "Mikel Gogorza",
+      "cardName": "Gogorza",
+      "originalVersionId": "8",
+      "clubId": 1516,
+      "leagueId": 1,
+      "countryId": 13,
+      "versionId": "8",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20,
+        21,
+        26,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        27,
+        38,
+        130,
+        139
+      ],
+      "rolesPlusPlus": [
+        27,
+        38,
+        130,
+        139
+      ],
+      "attributes": [
+        91,
+        85,
+        82,
+        86,
+        51,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50610900,
+      "assetId": 279252
     }
   }
 }

@@ -71,7 +71,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 1600,
       "resourceId": 71364,
       "assetId": 71364
     },
@@ -145,7 +145,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 1200,
       "resourceId": 79431,
       "assetId": 79431
     },
@@ -283,7 +283,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 233364,
       "assetId": 233364
     },
@@ -336,7 +336,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 25000,
+      "price": 22000,
       "resourceId": 237288,
       "assetId": 237288
     },
@@ -381,7 +381,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1200,
       "resourceId": 239761,
       "assetId": 239761
     },
@@ -472,7 +472,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 11000,
+      "price": 10750,
       "resourceId": 245802,
       "assetId": 245802
     },
@@ -518,7 +518,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 11750,
+      "price": 11000,
       "resourceId": 246426,
       "assetId": 246426
     },
@@ -565,7 +565,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1200,
       "resourceId": 248343,
       "assetId": 248343
     },
@@ -652,7 +652,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 850,
       "resourceId": 258680,
       "assetId": 258680
     },
@@ -701,7 +701,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 22750,
+      "price": 22000,
       "resourceId": 258980,
       "assetId": 258980
     },
@@ -876,48 +876,6 @@
       "price": 400,
       "resourceId": 265242,
       "assetId": 265242
-    },
-    "266915": {
-      "name": "Taylor Hinds",
-      "cardName": "Hinds",
-      "originalVersionId": "0",
-      "clubId": 116009,
-      "leagueId": 2216,
-      "countryId": 14,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9,
-        10,
-        29
-      ],
-      "rolesPlusPlus": [
-        9,
-        10,
-        29
-      ],
-      "attributes": [
-        76,
-        61,
-        71,
-        73,
-        71,
-        64
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 266915,
-      "assetId": 266915
     },
     "266949": {
       "name": "Laia Codina",
@@ -1119,7 +1077,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 5100,
       "resourceId": 279129,
       "assetId": 279129
     },
@@ -1200,7 +1158,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 178000,
+      "price": 128000,
       "resourceId": 50568936,
       "assetId": 237288
     },
@@ -1250,7 +1208,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 20750,
+      "price": 18000,
       "resourceId": 50577520,
       "assetId": 245872
     },
@@ -1296,7 +1254,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 13250,
       "resourceId": 50594661,
       "assetId": 263013
     },
@@ -1347,9 +1305,58 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 27000,
+      "price": 25000,
       "resourceId": 50596887,
       "assetId": 265239
+    },
+    "50598563": {
+      "name": "Taylor Hinds",
+      "cardName": "Hinds",
+      "originalVersionId": "58",
+      "clubId": 116009,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "58",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        13,
+        14,
+        21,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        10,
+        29,
+        109
+      ],
+      "rolesPlusPlus": [
+        8,
+        10,
+        29,
+        109
+      ],
+      "attributes": [
+        87,
+        70,
+        80,
+        83,
+        80,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50598563,
+      "assetId": 266915
     }
   }
 }

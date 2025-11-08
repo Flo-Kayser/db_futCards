@@ -1,46 +1,6 @@
 {
   "clubName": "FC Bayern München",
   "players": {
-    "70145": {
-      "name": "Momoko Tanikawa",
-      "cardName": "Tanikawa",
-      "originalVersionId": "0",
-      "clubId": 115995,
-      "leagueId": 2215,
-      "countryId": 163,
-      "versionId": "2001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        31
-      ],
-      "rolesPlusPlus": [
-        31
-      ],
-      "attributes": [
-        70,
-        66,
-        70,
-        71,
-        52,
-        66
-      ],
-      "hasDynamicImage": false,
-      "price": 250,
-      "resourceId": 70145,
-      "assetId": 70145
-    },
     "226998": {
       "name": "Magdalena Eriksson",
       "cardName": "Eriksson",
@@ -80,7 +40,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 600,
       "resourceId": 226998,
       "assetId": 226998
     },
@@ -125,7 +85,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 239344,
       "assetId": 239344
     },
@@ -170,7 +130,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 239345,
       "assetId": 239345
     },
@@ -257,7 +217,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 6500,
+      "price": 6700,
       "resourceId": 244302,
       "assetId": 244302
     },
@@ -303,7 +263,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 247513,
       "assetId": 247513
     },
@@ -353,7 +313,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1200,
       "resourceId": 247788,
       "assetId": 247788
     },
@@ -439,7 +399,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 264903,
       "assetId": 264903
     },
@@ -519,7 +479,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 700,
       "resourceId": 264933,
       "assetId": 264933
     },
@@ -562,7 +522,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 264994,
       "assetId": 264994
     },
@@ -817,6 +777,55 @@
       "resourceId": 277278,
       "assetId": 277278
     },
+    "50401793": {
+      "name": "Momoko Tanikawa",
+      "cardName": "Tanikawa",
+      "originalVersionId": "58",
+      "clubId": 115995,
+      "leagueId": 2215,
+      "countryId": 163,
+      "versionId": "58",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        1,
+        20,
+        24,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        22,
+        33,
+        131
+      ],
+      "rolesPlusPlus": [
+        21,
+        22,
+        33,
+        131
+      ],
+      "attributes": [
+        84,
+        85,
+        86,
+        83,
+        65,
+        78
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50401793,
+      "assetId": 70145
+    },
     "50575052": {
       "name": "Georgia Stanway",
       "cardName": "Stanway",
@@ -859,7 +868,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 19750,
+      "price": 18000,
       "resourceId": 50575052,
       "assetId": 243404
     },
@@ -908,7 +917,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 29750,
+      "price": 26750,
       "resourceId": 50580365,
       "assetId": 248717
     },
@@ -954,7 +963,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 23250,
+      "price": 21500,
       "resourceId": 50580470,
       "assetId": 248822
     },
@@ -1009,7 +1018,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 22500,
+      "price": 19750,
       "resourceId": 50590935,
       "assetId": 259287
     },
@@ -1055,7 +1064,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 11750,
       "resourceId": 50596534,
       "assetId": 264886
     },
@@ -1107,7 +1116,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 10500,
+      "price": 11750,
       "resourceId": 50596538,
       "assetId": 264890
     }
