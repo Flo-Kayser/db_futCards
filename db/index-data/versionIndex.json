@@ -131,7 +131,7 @@
       }
     },
     "46": {
-      "count": 14,
+      "count": 15,
       "file": "db/versions/46.json",
       "details": {
         "name": "UEFA Europa League Primetime",
@@ -144,7 +144,7 @@
       }
     },
     "50": {
-      "count": 19,
+      "count": 20,
       "file": "db/versions/50.json",
       "details": {
         "name": "UEFA Champions League Primetime",
@@ -170,7 +170,7 @@
       }
     },
     "57": {
-      "count": 1,
+      "count": 2,
       "file": "db/versions/57.json",
       "details": {
         "name": "Showdown Upgrade",
@@ -183,7 +183,7 @@
       }
     },
     "58": {
-      "count": 7,
+      "count": 6,
       "file": "db/versions/58.json",
       "details": {
         "name": "Showdown",
@@ -258,6 +258,19 @@
         "primaryColor": "#fcfcf7",
         "secondaryColor": "#2b2a26",
         "tertiaryColor": "#a6a6a1"
+      }
+    },
+    "90": {
+      "count": 1,
+      "file": "db/versions/90.json",
+      "details": {
+        "name": "Moments",
+        "hasStrip": true,
+        "createdAt": "2025-09-17T17:01:45.963Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_90_0.png",
+        "primaryColor": "#fcfcf7",
+        "secondaryColor": "#303636",
+        "tertiaryColor": "#31ebda"
       }
     },
     "91": {
@@ -444,8 +457,8 @@
     }
   },
   "meta": {
-    "totalVersions": 34,
-    "totalVersionsWithoutBase": 28,
-    "updatedAt": "2025-11-09T18:36:16.478Z"
+    "totalVersions": 35,
+    "totalVersionsWithoutBase": 29,
+    "updatedAt": "2025-11-10T18:43:22.117Z"
   }
 }
