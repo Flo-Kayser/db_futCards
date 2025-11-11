@@ -106,7 +106,7 @@
     "leagueId": 353,
     "countryId": 60,
     "versionId": "57",
-    "rating": 85,
+    "rating": 86,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 3,
@@ -135,15 +135,15 @@
       144
     ],
     "attributes": [
-      82,
-      86,
-      79,
-      84,
-      61,
-      83
+      83,
+      87,
+      80,
+      85,
+      62,
+      84
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 50450,
+    "sbcPrice": 52500,
     "resourceId": 50511461,
     "assetId": 179813
   },
@@ -199,8 +199,62 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 1502000,
+    "price": 1310000,
     "resourceId": 50570701,
     "assetId": 239053
+  },
+  "50583025": {
+    "name": "Rodrigo Zalazar",
+    "cardName": "Zalazar",
+    "originalVersionId": "46",
+    "clubId": 1896,
+    "leagueId": 308,
+    "countryId": 60,
+    "versionId": "46",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM"
+    ],
+    "playStyles": [
+      0,
+      12,
+      19,
+      2,
+      20,
+      7,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      18,
+      25,
+      33,
+      121,
+      131
+    ],
+    "rolesPlusPlus": [
+      18,
+      25,
+      33,
+      121,
+      131
+    ],
+    "attributes": [
+      84,
+      86,
+      85,
+      84,
+      73,
+      80
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50583025,
+    "assetId": 251377
   }
 }

@@ -111,7 +111,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 850,
       "resourceId": 77730,
       "assetId": 77730
     },
@@ -296,7 +296,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 700,
       "resourceId": 231652,
       "assetId": 231652
     },
@@ -469,59 +469,6 @@
       "resourceId": 247138,
       "assetId": 247138
     },
-    "251377": {
-      "name": "Rodrigo Zalazar",
-      "cardName": "Zalazar",
-      "originalVersionId": "1",
-      "clubId": 1896,
-      "leagueId": 308,
-      "countryId": 60,
-      "versionId": "3002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "RM"
-      ],
-      "playStyles": [
-        0,
-        12,
-        19,
-        2,
-        20,
-        7,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        21,
-        25,
-        31,
-        33
-      ],
-      "rolesPlusPlus": [
-        21,
-        25,
-        31,
-        33
-      ],
-      "attributes": [
-        80,
-        81,
-        79,
-        78,
-        67,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 251377,
-      "assetId": 251377
-    },
     "255471": {
       "name": "Vitor Carvalho",
       "cardName": "Vitor Carvalho",
@@ -563,7 +510,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 900,
       "resourceId": 255471,
       "assetId": 255471
     },
@@ -602,7 +549,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 4200,
+      "price": 7200,
       "resourceId": 256343,
       "assetId": 256343
     },
@@ -646,7 +593,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 2300,
       "resourceId": 258315,
       "assetId": 258315
     },
@@ -1242,6 +1189,60 @@
       "price": 350,
       "resourceId": 50559984,
       "assetId": 228336
+    },
+    "50583025": {
+      "name": "Rodrigo Zalazar",
+      "cardName": "Zalazar",
+      "originalVersionId": "46",
+      "clubId": 1896,
+      "leagueId": 308,
+      "countryId": 60,
+      "versionId": "46",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        12,
+        19,
+        2,
+        20,
+        7,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        25,
+        33,
+        121,
+        131
+      ],
+      "rolesPlusPlus": [
+        18,
+        25,
+        33,
+        121,
+        131
+      ],
+      "attributes": [
+        84,
+        86,
+        85,
+        84,
+        73,
+        80
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50583025,
+      "assetId": 251377
     }
   }
 }

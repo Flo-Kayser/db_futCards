@@ -1,6 +1,57 @@
 {
   "clubName": "Sporting CP",
   "players": {
+    "50410918": {
+      "name": "Alisson",
+      "cardName": "Alisson",
+      "originalVersionId": "50",
+      "clubId": 237,
+      "leagueId": 308,
+      "countryId": 54,
+      "versionId": "50",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        1,
+        12,
+        25,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        36,
+        38,
+        139
+      ],
+      "rolesPlusPlus": [
+        27,
+        36,
+        38,
+        139
+      ],
+      "attributes": [
+        91,
+        81,
+        82,
+        85,
+        50,
+        76
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50410918,
+      "assetId": 79270
+    },
     "50572598": {
       "name": "Pedro Gonçalves",
       "cardName": "Pedro Gonçalves",
@@ -52,7 +103,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 13750,
+      "price": 14500,
       "resourceId": 50572598,
       "assetId": 240950
     }
