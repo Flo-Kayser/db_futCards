@@ -1,6 +1,55 @@
 {
   "clubName": "M'gladbach",
   "players": {
+    "50575002": {
+      "name": "Philipp Sander",
+      "cardName": "Sander",
+      "originalVersionId": "3",
+      "clubId": 23,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        26,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        17,
+        18,
+        113
+      ],
+      "rolesPlusPlus": [
+        16,
+        17,
+        18,
+        113
+      ],
+      "attributes": [
+        78,
+        73,
+        83,
+        84,
+        83,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50575002,
+      "assetId": 243354
+    },
     "67320866": {
       "name": "Haris Tabaković",
       "cardName": "Tabaković",
@@ -44,7 +93,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 13750,
       "resourceId": 67320866,
       "assetId": 212002
     }

@@ -668,43 +668,6 @@
       "resourceId": 243516,
       "assetId": 243516
     },
-    "245528": {
-      "name": "Edu Espiau",
-      "cardName": "Edu Espiau",
-      "originalVersionId": "1",
-      "clubId": 111082,
-      "leagueId": 66,
-      "countryId": 45,
-      "versionId": "3000",
-      "rating": 64,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "rolesPlusPlus": [
-        41
-      ],
-      "attributes": [
-        69,
-        63,
-        57,
-        60,
-        25,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 245528,
-      "assetId": 245528
-    },
     "252505": {
       "name": "Jędrzej Grobelny",
       "cardName": "Grobelny",
@@ -949,6 +912,47 @@
       "price": 200,
       "resourceId": 50576379,
       "assetId": 244731
+    },
+    "50577176": {
+      "name": "Edu Espiau",
+      "cardName": "Edu Espiau",
+      "originalVersionId": "3",
+      "clubId": 111082,
+      "leagueId": 66,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        21,
+        29,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141
+      ],
+      "rolesPlusPlus": [
+        141
+      ],
+      "attributes": [
+        88,
+        83,
+        78,
+        81,
+        43,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 25000,
+      "resourceId": 50577176,
+      "assetId": 245528
     }
   }
 }

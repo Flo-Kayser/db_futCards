@@ -193,7 +193,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 227346,
       "assetId": 227346
     },
@@ -237,7 +237,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 700,
       "resourceId": 233852,
       "assetId": 233852
     },
@@ -323,7 +323,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1400,
       "resourceId": 247504,
       "assetId": 247504
     },
@@ -417,7 +417,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1400,
       "resourceId": 262457,
       "assetId": 262457
     },
@@ -459,7 +459,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 700,
       "resourceId": 264884,
       "assetId": 264884
     },
@@ -499,52 +499,6 @@
       "price": 350,
       "resourceId": 264967,
       "assetId": 264967
-    },
-    "267531": {
-      "name": "Romée Leuchter",
-      "cardName": "Leuchter",
-      "originalVersionId": "1",
-      "clubId": 116034,
-      "leagueId": 2218,
-      "countryId": 34,
-      "versionId": "3002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        20,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        39,
-        42,
-        43
-      ],
-      "rolesPlusPlus": [
-        39,
-        42,
-        43
-      ],
-      "attributes": [
-        82,
-        80,
-        67,
-        79,
-        28,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 267531,
-      "assetId": 267531
     },
     "275916": {
       "name": "Jennifer Echegini",
@@ -794,7 +748,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 42750,
+      "price": 41000,
       "resourceId": 50557984,
       "assetId": 226336
     },
@@ -881,11 +835,11 @@
         78,
         88,
         89,
-        99,
+        80,
         70
       ],
       "hasDynamicImage": true,
-      "price": 293000,
+      "price": 308000,
       "resourceId": 50565310,
       "assetId": 233662
     },
@@ -938,6 +892,55 @@
       "resourceId": 50596553,
       "assetId": 264905
     },
+    "50599179": {
+      "name": "Romée Leuchter",
+      "cardName": "Leuchter",
+      "originalVersionId": "3",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 34,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        20,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        39,
+        42,
+        43,
+        141
+      ],
+      "rolesPlusPlus": [
+        39,
+        42,
+        43,
+        141
+      ],
+      "attributes": [
+        87,
+        86,
+        75,
+        84,
+        33,
+        78
+      ],
+      "hasDynamicImage": true,
+      "price": 14000,
+      "resourceId": 50599179,
+      "assetId": 267531
+    },
     "50609873": {
       "name": "Tara Elimbi Gilbert",
       "cardName": "Elimbi Gilbert",
@@ -984,7 +987,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 11250,
       "resourceId": 50609873,
       "assetId": 278225
     }

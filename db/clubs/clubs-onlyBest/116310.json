@@ -315,7 +315,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 232074,
       "assetId": 232074
     },
@@ -357,7 +357,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1400,
       "resourceId": 233244,
       "assetId": 233244
     },
@@ -397,7 +397,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 238412,
       "assetId": 238412
     },
@@ -529,7 +529,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 248794,
       "assetId": 248794
     },
@@ -571,7 +571,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 7300,
+      "price": 7200,
       "resourceId": 258310,
       "assetId": 258310
     },
@@ -958,57 +958,9 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 31000,
+      "price": 33000,
       "resourceId": 50563723,
       "assetId": 232075
-    },
-    "50602688": {
-      "name": "Jaedyn Shaw",
-      "cardName": "Shaw",
-      "originalVersionId": "1",
-      "clubId": 116310,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        8,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        32,
-        33,
-        38,
-        43
-      ],
-      "rolesPlusPlus": [
-        32,
-        33,
-        38,
-        43
-      ],
-      "attributes": [
-        82,
-        71,
-        72,
-        75,
-        44,
-        65
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50602688,
-      "assetId": 271040
     },
     "50606490": {
       "name": "Princess Ademiluyi",
@@ -1046,6 +998,57 @@
       "price": 0,
       "resourceId": 50606490,
       "assetId": 274842
+    },
+    "67379904": {
+      "name": "Jaedyn Shaw",
+      "cardName": "Shaw",
+      "originalVersionId": "3",
+      "clubId": 116310,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        21,
+        6,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        33,
+        38,
+        43,
+        141
+      ],
+      "rolesPlusPlus": [
+        32,
+        33,
+        38,
+        43,
+        141
+      ],
+      "attributes": [
+        91,
+        84,
+        83,
+        84,
+        53,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67379904,
+      "assetId": 271040
     },
     "67380757": {
       "name": "Bruninha",

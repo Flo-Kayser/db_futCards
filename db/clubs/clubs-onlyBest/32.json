@@ -71,7 +71,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1600,
       "resourceId": 75736,
       "assetId": 75736
     },
@@ -434,7 +434,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 212242,
       "assetId": 212242
     },
@@ -762,7 +762,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 395000,
+      "price": 408000,
       "resourceId": 256197,
       "assetId": 256197
     },
@@ -809,7 +809,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2000,
       "resourceId": 264219,
       "assetId": 264219
     },
@@ -852,7 +852,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 268622,
       "assetId": 268622
     },
@@ -894,54 +894,9 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 600,
       "resourceId": 275028,
       "assetId": 275028
-    },
-    "275029": {
-      "name": "Ibrahim Maza",
-      "cardName": "Maza",
-      "originalVersionId": "1",
-      "clubId": 32,
-      "leagueId": 19,
-      "countryId": 97,
-      "versionId": "3001",
-      "rating": 71,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        13,
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        22,
-        31,
-        33
-      ],
-      "rolesPlusPlus": [
-        22,
-        31,
-        33
-      ],
-      "attributes": [
-        75,
-        66,
-        66,
-        79,
-        40,
-        62
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 275029,
-      "assetId": 275029
     },
     "276528": {
       "name": "Claudio Echeverri",
@@ -984,7 +939,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 276528,
       "assetId": 276528
     },
@@ -1051,14 +1006,14 @@
       ],
       "attributes": [
         88,
-        99,
+        83,
         86,
         86,
         56,
         70
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 13750,
       "resourceId": 50568976,
       "assetId": 237328
     },
@@ -1113,7 +1068,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 23500,
+      "price": 22000,
       "resourceId": 50588501,
       "assetId": 256853
     },
@@ -1257,6 +1212,54 @@
       "resourceId": 50605299,
       "assetId": 273651
     },
+    "50606677": {
+      "name": "Ibrahim Maza",
+      "cardName": "Maza",
+      "originalVersionId": "3",
+      "clubId": 32,
+      "leagueId": 19,
+      "countryId": 97,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        20,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        31,
+        33,
+        121
+      ],
+      "rolesPlusPlus": [
+        22,
+        31,
+        33,
+        121
+      ],
+      "attributes": [
+        87,
+        80,
+        81,
+        90,
+        52,
+        76
+      ],
+      "hasDynamicImage": true,
+      "price": 29750,
+      "resourceId": 50606677,
+      "assetId": 275029
+    },
     "67318899": {
       "name": "Grimaldo",
       "cardName": "Grimaldo",
@@ -1312,7 +1315,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 35500,
+      "price": 34500,
       "resourceId": 67318899,
       "assetId": 210035
     },

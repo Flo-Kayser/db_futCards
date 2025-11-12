@@ -79,7 +79,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 600,
       "resourceId": 74449,
       "assetId": 74449
     },
@@ -116,7 +116,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 78216,
       "assetId": 78216
     },
@@ -161,7 +161,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 16500,
+      "price": 17750,
       "resourceId": 207865,
       "assetId": 207865
     },
@@ -207,7 +207,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 800,
       "resourceId": 220814,
       "assetId": 220814
     },
@@ -391,7 +391,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 1180000,
+      "price": 1200000,
       "resourceId": 230621,
       "assetId": 230621
     },
@@ -440,7 +440,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 874000,
+      "price": 902000,
       "resourceId": 231443,
       "assetId": 231443
     },
@@ -531,7 +531,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 91000,
+      "price": 93500,
       "resourceId": 235212,
       "assetId": 235212
     },
@@ -711,7 +711,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 11000,
+      "price": 11500,
       "resourceId": 247635,
       "assetId": 247635
     },
@@ -751,7 +751,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1200,
       "resourceId": 251752,
       "assetId": 251752
     },
@@ -797,61 +797,9 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 55000,
+      "price": 57000,
       "resourceId": 252145,
       "assetId": 252145
-    },
-    "255253": {
-      "name": "Vitinha",
-      "cardName": "Vitinha",
-      "originalVersionId": "1",
-      "clubId": 73,
-      "leagueId": 16,
-      "countryId": 38,
-      "versionId": "3002",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        0,
-        10,
-        11,
-        16,
-        26,
-        8
-      ],
-      "playStylesPlus": [
-        20
-      ],
-      "rolesPlus": [
-        20,
-        116,
-        121
-      ],
-      "rolesPlusPlus": [
-        20,
-        116,
-        121
-      ],
-      "attributes": [
-        72,
-        80,
-        86,
-        90,
-        75,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 22750,
-      "resourceId": 255253,
-      "assetId": 255253
     },
     "256196": {
       "name": "Willian Pacho",
@@ -894,7 +842,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 18500,
+      "price": 23500,
       "resourceId": 256196,
       "assetId": 256196
     },
@@ -1067,7 +1015,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 270673,
       "assetId": 270673
     },
@@ -1113,7 +1061,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 279709,
       "assetId": 279709
     },
@@ -1224,12 +1172,64 @@
         83,
         94,
         50,
-        99
+        69
       ],
       "hasDynamicImage": true,
-      "price": 4999000,
+      "price": 4315000,
       "resourceId": 50563091,
       "assetId": 231443
+    },
+    "50586901": {
+      "name": "Vitinha",
+      "cardName": "Vitinha",
+      "originalVersionId": "3",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 38,
+      "versionId": "3",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        10,
+        11,
+        16,
+        26,
+        8
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        20,
+        116,
+        121
+      ],
+      "rolesPlusPlus": [
+        20,
+        116,
+        121
+      ],
+      "attributes": [
+        76,
+        81,
+        87,
+        91,
+        77,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50586901,
+      "assetId": 255253
     },
     "50596300": {
       "name": "Bradley Barcola",
@@ -1281,7 +1281,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 478000,
+      "price": 485000,
       "resourceId": 50596300,
       "assetId": 264652
     },
@@ -1345,7 +1345,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 299000,
+      "price": 334000,
       "resourceId": 50603069,
       "assetId": 271421
     },
@@ -1396,7 +1396,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 152000,
+      "price": 139000,
       "resourceId": 50604482,
       "assetId": 272834
     }

@@ -1,6 +1,51 @@
 {
   "clubName": "RC Lens",
   "players": {
+    "50544261": {
+      "name": "Wesley Saïd",
+      "cardName": "Saïd",
+      "originalVersionId": "3",
+      "clubId": 64,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        138
+      ],
+      "rolesPlusPlus": [
+        42,
+        138
+      ],
+      "attributes": [
+        83,
+        84,
+        78,
+        87,
+        40,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 14000,
+      "resourceId": 50544261,
+      "assetId": 212613
+    },
     "67313834": {
       "name": "Florian Thauvin",
       "cardName": "Thauvin",
@@ -44,7 +89,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 18200,
+      "sbcPrice": 17800,
       "resourceId": 67313834,
       "assetId": 204970
     }

@@ -81,7 +81,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 70334,
       "assetId": 70334
     },
@@ -127,7 +127,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1000,
       "resourceId": 198164,
       "assetId": 198164
     },
@@ -169,7 +169,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 202515,
       "assetId": 202515
     },
@@ -218,7 +218,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 550,
       "resourceId": 217731,
       "assetId": 217731
     },
@@ -264,7 +264,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 223578,
       "assetId": 223578
     },
@@ -308,7 +308,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 234350,
       "assetId": 234350
     },
@@ -349,7 +349,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 1000,
       "resourceId": 234779,
       "assetId": 234779
     },
@@ -386,7 +386,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 236393,
       "assetId": 236393
     },
@@ -518,7 +518,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 950,
       "resourceId": 243478,
       "assetId": 243478
     },
@@ -597,7 +597,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 500,
       "resourceId": 244394,
       "assetId": 244394
     },
@@ -642,7 +642,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 600,
       "resourceId": 251011,
       "assetId": 251011
     },
@@ -685,7 +685,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 350,
       "resourceId": 251337,
       "assetId": 251337
     },
@@ -735,7 +735,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 350,
       "resourceId": 252079,
       "assetId": 252079
     },
@@ -777,7 +777,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 258922,
       "assetId": 258922
     },
@@ -818,51 +818,9 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 259581,
       "assetId": 259581
-    },
-    "266160": {
-      "name": "Mika Mármol",
-      "cardName": "Mika Mármol",
-      "originalVersionId": "0",
-      "clubId": 472,
-      "leagueId": 54,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "CB",
-        "LB"
-      ],
-      "playStyles": [
-        16
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        8,
-        13
-      ],
-      "rolesPlusPlus": [
-        8,
-        13
-      ],
-      "attributes": [
-        82,
-        38,
-        66,
-        72,
-        74,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 266160,
-      "assetId": 266160
     },
     "269224": {
       "name": "Iván Gil",
@@ -981,7 +939,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 272430,
       "assetId": 272430
     },
@@ -1018,7 +976,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 277239,
       "assetId": 277239
     },
@@ -1065,7 +1023,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 278096,
       "assetId": 278096
     },
@@ -1103,7 +1061,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 278400,
       "assetId": 278400
     },
@@ -1142,7 +1100,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 400,
       "resourceId": 278403,
       "assetId": 278403
     },
@@ -1182,6 +1140,52 @@
       "price": 200,
       "resourceId": 278872,
       "assetId": 278872
+    },
+    "50597808": {
+      "name": "Mika Mármol",
+      "cardName": "Mika Mármol",
+      "originalVersionId": "3",
+      "clubId": 472,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [
+        16,
+        18,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        13,
+        112
+      ],
+      "rolesPlusPlus": [
+        8,
+        13,
+        112
+      ],
+      "attributes": [
+        87,
+        48,
+        76,
+        80,
+        83,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 29750,
+      "resourceId": 50597808,
+      "assetId": 266160
     }
   }
 }
