@@ -1,4 +1,53 @@
 {
+  "50401793": {
+    "name": "Momoko Tanikawa",
+    "cardName": "Tanikawa",
+    "originalVersionId": "57",
+    "clubId": 115995,
+    "leagueId": 2215,
+    "countryId": 163,
+    "versionId": "57",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      1,
+      20,
+      24,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      21,
+      22,
+      33,
+      131
+    ],
+    "rolesPlusPlus": [
+      21,
+      22,
+      33,
+      131
+    ],
+    "attributes": [
+      86,
+      87,
+      88,
+      85,
+      67,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50401793,
+    "assetId": 70145
+  },
   "50511461": {
     "name": "Edinson Cavani",
     "cardName": "Cavani",
@@ -44,7 +93,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 53500,
+    "sbcPrice": 50000,
     "resourceId": 50511461,
     "assetId": 179813
   },
@@ -94,8 +143,54 @@
       71
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 14400,
+    "sbcPrice": 13800,
     "resourceId": 50557758,
     "assetId": 226110
+  },
+  "50609599": {
+    "name": "Lily Yohannes",
+    "cardName": "Yohannes",
+    "originalVersionId": "57",
+    "clubId": 116033,
+    "leagueId": 2218,
+    "countryId": 95,
+    "versionId": "57",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CM"
+    ],
+    "playStyles": [
+      13,
+      16,
+      26,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      20,
+      21,
+      118
+    ],
+    "rolesPlusPlus": [
+      20,
+      21,
+      118
+    ],
+    "attributes": [
+      85,
+      83,
+      84,
+      88,
+      79,
+      81
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50609599,
+    "assetId": 277951
   }
 }
