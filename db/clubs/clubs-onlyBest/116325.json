@@ -45,7 +45,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 314000,
+      "price": 297000,
       "resourceId": 227102,
       "assetId": 227102
     },
@@ -91,7 +91,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 13000,
+      "price": 13250,
       "resourceId": 227190,
       "assetId": 227190
     },
@@ -179,7 +179,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 20500,
+      "price": 19000,
       "resourceId": 236479,
       "assetId": 236479
     },
@@ -230,7 +230,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 21500,
+      "price": 21750,
       "resourceId": 237289,
       "assetId": 237289
     },
@@ -279,59 +279,9 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 325000,
+      "price": 314000,
       "resourceId": 241667,
       "assetId": 241667
-    },
-    "241846": {
-      "name": "Ewa Pajor",
-      "cardName": "Pajor",
-      "originalVersionId": "1",
-      "clubId": 116325,
-      "leagueId": 2222,
-      "countryId": 37,
-      "versionId": "3002",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        21,
-        4,
-        6,
-        7
-      ],
-      "playStylesPlus": [
-        0
-      ],
-      "rolesPlus": [
-        44,
-        138,
-        141
-      ],
-      "rolesPlusPlus": [
-        44,
-        138,
-        141
-      ],
-      "attributes": [
-        87,
-        88,
-        64,
-        88,
-        22,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 13000,
-      "resourceId": 241846,
-      "assetId": 241846
     },
     "261855": {
       "name": "Kika Nazareth",
@@ -457,7 +407,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 268943,
       "assetId": 268943
     },
@@ -636,7 +586,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 700,
       "resourceId": 277699,
       "assetId": 277699
     },
@@ -735,9 +685,57 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 2850000,
+      "price": 2595000,
       "resourceId": 50558750,
       "assetId": 227102
+    },
+    "50558838": {
+      "name": "Irene Paredes",
+      "cardName": "Irene Paredes",
+      "originalVersionId": "28",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "28",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        18,
+        19
+      ],
+      "playStylesPlus": [
+        28
+      ],
+      "rolesPlus": [
+        11,
+        48,
+        113
+      ],
+      "rolesPlusPlus": [
+        11,
+        48,
+        113
+      ],
+      "attributes": [
+        81,
+        52,
+        76,
+        77,
+        88,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 420000,
+      "resourceId": 50558838,
+      "assetId": 227190
     },
     "50558851": {
       "name": "Alexia Putellas",
@@ -787,9 +785,66 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 474000,
+      "price": 479000,
       "resourceId": 50558851,
       "assetId": 227203
+    },
+    "50573494": {
+      "name": "Ewa Pajor",
+      "cardName": "Pajor",
+      "originalVersionId": "28",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 37,
+      "versionId": "28",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        21,
+        22,
+        4,
+        7
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        30,
+        39,
+        44,
+        127,
+        138,
+        141
+      ],
+      "rolesPlusPlus": [
+        30,
+        39,
+        44,
+        127,
+        138,
+        141
+      ],
+      "attributes": [
+        88,
+        89,
+        76,
+        89,
+        23,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 1160000,
+      "resourceId": 50573494,
+      "assetId": 241846
     },
     "50585083": {
       "name": "Laia Aleixandri",
@@ -841,7 +896,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 15250,
+      "price": 14000,
       "resourceId": 50585083,
       "assetId": 253435
     },
@@ -919,7 +974,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 49350,
+      "sbcPrice": 50500,
       "resourceId": 50585084,
       "assetId": 253436
     },
@@ -977,7 +1032,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 1450000,
+      "price": 1589000,
       "resourceId": 50594179,
       "assetId": 262531
     },
@@ -1083,7 +1138,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 505000,
+      "price": 509000,
       "resourceId": 50601052,
       "assetId": 269404
     }

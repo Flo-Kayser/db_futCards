@@ -1,6 +1,104 @@
 {
   "clubName": "Brentford",
   "players": {
+    "50515359": {
+      "name": "Jordan Henderson",
+      "cardName": "Henderson",
+      "originalVersionId": "28",
+      "clubId": 1925,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "28",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        17,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        21,
+        114,
+        119
+      ],
+      "rolesPlusPlus": [
+        16,
+        20,
+        21,
+        114,
+        119
+      ],
+      "attributes": [
+        81,
+        78,
+        86,
+        82,
+        83,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 68500,
+      "resourceId": 50515359,
+      "assetId": 183711
+    },
+    "50580132": {
+      "name": "Nathan Collins",
+      "cardName": "Collins",
+      "originalVersionId": "28",
+      "clubId": 1925,
+      "leagueId": 13,
+      "countryId": 25,
+      "versionId": "28",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        16,
+        17,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13,
+        111
+      ],
+      "rolesPlusPlus": [
+        12,
+        13,
+        111
+      ],
+      "attributes": [
+        78,
+        38,
+        69,
+        71,
+        85,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 19250,
+      "resourceId": 50580132,
+      "assetId": 248484
+    },
     "50607419": {
       "name": "Igor Thiago",
       "cardName": "Igor Thiago",
@@ -40,7 +138,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 13750,
       "resourceId": 50607419,
       "assetId": 275771
     }

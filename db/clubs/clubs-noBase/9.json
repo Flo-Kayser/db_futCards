@@ -1,6 +1,56 @@
 {
   "clubName": "Liverpool",
   "players": {
+    "50535024": {
+      "name": "Virgil van Dijk",
+      "cardName": "van Dijk",
+      "originalVersionId": "28",
+      "clubId": 9,
+      "leagueId": 13,
+      "countryId": 34,
+      "versionId": "28",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        16,
+        19,
+        28,
+        4,
+        9
+      ],
+      "playStylesPlus": [
+        17
+      ],
+      "rolesPlus": [
+        12,
+        111,
+        113
+      ],
+      "rolesPlusPlus": [
+        12,
+        111,
+        113
+      ],
+      "attributes": [
+        78,
+        60,
+        76,
+        77,
+        90,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 10000000,
+      "resourceId": 50535024,
+      "assetId": 203376
+    },
     "50540979": {
       "name": "Mohamed Salah",
       "cardName": "Salah",
@@ -46,9 +96,61 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 680000,
+      "price": 735000,
       "resourceId": 50540979,
       "assetId": 209331
+    },
+    "50547915": {
+      "name": "Andrew Robertson",
+      "cardName": "Robertson",
+      "originalVersionId": "28",
+      "clubId": 9,
+      "leagueId": 13,
+      "countryId": 42,
+      "versionId": "28",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12,
+        14,
+        17,
+        18,
+        28
+      ],
+      "playStylesPlus": [
+        26
+      ],
+      "rolesPlus": [
+        7,
+        28,
+        109,
+        110
+      ],
+      "rolesPlusPlus": [
+        7,
+        28,
+        109,
+        110
+      ],
+      "attributes": [
+        85,
+        72,
+        84,
+        81,
+        86,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 420000,
+      "resourceId": 50547915,
+      "assetId": 216267
     },
     "50564135": {
       "name": "Wataru Endo",
@@ -148,7 +250,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 115000,
+      "price": 130000,
       "resourceId": 50568420,
       "assetId": 236772
     },
@@ -196,7 +298,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 30750,
+      "price": 32000,
       "resourceId": 50574164,
       "assetId": 242516
     },
@@ -307,7 +409,7 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 185000,
+      "price": 199000,
       "resourceId": 50584797,
       "assetId": 253149
     },
@@ -363,7 +465,7 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 678000,
+      "price": 720000,
       "resourceId": 50588278,
       "assetId": 256630
     },
@@ -412,9 +514,63 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 130000,
+      "price": 164000,
       "resourceId": 50588937,
       "assetId": 257289
+    },
+    "67345636": {
+      "name": "Dominik Szoboszlai",
+      "cardName": "Szoboszlai",
+      "originalVersionId": "28",
+      "clubId": 9,
+      "leagueId": 13,
+      "countryId": 23,
+      "versionId": "28",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        12,
+        2,
+        20,
+        3,
+        8
+      ],
+      "playStylesPlus": [
+        9
+      ],
+      "rolesPlus": [
+        21,
+        32,
+        34,
+        118,
+        131
+      ],
+      "rolesPlusPlus": [
+        21,
+        32,
+        34,
+        118,
+        131
+      ],
+      "attributes": [
+        83,
+        87,
+        87,
+        87,
+        71,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 480000,
+      "resourceId": 67345636,
+      "assetId": 236772
     },
     "67351380": {
       "name": "Cody Gakpo",
@@ -468,7 +624,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 292000,
+      "price": 286000,
       "resourceId": 67351380,
       "assetId": 242516
     }

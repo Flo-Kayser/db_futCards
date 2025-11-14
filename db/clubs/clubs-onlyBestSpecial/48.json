@@ -55,7 +55,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 27750,
+      "sbcPrice": 24150,
       "resourceId": 50524153,
       "assetId": 192505
     },
@@ -109,58 +109,61 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 232000,
+      "price": 226000,
       "resourceId": 50524633,
       "assetId": 192985
     },
-    "50549518": {
-      "name": "Giovanni Di Lorenzo",
-      "cardName": "Di Lorenzo",
-      "originalVersionId": "150",
+    "50568280": {
+      "name": "David Neres",
+      "cardName": "David Neres",
+      "originalVersionId": "91",
       "clubId": 48,
       "leagueId": 31,
-      "countryId": 27,
-      "versionId": "150",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
+      "countryId": 54,
+      "versionId": "91",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
       "possiblePositions": [
-        "CB",
-        "RB",
-        "RM"
+        "LM",
+        "LW"
       ],
       "playStyles": [
-        10,
-        22,
-        26
+        12,
+        13,
+        2,
+        20,
+        23,
+        25,
+        7
       ],
       "playStylesPlus": [],
       "rolesPlus": [
-        5,
-        48,
-        104,
-        106
+        27,
+        30,
+        39,
+        138
       ],
       "rolesPlusPlus": [
-        5,
-        48,
-        104,
-        106
+        27,
+        30,
+        39,
+        138
       ],
       "attributes": [
-        86,
-        74,
-        76,
+        89,
         80,
-        82,
-        82
+        78,
+        89,
+        50,
+        65
       ],
+      "isObjective": true,
       "hasDynamicImage": true,
-      "price": 90000,
-      "resourceId": 50549518,
-      "assetId": 217870
+      "resourceId": 50568280,
+      "assetId": 236632
     },
     "50568886": {
       "name": "Scott McTominay",
@@ -214,6 +217,60 @@
       "resourceId": 50568886,
       "assetId": 237238
     },
+    "67326734": {
+      "name": "Giovanni Di Lorenzo",
+      "cardName": "Di Lorenzo",
+      "originalVersionId": "28",
+      "clubId": 48,
+      "leagueId": 31,
+      "countryId": 27,
+      "versionId": "28",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        17,
+        22,
+        26
+      ],
+      "playStylesPlus": [
+        14
+      ],
+      "rolesPlus": [
+        3,
+        5,
+        48,
+        104,
+        106
+      ],
+      "rolesPlusPlus": [
+        3,
+        5,
+        48,
+        104,
+        106
+      ],
+      "attributes": [
+        88,
+        75,
+        77,
+        81,
+        84,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 150000,
+      "resourceId": 67326734,
+      "assetId": 217870
+    },
     "67336100": {
       "name": "André-Franck Zambo Anguissa",
       "cardName": "Zambo Anguissa",
@@ -261,7 +318,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 79100,
+      "sbcPrice": 76050,
       "price": 75150,
       "resourceId": 67336100,
       "assetId": 227236
@@ -310,7 +367,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 63000,
+      "price": 61000,
       "resourceId": 67368263,
       "assetId": 259399
     }

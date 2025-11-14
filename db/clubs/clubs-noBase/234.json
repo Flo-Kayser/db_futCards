@@ -1,6 +1,55 @@
 {
   "clubName": "SL Benfica",
   "players": {
+    "50524014": {
+      "name": "Nicolás Otamendi",
+      "cardName": "Otamendi",
+      "originalVersionId": "28",
+      "clubId": 234,
+      "leagueId": 308,
+      "countryId": 52,
+      "versionId": "28",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        16,
+        17,
+        18,
+        19,
+        28,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13,
+        112
+      ],
+      "rolesPlusPlus": [
+        11,
+        13,
+        112
+      ],
+      "attributes": [
+        80,
+        61,
+        71,
+        72,
+        86,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 50500,
+      "resourceId": 50524014,
+      "assetId": 192366
+    },
     "50560836": {
       "name": "Vangelis Pavlidis",
       "cardName": "Pavlidis",
@@ -92,7 +141,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 106000,
+      "price": 97000,
       "resourceId": 50594529,
       "assetId": 262881
     }

@@ -264,7 +264,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 850,
       "resourceId": 223959,
       "assetId": 223959
     },
@@ -539,7 +539,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 239892,
       "assetId": 239892
     },
@@ -804,7 +804,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 262607,
       "assetId": 262607
     },
@@ -855,7 +855,7 @@
         90
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1200,
       "resourceId": 263205,
       "assetId": 263205
     },
@@ -938,7 +938,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1000,
       "resourceId": 271211,
       "assetId": 271211
     },
@@ -976,7 +976,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 600,
       "resourceId": 271368,
       "assetId": 271368
     },
@@ -1016,7 +1016,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 4300,
+      "price": 5400,
       "resourceId": 278168,
       "assetId": 278168
     },
@@ -1098,51 +1098,6 @@
       "resourceId": 279882,
       "assetId": 279882
     },
-    "50518590": {
-      "name": "İlkay Gündoğan",
-      "cardName": "Gündoğan",
-      "originalVersionId": "1",
-      "clubId": 325,
-      "leagueId": 68,
-      "countryId": 21,
-      "versionId": "3002",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        11,
-        22,
-        24
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        21
-      ],
-      "rolesPlusPlus": [
-        16,
-        21
-      ],
-      "attributes": [
-        54,
-        79,
-        83,
-        80,
-        74,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 50518590,
-      "assetId": 186942
-    },
     "50552441": {
       "name": "Davinson Sánchez",
       "cardName": "Sánchez",
@@ -1185,7 +1140,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 98500,
+      "sbcPrice": 95750,
       "price": 102800,
       "resourceId": 50552441,
       "assetId": 220793
@@ -1234,7 +1189,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 15000,
       "resourceId": 50554140,
       "assetId": 222492
     },
@@ -1326,7 +1281,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 669000,
+      "price": 600000,
       "resourceId": 50563941,
       "assetId": 232293
     },
@@ -1375,7 +1330,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 50584450,
       "assetId": 252802
     },
@@ -1426,9 +1381,60 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 16250,
+      "price": 14000,
       "resourceId": 50602219,
       "assetId": 270571
+    },
+    "67295806": {
+      "name": "İlkay Gündoğan",
+      "cardName": "Gündoğan",
+      "originalVersionId": "51",
+      "clubId": 325,
+      "leagueId": 68,
+      "countryId": 21,
+      "versionId": "51",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        16,
+        22,
+        24,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18,
+        31,
+        121
+      ],
+      "rolesPlusPlus": [
+        16,
+        18,
+        31,
+        121
+      ],
+      "attributes": [
+        80,
+        83,
+        86,
+        84,
+        81,
+        78
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 67295806,
+      "assetId": 186942
     }
   }
 }

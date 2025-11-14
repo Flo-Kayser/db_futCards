@@ -42,7 +42,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 9600,
       "resourceId": 227310,
       "assetId": 227310
     },
@@ -93,7 +93,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 13750,
+      "price": 13250,
       "resourceId": 227361,
       "assetId": 227361
     },
@@ -138,62 +138,9 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1300,
       "resourceId": 227392,
       "assetId": 227392
-    },
-    "231432": {
-      "name": "Lindsey Heaps",
-      "cardName": "Heaps",
-      "originalVersionId": "1",
-      "clubId": 116033,
-      "leagueId": 2218,
-      "countryId": 95,
-      "versionId": "3002",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        0,
-        13,
-        19,
-        2,
-        3,
-        4
-      ],
-      "playStylesPlus": [
-        8
-      ],
-      "rolesPlus": [
-        31,
-        32,
-        121,
-        133
-      ],
-      "rolesPlusPlus": [
-        31,
-        32,
-        121,
-        133
-      ],
-      "attributes": [
-        76,
-        84,
-        87,
-        84,
-        64,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 10000,
-      "resourceId": 231432,
-      "assetId": 231432
     },
     "242896": {
       "name": "Ingrid Syrstad Engen",
@@ -277,7 +224,7 @@
         89
       ],
       "hasDynamicImage": false,
-      "price": 13500,
+      "price": 13000,
       "resourceId": 245956,
       "assetId": 245956
     },
@@ -319,7 +266,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 13250,
+      "price": 12750,
       "resourceId": 246272,
       "assetId": 246272
     },
@@ -478,7 +425,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 264980,
       "assetId": 264980
     },
@@ -567,7 +514,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1200,
       "resourceId": 265536,
       "assetId": 265536
     },
@@ -615,7 +562,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 6500,
+      "price": 6300,
       "resourceId": 265898,
       "assetId": 265898
     },
@@ -692,7 +639,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 2400,
       "resourceId": 277170,
       "assetId": 277170
     },
@@ -731,7 +678,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 4400,
       "resourceId": 277171,
       "assetId": 277171
     },
@@ -768,9 +715,58 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 277175,
       "assetId": 277175
+    },
+    "50558958": {
+      "name": "Ada Hegerberg",
+      "cardName": "Hegerberg",
+      "originalVersionId": "28",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 36,
+      "versionId": "28",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        20,
+        22,
+        29,
+        6
+      ],
+      "playStylesPlus": [
+        4
+      ],
+      "rolesPlus": [
+        41,
+        44,
+        142
+      ],
+      "rolesPlusPlus": [
+        41,
+        44,
+        142
+      ],
+      "attributes": [
+        83,
+        88,
+        76,
+        88,
+        39,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 25000,
+      "resourceId": 50558958,
+      "assetId": 227310
     },
     "50558964": {
       "name": "Wendie Renard",
@@ -817,9 +813,64 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 55500,
+      "price": 54000,
       "resourceId": 50558964,
       "assetId": 227316
+    },
+    "50563080": {
+      "name": "Lindsey Heaps",
+      "cardName": "Heaps",
+      "originalVersionId": "28",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 95,
+      "versionId": "28",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        13,
+        19,
+        2,
+        3,
+        4
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        20,
+        31,
+        32,
+        121,
+        133
+      ],
+      "rolesPlusPlus": [
+        20,
+        31,
+        32,
+        121,
+        133
+      ],
+      "attributes": [
+        85,
+        85,
+        88,
+        87,
+        65,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 240000,
+      "resourceId": 50563080,
+      "assetId": 231432
     },
     "50593388": {
       "name": "Jule Brand",
@@ -868,7 +919,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 23700,
+      "sbcPrice": 24500,
       "resourceId": 50593388,
       "assetId": 261740
     },
@@ -924,7 +975,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 170000,
+      "price": 185000,
       "resourceId": 50597322,
       "assetId": 265674
     },
@@ -974,7 +1025,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 12500,
       "resourceId": 50597553,
       "assetId": 265905
     },
@@ -1020,7 +1071,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 13750,
       "resourceId": 50605594,
       "assetId": 273946
     },
@@ -1166,7 +1217,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 17250,
       "resourceId": 50609867,
       "assetId": 278219
     }

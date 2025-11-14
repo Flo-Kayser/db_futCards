@@ -40,7 +40,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 159000,
+    "price": 189000,
     "resourceId": 5454,
     "assetId": 5454
   },
@@ -92,7 +92,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 420000,
+    "price": 387000,
     "resourceId": 28765,
     "assetId": 28765
   },
@@ -135,7 +135,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 30000,
+    "price": 30250,
     "resourceId": 150418,
     "assetId": 150418
   },
@@ -183,7 +183,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 258000,
+    "price": 268000,
     "resourceId": 166676,
     "assetId": 166676
   },
@@ -230,7 +230,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 67500,
+    "price": 67000,
     "resourceId": 261593,
     "assetId": 261593
   },
@@ -277,7 +277,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 135000,
+    "price": 125000,
     "resourceId": 269603,
     "assetId": 269603
   },
@@ -327,54 +327,9 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 13500,
     "resourceId": 50409660,
     "assetId": 78012
-  },
-  "50533774": {
-    "name": "Harry Kane",
-    "cardName": "Kane",
-    "originalVersionId": "3",
-    "clubId": 21,
-    "leagueId": 19,
-    "countryId": 14,
-    "versionId": "3",
-    "rating": 90,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      22,
-      4,
-      6,
-      7,
-      8
-    ],
-    "playStylesPlus": [
-      0
-    ],
-    "rolesPlus": [
-      141
-    ],
-    "rolesPlusPlus": [
-      141
-    ],
-    "attributes": [
-      70,
-      93,
-      84,
-      83,
-      50,
-      83
-    ],
-    "hasDynamicImage": true,
-    "price": 113000,
-    "resourceId": 50533774,
-    "assetId": 202126
   },
   "50534077": {
     "name": "Danny da Costa",
@@ -447,7 +402,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 11000,
     "resourceId": 50534077,
     "assetId": 202429
   },
@@ -495,7 +450,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 15250,
+    "price": 14750,
     "resourceId": 50536286,
     "assetId": 204638
   },
@@ -544,7 +499,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 82050,
+    "sbcPrice": 83150,
     "price": 68500,
     "resourceId": 50541306,
     "assetId": 209658
@@ -592,9 +547,58 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 12000,
     "resourceId": 50541494,
     "assetId": 209846
+  },
+  "50543026": {
+    "name": "Jackson Irvine",
+    "cardName": "Irvine",
+    "originalVersionId": "91",
+    "clubId": 110329,
+    "leagueId": 19,
+    "countryId": 195,
+    "versionId": "91",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      16,
+      19,
+      26,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      14,
+      17,
+      19,
+      118
+    ],
+    "rolesPlusPlus": [
+      14,
+      17,
+      19,
+      118
+    ],
+    "attributes": [
+      77,
+      78,
+      82,
+      81,
+      83,
+      88
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50543026,
+    "assetId": 211378
   },
   "50544270": {
     "name": "Joshua Kimmich",
@@ -668,9 +672,61 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 148000,
+    "price": 149000,
     "resourceId": 50544270,
     "assetId": 212622
+  },
+  "50555844": {
+    "name": "Ramy Bensebaini",
+    "cardName": "Bensebaini",
+    "originalVersionId": "91",
+    "clubId": 22,
+    "leagueId": 19,
+    "countryId": 97,
+    "versionId": "91",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "CB",
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      1,
+      19,
+      28,
+      9
+    ],
+    "playStylesPlus": [
+      18
+    ],
+    "rolesPlus": [
+      8,
+      12,
+      48,
+      107
+    ],
+    "rolesPlusPlus": [
+      8,
+      12,
+      48,
+      107
+    ],
+    "attributes": [
+      81,
+      75,
+      79,
+      83,
+      84,
+      85
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50555844,
+    "assetId": 224196
   },
   "50557023": {
     "name": "Konrad Laimer",
@@ -718,7 +774,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 16250,
+    "price": 15000,
     "resourceId": 50557023,
     "assetId": 225375
   },
@@ -765,7 +821,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 15250,
     "resourceId": 50557280,
     "assetId": 225632
   },
@@ -808,7 +864,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 14500,
     "resourceId": 50560031,
     "assetId": 228383
   },
@@ -854,7 +910,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 14500,
     "resourceId": 50564306,
     "assetId": 232658
   },
@@ -898,7 +954,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 16000,
     "resourceId": 50568351,
     "assetId": 236703
   },
@@ -972,7 +1028,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 12000,
     "resourceId": 50568976,
     "assetId": 237328
   },
@@ -1024,7 +1080,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 211000,
+    "price": 216000,
     "resourceId": 50572732,
     "assetId": 241084
   },
@@ -1121,7 +1177,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 12500,
     "resourceId": 50575698,
     "assetId": 244050
   },
@@ -1166,7 +1222,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 34500,
+    "sbcPrice": 32750,
     "resourceId": 50575905,
     "assetId": 244257
   },
@@ -1264,7 +1320,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 16750,
     "resourceId": 50582607,
     "assetId": 250959
   },
@@ -1318,7 +1374,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 389000,
+    "price": 325000,
     "resourceId": 50583500,
     "assetId": 251852
   },
@@ -1368,7 +1424,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 14000,
     "resourceId": 50583609,
     "assetId": 251961
   },
@@ -1418,7 +1474,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 14750,
     "resourceId": 50584143,
     "assetId": 252495
   },
@@ -1470,7 +1526,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 18000,
     "resourceId": 50585765,
     "assetId": 254117
   },
@@ -1525,7 +1581,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 20500,
+    "price": 20000,
     "resourceId": 50588501,
     "assetId": 256853
   },
@@ -1647,7 +1703,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 14000,
     "resourceId": 50590363,
     "assetId": 258715
   },
@@ -1694,7 +1750,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 17800,
+    "sbcPrice": 16800,
     "resourceId": 50591004,
     "assetId": 259356
   },
@@ -1772,7 +1828,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10500,
     "resourceId": 50591364,
     "assetId": 259716
   },
@@ -1871,7 +1927,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 47950,
+    "sbcPrice": 48600,
     "resourceId": 50597098,
     "assetId": 265450
   },
@@ -1967,7 +2023,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 12500,
     "resourceId": 50606677,
     "assetId": 275029
   },
@@ -2019,7 +2075,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 200000,
+    "price": 225000,
     "resourceId": 50606946,
     "assetId": 275298
   },
@@ -2078,7 +2134,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 39750,
+    "price": 37500,
     "resourceId": 67318899,
     "assetId": 210035
   },
@@ -2125,7 +2181,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 12500,
     "resourceId": 67320866,
     "assetId": 212002
   },
@@ -2223,7 +2279,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 84000,
+    "price": 83000,
     "resourceId": 67349948,
     "assetId": 241084
   },
@@ -2273,7 +2329,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 269000,
+    "price": 274000,
     "resourceId": 67355727,
     "assetId": 246863
   },
@@ -2326,7 +2382,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 199000,
+    "price": 196000,
     "resourceId": 67356691,
     "assetId": 247827
   },
@@ -2372,7 +2428,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 15000,
     "resourceId": 67359823,
     "assetId": 250959
   },
@@ -2436,7 +2492,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 33750,
+    "sbcPrice": 32750,
     "resourceId": 67378592,
     "assetId": 269728
   },
@@ -2490,18 +2546,18 @@
     "resourceId": 67384192,
     "assetId": 275328
   },
-  "84088206": {
+  "100865422": {
     "name": "Harry Kane",
     "cardName": "Kane",
-    "originalVersionId": "42",
+    "originalVersionId": "28",
     "clubId": 21,
     "leagueId": 19,
     "countryId": 14,
-    "versionId": "42",
-    "rating": 90,
+    "versionId": "28",
+    "rating": 91,
     "preferredFoot": "Right",
     "weakFoot": 4,
-    "skillMoves": 3,
+    "skillMoves": 4,
     "preferredPosition": "ST",
     "possiblePositions": [
       "ST"
@@ -2518,26 +2574,27 @@
     ],
     "rolesPlus": [
       42,
+      43,
       44,
       141
     ],
     "rolesPlusPlus": [
       42,
+      43,
       44,
       141
     ],
     "attributes": [
-      72,
-      93,
-      84,
-      83,
-      51,
-      84
+      81,
+      94,
+      85,
+      86,
+      52,
+      86
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 191000,
-    "price": 186650,
-    "resourceId": 84088206,
+    "price": 5499000,
+    "resourceId": 100865422,
     "assetId": 202126
   }
 }

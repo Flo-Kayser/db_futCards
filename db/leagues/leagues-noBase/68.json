@@ -147,7 +147,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 98500,
+    "sbcPrice": 95750,
     "price": 102800,
     "resourceId": 50552441,
     "assetId": 220793
@@ -196,7 +196,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 15000,
     "resourceId": 50554140,
     "assetId": 222492
   },
@@ -246,7 +246,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 12750,
+    "price": 12500,
     "resourceId": 50560030,
     "assetId": 228382
   },
@@ -297,9 +297,61 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 669000,
+    "price": 600000,
     "resourceId": 50563941,
     "assetId": 232293
+  },
+  "50567492": {
+    "name": "Edson Álvarez",
+    "cardName": "Álvarez",
+    "originalVersionId": "28",
+    "clubId": 326,
+    "leagueId": 68,
+    "countryId": 83,
+    "versionId": "28",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      15,
+      17,
+      18,
+      28,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      16,
+      17,
+      20,
+      115,
+      149
+    ],
+    "rolesPlusPlus": [
+      16,
+      17,
+      20,
+      115,
+      149
+    ],
+    "attributes": [
+      83,
+      66,
+      77,
+      80,
+      86,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 49000,
+    "resourceId": 50567492,
+    "assetId": 235844
   },
   "50592114": {
     "name": "İsmail Yüksek",
@@ -345,7 +397,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 12500,
     "resourceId": 50592114,
     "assetId": 260466
   },
@@ -395,7 +447,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 14250,
     "resourceId": 50594616,
     "assetId": 262968
   },
@@ -439,7 +491,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 14000,
+    "price": 15250,
     "resourceId": 50595683,
     "assetId": 264035
   },
@@ -490,8 +542,59 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 16250,
+    "price": 14000,
     "resourceId": 50602219,
     "assetId": 270571
+  },
+  "67295806": {
+    "name": "İlkay Gündoğan",
+    "cardName": "Gündoğan",
+    "originalVersionId": "51",
+    "clubId": 325,
+    "leagueId": 68,
+    "countryId": 21,
+    "versionId": "51",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      16,
+      22,
+      24,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      16,
+      18,
+      31,
+      121
+    ],
+    "rolesPlusPlus": [
+      16,
+      18,
+      31,
+      121
+    ],
+    "attributes": [
+      80,
+      83,
+      86,
+      84,
+      81,
+      78
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67295806,
+    "assetId": 186942
   }
 }

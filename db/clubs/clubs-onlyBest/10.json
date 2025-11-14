@@ -82,7 +82,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 400,
       "resourceId": 200159,
       "assetId": 200159
     },
@@ -126,7 +126,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 203574,
       "assetId": 203574
     },
@@ -163,7 +163,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 250,
       "resourceId": 204246,
       "assetId": 204246
     },
@@ -209,7 +209,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 207410,
       "assetId": 207410
     },
@@ -250,7 +250,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1500,
       "resourceId": 208920,
       "assetId": 208920
     },
@@ -296,60 +296,6 @@
       "resourceId": 210257,
       "assetId": 210257
     },
-    "218667": {
-      "name": "Bernardo Silva",
-      "cardName": "Bernardo Silva",
-      "originalVersionId": "1",
-      "clubId": 10,
-      "leagueId": 13,
-      "countryId": 38,
-      "versionId": "3002",
-      "rating": 84,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM",
-        "RM"
-      ],
-      "playStyles": [
-        12,
-        20,
-        26,
-        6,
-        7
-      ],
-      "playStylesPlus": [
-        11
-      ],
-      "rolesPlus": [
-        16,
-        18,
-        22,
-        25
-      ],
-      "rolesPlusPlus": [
-        16,
-        18,
-        22,
-        25
-      ],
-      "attributes": [
-        61,
-        78,
-        83,
-        89,
-        71,
-        65
-      ],
-      "hasDynamicImage": false,
-      "price": 1200,
-      "resourceId": 218667,
-      "assetId": 218667
-    },
     "224081": {
       "name": "Kalvin Phillips",
       "cardName": "Phillips",
@@ -388,7 +334,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 224081,
       "assetId": 224081
     },
@@ -475,7 +421,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 28500,
+      "price": 28000,
       "resourceId": 231866,
       "assetId": 231866
     },
@@ -518,7 +464,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 6500,
+      "price": 5900,
       "resourceId": 239818,
       "assetId": 239818
     },
@@ -611,7 +557,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1100,
       "resourceId": 251517,
       "assetId": 251517
     },
@@ -748,7 +694,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 253124,
       "assetId": 253124
     },
@@ -788,7 +734,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 255069,
       "assetId": 255069
     },
@@ -835,7 +781,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2000,
       "resourceId": 256675,
       "assetId": 256675
     },
@@ -877,7 +823,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 400,
       "resourceId": 263063,
       "assetId": 263063
     },
@@ -963,7 +909,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 600,
       "resourceId": 270409,
       "assetId": 270409
     },
@@ -1010,7 +956,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 350,
       "resourceId": 271574,
       "assetId": 271574
     },
@@ -1052,7 +998,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1400,
       "resourceId": 277031,
       "assetId": 277031
     },
@@ -1093,9 +1039,67 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 650,
       "resourceId": 277427,
       "assetId": 277427
+    },
+    "50550315": {
+      "name": "Bernardo Silva",
+      "cardName": "Bernardo Silva",
+      "originalVersionId": "28",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 38,
+      "versionId": "28",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        20,
+        26,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        11
+      ],
+      "rolesPlus": [
+        16,
+        18,
+        25,
+        122,
+        131,
+        133
+      ],
+      "rolesPlusPlus": [
+        16,
+        18,
+        25,
+        122,
+        131,
+        133
+      ],
+      "attributes": [
+        83,
+        81,
+        86,
+        92,
+        74,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 525000,
+      "resourceId": 50550315,
+      "assetId": 218667
     },
     "50562269": {
       "name": "Gianluigi Donnarumma",
@@ -1134,7 +1138,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 33000,
+      "price": 37500,
       "resourceId": 50562269,
       "assetId": 230621
     },
@@ -1190,7 +1194,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 1400000,
+      "price": 1360000,
       "resourceId": 50572286,
       "assetId": 240638
     },
@@ -1240,7 +1244,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 142000,
+      "price": 140000,
       "resourceId": 50578068,
       "assetId": 246420
     },
@@ -1294,9 +1298,54 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 20500,
       "resourceId": 50608943,
       "assetId": 277295
+    },
+    "67339485": {
+      "name": "Gianluigi Donnarumma",
+      "cardName": "Donnarumma",
+      "originalVersionId": "28",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 27,
+      "versionId": "28",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        32,
+        35
+      ],
+      "playStylesPlus": [
+        34
+      ],
+      "rolesPlus": [
+        2,
+        101
+      ],
+      "rolesPlusPlus": [
+        2,
+        101
+      ],
+      "attributes": [
+        90,
+        84,
+        75,
+        90,
+        55,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 1800000,
+      "resourceId": 67339485,
+      "assetId": 230621
     },
     "67346556": {
       "name": "Phil Foden",
@@ -1368,7 +1417,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 113250,
+      "sbcPrice": 103500,
       "resourceId": 67346556,
       "assetId": 237692
     },
@@ -1418,7 +1467,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 1450000,
+      "price": 1302000,
       "resourceId": 84125165,
       "assetId": 239085
     }

@@ -1,51 +1,56 @@
 {
   "clubName": "Leicester City",
   "players": {
-    "50529404": {
+    "67306620": {
       "name": "Jordan Ayew",
       "cardName": "Ayew",
-      "originalVersionId": "3",
+      "originalVersionId": "28",
       "clubId": 95,
       "leagueId": 14,
       "countryId": 117,
-      "versionId": "3",
-      "rating": 80,
+      "versionId": "28",
+      "rating": 85,
       "preferredFoot": "Right",
       "weakFoot": 3,
       "skillMoves": 4,
-      "preferredPosition": "ST",
+      "preferredPosition": "RM",
       "possiblePositions": [
         "RM",
-        "RW",
-        "ST"
+        "RW"
       ],
       "playStyles": [
-        22,
+        1,
+        20,
+        23,
         24,
         9
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        21
+      ],
       "rolesPlus": [
-        23,
-        35,
-        142
+        26,
+        36,
+        123,
+        135
       ],
       "rolesPlusPlus": [
-        23,
-        35,
-        142
+        26,
+        36,
+        123,
+        135
       ],
       "attributes": [
-        78,
-        81,
-        79,
+        87,
+        85,
         83,
-        64,
-        80
+        86,
+        70,
+        82
       ],
-      "hasDynamicImage": false,
-      "price": 14000,
-      "resourceId": 50529404,
+      "hasDynamicImage": true,
+      "price": 15000,
+      "resourceId": 67306620,
       "assetId": 197756
     }
   }

@@ -36,7 +36,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 1500,
       "resourceId": 74759,
       "assetId": 74759
     },
@@ -330,7 +330,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 236663,
       "assetId": 236663
     },
@@ -416,7 +416,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 500,
       "resourceId": 239529,
       "assetId": 239529
     },
@@ -543,7 +543,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 242453,
       "assetId": 242453
     },
@@ -631,7 +631,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 250,
       "resourceId": 243849,
       "assetId": 243849
     },
@@ -713,7 +713,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 248808,
       "assetId": 248808
     },
@@ -750,7 +750,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 300,
       "resourceId": 256488,
       "assetId": 256488
     },
@@ -846,7 +846,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 650,
       "resourceId": 260926,
       "assetId": 260926
     },
@@ -889,7 +889,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 263582,
       "assetId": 263582
     },
@@ -934,7 +934,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 263640,
       "assetId": 263640
     },
@@ -971,7 +971,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 250,
       "resourceId": 264133,
       "assetId": 264133
     },
@@ -1059,7 +1059,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 270608,
       "assetId": 270608
     },
@@ -1179,7 +1179,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 277869,
       "assetId": 277869
     },
@@ -1218,9 +1218,61 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 278919,
       "assetId": 278919
+    },
+    "50515359": {
+      "name": "Jordan Henderson",
+      "cardName": "Henderson",
+      "originalVersionId": "28",
+      "clubId": 1925,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "28",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        17,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        21,
+        114,
+        119
+      ],
+      "rolesPlusPlus": [
+        16,
+        20,
+        21,
+        114,
+        119
+      ],
+      "attributes": [
+        81,
+        78,
+        86,
+        82,
+        83,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 68500,
+      "resourceId": 50515359,
+      "assetId": 183711
     },
     "50563096": {
       "name": "Reiss Nelson",
@@ -1269,6 +1321,52 @@
       "resourceId": 50563096,
       "assetId": 231448
     },
+    "50580132": {
+      "name": "Nathan Collins",
+      "cardName": "Collins",
+      "originalVersionId": "28",
+      "clubId": 1925,
+      "leagueId": 13,
+      "countryId": 25,
+      "versionId": "28",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        16,
+        17,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13,
+        111
+      ],
+      "rolesPlusPlus": [
+        12,
+        13,
+        111
+      ],
+      "attributes": [
+        78,
+        38,
+        69,
+        71,
+        85,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 19250,
+      "resourceId": 50580132,
+      "assetId": 248484
+    },
     "50607419": {
       "name": "Igor Thiago",
       "cardName": "Igor Thiago",
@@ -1308,7 +1406,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 13750,
       "resourceId": 50607419,
       "assetId": 275771
     }

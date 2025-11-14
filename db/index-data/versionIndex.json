@@ -91,6 +91,19 @@
         "tertiaryColor": "#00eeff"
       }
     },
+    "28": {
+      "count": 44,
+      "file": "db/versions/28.json",
+      "details": {
+        "name": "Globetrotters",
+        "hasStrip": true,
+        "createdAt": "2025-11-13T22:30:00.366Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_28_0.png",
+        "primaryColor": "#f9f5f7",
+        "secondaryColor": "#204151",
+        "tertiaryColor": "#43e7b3"
+      }
+    },
     "31": {
       "count": 5,
       "file": "db/versions/31.json",
@@ -157,7 +170,7 @@
       }
     },
     "51": {
-      "count": 2,
+      "count": 4,
       "file": "db/versions/51.json",
       "details": {
         "name": "Flashback",
@@ -209,7 +222,7 @@
       }
     },
     "72": {
-      "count": 75,
+      "count": 78,
       "file": "db/versions/72.json",
       "details": {
         "name": "Heroes",
@@ -274,7 +287,7 @@
       }
     },
     "91": {
-      "count": 27,
+      "count": 32,
       "file": "db/versions/91.json",
       "details": {
         "name": "World Tour",
@@ -457,8 +470,8 @@
     }
   },
   "meta": {
-    "totalVersions": 35,
-    "totalVersionsWithoutBase": 29,
-    "updatedAt": "2025-11-13T18:43:38.247Z"
+    "totalVersions": 36,
+    "totalVersionsWithoutBase": 30,
+    "updatedAt": "2025-11-14T18:43:19.053Z"
   }
 }

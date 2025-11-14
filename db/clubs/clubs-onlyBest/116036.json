@@ -165,7 +165,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 264895,
       "assetId": 264895
     },
@@ -331,7 +331,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 265890,
       "assetId": 265890
     },
@@ -799,54 +799,9 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 14000,
       "resourceId": 50577825,
       "assetId": 246177
-    },
-    "50578012": {
-      "name": "Aldana Cometti",
-      "cardName": "Cometti",
-      "originalVersionId": "1",
-      "clubId": 116036,
-      "leagueId": 2218,
-      "countryId": 52,
-      "versionId": "3002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        14,
-        16,
-        17,
-        18,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        12,
-        48
-      ],
-      "rolesPlusPlus": [
-        12,
-        48
-      ],
-      "attributes": [
-        62,
-        30,
-        56,
-        63,
-        80,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 50578012,
-      "assetId": 246364
     },
     "50596650": {
       "name": "Louna Ribadeira",
@@ -890,6 +845,56 @@
       "price": 350,
       "resourceId": 50596650,
       "assetId": 265002
+    },
+    "67355228": {
+      "name": "Aldana Cometti",
+      "cardName": "Cometti",
+      "originalVersionId": "28",
+      "clubId": 116036,
+      "leagueId": 2218,
+      "countryId": 52,
+      "versionId": "28",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        14,
+        16,
+        17,
+        18,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48,
+        103,
+        112
+      ],
+      "rolesPlusPlus": [
+        11,
+        48,
+        103,
+        112
+      ],
+      "attributes": [
+        81,
+        36,
+        62,
+        70,
+        86,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 54500,
+      "resourceId": 67355228,
+      "assetId": 246364
     }
   }
 }

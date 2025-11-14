@@ -80,7 +80,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 8000,
       "resourceId": 72910,
       "assetId": 72910
     },
@@ -120,50 +120,9 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 76620,
       "assetId": 76620
-    },
-    "261830": {
-      "name": "Dolores Silva",
-      "cardName": "Dolores Silva",
-      "originalVersionId": "1",
-      "clubId": 116333,
-      "leagueId": 2222,
-      "countryId": 38,
-      "versionId": "3001",
-      "rating": 72,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        32
-      ],
-      "rolesPlusPlus": [
-        18,
-        32
-      ],
-      "attributes": [
-        65,
-        60,
-        71,
-        67,
-        73,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 261830,
-      "assetId": 261830
     },
     "265906": {
       "name": "Anissa Lahmari",
@@ -252,7 +211,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 272004,
       "assetId": 272004
     },
@@ -413,7 +372,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 500,
       "resourceId": 272019,
       "assetId": 272019
     },
@@ -496,7 +455,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 272047,
       "assetId": 272047
     },
@@ -615,7 +574,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 272244,
       "assetId": 272244
     },
@@ -655,7 +614,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 272265,
       "assetId": 272265
     },
@@ -692,7 +651,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 200,
       "resourceId": 274075,
       "assetId": 274075
     },
@@ -730,9 +689,62 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 50403626,
       "assetId": 71978
+    },
+    "50593478": {
+      "name": "Dolores Silva",
+      "cardName": "Dolores Silva",
+      "originalVersionId": "28",
+      "clubId": 116333,
+      "leagueId": 2222,
+      "countryId": 38,
+      "versionId": "28",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        13,
+        16,
+        2,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31,
+        43,
+        118,
+        132
+      ],
+      "rolesPlusPlus": [
+        21,
+        31,
+        43,
+        118,
+        132
+      ],
+      "attributes": [
+        85,
+        81,
+        84,
+        82,
+        77,
+        79
+      ],
+      "hasDynamicImage": true,
+      "price": 11750,
+      "resourceId": 50593478,
+      "assetId": 261830
     }
   }
 }
