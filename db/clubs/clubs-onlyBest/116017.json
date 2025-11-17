@@ -152,53 +152,6 @@
       "resourceId": 75204,
       "assetId": 75204
     },
-    "227254": {
-      "name": "Alex Greenwood",
-      "cardName": "Greenwood",
-      "originalVersionId": "1",
-      "clubId": 116017,
-      "leagueId": 2216,
-      "countryId": 14,
-      "versionId": "3002",
-      "rating": 84,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        14
-      ],
-      "playStylesPlus": [
-        15
-      ],
-      "rolesPlus": [
-        7,
-        13,
-        48
-      ],
-      "rolesPlusPlus": [
-        7,
-        13,
-        48
-      ],
-      "attributes": [
-        71,
-        65,
-        82,
-        74,
-        85,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 1200,
-      "resourceId": 227254,
-      "assetId": 227254
-    },
     "233150": {
       "name": "Leila Ouahabi",
       "cardName": "Leila Ouahabi",
@@ -284,7 +237,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 3300,
       "resourceId": 233746,
       "assetId": 233746
     },
@@ -413,7 +366,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 3300,
+      "price": 3400,
       "resourceId": 245830,
       "assetId": 245830
     },
@@ -590,7 +543,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 9100,
+      "price": 11000,
       "resourceId": 257008,
       "assetId": 257008
     },
@@ -1169,6 +1122,61 @@
       "resourceId": 279532,
       "assetId": 279532
     },
+    "50558902": {
+      "name": "Alex Greenwood",
+      "cardName": "Greenwood",
+      "originalVersionId": "90",
+      "clubId": 116017,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "90",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        14,
+        16,
+        28,
+        8
+      ],
+      "playStylesPlus": [
+        15
+      ],
+      "rolesPlus": [
+        8,
+        12,
+        13,
+        107,
+        148
+      ],
+      "rolesPlusPlus": [
+        8,
+        12,
+        13,
+        107,
+        148
+      ],
+      "attributes": [
+        79,
+        68,
+        84,
+        77,
+        87,
+        86
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50558902,
+      "assetId": 227254
+    },
     "50577867": {
       "name": "Khadija Shaw",
       "cardName": "Shaw",
@@ -1216,7 +1224,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 91000,
+      "price": 82000,
       "resourceId": 50577867,
       "assetId": 246219
     },
