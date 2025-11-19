@@ -148,7 +148,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 75521,
       "assetId": 75521
     },
@@ -269,7 +269,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 212260,
       "assetId": 212260
     },
@@ -975,7 +975,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1000,
       "resourceId": 269996,
       "assetId": 269996
     },
@@ -1014,7 +1014,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 277144,
       "assetId": 277144
     },
@@ -1132,7 +1132,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 2000,
       "resourceId": 278056,
       "assetId": 278056
     },
@@ -1176,45 +1176,6 @@
       "price": 200,
       "resourceId": 50556531,
       "assetId": 224883
-    },
-    "50583180": {
-      "name": "Meschack Elia",
-      "cardName": "Elia",
-      "originalVersionId": "1",
-      "clubId": 113142,
-      "leagueId": 68,
-      "countryId": 110,
-      "versionId": "3001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        21
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "rolesPlusPlus": [
-        41
-      ],
-      "attributes": [
-        82,
-        68,
-        67,
-        75,
-        26,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50583180,
-      "assetId": 251532
     },
     "50601644": {
       "name": "Baran Mogultay",
@@ -1293,6 +1254,51 @@
       "price": 200,
       "resourceId": 50609704,
       "assetId": 278056
+    },
+    "67360396": {
+      "name": "Meschack Elia",
+      "cardName": "Elia",
+      "originalVersionId": "3",
+      "clubId": 113142,
+      "leagueId": 68,
+      "countryId": 110,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        21,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        126
+      ],
+      "rolesPlusPlus": [
+        41,
+        126
+      ],
+      "attributes": [
+        92,
+        82,
+        81,
+        87,
+        39,
+        83
+      ],
+      "hasDynamicImage": false,
+      "price": 12250,
+      "resourceId": 67360396,
+      "assetId": 251532
     }
   }
 }

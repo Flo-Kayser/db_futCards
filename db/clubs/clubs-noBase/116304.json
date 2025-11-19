@@ -1,6 +1,62 @@
 {
   "clubName": "Washington Spirit",
   "players": {
+    "50403208": {
+      "name": "Hal Hershfelt",
+      "cardName": "Hershfelt",
+      "originalVersionId": "58",
+      "clubId": 116304,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "58",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        19,
+        28
+      ],
+      "playStylesPlus": [
+        18
+      ],
+      "rolesPlus": [
+        12,
+        16,
+        20,
+        114,
+        115,
+        119
+      ],
+      "rolesPlusPlus": [
+        12,
+        16,
+        20,
+        114,
+        115,
+        119
+      ],
+      "attributes": [
+        80,
+        70,
+        80,
+        82,
+        82,
+        85
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 23950,
+      "resourceId": 50403208,
+      "assetId": 71560
+    },
     "50568290": {
       "name": "Casey Krueger",
       "cardName": "Krueger",
@@ -115,7 +171,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 10750,
+      "price": 10500,
       "resourceId": 50572872,
       "assetId": 241224
     },
@@ -216,7 +272,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 372000,
+      "price": 425000,
       "resourceId": 50598576,
       "assetId": 266928
     },
@@ -269,7 +325,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 14750,
       "resourceId": 50599910,
       "assetId": 268262
     },
@@ -366,6 +422,55 @@
       "hasDynamicImage": true,
       "sbcPrice": 22750,
       "resourceId": 50611460,
+      "assetId": 279812
+    },
+    "67388676": {
+      "name": "Croix Bethune",
+      "cardName": "Bethune",
+      "originalVersionId": "3",
+      "clubId": 116304,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        20,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31,
+        32,
+        33,
+        149
+      ],
+      "rolesPlusPlus": [
+        31,
+        32,
+        33,
+        149
+      ],
+      "attributes": [
+        80,
+        80,
+        81,
+        85,
+        62,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 12000,
+      "resourceId": 67388676,
       "assetId": 279812
     }
   }

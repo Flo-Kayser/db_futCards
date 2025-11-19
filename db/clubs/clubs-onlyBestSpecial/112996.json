@@ -1,6 +1,51 @@
 {
   "clubName": "LAFC",
   "players": {
+    "50499596": {
+      "name": "Hugo Lloris",
+      "cardName": "Lloris",
+      "originalVersionId": "51",
+      "clubId": 112996,
+      "leagueId": 39,
+      "countryId": 18,
+      "versionId": "51",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31,
+        32,
+        34,
+        35
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2,
+        101
+      ],
+      "rolesPlusPlus": [
+        2,
+        101
+      ],
+      "attributes": [
+        87,
+        85,
+        80,
+        85,
+        65,
+        86
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50499596,
+      "assetId": 167948
+    },
     "50531752": {
       "name": "Heung Min Son",
       "cardName": "Son",
@@ -53,7 +98,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 310000,
+      "price": 290000,
       "resourceId": 50531752,
       "assetId": 200104
     },
@@ -102,7 +147,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 13750,
+      "price": 15000,
       "resourceId": 50557599,
       "assetId": 225951
     }

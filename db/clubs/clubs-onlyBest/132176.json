@@ -158,54 +158,6 @@
       "resourceId": 226973,
       "assetId": 226973
     },
-    "226997": {
-      "name": "Saki Kumagai",
-      "cardName": "Kumagai",
-      "originalVersionId": "0",
-      "clubId": 132176,
-      "leagueId": 2216,
-      "countryId": 163,
-      "versionId": "2002",
-      "rating": 82,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        16,
-        17,
-        24
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        13,
-        16
-      ],
-      "rolesPlusPlus": [
-        11,
-        13,
-        16
-      ],
-      "attributes": [
-        45,
-        70,
-        76,
-        79,
-        84,
-        78
-      ],
-      "hasDynamicImage": false,
-      "price": 550,
-      "resourceId": 226997,
-      "assetId": 226997
-    },
     "227069": {
       "name": "Elena Linari",
       "cardName": "Linari",
@@ -241,7 +193,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1100,
       "resourceId": 227069,
       "assetId": 227069
     },
@@ -292,7 +244,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 233751,
       "assetId": 233751
     },
@@ -337,7 +289,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1800,
       "resourceId": 235659,
       "assetId": 235659
     },
@@ -422,7 +374,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 265336,
       "assetId": 265336
     },
@@ -908,9 +860,59 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 11250,
+      "price": 10750,
       "resourceId": 50558635,
       "assetId": 226987
+    },
+    "50558645": {
+      "name": "Saki Kumagai",
+      "cardName": "Kumagai",
+      "originalVersionId": "3",
+      "clubId": 132176,
+      "leagueId": 2216,
+      "countryId": 163,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        17,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13,
+        16,
+        114
+      ],
+      "rolesPlusPlus": [
+        11,
+        13,
+        16,
+        114
+      ],
+      "attributes": [
+        75,
+        73,
+        80,
+        82,
+        87,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 13750,
+      "resourceId": 50558645,
+      "assetId": 226997
     },
     "50558757": {
       "name": "Alanna Kennedy",
@@ -1091,7 +1093,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 14500,
       "resourceId": 50598152,
       "assetId": 266504
     },

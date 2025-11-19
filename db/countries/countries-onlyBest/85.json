@@ -114,47 +114,6 @@
     "resourceId": 79814,
     "assetId": 79814
   },
-  "226677": {
-    "name": "Juninho Bacuna",
-    "cardName": "Bacuna",
-    "originalVersionId": "0",
-    "clubId": 110776,
-    "leagueId": 68,
-    "countryId": 85,
-    "versionId": "2001",
-    "rating": 69,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CDM",
-      "CM",
-      "LM"
-    ],
-    "playStyles": [
-      10
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      14
-    ],
-    "rolesPlusPlus": [
-      14
-    ],
-    "attributes": [
-      73,
-      68,
-      69,
-      72,
-      63,
-      76
-    ],
-    "hasDynamicImage": false,
-    "price": 200,
-    "resourceId": 226677,
-    "assetId": 226677
-  },
   "228666": {
     "name": "Brandley Kuwas",
     "cardName": "Kuwas",
@@ -362,7 +321,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 2000,
+    "price": 5000,
     "resourceId": 274490,
     "assetId": 274490
   },
@@ -447,9 +406,55 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 700,
     "resourceId": 50543917,
     "assetId": 212269
+  },
+  "50558325": {
+    "name": "Juninho Bacuna",
+    "cardName": "Bacuna",
+    "originalVersionId": "3",
+    "clubId": 110776,
+    "leagueId": 68,
+    "countryId": 85,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CDM",
+      "CM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      10,
+      29
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      14,
+      129
+    ],
+    "rolesPlusPlus": [
+      14,
+      129
+    ],
+    "attributes": [
+      87,
+      82,
+      83,
+      86,
+      78,
+      88
+    ],
+    "hasDynamicImage": false,
+    "price": 13750,
+    "resourceId": 50558325,
+    "assetId": 226677
   },
   "50572819": {
     "name": "Armando Obispo",
@@ -488,7 +493,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 550,
     "resourceId": 50572819,
     "assetId": 241171
   },

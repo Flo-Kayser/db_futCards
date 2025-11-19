@@ -373,7 +373,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 212188,
       "assetId": 212188
     },
@@ -419,7 +419,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 222331,
       "assetId": 222331
     },
@@ -456,7 +456,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 222546,
       "assetId": 222546
     },
@@ -1097,7 +1097,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 276216,
       "assetId": 276216
     },
@@ -1230,7 +1230,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 278061,
       "assetId": 278061
     },
@@ -1280,7 +1280,7 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 12750,
       "resourceId": 50409660,
       "assetId": 78012
     },
@@ -1328,7 +1328,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 16250,
       "resourceId": 50536286,
       "assetId": 204638
     },
@@ -1372,7 +1372,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 16750,
       "resourceId": 50568351,
       "assetId": 236703
     },
@@ -1446,55 +1446,6 @@
       "resourceId": 50589524,
       "assetId": 257876
     },
-    "50594511": {
-      "name": "Antonio Nusa",
-      "cardName": "Nusa",
-      "originalVersionId": "3",
-      "clubId": 112172,
-      "leagueId": 19,
-      "countryId": 36,
-      "versionId": "3",
-      "rating": 81,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        12,
-        20,
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        29,
-        33,
-        39,
-        127
-      ],
-      "rolesPlusPlus": [
-        29,
-        33,
-        39,
-        127
-      ],
-      "attributes": [
-        90,
-        81,
-        77,
-        86,
-        46,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 17750,
-      "resourceId": 50594511,
-      "assetId": 262863
-    },
     "50597098": {
       "name": "Johan Bakayoko",
       "cardName": "Bakayoko",
@@ -1541,7 +1492,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 47300,
+      "sbcPrice": 44050,
       "resourceId": 50597098,
       "assetId": 265450
     },
@@ -1593,6 +1544,55 @@
       "price": 350,
       "resourceId": 50609337,
       "assetId": 277689
+    },
+    "84148943": {
+      "name": "Antonio Nusa",
+      "cardName": "Nusa",
+      "originalVersionId": "3",
+      "clubId": 112172,
+      "leagueId": 19,
+      "countryId": 36,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        20,
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        29,
+        33,
+        39,
+        127
+      ],
+      "rolesPlusPlus": [
+        29,
+        33,
+        39,
+        127
+      ],
+      "attributes": [
+        93,
+        85,
+        82,
+        89,
+        51,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 98000,
+      "resourceId": 84148943,
+      "assetId": 262863
     }
   }
 }

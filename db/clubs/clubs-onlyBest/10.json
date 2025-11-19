@@ -126,7 +126,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 550,
       "resourceId": 203574,
       "assetId": 203574
     },
@@ -209,7 +209,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 950,
       "resourceId": 207410,
       "assetId": 207410
     },
@@ -250,7 +250,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 208920,
       "assetId": 208920
     },
@@ -464,7 +464,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 6600,
+      "price": 6900,
       "resourceId": 239818,
       "assetId": 239818
     },
@@ -511,55 +511,6 @@
       "price": 700,
       "resourceId": 242641,
       "assetId": 242641
-    },
-    "251517": {
-      "name": "Joško Gvardiol",
-      "cardName": "Gvardiol",
-      "originalVersionId": "1",
-      "clubId": 10,
-      "leagueId": 13,
-      "countryId": 10,
-      "versionId": "3002",
-      "rating": 84,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "CB",
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        14,
-        6,
-        9
-      ],
-      "playStylesPlus": [
-        15
-      ],
-      "rolesPlus": [
-        8,
-        13,
-        109
-      ],
-      "rolesPlusPlus": [
-        8,
-        13,
-        109
-      ],
-      "attributes": [
-        78,
-        71,
-        75,
-        78,
-        84,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 1500,
-      "resourceId": 251517,
-      "assetId": 251517
     },
     "251570": {
       "name": "Rayan Cherki",
@@ -609,7 +560,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 251570,
       "assetId": 251570
     },
@@ -694,7 +645,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 253124,
       "assetId": 253124
     },
@@ -781,7 +732,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 4700,
       "resourceId": 256675,
       "assetId": 256675
     },
@@ -909,7 +860,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 270409,
       "assetId": 270409
     },
@@ -956,7 +907,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 271574,
       "assetId": 271574
     },
@@ -998,7 +949,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 277031,
       "assetId": 277031
     },
@@ -1039,7 +990,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 900,
       "resourceId": 277427,
       "assetId": 277427
     },
@@ -1097,7 +1048,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 210000,
+      "price": 186000,
       "resourceId": 50550315,
       "assetId": 218667
     },
@@ -1138,7 +1089,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 40750,
+      "price": 43750,
       "resourceId": 50562269,
       "assetId": 230621
     },
@@ -1194,7 +1145,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 1080000,
+      "price": 919000,
       "resourceId": 50572286,
       "assetId": 240638
     },
@@ -1244,9 +1195,58 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 59000,
+      "price": 62000,
       "resourceId": 50578068,
       "assetId": 246420
+    },
+    "50583165": {
+      "name": "Joško Gvardiol",
+      "cardName": "Gvardiol",
+      "originalVersionId": "3",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 10,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        15,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        14
+      ],
+      "rolesPlus": [
+        8,
+        13,
+        109
+      ],
+      "rolesPlusPlus": [
+        8,
+        13,
+        109
+      ],
+      "attributes": [
+        80,
+        75,
+        78,
+        81,
+        86,
+        84
+      ],
+      "hasDynamicImage": false,
+      "price": 166000,
+      "resourceId": 50583165,
+      "assetId": 251517
     },
     "50608943": {
       "name": "Oscar Bobb",
@@ -1298,7 +1298,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 22250,
+      "price": 21500,
       "resourceId": 50608943,
       "assetId": 277295
     },
@@ -1421,6 +1421,56 @@
       "resourceId": 67346556,
       "assetId": 237692
     },
+    "67349502": {
+      "name": "Tijjani Reijnders",
+      "cardName": "Reijnders",
+      "originalVersionId": "3",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 34,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        2,
+        20
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        16,
+        33,
+        121
+      ],
+      "rolesPlusPlus": [
+        16,
+        33,
+        121
+      ],
+      "attributes": [
+        80,
+        81,
+        83,
+        86,
+        79,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 794000,
+      "resourceId": 67349502,
+      "assetId": 240638
+    },
     "84125165": {
       "name": "Erling Haaland",
       "cardName": "Haaland",
@@ -1467,7 +1517,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 1410000,
+      "price": 1475000,
       "resourceId": 84125165,
       "assetId": 239085
     }

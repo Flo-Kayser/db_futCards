@@ -119,7 +119,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 10000,
       "resourceId": 198023,
       "assetId": 198023
     },
@@ -247,7 +247,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 209532,
       "assetId": 209532
     },
@@ -371,7 +371,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 300,
       "resourceId": 239403,
       "assetId": 239403
     },
@@ -552,7 +552,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 260463,
       "assetId": 260463
     },
@@ -596,7 +596,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 260877,
       "assetId": 260877
     },
@@ -638,54 +638,6 @@
       "price": 0,
       "resourceId": 262744,
       "assetId": 262744
-    },
-    "264492": {
-      "name": "Yeremay",
-      "cardName": "Yeremay",
-      "originalVersionId": "0",
-      "clubId": 242,
-      "leagueId": 54,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM"
-      ],
-      "playStyles": [
-        12,
-        13,
-        24,
-        6
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        27,
-        30
-      ],
-      "rolesPlusPlus": [
-        26,
-        27,
-        30
-      ],
-      "attributes": [
-        83,
-        70,
-        70,
-        79,
-        22,
-        49
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 264492,
-      "assetId": 264492
     },
     "266159": {
       "name": "Arnau Comas",
@@ -858,7 +810,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 278001,
       "assetId": 278001
     },
@@ -1021,7 +973,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 50574848,
       "assetId": 243200
     },
@@ -1112,9 +1064,61 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 15250,
       "resourceId": 50594046,
       "assetId": 262398
+    },
+    "50596140": {
+      "name": "Yeremay",
+      "cardName": "Yeremay",
+      "originalVersionId": "3",
+      "clubId": 242,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        12,
+        24,
+        6,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        27,
+        30,
+        141
+      ],
+      "rolesPlusPlus": [
+        26,
+        27,
+        30,
+        141
+      ],
+      "attributes": [
+        92,
+        83,
+        83,
+        89,
+        33,
+        64
+      ],
+      "hasDynamicImage": true,
+      "price": 22000,
+      "resourceId": 50596140,
+      "assetId": 264492
     }
   }
 }

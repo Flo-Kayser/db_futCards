@@ -493,7 +493,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 550,
       "resourceId": 238157,
       "assetId": 238157
     },
@@ -535,7 +535,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 750,
       "resourceId": 240097,
       "assetId": 240097
     },
@@ -699,7 +699,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 245153,
       "assetId": 245153
     },
@@ -900,7 +900,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 263953,
       "assetId": 263953
     },
@@ -1369,55 +1369,6 @@
       "resourceId": 50533847,
       "assetId": 202199
     },
-    "50583714": {
-      "name": "Finn Azaz",
-      "cardName": "Azaz",
-      "originalVersionId": "1",
-      "clubId": 17,
-      "leagueId": 14,
-      "countryId": 25,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LM"
-      ],
-      "playStyles": [
-        13,
-        20,
-        3,
-        6,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        30,
-        31,
-        33
-      ],
-      "rolesPlusPlus": [
-        30,
-        31,
-        33
-      ],
-      "attributes": [
-        74,
-        71,
-        73,
-        74,
-        57,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50583714,
-      "assetId": 252066
-    },
     "50596019": {
       "name": "Tom Fellows",
       "cardName": "Fellows",
@@ -1457,7 +1408,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1500,
       "resourceId": 50596019,
       "assetId": 264371
     },
@@ -1602,6 +1553,57 @@
       "price": 350,
       "resourceId": 50601612,
       "assetId": 269964
+    },
+    "67360930": {
+      "name": "Finn Azaz",
+      "cardName": "Azaz",
+      "originalVersionId": "3",
+      "clubId": 17,
+      "leagueId": 14,
+      "countryId": 25,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [
+        10,
+        20,
+        3,
+        6,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        31,
+        33,
+        134
+      ],
+      "rolesPlusPlus": [
+        30,
+        31,
+        33,
+        134
+      ],
+      "attributes": [
+        84,
+        82,
+        85,
+        84,
+        66,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 19750,
+      "resourceId": 67360930,
+      "assetId": 252066
     }
   }
 }

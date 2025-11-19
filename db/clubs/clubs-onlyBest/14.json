@@ -110,7 +110,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 79629,
       "assetId": 79629
     },
@@ -151,7 +151,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 600,
       "resourceId": 192123,
       "assetId": 192123
     },
@@ -267,7 +267,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 700,
       "resourceId": 216325,
       "assetId": 216325
     },
@@ -478,7 +478,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 750,
       "resourceId": 236015,
       "assetId": 236015
     },
@@ -653,7 +653,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 950,
       "resourceId": 238095,
       "assetId": 238095
     },
@@ -954,52 +954,6 @@
       "resourceId": 256008,
       "assetId": 256008
     },
-    "257980": {
-      "name": "Dan Ndoye",
-      "cardName": "Ndoye",
-      "originalVersionId": "1",
-      "clubId": 14,
-      "leagueId": 13,
-      "countryId": 47,
-      "versionId": "3002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM"
-      ],
-      "playStyles": [
-        21,
-        25,
-        7,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        30
-      ],
-      "rolesPlusPlus": [
-        26,
-        30
-      ],
-      "attributes": [
-        89,
-        72,
-        70,
-        81,
-        62,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 257980,
-      "assetId": 257980
-    },
     "260145": {
       "name": "Omari Hutchinson",
       "cardName": "Hutchinson",
@@ -1086,7 +1040,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 264349,
       "assetId": 264349
     },
@@ -1132,7 +1086,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 269421,
       "assetId": 269421
     },
@@ -1176,7 +1130,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1500,
       "resourceId": 278016,
       "assetId": 278016
     },
@@ -1264,7 +1218,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 21750,
+      "price": 20000,
       "resourceId": 50411050,
       "assetId": 79402
     },
@@ -1357,7 +1311,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 16500,
+      "price": 15750,
       "resourceId": 50567290,
       "assetId": 235642
     },
@@ -1404,6 +1358,52 @@
       "price": 350,
       "resourceId": 50582437,
       "assetId": 250789
+    },
+    "50589628": {
+      "name": "Dan Ndoye",
+      "cardName": "Ndoye",
+      "originalVersionId": "3",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 47,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        21,
+        25,
+        6,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        130
+      ],
+      "rolesPlusPlus": [
+        26,
+        130
+      ],
+      "attributes": [
+        93,
+        80,
+        78,
+        86,
+        67,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 15000,
+      "resourceId": 50589628,
+      "assetId": 257980
     }
   }
 }

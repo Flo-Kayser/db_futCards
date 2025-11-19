@@ -42,48 +42,6 @@
       "resourceId": 71559,
       "assetId": 71559
     },
-    "71560": {
-      "name": "Hal Hershfelt",
-      "cardName": "Hershfelt",
-      "originalVersionId": "1",
-      "clubId": 116304,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "3001",
-      "rating": 72,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CB",
-        "CDM"
-      ],
-      "playStyles": [
-        19
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        14,
-        15
-      ],
-      "rolesPlusPlus": [
-        14,
-        15
-      ],
-      "attributes": [
-        70,
-        58,
-        64,
-        72,
-        71,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 71560,
-      "assetId": 71560
-    },
     "71561": {
       "name": "Kate Wiesner",
       "cardName": "Wiesner",
@@ -242,7 +200,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 243261,
       "assetId": 243261
     },
@@ -492,7 +450,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 266816,
       "assetId": 266816
     },
@@ -704,7 +662,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 272115,
       "assetId": 272115
     },
@@ -817,7 +775,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1000,
       "resourceId": 274806,
       "assetId": 274806
     },
@@ -860,6 +818,62 @@
       "price": 0,
       "resourceId": 279908,
       "assetId": 279908
+    },
+    "50403208": {
+      "name": "Hal Hershfelt",
+      "cardName": "Hershfelt",
+      "originalVersionId": "58",
+      "clubId": 116304,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "58",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        19,
+        28
+      ],
+      "playStylesPlus": [
+        18
+      ],
+      "rolesPlus": [
+        12,
+        16,
+        20,
+        114,
+        115,
+        119
+      ],
+      "rolesPlusPlus": [
+        12,
+        16,
+        20,
+        114,
+        115,
+        119
+      ],
+      "attributes": [
+        80,
+        70,
+        80,
+        82,
+        82,
+        85
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 23950,
+      "resourceId": 50403208,
+      "assetId": 71560
     },
     "50568290": {
       "name": "Casey Krueger",
@@ -975,7 +989,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 10750,
+      "price": 10500,
       "resourceId": 50572872,
       "assetId": 241224
     },
@@ -1076,7 +1090,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 372000,
+      "price": 425000,
       "resourceId": 50598576,
       "assetId": 266928
     },
@@ -1129,7 +1143,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 14750,
       "resourceId": 50599910,
       "assetId": 268262
     },

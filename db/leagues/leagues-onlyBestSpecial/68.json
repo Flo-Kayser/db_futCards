@@ -101,7 +101,7 @@
       59
     ],
     "hasDynamicImage": true,
-    "price": 43750,
+    "price": 41000,
     "resourceId": 50548195,
     "assetId": 216547
   },
@@ -147,7 +147,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 97750,
+    "sbcPrice": 99500,
     "price": 102800,
     "resourceId": 50552441,
     "assetId": 220793
@@ -196,9 +196,55 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 16500,
     "resourceId": 50554140,
     "assetId": 222492
+  },
+  "50558325": {
+    "name": "Juninho Bacuna",
+    "cardName": "Bacuna",
+    "originalVersionId": "3",
+    "clubId": 110776,
+    "leagueId": 68,
+    "countryId": 85,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CDM",
+      "CM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      10,
+      29
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      14,
+      129
+    ],
+    "rolesPlusPlus": [
+      14,
+      129
+    ],
+    "attributes": [
+      87,
+      82,
+      83,
+      86,
+      78,
+      88
+    ],
+    "hasDynamicImage": false,
+    "price": 13750,
+    "resourceId": 50558325,
+    "assetId": 226677
   },
   "50560030": {
     "name": "Dan Agyei",
@@ -246,7 +292,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 11750,
+    "price": 12000,
     "resourceId": 50560030,
     "assetId": 228382
   },
@@ -297,7 +343,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 689000,
+    "price": 685000,
     "resourceId": 50563941,
     "assetId": 232293
   },
@@ -349,7 +395,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 22250,
+    "price": 22500,
     "resourceId": 50567492,
     "assetId": 235844
   },
@@ -447,7 +493,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 19250,
     "resourceId": 50594616,
     "assetId": 262968
   },
@@ -491,7 +537,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 13750,
+    "price": 14500,
     "resourceId": 50595683,
     "assetId": 264035
   },
@@ -542,7 +588,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 16000,
     "resourceId": 50602219,
     "assetId": 270571
   },
@@ -596,5 +642,50 @@
     "hasDynamicImage": true,
     "resourceId": 67295806,
     "assetId": 186942
+  },
+  "67360396": {
+    "name": "Meschack Elia",
+    "cardName": "Elia",
+    "originalVersionId": "3",
+    "clubId": 113142,
+    "leagueId": 68,
+    "countryId": 110,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      21,
+      24
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      41,
+      126
+    ],
+    "rolesPlusPlus": [
+      41,
+      126
+    ],
+    "attributes": [
+      92,
+      82,
+      81,
+      87,
+      39,
+      83
+    ],
+    "hasDynamicImage": false,
+    "price": 12250,
+    "resourceId": 67360396,
+    "assetId": 251532
   }
 }
