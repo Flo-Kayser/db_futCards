@@ -147,7 +147,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 600,
       "resourceId": 76410,
       "assetId": 76410
     },
@@ -189,7 +189,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 188567,
       "assetId": 188567
     },
@@ -404,7 +404,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 213648,
       "assetId": 213648
     },
@@ -443,7 +443,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 215316,
       "assetId": 215316
     },
@@ -575,7 +575,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 450,
       "resourceId": 235875,
       "assetId": 235875
     },
@@ -1132,7 +1132,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 263602,
       "assetId": 263602
     },
@@ -1295,7 +1295,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 276235,
       "assetId": 276235
     },
@@ -1339,7 +1339,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 24000,
+      "price": 26500,
       "resourceId": 50520215,
       "assetId": 188567
     },
@@ -1431,7 +1431,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 50500,
+      "price": 48000,
       "resourceId": 50545296,
       "assetId": 213648
     },
@@ -1472,7 +1472,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 37500,
+      "price": 47500,
       "resourceId": 50546964,
       "assetId": 215316
     },
@@ -1562,7 +1562,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1300,
       "resourceId": 50558499,
       "assetId": 226851
     },
@@ -1613,7 +1613,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 15000,
       "resourceId": 50572155,
       "assetId": 240507
     },
@@ -1772,7 +1772,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 17500,
       "resourceId": 50573144,
       "assetId": 241496
     },
@@ -1817,7 +1817,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 50576397,
       "assetId": 244749
     },
@@ -1868,7 +1868,7 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 14000,
       "resourceId": 50577795,
       "assetId": 246147
     },
@@ -2015,7 +2015,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 74500,
+      "price": 95000,
       "resourceId": 67335715,
       "assetId": 226851
     },
@@ -2064,6 +2064,59 @@
       "sbcPrice": 26400,
       "resourceId": 67353613,
       "assetId": 244749
+    },
+    "67355011": {
+      "name": "Mason Greenwood",
+      "cardName": "Greenwood",
+      "originalVersionId": "79",
+      "clubId": 219,
+      "leagueId": 16,
+      "countryId": 14,
+      "versionId": "79",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        2,
+        20,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        25,
+        35,
+        126,
+        132
+      ],
+      "rolesPlusPlus": [
+        23,
+        25,
+        35,
+        126,
+        132
+      ],
+      "attributes": [
+        87,
+        87,
+        83,
+        88,
+        42,
+        69
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 50750,
+      "resourceId": 67355011,
+      "assetId": 246147
     }
   }
 }

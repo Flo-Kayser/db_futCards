@@ -41,7 +41,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 24000,
+      "price": 26500,
       "resourceId": 50520215,
       "assetId": 188567
     },
@@ -93,7 +93,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 50500,
+      "price": 48000,
       "resourceId": 50545296,
       "assetId": 213648
     },
@@ -134,7 +134,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 37500,
+      "price": 47500,
       "resourceId": 50546964,
       "assetId": 215316
     },
@@ -232,7 +232,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 15000,
       "resourceId": 50572155,
       "assetId": 240507
     },
@@ -299,60 +299,9 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 17500,
       "resourceId": 50573144,
       "assetId": 241496
-    },
-    "50577795": {
-      "name": "Mason Greenwood",
-      "cardName": "Greenwood",
-      "originalVersionId": "3",
-      "clubId": 219,
-      "leagueId": 16,
-      "countryId": 14,
-      "versionId": "3",
-      "rating": 84,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        2,
-        20,
-        6,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        25,
-        32,
-        126
-      ],
-      "rolesPlusPlus": [
-        23,
-        25,
-        32,
-        126
-      ],
-      "attributes": [
-        85,
-        85,
-        80,
-        86,
-        40,
-        67
-      ],
-      "hasDynamicImage": true,
-      "price": 15500,
-      "resourceId": 50577795,
-      "assetId": 246147
     },
     "50603048": {
       "name": "Igor Paixão",
@@ -451,7 +400,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 74500,
+      "price": 95000,
       "resourceId": 67335715,
       "assetId": 226851
     },
@@ -500,6 +449,59 @@
       "sbcPrice": 26400,
       "resourceId": 67353613,
       "assetId": 244749
+    },
+    "67355011": {
+      "name": "Mason Greenwood",
+      "cardName": "Greenwood",
+      "originalVersionId": "79",
+      "clubId": 219,
+      "leagueId": 16,
+      "countryId": 14,
+      "versionId": "79",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        2,
+        20,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        25,
+        35,
+        126,
+        132
+      ],
+      "rolesPlusPlus": [
+        23,
+        25,
+        35,
+        126,
+        132
+      ],
+      "attributes": [
+        87,
+        87,
+        83,
+        88,
+        42,
+        69
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 50750,
+      "resourceId": 67355011,
+      "assetId": 246147
     }
   }
 }
