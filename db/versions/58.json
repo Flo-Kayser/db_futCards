@@ -51,7 +51,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 24550,
+    "sbcPrice": 24450,
     "resourceId": 50403208,
     "assetId": 71560
   },
@@ -208,9 +208,60 @@
       75
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 24650,
+    "sbcPrice": 24450,
     "resourceId": 50570060,
     "assetId": 238412
+  },
+  "50583214": {
+    "name": "Gabriel Martinelli",
+    "cardName": "Gabriel Martinelli",
+    "originalVersionId": "58",
+    "clubId": 1,
+    "leagueId": 13,
+    "countryId": 54,
+    "versionId": "58",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      13,
+      25,
+      26
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      27,
+      38,
+      40,
+      130,
+      139
+    ],
+    "rolesPlusPlus": [
+      27,
+      38,
+      40,
+      130,
+      139
+    ],
+    "attributes": [
+      92,
+      81,
+      80,
+      85,
+      50,
+      77
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 98000,
+    "resourceId": 50583214,
+    "assetId": 251566
   },
   "50591436": {
     "name": "Juan Portillo",
@@ -262,7 +313,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 32750,
+    "sbcPrice": 31000,
     "resourceId": 50591436,
     "assetId": 259788
   },
@@ -363,5 +414,51 @@
     "price": 0,
     "resourceId": 50598563,
     "assetId": 266915
+  },
+  "67346543": {
+    "name": "Randal Kolo Muani",
+    "cardName": "Kolo Muani",
+    "originalVersionId": "58",
+    "clubId": 18,
+    "leagueId": 13,
+    "countryId": 18,
+    "versionId": "58",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      21,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      42,
+      43,
+      141
+    ],
+    "rolesPlusPlus": [
+      42,
+      43,
+      141
+    ],
+    "attributes": [
+      92,
+      83,
+      75,
+      85,
+      45,
+      70
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 97200,
+    "resourceId": 67346543,
+    "assetId": 237679
   }
 }

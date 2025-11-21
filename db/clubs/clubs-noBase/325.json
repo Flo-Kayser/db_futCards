@@ -43,7 +43,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 93000,
+      "sbcPrice": 95000,
       "price": 102800,
       "resourceId": 50552441,
       "assetId": 220793
@@ -143,7 +143,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 660000,
+      "price": 647000,
       "resourceId": 50563941,
       "assetId": 232293
     },
@@ -194,7 +194,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 18750,
+      "price": 19250,
       "resourceId": 50602219,
       "assetId": 270571
     },
@@ -244,10 +244,61 @@
         81,
         78
       ],
-      "isObjective": true,
       "hasDynamicImage": true,
       "resourceId": 67295806,
       "assetId": 186942
+    },
+    "67331356": {
+      "name": "Leroy Sané",
+      "cardName": "Sané",
+      "originalVersionId": "51",
+      "clubId": 325,
+      "leagueId": 68,
+      "countryId": 21,
+      "versionId": "51",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        2,
+        21,
+        25,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        24,
+        30,
+        37,
+        126,
+        136
+      ],
+      "rolesPlusPlus": [
+        24,
+        30,
+        37,
+        126,
+        136
+      ],
+      "attributes": [
+        90,
+        85,
+        83,
+        88,
+        41,
+        75
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 67331356,
+      "assetId": 222492
     }
   }
 }

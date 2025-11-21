@@ -40,7 +40,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 127000,
+    "price": 119000,
     "resourceId": 5454,
     "assetId": 5454
   },
@@ -92,7 +92,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 370000,
+    "price": 413000,
     "resourceId": 28765,
     "assetId": 28765
   },
@@ -135,7 +135,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 30000,
+    "price": 33750,
     "resourceId": 150418,
     "assetId": 150418
   },
@@ -183,7 +183,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 256000,
+    "price": 253000,
     "resourceId": 166676,
     "assetId": 166676
   },
@@ -230,7 +230,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 67000,
+    "price": 69000,
     "resourceId": 261593,
     "assetId": 261593
   },
@@ -277,7 +277,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 118000,
+    "price": 111000,
     "resourceId": 269603,
     "assetId": 269603
   },
@@ -323,7 +323,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 12250,
+    "price": 12500,
     "resourceId": 50404726,
     "assetId": 73078
   },
@@ -373,7 +373,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14000,
     "resourceId": 50409660,
     "assetId": 78012
   },
@@ -496,7 +496,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 16250,
+    "price": 15750,
     "resourceId": 50536286,
     "assetId": 204638
   },
@@ -544,9 +544,55 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 12750,
+    "price": 12500,
     "resourceId": 50537761,
     "assetId": 206113
+  },
+  "50539510": {
+    "name": "Matthias Ginter",
+    "cardName": "Ginter",
+    "originalVersionId": "34",
+    "clubId": 25,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "34",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      15,
+      19,
+      9
+    ],
+    "playStylesPlus": [
+      17
+    ],
+    "rolesPlus": [
+      12,
+      111,
+      113
+    ],
+    "rolesPlusPlus": [
+      12,
+      111,
+      113
+    ],
+    "attributes": [
+      80,
+      63,
+      76,
+      75,
+      87,
+      81
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50539510,
+    "assetId": 207862
   },
   "50541306": {
     "name": "Leon Goretzka",
@@ -593,7 +639,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 78950,
+    "sbcPrice": 78850,
     "price": 68500,
     "resourceId": 50541306,
     "assetId": 209658
@@ -641,7 +687,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 13000,
     "resourceId": 50541494,
     "assetId": 209846
   },
@@ -693,6 +739,60 @@
     "hasDynamicImage": true,
     "resourceId": 50543026,
     "assetId": 211378
+  },
+  "50543836": {
+    "name": "Timo Werner",
+    "cardName": "Werner",
+    "originalVersionId": "34",
+    "clubId": 112172,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "34",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      20,
+      21,
+      25,
+      26,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      27,
+      38,
+      44,
+      130,
+      139,
+      141
+    ],
+    "rolesPlusPlus": [
+      27,
+      38,
+      44,
+      130,
+      139,
+      141
+    ],
+    "attributes": [
+      92,
+      83,
+      77,
+      86,
+      43,
+      75
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50543836,
+    "assetId": 212188
   },
   "50544270": {
     "name": "Joshua Kimmich",
@@ -766,9 +866,113 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 149000,
+    "price": 153000,
     "resourceId": 50544270,
     "assetId": 212622
+  },
+  "50552524": {
+    "name": "Franck Honorat",
+    "cardName": "Honorat",
+    "originalVersionId": "34",
+    "clubId": 23,
+    "leagueId": 19,
+    "countryId": 18,
+    "versionId": "34",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      2,
+      20,
+      21,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      5,
+      6,
+      23,
+      125,
+      137
+    ],
+    "rolesPlusPlus": [
+      5,
+      6,
+      23,
+      125,
+      137
+    ],
+    "attributes": [
+      91,
+      83,
+      85,
+      84,
+      60,
+      77
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50552524,
+    "assetId": 220876
+  },
+  "50553979": {
+    "name": "Lukas Klostermann",
+    "cardName": "Klostermann",
+    "originalVersionId": "34",
+    "clubId": 112172,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "34",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "RB"
+    ],
+    "playStyles": [
+      15,
+      16,
+      18,
+      19
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      5,
+      13,
+      48,
+      103,
+      111
+    ],
+    "rolesPlusPlus": [
+      5,
+      13,
+      48,
+      103,
+      111
+    ],
+    "attributes": [
+      85,
+      56,
+      77,
+      75,
+      86,
+      81
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50553979,
+    "assetId": 222331
   },
   "50555844": {
     "name": "Ramy Bensebaini",
@@ -868,7 +1072,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 15500,
     "resourceId": 50557023,
     "assetId": 225375
   },
@@ -915,7 +1119,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 21250,
     "resourceId": 50557280,
     "assetId": 225632
   },
@@ -958,7 +1162,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 15250,
     "resourceId": 50560031,
     "assetId": 228383
   },
@@ -1004,7 +1208,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 16000,
     "resourceId": 50564306,
     "assetId": 232658
   },
@@ -1122,7 +1326,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 12250,
     "resourceId": 50568976,
     "assetId": 237328
   },
@@ -1174,7 +1378,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 221000,
+    "price": 205000,
     "resourceId": 50572732,
     "assetId": 241084
   },
@@ -1271,7 +1475,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 13000,
     "resourceId": 50575698,
     "assetId": 244050
   },
@@ -1468,7 +1672,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 300000,
+    "price": 297000,
     "resourceId": 50583500,
     "assetId": 251852
   },
@@ -1568,7 +1772,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 32500,
     "resourceId": 50584143,
     "assetId": 252495
   },
@@ -1620,7 +1824,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 26000,
+    "price": 22500,
     "resourceId": 50585765,
     "assetId": 254117
   },
@@ -1675,7 +1879,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 22750,
     "resourceId": 50588501,
     "assetId": 256853
   },
@@ -1745,7 +1949,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 11500,
     "resourceId": 50589524,
     "assetId": 257876
   },
@@ -1797,7 +2001,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 19000,
     "resourceId": 50590363,
     "assetId": 258715
   },
@@ -1844,7 +2048,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 17600,
+    "sbcPrice": 17000,
     "resourceId": 50591004,
     "assetId": 259356
   },
@@ -1922,7 +2126,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 11500,
     "resourceId": 50591364,
     "assetId": 259716
   },
@@ -2120,7 +2324,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 324000,
+    "price": 318000,
     "resourceId": 50606946,
     "assetId": 275298
   },
@@ -2179,7 +2383,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 40500,
+    "price": 37500,
     "resourceId": 67318899,
     "assetId": 210035
   },
@@ -2324,7 +2528,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 76000,
+    "price": 70000,
     "resourceId": 67349948,
     "assetId": 241084
   },
@@ -2374,7 +2578,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 318000,
+    "price": 330000,
     "resourceId": 67355727,
     "assetId": 246863
   },
@@ -2427,7 +2631,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 184000,
+    "price": 171000,
     "resourceId": 67356691,
     "assetId": 247827
   },
@@ -2473,9 +2677,63 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14000,
     "resourceId": 67359823,
     "assetId": 250959
+  },
+  "67365822": {
+    "name": "Fábio Vieira",
+    "cardName": "Fábio Vieira",
+    "originalVersionId": "34",
+    "clubId": 28,
+    "leagueId": 19,
+    "countryId": 38,
+    "versionId": "34",
+    "rating": 86,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM"
+    ],
+    "playStyles": [
+      10,
+      11,
+      24,
+      3,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      22,
+      26,
+      32,
+      33,
+      121,
+      131
+    ],
+    "rolesPlusPlus": [
+      22,
+      26,
+      32,
+      33,
+      121,
+      131
+    ],
+    "attributes": [
+      84,
+      83,
+      87,
+      86,
+      64,
+      63
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67365822,
+    "assetId": 256958
   },
   "67378592": {
     "name": "Jean-Mattéo Bahoya",
@@ -2537,7 +2795,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 30750,
+    "sbcPrice": 30250,
     "resourceId": 67378592,
     "assetId": 269728
   },
@@ -2636,7 +2894,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 50000,
+    "price": 54500,
     "resourceId": 84148943,
     "assetId": 262863
   },
@@ -2687,7 +2945,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 747000,
+    "price": 770000,
     "resourceId": 100865422,
     "assetId": 202126
   }

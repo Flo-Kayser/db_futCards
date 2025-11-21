@@ -126,7 +126,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 1200,
       "resourceId": 203574,
       "assetId": 203574
     },
@@ -163,7 +163,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 450,
       "resourceId": 204246,
       "assetId": 204246
     },
@@ -250,7 +250,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 208920,
       "assetId": 208920
     },
@@ -334,7 +334,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 224081,
       "assetId": 224081
     },
@@ -421,7 +421,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 28750,
+      "price": 28000,
       "resourceId": 231866,
       "assetId": 231866
     },
@@ -560,7 +560,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 251570,
       "assetId": 251570
     },
@@ -774,7 +774,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 263063,
       "assetId": 263063
     },
@@ -815,54 +815,6 @@
       "price": 0,
       "resourceId": 264681,
       "assetId": 264681
-    },
-    "270409": {
-      "name": "Savinho",
-      "cardName": "Savinho",
-      "originalVersionId": "0",
-      "clubId": 10,
-      "leagueId": 13,
-      "countryId": 54,
-      "versionId": "2002",
-      "rating": 82,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 4,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        12,
-        13,
-        20,
-        22
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        35,
-        36,
-        38
-      ],
-      "rolesPlusPlus": [
-        35,
-        36,
-        38
-      ],
-      "attributes": [
-        87,
-        71,
-        78,
-        86,
-        30,
-        53
-      ],
-      "hasDynamicImage": false,
-      "price": 550,
-      "resourceId": 270409,
-      "assetId": 270409
     },
     "271574": {
       "name": "Rico Lewis",
@@ -907,7 +859,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 850,
       "resourceId": 271574,
       "assetId": 271574
     },
@@ -949,7 +901,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 277031,
       "assetId": 277031
     },
@@ -990,7 +942,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 450,
       "resourceId": 277427,
       "assetId": 277427
     },
@@ -1048,7 +1000,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 165000,
+      "price": 182000,
       "resourceId": 50550315,
       "assetId": 218667
     },
@@ -1145,7 +1097,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 1069000,
+      "price": 1059000,
       "resourceId": 50572286,
       "assetId": 240638
     },
@@ -1195,7 +1147,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 60000,
+      "price": 58500,
       "resourceId": 50578068,
       "assetId": 246420
     },
@@ -1244,9 +1196,63 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 74000,
+      "price": 78000,
       "resourceId": 50583165,
       "assetId": 251517
+    },
+    "50602057": {
+      "name": "Savinho",
+      "cardName": "Savinho",
+      "originalVersionId": "34",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 54,
+      "versionId": "34",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12,
+        13,
+        22,
+        25
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        23,
+        35,
+        38,
+        126,
+        136
+      ],
+      "rolesPlusPlus": [
+        23,
+        35,
+        38,
+        126,
+        136
+      ],
+      "attributes": [
+        91,
+        83,
+        85,
+        88,
+        35,
+        62
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 191750,
+      "resourceId": 50602057,
+      "assetId": 270409
     },
     "50608943": {
       "name": "Oscar Bobb",
@@ -1298,7 +1304,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 22750,
+      "price": 22250,
       "resourceId": 50608943,
       "assetId": 277295
     },
@@ -1343,7 +1349,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 367000,
+      "price": 379000,
       "resourceId": 67339485,
       "assetId": 230621
     },
@@ -1417,7 +1423,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 105750,
+      "sbcPrice": 103500,
       "resourceId": 67346556,
       "assetId": 237692
     },
@@ -1467,7 +1473,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 305000,
+      "price": 322000,
       "resourceId": 67349502,
       "assetId": 240638
     },
@@ -1517,7 +1523,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 1480000,
+      "price": 1590000,
       "resourceId": 84125165,
       "assetId": 239085
     }

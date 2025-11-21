@@ -209,7 +209,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 1861000,
+    "price": 1825000,
     "resourceId": 71557,
     "assetId": 71557
   },
@@ -670,7 +670,7 @@
       47
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1400,
     "resourceId": 75297,
     "assetId": 75297
   },
@@ -1243,7 +1243,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 500,
     "resourceId": 193331,
     "assetId": 193331
   },
@@ -2735,51 +2735,6 @@
     "resourceId": 230893,
     "assetId": 230893
   },
-  "232104": {
-    "name": "Daniel James",
-    "cardName": "James",
-    "originalVersionId": "1",
-    "clubId": 8,
-    "leagueId": 13,
-    "countryId": 50,
-    "versionId": "3002",
-    "rating": 76,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "RM",
-    "possiblePositions": [
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      21,
-      7
-    ],
-    "playStylesPlus": [
-      25
-    ],
-    "rolesPlus": [
-      23,
-      26
-    ],
-    "rolesPlusPlus": [
-      23,
-      26
-    ],
-    "attributes": [
-      94,
-      71,
-      68,
-      76,
-      50,
-      68
-    ],
-    "hasDynamicImage": false,
-    "price": 1200,
-    "resourceId": 232104,
-    "assetId": 232104
-  },
   "232545": {
     "name": "Nathan Broadhead",
     "cardName": "Broadhead",
@@ -3634,7 +3589,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 73500,
+    "price": 75500,
     "resourceId": 247703,
     "assetId": 247703
   },
@@ -6371,6 +6326,56 @@
     "price": 200,
     "resourceId": 50560463,
     "assetId": 228815
+  },
+  "50563752": {
+    "name": "Daniel James",
+    "cardName": "James",
+    "originalVersionId": "34",
+    "clubId": 8,
+    "leagueId": 13,
+    "countryId": 50,
+    "versionId": "34",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      21,
+      26,
+      7
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      26,
+      36,
+      123,
+      135
+    ],
+    "rolesPlusPlus": [
+      26,
+      36,
+      123,
+      135
+    ],
+    "attributes": [
+      95,
+      80,
+      80,
+      82,
+      58,
+      75
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50563752,
+    "assetId": 232104
   },
   "50564849": {
     "name": "Chris Mepham",

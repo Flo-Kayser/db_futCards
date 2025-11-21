@@ -34,7 +34,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 300,
       "resourceId": 71081,
       "assetId": 71081
     },
@@ -71,7 +71,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 75713,
       "assetId": 75713
     },
@@ -108,59 +108,9 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 3500,
       "resourceId": 78886,
       "assetId": 78886
-    },
-    "181291": {
-      "name": "Georginio Wijnaldum",
-      "cardName": "Wijnaldum",
-      "originalVersionId": "0",
-      "clubId": 112096,
-      "leagueId": 350,
-      "countryId": 34,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [
-        19,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        31,
-        32,
-        33,
-        42
-      ],
-      "rolesPlusPlus": [
-        18,
-        31,
-        32,
-        33,
-        42
-      ],
-      "attributes": [
-        67,
-        72,
-        77,
-        80,
-        76,
-        75
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 181291,
-      "assetId": 181291
     },
     "210259": {
       "name": "Ahmed Hassan",
@@ -198,7 +148,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 2700,
       "resourceId": 210259,
       "assetId": 210259
     },
@@ -243,7 +193,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 211152,
       "assetId": 211152
     },
@@ -284,7 +234,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 211591,
       "assetId": 211591
     },
@@ -380,7 +330,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 213064,
       "assetId": 213064
     },
@@ -421,7 +371,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 300,
       "resourceId": 213901,
       "assetId": 213901
     },
@@ -502,7 +452,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 250,
       "resourceId": 222951,
       "assetId": 222951
     },
@@ -581,7 +531,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 232901,
       "assetId": 232901
     },
@@ -624,7 +574,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 243045,
       "assetId": 243045
     },
@@ -667,7 +617,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 245414,
       "assetId": 245414
     },
@@ -706,7 +656,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 245499,
       "assetId": 245499
     },
@@ -743,7 +693,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 248255,
       "assetId": 248255
     },
@@ -780,7 +730,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 253079,
       "assetId": 253079
     },
@@ -818,7 +768,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 1000,
       "resourceId": 277316,
       "assetId": 277316
     },
@@ -855,7 +805,7 @@
         41
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1500,
       "resourceId": 277317,
       "assetId": 277317
     },
@@ -901,9 +851,62 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 278567,
       "assetId": 278567
+    },
+    "50512939": {
+      "name": "Georginio Wijnaldum",
+      "cardName": "Wijnaldum",
+      "originalVersionId": "34",
+      "clubId": 112096,
+      "leagueId": 350,
+      "countryId": 34,
+      "versionId": "34",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        19,
+        22,
+        24,
+        4
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        20,
+        21,
+        31,
+        118,
+        142
+      ],
+      "rolesPlusPlus": [
+        20,
+        21,
+        31,
+        118,
+        142
+      ],
+      "attributes": [
+        80,
+        80,
+        84,
+        86,
+        81,
+        78
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50512939,
+      "assetId": 181291
     },
     "50556964": {
       "name": "Jack Hendry",
@@ -991,7 +994,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 13000,
+      "price": 16250,
       "resourceId": 50580146,
       "assetId": 248498
     }

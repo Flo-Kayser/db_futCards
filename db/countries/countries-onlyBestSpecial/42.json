@@ -41,9 +41,67 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 1230000,
+    "price": 1189000,
     "resourceId": 247699,
     "assetId": 247699
+  },
+  "50533016": {
+    "name": "Kenny McLean",
+    "cardName": "McLean",
+    "originalVersionId": "8",
+    "clubId": 1792,
+    "leagueId": 14,
+    "countryId": 42,
+    "versionId": "8",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM",
+      "LB"
+    ],
+    "playStyles": [
+      10,
+      16,
+      19,
+      24
+    ],
+    "playStylesPlus": [
+      2
+    ],
+    "rolesPlus": [
+      14,
+      15,
+      19,
+      116,
+      118,
+      120,
+      147
+    ],
+    "rolesPlusPlus": [
+      14,
+      15,
+      19,
+      116,
+      118,
+      120,
+      147
+    ],
+    "attributes": [
+      78,
+      85,
+      81,
+      81,
+      80,
+      84
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 15250,
+    "resourceId": 50533016,
+    "assetId": 201368
   },
   "50538213": {
     "name": "Jamie Walker",
@@ -189,7 +247,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 112000,
+    "price": 133000,
     "resourceId": 50547915,
     "assetId": 216267
   },
@@ -232,7 +290,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 20750,
     "resourceId": 50553693,
     "assetId": 222045
   },
@@ -324,51 +382,9 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 21250,
     "resourceId": 50557280,
     "assetId": 225632
-  },
-  "50558139": {
-    "name": "Kieran Tierney",
-    "cardName": "Tierney",
-    "originalVersionId": "3",
-    "clubId": 78,
-    "leagueId": 50,
-    "countryId": 42,
-    "versionId": "3",
-    "rating": 83,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "LB",
-    "possiblePositions": [
-      "LB",
-      "LM"
-    ],
-    "playStyles": [
-      14,
-      17,
-      9
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      107
-    ],
-    "rolesPlusPlus": [
-      107
-    ],
-    "attributes": [
-      85,
-      68,
-      83,
-      82,
-      81,
-      80
-    ],
-    "hasDynamicImage": true,
-    "price": 12250,
-    "resourceId": 50558139,
-    "assetId": 226491
   },
   "50568886": {
     "name": "Scott McTominay",
@@ -418,7 +434,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 102000,
+    "price": 81000,
     "resourceId": 50568886,
     "assetId": 237238
   },
@@ -468,9 +484,172 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 23000,
     "resourceId": 50577520,
     "assetId": 245872
+  },
+  "50577640": {
+    "name": "Billy Gilmour",
+    "cardName": "Gilmour",
+    "originalVersionId": "34",
+    "clubId": 48,
+    "leagueId": 31,
+    "countryId": 42,
+    "versionId": "34",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      11,
+      26,
+      8
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      15,
+      16,
+      20,
+      114,
+      119,
+      149
+    ],
+    "rolesPlusPlus": [
+      15,
+      16,
+      20,
+      114,
+      119,
+      149
+    ],
+    "attributes": [
+      80,
+      73,
+      80,
+      82,
+      85,
+      80
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50577640,
+    "assetId": 245992
+  },
+  "67335355": {
+    "name": "Kieran Tierney",
+    "cardName": "Tierney",
+    "originalVersionId": "8",
+    "clubId": 78,
+    "leagueId": 50,
+    "countryId": 42,
+    "versionId": "8",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "RB"
+    ],
+    "playStyles": [
+      14,
+      17,
+      27,
+      9
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      3,
+      7,
+      106,
+      110,
+      146,
+      147
+    ],
+    "rolesPlusPlus": [
+      3,
+      7,
+      106,
+      110,
+      146,
+      147
+    ],
+    "attributes": [
+      86,
+      82,
+      84,
+      83,
+      83,
+      82
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 31500,
+    "resourceId": 67335355,
+    "assetId": 226491
+  },
+  "67346102": {
+    "name": "Scott McTominay",
+    "cardName": "McTominay",
+    "originalVersionId": "8",
+    "clubId": 48,
+    "leagueId": 31,
+    "countryId": 42,
+    "versionId": "8",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      19,
+      20,
+      29,
+      4,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      5
+    ],
+    "rolesPlus": [
+      18,
+      32,
+      121,
+      131
+    ],
+    "rolesPlusPlus": [
+      18,
+      32,
+      121,
+      131
+    ],
+    "attributes": [
+      79,
+      86,
+      80,
+      84,
+      82,
+      88
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 89500,
+    "resourceId": 67346102,
+    "assetId": 237238
   },
   "67354743": {
     "name": "Caroline Weir",
@@ -526,7 +705,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 14000,
     "resourceId": 67354743,
     "assetId": 245879
   }

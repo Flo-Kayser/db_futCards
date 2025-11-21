@@ -156,7 +156,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 202884,
       "assetId": 202884
     },
@@ -205,7 +205,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 216409,
       "assetId": 216409
     },
@@ -254,7 +254,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 216435,
       "assetId": 216435
     },
@@ -369,7 +369,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 650,
       "resourceId": 225116,
       "assetId": 225116
     },
@@ -455,7 +455,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 239679,
       "assetId": 239679
     },
@@ -541,7 +541,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 243241,
       "assetId": 243241
     },
@@ -591,48 +591,6 @@
       "resourceId": 244263,
       "assetId": 244263
     },
-    "245992": {
-      "name": "Billy Gilmour",
-      "cardName": "Gilmour",
-      "originalVersionId": "1",
-      "clubId": 48,
-      "leagueId": 31,
-      "countryId": 42,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        15,
-        18,
-        20
-      ],
-      "rolesPlusPlus": [
-        15,
-        18,
-        20
-      ],
-      "attributes": [
-        60,
-        58,
-        74,
-        76,
-        69,
-        58
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 245992,
-      "assetId": 245992
-    },
     "261865": {
       "name": "Miguel Gutiérrez",
       "cardName": "Miguel Gutiérrez",
@@ -673,7 +631,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 261865,
       "assetId": 261865
     },
@@ -925,7 +883,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 350,
       "resourceId": 276706,
       "assetId": 276706
     },
@@ -1022,7 +980,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 24250,
+      "sbcPrice": 23750,
       "resourceId": 50524153,
       "assetId": 192505
     },
@@ -1076,7 +1034,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 210000,
+      "price": 230000,
       "resourceId": 50524633,
       "assetId": 192985
     },
@@ -1217,7 +1175,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 102000,
+      "price": 81000,
       "resourceId": 50568886,
       "assetId": 237238
     },
@@ -1267,6 +1225,60 @@
       "price": 350,
       "resourceId": 50573038,
       "assetId": 241390
+    },
+    "50577640": {
+      "name": "Billy Gilmour",
+      "cardName": "Gilmour",
+      "originalVersionId": "34",
+      "clubId": 48,
+      "leagueId": 31,
+      "countryId": 42,
+      "versionId": "34",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        26,
+        8
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        15,
+        16,
+        20,
+        114,
+        119,
+        149
+      ],
+      "rolesPlusPlus": [
+        15,
+        16,
+        20,
+        114,
+        119,
+        149
+      ],
+      "attributes": [
+        80,
+        73,
+        80,
+        82,
+        85,
+        80
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50577640,
+      "assetId": 245992
     },
     "67326734": {
       "name": "Giovanni Di Lorenzo",
@@ -1318,7 +1330,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 60000,
+      "price": 65000,
       "resourceId": 67326734,
       "assetId": 217870
     },
@@ -1369,10 +1381,63 @@
         89
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 77450,
+      "sbcPrice": 81050,
       "price": 75150,
       "resourceId": 67336100,
       "assetId": 227236
+    },
+    "67346102": {
+      "name": "Scott McTominay",
+      "cardName": "McTominay",
+      "originalVersionId": "8",
+      "clubId": 48,
+      "leagueId": 31,
+      "countryId": 42,
+      "versionId": "8",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        19,
+        20,
+        29,
+        4,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        5
+      ],
+      "rolesPlus": [
+        18,
+        32,
+        121,
+        131
+      ],
+      "rolesPlusPlus": [
+        18,
+        32,
+        121,
+        131
+      ],
+      "attributes": [
+        79,
+        86,
+        80,
+        84,
+        82,
+        88
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 89500,
+      "resourceId": 67346102,
+      "assetId": 237238
     },
     "67368263": {
       "name": "Rasmus Højlund",

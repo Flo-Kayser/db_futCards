@@ -88,51 +88,9 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 20750,
     "resourceId": 50553693,
     "assetId": 222045
-  },
-  "50558139": {
-    "name": "Kieran Tierney",
-    "cardName": "Tierney",
-    "originalVersionId": "3",
-    "clubId": 78,
-    "leagueId": 50,
-    "countryId": 42,
-    "versionId": "3",
-    "rating": 83,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "LB",
-    "possiblePositions": [
-      "LB",
-      "LM"
-    ],
-    "playStyles": [
-      14,
-      17,
-      9
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      107
-    ],
-    "rolesPlusPlus": [
-      107
-    ],
-    "attributes": [
-      85,
-      68,
-      83,
-      82,
-      81,
-      80
-    ],
-    "hasDynamicImage": true,
-    "price": 12250,
-    "resourceId": 50558139,
-    "assetId": 226491
   },
   "50571708": {
     "name": "Max Aarons",
@@ -183,7 +141,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11000,
     "resourceId": 50571708,
     "assetId": 240060
   },
@@ -237,5 +195,61 @@
     "hasDynamicImage": true,
     "resourceId": 50583782,
     "assetId": 252134
+  },
+  "67335355": {
+    "name": "Kieran Tierney",
+    "cardName": "Tierney",
+    "originalVersionId": "8",
+    "clubId": 78,
+    "leagueId": 50,
+    "countryId": 42,
+    "versionId": "8",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "RB"
+    ],
+    "playStyles": [
+      14,
+      17,
+      27,
+      9
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      3,
+      7,
+      106,
+      110,
+      146,
+      147
+    ],
+    "rolesPlusPlus": [
+      3,
+      7,
+      106,
+      110,
+      146,
+      147
+    ],
+    "attributes": [
+      86,
+      82,
+      84,
+      83,
+      83,
+      82
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 31500,
+    "resourceId": 67335355,
+    "assetId": 226491
   }
 }

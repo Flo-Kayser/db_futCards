@@ -42,7 +42,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 1200,
       "resourceId": 70651,
       "assetId": 70651
     },
@@ -356,7 +356,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 500,
       "resourceId": 220075,
       "assetId": 220075
     },
@@ -546,7 +546,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 229851,
       "assetId": 229851
     },
@@ -590,7 +590,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 300,
       "resourceId": 230713,
       "assetId": 230713
     },
@@ -637,7 +637,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 16500,
+      "price": 17250,
       "resourceId": 232656,
       "assetId": 232656
     },
@@ -683,7 +683,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 300,
       "resourceId": 241938,
       "assetId": 241938
     },
@@ -725,7 +725,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 242223,
       "assetId": 242223
     },
@@ -769,7 +769,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 350,
       "resourceId": 245268,
       "assetId": 245268
     },
@@ -808,7 +808,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 245276,
       "assetId": 245276
     },
@@ -851,7 +851,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 500,
       "resourceId": 245751,
       "assetId": 245751
     },
@@ -930,50 +930,9 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 4100,
+      "price": 4000,
       "resourceId": 251573,
       "assetId": 251573
-    },
-    "253072": {
-      "name": "Darwin Núñez",
-      "cardName": "Núñez",
-      "originalVersionId": "1",
-      "clubId": 605,
-      "leagueId": 350,
-      "countryId": 60,
-      "versionId": "3002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        21,
-        25,
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        44
-      ],
-      "rolesPlusPlus": [
-        44
-      ],
-      "attributes": [
-        88,
-        79,
-        72,
-        76,
-        49,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 253072,
-      "assetId": 253072
     },
     "256331": {
       "name": "Muteb Al Harbi",
@@ -1016,7 +975,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 800,
       "resourceId": 256331,
       "assetId": 256331
     },
@@ -1054,7 +1013,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 261357,
       "assetId": 261357
     },
@@ -1099,7 +1058,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 265407,
       "assetId": 265407
     },
@@ -1176,7 +1135,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 277063,
       "assetId": 277063
     },
@@ -1214,7 +1173,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 277487,
       "assetId": 277487
     },
@@ -1265,9 +1224,56 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 17500,
+      "price": 20000,
       "resourceId": 50555941,
       "assetId": 224293
+    },
+    "50584720": {
+      "name": "Darwin Núñez",
+      "cardName": "Núñez",
+      "originalVersionId": "34",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 60,
+      "versionId": "34",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        21,
+        25,
+        26
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        44,
+        141,
+        142
+      ],
+      "rolesPlusPlus": [
+        44,
+        141,
+        142
+      ],
+      "attributes": [
+        90,
+        86,
+        80,
+        83,
+        55,
+        84
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50584720,
+      "assetId": 253072
     },
     "50606965": {
       "name": "Mathieu Patouillet",
@@ -1302,7 +1308,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 50606965,
       "assetId": 275317
     },
@@ -1353,7 +1359,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 38750,
+      "sbcPrice": 37500,
       "price": 45900,
       "resourceId": 50609445,
       "assetId": 277797
@@ -1391,7 +1397,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 300,
       "resourceId": 50610648,
       "assetId": 279000
     }

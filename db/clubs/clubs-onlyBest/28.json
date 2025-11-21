@@ -161,7 +161,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 300,
       "resourceId": 74102,
       "assetId": 74102
     },
@@ -314,7 +314,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 350,
       "resourceId": 212197,
       "assetId": 212197
     },
@@ -401,7 +401,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 213134,
       "assetId": 213134
     },
@@ -619,7 +619,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 234640,
       "assetId": 234640
     },
@@ -704,7 +704,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 236947,
       "assetId": 236947
     },
@@ -796,7 +796,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 246666,
       "assetId": 246666
     },
@@ -843,7 +843,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 250,
       "resourceId": 246885,
       "assetId": 246885
     },
@@ -892,7 +892,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 255036,
       "assetId": 255036
     },
@@ -931,7 +931,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 256854,
       "assetId": 256854
     },
@@ -969,7 +969,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 262045,
       "assetId": 262045
     },
@@ -1013,7 +1013,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 262869,
       "assetId": 262869
     },
@@ -1147,7 +1147,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 274722,
       "assetId": 274722
     },
@@ -1403,56 +1403,6 @@
       "resourceId": 50583609,
       "assetId": 251961
     },
-    "50588606": {
-      "name": "Fábio Vieira",
-      "cardName": "Fábio Vieira",
-      "originalVersionId": "0",
-      "clubId": 28,
-      "leagueId": 19,
-      "countryId": 38,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "RM"
-      ],
-      "playStyles": [
-        11,
-        3
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        21,
-        26,
-        31,
-        32,
-        33
-      ],
-      "rolesPlusPlus": [
-        21,
-        26,
-        31,
-        32,
-        33
-      ],
-      "attributes": [
-        71,
-        73,
-        78,
-        78,
-        56,
-        53
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50588606,
-      "assetId": 256958
-    },
     "50606840": {
       "name": "Luka Vušković",
       "cardName": "Vušković",
@@ -1492,9 +1442,63 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 50606840,
       "assetId": 275192
+    },
+    "67365822": {
+      "name": "Fábio Vieira",
+      "cardName": "Fábio Vieira",
+      "originalVersionId": "34",
+      "clubId": 28,
+      "leagueId": 19,
+      "countryId": 38,
+      "versionId": "34",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        24,
+        3,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        26,
+        32,
+        33,
+        121,
+        131
+      ],
+      "rolesPlusPlus": [
+        22,
+        26,
+        32,
+        33,
+        121,
+        131
+      ],
+      "attributes": [
+        84,
+        83,
+        87,
+        86,
+        64,
+        63
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67365822,
+      "assetId": 256958
     }
   }
 }

@@ -341,7 +341,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 229261,
       "assetId": 229261
     },
@@ -550,49 +550,6 @@
       "resourceId": 244915,
       "assetId": 244915
     },
-    "245211": {
-      "name": "Jordan Teze",
-      "cardName": "Teze",
-      "originalVersionId": "0",
-      "clubId": 69,
-      "leagueId": 16,
-      "countryId": 34,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 1,
-      "skillMoves": 2,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        15,
-        17
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5,
-        6
-      ],
-      "rolesPlusPlus": [
-        5,
-        6
-      ],
-      "attributes": [
-        77,
-        49,
-        69,
-        69,
-        76,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 245211,
-      "assetId": 245211
-    },
     "247463": {
       "name": "Folarin Balogun",
       "cardName": "Balogun",
@@ -631,7 +588,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 247463,
       "assetId": 247463
     },
@@ -797,7 +754,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 200,
       "resourceId": 271661,
       "assetId": 271661
     },
@@ -885,7 +842,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 750,
       "resourceId": 272785,
       "assetId": 272785
     },
@@ -924,7 +881,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 273546,
       "assetId": 273546
     },
@@ -968,7 +925,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 250,
       "resourceId": 273933,
       "assetId": 273933
     },
@@ -1218,7 +1175,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 11250,
+      "price": 11500,
       "resourceId": 50522589,
       "assetId": 190941
     },
@@ -1280,9 +1237,58 @@
         70
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 184250,
+      "sbcPrice": 182750,
       "resourceId": 50527512,
       "assetId": 195864
+    },
+    "50576859": {
+      "name": "Jordan Teze",
+      "cardName": "Teze",
+      "originalVersionId": "34",
+      "clubId": 69,
+      "leagueId": 16,
+      "countryId": 34,
+      "versionId": "34",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        15,
+        17,
+        18
+      ],
+      "playStylesPlus": [
+        12
+      ],
+      "rolesPlus": [
+        6,
+        24,
+        103,
+        105
+      ],
+      "rolesPlusPlus": [
+        6,
+        24,
+        103,
+        105
+      ],
+      "attributes": [
+        85,
+        70,
+        78,
+        77,
+        84,
+        84
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50576859,
+      "assetId": 245211
     },
     "50584652": {
       "name": "Ansu Fati",
@@ -1325,7 +1331,7 @@
         60
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 0,
       "resourceId": 50584652,
       "assetId": 253004
     },
@@ -1377,7 +1383,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 13000,
       "resourceId": 50596510,
       "assetId": 264862
     },
@@ -1441,7 +1447,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 184250,
+      "sbcPrice": 182750,
       "resourceId": 67304728,
       "assetId": 195864
     }
