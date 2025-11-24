@@ -229,51 +229,6 @@
       "resourceId": 79085,
       "assetId": 79085
     },
-    "150516": {
-      "name": "Lukas Podolski",
-      "cardName": "Podolski",
-      "originalVersionId": "1",
-      "clubId": 420,
-      "leagueId": 66,
-      "countryId": 21,
-      "versionId": "3001",
-      "rating": 71,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        2,
-        22,
-        3,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        33,
-        43
-      ],
-      "rolesPlusPlus": [
-        33,
-        43
-      ],
-      "attributes": [
-        48,
-        74,
-        72,
-        69,
-        36,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 150516,
-      "assetId": 150516
-    },
     "201132": {
       "name": "Rafał Janicki",
       "cardName": "Janicki",
@@ -1119,6 +1074,57 @@
       "price": 200,
       "resourceId": 277589,
       "assetId": 277589
+    },
+    "50482164": {
+      "name": "Lukas Podolski",
+      "cardName": "Podolski",
+      "originalVersionId": "90",
+      "clubId": 420,
+      "leagueId": 66,
+      "countryId": 21,
+      "versionId": "90",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        22,
+        3,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        2
+      ],
+      "rolesPlus": [
+        32,
+        33,
+        43,
+        141
+      ],
+      "rolesPlusPlus": [
+        32,
+        33,
+        43,
+        141
+      ],
+      "attributes": [
+        83,
+        88,
+        84,
+        84,
+        50,
+        82
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50482164,
+      "assetId": 150516
     }
   }
 }

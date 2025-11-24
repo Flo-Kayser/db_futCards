@@ -129,7 +129,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 210413,
       "assetId": 210413
     },
@@ -169,7 +169,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 500,
       "resourceId": 210864,
       "assetId": 210864
     },
@@ -345,7 +345,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1400,
       "resourceId": 220502,
       "assetId": 220502
     },
@@ -430,7 +430,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 224987,
       "assetId": 224987
     },
@@ -515,7 +515,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 235374,
       "assetId": 235374
     },
@@ -876,7 +876,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 850,
       "resourceId": 258890,
       "assetId": 258890
     },
@@ -965,48 +965,9 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 6000,
+      "price": 350,
       "resourceId": 264257,
       "assetId": 264257
-    },
-    "266123": {
-      "name": "Oliver Provstgaard",
-      "cardName": "Provstgaard",
-      "originalVersionId": "0",
-      "clubId": 115841,
-      "leagueId": 31,
-      "countryId": 13,
-      "versionId": "2001",
-      "rating": 67,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        13
-      ],
-      "rolesPlusPlus": [
-        11,
-        13
-      ],
-      "attributes": [
-        66,
-        39,
-        53,
-        57,
-        65,
-        76
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 266123,
-      "assetId": 266123
     },
     "270217": {
       "name": "Alessio Furlanetto",
@@ -1249,9 +1210,55 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 61500,
+      "price": 76500,
       "resourceId": 50583178,
       "assetId": 251530
+    },
+    "50597771": {
+      "name": "Oliver Provstgaard",
+      "cardName": "Provstgaard",
+      "originalVersionId": "90",
+      "clubId": 115841,
+      "leagueId": 31,
+      "countryId": 13,
+      "versionId": "90",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        17,
+        18,
+        19,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13,
+        111
+      ],
+      "rolesPlusPlus": [
+        12,
+        13,
+        111
+      ],
+      "attributes": [
+        80,
+        60,
+        75,
+        73,
+        85,
+        86
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 20800,
+      "resourceId": 50597771,
+      "assetId": 266123
     },
     "50600452": {
       "name": "Mario Gila",
@@ -1294,7 +1301,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 23000,
+      "price": 25500,
       "resourceId": 50600452,
       "assetId": 268804
     }
