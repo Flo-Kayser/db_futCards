@@ -413,7 +413,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 700,
       "resourceId": 242596,
       "assetId": 242596
     },
@@ -537,53 +537,6 @@
       "price": 200,
       "resourceId": 245867,
       "assetId": 245867
-    },
-    "253296": {
-      "name": "Mathías Laborda",
-      "cardName": "Laborda",
-      "originalVersionId": "1",
-      "clubId": 101112,
-      "leagueId": 39,
-      "countryId": 60,
-      "versionId": "3001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        3,
-        11,
-        23,
-        48
-      ],
-      "rolesPlusPlus": [
-        3,
-        11,
-        23,
-        48
-      ],
-      "attributes": [
-        77,
-        47,
-        57,
-        62,
-        69,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 253296,
-      "assetId": 253296
     },
     "255205": {
       "name": "Sebastian Berhalter",
@@ -829,7 +782,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1100,
       "resourceId": 259543,
       "assetId": 259543
     },
@@ -1072,6 +1025,59 @@
       "resourceId": 278889,
       "assetId": 278889
     },
+    "50584944": {
+      "name": "Mathías Laborda",
+      "cardName": "Laborda",
+      "originalVersionId": "3",
+      "clubId": 101112,
+      "leagueId": 39,
+      "countryId": 60,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        11,
+        15,
+        16,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11,
+        23,
+        48,
+        109
+      ],
+      "rolesPlusPlus": [
+        3,
+        11,
+        23,
+        48,
+        109
+      ],
+      "attributes": [
+        85,
+        63,
+        72,
+        77,
+        83,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 11500,
+      "resourceId": 50584944,
+      "assetId": 253296
+    },
     "67298460": {
       "name": "Thomas Müller",
       "cardName": "Müller",
@@ -1143,7 +1149,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 17000,
       "resourceId": 67298460,
       "assetId": 189596
     }

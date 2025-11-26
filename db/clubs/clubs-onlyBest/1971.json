@@ -42,7 +42,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 500,
       "resourceId": 71205,
       "assetId": 71205
     },
@@ -685,52 +685,6 @@
       "resourceId": 269434,
       "assetId": 269434
     },
-    "271118": {
-      "name": "Noah Naujoks",
-      "cardName": "Naujoks",
-      "originalVersionId": "0",
-      "clubId": 1971,
-      "leagueId": 10,
-      "countryId": 34,
-      "versionId": "2001",
-      "rating": 65,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        32,
-        49
-      ],
-      "rolesPlusPlus": [
-        18,
-        32,
-        49
-      ],
-      "attributes": [
-        71,
-        58,
-        60,
-        63,
-        57,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 271118,
-      "assetId": 271118
-    },
     "271511": {
       "name": "Derensili Sanches Fernandes",
       "cardName": "Sanches Fernandes",
@@ -1058,6 +1012,56 @@
       "price": 350,
       "resourceId": 50405265,
       "assetId": 73617
+    },
+    "50602766": {
+      "name": "Noah Naujoks",
+      "cardName": "Naujoks",
+      "originalVersionId": "3",
+      "clubId": 1971,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        21,
+        26,
+        29,
+        5
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        49,
+        132
+      ],
+      "rolesPlusPlus": [
+        18,
+        49,
+        132
+      ],
+      "attributes": [
+        86,
+        79,
+        80,
+        83,
+        75,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 11500,
+      "resourceId": 50602766,
+      "assetId": 271118
     }
   }
 }

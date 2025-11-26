@@ -37,7 +37,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 163600,
       "assetId": 163600
     },
@@ -80,7 +80,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 650,
       "resourceId": 186345,
       "assetId": 186345
     },
@@ -156,7 +156,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 203487,
       "assetId": 203487
     },
@@ -196,7 +196,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 206085,
       "assetId": 206085
     },
@@ -287,7 +287,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 210047,
       "assetId": 210047
     },
@@ -372,7 +372,7 @@
         90
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 223334,
       "assetId": 223334
     },
@@ -417,7 +417,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 607000,
+      "price": 565000,
       "resourceId": 233731,
       "assetId": 233731
     },
@@ -457,51 +457,9 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 233934,
       "assetId": 233934
-    },
-    "234742": {
-      "name": "Harvey Barnes",
-      "cardName": "Barnes",
-      "originalVersionId": "0",
-      "clubId": 13,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "2002",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        0
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        38,
-        39
-      ],
-      "rolesPlusPlus": [
-        38,
-        39
-      ],
-      "attributes": [
-        83,
-        80,
-        75,
-        81,
-        43,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 234742,
-      "assetId": 234742
     },
     "237329": {
       "name": "Joe Willock",
@@ -620,7 +578,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 950,
       "resourceId": 251809,
       "assetId": 251809
     },
@@ -663,7 +621,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 256261,
       "assetId": 256261
     },
@@ -708,7 +666,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 257470,
       "assetId": 257470
     },
@@ -792,7 +750,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 950,
       "resourceId": 262118,
       "assetId": 262118
     },
@@ -835,7 +793,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 266127,
       "assetId": 266127
     },
@@ -954,7 +912,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 274246,
       "assetId": 274246
     },
@@ -1003,7 +961,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 378000,
+      "price": 402000,
       "resourceId": 50529680,
       "assetId": 198032
     },
@@ -1048,9 +1006,55 @@
         84
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 49700,
+      "sbcPrice": 50700,
       "resourceId": 50535489,
       "assetId": 203841
+    },
+    "50566390": {
+      "name": "Harvey Barnes",
+      "cardName": "Barnes",
+      "originalVersionId": "3",
+      "clubId": 13,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        20,
+        21,
+        5,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        39,
+        138
+      ],
+      "rolesPlusPlus": [
+        39,
+        138
+      ],
+      "attributes": [
+        88,
+        84,
+        80,
+        86,
+        47,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 18500,
+      "resourceId": 50566390,
+      "assetId": 234742
     },
     "50566472": {
       "name": "Yoane Wissa",
@@ -1090,7 +1094,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1400,
       "resourceId": 50566472,
       "assetId": 234824
     },
@@ -1144,7 +1148,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 571000,
+      "price": 579000,
       "resourceId": 50572744,
       "assetId": 241096
     },
@@ -1198,7 +1202,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 330000,
+      "price": 285000,
       "resourceId": 50574612,
       "assetId": 242964
     },
@@ -1246,7 +1250,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 23500,
+      "price": 24250,
       "resourceId": 50579499,
       "assetId": 247851
     },

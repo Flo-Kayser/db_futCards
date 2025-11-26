@@ -38,7 +38,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 90000,
+    "price": 104000,
     "resourceId": 227315,
     "assetId": 227315
   },
@@ -87,7 +87,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 48250,
+    "price": 50000,
     "resourceId": 275092,
     "assetId": 275092
   },
@@ -142,7 +142,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 39750,
+    "price": 36500,
     "resourceId": 50557984,
     "assetId": 226336
   },
@@ -191,7 +191,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 13000,
     "resourceId": 50558958,
     "assetId": 227310
   },
@@ -240,7 +240,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 363000,
+    "price": 614000,
     "resourceId": 50558963,
     "assetId": 227315
   },
@@ -289,7 +289,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 26000,
+    "price": 28500,
     "resourceId": 50558964,
     "assetId": 227316
   },
@@ -462,7 +462,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 85000,
+    "price": 86000,
     "resourceId": 50563080,
     "assetId": 231432
   },
@@ -553,7 +553,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 305000,
+    "price": 283000,
     "resourceId": 50565310,
     "assetId": 233662
   },
@@ -605,7 +605,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 15250,
+    "price": 13750,
     "resourceId": 50577345,
     "assetId": 245697
   },
@@ -703,7 +703,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 21300,
+    "sbcPrice": 21800,
     "resourceId": 50593388,
     "assetId": 261740
   },
@@ -748,7 +748,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 12750,
     "resourceId": 50593489,
     "assetId": 261841
   },
@@ -797,7 +797,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 11000,
     "resourceId": 50596553,
     "assetId": 264905
   },
@@ -884,7 +884,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 11000,
     "resourceId": 50596635,
     "assetId": 264987
   },
@@ -940,7 +940,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 191000,
+    "price": 183000,
     "resourceId": 50597322,
     "assetId": 265674
   },
@@ -990,7 +990,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 12500,
     "resourceId": 50597553,
     "assetId": 265905
   },
@@ -1098,9 +1098,63 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 11750,
     "resourceId": 50599179,
     "assetId": 267531
+  },
+  "50601477": {
+    "name": "Madeline Roth",
+    "cardName": "Roth",
+    "originalVersionId": "33",
+    "clubId": 116416,
+    "leagueId": 2218,
+    "countryId": 18,
+    "versionId": "33",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RB",
+      "RM",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      19,
+      24,
+      26,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      6,
+      23,
+      43,
+      124,
+      142
+    ],
+    "rolesPlusPlus": [
+      6,
+      23,
+      43,
+      124,
+      142
+    ],
+    "attributes": [
+      87,
+      85,
+      82,
+      88,
+      65,
+      78
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50601477,
+    "assetId": 269829
   },
   "50605594": {
     "name": "Korbin Shrader",
@@ -1290,7 +1344,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 14500,
     "resourceId": 50609867,
     "assetId": 278219
   },
@@ -1340,7 +1394,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 12000,
     "resourceId": 50609873,
     "assetId": 278225
   },
@@ -1389,10 +1443,66 @@
       86
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 79000,
+    "sbcPrice": 83250,
     "price": 69550,
     "resourceId": 67336180,
     "assetId": 227316
+  },
+  "67342526": {
+    "name": "Sakina Karchaoui",
+    "cardName": "Karchaoui",
+    "originalVersionId": "3",
+    "clubId": 116034,
+    "leagueId": 2218,
+    "countryId": 18,
+    "versionId": "3",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LB",
+      "LW"
+    ],
+    "playStyles": [
+      12,
+      14,
+      16,
+      20,
+      25,
+      26,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      10,
+      22,
+      121,
+      133,
+      140
+    ],
+    "rolesPlusPlus": [
+      10,
+      22,
+      121,
+      133,
+      140
+    ],
+    "attributes": [
+      90,
+      78,
+      88,
+      89,
+      79,
+      71
+    ],
+    "hasDynamicImage": true,
+    "price": 209000,
+    "resourceId": 67342526,
+    "assetId": 233662
   },
   "67355228": {
     "name": "Aldana Cometti",
@@ -1440,7 +1550,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 11500,
     "resourceId": 67355228,
     "assetId": 246364
   }

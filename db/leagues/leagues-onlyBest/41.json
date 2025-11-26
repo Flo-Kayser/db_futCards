@@ -1205,7 +1205,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 71866,
     "assetId": 71866
   },
@@ -1852,7 +1852,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 2700,
     "resourceId": 73635,
     "assetId": 73635
   },
@@ -1971,44 +1971,6 @@
     "price": 200,
     "resourceId": 73961,
     "assetId": 73961
-  },
-  "74175": {
-    "name": "Anton Ekeroth",
-    "cardName": "Ekeroth",
-    "originalVersionId": "0",
-    "clubId": 1756,
-    "leagueId": 41,
-    "countryId": 46,
-    "versionId": "2000",
-    "rating": 63,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "LB",
-    "possiblePositions": [
-      "LB",
-      "LM"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      9
-    ],
-    "rolesPlusPlus": [
-      9
-    ],
-    "attributes": [
-      79,
-      37,
-      53,
-      55,
-      57,
-      62
-    ],
-    "hasDynamicImage": false,
-    "price": 200,
-    "resourceId": 74175,
-    "assetId": 74175
   },
   "74631": {
     "name": "Igor Jeličić",
@@ -4997,7 +4959,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 850,
     "resourceId": 209264,
     "assetId": 209264
   },
@@ -5083,7 +5045,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 210695,
     "assetId": 210695
   },
@@ -9645,7 +9607,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 4800,
     "resourceId": 253110,
     "assetId": 253110
   },
@@ -10579,7 +10541,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 350,
     "resourceId": 257259,
     "assetId": 257259
   },
@@ -15471,6 +15433,52 @@
     "resourceId": 50405283,
     "assetId": 73635
   },
+  "50405823": {
+    "name": "Anton Ekeroth",
+    "cardName": "Ekeroth",
+    "originalVersionId": "3",
+    "clubId": 1756,
+    "leagueId": 41,
+    "countryId": 46,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      12,
+      14,
+      16,
+      20,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      9,
+      110
+    ],
+    "rolesPlusPlus": [
+      9,
+      110
+    ],
+    "attributes": [
+      90,
+      57,
+      77,
+      78,
+      80,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 11500,
+    "resourceId": 50405823,
+    "assetId": 74175
+  },
   "50408288": {
     "name": "Axel Kryger",
     "cardName": "Kryger",
@@ -15951,7 +15959,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 12750,
+    "price": 13500,
     "resourceId": 50577939,
     "assetId": 246291
   },

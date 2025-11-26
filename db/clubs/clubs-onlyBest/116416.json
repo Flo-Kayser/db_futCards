@@ -291,55 +291,6 @@
       "resourceId": 269213,
       "assetId": 269213
     },
-    "269829": {
-      "name": "Madeline Roth",
-      "cardName": "Roth",
-      "originalVersionId": "0",
-      "clubId": 116416,
-      "leagueId": 2218,
-      "countryId": 18,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RB",
-        "RM",
-        "ST"
-      ],
-      "playStyles": [
-        11,
-        19,
-        24,
-        26,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        42,
-        124
-      ],
-      "rolesPlusPlus": [
-        23,
-        42,
-        124
-      ],
-      "attributes": [
-        72,
-        74,
-        70,
-        77,
-        56,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 269829,
-      "assetId": 269829
-    },
     "270049": {
       "name": "Christy Gavory",
       "cardName": "Gavory",
@@ -677,6 +628,60 @@
       "price": 350,
       "resourceId": 276971,
       "assetId": 276971
+    },
+    "50601477": {
+      "name": "Madeline Roth",
+      "cardName": "Roth",
+      "originalVersionId": "33",
+      "clubId": 116416,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "33",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        19,
+        24,
+        26,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        23,
+        43,
+        124,
+        142
+      ],
+      "rolesPlusPlus": [
+        6,
+        23,
+        43,
+        124,
+        142
+      ],
+      "attributes": [
+        87,
+        85,
+        82,
+        88,
+        65,
+        78
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50601477,
+      "assetId": 269829
     }
   }
 }

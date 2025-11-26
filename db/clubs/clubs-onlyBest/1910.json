@@ -38,7 +38,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 70725,
       "assetId": 70725
     },
@@ -168,45 +168,6 @@
       "resourceId": 74409,
       "assetId": 74409
     },
-    "74879": {
-      "name": "Kento Shiogai",
-      "cardName": "Shiogai",
-      "originalVersionId": "1",
-      "clubId": 1910,
-      "leagueId": 10,
-      "countryId": 163,
-      "versionId": "3001",
-      "rating": 66,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "rolesPlusPlus": [
-        41
-      ],
-      "attributes": [
-        84,
-        65,
-        55,
-        66,
-        21,
-        57
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 74879,
-      "assetId": 74879
-    },
     "77561": {
       "name": "Yousri Sbai",
       "cardName": "Sbai",
@@ -279,7 +240,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 80556,
       "assetId": 80556
     },
@@ -358,7 +319,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 193091,
       "assetId": 193091
     },
@@ -957,7 +918,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 265747,
       "assetId": 265747
     },
@@ -1040,9 +1001,54 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 277809,
       "assetId": 277809
+    },
+    "50406527": {
+      "name": "Kento Shiogai",
+      "cardName": "Shiogai",
+      "originalVersionId": "3",
+      "clubId": 1910,
+      "leagueId": 10,
+      "countryId": 163,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        22,
+        25,
+        4,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        144
+      ],
+      "rolesPlusPlus": [
+        41,
+        144
+      ],
+      "attributes": [
+        92,
+        83,
+        75,
+        84,
+        40,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 14250,
+      "resourceId": 50406527,
+      "assetId": 74879
     },
     "50535373": {
       "name": "Virgil Misidjan",
@@ -1087,7 +1093,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 13250,
+      "price": 15250,
       "resourceId": 50535373,
       "assetId": 203725
     },
@@ -1126,7 +1132,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50596376,
       "assetId": 264728
     }

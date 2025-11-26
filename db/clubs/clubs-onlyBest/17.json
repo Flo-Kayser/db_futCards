@@ -201,45 +201,6 @@
       "resourceId": 207807,
       "assetId": 207807
     },
-    "221841": {
-      "name": "Adam Armstrong",
-      "cardName": "Armstrong",
-      "originalVersionId": "1",
-      "clubId": 17,
-      "leagueId": 14,
-      "countryId": 14,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42
-      ],
-      "rolesPlusPlus": [
-        42
-      ],
-      "attributes": [
-        76,
-        74,
-        66,
-        73,
-        35,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 221841,
-      "assetId": 221841
-    },
     "222156": {
       "name": "James Bree",
       "cardName": "Bree",
@@ -900,7 +861,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 450,
       "resourceId": 263953,
       "assetId": 263953
     },
@@ -1369,6 +1330,50 @@
       "resourceId": 50533847,
       "assetId": 202199
     },
+    "50553489": {
+      "name": "Adam Armstrong",
+      "cardName": "Armstrong",
+      "originalVersionId": "3",
+      "clubId": 17,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        21,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        143
+      ],
+      "rolesPlusPlus": [
+        42,
+        143
+      ],
+      "attributes": [
+        86,
+        84,
+        78,
+        83,
+        45,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 15000,
+      "resourceId": 50553489,
+      "assetId": 221841
+    },
     "50596019": {
       "name": "Tom Fellows",
       "cardName": "Fellows",
@@ -1601,7 +1606,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 11250,
+      "price": 11750,
       "resourceId": 67360930,
       "assetId": 252066
     }

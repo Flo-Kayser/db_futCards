@@ -51,7 +51,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 194000,
+      "price": 204000,
       "resourceId": 50554313,
       "assetId": 222665
     },
@@ -101,61 +101,63 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 36750,
+      "price": 33250,
       "resourceId": 50566026,
       "assetId": 234378
     },
-    "50567442": {
-      "name": "Eberechi Eze",
-      "cardName": "Eze",
-      "originalVersionId": "22",
+    "50573299": {
+      "name": "Viktor Gyökeres",
+      "cardName": "Gyökeres",
+      "originalVersionId": "51",
       "clubId": 1,
       "leagueId": 13,
-      "countryId": 14,
-      "versionId": "22",
-      "rating": 86,
+      "countryId": 46,
+      "versionId": "51",
+      "rating": 87,
       "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
       "possiblePositions": [
-        "CAM",
-        "LW",
         "ST"
       ],
       "playStyles": [
         0,
-        13,
         2,
-        20,
-        3,
-        7
+        24,
+        25,
+        29,
+        5,
+        6
       ],
       "playStylesPlus": [
-        22
+        21
       ],
       "rolesPlus": [
-        39,
+        42,
         43,
-        132
+        141,
+        144
       ],
       "rolesPlusPlus": [
-        39,
+        42,
         43,
-        132
+        141,
+        144
       ],
       "attributes": [
+        91,
+        87,
+        75,
         83,
-        83,
-        84,
-        89,
-        53,
-        71
+        37,
+        92
       ],
       "hasDynamicImage": true,
-      "price": 125000,
-      "resourceId": 50567442,
-      "assetId": 235794
+      "sbcPrice": 355500,
+      "price": 350350,
+      "resourceId": 50573299,
+      "assetId": 241651
     },
     "50575363": {
       "name": "William Saliba",
@@ -201,7 +203,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 1210000,
+      "price": 1218000,
       "resourceId": 50575363,
       "assetId": 243715
     },
@@ -303,7 +305,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 94100,
+      "sbcPrice": 96900,
       "resourceId": 50583214,
       "assetId": 251566
     },
@@ -471,6 +473,56 @@
       "price": 0,
       "resourceId": 50610421,
       "assetId": 278773
+    },
+    "67344658": {
+      "name": "Eberechi Eze",
+      "cardName": "Eze",
+      "originalVersionId": "3",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        13,
+        2,
+        20,
+        22,
+        3,
+        7
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        39,
+        132
+      ],
+      "rolesPlusPlus": [
+        39,
+        132
+      ],
+      "attributes": [
+        84,
+        85,
+        86,
+        90,
+        54,
+        73
+      ],
+      "hasDynamicImage": true,
+      "price": 289000,
+      "resourceId": 67344658,
+      "assetId": 235794
     }
   }
 }

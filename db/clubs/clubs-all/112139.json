@@ -123,7 +123,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 500,
       "resourceId": 74913,
       "assetId": 74913
     },
@@ -295,7 +295,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 9000,
+      "price": 9500,
       "resourceId": 210134,
       "assetId": 210134
     },
@@ -392,7 +392,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 750,
       "resourceId": 212218,
       "assetId": 212218
     },
@@ -438,7 +438,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 213345,
       "assetId": 213345
     },
@@ -790,7 +790,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 700,
       "resourceId": 242444,
       "assetId": 242444
     },
@@ -1082,7 +1082,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 255369,
       "assetId": 255369
     },
@@ -1325,7 +1325,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 5100,
       "resourceId": 272957,
       "assetId": 272957
     },
@@ -1413,7 +1413,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 620000,
+      "price": 590000,
       "resourceId": 50352449,
       "assetId": 20801
     },
@@ -1456,7 +1456,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 28500,
+      "price": 16750,
       "resourceId": 50536173,
       "assetId": 204525
     },
@@ -1508,7 +1508,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 56500,
+      "price": 63000,
       "resourceId": 50574092,
       "assetId": 242444
     },
@@ -1546,7 +1546,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 50574309,
       "assetId": 242661
     },
@@ -1638,7 +1638,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 1029000,
+      "price": 1040000,
       "resourceId": 67129665,
       "assetId": 20801
     },
@@ -1714,9 +1714,57 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 86000,
+      "price": 85000,
       "resourceId": 67351308,
       "assetId": 242444
+    },
+    "83906881": {
+      "name": "Cristiano Ronaldo",
+      "cardName": "Cristiano Ronaldo",
+      "originalVersionId": "3",
+      "clubId": 112139,
+      "leagueId": 350,
+      "countryId": 38,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        19,
+        2,
+        23,
+        4,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        5
+      ],
+      "rolesPlus": [
+        41,
+        142
+      ],
+      "rolesPlusPlus": [
+        41,
+        142
+      ],
+      "attributes": [
+        80,
+        89,
+        78,
+        82,
+        35,
+        78
+      ],
+      "hasDynamicImage": true,
+      "price": 400000,
+      "resourceId": 83906881,
+      "assetId": 20801
     }
   }
 }

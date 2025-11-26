@@ -315,7 +315,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1100,
       "resourceId": 232074,
       "assetId": 232074
     },
@@ -357,7 +357,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1400,
       "resourceId": 233244,
       "assetId": 233244
     },
@@ -489,7 +489,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 248794,
       "assetId": 248794
     },
@@ -576,7 +576,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 266401,
       "assetId": 266401
     },
@@ -829,57 +829,6 @@
       "resourceId": 273175,
       "assetId": 273175
     },
-    "50563723": {
-      "name": "Rose Lavelle",
-      "cardName": "Lavelle",
-      "originalVersionId": "3",
-      "clubId": 116310,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "3",
-      "rating": 88,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        0,
-        11,
-        20,
-        22,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        9
-      ],
-      "rolesPlus": [
-        22,
-        118,
-        134
-      ],
-      "rolesPlusPlus": [
-        22,
-        118,
-        134
-      ],
-      "attributes": [
-        86,
-        82,
-        85,
-        88,
-        62,
-        66
-      ],
-      "hasDynamicImage": true,
-      "price": 31500,
-      "resourceId": 50563723,
-      "assetId": 232075
-    },
     "50570060": {
       "name": "Gabi Portilho",
       "cardName": "Gabi Portilho",
@@ -936,7 +885,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 23150,
+      "sbcPrice": 23450,
       "resourceId": 50570060,
       "assetId": 238412
     },
@@ -979,7 +928,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 15000,
       "resourceId": 50589958,
       "assetId": 258310
     },
@@ -1067,7 +1016,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 11750,
       "resourceId": 67379904,
       "assetId": 271040
     },
@@ -1116,6 +1065,57 @@
       "hasDynamicImage": true,
       "resourceId": 67380757,
       "assetId": 271893
+    },
+    "84118155": {
+      "name": "Rose Lavelle",
+      "cardName": "Lavelle",
+      "originalVersionId": "3",
+      "clubId": 116310,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "3",
+      "rating": 89,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        20,
+        7,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        22
+      ],
+      "rolesPlus": [
+        22,
+        118,
+        134
+      ],
+      "rolesPlusPlus": [
+        22,
+        118,
+        134
+      ],
+      "attributes": [
+        87,
+        84,
+        86,
+        89,
+        64,
+        68
+      ],
+      "hasDynamicImage": true,
+      "price": 92500,
+      "resourceId": 84118155,
+      "assetId": 232075
     }
   }
 }

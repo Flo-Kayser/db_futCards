@@ -78,7 +78,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1000,
       "resourceId": 74463,
       "assetId": 74463
     },
@@ -117,7 +117,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1600,
       "resourceId": 186153,
       "assetId": 186153
     },
@@ -163,7 +163,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 13750,
+      "price": 14500,
       "resourceId": 188545,
       "assetId": 188545
     },
@@ -341,7 +341,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 47000,
+      "price": 52000,
       "resourceId": 228702,
       "assetId": 228702
     },
@@ -393,57 +393,6 @@
       "resourceId": 233419,
       "assetId": 233419
     },
-    "241461": {
-      "name": "Ferran Torres",
-      "cardName": "Ferran Torres",
-      "originalVersionId": "1",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "3002",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        36,
-        38,
-        39,
-        40,
-        43
-      ],
-      "rolesPlusPlus": [
-        36,
-        38,
-        39,
-        40,
-        43
-      ],
-      "attributes": [
-        83,
-        81,
-        79,
-        83,
-        35,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 241461,
-      "assetId": 241461
-    },
     "241486": {
       "name": "Jules Koundé",
       "cardName": "Koundé",
@@ -493,7 +442,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 43250,
+      "price": 38000,
       "resourceId": 241486,
       "assetId": 241486
     },
@@ -543,7 +492,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 3700,
       "resourceId": 244260,
       "assetId": 244260
     },
@@ -681,7 +630,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 22500,
+      "price": 24250,
       "resourceId": 251854,
       "assetId": 251854
     },
@@ -732,7 +681,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1500,
       "resourceId": 253163,
       "assetId": 253163
     },
@@ -771,7 +720,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1000,
       "resourceId": 259532,
       "assetId": 259532
     },
@@ -820,7 +769,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 264240,
       "assetId": 264240
     },
@@ -862,7 +811,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 265600,
       "assetId": 265600
     },
@@ -956,7 +905,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 62000,
+      "price": 60000,
       "resourceId": 277643,
       "assetId": 277643
     },
@@ -1049,7 +998,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 250000,
+      "price": 252000,
       "resourceId": 50520193,
       "assetId": 188545
     },
@@ -1107,9 +1056,63 @@
         71
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 224250,
+      "sbcPrice": 234750,
       "resourceId": 50563325,
       "assetId": 231677
+    },
+    "50573109": {
+      "name": "Ferran Torres",
+      "cardName": "Ferran Torres",
+      "originalVersionId": "3",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        25,
+        6,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        36,
+        38,
+        40,
+        43,
+        139
+      ],
+      "rolesPlusPlus": [
+        36,
+        38,
+        40,
+        43,
+        139
+      ],
+      "attributes": [
+        87,
+        85,
+        83,
+        86,
+        38,
+        73
+      ],
+      "hasDynamicImage": true,
+      "price": 44000,
+      "resourceId": 50573109,
+      "assetId": 241461
     },
     "50595226": {
       "name": "Balde",
@@ -1157,7 +1160,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 310000,
+      "price": 303000,
       "resourceId": 50595226,
       "assetId": 263578
     },
@@ -1207,7 +1210,7 @@
         61
       ],
       "hasDynamicImage": true,
-      "price": 53000,
+      "price": 61000,
       "resourceId": 50608827,
       "assetId": 277179
     },
@@ -1262,7 +1265,7 @@
         53
       ],
       "hasDynamicImage": true,
-      "price": 2654000,
+      "price": 1898000,
       "resourceId": 50609291,
       "assetId": 277643
     },
@@ -1310,7 +1313,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 79500,
+      "price": 75500,
       "resourceId": 50609694,
       "assetId": 278046
     },
@@ -1366,7 +1369,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 224250,
+      "sbcPrice": 234750,
       "resourceId": 67340541,
       "assetId": 231677
     }

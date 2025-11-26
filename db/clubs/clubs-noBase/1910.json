@@ -1,6 +1,51 @@
 {
   "clubName": "N.E.C. Nijmegen",
   "players": {
+    "50406527": {
+      "name": "Kento Shiogai",
+      "cardName": "Shiogai",
+      "originalVersionId": "3",
+      "clubId": 1910,
+      "leagueId": 10,
+      "countryId": 163,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        22,
+        25,
+        4,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        144
+      ],
+      "rolesPlusPlus": [
+        41,
+        144
+      ],
+      "attributes": [
+        92,
+        83,
+        75,
+        84,
+        40,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 14250,
+      "resourceId": 50406527,
+      "assetId": 74879
+    },
     "50535373": {
       "name": "Virgil Misidjan",
       "cardName": "Misidjan",
@@ -44,7 +89,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 13250,
+      "price": 15250,
       "resourceId": 50535373,
       "assetId": 203725
     }
