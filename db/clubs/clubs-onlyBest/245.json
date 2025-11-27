@@ -41,7 +41,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 71351,
       "assetId": 71351
     },
@@ -119,7 +119,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 76116,
       "assetId": 76116
     },
@@ -166,7 +166,7 @@
         35
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 2300,
       "resourceId": 76944,
       "assetId": 76944
     },
@@ -206,7 +206,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 77152,
       "assetId": 77152
     },
@@ -246,7 +246,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 77814,
       "assetId": 77814
     },
@@ -322,7 +322,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2600,
       "resourceId": 162328,
       "assetId": 162328
     },
@@ -494,7 +494,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2100,
       "resourceId": 223689,
       "assetId": 223689
     },
@@ -543,7 +543,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 229158,
       "assetId": 229158
     },
@@ -626,7 +626,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 250,
       "resourceId": 236572,
       "assetId": 236572
     },
@@ -709,7 +709,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 253399,
       "assetId": 253399
     },
@@ -746,7 +746,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1100,
       "resourceId": 253428,
       "assetId": 253428
     },
@@ -790,57 +790,9 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 256325,
       "assetId": 256325
-    },
-    "258139": {
-      "name": "Raúl Moro",
-      "cardName": "Raúl Moro",
-      "originalVersionId": "0",
-      "clubId": 245,
-      "leagueId": 10,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RW"
-      ],
-      "playStyles": [
-        13,
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        35,
-        38,
-        39,
-        40
-      ],
-      "rolesPlusPlus": [
-        35,
-        38,
-        39,
-        40
-      ],
-      "attributes": [
-        83,
-        65,
-        71,
-        81,
-        27,
-        49
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 258139,
-      "assetId": 258139
     },
     "262218": {
       "name": "Kian Fitz-Jim",
@@ -879,7 +831,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 600,
       "resourceId": 262218,
       "assetId": 262218
     },
@@ -1008,7 +960,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 600,
       "resourceId": 265390,
       "assetId": 265390
     },
@@ -1050,7 +1002,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 269153,
       "assetId": 269153
     },
@@ -1094,7 +1046,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 1800,
       "resourceId": 272357,
       "assetId": 272357
     },
@@ -1146,7 +1098,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 274288,
       "assetId": 274288
     },
@@ -1188,7 +1140,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 50560335,
       "assetId": 228687
     },
@@ -1239,9 +1191,73 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 18750,
       "resourceId": 50586657,
       "assetId": 255009
+    },
+    "50589787": {
+      "name": "Raúl Moro",
+      "cardName": "Raúl Moro",
+      "originalVersionId": "91",
+      "clubId": 245,
+      "leagueId": 10,
+      "countryId": 45,
+      "versionId": "91",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        13,
+        21,
+        23,
+        9
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        29,
+        30,
+        36,
+        37,
+        39,
+        40,
+        127,
+        135,
+        138
+      ],
+      "rolesPlusPlus": [
+        29,
+        30,
+        36,
+        37,
+        39,
+        40,
+        127,
+        135,
+        138
+      ],
+      "attributes": [
+        91,
+        83,
+        84,
+        89,
+        40,
+        73
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50589787,
+      "assetId": 258139
     },
     "50590026": {
       "name": "Mika Godts",
@@ -1283,7 +1299,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 18000,
       "resourceId": 50590026,
       "assetId": 258378
     }

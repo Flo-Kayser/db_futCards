@@ -118,7 +118,7 @@
       }
     },
     "33": {
-      "count": 1,
+      "count": 4,
       "file": "db/versions/33.json",
       "details": {
         "name": "Thunderstruck",
@@ -141,6 +141,19 @@
         "primaryColor": "#fcfcf7",
         "secondaryColor": "#2e0050",
         "tertiaryColor": "#b959ff"
+      }
+    },
+    "35": {
+      "count": 1,
+      "file": "db/versions/35.json",
+      "details": {
+        "name": "Winter Wildcards ICON",
+        "hasStrip": true,
+        "createdAt": "2025-11-26T19:15:00.461Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_35_0.png",
+        "primaryColor": "#54462b",
+        "secondaryColor": "#dbdbdb",
+        "tertiaryColor": "#94792e"
       }
     },
     "42": {
@@ -235,7 +248,7 @@
       }
     },
     "69": {
-      "count": 10,
+      "count": 16,
       "file": "db/versions/69.json",
       "details": {
         "name": "World Tour Silver Superstar",
@@ -313,7 +326,7 @@
       }
     },
     "91": {
-      "count": 34,
+      "count": 45,
       "file": "db/versions/91.json",
       "details": {
         "name": "World Tour",
@@ -390,14 +403,14 @@
         "tertiaryColor": "#94792e"
       }
     },
-    "160": {
+    "161": {
       "count": 15,
-      "file": "db/versions/160.json",
+      "file": "db/versions/161.json",
       "details": {
-        "name": "UT Origin Heroes",
+        "name": "Champion ICON",
         "hasStrip": true,
-        "createdAt": "2025-09-12T22:51:06.896Z",
-        "url": "https://assets.easysbc.io/fc26/cards/e_160_0.png",
+        "createdAt": "2025-09-17T17:01:45.964Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_161_0.png",
         "primaryColor": "#fffffe",
         "secondaryColor": "#54462b",
         "tertiaryColor": "#94792e"
@@ -509,8 +522,8 @@
     }
   },
   "meta": {
-    "totalVersions": 39,
-    "totalVersionsWithoutBase": 33,
-    "updatedAt": "2025-11-26T18:39:14.029Z"
+    "totalVersions": 40,
+    "totalVersionsWithoutBase": 34,
+    "updatedAt": "2025-11-27T18:41:34.555Z"
   }
 }

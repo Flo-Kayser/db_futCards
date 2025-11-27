@@ -1,6 +1,62 @@
 {
   "clubName": "Villarreal CF",
   "players": {
+    "50547238": {
+      "name": "Ayoze",
+      "cardName": "Ayoze",
+      "originalVersionId": "91",
+      "clubId": 483,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "91",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        5,
+        6,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        34,
+        41,
+        42,
+        132,
+        143,
+        144
+      ],
+      "rolesPlusPlus": [
+        34,
+        41,
+        42,
+        132,
+        143,
+        144
+      ],
+      "attributes": [
+        90,
+        87,
+        84,
+        87,
+        63,
+        73
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50547238,
+      "assetId": 215590
+    },
     "50557758": {
       "name": "Nicolas Pépé",
       "cardName": "Pépé",
@@ -47,7 +103,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 13000,
+      "sbcPrice": 13800,
       "resourceId": 50557758,
       "assetId": 226110
     },
@@ -96,7 +152,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 28150,
+      "sbcPrice": 28450,
       "resourceId": 50573355,
       "assetId": 241707
     }

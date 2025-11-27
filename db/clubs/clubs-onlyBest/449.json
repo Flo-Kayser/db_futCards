@@ -37,7 +37,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 76739,
       "assetId": 76739
     },
@@ -75,7 +75,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 76740,
       "assetId": 76740
     },
@@ -161,7 +161,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1700,
       "resourceId": 194911,
       "assetId": 194911
     },
@@ -213,7 +213,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1500,
       "resourceId": 197781,
       "assetId": 197781
     },
@@ -256,7 +256,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 198141,
       "assetId": 198141
     },
@@ -294,7 +294,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 203747,
       "assetId": 203747
     },
@@ -335,7 +335,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 600,
       "resourceId": 212602,
       "assetId": 212602
     },
@@ -468,7 +468,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 850,
       "resourceId": 228520,
       "assetId": 228520
     },
@@ -510,7 +510,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 235945,
       "assetId": 235945
     },
@@ -553,7 +553,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 237034,
       "assetId": 237034
     },
@@ -593,7 +593,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 550,
       "resourceId": 241184,
       "assetId": 241184
     },
@@ -645,7 +645,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 241867,
       "assetId": 241867
     },
@@ -689,53 +689,6 @@
       "resourceId": 246657,
       "assetId": 246657
     },
-    "252324": {
-      "name": "Riquelme",
-      "cardName": "Riquelme",
-      "originalVersionId": "0",
-      "clubId": 449,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 77,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM"
-      ],
-      "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        27,
-        29,
-        30
-      ],
-      "rolesPlusPlus": [
-        23,
-        27,
-        29,
-        30
-      ],
-      "attributes": [
-        84,
-        73,
-        74,
-        78,
-        50,
-        59
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 252324,
-      "assetId": 252324
-    },
     "264432": {
       "name": "Abdessamad Ezzalzouli",
       "cardName": "Ezzalzouli",
@@ -778,7 +731,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 264432,
       "assetId": 264432
     },
@@ -820,7 +773,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 267430,
       "assetId": 267430
     },
@@ -869,7 +822,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 267860,
       "assetId": 267860
     },
@@ -1037,7 +990,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 13250,
       "resourceId": 50530599,
       "assetId": 198951
     },
@@ -1086,7 +1039,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 900,
       "resourceId": 50555806,
       "assetId": 224158
     },
@@ -1164,9 +1117,71 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 14750,
       "resourceId": 50558104,
       "assetId": 226456
+    },
+    "50583972": {
+      "name": "Riquelme",
+      "cardName": "Riquelme",
+      "originalVersionId": "91",
+      "clubId": 449,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "91",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        13,
+        20,
+        8
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        23,
+        25,
+        27,
+        29,
+        38,
+        40,
+        126,
+        130,
+        139
+      ],
+      "rolesPlusPlus": [
+        23,
+        25,
+        27,
+        29,
+        38,
+        40,
+        126,
+        130,
+        139
+      ],
+      "attributes": [
+        91,
+        83,
+        84,
+        87,
+        65,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50583972,
+      "assetId": 252324
     },
     "67364339": {
       "name": "Antony",
@@ -1216,7 +1231,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 69000,
+      "price": 67000,
       "resourceId": 67364339,
       "assetId": 255475
     }

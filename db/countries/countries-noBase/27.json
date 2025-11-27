@@ -40,7 +40,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 223000,
+    "price": 227000,
     "resourceId": 1088,
     "assetId": 1088
   },
@@ -87,7 +87,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 260000,
+    "price": 249000,
     "resourceId": 1114,
     "assetId": 1114
   },
@@ -126,7 +126,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 510000,
+    "price": 500000,
     "resourceId": 1179,
     "assetId": 1179
   },
@@ -175,7 +175,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 480000,
+    "price": 455000,
     "resourceId": 1183,
     "assetId": 1183
   },
@@ -224,7 +224,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 269000,
+    "price": 225000,
     "resourceId": 1201,
     "assetId": 1201
   },
@@ -275,7 +275,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 955000,
+    "price": 929000,
     "resourceId": 1238,
     "assetId": 1238
   },
@@ -323,7 +323,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 254000,
+    "price": 229000,
     "resourceId": 7763,
     "assetId": 7763
   },
@@ -373,7 +373,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 284000,
     "resourceId": 53302,
     "assetId": 53302
   },
@@ -422,7 +422,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 571000,
+    "price": 522000,
     "resourceId": 120274,
     "assetId": 120274
   },
@@ -470,7 +470,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 638000,
+    "price": 670000,
     "resourceId": 138956,
     "assetId": 138956
   },
@@ -515,7 +515,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 192000,
+    "price": 185000,
     "resourceId": 166906,
     "assetId": 166906
   },
@@ -567,7 +567,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 170000,
+    "price": 133000,
     "resourceId": 173210,
     "assetId": 173210
   },
@@ -610,7 +610,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 46500,
+    "price": 47000,
     "resourceId": 233700,
     "assetId": 233700
   },
@@ -659,7 +659,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 440000,
+    "price": 390000,
     "resourceId": 238382,
     "assetId": 238382
   },
@@ -709,7 +709,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 2854000,
+    "price": 2260000,
     "resourceId": 238439,
     "assetId": 238439
   },
@@ -757,7 +757,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 88500,
+    "price": 81000,
     "resourceId": 243030,
     "assetId": 243030
   },
@@ -805,19 +805,77 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 240000,
+    "price": 215000,
     "resourceId": 250890,
     "assetId": 250890
+  },
+  "50332849": {
+    "name": "Gianfranco Zola",
+    "cardName": "Zola",
+    "originalVersionId": "35",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 27,
+    "versionId": "35",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      20,
+      23,
+      3,
+      7
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      33,
+      42,
+      43,
+      131,
+      132,
+      134,
+      141
+    ],
+    "rolesPlusPlus": [
+      33,
+      42,
+      43,
+      131,
+      132,
+      134,
+      141
+    ],
+    "attributes": [
+      89,
+      90,
+      88,
+      91,
+      43,
+      67
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50332849,
+    "assetId": 1201
   },
   "50332886": {
     "name": "Francesco Totti",
     "cardName": "Totti",
-    "originalVersionId": "160",
+    "originalVersionId": "161",
     "clubId": 112658,
     "leagueId": 2118,
     "countryId": 27,
-    "versionId": "160",
-    "rating": 85,
+    "versionId": "161",
+    "rating": 89,
     "preferredFoot": "Right",
     "weakFoot": 5,
     "skillMoves": 4,
@@ -831,28 +889,33 @@
       10,
       13,
       2,
-      20,
       22,
       8
     ],
-    "playStylesPlus": [],
+    "playStylesPlus": [
+      20
+    ],
     "rolesPlus": [
+      32,
+      34,
       41,
       131,
       143
     ],
     "rolesPlusPlus": [
+      32,
+      34,
       41,
       131,
       143
     ],
     "attributes": [
-      81,
-      86,
-      85,
-      85,
-      36,
-      71
+      87,
+      90,
+      89,
+      91,
+      40,
+      74
     ],
     "hasDynamicImage": true,
     "price": 0,
@@ -907,7 +970,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 0,
+    "price": 690000,
     "resourceId": 50384950,
     "assetId": 53302
   },
@@ -973,19 +1036,19 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 898000,
+    "price": 799000,
     "resourceId": 50451922,
     "assetId": 120274
   },
   "50470604": {
     "name": "Giorgio Chiellini",
     "cardName": "Chiellini",
-    "originalVersionId": "160",
+    "originalVersionId": "161",
     "clubId": 112658,
     "leagueId": 2118,
     "countryId": 27,
-    "versionId": "160",
-    "rating": 85,
+    "versionId": "161",
+    "rating": 89,
     "preferredFoot": "Left",
     "weakFoot": 3,
     "skillMoves": 2,
@@ -994,7 +1057,6 @@
       "CB"
     ],
     "playStyles": [
-      14,
       15,
       16,
       18,
@@ -1002,27 +1064,78 @@
       27,
       28
     ],
-    "playStylesPlus": [],
+    "playStylesPlus": [
+      14
+    ],
     "rolesPlus": [
-      48,
-      111
+      12,
+      13,
+      111,
+      148
     ],
     "rolesPlusPlus": [
-      48,
-      111
+      12,
+      13,
+      111,
+      148
     ],
     "attributes": [
-      75,
-      52,
-      59,
-      60,
-      87,
-      85
+      80,
+      55,
+      65,
+      65,
+      93,
+      90
     ],
     "hasDynamicImage": true,
     "price": 0,
     "resourceId": 50470604,
     "assetId": 138956
+  },
+  "50498554": {
+    "name": "Franco Baresi",
+    "cardName": "Baresi",
+    "originalVersionId": "69",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 27,
+    "versionId": "69",
+    "rating": 74,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      14,
+      18
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      11,
+      113
+    ],
+    "rolesPlusPlus": [
+      11,
+      113
+    ],
+    "attributes": [
+      70,
+      30,
+      72,
+      63,
+      85,
+      73
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50498554,
+    "assetId": 166906
   },
   "50504858": {
     "name": "Claudio Marchisio",
@@ -1093,7 +1206,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 345000,
+    "price": 300000,
     "resourceId": 50504858,
     "assetId": 173210
   },
@@ -1147,7 +1260,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 213000,
+    "price": 150000,
     "resourceId": 50522461,
     "assetId": 190813
   },
@@ -1199,7 +1312,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 11750,
     "resourceId": 50542583,
     "assetId": 210935
   },
@@ -1248,7 +1361,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 41000,
+    "price": 52000,
     "resourceId": 50549518,
     "assetId": 217870
   },
@@ -1306,6 +1419,117 @@
     "resourceId": 50553725,
     "assetId": 222077
   },
+  "50555880": {
+    "name": "Nicolò Barella",
+    "cardName": "Barella",
+    "originalVersionId": "91",
+    "clubId": 131682,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "91",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      14,
+      16,
+      24,
+      26,
+      9
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      19,
+      118,
+      120,
+      121,
+      122
+    ],
+    "rolesPlusPlus": [
+      19,
+      118,
+      120,
+      121,
+      122
+    ],
+    "attributes": [
+      85,
+      80,
+      87,
+      89,
+      84,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50555880,
+    "assetId": 224232
+  },
+  "50558743": {
+    "name": "Manuela Giugliano",
+    "cardName": "Giugliano",
+    "originalVersionId": "91",
+    "clubId": 116282,
+    "leagueId": 2236,
+    "countryId": 27,
+    "versionId": "91",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      11,
+      16,
+      20,
+      8
+    ],
+    "playStylesPlus": [
+      9
+    ],
+    "rolesPlus": [
+      16,
+      20,
+      34,
+      118,
+      121,
+      131
+    ],
+    "rolesPlusPlus": [
+      16,
+      20,
+      34,
+      118,
+      121,
+      131
+    ],
+    "attributes": [
+      85,
+      82,
+      87,
+      88,
+      80,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50558743,
+    "assetId": 227095
+  },
   "50559899": {
     "name": "Lorenzo Pellegrini",
     "cardName": "Pellegrini",
@@ -1350,7 +1574,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 20000,
     "resourceId": 50559899,
     "assetId": 228251
   },
@@ -1398,7 +1622,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 19000,
     "resourceId": 50561230,
     "assetId": 229582
   },
@@ -1507,7 +1731,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 92000,
+    "price": 85000,
     "resourceId": 50567453,
     "assetId": 235805
   },
@@ -1560,7 +1784,7 @@
       96,
       83
     ],
-    "hasDynamicImage": false,
+    "hasDynamicImage": true,
     "price": 0,
     "resourceId": 50570087,
     "assetId": 238439
@@ -1615,7 +1839,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 579000,
+    "price": 550000,
     "resourceId": 50572744,
     "assetId": 241096
   },
@@ -1710,9 +1934,64 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 12000,
     "resourceId": 50583708,
     "assetId": 252060
+  },
+  "50585121": {
+    "name": "Samuele Ricci",
+    "cardName": "Ricci",
+    "originalVersionId": "91",
+    "clubId": 131681,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "91",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      13,
+      14,
+      9
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      14,
+      18,
+      19,
+      116,
+      117,
+      120
+    ],
+    "rolesPlusPlus": [
+      14,
+      18,
+      19,
+      116,
+      117,
+      120
+    ],
+    "attributes": [
+      84,
+      70,
+      83,
+      87,
+      85,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50585121,
+    "assetId": 253473
   },
   "50589359": {
     "name": "Riccardo Calafiori",
@@ -1762,6 +2041,62 @@
     "sbcPrice": 55500,
     "resourceId": 50589359,
     "assetId": 257711
+  },
+  "50590554": {
+    "name": "Wilfried Gnonto",
+    "cardName": "Gnonto",
+    "originalVersionId": "91",
+    "clubId": 8,
+    "leagueId": 13,
+    "countryId": 27,
+    "versionId": "91",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      20,
+      21,
+      6
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      25,
+      29,
+      37,
+      126,
+      130,
+      136
+    ],
+    "rolesPlusPlus": [
+      25,
+      29,
+      37,
+      126,
+      130,
+      136
+    ],
+    "attributes": [
+      92,
+      85,
+      82,
+      87,
+      45,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50590554,
+    "assetId": 258906
   },
   "50590614": {
     "name": "Andrea Cambiaso",
@@ -1813,9 +2148,61 @@
       80
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 107250,
+    "sbcPrice": 109500,
     "resourceId": 50590614,
     "assetId": 258966
+  },
+  "50591231": {
+    "name": "Destiny Udogie",
+    "cardName": "Udogie",
+    "originalVersionId": "91",
+    "clubId": 18,
+    "leagueId": 13,
+    "countryId": 27,
+    "versionId": "91",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB"
+    ],
+    "playStyles": [
+      12,
+      15,
+      25,
+      26
+    ],
+    "playStylesPlus": [
+      14
+    ],
+    "rolesPlus": [
+      8,
+      107,
+      109,
+      110,
+      147
+    ],
+    "rolesPlusPlus": [
+      8,
+      107,
+      109,
+      110,
+      147
+    ],
+    "attributes": [
+      90,
+      72,
+      81,
+      86,
+      85,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50591231,
+    "assetId": 259583
   },
   "50591232": {
     "name": "Matteo Ruggeri",
@@ -1863,6 +2250,57 @@
     "resourceId": 50591232,
     "assetId": 259584
   },
+  "50600122": {
+    "name": "Lorenzo Lucca",
+    "cardName": "Lucca",
+    "originalVersionId": "91",
+    "clubId": 48,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "91",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      19,
+      2,
+      24,
+      4
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "rolesPlusPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      86,
+      90,
+      75,
+      88,
+      45,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50600122,
+    "assetId": 268474
+  },
   "50600221": {
     "name": "Federico Baschirotto",
     "cardName": "Baschirotto",
@@ -1904,7 +2342,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 18000,
     "resourceId": 50600221,
     "assetId": 268573
   },
@@ -1948,7 +2386,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 17250,
     "resourceId": 50600351,
     "assetId": 268703
   },
@@ -1992,7 +2430,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 11750,
     "resourceId": 50602574,
     "assetId": 270926
   },
@@ -2047,7 +2485,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 18250,
     "resourceId": 50608330,
     "assetId": 276682
   },
@@ -2096,7 +2534,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 35500,
+    "price": 11750,
     "resourceId": 67183174,
     "assetId": 74310
   },
@@ -2150,7 +2588,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 74000,
+    "price": 83500,
     "resourceId": 67326734,
     "assetId": 217870
   },
@@ -2195,7 +2633,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 450000,
+    "price": 410000,
     "resourceId": 67339485,
     "assetId": 230621
   }
