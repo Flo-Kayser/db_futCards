@@ -50,52 +50,6 @@
       "resourceId": 50401793,
       "assetId": 70145
     },
-    "50575052": {
-      "name": "Georgia Stanway",
-      "cardName": "Stanway",
-      "originalVersionId": "3",
-      "clubId": 115995,
-      "leagueId": 2215,
-      "countryId": 14,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM"
-      ],
-      "playStyles": [
-        14,
-        20,
-        22,
-        8
-      ],
-      "playStylesPlus": [
-        9
-      ],
-      "rolesPlus": [
-        49,
-        116
-      ],
-      "rolesPlusPlus": [
-        49,
-        116
-      ],
-      "attributes": [
-        81,
-        80,
-        82,
-        87,
-        78,
-        79
-      ],
-      "hasDynamicImage": true,
-      "price": 12000,
-      "resourceId": 50575052,
-      "assetId": 243404
-    },
     "50579436": {
       "name": "Giulia Gwinn",
       "cardName": "Gwinn",
@@ -147,7 +101,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 89000,
+      "sbcPrice": 88750,
       "resourceId": 50579436,
       "assetId": 247788
     },
@@ -196,7 +150,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 12250,
+      "price": 11500,
       "resourceId": 50580365,
       "assetId": 248717
     },
@@ -251,7 +205,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 13500,
+      "price": 11500,
       "resourceId": 50590935,
       "assetId": 259287
     },
@@ -303,9 +257,60 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 16500,
+      "price": 14000,
       "resourceId": 50596538,
       "assetId": 264890
+    },
+    "67352268": {
+      "name": "Georgia Stanway",
+      "cardName": "Stanway",
+      "originalVersionId": "33",
+      "clubId": 115995,
+      "leagueId": 2215,
+      "countryId": 14,
+      "versionId": "33",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM"
+      ],
+      "playStyles": [
+        10,
+        14,
+        20,
+        22,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        11
+      ],
+      "rolesPlus": [
+        15,
+        49,
+        114,
+        116
+      ],
+      "rolesPlusPlus": [
+        15,
+        49,
+        114,
+        116
+      ],
+      "attributes": [
+        83,
+        82,
+        87,
+        90,
+        84,
+        81
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67352268,
+      "assetId": 243404
     },
     "67357686": {
       "name": "Klara Bühl",
@@ -349,7 +354,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 13500,
       "resourceId": 67357686,
       "assetId": 248822
     },
@@ -406,7 +411,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 13000,
       "resourceId": 67368151,
       "assetId": 259287
     },
@@ -454,7 +459,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 18000,
       "resourceId": 67373750,
       "assetId": 264886
     }

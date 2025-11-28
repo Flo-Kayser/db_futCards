@@ -41,7 +41,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 1100000,
+    "price": 1030000,
     "resourceId": 5740,
     "assetId": 5740
   },
@@ -87,7 +87,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 96000,
+    "price": 78000,
     "resourceId": 10264,
     "assetId": 10264
   },
@@ -138,7 +138,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 22000,
+    "price": 15000,
     "resourceId": 15723,
     "assetId": 15723
   },
@@ -179,7 +179,7 @@
       92
     ],
     "hasDynamicImage": false,
-    "price": 335000,
+    "price": 340000,
     "resourceId": 51539,
     "assetId": 51539
   },
@@ -223,7 +223,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 146000,
+    "price": 111000,
     "resourceId": 167680,
     "assetId": 167680
   },
@@ -274,7 +274,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 3948000,
+    "price": 3895000,
     "resourceId": 190045,
     "assetId": 190045
   },
@@ -319,7 +319,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 179000,
+    "price": 137000,
     "resourceId": 192181,
     "assetId": 192181
   },
@@ -374,7 +374,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 198000,
+    "price": 170000,
     "resourceId": 214098,
     "assetId": 214098
   },
@@ -424,57 +424,9 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 3670000,
+    "price": 3800000,
     "resourceId": 214100,
     "assetId": 214100
-  },
-  "238388": {
-    "name": "Dennis Bergkamp",
-    "cardName": "Bergkamp",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 34,
-    "versionId": "12",
-    "rating": 90,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "CAM",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      1,
-      13,
-      7,
-      8
-    ],
-    "playStylesPlus": [
-      22
-    ],
-    "rolesPlus": [
-      132,
-      141
-    ],
-    "rolesPlusPlus": [
-      132,
-      141
-    ],
-    "attributes": [
-      83,
-      89,
-      84,
-      88,
-      35,
-      76
-    ],
-    "hasDynamicImage": false,
-    "price": 180000,
-    "resourceId": 238388,
-    "assetId": 238388
   },
   "238424": {
     "name": "Patrick Kluivert",
@@ -518,7 +470,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 73000,
+    "price": 69000,
     "resourceId": 238424,
     "assetId": 238424
   },
@@ -564,7 +516,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 198000,
+    "price": 179000,
     "resourceId": 262112,
     "assetId": 262112
   },
@@ -576,10 +528,10 @@
     "leagueId": 350,
     "countryId": 34,
     "versionId": "34",
-    "rating": 85,
+    "rating": 86,
     "preferredFoot": "Right",
     "weakFoot": 4,
-    "skillMoves": 4,
+    "skillMoves": 5,
     "preferredPosition": "CM",
     "possiblePositions": [
       "CAM",
@@ -610,15 +562,15 @@
       142
     ],
     "attributes": [
-      80,
-      80,
-      84,
-      86,
       81,
-      78
+      81,
+      85,
+      87,
+      82,
+      79
     ],
     "hasDynamicImage": false,
-    "price": 13500,
+    "price": 12000,
     "resourceId": 50512939,
     "assetId": 181291
   },
@@ -668,7 +620,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 1390000,
+    "price": 1270000,
     "resourceId": 50535024,
     "assetId": 203376
   },
@@ -717,9 +669,59 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 12500,
     "resourceId": 50540109,
     "assetId": 208461
+  },
+  "50555337": {
+    "name": "Wout Weghorst",
+    "cardName": "Weghorst",
+    "originalVersionId": "33",
+    "clubId": 245,
+    "leagueId": 10,
+    "countryId": 34,
+    "versionId": "33",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      24,
+      29,
+      4,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      41,
+      43,
+      142,
+      144
+    ],
+    "rolesPlusPlus": [
+      41,
+      43,
+      142,
+      144
+    ],
+    "attributes": [
+      82,
+      86,
+      71,
+      83,
+      65,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 12000,
+    "resourceId": 50555337,
+    "assetId": 223689
   },
   "50564306": {
     "name": "Danilho Doekhi",
@@ -763,7 +765,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 11500,
     "resourceId": 50564306,
     "assetId": 232658
   },
@@ -815,7 +817,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 46000,
+    "price": 43750,
     "resourceId": 50564744,
     "assetId": 233096
   },
@@ -869,7 +871,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 66750,
+    "sbcPrice": 48700,
     "price": 0,
     "resourceId": 50565394,
     "assetId": 233746
@@ -922,7 +924,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 13000,
     "resourceId": 50565395,
     "assetId": 233747
   },
@@ -969,9 +971,62 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 11250,
     "resourceId": 50567311,
     "assetId": 235663
+  },
+  "50570036": {
+    "name": "Dennis Bergkamp",
+    "cardName": "Bergkamp",
+    "originalVersionId": "157",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 34,
+    "versionId": "157",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      13,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      22
+    ],
+    "rolesPlus": [
+      31,
+      42,
+      43,
+      132,
+      141
+    ],
+    "rolesPlusPlus": [
+      31,
+      42,
+      43,
+      132,
+      141
+    ],
+    "attributes": [
+      85,
+      91,
+      85,
+      90,
+      36,
+      77
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50570036,
+    "assetId": 238388
   },
   "50571021": {
     "name": "Zian Flemming",
@@ -1010,7 +1065,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 12000,
     "resourceId": 50571021,
     "assetId": 239373
   },
@@ -1066,7 +1121,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 521000,
+    "price": 320000,
     "resourceId": 50572286,
     "assetId": 240638
   },
@@ -1179,7 +1234,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 12000,
     "resourceId": 50572365,
     "assetId": 240717
   },
@@ -1220,7 +1275,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 11750,
     "resourceId": 50573483,
     "assetId": 241835
   },
@@ -1268,7 +1323,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 12000,
     "resourceId": 50575698,
     "assetId": 244050
   },
@@ -1318,51 +1373,9 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 11500,
     "resourceId": 50576859,
     "assetId": 245211
-  },
-  "50577752": {
-    "name": "Ryan Gravenberch",
-    "cardName": "Gravenberch",
-    "originalVersionId": "3",
-    "clubId": 9,
-    "leagueId": 13,
-    "countryId": 34,
-    "versionId": "3",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      16,
-      24,
-      8
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      114
-    ],
-    "rolesPlusPlus": [
-      114
-    ],
-    "attributes": [
-      78,
-      78,
-      82,
-      86,
-      82,
-      82
-    ],
-    "hasDynamicImage": true,
-    "price": 53500,
-    "resourceId": 50577752,
-    "assetId": 246104
   },
   "50580113": {
     "name": "Ian Maatsen",
@@ -1410,7 +1423,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 135000,
+    "price": 51500,
     "resourceId": 50580113,
     "assetId": 248465
   },
@@ -1424,7 +1437,7 @@
     "versionId": "34",
     "rating": 86,
     "preferredFoot": "Right",
-    "weakFoot": 4,
+    "weakFoot": 5,
     "skillMoves": 4,
     "preferredPosition": "ST",
     "possiblePositions": [
@@ -1461,9 +1474,122 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 17500,
     "resourceId": 50582609,
     "assetId": 250961
+  },
+  "50583453": {
+    "name": "Jurriën Timber",
+    "cardName": "Timber",
+    "originalVersionId": "33",
+    "clubId": 1,
+    "leagueId": 13,
+    "countryId": 34,
+    "versionId": "33",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CB",
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      16,
+      24,
+      25,
+      28,
+      9
+    ],
+    "playStylesPlus": [
+      14
+    ],
+    "rolesPlus": [
+      6,
+      10,
+      11,
+      23,
+      103,
+      107,
+      113
+    ],
+    "rolesPlusPlus": [
+      6,
+      10,
+      11,
+      23,
+      103,
+      107,
+      113
+    ],
+    "attributes": [
+      83,
+      53,
+      81,
+      83,
+      87,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 75000,
+    "resourceId": 50583453,
+    "assetId": 251805
+  },
+  "50583454": {
+    "name": "Quinten Timber",
+    "cardName": "Timber",
+    "originalVersionId": "33",
+    "clubId": 246,
+    "leagueId": 10,
+    "countryId": 34,
+    "versionId": "33",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      2,
+      20,
+      28,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      16,
+      20,
+      34,
+      121,
+      131,
+      149
+    ],
+    "rolesPlusPlus": [
+      16,
+      20,
+      34,
+      121,
+      131,
+      149
+    ],
+    "attributes": [
+      82,
+      83,
+      82,
+      85,
+      80,
+      88
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50583454,
+    "assetId": 251806
   },
   "50584757": {
     "name": "Joey Veerman",
@@ -1514,7 +1640,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 13000,
     "resourceId": 50584757,
     "assetId": 253109
   },
@@ -1583,7 +1709,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 142000,
+    "price": 145000,
     "resourceId": 50584797,
     "assetId": 253149
   },
@@ -1630,7 +1756,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 11250,
     "resourceId": 50585065,
     "assetId": 253417
   },
@@ -1681,7 +1807,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 15000,
     "resourceId": 50586657,
     "assetId": 255009
   },
@@ -1730,7 +1856,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 11750,
     "resourceId": 50593750,
     "assetId": 262102
   },
@@ -1771,7 +1897,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 13750,
     "resourceId": 50594046,
     "assetId": 262398
   },
@@ -1823,7 +1949,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 11750,
     "resourceId": 50599178,
     "assetId": 267530
   },
@@ -1872,7 +1998,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 11250,
     "resourceId": 50599179,
     "assetId": 267531
   },
@@ -1922,7 +2048,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 11000,
     "resourceId": 50602766,
     "assetId": 271118
   },
@@ -2002,7 +2128,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 279000,
+    "price": 264000,
     "resourceId": 50606398,
     "assetId": 274750
   },
@@ -2052,7 +2178,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 167000,
+    "price": 105000,
     "resourceId": 67349502,
     "assetId": 240638
   },
@@ -2108,9 +2234,63 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 153000,
+    "price": 155000,
     "resourceId": 67351380,
     "assetId": 242516
+  },
+  "67354968": {
+    "name": "Ryan Gravenberch",
+    "cardName": "Gravenberch",
+    "originalVersionId": "33",
+    "clubId": 9,
+    "leagueId": 13,
+    "countryId": 34,
+    "versionId": "33",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      15,
+      16,
+      24,
+      26
+    ],
+    "playStylesPlus": [
+      17
+    ],
+    "rolesPlus": [
+      16,
+      20,
+      114,
+      119,
+      149
+    ],
+    "rolesPlusPlus": [
+      16,
+      20,
+      114,
+      119,
+      149
+    ],
+    "attributes": [
+      80,
+      80,
+      83,
+      88,
+      85,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 199000,
+    "resourceId": 67354968,
+    "assetId": 246104
   },
   "67373317": {
     "name": "Micky van de Ven",
@@ -2160,7 +2340,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 970000,
+    "price": 944000,
     "resourceId": 67373317,
     "assetId": 264453
   },
@@ -2214,7 +2394,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 62000,
+    "price": 46750,
     "resourceId": 84131447,
     "assetId": 245367
   }

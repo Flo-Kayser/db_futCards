@@ -35,7 +35,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 74142,
       "assetId": 74142
     },
@@ -73,7 +73,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 75087,
       "assetId": 75087
     },
@@ -110,7 +110,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 77354,
       "assetId": 77354
     },
@@ -149,7 +149,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 163264,
       "assetId": 163264
     },
@@ -194,7 +194,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 400,
       "resourceId": 205988,
       "assetId": 205988
     },
@@ -233,7 +233,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1000,
       "resourceId": 226753,
       "assetId": 226753
     },
@@ -324,59 +324,9 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 233064,
       "assetId": 233064
-    },
-    "234574": {
-      "name": "Diogo Dalot",
-      "cardName": "Diogo Dalot",
-      "originalVersionId": "1",
-      "clubId": 11,
-      "leagueId": 13,
-      "countryId": 38,
-      "versionId": "3002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "LB",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        10,
-        16,
-        18,
-        27
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        4,
-        23,
-        46,
-        47
-      ],
-      "rolesPlusPlus": [
-        4,
-        23,
-        46,
-        47
-      ],
-      "attributes": [
-        85,
-        63,
-        74,
-        77,
-        76,
-        78
-      ],
-      "hasDynamicImage": false,
-      "price": 800,
-      "resourceId": 234574,
-      "assetId": 234574
     },
     "235243": {
       "name": "Matthijs de Ligt",
@@ -417,7 +367,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 450,
       "resourceId": 235243,
       "assetId": 235243
     },
@@ -465,7 +415,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 400,
       "resourceId": 236401,
       "assetId": 236401
     },
@@ -548,7 +498,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 400,
       "resourceId": 239301,
       "assetId": 239301
     },
@@ -636,7 +586,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 243647,
       "assetId": 243647
     },
@@ -898,7 +848,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 269233,
       "assetId": 269233
     },
@@ -976,7 +926,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 650,
       "resourceId": 277432,
       "assetId": 277432
     },
@@ -1019,7 +969,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 13750,
       "resourceId": 50534911,
       "assetId": 203263
     },
@@ -1072,9 +1022,69 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 349000,
+      "price": 394000,
       "resourceId": 50543846,
       "assetId": 212198
+    },
+    "50566222": {
+      "name": "Diogo Dalot",
+      "cardName": "Diogo Dalot",
+      "originalVersionId": "33",
+      "clubId": 11,
+      "leagueId": 13,
+      "countryId": 38,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        18,
+        25,
+        27
+      ],
+      "playStylesPlus": [
+        14
+      ],
+      "rolesPlus": [
+        3,
+        7,
+        24,
+        46,
+        47,
+        104,
+        108,
+        123
+      ],
+      "rolesPlusPlus": [
+        3,
+        7,
+        24,
+        46,
+        47,
+        104,
+        108,
+        123
+      ],
+      "attributes": [
+        90,
+        70,
+        83,
+        85,
+        84,
+        86
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50566222,
+      "assetId": 234574
     },
     "50574662": {
       "name": "Bryan Mbeumo",
@@ -1139,7 +1149,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 56500,
+      "price": 16750,
       "resourceId": 50574662,
       "assetId": 243014
     },
@@ -1153,7 +1163,7 @@
       "versionId": "34",
       "rating": 86,
       "preferredFoot": "Right",
-      "weakFoot": 4,
+      "weakFoot": 5,
       "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
@@ -1190,7 +1200,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 19000,
+      "price": 17500,
       "resourceId": 50582609,
       "assetId": 250961
     },
@@ -1230,7 +1240,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 50586451,
       "assetId": 254803
     },
@@ -1325,7 +1335,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 66000,
+      "price": 47500,
       "resourceId": 50600735,
       "assetId": 269087
     },
@@ -1425,7 +1435,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 12000,
+      "price": 11000,
       "resourceId": 67309009,
       "assetId": 200145
     }

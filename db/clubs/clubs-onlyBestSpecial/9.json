@@ -47,7 +47,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 1390000,
+      "price": 1270000,
       "resourceId": 50535024,
       "assetId": 203376
     },
@@ -96,7 +96,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 418000,
+      "price": 401000,
       "resourceId": 50540979,
       "assetId": 209331
     },
@@ -148,7 +148,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 137000,
+      "price": 134000,
       "resourceId": 50547915,
       "assetId": 216267
     },
@@ -209,7 +209,7 @@
       "rating": 86,
       "preferredFoot": "Right",
       "weakFoot": 4,
-      "skillMoves": 4,
+      "skillMoves": 5,
       "preferredPosition": "RM",
       "possiblePositions": [
         "LM",
@@ -251,7 +251,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 85000,
+      "price": 78500,
       "resourceId": 50567453,
       "assetId": 235805
     },
@@ -307,51 +307,9 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 100000,
+      "price": 80000,
       "resourceId": 50568420,
       "assetId": 236772
-    },
-    "50577752": {
-      "name": "Ryan Gravenberch",
-      "cardName": "Gravenberch",
-      "originalVersionId": "3",
-      "clubId": 9,
-      "leagueId": 13,
-      "countryId": 34,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        16,
-        24,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        114
-      ],
-      "rolesPlusPlus": [
-        114
-      ],
-      "attributes": [
-        78,
-        78,
-        82,
-        86,
-        82,
-        82
-      ],
-      "hasDynamicImage": true,
-      "price": 53500,
-      "resourceId": 50577752,
-      "assetId": 246104
     },
     "50584797": {
       "name": "Jeremie Frimpong",
@@ -418,7 +376,7 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 142000,
+      "price": 145000,
       "resourceId": 50584797,
       "assetId": 253149
     },
@@ -474,7 +432,7 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 348000,
+      "price": 170000,
       "resourceId": 50588278,
       "assetId": 256630
     },
@@ -523,7 +481,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 108000,
+      "price": 92000,
       "resourceId": 50588937,
       "assetId": 257289
     },
@@ -577,7 +535,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 128000,
+      "price": 118000,
       "resourceId": 67345636,
       "assetId": 236772
     },
@@ -633,9 +591,63 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 153000,
+      "price": 155000,
       "resourceId": 67351380,
       "assetId": 242516
+    },
+    "67354968": {
+      "name": "Ryan Gravenberch",
+      "cardName": "Gravenberch",
+      "originalVersionId": "33",
+      "clubId": 9,
+      "leagueId": 13,
+      "countryId": 34,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        15,
+        16,
+        24,
+        26
+      ],
+      "playStylesPlus": [
+        17
+      ],
+      "rolesPlus": [
+        16,
+        20,
+        114,
+        119,
+        149
+      ],
+      "rolesPlusPlus": [
+        16,
+        20,
+        114,
+        119,
+        149
+      ],
+      "attributes": [
+        80,
+        80,
+        83,
+        88,
+        85,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 199000,
+      "resourceId": 67354968,
+      "assetId": 246104
     }
   }
 }

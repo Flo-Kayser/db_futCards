@@ -44,7 +44,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 54000,
+    "price": 34500,
     "resourceId": 275092,
     "assetId": 275092
   },
@@ -99,7 +99,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 25500,
+    "price": 12500,
     "resourceId": 50557984,
     "assetId": 226336
   },
@@ -148,7 +148,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 12750,
     "resourceId": 50558958,
     "assetId": 227310
   },
@@ -197,7 +197,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 303000,
+    "price": 94000,
     "resourceId": 50558963,
     "assetId": 227315
   },
@@ -245,7 +245,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 23750,
+    "price": 21000,
     "resourceId": 50558994,
     "assetId": 227346
   },
@@ -370,7 +370,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 82500,
+    "price": 73500,
     "resourceId": 50563080,
     "assetId": 231432
   },
@@ -461,7 +461,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 265000,
+    "price": 247000,
     "resourceId": 50565310,
     "assetId": 233662
   },
@@ -513,9 +513,55 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 11000,
     "resourceId": 50577345,
     "assetId": 245697
+  },
+  "50577604": {
+    "name": "Christiane Endler",
+    "cardName": "Endler",
+    "originalVersionId": "33",
+    "clubId": 116033,
+    "leagueId": 2218,
+    "countryId": 55,
+    "versionId": "33",
+    "rating": 89,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      32,
+      33,
+      9
+    ],
+    "playStylesPlus": [
+      31
+    ],
+    "rolesPlus": [
+      1,
+      45,
+      102
+    ],
+    "rolesPlusPlus": [
+      1,
+      45,
+      102
+    ],
+    "attributes": [
+      89,
+      84,
+      85,
+      90,
+      45,
+      90
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50577604,
+    "assetId": 245956
   },
   "50577825": {
     "name": "Emelyne Laurent",
@@ -560,7 +606,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 11500,
     "resourceId": 50577825,
     "assetId": 246177
   },
@@ -611,7 +657,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 23700,
+    "sbcPrice": 23300,
     "resourceId": 50593388,
     "assetId": 261740
   },
@@ -656,9 +702,65 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 13500,
+    "price": 15500,
     "resourceId": 50593489,
     "assetId": 261841
+  },
+  "50594105": {
+    "name": "Olga Carmona",
+    "cardName": "Olga Carmona",
+    "originalVersionId": "33",
+    "clubId": 116034,
+    "leagueId": 2218,
+    "countryId": 45,
+    "versionId": "33",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      14,
+      21,
+      26,
+      28,
+      6
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      7,
+      8,
+      27,
+      109,
+      110,
+      130
+    ],
+    "rolesPlusPlus": [
+      7,
+      8,
+      27,
+      109,
+      110,
+      130
+    ],
+    "attributes": [
+      90,
+      80,
+      81,
+      84,
+      82,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 21000,
+    "resourceId": 50594105,
+    "assetId": 262457
   },
   "50596553": {
     "name": "Jade Le Guilly",
@@ -705,7 +807,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 11250,
     "resourceId": 50596553,
     "assetId": 264905
   },
@@ -792,7 +894,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 10750,
     "resourceId": 50596635,
     "assetId": 264987
   },
@@ -848,9 +950,67 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 167000,
+    "price": 164000,
     "resourceId": 50597322,
     "assetId": 265674
+  },
+  "50597546": {
+    "name": "Melchie Dumornay",
+    "cardName": "Dumornay",
+    "originalVersionId": "33",
+    "clubId": 116033,
+    "leagueId": 2218,
+    "countryId": 80,
+    "versionId": "33",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      20,
+      25,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      21,
+      31,
+      44,
+      132,
+      141,
+      143
+    ],
+    "rolesPlusPlus": [
+      21,
+      31,
+      44,
+      132,
+      141,
+      143
+    ],
+    "attributes": [
+      94,
+      86,
+      80,
+      88,
+      61,
+      73
+    ],
+    "hasDynamicImage": true,
+    "price": 180000,
+    "resourceId": 50597546,
+    "assetId": 265898
   },
   "50597553": {
     "name": "Vicki Becho",
@@ -898,7 +1058,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13500,
     "resourceId": 50597553,
     "assetId": 265905
   },
@@ -1006,7 +1166,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 11250,
     "resourceId": 50599179,
     "assetId": 267531
   },
@@ -1106,7 +1266,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 11250,
     "resourceId": 50605594,
     "assetId": 273946
   },
@@ -1252,7 +1412,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 11500,
     "resourceId": 50609867,
     "assetId": 278219
   },
@@ -1302,7 +1462,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 11000,
     "resourceId": 50609873,
     "assetId": 278225
   },
@@ -1351,7 +1511,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 78250,
+    "sbcPrice": 69500,
     "price": 69550,
     "resourceId": 67336180,
     "assetId": 227316
@@ -1408,7 +1568,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 87000,
+    "price": 50000,
     "resourceId": 67342526,
     "assetId": 233662
   },
@@ -1458,7 +1618,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 28250,
     "resourceId": 67355228,
     "assetId": 246364
   }

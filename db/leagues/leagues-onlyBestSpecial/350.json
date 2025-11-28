@@ -41,7 +41,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 14500,
+    "price": 11500,
     "resourceId": 168880,
     "assetId": 168880
   },
@@ -83,7 +83,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 19500,
+    "price": 12250,
     "resourceId": 168886,
     "assetId": 168886
   },
@@ -155,10 +155,10 @@
     "leagueId": 350,
     "countryId": 34,
     "versionId": "34",
-    "rating": 85,
+    "rating": 86,
     "preferredFoot": "Right",
     "weakFoot": 4,
-    "skillMoves": 4,
+    "skillMoves": 5,
     "preferredPosition": "CM",
     "possiblePositions": [
       "CAM",
@@ -189,15 +189,15 @@
       142
     ],
     "attributes": [
-      80,
-      80,
-      84,
-      86,
       81,
-      78
+      81,
+      85,
+      87,
+      82,
+      79
     ],
     "hasDynamicImage": false,
-    "price": 13500,
+    "price": 12000,
     "resourceId": 50512939,
     "assetId": 181291
   },
@@ -246,59 +246,9 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 14250,
+    "price": 15000,
     "resourceId": 50517070,
     "assetId": 185422
-  },
-  "50536133": {
-    "name": "Riyad Mahrez",
-    "cardName": "Mahrez",
-    "originalVersionId": "3",
-    "clubId": 112387,
-    "leagueId": 350,
-    "countryId": 97,
-    "versionId": "3",
-    "rating": 85,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "RM",
-    "possiblePositions": [
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      0,
-      13,
-      20,
-      22,
-      3,
-      6,
-      8
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      26,
-      35,
-      125
-    ],
-    "rolesPlusPlus": [
-      26,
-      35,
-      125
-    ],
-    "attributes": [
-      81,
-      81,
-      83,
-      89,
-      40,
-      65
-    ],
-    "hasDynamicImage": false,
-    "price": 12000,
-    "resourceId": 50536133,
-    "assetId": 204485
   },
   "50536173": {
     "name": "Iñigo Martínez",
@@ -339,7 +289,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 11000,
     "resourceId": 50536173,
     "assetId": 204525
   },
@@ -499,7 +449,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 11750,
+    "price": 10750,
     "resourceId": 50542296,
     "assetId": 210648
   },
@@ -592,7 +542,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 11000,
     "resourceId": 50551445,
     "assetId": 219797
   },
@@ -694,7 +644,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 11000,
     "resourceId": 50555941,
     "assetId": 224293
   },
@@ -742,6 +692,63 @@
     "sbcPrice": 7000,
     "resourceId": 50556964,
     "assetId": 225316
+  },
+  "50564304": {
+    "name": "Theo Hernández",
+    "cardName": "Hernández",
+    "originalVersionId": "33",
+    "clubId": 605,
+    "leagueId": 350,
+    "countryId": 18,
+    "versionId": "33",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      14,
+      15,
+      17,
+      21,
+      25,
+      3
+    ],
+    "playStylesPlus": [
+      28
+    ],
+    "rolesPlus": [
+      7,
+      8,
+      29,
+      109,
+      110,
+      127
+    ],
+    "rolesPlusPlus": [
+      7,
+      8,
+      29,
+      109,
+      110,
+      127
+    ],
+    "attributes": [
+      92,
+      81,
+      82,
+      87,
+      83,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 496000,
+    "resourceId": 50564304,
+    "assetId": 232656
   },
   "50566227": {
     "name": "Julian Quiñones",
@@ -832,7 +839,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 12000,
     "resourceId": 50567162,
     "assetId": 235514
   },
@@ -971,7 +978,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 16000,
+    "price": 14250,
     "resourceId": 50580146,
     "assetId": 248498
   },
@@ -983,9 +990,9 @@
     "leagueId": 350,
     "countryId": 60,
     "versionId": "34",
-    "rating": 87,
+    "rating": 88,
     "preferredFoot": "Right",
-    "weakFoot": 3,
+    "weakFoot": 4,
     "skillMoves": 4,
     "preferredPosition": "ST",
     "possiblePositions": [
@@ -1011,15 +1018,15 @@
       142
     ],
     "attributes": [
-      90,
-      86,
-      80,
-      83,
-      55,
-      84
+      91,
+      87,
+      81,
+      84,
+      56,
+      85
     ],
     "hasDynamicImage": true,
-    "price": 86000,
+    "price": 73500,
     "resourceId": 50584720,
     "assetId": 253072
   },
@@ -1085,7 +1092,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 149000,
+    "price": 155000,
     "resourceId": 50598342,
     "assetId": 266694
   },
@@ -1216,7 +1223,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 39000,
+    "sbcPrice": 37750,
     "price": 45900,
     "resourceId": 50609445,
     "assetId": 277797
@@ -1267,7 +1274,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 845000,
+    "price": 648000,
     "resourceId": 67129665,
     "assetId": 20801
   },
@@ -1334,6 +1341,62 @@
     "sbcPrice": 7000,
     "resourceId": 67183565,
     "assetId": 74701
+  },
+  "67313349": {
+    "name": "Riyad Mahrez",
+    "cardName": "Mahrez",
+    "originalVersionId": "33",
+    "clubId": 112387,
+    "leagueId": 350,
+    "countryId": 97,
+    "versionId": "33",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      13,
+      20,
+      22,
+      3,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      23,
+      35,
+      125,
+      126,
+      136,
+      137
+    ],
+    "rolesPlusPlus": [
+      23,
+      35,
+      125,
+      126,
+      136,
+      137
+    ],
+    "attributes": [
+      84,
+      84,
+      86,
+      91,
+      42,
+      70
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67313349,
+    "assetId": 204485
   },
   "67351308": {
     "name": "João Félix",
@@ -1407,7 +1470,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 84000,
+    "price": 90000,
     "resourceId": 67351308,
     "assetId": 242444
   }

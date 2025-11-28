@@ -81,7 +81,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 900,
       "resourceId": 78872,
       "assetId": 78872
     },
@@ -128,7 +128,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1300,
       "resourceId": 201024,
       "assetId": 201024
     },
@@ -169,7 +169,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 209981,
       "assetId": 209981
     },
@@ -220,7 +220,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 750,
       "resourceId": 210514,
       "assetId": 210514
     },
@@ -268,7 +268,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1000,
       "resourceId": 210602,
       "assetId": 210602
     },
@@ -356,7 +356,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 700,
       "resourceId": 220075,
       "assetId": 220075
     },
@@ -457,7 +457,7 @@
         88
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 800,
       "resourceId": 223848,
       "assetId": 223848
     },
@@ -590,56 +590,9 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 230713,
       "assetId": 230713
-    },
-    "232656": {
-      "name": "Theo Hernández",
-      "cardName": "Hernández",
-      "originalVersionId": "1",
-      "clubId": 605,
-      "leagueId": 350,
-      "countryId": 18,
-      "versionId": "3002",
-      "rating": 84,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        15,
-        17,
-        21,
-        25,
-        28,
-        3
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        10,
-        109
-      ],
-      "rolesPlusPlus": [
-        10,
-        109
-      ],
-      "attributes": [
-        90,
-        76,
-        78,
-        83,
-        79,
-        83
-      ],
-      "hasDynamicImage": false,
-      "price": 20000,
-      "resourceId": 232656,
-      "assetId": 232656
     },
     "241938": {
       "name": "Nasser Al Dawsari",
@@ -725,7 +678,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 242223,
       "assetId": 242223
     },
@@ -851,7 +804,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 350,
       "resourceId": 245751,
       "assetId": 245751
     },
@@ -930,7 +883,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 4700,
+      "price": 3800,
       "resourceId": 251573,
       "assetId": 251573
     },
@@ -975,7 +928,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 256331,
       "assetId": 256331
     },
@@ -1098,7 +1051,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 5100,
       "resourceId": 275570,
       "assetId": 275570
     },
@@ -1173,7 +1126,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 277487,
       "assetId": 277487
     },
@@ -1224,9 +1177,66 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 12000,
+      "price": 11000,
       "resourceId": 50555941,
       "assetId": 224293
+    },
+    "50564304": {
+      "name": "Theo Hernández",
+      "cardName": "Hernández",
+      "originalVersionId": "33",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 18,
+      "versionId": "33",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        14,
+        15,
+        17,
+        21,
+        25,
+        3
+      ],
+      "playStylesPlus": [
+        28
+      ],
+      "rolesPlus": [
+        7,
+        8,
+        29,
+        109,
+        110,
+        127
+      ],
+      "rolesPlusPlus": [
+        7,
+        8,
+        29,
+        109,
+        110,
+        127
+      ],
+      "attributes": [
+        92,
+        81,
+        82,
+        87,
+        83,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 496000,
+      "resourceId": 50564304,
+      "assetId": 232656
     },
     "50584720": {
       "name": "Darwin Núñez",
@@ -1236,9 +1246,9 @@
       "leagueId": 350,
       "countryId": 60,
       "versionId": "34",
-      "rating": 87,
+      "rating": 88,
       "preferredFoot": "Right",
-      "weakFoot": 3,
+      "weakFoot": 4,
       "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
@@ -1264,15 +1274,15 @@
         142
       ],
       "attributes": [
-        90,
-        86,
-        80,
-        83,
-        55,
-        84
+        91,
+        87,
+        81,
+        84,
+        56,
+        85
       ],
       "hasDynamicImage": true,
-      "price": 86000,
+      "price": 73500,
       "resourceId": 50584720,
       "assetId": 253072
     },
@@ -1309,7 +1319,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 200,
       "resourceId": 50606965,
       "assetId": 275317
     },
@@ -1360,7 +1370,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 39000,
+      "sbcPrice": 37750,
       "price": 45900,
       "resourceId": 50609445,
       "assetId": 277797
@@ -1398,7 +1408,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 50610648,
       "assetId": 279000
     }

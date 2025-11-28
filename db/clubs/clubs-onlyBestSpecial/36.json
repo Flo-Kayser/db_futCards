@@ -1,6 +1,57 @@
 {
   "clubName": "VfB Stuttgart",
   "players": {
+    "50574250": {
+      "name": "Josha Vagnoman",
+      "cardName": "Vagnoman",
+      "originalVersionId": "33",
+      "clubId": 36,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "33",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        14,
+        18,
+        19,
+        21,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        23,
+        103,
+        146
+      ],
+      "rolesPlusPlus": [
+        5,
+        23,
+        103,
+        146
+      ],
+      "attributes": [
+        90,
+        72,
+        81,
+        83,
+        84,
+        84
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50574250,
+      "assetId": 242602
+    },
     "50575824": {
       "name": "Deniz Undav",
       "cardName": "Undav",
@@ -95,7 +146,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 17750,
+      "price": 13750,
       "resourceId": 50582607,
       "assetId": 250959
     },
@@ -141,7 +192,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 11000,
       "resourceId": 67359823,
       "assetId": 250959
     }

@@ -1,48 +1,6 @@
 {
   "clubName": "Atlético de Madrid",
   "players": {
-    "200389": {
-      "name": "Jan Oblak",
-      "cardName": "Oblak",
-      "originalVersionId": "1",
-      "clubId": 240,
-      "leagueId": 53,
-      "countryId": 44,
-      "versionId": "3002",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        30,
-        34
-      ],
-      "playStylesPlus": [
-        32
-      ],
-      "rolesPlus": [
-        101
-      ],
-      "rolesPlusPlus": [
-        101
-      ],
-      "attributes": [
-        85,
-        90,
-        78,
-        87,
-        46,
-        86
-      ],
-      "hasDynamicImage": false,
-      "price": 13000,
-      "resourceId": 200389,
-      "assetId": 200389
-    },
     "214979": {
       "name": "Juan Musso",
       "cardName": "Musso",
@@ -76,7 +34,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 600,
       "resourceId": 214979,
       "assetId": 214979
     },
@@ -121,7 +79,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1000,
       "resourceId": 216460,
       "assetId": 216460
     },
@@ -160,7 +118,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 400,
       "resourceId": 220440,
       "assetId": 220440
     },
@@ -202,7 +160,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 600,
       "resourceId": 231591,
       "assetId": 231591
     },
@@ -245,7 +203,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 800,
       "resourceId": 233084,
       "assetId": 233084
     },
@@ -332,7 +290,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 400,
       "resourceId": 245371,
       "assetId": 245371
     },
@@ -378,7 +336,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 350,
       "resourceId": 253002,
       "assetId": 253002
     },
@@ -433,7 +391,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 800,
       "resourceId": 257279,
       "assetId": 257279
     },
@@ -479,7 +437,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 259516,
       "assetId": 259516
     },
@@ -522,7 +480,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 200,
       "resourceId": 265396,
       "assetId": 265396
     },
@@ -565,7 +523,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 350,
       "resourceId": 266039,
       "assetId": 266039
     },
@@ -608,7 +566,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1000,
       "resourceId": 272449,
       "assetId": 272449
     },
@@ -654,7 +612,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 16250,
+      "price": 13500,
       "resourceId": 50525395,
       "assetId": 193747
     },
@@ -725,9 +683,57 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 88500,
+      "price": 80000,
       "resourceId": 50526413,
       "assetId": 194765
+    },
+    "50532037": {
+      "name": "Jan Oblak",
+      "cardName": "Oblak",
+      "originalVersionId": "33",
+      "clubId": 240,
+      "leagueId": 53,
+      "countryId": 44,
+      "versionId": "33",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31,
+        32,
+        35
+      ],
+      "playStylesPlus": [
+        34
+      ],
+      "rolesPlus": [
+        2,
+        45,
+        101
+      ],
+      "rolesPlusPlus": [
+        2,
+        45,
+        101
+      ],
+      "attributes": [
+        86,
+        91,
+        80,
+        88,
+        48,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 50000,
+      "resourceId": 50532037,
+      "assetId": 200389
     },
     "50548197": {
       "name": "Alexander Sørloth",
@@ -776,7 +782,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 21500,
+      "sbcPrice": 19000,
       "resourceId": 50548197,
       "assetId": 216549
     },
@@ -827,7 +833,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 155000,
+      "price": 100000,
       "resourceId": 50557809,
       "assetId": 226161
     },
@@ -933,7 +939,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 50572338,
       "assetId": 240690
     },
@@ -980,7 +986,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 276000,
+      "price": 146000,
       "resourceId": 50577839,
       "assetId": 246191
     },
@@ -1031,7 +1037,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 61450,
+      "sbcPrice": 57950,
       "resourceId": 50578751,
       "assetId": 247103
     },

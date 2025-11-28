@@ -42,7 +42,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 9500,
+      "price": 7200,
       "resourceId": 227310,
       "assetId": 227310
     },
@@ -93,7 +93,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 13500,
+      "price": 10500,
       "resourceId": 227361,
       "assetId": 227361
     },
@@ -138,7 +138,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 850,
       "resourceId": 227392,
       "assetId": 227392
     },
@@ -183,50 +183,9 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 800,
       "resourceId": 242896,
       "assetId": 242896
-    },
-    "245956": {
-      "name": "Christiane Endler",
-      "cardName": "Endler",
-      "originalVersionId": "1",
-      "clubId": 116033,
-      "leagueId": 2218,
-      "countryId": 55,
-      "versionId": "3002",
-      "rating": 88,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        32
-      ],
-      "playStylesPlus": [
-        33
-      ],
-      "rolesPlus": [
-        102
-      ],
-      "rolesPlusPlus": [
-        102
-      ],
-      "attributes": [
-        88,
-        82,
-        84,
-        89,
-        42,
-        89
-      ],
-      "hasDynamicImage": false,
-      "price": 13500,
-      "resourceId": 245956,
-      "assetId": 245956
     },
     "246272": {
       "name": "Marie Katoto",
@@ -266,7 +225,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 12750,
+      "price": 9400,
       "resourceId": 246272,
       "assetId": 246272
     },
@@ -383,7 +342,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 350,
       "resourceId": 264944,
       "assetId": 264944
     },
@@ -425,7 +384,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1100,
       "resourceId": 264980,
       "assetId": 264980
     },
@@ -514,57 +473,9 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 800,
       "resourceId": 265536,
       "assetId": 265536
-    },
-    "265898": {
-      "name": "Melchie Dumornay",
-      "cardName": "Dumornay",
-      "originalVersionId": "1",
-      "clubId": 116033,
-      "leagueId": 2218,
-      "countryId": 80,
-      "versionId": "3002",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        1,
-        20,
-        25,
-        8
-      ],
-      "playStylesPlus": [
-        7
-      ],
-      "rolesPlus": [
-        41,
-        143
-      ],
-      "rolesPlusPlus": [
-        41,
-        143
-      ],
-      "attributes": [
-        93,
-        85,
-        78,
-        87,
-        60,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 6500,
-      "resourceId": 265898,
-      "assetId": 265898
     },
     "277169": {
       "name": "Wassa Sangare",
@@ -678,7 +589,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 2500,
       "resourceId": 277171,
       "assetId": 277171
     },
@@ -715,7 +626,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 200,
       "resourceId": 277175,
       "assetId": 277175
     },
@@ -764,7 +675,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 12750,
       "resourceId": 50558958,
       "assetId": 227310
     },
@@ -819,9 +730,55 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 82500,
+      "price": 73500,
       "resourceId": 50563080,
       "assetId": 231432
+    },
+    "50577604": {
+      "name": "Christiane Endler",
+      "cardName": "Endler",
+      "originalVersionId": "33",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 55,
+      "versionId": "33",
+      "rating": 89,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        32,
+        33,
+        9
+      ],
+      "playStylesPlus": [
+        31
+      ],
+      "rolesPlus": [
+        1,
+        45,
+        102
+      ],
+      "rolesPlusPlus": [
+        1,
+        45,
+        102
+      ],
+      "attributes": [
+        89,
+        84,
+        85,
+        90,
+        45,
+        90
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50577604,
+      "assetId": 245956
     },
     "50593388": {
       "name": "Jule Brand",
@@ -870,7 +827,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 23700,
+      "sbcPrice": 23300,
       "resourceId": 50593388,
       "assetId": 261740
     },
@@ -926,9 +883,67 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 167000,
+      "price": 164000,
       "resourceId": 50597322,
       "assetId": 265674
+    },
+    "50597546": {
+      "name": "Melchie Dumornay",
+      "cardName": "Dumornay",
+      "originalVersionId": "33",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 80,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        20,
+        25,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        21,
+        31,
+        44,
+        132,
+        141,
+        143
+      ],
+      "rolesPlusPlus": [
+        21,
+        31,
+        44,
+        132,
+        141,
+        143
+      ],
+      "attributes": [
+        94,
+        86,
+        80,
+        88,
+        61,
+        73
+      ],
+      "hasDynamicImage": true,
+      "price": 180000,
+      "resourceId": 50597546,
+      "assetId": 265898
     },
     "50597553": {
       "name": "Vicki Becho",
@@ -976,7 +991,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 50597553,
       "assetId": 265905
     },
@@ -1022,7 +1037,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 11250,
       "resourceId": 50605594,
       "assetId": 273946
     },
@@ -1168,7 +1183,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 11500,
       "resourceId": 50609867,
       "assetId": 278219
     },
@@ -1217,7 +1232,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 78250,
+      "sbcPrice": 69500,
       "price": 69550,
       "resourceId": 67336180,
       "assetId": 227316

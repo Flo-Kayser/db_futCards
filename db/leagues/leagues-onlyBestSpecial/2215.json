@@ -39,7 +39,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 25750,
+    "price": 23750,
     "resourceId": 226306,
     "assetId": 226306
   },
@@ -86,7 +86,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 35500,
+    "price": 22000,
     "resourceId": 226373,
     "assetId": 226373
   },
@@ -193,7 +193,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 0,
+    "price": 64000,
     "resourceId": 50557955,
     "assetId": 226307
   },
@@ -258,55 +258,9 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 12000,
     "resourceId": 50572365,
     "assetId": 240717
-  },
-  "50575052": {
-    "name": "Georgia Stanway",
-    "cardName": "Stanway",
-    "originalVersionId": "3",
-    "clubId": 115995,
-    "leagueId": 2215,
-    "countryId": 14,
-    "versionId": "3",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CDM"
-    ],
-    "playStyles": [
-      14,
-      20,
-      22,
-      8
-    ],
-    "playStylesPlus": [
-      9
-    ],
-    "rolesPlus": [
-      49,
-      116
-    ],
-    "rolesPlusPlus": [
-      49,
-      116
-    ],
-    "attributes": [
-      81,
-      80,
-      82,
-      87,
-      78,
-      79
-    ],
-    "hasDynamicImage": true,
-    "price": 12000,
-    "resourceId": 50575052,
-    "assetId": 243404
   },
   "50579436": {
     "name": "Giulia Gwinn",
@@ -359,7 +313,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 89000,
+    "sbcPrice": 88750,
     "resourceId": 50579436,
     "assetId": 247788
   },
@@ -408,7 +362,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 11500,
     "resourceId": 50580365,
     "assetId": 248717
   },
@@ -463,7 +417,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 13500,
+    "price": 11500,
     "resourceId": 50590935,
     "assetId": 259287
   },
@@ -515,7 +469,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 14000,
     "resourceId": 50596538,
     "assetId": 264890
   },
@@ -585,7 +539,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 12000,
     "resourceId": 50596584,
     "assetId": 264936
   },
@@ -652,6 +606,52 @@
     "hasDynamicImage": true,
     "resourceId": 50596654,
     "assetId": 265006
+  },
+  "50596673": {
+    "name": "Selina Cerci",
+    "cardName": "Cerci",
+    "originalVersionId": "33",
+    "clubId": 115999,
+    "leagueId": 2215,
+    "countryId": 21,
+    "versionId": "33",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      20,
+      6
+    ],
+    "playStylesPlus": [
+      7
+    ],
+    "rolesPlus": [
+      41,
+      142,
+      143
+    ],
+    "rolesPlusPlus": [
+      41,
+      142,
+      143
+    ],
+    "attributes": [
+      87,
+      87,
+      80,
+      87,
+      56,
+      83
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50596673,
+    "assetId": 265025
   },
   "50596682": {
     "name": "Carlotta Wamser",
@@ -759,7 +759,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 11750,
     "resourceId": 50596703,
     "assetId": 265055
   },
@@ -962,7 +962,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 12500,
     "resourceId": 50597030,
     "assetId": 265382
   },
@@ -1011,9 +1011,112 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 12500,
     "resourceId": 50603487,
     "assetId": 271839
+  },
+  "67336001": {
+    "name": "Hayley Raso",
+    "cardName": "Raso",
+    "originalVersionId": "33",
+    "clubId": 115997,
+    "leagueId": 2215,
+    "countryId": 195,
+    "versionId": "33",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      12,
+      21,
+      25,
+      26
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      24,
+      25,
+      37,
+      123,
+      135
+    ],
+    "rolesPlusPlus": [
+      24,
+      25,
+      37,
+      123,
+      135
+    ],
+    "attributes": [
+      94,
+      82,
+      80,
+      86,
+      43,
+      70
+    ],
+    "hasDynamicImage": true,
+    "price": 15250,
+    "resourceId": 67336001,
+    "assetId": 227137
+  },
+  "67352268": {
+    "name": "Georgia Stanway",
+    "cardName": "Stanway",
+    "originalVersionId": "33",
+    "clubId": 115995,
+    "leagueId": 2215,
+    "countryId": 14,
+    "versionId": "33",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM"
+    ],
+    "playStyles": [
+      10,
+      14,
+      20,
+      22,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      11
+    ],
+    "rolesPlus": [
+      15,
+      49,
+      114,
+      116
+    ],
+    "rolesPlusPlus": [
+      15,
+      49,
+      114,
+      116
+    ],
+    "attributes": [
+      83,
+      82,
+      87,
+      90,
+      84,
+      81
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67352268,
+    "assetId": 243404
   },
   "67357686": {
     "name": "Klara Bühl",
@@ -1057,7 +1160,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 13500,
     "resourceId": 67357686,
     "assetId": 248822
   },
@@ -1114,7 +1217,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 13000,
     "resourceId": 67368151,
     "assetId": 259287
   },
@@ -1162,7 +1265,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 18000,
     "resourceId": 67373750,
     "assetId": 264886
   }

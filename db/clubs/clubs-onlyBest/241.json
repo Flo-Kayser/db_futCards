@@ -40,7 +40,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 74462,
       "assetId": 74462
     },
@@ -78,7 +78,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 74463,
       "assetId": 74463
     },
@@ -117,7 +117,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 850,
       "resourceId": 186153,
       "assetId": 186153
     },
@@ -163,7 +163,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 13000,
+      "price": 9900,
       "resourceId": 188545,
       "assetId": 188545
     },
@@ -204,7 +204,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 6500,
+      "price": 5000,
       "resourceId": 192448,
       "assetId": 192448
     },
@@ -293,7 +293,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 213661,
       "assetId": 213661
     },
@@ -341,57 +341,9 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 46750,
+      "price": 18500,
       "resourceId": 228702,
       "assetId": 228702
-    },
-    "233419": {
-      "name": "Raphinha",
-      "cardName": "Raphinha",
-      "originalVersionId": "1",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 54,
-      "versionId": "3002",
-      "rating": 89,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        0,
-        2,
-        23,
-        25,
-        26
-      ],
-      "playStylesPlus": [
-        21
-      ],
-      "rolesPlus": [
-        29,
-        130
-      ],
-      "rolesPlusPlus": [
-        29,
-        130
-      ],
-      "attributes": [
-        91,
-        84,
-        85,
-        87,
-        53,
-        75
-      ],
-      "hasDynamicImage": false,
-      "price": 87500,
-      "resourceId": 233419,
-      "assetId": 233419
     },
     "241486": {
       "name": "Jules Koundé",
@@ -442,7 +394,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 41000,
+      "price": 16250,
       "resourceId": 241486,
       "assetId": 241486
     },
@@ -492,7 +444,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 3700,
+      "price": 2700,
       "resourceId": 244260,
       "assetId": 244260
     },
@@ -630,7 +582,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 22500,
+      "price": 18250,
       "resourceId": 251854,
       "assetId": 251854
     },
@@ -681,7 +633,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 750,
       "resourceId": 253163,
       "assetId": 253163
     },
@@ -720,7 +672,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 750,
       "resourceId": 259532,
       "assetId": 259532
     },
@@ -769,7 +721,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 264240,
       "assetId": 264240
     },
@@ -811,7 +763,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 265600,
       "assetId": 265600
     },
@@ -854,7 +806,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 272600,
       "assetId": 272600
     },
@@ -905,7 +857,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 60000,
+      "price": 61500,
       "resourceId": 277643,
       "assetId": 277643
     },
@@ -998,7 +950,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 259000,
+      "price": 258000,
       "resourceId": 50520193,
       "assetId": 188545
     },
@@ -1056,9 +1008,63 @@
         71
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 230750,
+      "sbcPrice": 206000,
       "resourceId": 50563325,
       "assetId": 231677
+    },
+    "50565067": {
+      "name": "Raphinha",
+      "cardName": "Raphinha",
+      "originalVersionId": "33",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 54,
+      "versionId": "33",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        2,
+        21,
+        23,
+        26
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        28,
+        29,
+        40,
+        130,
+        139
+      ],
+      "rolesPlusPlus": [
+        28,
+        29,
+        40,
+        130,
+        139
+      ],
+      "attributes": [
+        92,
+        85,
+        86,
+        88,
+        55,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 620000,
+      "resourceId": 50565067,
+      "assetId": 233419
     },
     "50573109": {
       "name": "Ferran Torres",
@@ -1110,7 +1116,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 11750,
       "resourceId": 50573109,
       "assetId": 241461
     },
@@ -1160,7 +1166,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 263000,
+      "price": 290000,
       "resourceId": 50595226,
       "assetId": 263578
     },
@@ -1210,7 +1216,7 @@
         61
       ],
       "hasDynamicImage": true,
-      "price": 64000,
+      "price": 54500,
       "resourceId": 50608827,
       "assetId": 277179
     },
@@ -1265,7 +1271,7 @@
         53
       ],
       "hasDynamicImage": true,
-      "price": 1470000,
+      "price": 1224000,
       "resourceId": 50609291,
       "assetId": 277643
     },
@@ -1313,7 +1319,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 76500,
+      "price": 62000,
       "resourceId": 50609694,
       "assetId": 278046
     },
@@ -1369,7 +1375,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 230750,
+      "sbcPrice": 206000,
       "resourceId": 67340541,
       "assetId": 231677
     }

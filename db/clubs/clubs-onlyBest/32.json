@@ -34,7 +34,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 200,
       "resourceId": 71101,
       "assetId": 71101
     },
@@ -147,7 +147,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 200,
       "resourceId": 76416,
       "assetId": 76416
     },
@@ -265,7 +265,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 350,
       "resourceId": 204092,
       "assetId": 204092
     },
@@ -310,7 +310,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 210324,
       "assetId": 210324
     },
@@ -387,7 +387,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 211738,
       "assetId": 211738
     },
@@ -434,7 +434,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 212242,
       "assetId": 212242
     },
@@ -483,7 +483,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 228813,
       "assetId": 228813
     },
@@ -527,7 +527,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 800,
       "resourceId": 231521,
       "assetId": 231521
     },
@@ -583,51 +583,6 @@
       "price": 400,
       "resourceId": 236786,
       "assetId": 236786
-    },
-    "247263": {
-      "name": "Edmond Tapsoba",
-      "cardName": "Tapsoba",
-      "originalVersionId": "1",
-      "clubId": 32,
-      "leagueId": 19,
-      "countryId": 101,
-      "versionId": "3002",
-      "rating": 81,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10,
-        4,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        13,
-        48
-      ],
-      "rolesPlusPlus": [
-        11,
-        13,
-        48
-      ],
-      "attributes": [
-        75,
-        56,
-        68,
-        70,
-        82,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 800,
-      "resourceId": 247263,
-      "assetId": 247263
     },
     "247679": {
       "name": "Victor Boniface",
@@ -714,7 +669,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 350,
       "resourceId": 255106,
       "assetId": 255106
     },
@@ -762,7 +717,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700000,
+      "price": 893000,
       "resourceId": 256197,
       "assetId": 256197
     },
@@ -809,7 +764,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 1000,
       "resourceId": 264219,
       "assetId": 264219
     },
@@ -852,7 +807,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 268622,
       "assetId": 268622
     },
@@ -894,7 +849,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 350,
       "resourceId": 275028,
       "assetId": 275028
     },
@@ -939,7 +894,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 276528,
       "assetId": 276528
     },
@@ -1013,9 +968,56 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 12000,
       "resourceId": 50568976,
       "assetId": 237328
+    },
+    "50578911": {
+      "name": "Edmond Tapsoba",
+      "cardName": "Tapsoba",
+      "originalVersionId": "33",
+      "clubId": 32,
+      "leagueId": 19,
+      "countryId": 101,
+      "versionId": "33",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        17,
+        4,
+        9
+      ],
+      "playStylesPlus": [
+        28
+      ],
+      "rolesPlus": [
+        13,
+        48,
+        111
+      ],
+      "rolesPlusPlus": [
+        13,
+        48,
+        111
+      ],
+      "attributes": [
+        80,
+        61,
+        75,
+        75,
+        87,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50578911,
+      "assetId": 247263
     },
     "50588501": {
       "name": "Malik Tillman",
@@ -1068,7 +1070,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 18750,
+      "price": 19250,
       "resourceId": 50588501,
       "assetId": 256853
     },
@@ -1115,7 +1117,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 50593799,
       "assetId": 262151
     },
@@ -1256,7 +1258,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 12250,
+      "price": 11500,
       "resourceId": 50606677,
       "assetId": 275029
     },
@@ -1315,7 +1317,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 39000,
+      "price": 36250,
       "resourceId": 67318899,
       "assetId": 210035
     },

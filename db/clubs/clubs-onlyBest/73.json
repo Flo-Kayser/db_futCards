@@ -38,7 +38,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 600,
       "resourceId": 70004,
       "assetId": 70004
     },
@@ -79,7 +79,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 74449,
       "assetId": 74449
     },
@@ -161,7 +161,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 9600,
+      "price": 7400,
       "resourceId": 207865,
       "assetId": 207865
     },
@@ -342,7 +342,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 1199000,
+      "price": 1198000,
       "resourceId": 230621,
       "assetId": 230621
     },
@@ -391,7 +391,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 518000,
+      "price": 590000,
       "resourceId": 231443,
       "assetId": 231443
     },
@@ -482,7 +482,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 61500,
+      "price": 39500,
       "resourceId": 235212,
       "assetId": 235212
     },
@@ -567,7 +567,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 240225,
       "assetId": 240225
     },
@@ -616,7 +616,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 7200,
       "resourceId": 247635,
       "assetId": 247635
     },
@@ -656,7 +656,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 251752,
       "assetId": 251752
     },
@@ -702,54 +702,9 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 36250,
+      "price": 21250,
       "resourceId": 252145,
       "assetId": 252145
-    },
-    "256196": {
-      "name": "Willian Pacho",
-      "cardName": "Pacho",
-      "originalVersionId": "1",
-      "clubId": 73,
-      "leagueId": 16,
-      "countryId": 57,
-      "versionId": "3002",
-      "rating": 86,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        14,
-        15,
-        17
-      ],
-      "playStylesPlus": [
-        28
-      ],
-      "rolesPlus": [
-        11,
-        112
-      ],
-      "rolesPlusPlus": [
-        11,
-        112
-      ],
-      "attributes": [
-        80,
-        34,
-        62,
-        62,
-        86,
-        86
-      ],
-      "hasDynamicImage": false,
-      "price": 9800,
-      "resourceId": 256196,
-      "assetId": 256196
     },
     "256903": {
       "name": "Gonçalo Ramos",
@@ -836,7 +791,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 1700,
       "resourceId": 258781,
       "assetId": 258781
     },
@@ -920,7 +875,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 2700,
       "resourceId": 270673,
       "assetId": 270673
     },
@@ -1003,7 +958,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 300,
       "resourceId": 279880,
       "assetId": 279880
     },
@@ -1056,7 +1011,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 88000,
+      "price": 95000,
       "resourceId": 50557919,
       "assetId": 226271
     },
@@ -1133,7 +1088,7 @@
         69
       ],
       "hasDynamicImage": true,
-      "price": 4999000,
+      "price": 3000000,
       "resourceId": 50563091,
       "assetId": 231443
     },
@@ -1234,9 +1189,60 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 93000,
+      "price": 78000,
       "resourceId": 50586901,
       "assetId": 255253
+    },
+    "50587844": {
+      "name": "Willian Pacho",
+      "cardName": "Pacho",
+      "originalVersionId": "33",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 57,
+      "versionId": "33",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        15,
+        17,
+        5,
+        9
+      ],
+      "playStylesPlus": [
+        28
+      ],
+      "rolesPlus": [
+        11,
+        48,
+        112,
+        113
+      ],
+      "rolesPlusPlus": [
+        11,
+        48,
+        112,
+        113
+      ],
+      "attributes": [
+        82,
+        35,
+        66,
+        64,
+        88,
+        87
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 204250,
+      "resourceId": 50587844,
+      "assetId": 256196
     },
     "50596300": {
       "name": "Bradley Barcola",
@@ -1352,7 +1358,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 255000,
+      "price": 260000,
       "resourceId": 50603069,
       "assetId": 271421
     },
@@ -1403,7 +1409,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 68000,
+      "price": 67000,
       "resourceId": 50604482,
       "assetId": 272834
     },
@@ -1454,7 +1460,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 13000,
+      "price": 11000,
       "resourceId": 67381698,
       "assetId": 272834
     }

@@ -82,7 +82,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 400,
       "resourceId": 200159,
       "assetId": 200159
     },
@@ -126,7 +126,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 500,
       "resourceId": 203574,
       "assetId": 203574
     },
@@ -163,7 +163,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 300,
       "resourceId": 204246,
       "assetId": 204246
     },
@@ -250,7 +250,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1000,
       "resourceId": 208920,
       "assetId": 208920
     },
@@ -334,7 +334,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 224081,
       "assetId": 224081
     },
@@ -377,54 +377,6 @@
       "resourceId": 229237,
       "assetId": 229237
     },
-    "231866": {
-      "name": "Rodri",
-      "cardName": "Rodri",
-      "originalVersionId": "1",
-      "clubId": 10,
-      "leagueId": 13,
-      "countryId": 45,
-      "versionId": "3002",
-      "rating": 90,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        19,
-        2,
-        24,
-        28
-      ],
-      "playStylesPlus": [
-        11
-      ],
-      "rolesPlus": [
-        116,
-        121
-      ],
-      "rolesPlusPlus": [
-        116,
-        121
-      ],
-      "attributes": [
-        65,
-        80,
-        86,
-        84,
-        86,
-        85
-      ],
-      "hasDynamicImage": false,
-      "price": 30000,
-      "resourceId": 231866,
-      "assetId": 231866
-    },
     "239818": {
       "name": "Rúben Dias",
       "cardName": "Rúben Dias",
@@ -464,7 +416,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 6500,
+      "price": 4800,
       "resourceId": 239818,
       "assetId": 239818
     },
@@ -508,7 +460,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 242641,
       "assetId": 242641
     },
@@ -560,7 +512,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 251570,
       "assetId": 251570
     },
@@ -685,7 +637,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 255069,
       "assetId": 255069
     },
@@ -732,7 +684,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 850,
       "resourceId": 256675,
       "assetId": 256675
     },
@@ -774,7 +726,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 263063,
       "assetId": 263063
     },
@@ -859,7 +811,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 350,
       "resourceId": 271574,
       "assetId": 271574
     },
@@ -901,7 +853,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 750,
       "resourceId": 277031,
       "assetId": 277031
     },
@@ -942,7 +894,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 277427,
       "assetId": 277427
     },
@@ -1000,7 +952,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 135000,
+      "price": 49000,
       "resourceId": 50550315,
       "assetId": 218667
     },
@@ -1041,9 +993,64 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 33500,
+      "price": 20750,
       "resourceId": 50562269,
       "assetId": 230621
+    },
+    "50563514": {
+      "name": "Rodri",
+      "cardName": "Rodri",
+      "originalVersionId": "33",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 45,
+      "versionId": "33",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        19,
+        2,
+        24,
+        28
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        14,
+        19,
+        116,
+        120,
+        121
+      ],
+      "rolesPlusPlus": [
+        14,
+        19,
+        116,
+        120,
+        121
+      ],
+      "attributes": [
+        82,
+        81,
+        91,
+        87,
+        87,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 850000,
+      "resourceId": 50563514,
+      "assetId": 231866
     },
     "50572286": {
       "name": "Tijjani Reijnders",
@@ -1097,7 +1104,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 521000,
+      "price": 320000,
       "resourceId": 50572286,
       "assetId": 240638
     },
@@ -1147,7 +1154,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 56000,
+      "price": 51500,
       "resourceId": 50578068,
       "assetId": 246420
     },
@@ -1196,7 +1203,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 37250,
+      "price": 22500,
       "resourceId": 50583165,
       "assetId": 251517
     },
@@ -1250,7 +1257,7 @@
         62
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 183750,
+      "sbcPrice": 134000,
       "resourceId": 50602057,
       "assetId": 270409
     },
@@ -1304,7 +1311,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 21250,
       "resourceId": 50608943,
       "assetId": 277295
     },
@@ -1349,7 +1356,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 410000,
+      "price": 467000,
       "resourceId": 67339485,
       "assetId": 230621
     },
@@ -1423,7 +1430,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 105250,
+      "sbcPrice": 105000,
       "resourceId": 67346556,
       "assetId": 237692
     },
@@ -1473,7 +1480,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 167000,
+      "price": 105000,
       "resourceId": 67349502,
       "assetId": 240638
     },
@@ -1523,7 +1530,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 937000,
+      "price": 602000,
       "resourceId": 84125165,
       "assetId": 239085
     }

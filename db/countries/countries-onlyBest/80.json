@@ -528,7 +528,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 350,
     "resourceId": 265853,
     "assetId": 265853
   },
@@ -569,57 +569,9 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 800,
     "resourceId": 265894,
     "assetId": 265894
-  },
-  "265898": {
-    "name": "Melchie Dumornay",
-    "cardName": "Dumornay",
-    "originalVersionId": "1",
-    "clubId": 116033,
-    "leagueId": 2218,
-    "countryId": 80,
-    "versionId": "3002",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "CAM",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      1,
-      20,
-      25,
-      8
-    ],
-    "playStylesPlus": [
-      7
-    ],
-    "rolesPlus": [
-      41,
-      143
-    ],
-    "rolesPlusPlus": [
-      41,
-      143
-    ],
-    "attributes": [
-      93,
-      85,
-      78,
-      87,
-      60,
-      71
-    ],
-    "hasDynamicImage": false,
-    "price": 6500,
-    "resourceId": 265898,
-    "assetId": 265898
   },
   "265947": {
     "name": "Batcheba Louis",
@@ -984,7 +936,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 11000,
     "resourceId": 50510011,
     "assetId": 178363
   },
@@ -1113,5 +1065,63 @@
     "price": 200,
     "resourceId": 50569088,
     "assetId": 237440
+  },
+  "50597546": {
+    "name": "Melchie Dumornay",
+    "cardName": "Dumornay",
+    "originalVersionId": "33",
+    "clubId": 116033,
+    "leagueId": 2218,
+    "countryId": 80,
+    "versionId": "33",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      20,
+      25,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      21,
+      31,
+      44,
+      132,
+      141,
+      143
+    ],
+    "rolesPlusPlus": [
+      21,
+      31,
+      44,
+      132,
+      141,
+      143
+    ],
+    "attributes": [
+      94,
+      86,
+      80,
+      88,
+      61,
+      73
+    ],
+    "hasDynamicImage": true,
+    "price": 180000,
+    "resourceId": 50597546,
+    "assetId": 265898
   }
 }

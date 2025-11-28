@@ -1,15 +1,15 @@
 {
   "clubName": "Al Ahli",
   "players": {
-    "50536133": {
+    "67313349": {
       "name": "Riyad Mahrez",
       "cardName": "Mahrez",
-      "originalVersionId": "3",
+      "originalVersionId": "33",
       "clubId": 112387,
       "leagueId": 350,
       "countryId": 97,
-      "versionId": "3",
-      "rating": 85,
+      "versionId": "33",
+      "rating": 87,
       "preferredFoot": "Left",
       "weakFoot": 4,
       "skillMoves": 5,
@@ -19,7 +19,6 @@
         "RW"
       ],
       "playStyles": [
-        0,
         13,
         20,
         22,
@@ -27,28 +26,35 @@
         6,
         8
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        0
+      ],
       "rolesPlus": [
-        26,
+        23,
         35,
-        125
+        125,
+        126,
+        136,
+        137
       ],
       "rolesPlusPlus": [
-        26,
+        23,
         35,
-        125
+        125,
+        126,
+        136,
+        137
       ],
       "attributes": [
-        81,
-        81,
-        83,
-        89,
-        40,
-        65
+        84,
+        84,
+        86,
+        91,
+        42,
+        70
       ],
-      "hasDynamicImage": false,
-      "price": 12000,
-      "resourceId": 50536133,
+      "hasDynamicImage": true,
+      "resourceId": 67313349,
       "assetId": 204485
     }
   }
