@@ -43,7 +43,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 15500,
+    "price": 15000,
     "resourceId": 5673,
     "assetId": 5673
   },
@@ -94,7 +94,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 15000,
+    "price": 13750,
     "resourceId": 15723,
     "assetId": 15723
   },
@@ -144,7 +144,7 @@
       61
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 12250,
     "resourceId": 50402374,
     "assetId": 70726
   },
@@ -189,7 +189,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10750,
     "resourceId": 50406527,
     "assetId": 74879
   },
@@ -247,7 +247,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 10750,
     "resourceId": 50513106,
     "assetId": 181458
   },
@@ -294,7 +294,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 13000,
+    "price": 12000,
     "resourceId": 50535373,
     "assetId": 203725
   },
@@ -344,7 +344,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 10750,
     "resourceId": 50555337,
     "assetId": 223689
   },
@@ -391,7 +391,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 11000,
     "resourceId": 50567311,
     "assetId": 235663
   },
@@ -414,18 +414,21 @@
     ],
     "playStyles": [
       0,
+      20,
       21,
       23,
       25
     ],
     "playStylesPlus": [],
     "rolesPlus": [
+      23,
       25,
       35,
       126,
       136
     ],
     "rolesPlusPlus": [
+      23,
       25,
       35,
       126,
@@ -440,7 +443,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 28500,
+    "price": 32750,
     "resourceId": 50571626,
     "assetId": 239978
   },
@@ -481,7 +484,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11000,
     "resourceId": 50573483,
     "assetId": 241835
   },
@@ -532,7 +535,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 29000,
+    "sbcPrice": 24950,
     "resourceId": 50577550,
     "assetId": 245902
   },
@@ -580,7 +583,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 11000,
+    "price": 10750,
     "resourceId": 50578768,
     "assetId": 247120
   },
@@ -634,6 +637,7 @@
       88
     ],
     "hasDynamicImage": true,
+    "price": 15250,
     "resourceId": 50583454,
     "assetId": 251806
   },
@@ -678,7 +682,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 14500,
     "resourceId": 50583810,
     "assetId": 252162
   },
@@ -731,7 +735,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13500,
     "resourceId": 50584757,
     "assetId": 253109
   },
@@ -782,7 +786,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 15250,
     "resourceId": 50586657,
     "assetId": 255009
   },
@@ -936,7 +940,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 19500,
+    "price": 14750,
     "resourceId": 50590026,
     "assetId": 258378
   },
@@ -960,6 +964,7 @@
     "playStyles": [
       0,
       11,
+      12,
       20,
       25,
       26
@@ -967,15 +972,15 @@
     "playStylesPlus": [],
     "rolesPlus": [
       25,
-      37,
       126,
-      136
+      136,
+      137
     ],
     "rolesPlusPlus": [
       25,
-      37,
       126,
-      136
+      136,
+      137
     ],
     "attributes": [
       90,
@@ -989,6 +994,61 @@
     "price": 0,
     "resourceId": 50590378,
     "assetId": 258730
+  },
+  "50590401": {
+    "name": "Couhaib Driouech",
+    "cardName": "Driouech",
+    "originalVersionId": "8",
+    "clubId": 247,
+    "leagueId": 10,
+    "countryId": 129,
+    "versionId": "8",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      12,
+      2,
+      20,
+      21,
+      26
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      27,
+      29,
+      30,
+      138,
+      139,
+      140
+    ],
+    "rolesPlusPlus": [
+      27,
+      29,
+      30,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      94,
+      84,
+      78,
+      86,
+      40,
+      79
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50590401,
+    "assetId": 258753
   },
   "50591128": {
     "name": "Ismael Saibari",
@@ -1034,7 +1094,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 11750,
     "resourceId": 50591128,
     "assetId": 259480
   },
@@ -1084,7 +1144,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 11500,
     "resourceId": 50591569,
     "assetId": 259921
   },
@@ -1134,7 +1194,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10750,
     "resourceId": 50602766,
     "assetId": 271118
   }

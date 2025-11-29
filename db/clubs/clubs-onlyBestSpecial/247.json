@@ -55,7 +55,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 10750,
       "resourceId": 50513106,
       "assetId": 181458
     },
@@ -102,7 +102,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 11250,
+      "price": 11000,
       "resourceId": 50567311,
       "assetId": 235663
     },
@@ -125,18 +125,21 @@
       ],
       "playStyles": [
         0,
+        20,
         21,
         23,
         25
       ],
       "playStylesPlus": [],
       "rolesPlus": [
+        23,
         25,
         35,
         126,
         136
       ],
       "rolesPlusPlus": [
+        23,
         25,
         35,
         126,
@@ -151,7 +154,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 28500,
+      "price": 32750,
       "resourceId": 50571626,
       "assetId": 239978
     },
@@ -204,9 +207,64 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 50584757,
       "assetId": 253109
+    },
+    "50590401": {
+      "name": "Couhaib Driouech",
+      "cardName": "Driouech",
+      "originalVersionId": "8",
+      "clubId": 247,
+      "leagueId": 10,
+      "countryId": 129,
+      "versionId": "8",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        2,
+        20,
+        21,
+        26
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        27,
+        29,
+        30,
+        138,
+        139,
+        140
+      ],
+      "rolesPlusPlus": [
+        27,
+        29,
+        30,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        94,
+        84,
+        78,
+        86,
+        40,
+        79
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50590401,
+      "assetId": 258753
     },
     "50591128": {
       "name": "Ismael Saibari",
@@ -252,7 +310,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 11750,
       "resourceId": 50591128,
       "assetId": 259480
     }

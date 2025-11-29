@@ -88,7 +88,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 550,
       "resourceId": 224241,
       "assetId": 224241
     },
@@ -139,7 +139,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 235149,
       "assetId": 235149
     },
@@ -180,7 +180,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 6800,
       "resourceId": 241171,
       "assetId": 241171
     },
@@ -226,7 +226,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 241509,
       "assetId": 241509
     },
@@ -303,7 +303,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 251223,
       "assetId": 251223
     },
@@ -349,52 +349,9 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 251804,
       "assetId": 251804
-    },
-    "258753": {
-      "name": "Couhaib Driouech",
-      "cardName": "Driouech",
-      "originalVersionId": "1",
-      "clubId": 247,
-      "leagueId": 10,
-      "countryId": 129,
-      "versionId": "3001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        12,
-        21
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        38,
-        39
-      ],
-      "rolesPlusPlus": [
-        38,
-        39
-      ],
-      "attributes": [
-        92,
-        61,
-        58,
-        73,
-        26,
-        63
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 258753,
-      "assetId": 258753
     },
     "260930": {
       "name": "Kiliann Sildillia",
@@ -480,7 +437,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 261422,
       "assetId": 261422
     },
@@ -527,7 +484,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 266237,
       "assetId": 266237
     },
@@ -739,7 +696,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 350,
       "resourceId": 275592,
       "assetId": 275592
     },
@@ -881,7 +838,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 10750,
       "resourceId": 50513106,
       "assetId": 181458
     },
@@ -928,7 +885,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 11250,
+      "price": 11000,
       "resourceId": 50567311,
       "assetId": 235663
     },
@@ -988,18 +945,21 @@
       ],
       "playStyles": [
         0,
+        20,
         21,
         23,
         25
       ],
       "playStylesPlus": [],
       "rolesPlus": [
+        23,
         25,
         35,
         126,
         136
       ],
       "rolesPlusPlus": [
+        23,
         25,
         35,
         126,
@@ -1014,7 +974,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 28500,
+      "price": 32750,
       "resourceId": 50571626,
       "assetId": 239978
     },
@@ -1055,7 +1015,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 550,
       "resourceId": 50572819,
       "assetId": 241171
     },
@@ -1108,9 +1068,64 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 50584757,
       "assetId": 253109
+    },
+    "50590401": {
+      "name": "Couhaib Driouech",
+      "cardName": "Driouech",
+      "originalVersionId": "8",
+      "clubId": 247,
+      "leagueId": 10,
+      "countryId": 129,
+      "versionId": "8",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        2,
+        20,
+        21,
+        26
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        27,
+        29,
+        30,
+        138,
+        139,
+        140
+      ],
+      "rolesPlusPlus": [
+        27,
+        29,
+        30,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        94,
+        84,
+        78,
+        86,
+        40,
+        79
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50590401,
+      "assetId": 258753
     },
     "50591128": {
       "name": "Ismael Saibari",
@@ -1156,7 +1171,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 11750,
       "resourceId": 50591128,
       "assetId": 259480
     },
