@@ -42,7 +42,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 800,
       "resourceId": 200888,
       "assetId": 200888
     },
@@ -128,53 +128,6 @@
       "price": 200,
       "resourceId": 211173,
       "assetId": 211173
-    },
-    "215914": {
-      "name": "N'Golo Kanté",
-      "cardName": "Kanté",
-      "originalVersionId": "1",
-      "clubId": 607,
-      "leagueId": 350,
-      "countryId": 18,
-      "versionId": "3002",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        24,
-        26
-      ],
-      "playStylesPlus": [
-        16
-      ],
-      "rolesPlus": [
-        14,
-        21,
-        149
-      ],
-      "rolesPlusPlus": [
-        14,
-        21,
-        149
-      ],
-      "attributes": [
-        77,
-        65,
-        73,
-        80,
-        85,
-        79
-      ],
-      "hasDynamicImage": false,
-      "price": 2300,
-      "resourceId": 215914,
-      "assetId": 215914
     },
     "221658": {
       "name": "Ahmed Sharahili",
@@ -396,7 +349,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 234906,
       "assetId": 234906
     },
@@ -530,7 +483,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 241852,
       "assetId": 241852
     },
@@ -572,7 +525,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 200,
       "resourceId": 241963,
       "assetId": 241963
     },
@@ -702,7 +655,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 200,
       "resourceId": 259358,
       "assetId": 259358
     },
@@ -940,7 +893,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 250,
       "resourceId": 272830,
       "assetId": 272830
     },
@@ -978,7 +931,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 200,
       "resourceId": 275128,
       "assetId": 275128
     },
@@ -1020,7 +973,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 850,
       "resourceId": 277235,
       "assetId": 277235
     },
@@ -1266,7 +1219,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 50595476,
       "assetId": 263828
     },
@@ -1355,6 +1308,59 @@
       "price": 200,
       "resourceId": 50608670,
       "assetId": 277022
+    },
+    "67324778": {
+      "name": "N'Golo Kanté",
+      "cardName": "Kanté",
+      "originalVersionId": "33",
+      "clubId": 607,
+      "leagueId": 350,
+      "countryId": 18,
+      "versionId": "33",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        14,
+        24,
+        26,
+        28,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        14,
+        19,
+        121,
+        149
+      ],
+      "rolesPlusPlus": [
+        14,
+        19,
+        121,
+        149
+      ],
+      "attributes": [
+        82,
+        70,
+        80,
+        85,
+        90,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 600000,
+      "resourceId": 67324778,
+      "assetId": 215914
     }
   }
 }

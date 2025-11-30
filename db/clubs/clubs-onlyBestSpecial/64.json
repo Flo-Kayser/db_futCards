@@ -1,6 +1,59 @@
 {
   "clubName": "RC Lens",
   "players": {
+    "50540435": {
+      "name": "Adrien Thomasson",
+      "cardName": "Thomasson",
+      "originalVersionId": "33",
+      "clubId": 64,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "33",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        20,
+        21,
+        22,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        21,
+        31,
+        120,
+        134
+      ],
+      "rolesPlusPlus": [
+        21,
+        31,
+        120,
+        134
+      ],
+      "attributes": [
+        75,
+        82,
+        84,
+        85,
+        73,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50540435,
+      "assetId": 208787
+    },
     "50544261": {
       "name": "Wesley Saïd",
       "cardName": "Saïd",
@@ -42,7 +95,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 11500,
       "resourceId": 50544261,
       "assetId": 212613
     },
@@ -89,7 +142,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 16100,
+      "sbcPrice": 16200,
       "resourceId": 67313834,
       "assetId": 204970
     }

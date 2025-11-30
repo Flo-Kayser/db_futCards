@@ -80,7 +80,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 850,
       "resourceId": 186345,
       "assetId": 186345
     },
@@ -117,7 +117,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 198039,
       "assetId": 198039
     },
@@ -196,7 +196,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 206085,
       "assetId": 206085
     },
@@ -287,7 +287,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 210047,
       "assetId": 210047
     },
@@ -372,7 +372,7 @@
         90
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 223334,
       "assetId": 223334
     },
@@ -457,7 +457,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 233934,
       "assetId": 233934
     },
@@ -497,7 +497,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 237329,
       "assetId": 237329
     },
@@ -537,7 +537,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 246923,
       "assetId": 246923
     },
@@ -578,7 +578,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 251809,
       "assetId": 251809
     },
@@ -621,7 +621,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 350,
       "resourceId": 256261,
       "assetId": 256261
     },
@@ -666,7 +666,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 257470,
       "assetId": 257470
     },
@@ -750,7 +750,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 1500,
       "resourceId": 262118,
       "assetId": 262118
     },
@@ -875,7 +875,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 270617,
       "assetId": 270617
     },
@@ -912,7 +912,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 274246,
       "assetId": 274246
     },
@@ -961,7 +961,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 360000,
+      "price": 395000,
       "resourceId": 50529680,
       "assetId": 198032
     },
@@ -1006,7 +1006,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 46700,
+      "sbcPrice": 45500,
       "resourceId": 50535489,
       "assetId": 203841
     },
@@ -1052,7 +1052,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 10750,
       "resourceId": 50566390,
       "assetId": 234742
     },
@@ -1148,7 +1148,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 579000,
+      "price": 550000,
       "resourceId": 50572744,
       "assetId": 241096
     },
@@ -1202,7 +1202,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 240000,
+      "price": 250000,
       "resourceId": 50574612,
       "assetId": 242964
     },
@@ -1250,21 +1250,21 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 11500,
       "resourceId": 50579499,
       "assetId": 247851
     },
-    "50585670": {
+    "67362886": {
       "name": "Nick Woltemade",
       "cardName": "Woltemade",
-      "originalVersionId": "1",
+      "originalVersionId": "33",
       "clubId": 13,
       "leagueId": 13,
       "countryId": 21,
-      "versionId": "3002",
-      "rating": 79,
+      "versionId": "33",
+      "rating": 87,
       "preferredFoot": "Right",
-      "weakFoot": 3,
+      "weakFoot": 4,
       "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
@@ -1272,31 +1272,40 @@
         "ST"
       ],
       "playStyles": [
-        20,
-        7
+        0,
+        1,
+        11,
+        25,
+        4,
+        7,
+        9
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        20
+      ],
       "rolesPlus": [
-        32,
+        31,
         43,
-        44
+        132,
+        144
       ],
       "rolesPlusPlus": [
-        32,
+        31,
         43,
-        44
+        132,
+        144
       ],
       "attributes": [
-        67,
-        78,
-        65,
-        79,
-        41,
-        74
+        83,
+        87,
+        80,
+        86,
+        48,
+        85
       ],
-      "hasDynamicImage": false,
-      "price": 800,
-      "resourceId": 50585670,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67362886,
       "assetId": 254022
     }
   }

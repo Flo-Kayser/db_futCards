@@ -319,7 +319,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 2500,
       "resourceId": 245830,
       "assetId": 245830
     },
@@ -403,7 +403,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 850,
       "resourceId": 247791,
       "assetId": 247791
     },
@@ -449,7 +449,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 650,
       "resourceId": 248799,
       "assetId": 248799
     },
@@ -496,7 +496,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 6300,
+      "price": 7500,
       "resourceId": 257008,
       "assetId": 257008
     },
@@ -540,7 +540,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 264875,
       "assetId": 264875
     },
@@ -711,7 +711,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 450,
       "resourceId": 265341,
       "assetId": 265341
     },
@@ -827,7 +827,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 400,
       "resourceId": 266568,
       "assetId": 266568
     },
@@ -1038,43 +1038,6 @@
       "resourceId": 276350,
       "assetId": 276350
     },
-    "279532": {
-      "name": "Jade Rose",
-      "cardName": "Rose",
-      "originalVersionId": "1",
-      "clubId": 116017,
-      "leagueId": 2216,
-      "countryId": 70,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11
-      ],
-      "rolesPlusPlus": [
-        11
-      ],
-      "attributes": [
-        74,
-        23,
-        46,
-        60,
-        73,
-        72
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 279532,
-      "assetId": 279532
-    },
     "50558902": {
       "name": "Alex Greenwood",
       "cardName": "Greenwood",
@@ -1179,7 +1142,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 46250,
+      "sbcPrice": 46650,
       "price": 0,
       "resourceId": 50565394,
       "assetId": 233746
@@ -1231,7 +1194,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 57500,
+      "price": 53500,
       "resourceId": 50577867,
       "assetId": 246219
     },
@@ -1279,9 +1242,56 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 50596981,
       "assetId": 265333
+    },
+    "50611180": {
+      "name": "Jade Rose",
+      "cardName": "Rose",
+      "originalVersionId": "33",
+      "clubId": 116017,
+      "leagueId": 2216,
+      "countryId": 70,
+      "versionId": "33",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        15,
+        25,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13,
+        111
+      ],
+      "rolesPlusPlus": [
+        12,
+        13,
+        111
+      ],
+      "attributes": [
+        86,
+        35,
+        70,
+        72,
+        84,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50611180,
+      "assetId": 279532
     },
     "67355083": {
       "name": "Khadija Shaw",
@@ -1322,7 +1332,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 26250,
+      "price": 28500,
       "resourceId": 67355083,
       "assetId": 246219
     }
