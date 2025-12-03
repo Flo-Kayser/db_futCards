@@ -43,7 +43,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 14500,
+    "price": 16750,
     "resourceId": 5673,
     "assetId": 5673
   },
@@ -123,7 +123,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 300,
     "resourceId": 70958,
     "assetId": 70958
   },
@@ -160,7 +160,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 4700,
     "resourceId": 71943,
     "assetId": 71943
   },
@@ -1042,48 +1042,6 @@
     "price": 200,
     "resourceId": 213763,
     "assetId": 213763
-  },
-  "220165": {
-    "name": "Joel Pohjanpalo",
-    "cardName": "Pohjanpalo",
-    "originalVersionId": "1",
-    "clubId": 1843,
-    "leagueId": 32,
-    "countryId": 17,
-    "versionId": "3001",
-    "rating": 74,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      19,
-      24,
-      29,
-      4
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      41
-    ],
-    "rolesPlusPlus": [
-      41
-    ],
-    "attributes": [
-      68,
-      76,
-      63,
-      70,
-      36,
-      76
-    ],
-    "hasDynamicImage": false,
-    "price": 350,
-    "resourceId": 220165,
-    "assetId": 220165
   },
   "221486": {
     "name": "Daniel O'Shaughnessy",
@@ -3253,9 +3211,53 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 20750,
     "resourceId": 50522589,
     "assetId": 190941
+  },
+  "50551813": {
+    "name": "Joel Pohjanpalo",
+    "cardName": "Pohjanpalo",
+    "originalVersionId": "3",
+    "clubId": 1843,
+    "leagueId": 32,
+    "countryId": 17,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      19,
+      24,
+      29,
+      4,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      41,
+      144
+    ],
+    "rolesPlusPlus": [
+      41,
+      144
+    ],
+    "attributes": [
+      81,
+      86,
+      77,
+      82,
+      45,
+      85
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50551813,
+    "assetId": 220165
   },
   "50573171": {
     "name": "Marcus Forss",
@@ -3344,7 +3346,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11500,
     "resourceId": 50594991,
     "assetId": 263343
   }

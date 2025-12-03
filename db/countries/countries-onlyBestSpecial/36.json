@@ -37,7 +37,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 16750,
+    "price": 19750,
     "resourceId": 1845,
     "assetId": 1845
   },
@@ -87,7 +87,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 36250,
+    "price": 36500,
     "resourceId": 274967,
     "assetId": 274967
   },
@@ -136,9 +136,58 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 13250,
+    "price": 14250,
     "resourceId": 50517070,
     "assetId": 185422
+  },
+  "50536862": {
+    "name": "Zlatko Tripić",
+    "cardName": "Tripić",
+    "originalVersionId": "3",
+    "clubId": 300,
+    "leagueId": 41,
+    "countryId": 36,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      10,
+      12,
+      2,
+      21,
+      3
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      37,
+      40,
+      136
+    ],
+    "rolesPlusPlus": [
+      37,
+      40,
+      136
+    ],
+    "attributes": [
+      91,
+      83,
+      81,
+      83,
+      64,
+      89
+    ],
+    "hasDynamicImage": true,
+    "price": 22500,
+    "resourceId": 50536862,
+    "assetId": 205214
   },
   "50548197": {
     "name": "Alexander Sørloth",
@@ -241,7 +290,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 186000,
+    "price": 190000,
     "resourceId": 50554313,
     "assetId": 222665
   },
@@ -296,58 +345,9 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 1629000,
+    "price": 1750000,
     "resourceId": 50558750,
     "assetId": 227102
-  },
-  "50558958": {
-    "name": "Ada Hegerberg",
-    "cardName": "Hegerberg",
-    "originalVersionId": "28",
-    "clubId": 116033,
-    "leagueId": 2218,
-    "countryId": 36,
-    "versionId": "28",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      2,
-      20,
-      22,
-      29,
-      6
-    ],
-    "playStylesPlus": [
-      4
-    ],
-    "rolesPlus": [
-      41,
-      44,
-      142
-    ],
-    "rolesPlusPlus": [
-      41,
-      44,
-      142
-    ],
-    "attributes": [
-      83,
-      88,
-      76,
-      88,
-      39,
-      81
-    ],
-    "hasDynamicImage": true,
-    "price": 12500,
-    "resourceId": 50558958,
-    "assetId": 227310
   },
   "50558971": {
     "name": "Guro Reiten",
@@ -405,7 +405,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 133000,
+    "sbcPrice": 139000,
     "resourceId": 50558971,
     "assetId": 227323
   },
@@ -455,7 +455,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 13800,
+    "sbcPrice": 14800,
     "resourceId": 50559017,
     "assetId": 227369
   },
@@ -499,7 +499,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 13000,
+    "price": 13250,
     "resourceId": 50577939,
     "assetId": 246291
   },
@@ -545,7 +545,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 16750,
     "resourceId": 50597902,
     "assetId": 266254
   },
@@ -599,9 +599,56 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 25500,
     "resourceId": 50608943,
     "assetId": 277295
+  },
+  "67336174": {
+    "name": "Ada Hegerberg",
+    "cardName": "Hegerberg",
+    "originalVersionId": "3",
+    "clubId": 116033,
+    "leagueId": 2218,
+    "countryId": 36,
+    "versionId": "3",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      20,
+      22,
+      24,
+      4
+    ],
+    "playStylesPlus": [
+      29
+    ],
+    "rolesPlus": [
+      44,
+      142
+    ],
+    "rolesPlusPlus": [
+      44,
+      142
+    ],
+    "attributes": [
+      83,
+      88,
+      77,
+      89,
+      40,
+      82
+    ],
+    "hasDynamicImage": false,
+    "price": 24000,
+    "resourceId": 67336174,
+    "assetId": 227310
   },
   "84125165": {
     "name": "Erling Haaland",
@@ -649,7 +696,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 558000,
+    "price": 589000,
     "resourceId": 84125165,
     "assetId": 239085
   },
@@ -698,7 +745,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 12750,
     "resourceId": 84148943,
     "assetId": 262863
   }

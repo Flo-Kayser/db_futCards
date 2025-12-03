@@ -453,7 +453,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 4200,
       "resourceId": 251438,
       "assetId": 251438
     },
@@ -911,46 +911,50 @@
       "resourceId": 273750,
       "assetId": 273750
     },
-    "273840": {
+    "50605488": {
       "name": "Beni",
       "cardName": "Beni",
-      "originalVersionId": "0",
+      "originalVersionId": "3",
       "clubId": 1887,
       "leagueId": 308,
       "countryId": 98,
-      "versionId": "2001",
-      "rating": 68,
+      "versionId": "3",
+      "rating": 83,
       "preferredFoot": "Right",
       "weakFoot": 3,
-      "skillMoves": 2,
+      "skillMoves": 3,
       "preferredPosition": "CM",
       "possiblePositions": [
         "CDM",
         "CM"
       ],
       "playStyles": [
-        24
+        10,
+        16,
+        24,
+        26,
+        28
       ],
       "playStylesPlus": [],
       "rolesPlus": [
         15,
-        19
+        119
       ],
       "rolesPlusPlus": [
         15,
-        19
+        119
       ],
       "attributes": [
-        67,
-        58,
-        63,
-        67,
-        65,
-        64
+        82,
+        74,
+        78,
+        83,
+        83,
+        83
       ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 273840,
+      "hasDynamicImage": true,
+      "price": 15500,
+      "resourceId": 50605488,
       "assetId": 273840
     }
   }

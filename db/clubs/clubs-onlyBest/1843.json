@@ -290,48 +290,6 @@
       "resourceId": 219956,
       "assetId": 219956
     },
-    "220165": {
-      "name": "Joel Pohjanpalo",
-      "cardName": "Pohjanpalo",
-      "originalVersionId": "1",
-      "clubId": 1843,
-      "leagueId": 32,
-      "countryId": 17,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        19,
-        24,
-        29,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "rolesPlusPlus": [
-        41
-      ],
-      "attributes": [
-        68,
-        76,
-        63,
-        70,
-        36,
-        76
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 220165,
-      "assetId": 220165
-    },
     "220491": {
       "name": "Emmanuel Gyasi",
       "cardName": "Gyasi",
@@ -545,7 +503,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 350,
       "resourceId": 240100,
       "assetId": 240100
     },
@@ -765,7 +723,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 3100,
       "resourceId": 245035,
       "assetId": 245035
     },
@@ -856,7 +814,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 9900,
       "resourceId": 257111,
       "assetId": 257111
     },
@@ -1027,6 +985,50 @@
       "resourceId": 276451,
       "assetId": 276451
     },
+    "50551813": {
+      "name": "Joel Pohjanpalo",
+      "cardName": "Pohjanpalo",
+      "originalVersionId": "3",
+      "clubId": 1843,
+      "leagueId": 32,
+      "countryId": 17,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        19,
+        24,
+        29,
+        4,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        144
+      ],
+      "rolesPlusPlus": [
+        41,
+        144
+      ],
+      "attributes": [
+        81,
+        86,
+        77,
+        82,
+        45,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50551813,
+      "assetId": 220165
+    },
     "50602574": {
       "name": "Niccolò Pierozzi",
       "cardName": "Pierozzi",
@@ -1067,7 +1069,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 11750,
       "resourceId": 50602574,
       "assetId": 270926
     }
