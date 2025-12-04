@@ -22,13 +22,13 @@
       24
     ],
     "rolesPlus": [
-      41,
+      141,
       142,
       143,
       144
     ],
     "rolesPlusPlus": [
-      41,
+      141,
       142,
       143,
       144
@@ -39,10 +39,10 @@
       78,
       88,
       70,
-      81
+      99
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 14000,
     "resourceId": 50523342,
     "assetId": 191694,
     "name": "Jorge Campos",
@@ -89,7 +89,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 19000,
+    "price": 20000,
     "resourceId": 39386,
     "assetId": 39386,
     "name": "DaMarcus Beasley",
@@ -146,46 +146,6 @@
   {
     "clubId": 114605,
     "leagueId": 39,
-    "countryId": 83,
-    "versionId": "72",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "GK",
-    "possiblePositions": [
-      "GK"
-    ],
-    "playStyles": [
-      34
-    ],
-    "playStylesPlus": [
-      32
-    ],
-    "rolesPlus": [
-      145
-    ],
-    "rolesPlusPlus": [
-      145
-    ],
-    "attributes": [
-      93,
-      83,
-      81,
-      90,
-      84,
-      80
-    ],
-    "hasDynamicImage": false,
-    "price": 30250,
-    "resourceId": 191694,
-    "assetId": 191694,
-    "name": "Jorge Campos",
-    "cardName": "Campos"
-  },
-  {
-    "clubId": 114605,
-    "leagueId": 39,
     "countryId": 95,
     "versionId": "72",
     "rating": 85,
@@ -222,10 +182,50 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 13000,
     "resourceId": 155897,
     "assetId": 155897,
     "name": "Clint Dempsey",
     "cardName": "Dempsey"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 39,
+    "countryId": 83,
+    "versionId": "72",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      34
+    ],
+    "playStylesPlus": [
+      32
+    ],
+    "rolesPlus": [
+      145
+    ],
+    "rolesPlusPlus": [
+      145
+    ],
+    "attributes": [
+      93,
+      83,
+      81,
+      90,
+      84,
+      80
+    ],
+    "hasDynamicImage": false,
+    "price": 32500,
+    "resourceId": 191694,
+    "assetId": 191694,
+    "name": "Jorge Campos",
+    "cardName": "Campos"
   }
 ]
