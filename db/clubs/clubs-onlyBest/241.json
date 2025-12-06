@@ -40,7 +40,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 74462,
       "assetId": 74462
     },
@@ -78,7 +78,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 74463,
       "assetId": 74463
     },
@@ -163,7 +163,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 13250,
+      "price": 13000,
       "resourceId": 188545,
       "assetId": 188545
     },
@@ -204,7 +204,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 4800,
       "resourceId": 192448,
       "assetId": 192448
     },
@@ -296,54 +296,6 @@
       "price": 400,
       "resourceId": 213661,
       "assetId": 213661
-    },
-    "228702": {
-      "name": "Frenkie de Jong",
-      "cardName": "de Jong",
-      "originalVersionId": "1",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 34,
-      "versionId": "3002",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        13,
-        24,
-        8
-      ],
-      "playStylesPlus": [
-        11
-      ],
-      "rolesPlus": [
-        16,
-        22,
-        120
-      ],
-      "rolesPlusPlus": [
-        16,
-        22,
-        120
-      ],
-      "attributes": [
-        82,
-        71,
-        85,
-        87,
-        78,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 17500,
-      "resourceId": 228702,
-      "assetId": 228702
     },
     "244260": {
       "name": "Dani Olmo",
@@ -441,7 +393,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 245037,
       "assetId": 245037
     },
@@ -529,7 +481,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 23500,
+      "price": 21500,
       "resourceId": 251854,
       "assetId": 251854
     },
@@ -580,7 +532,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 253163,
       "assetId": 253163
     },
@@ -619,7 +571,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 259532,
       "assetId": 259532
     },
@@ -668,7 +620,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 264240,
       "assetId": 264240
     },
@@ -710,7 +662,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 265600,
       "assetId": 265600
     },
@@ -756,57 +708,6 @@
       "price": 400,
       "resourceId": 272600,
       "assetId": 272600
-    },
-    "277643": {
-      "name": "Lamine Yamal",
-      "cardName": "Lamine Yamal",
-      "originalVersionId": "1",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "3002",
-      "rating": 89,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 5,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        13,
-        22,
-        25,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        20
-      ],
-      "rolesPlus": [
-        25,
-        126,
-        135
-      ],
-      "rolesPlusPlus": [
-        25,
-        126,
-        135
-      ],
-      "attributes": [
-        85,
-        81,
-        86,
-        90,
-        23,
-        53
-      ],
-      "hasDynamicImage": false,
-      "price": 68000,
-      "resourceId": 277643,
-      "assetId": 277643
     },
     "278923": {
       "name": "Héctor Fort",
@@ -897,9 +798,65 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 263000,
+      "price": 240000,
       "resourceId": 50520193,
       "assetId": 188545
+    },
+    "50560350": {
+      "name": "Frenkie de Jong",
+      "cardName": "de Jong",
+      "originalVersionId": "96",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 34,
+      "versionId": "96",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        13,
+        17,
+        20,
+        24,
+        9
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        18,
+        22,
+        116,
+        120,
+        121
+      ],
+      "rolesPlusPlus": [
+        18,
+        22,
+        116,
+        120,
+        121
+      ],
+      "attributes": [
+        84,
+        73,
+        87,
+        89,
+        85,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 1480000,
+      "resourceId": 50560350,
+      "assetId": 228702
     },
     "50563325": {
       "name": "Marcus Rashford",
@@ -955,7 +912,7 @@
         99
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 199250,
+      "sbcPrice": 189750,
       "resourceId": 50563325,
       "assetId": 231677
     },
@@ -979,6 +936,7 @@
       "playStyles": [
         0,
         2,
+        20,
         21,
         23,
         26
@@ -1009,7 +967,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 634000,
+      "price": 640000,
       "resourceId": 50565067,
       "assetId": 233419
     },
@@ -1063,7 +1021,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 12750,
       "resourceId": 50573109,
       "assetId": 241461
     },
@@ -1118,7 +1076,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 566000,
+      "sbcPrice": 536250,
       "resourceId": 50573134,
       "assetId": 241486
     },
@@ -1168,7 +1126,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 344000,
+      "price": 341000,
       "resourceId": 50595226,
       "assetId": 263578
     },
@@ -1218,64 +1176,9 @@
         61
       ],
       "hasDynamicImage": true,
-      "price": 49500,
+      "price": 51000,
       "resourceId": 50608827,
       "assetId": 277179
-    },
-    "50609291": {
-      "name": "Lamine Yamal",
-      "cardName": "Lamine Yamal",
-      "originalVersionId": "50",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "50",
-      "rating": 89,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 5,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        13,
-        20,
-        22,
-        25,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        0
-      ],
-      "rolesPlus": [
-        23,
-        25,
-        36,
-        126,
-        135
-      ],
-      "rolesPlusPlus": [
-        23,
-        25,
-        36,
-        126,
-        135
-      ],
-      "attributes": [
-        88,
-        85,
-        86,
-        92,
-        23,
-        53
-      ],
-      "hasDynamicImage": true,
-      "price": 1210000,
-      "resourceId": 50609291,
-      "assetId": 277643
     },
     "50609694": {
       "name": "Pau Cubarsí",
@@ -1321,7 +1224,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 95000,
+      "price": 100000,
       "resourceId": 50609694,
       "assetId": 278046
     },
@@ -1377,9 +1280,64 @@
         71
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 199250,
+      "sbcPrice": 189750,
       "resourceId": 67340541,
       "assetId": 231677
+    },
+    "67386507": {
+      "name": "Lamine Yamal",
+      "cardName": "Lamine Yamal",
+      "originalVersionId": "86",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "86",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        13,
+        22,
+        23,
+        25,
+        8
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        25,
+        36,
+        37,
+        126,
+        135
+      ],
+      "rolesPlusPlus": [
+        25,
+        36,
+        37,
+        126,
+        135
+      ],
+      "attributes": [
+        86,
+        82,
+        87,
+        91,
+        24,
+        54
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 369500,
+      "resourceId": 67386507,
+      "assetId": 277643
     }
   }
 }

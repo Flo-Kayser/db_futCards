@@ -1,6 +1,65 @@
 {
   "clubName": "Real Betis",
   "players": {
+    "50529429": {
+      "name": "Isco",
+      "cardName": "Isco",
+      "originalVersionId": "96",
+      "clubId": 449,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "96",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [
+        0,
+        13,
+        20,
+        24,
+        3,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        9
+      ],
+      "rolesPlus": [
+        22,
+        30,
+        33,
+        121,
+        131,
+        134
+      ],
+      "rolesPlusPlus": [
+        22,
+        30,
+        33,
+        121,
+        131,
+        134
+      ],
+      "attributes": [
+        82,
+        84,
+        87,
+        87,
+        61,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 14500,
+      "resourceId": 50529429,
+      "assetId": 197781
+    },
     "50530599": {
       "name": "Cédric Bakambu",
       "cardName": "Bakambu",
@@ -44,7 +103,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 12500,
       "resourceId": 50530599,
       "assetId": 198951
     },
@@ -122,7 +181,7 @@
         99
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 16000,
       "resourceId": 50558104,
       "assetId": 226456
     },
@@ -183,6 +242,7 @@
         65,
         70
       ],
+      "isObjective": true,
       "hasDynamicImage": true,
       "price": 0,
       "resourceId": 50583972,
@@ -290,7 +350,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 10750,
       "resourceId": 67335320,
       "assetId": 226456
     },
@@ -342,7 +402,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 64500,
+      "price": 57500,
       "resourceId": 67364339,
       "assetId": 255475
     },
@@ -388,7 +448,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 13000,
       "resourceId": 84141555,
       "assetId": 255475
     }

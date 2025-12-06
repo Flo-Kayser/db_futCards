@@ -287,7 +287,7 @@
       }
     },
     "86": {
-      "count": 2,
+      "count": 3,
       "file": "db/versions/86.json",
       "details": {
         "name": "POTM LALIGA EA SPORTS",
@@ -336,6 +336,32 @@
         "primaryColor": "#fef7b9",
         "secondaryColor": "#18cf12",
         "tertiaryColor": "#fef7b9"
+      }
+    },
+    "96": {
+      "count": 33,
+      "file": "db/versions/96.json",
+      "details": {
+        "name": "Joga Bonito",
+        "hasStrip": true,
+        "createdAt": "2025-12-04T05:30:00.394Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_96_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#09a157",
+        "tertiaryColor": "#5bffaf"
+      }
+    },
+    "97": {
+      "count": 12,
+      "file": "db/versions/97.json",
+      "details": {
+        "name": "Joga Bonito Hero",
+        "hasStrip": true,
+        "createdAt": "2025-12-04T05:30:00.394Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_97_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#09a157",
+        "tertiaryColor": "#5bffaf"
       }
     },
     "105": {
@@ -443,7 +469,7 @@
       }
     },
     "2000": {
-      "count": 4612,
+      "count": 4619,
       "file": "db/versions/2000.json",
       "details": {
         "name": "Bronze Common",
@@ -456,7 +482,7 @@
       }
     },
     "2001": {
-      "count": 6367,
+      "count": 6373,
       "file": "db/versions/2001.json",
       "details": {
         "name": "Silver Common",
@@ -469,7 +495,7 @@
       }
     },
     "2002": {
-      "count": 1640,
+      "count": 1641,
       "file": "db/versions/2002.json",
       "details": {
         "name": "Gold Common",
@@ -482,7 +508,7 @@
       }
     },
     "3000": {
-      "count": 2387,
+      "count": 2391,
       "file": "db/versions/3000.json",
       "details": {
         "name": "Bronze Rare",
@@ -495,7 +521,7 @@
       }
     },
     "3001": {
-      "count": 3203,
+      "count": 3205,
       "file": "db/versions/3001.json",
       "details": {
         "name": "Silver Rare",
@@ -522,8 +548,8 @@
     }
   },
   "meta": {
-    "totalVersions": 40,
-    "totalVersionsWithoutBase": 34,
-    "updatedAt": "2025-12-05T18:42:58.646Z"
+    "totalVersions": 42,
+    "totalVersionsWithoutBase": 36,
+    "updatedAt": "2025-12-06T18:48:42.046Z"
   }
 }

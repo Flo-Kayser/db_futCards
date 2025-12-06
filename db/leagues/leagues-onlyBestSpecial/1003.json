@@ -1,4 +1,57 @@
 {
+  "50584583": {
+    "name": "Leonardo Fernández",
+    "cardName": "Fernández",
+    "originalVersionId": "96",
+    "clubId": 101110,
+    "leagueId": 1003,
+    "countryId": 60,
+    "versionId": "96",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      10,
+      11,
+      2,
+      20,
+      3,
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      31,
+      42,
+      132,
+      134,
+      143
+    ],
+    "rolesPlusPlus": [
+      31,
+      42,
+      132,
+      134,
+      143
+    ],
+    "attributes": [
+      85,
+      89,
+      85,
+      84,
+      51,
+      71
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50584583,
+    "assetId": 252935
+  },
   "50591482": {
     "name": "Gabriel Villamíl",
     "cardName": "Villamíl",
@@ -39,7 +92,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 22000,
     "resourceId": 50591482,
     "assetId": 259834
   },
@@ -80,8 +133,64 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 21000,
     "resourceId": 50591552,
     "assetId": 259904
+  },
+  "50611434": {
+    "name": "Marino Hinestroza",
+    "cardName": "Hinestroza",
+    "originalVersionId": "96",
+    "clubId": 101100,
+    "leagueId": 1003,
+    "countryId": 56,
+    "versionId": "96",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 5,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      20,
+      23,
+      25,
+      6,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      26,
+      31,
+      36,
+      123,
+      133,
+      135
+    ],
+    "rolesPlusPlus": [
+      26,
+      31,
+      36,
+      123,
+      133,
+      135
+    ],
+    "attributes": [
+      89,
+      84,
+      82,
+      88,
+      42,
+      60
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50611434,
+    "assetId": 279786
   }
 }

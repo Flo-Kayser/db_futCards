@@ -3,11 +3,11 @@
     "clubId": 114605,
     "leagueId": 13,
     "countryId": 14,
-    "versionId": "72",
-    "rating": 87,
+    "versionId": "97",
+    "rating": 88,
     "preferredFoot": "Right",
     "weakFoot": 4,
-    "skillMoves": 4,
+    "skillMoves": 5,
     "preferredPosition": "RW",
     "possiblePositions": [
       "CAM",
@@ -16,7 +16,9 @@
     ],
     "playStyles": [
       13,
+      21,
       22,
+      23,
       7,
       8
     ],
@@ -25,25 +27,31 @@
     ],
     "rolesPlus": [
       33,
-      137,
-      140
+      37,
+      40,
+      132,
+      135,
+      138
     ],
     "rolesPlusPlus": [
       33,
-      137,
-      140
+      37,
+      40,
+      132,
+      135,
+      138
     ],
     "attributes": [
-      88,
-      84,
+      89,
       86,
-      90,
-      51,
-      72
+      87,
+      91,
+      53,
+      74
     ],
-    "hasDynamicImage": false,
-    "price": 54000,
-    "resourceId": 27,
+    "hasDynamicImage": true,
+    "price": 229000,
+    "resourceId": 50331675,
     "assetId": 27,
     "name": "Joe Cole",
     "cardName": "Cole"
@@ -86,7 +94,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 50000,
+    "price": 49250,
     "resourceId": 330,
     "assetId": 330,
     "name": "Robbie Keane",
@@ -96,8 +104,8 @@
     "clubId": 114605,
     "leagueId": 13,
     "countryId": 133,
-    "versionId": "72",
-    "rating": 88,
+    "versionId": "97",
+    "rating": 90,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 5,
@@ -109,35 +117,41 @@
     ],
     "playStyles": [
       13,
-      20,
+      21,
+      23,
+      25,
       3
     ],
     "playStylesPlus": [
-      23
+      20
     ],
     "rolesPlus": [
+      24,
       34,
       43,
+      123,
       125,
       131
     ],
     "rolesPlusPlus": [
+      24,
       34,
       43,
+      123,
       125,
       131
     ],
     "attributes": [
-      87,
-      83,
-      83,
-      93,
-      40,
-      60
+      89,
+      86,
+      86,
+      94,
+      42,
+      70
     ],
-    "hasDynamicImage": false,
-    "price": 169000,
-    "resourceId": 570,
+    "hasDynamicImage": true,
+    "price": 555000,
+    "resourceId": 50332218,
     "assetId": 570,
     "name": "Jay-Jay Okocha",
     "cardName": "Okocha"
@@ -224,7 +238,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 27000,
+    "price": 23500,
     "resourceId": 5467,
     "assetId": 5467,
     "name": "Jamie Carragher",
@@ -267,7 +281,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 12750,
+    "price": 13000,
     "resourceId": 5679,
     "assetId": 5679,
     "name": "Nwankwo Kanu",
@@ -312,7 +326,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 1359000,
+    "price": 2000000,
     "resourceId": 5740,
     "assetId": 5740,
     "name": "Jaap Stam",
@@ -384,7 +398,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 22750,
+    "price": 24250,
     "resourceId": 50338623,
     "assetId": 6975,
     "name": "Freddie Ljungberg",
@@ -434,7 +448,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 18500,
+    "price": 16500,
     "resourceId": 8473,
     "assetId": 8473,
     "name": "Tomáš Rosický",
@@ -475,7 +489,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 100000,
+    "price": 25750,
     "resourceId": 16254,
     "assetId": 16254,
     "name": "Tim Howard",
@@ -548,7 +562,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 784000,
+    "price": 845000,
     "resourceId": 50351937,
     "assetId": 20289,
     "name": "Yaya Touré",
@@ -558,42 +572,48 @@
     "clubId": 114605,
     "leagueId": 13,
     "countryId": 9,
-    "versionId": "72",
-    "rating": 87,
+    "versionId": "97",
+    "rating": 88,
     "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 4,
+    "weakFoot": 4,
+    "skillMoves": 5,
     "preferredPosition": "ST",
     "possiblePositions": [
       "ST"
     ],
     "playStyles": [
       13,
+      20,
+      22,
+      23,
       5,
-      7
+      7,
+      8
     ],
     "playStylesPlus": [
-      22
+      6
     ],
     "rolesPlus": [
       41,
-      142
+      142,
+      144
     ],
     "rolesPlusPlus": [
       41,
-      142
+      142,
+      144
     ],
     "attributes": [
-      80,
       85,
-      81,
       87,
-      34,
-      74
+      82,
+      89,
+      35,
+      76
     ],
     "hasDynamicImage": false,
-    "price": 45000,
-    "resourceId": 30110,
+    "sbcPrice": 258750,
+    "resourceId": 50361758,
     "assetId": 30110,
     "name": "Dimitar Berbatov",
     "cardName": "Berbatov"
@@ -632,7 +652,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 29750,
+    "price": 25500,
     "resourceId": 44897,
     "assetId": 44897,
     "name": "Jerzy Dudek",
@@ -673,7 +693,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 180000,
+    "price": 200000,
     "resourceId": 50752,
     "assetId": 50752,
     "name": "Ledley King",
@@ -731,7 +751,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 23750,
+    "price": 24000,
     "resourceId": 50382905,
     "assetId": 51257,
     "name": "Peter Crouch",
@@ -781,7 +801,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 13000,
+    "price": 13500,
     "resourceId": 51412,
     "assetId": 51412,
     "name": "Tim Cahill",
@@ -832,7 +852,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 1244000,
+    "price": 1270000,
     "resourceId": 50514925,
     "assetId": 183277,
     "name": "Eden Hazard",
@@ -883,7 +903,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 408000,
+    "price": 485000,
     "resourceId": 184943,
     "assetId": 184943,
     "name": "Ramires",
@@ -930,7 +950,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 412000,
+    "price": 449000,
     "resourceId": 251483,
     "assetId": 251483,
     "name": "Vincent Kompany",
@@ -1008,7 +1028,7 @@
       99
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 146000,
+    "sbcPrice": 145250,
     "resourceId": 50598121,
     "assetId": 266473,
     "name": "Park Ji Sung",
@@ -1057,7 +1077,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 93000,
+    "price": 85500,
     "resourceId": 266801,
     "assetId": 266801,
     "name": "Harry Kewell",
@@ -1105,7 +1125,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 23250,
+    "price": 21500,
     "resourceId": 273812,
     "assetId": 273812,
     "name": "Steve McManaman",
@@ -1151,7 +1171,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 170000,
+    "price": 192000,
     "resourceId": 274966,
     "assetId": 274966,
     "name": "Carlos Tévez",
@@ -1200,7 +1220,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 42000,
+    "price": 48000,
     "resourceId": 274967,
     "assetId": 274967,
     "name": "John Arne Riise",

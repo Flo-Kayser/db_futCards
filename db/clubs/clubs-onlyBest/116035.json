@@ -82,7 +82,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 241546,
       "assetId": 241546
     },
@@ -248,7 +248,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 264963,
       "assetId": 264963
     },
@@ -290,53 +290,6 @@
       "price": 350,
       "resourceId": 265027,
       "assetId": 265027
-    },
-    "265861": {
-      "name": "Maëlle Garbino",
-      "cardName": "Garbino",
-      "originalVersionId": "1",
-      "clubId": 116035,
-      "leagueId": 2218,
-      "countryId": 18,
-      "versionId": "3002",
-      "rating": 81,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        11,
-        13,
-        20,
-        22,
-        26,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        25,
-        26
-      ],
-      "rolesPlusPlus": [
-        25,
-        26
-      ],
-      "attributes": [
-        79,
-        79,
-        79,
-        82,
-        53,
-        63
-      ],
-      "hasDynamicImage": false,
-      "price": 850,
-      "resourceId": 265861,
-      "assetId": 265861
     },
     "269208": {
       "name": "Deja Davis",
@@ -823,9 +776,71 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 11250,
       "resourceId": 50577345,
       "assetId": 245697
+    },
+    "50597509": {
+      "name": "Maëlle Garbino",
+      "cardName": "Garbino",
+      "originalVersionId": "96",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "96",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        11,
+        20,
+        22,
+        26,
+        7
+      ],
+      "playStylesPlus": [
+        13
+      ],
+      "rolesPlus": [
+        25,
+        29,
+        37,
+        40,
+        126,
+        130,
+        136,
+        139
+      ],
+      "rolesPlusPlus": [
+        25,
+        29,
+        37,
+        40,
+        126,
+        130,
+        136,
+        139
+      ],
+      "attributes": [
+        86,
+        86,
+        86,
+        86,
+        60,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50597509,
+      "assetId": 265861
     }
   }
 }

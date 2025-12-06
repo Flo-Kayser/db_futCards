@@ -34,7 +34,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 170000,
+    "price": 0,
     "resourceId": 210257,
     "assetId": 210257,
     "originalVersionId": 1
@@ -74,10 +74,57 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 3000,
+    "price": 3100,
     "resourceId": 50541905,
     "assetId": 210257,
     "originalVersionId": 1
+  },
+  "67319121": {
+    "clubId": 326,
+    "leagueId": 68,
+    "countryId": 54,
+    "versionId": "96",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 5,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      10,
+      31,
+      32,
+      34,
+      35
+    ],
+    "playStylesPlus": [
+      9
+    ],
+    "rolesPlus": [
+      2,
+      101,
+      145
+    ],
+    "rolesPlusPlus": [
+      2,
+      101,
+      145
+    ],
+    "attributes": [
+      85,
+      85,
+      93,
+      85,
+      70,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 16000,
+    "resourceId": 67319121,
+    "assetId": 210257,
+    "originalVersionId": 96
   },
   "cardName": "Ederson",
   "name": "Ederson"

@@ -44,7 +44,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 15500,
+    "price": 16500,
     "resourceId": 7743,
     "assetId": 7743
   },
@@ -86,7 +86,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 100000,
+    "price": 25750,
     "resourceId": 16254,
     "assetId": 16254
   },
@@ -134,7 +134,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 20000,
+    "price": 21250,
     "resourceId": 39386,
     "assetId": 39386
   },
@@ -180,7 +180,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 82000,
+    "price": 93500,
     "resourceId": 71608,
     "assetId": 71608
   },
@@ -276,7 +276,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 2050000,
+    "price": 2070000,
     "resourceId": 226301,
     "assetId": 226301
   },
@@ -328,7 +328,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 6400000,
+    "price": 6200000,
     "resourceId": 275243,
     "assetId": 275243
   },
@@ -524,7 +524,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 26750,
     "resourceId": 50496153,
     "assetId": 164505
   },
@@ -576,7 +576,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 13750,
     "resourceId": 50529909,
     "assetId": 198261
   },
@@ -674,7 +674,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 2180000,
+    "price": 2837000,
     "resourceId": 50557949,
     "assetId": 226301
   },
@@ -728,7 +728,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 58250,
+    "sbcPrice": 57250,
     "price": 66300,
     "resourceId": 50557975,
     "assetId": 226327
@@ -784,7 +784,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 11250,
     "resourceId": 50557984,
     "assetId": 226336
   },
@@ -839,7 +839,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 78000,
+    "price": 73000,
     "resourceId": 50563080,
     "assetId": 231432
   },
@@ -974,7 +974,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 21750,
     "resourceId": 50573144,
     "assetId": 241496
   },
@@ -1023,6 +1023,61 @@
     "price": 0,
     "resourceId": 50573723,
     "assetId": 242075
+  },
+  "50583452": {
+    "name": "Sergiño Dest",
+    "cardName": "Dest",
+    "originalVersionId": "96",
+    "clubId": 247,
+    "leagueId": 10,
+    "countryId": 95,
+    "versionId": "96",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      11,
+      13,
+      21,
+      25,
+      26
+    ],
+    "playStylesPlus": [
+      20
+    ],
+    "rolesPlus": [
+      5,
+      9,
+      106,
+      110,
+      123
+    ],
+    "rolesPlusPlus": [
+      5,
+      9,
+      106,
+      110,
+      123
+    ],
+    "attributes": [
+      92,
+      70,
+      83,
+      86,
+      82,
+      81
+    ],
+    "hasDynamicImage": true,
+    "price": 13250,
+    "resourceId": 50583452,
+    "assetId": 251804
   },
   "50586853": {
     "name": "Sebastian Berhalter",
@@ -1080,7 +1135,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 28750,
+    "sbcPrice": 27250,
     "resourceId": 50586853,
     "assetId": 255205
   },
@@ -1135,9 +1190,70 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 25750,
+    "price": 30000,
     "resourceId": 50588501,
     "assetId": 256853
+  },
+  "50597739": {
+    "name": "Ashley Sanchez",
+    "cardName": "Sanchez",
+    "originalVersionId": "96",
+    "clubId": 116303,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "96",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CAM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      10,
+      12,
+      14,
+      17,
+      20,
+      24
+    ],
+    "playStylesPlus": [
+      23
+    ],
+    "rolesPlus": [
+      25,
+      33,
+      37,
+      40,
+      126,
+      136,
+      139
+    ],
+    "rolesPlusPlus": [
+      25,
+      33,
+      37,
+      40,
+      126,
+      136,
+      139
+    ],
+    "attributes": [
+      88,
+      84,
+      86,
+      89,
+      45,
+      81
+    ],
+    "hasDynamicImage": true,
+    "price": 15250,
+    "resourceId": 50597739,
+    "assetId": 266091
   },
   "50598576": {
     "name": "Trinity Rodman",
@@ -1191,7 +1307,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 67000,
+    "price": 72500,
     "resourceId": 50598576,
     "assetId": 266928
   },
@@ -1288,7 +1404,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 11500,
     "resourceId": 50599023,
     "assetId": 267375
   },
@@ -1336,7 +1452,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 48500,
+    "price": 52500,
     "resourceId": 50599030,
     "assetId": 267382
   },
@@ -1525,7 +1641,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 13000,
     "resourceId": 50605594,
     "assetId": 273946
   },
@@ -1670,7 +1786,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 13000,
     "resourceId": 50608494,
     "assetId": 276846
   },
@@ -1820,7 +1936,7 @@
       69
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 256250,
+    "sbcPrice": 242750,
     "resourceId": 67336660,
     "assetId": 227796
   },
@@ -1994,7 +2110,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14500,
     "resourceId": 84113876,
     "assetId": 227796
   },
@@ -2045,7 +2161,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 25750,
+    "price": 24750,
     "resourceId": 84118155,
     "assetId": 232075
   }
