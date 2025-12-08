@@ -317,7 +317,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 232284,
       "assetId": 232284
     },
@@ -414,7 +414,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 800,
       "resourceId": 243282,
       "assetId": 243282
     },
@@ -712,46 +712,6 @@
       "resourceId": 257896,
       "assetId": 257896
     },
-    "261188": {
-      "name": "Iliman Ndiaye",
-      "cardName": "Ndiaye",
-      "originalVersionId": "1",
-      "clubId": 7,
-      "leagueId": 13,
-      "countryId": 136,
-      "versionId": "3002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        30
-      ],
-      "rolesPlusPlus": [
-        30
-      ],
-      "attributes": [
-        84,
-        76,
-        70,
-        84,
-        40,
-        63
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 261188,
-      "assetId": 261188
-    },
     "266609": {
       "name": "Tim Iroegbunam",
       "cardName": "Iroegbunam",
@@ -825,7 +785,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 550,
       "resourceId": 268631,
       "assetId": 268631
     },
@@ -953,7 +913,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 52500,
+      "sbcPrice": 43950,
       "resourceId": 50538165,
       "assetId": 206517
     },
@@ -1002,9 +962,64 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 50591362,
       "assetId": 259714
+    },
+    "50592836": {
+      "name": "Iliman Ndiaye",
+      "cardName": "Ndiaye",
+      "originalVersionId": "96",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 136,
+      "versionId": "96",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        20,
+        22,
+        23
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        29,
+        37,
+        40,
+        130,
+        136,
+        139
+      ],
+      "rolesPlusPlus": [
+        29,
+        37,
+        40,
+        130,
+        136,
+        139
+      ],
+      "attributes": [
+        89,
+        82,
+        80,
+        88,
+        46,
+        70
+      ],
+      "isObjective": true,
+      "hasDynamicImage": false,
+      "resourceId": 50592836,
+      "assetId": 261188
     },
     "50611145": {
       "name": "Tyler Dibling",
@@ -1050,7 +1065,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 50611145,
       "assetId": 279497
     },

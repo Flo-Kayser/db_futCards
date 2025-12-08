@@ -35,7 +35,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 73016,
       "assetId": 73016
     },
@@ -174,7 +174,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 204923,
       "assetId": 204923
     },
@@ -314,7 +314,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 212190,
       "assetId": 212190
     },
@@ -361,7 +361,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 8300,
+      "price": 8600,
       "resourceId": 215441,
       "assetId": 215441
     },
@@ -497,7 +497,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 4600,
+      "price": 4500,
       "resourceId": 235073,
       "assetId": 235073
     },
@@ -628,53 +628,9 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 3000,
       "resourceId": 247819,
       "assetId": 247819
-    },
-    "262105": {
-      "name": "Julien Duranville",
-      "cardName": "Duranville",
-      "originalVersionId": "1",
-      "clubId": 22,
-      "leagueId": 19,
-      "countryId": 7,
-      "versionId": "3001",
-      "rating": 72,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 5,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "LM",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        20,
-        23,
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23
-      ],
-      "rolesPlusPlus": [
-        23
-      ],
-      "attributes": [
-        88,
-        61,
-        63,
-        82,
-        26,
-        49
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 262105,
-      "assetId": 262105
     },
     "266906": {
       "name": "Silas Ostrzinski",
@@ -758,7 +714,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 1000,
       "resourceId": 270964,
       "assetId": 270964
     },
@@ -887,7 +843,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 14500,
       "resourceId": 50543842,
       "assetId": 212194
     },
@@ -993,7 +949,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 225000,
+      "price": 217000,
       "resourceId": 50583500,
       "assetId": 251852
     },
@@ -1089,7 +1045,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 22750,
+      "price": 23250,
       "resourceId": 50585765,
       "assetId": 254117
     },
@@ -1140,8 +1096,8 @@
         84,
         70
       ],
-      "isObjective": true,
       "hasDynamicImage": true,
+      "price": 0,
       "resourceId": 50590723,
       "assetId": 259075
     },
@@ -1266,9 +1222,72 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 12500,
       "resourceId": 50591364,
       "assetId": 259716
+    },
+    "50593753": {
+      "name": "Julien Duranville",
+      "cardName": "Duranville",
+      "originalVersionId": "96",
+      "clubId": 22,
+      "leagueId": 19,
+      "countryId": 7,
+      "versionId": "96",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        13,
+        20,
+        23,
+        25,
+        6
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        26,
+        30,
+        36,
+        41,
+        123,
+        127,
+        135,
+        142
+      ],
+      "rolesPlusPlus": [
+        26,
+        30,
+        36,
+        41,
+        123,
+        127,
+        135,
+        142
+      ],
+      "attributes": [
+        92,
+        83,
+        84,
+        90,
+        40,
+        70
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 66750,
+      "price": 64500,
+      "resourceId": 50593753,
+      "assetId": 262105
     },
     "50610103": {
       "name": "Aaron Anselmino",
@@ -1358,7 +1377,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 109000,
+      "price": 134000,
       "resourceId": 67355727,
       "assetId": 246863
     }

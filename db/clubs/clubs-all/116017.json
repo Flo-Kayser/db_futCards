@@ -195,7 +195,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 850,
       "resourceId": 227254,
       "assetId": 227254
     },
@@ -237,7 +237,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1000,
       "resourceId": 233150,
       "assetId": 233150
     },
@@ -284,7 +284,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 2300,
       "resourceId": 233746,
       "assetId": 233746
     },
@@ -413,7 +413,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 2200,
       "resourceId": 245830,
       "assetId": 245830
     },
@@ -456,7 +456,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 21250,
+      "price": 22000,
       "resourceId": 246219,
       "assetId": 246219
     },
@@ -495,7 +495,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 246414,
       "assetId": 246414
     },
@@ -633,7 +633,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 8000,
+      "price": 7900,
       "resourceId": 257008,
       "assetId": 257008
     },
@@ -677,7 +677,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 264875,
       "assetId": 264875
     },
@@ -964,7 +964,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 266568,
       "assetId": 266568
     },
@@ -1266,6 +1266,57 @@
       "resourceId": 50558902,
       "assetId": 227254
     },
+    "50564798": {
+      "name": "Leila Ouahabi",
+      "cardName": "Leila Ouahabi",
+      "originalVersionId": "96",
+      "clubId": 116017,
+      "leagueId": 2216,
+      "countryId": 45,
+      "versionId": "96",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 5,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        12,
+        14,
+        20,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        27,
+        107,
+        110
+      ],
+      "rolesPlusPlus": [
+        9,
+        27,
+        107,
+        110
+      ],
+      "attributes": [
+        83,
+        55,
+        80,
+        84,
+        86,
+        80
+      ],
+      "hasDynamicImage": false,
+      "sbcPrice": 21000,
+      "resourceId": 50564798,
+      "assetId": 233150
+    },
     "50565394": {
       "name": "Vivianne Miedema",
       "cardName": "Miedema",
@@ -1316,10 +1367,71 @@
         82
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 48900,
+      "sbcPrice": 45500,
       "price": 0,
       "resourceId": 50565394,
       "assetId": 233746
+    },
+    "50577478": {
+      "name": "Yui Hasegawa",
+      "cardName": "Hasegawa",
+      "originalVersionId": "96",
+      "clubId": 116017,
+      "leagueId": 2216,
+      "countryId": 163,
+      "versionId": "96",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        16,
+        20,
+        24,
+        6,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        11
+      ],
+      "rolesPlus": [
+        15,
+        22,
+        33,
+        116,
+        120,
+        121,
+        131
+      ],
+      "rolesPlusPlus": [
+        15,
+        22,
+        33,
+        116,
+        120,
+        121,
+        131
+      ],
+      "attributes": [
+        85,
+        80,
+        87,
+        88,
+        84,
+        70
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 46500,
+      "resourceId": 50577478,
+      "assetId": 245830
     },
     "50577867": {
       "name": "Khadija Shaw",
@@ -1368,7 +1480,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 66000,
+      "price": 76000,
       "resourceId": 50577867,
       "assetId": 246219
     },
@@ -1416,9 +1528,65 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 550,
       "resourceId": 50596981,
       "assetId": 265333
+    },
+    "50598882": {
+      "name": "Kerolin Nicoli",
+      "cardName": "Kerolin Nicoli",
+      "originalVersionId": "96",
+      "clubId": 116017,
+      "leagueId": 2216,
+      "countryId": 54,
+      "versionId": "96",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        13,
+        14,
+        20,
+        22,
+        23
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        35,
+        42,
+        126,
+        136,
+        143
+      ],
+      "rolesPlusPlus": [
+        23,
+        35,
+        42,
+        126,
+        136,
+        143
+      ],
+      "attributes": [
+        86,
+        83,
+        81,
+        86,
+        47,
+        80
+      ],
+      "hasDynamicImage": false,
+      "sbcPrice": 21000,
+      "resourceId": 50598882,
+      "assetId": 267234
     },
     "50611180": {
       "name": "Jade Rose",
@@ -1506,7 +1674,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 32500,
+      "price": 32000,
       "resourceId": 67355083,
       "assetId": 246219
     }
