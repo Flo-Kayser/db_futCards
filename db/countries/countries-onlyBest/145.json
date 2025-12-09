@@ -81,7 +81,7 @@
       45
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 300,
     "resourceId": 71474,
     "assetId": 71474
   },
@@ -232,7 +232,7 @@
       41
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 2000,
     "resourceId": 77459,
     "assetId": 77459
   },
@@ -273,7 +273,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 200,
     "resourceId": 220029,
     "assetId": 220029
   },
@@ -319,7 +319,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 850,
     "resourceId": 225126,
     "assetId": 225126
   },
@@ -576,7 +576,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 200,
     "resourceId": 245410,
     "assetId": 245410
   },
@@ -711,7 +711,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 850,
+    "price": 800,
     "resourceId": 252711,
     "assetId": 252711
   },
@@ -1008,7 +1008,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 200,
     "resourceId": 269562,
     "assetId": 269562
   },
@@ -1054,54 +1054,6 @@
     "price": 250,
     "resourceId": 270104,
     "assetId": 270104
-  },
-  "274000": {
-    "name": "Elias Saad",
-    "cardName": "Saad",
-    "originalVersionId": "1",
-    "clubId": 100409,
-    "leagueId": 19,
-    "countryId": 145,
-    "versionId": "3001",
-    "rating": 72,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 5,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "CAM",
-      "LM",
-      "LW"
-    ],
-    "playStyles": [
-      0,
-      11,
-      13,
-      23
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      30,
-      33,
-      39
-    ],
-    "rolesPlusPlus": [
-      30,
-      33,
-      39
-    ],
-    "attributes": [
-      74,
-      67,
-      67,
-      77,
-      31,
-      59
-    ],
-    "hasDynamicImage": false,
-    "price": 350,
-    "resourceId": 274000,
-    "assetId": 274000
   },
   "276544": {
     "name": "Amin Cherni",
@@ -1222,6 +1174,63 @@
     "price": 350,
     "resourceId": 50588031,
     "assetId": 256383
+  },
+  "50605648": {
+    "name": "Elias Saad",
+    "cardName": "Saad",
+    "originalVersionId": "96",
+    "clubId": 100409,
+    "leagueId": 19,
+    "countryId": 145,
+    "versionId": "96",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      11,
+      13,
+      20,
+      21,
+      23
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      27,
+      32,
+      38,
+      130,
+      133,
+      139
+    ],
+    "rolesPlusPlus": [
+      27,
+      32,
+      38,
+      130,
+      133,
+      139
+    ],
+    "attributes": [
+      88,
+      84,
+      82,
+      90,
+      45,
+      73
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 53250,
+    "resourceId": 50605648,
+    "assetId": 274000
   },
   "50610704": {
     "name": "Moutaz Neffati",

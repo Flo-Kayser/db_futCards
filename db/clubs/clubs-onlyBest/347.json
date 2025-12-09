@@ -1,6 +1,45 @@
 {
   "clubName": "Lecce",
   "players": {
+    "70555": {
+      "name": "Tiago Gabriel",
+      "cardName": "Tiago Gabriel",
+      "originalVersionId": "1",
+      "clubId": 347,
+      "leagueId": 31,
+      "countryId": 38,
+      "versionId": "3001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        48
+      ],
+      "rolesPlusPlus": [
+        12,
+        48
+      ],
+      "attributes": [
+        61,
+        35,
+        46,
+        43,
+        68,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 70555,
+      "assetId": 70555
+    },
     "74502": {
       "name": "Owen Kouassi",
       "cardName": "Kouassi",
@@ -41,6 +80,43 @@
       "price": 10000,
       "resourceId": 74502,
       "assetId": 74502
+    },
+    "80006": {
+      "name": "Matías Ignacio Pérez",
+      "cardName": "Pérez",
+      "originalVersionId": "1",
+      "clubId": 347,
+      "leagueId": 31,
+      "countryId": 55,
+      "versionId": "3001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "rolesPlusPlus": [
+        11
+      ],
+      "attributes": [
+        57,
+        31,
+        46,
+        41,
+        66,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 80006,
+      "assetId": 80006
     },
     "227222": {
       "name": "Frédéric Guilbert",
@@ -290,7 +366,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 200,
       "resourceId": 239671,
       "assetId": 239671
     },
@@ -460,7 +536,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 246649,
       "assetId": 246649
     },
@@ -753,7 +829,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 263657,
       "assetId": 263657
     },

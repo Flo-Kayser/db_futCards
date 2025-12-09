@@ -1,6 +1,235 @@
 {
   "clubName": "CD Tondela",
   "players": {
+    "71515": {
+      "name": "Bernardo",
+      "cardName": "Bernardo",
+      "originalVersionId": "0",
+      "clubId": 112516,
+      "leagueId": 308,
+      "countryId": 54,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "rolesPlusPlus": [
+        1
+      ],
+      "attributes": [
+        67,
+        63,
+        64,
+        69,
+        42,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 71515,
+      "assetId": 71515
+    },
+    "72169": {
+      "name": "Xabi Huarte",
+      "cardName": "Xabi Huarte",
+      "originalVersionId": "0",
+      "clubId": 112516,
+      "leagueId": 308,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31
+      ],
+      "rolesPlusPlus": [
+        31
+      ],
+      "attributes": [
+        65,
+        53,
+        59,
+        66,
+        37,
+        44
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 72169,
+      "assetId": 72169
+    },
+    "78986": {
+      "name": "André Ceitil",
+      "cardName": "André Ceitil",
+      "originalVersionId": "0",
+      "clubId": 112516,
+      "leagueId": 308,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "rolesPlusPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        56,
+        48,
+        60,
+        61,
+        66,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 78986,
+      "assetId": 78986
+    },
+    "78989": {
+      "name": "Cícero",
+      "cardName": "Cícero",
+      "originalVersionId": "0",
+      "clubId": 112516,
+      "leagueId": 308,
+      "countryId": 54,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "rolesPlusPlus": [
+        14
+      ],
+      "attributes": [
+        59,
+        39,
+        60,
+        60,
+        64,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 78989,
+      "assetId": 78989
+    },
+    "78990": {
+      "name": "Tiago Manso",
+      "cardName": "Tiago Manso",
+      "originalVersionId": "1",
+      "clubId": 112516,
+      "leagueId": 308,
+      "countryId": 38,
+      "versionId": "3001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "rolesPlusPlus": [
+        3
+      ],
+      "attributes": [
+        70,
+        38,
+        59,
+        63,
+        63,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 78990,
+      "assetId": 78990
+    },
+    "78991": {
+      "name": "Maranhão",
+      "cardName": "Maranhão",
+      "originalVersionId": "1",
+      "clubId": 112516,
+      "leagueId": 308,
+      "countryId": 54,
+      "versionId": "3001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        35
+      ],
+      "rolesPlusPlus": [
+        35
+      ],
+      "attributes": [
+        76,
+        64,
+        60,
+        70,
+        31,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 78991,
+      "assetId": 78991
+    },
     "212267": {
       "name": "Ivan Cavaleiro",
       "cardName": "Ivan Cavaleiro",
@@ -36,7 +265,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 212267,
       "assetId": 212267
     },
@@ -75,7 +304,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 223818,
       "assetId": 223818
     },
@@ -156,7 +385,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 650,
       "resourceId": 234935,
       "assetId": 234935
     },
@@ -236,7 +465,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 256449,
       "assetId": 256449
     },
@@ -317,6 +546,43 @@
       "price": 200,
       "resourceId": 258468,
       "assetId": 258468
+    },
+    "259317": {
+      "name": "Cañizares",
+      "cardName": "Cañizares",
+      "originalVersionId": "0",
+      "clubId": 112516,
+      "leagueId": 308,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "rolesPlusPlus": [
+        1
+      ],
+      "attributes": [
+        66,
+        68,
+        67,
+        62,
+        32,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 259317,
+      "assetId": 259317
     },
     "261032": {
       "name": "Joe Hodge",
@@ -433,7 +699,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 269099,
       "assetId": 269099
     },
@@ -472,7 +738,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 200,
       "resourceId": 277645,
       "assetId": 277645
     },

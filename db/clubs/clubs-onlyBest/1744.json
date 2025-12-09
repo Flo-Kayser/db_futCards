@@ -73,7 +73,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 500,
       "resourceId": 73417,
       "assetId": 73417
     },
@@ -115,7 +115,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1300,
       "resourceId": 73767,
       "assetId": 73767
     },
@@ -581,7 +581,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 235935,
       "assetId": 235935
     },
@@ -949,6 +949,42 @@
       "resourceId": 268937,
       "assetId": 268937
     },
+    "270341": {
+      "name": "Yanis Massolin",
+      "cardName": "Massolin",
+      "originalVersionId": "0",
+      "clubId": 1744,
+      "leagueId": 32,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "rolesPlusPlus": [
+        18
+      ],
+      "attributes": [
+        62,
+        60,
+        64,
+        61,
+        58,
+        66
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 270341,
+      "assetId": 270341
+    },
     "271215": {
       "name": "Bryant Nieling",
       "cardName": "Nieling",
@@ -1023,9 +1059,53 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 274089,
       "assetId": 274089
+    },
+    "277696": {
+      "name": "Alessandro Sersanti",
+      "cardName": "Sersanti",
+      "originalVersionId": "1",
+      "clubId": 1744,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "3001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        14,
+        16,
+        17,
+        19,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        19
+      ],
+      "rolesPlusPlus": [
+        19
+      ],
+      "attributes": [
+        77,
+        59,
+        65,
+        68,
+        64,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 277696,
+      "assetId": 277696
     }
   }
 }

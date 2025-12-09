@@ -1,6 +1,47 @@
 {
   "clubName": "Leicester City",
   "players": {
+    "227113": {
+      "name": "Emily van Egmond",
+      "cardName": "van Egmond",
+      "originalVersionId": "1",
+      "clubId": 116020,
+      "leagueId": 2216,
+      "countryId": 195,
+      "versionId": "3002",
+      "rating": 82,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16
+      ],
+      "rolesPlusPlus": [
+        16
+      ],
+      "attributes": [
+        59,
+        61,
+        78,
+        73,
+        80,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 227113,
+      "assetId": 227113
+    },
     "246208": {
       "name": "Chantelle Swaby",
       "cardName": "Swaby",
@@ -125,7 +166,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 261785,
       "assetId": 261785
     },
@@ -342,6 +383,83 @@
       "resourceId": 265253,
       "assetId": 265253
     },
+    "265265": {
+      "name": "Rosella Ayane",
+      "cardName": "Ayane",
+      "originalVersionId": "1",
+      "clubId": 116020,
+      "leagueId": 2216,
+      "countryId": 129,
+      "versionId": "3002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        12
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "rolesPlusPlus": [
+        41
+      ],
+      "attributes": [
+        66,
+        75,
+        69,
+        78,
+        38,
+        67
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 265265,
+      "assetId": 265265
+    },
+    "265322": {
+      "name": "Olivia McLoughlin",
+      "cardName": "McLoughlin",
+      "originalVersionId": "0",
+      "clubId": 116020,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "rolesPlusPlus": [
+        14
+      ],
+      "attributes": [
+        62,
+        48,
+        61,
+        62,
+        64,
+        57
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 265322,
+      "assetId": 265322
+    },
     "265342": {
       "name": "Ruby Mace",
       "cardName": "Mace",
@@ -508,7 +626,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 4300,
+      "price": 7300,
       "resourceId": 268000,
       "assetId": 268000
     },
