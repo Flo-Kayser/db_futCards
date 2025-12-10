@@ -199,7 +199,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 73949,
     "assetId": 73949
   },
@@ -236,48 +236,9 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 5000,
     "resourceId": 74874,
     "assetId": 74874
-  },
-  "75209": {
-    "name": "Jovo Lukić",
-    "cardName": "Lukić",
-    "originalVersionId": "0",
-    "clubId": 110751,
-    "leagueId": 330,
-    "countryId": 8,
-    "versionId": "2000",
-    "rating": 64,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      42,
-      44
-    ],
-    "rolesPlusPlus": [
-      42,
-      44
-    ],
-    "attributes": [
-      61,
-      64,
-      47,
-      59,
-      27,
-      69
-    ],
-    "hasDynamicImage": false,
-    "price": 300,
-    "resourceId": 75209,
-    "assetId": 75209
   },
   "75533": {
     "name": "Kerim Alajbegović",
@@ -470,7 +431,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 5100,
     "resourceId": 79168,
     "assetId": 79168
   },
@@ -545,7 +506,7 @@
       47
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 200,
     "resourceId": 80305,
     "assetId": 80305
   },
@@ -1177,7 +1138,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 4700,
+    "price": 900,
     "resourceId": 236307,
     "assetId": 236307
   },
@@ -1257,6 +1218,7 @@
       75
     ],
     "hasDynamicImage": false,
+    "price": 350,
     "resourceId": 236541,
     "assetId": 236541
   },
@@ -1296,7 +1258,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 700,
     "resourceId": 238900,
     "assetId": 238900
   },
@@ -1425,7 +1387,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 500,
     "resourceId": 242358,
     "assetId": 242358
   },
@@ -1466,7 +1428,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 242494,
     "assetId": 242494
   },
@@ -1505,7 +1467,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 750,
     "resourceId": 243735,
     "assetId": 243735
   },
@@ -1804,47 +1766,6 @@
     "price": 200,
     "resourceId": 259101,
     "assetId": 259101
-  },
-  "262027": {
-    "name": "Tarik Muharemović",
-    "cardName": "Muharemović",
-    "originalVersionId": "0",
-    "clubId": 111974,
-    "leagueId": 31,
-    "countryId": 8,
-    "versionId": "2001",
-    "rating": 70,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [
-      15
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      11,
-      12
-    ],
-    "rolesPlusPlus": [
-      11,
-      12
-    ],
-    "attributes": [
-      59,
-      23,
-      47,
-      56,
-      73,
-      67
-    ],
-    "hasDynamicImage": false,
-    "price": 200,
-    "resourceId": 262027,
-    "assetId": 262027
   },
   "262956": {
     "name": "Nikola Vasilj",
@@ -2288,9 +2209,92 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 600,
     "resourceId": 277627,
     "assetId": 277627
+  },
+  "50406857": {
+    "name": "Jovo Lukić",
+    "cardName": "Lukić",
+    "originalVersionId": "3",
+    "clubId": 110751,
+    "leagueId": 330,
+    "countryId": 8,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      24,
+      29,
+      4,
+      6
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      42,
+      144
+    ],
+    "rolesPlusPlus": [
+      42,
+      144
+    ],
+    "attributes": [
+      83,
+      85,
+      72,
+      82,
+      46,
+      88
+    ],
+    "hasDynamicImage": true,
+    "price": 19000,
+    "resourceId": 50406857,
+    "assetId": 75209
+  },
+  "50408449": {
+    "name": "Emin Kujović",
+    "cardName": "Kujović",
+    "originalVersionId": "1",
+    "clubId": 31,
+    "leagueId": 19,
+    "countryId": 8,
+    "versionId": "3000",
+    "rating": 58,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      18
+    ],
+    "rolesPlusPlus": [
+      18
+    ],
+    "attributes": [
+      57,
+      51,
+      60,
+      60,
+      51,
+      64
+    ],
+    "hasDynamicImage": false,
+    "price": 10000,
+    "resourceId": 50408449,
+    "assetId": 76801
   },
   "50512578": {
     "name": "Edin Džeko",
@@ -2333,7 +2337,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 27950,
+    "sbcPrice": 28250,
     "resourceId": 50512578,
     "assetId": 180930
   },
@@ -2508,9 +2512,56 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 14500,
+    "price": 18000,
     "resourceId": 50576165,
     "assetId": 244517
+  },
+  "50593675": {
+    "name": "Tarik Muharemović",
+    "cardName": "Muharemović",
+    "originalVersionId": "3",
+    "clubId": 111974,
+    "leagueId": 31,
+    "countryId": 8,
+    "versionId": "3",
+    "rating": 86,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      11,
+      14,
+      17,
+      19,
+      4
+    ],
+    "playStylesPlus": [
+      15
+    ],
+    "rolesPlus": [
+      12,
+      111
+    ],
+    "rolesPlusPlus": [
+      12,
+      111
+    ],
+    "attributes": [
+      80,
+      39,
+      65,
+      75,
+      88,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 13750,
+    "resourceId": 50593675,
+    "assetId": 262027
   },
   "50608383": {
     "name": "Imad Rondić",
@@ -2638,7 +2689,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 13250,
     "resourceId": 67320866,
     "assetId": 212002
   }

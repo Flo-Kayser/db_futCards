@@ -35,7 +35,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 200,
       "resourceId": 76240,
       "assetId": 76240
     },
@@ -159,7 +159,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 850,
       "resourceId": 162347,
       "assetId": 162347
     },
@@ -252,7 +252,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 213516,
       "assetId": 213516
     },
@@ -296,7 +296,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1000,
       "resourceId": 231652,
       "assetId": 231652
     },
@@ -340,7 +340,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 240453,
       "assetId": 240453
     },
@@ -380,52 +380,6 @@
       "price": 200,
       "resourceId": 241976,
       "assetId": 241976
-    },
-    "245597": {
-      "name": "Víctor Gómez",
-      "cardName": "Víctor Gómez",
-      "originalVersionId": "1",
-      "clubId": 1896,
-      "leagueId": 308,
-      "countryId": 45,
-      "versionId": "3002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        10,
-        12,
-        15,
-        17,
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5,
-        25
-      ],
-      "rolesPlusPlus": [
-        5,
-        25
-      ],
-      "attributes": [
-        82,
-        51,
-        74,
-        76,
-        70,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 850,
-      "resourceId": 245597,
-      "assetId": 245597
     },
     "247138": {
       "name": "Fran Navarro",
@@ -549,7 +503,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 8700,
+      "price": 9100,
       "resourceId": 256343,
       "assetId": 256343
     },
@@ -887,7 +841,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 264438,
       "assetId": 264438
     },
@@ -1189,6 +1143,55 @@
       "price": 350,
       "resourceId": 50559984,
       "assetId": 228336
+    },
+    "50577245": {
+      "name": "Víctor Gómez",
+      "cardName": "Víctor Gómez",
+      "originalVersionId": "3",
+      "clubId": 1896,
+      "leagueId": 308,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        10,
+        12,
+        15,
+        17,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        25,
+        123
+      ],
+      "rolesPlusPlus": [
+        5,
+        25,
+        123
+      ],
+      "attributes": [
+        89,
+        60,
+        82,
+        83,
+        78,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 50000,
+      "resourceId": 50577245,
+      "assetId": 245597
     },
     "50583025": {
       "name": "Rodrigo Zalazar",

@@ -83,53 +83,6 @@
       "resourceId": 72148,
       "assetId": 72148
     },
-    "72149": {
-      "name": "Ainhoa Marín",
-      "cardName": "Ainhoa Marín",
-      "originalVersionId": "0",
-      "clubId": 131720,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        12,
-        20,
-        25,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        35,
-        37
-      ],
-      "rolesPlusPlus": [
-        26,
-        35,
-        37
-      ],
-      "attributes": [
-        87,
-        72,
-        70,
-        80,
-        41,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 650,
-      "resourceId": 72149,
-      "assetId": 72149
-    },
     "72150": {
       "name": "Eva Dios",
       "cardName": "Eva Dios",
@@ -646,7 +599,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 450,
       "resourceId": 261848,
       "assetId": 261848
     },
@@ -860,6 +813,54 @@
       "price": 200,
       "resourceId": 279215,
       "assetId": 279215
+    },
+    "50403797": {
+      "name": "Ainhoa Marín",
+      "cardName": "Ainhoa Marín",
+      "originalVersionId": "3",
+      "clubId": 131720,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        20,
+        25,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        35,
+        137
+      ],
+      "rolesPlusPlus": [
+        26,
+        35,
+        137
+      ],
+      "attributes": [
+        93,
+        81,
+        79,
+        87,
+        49,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 12250,
+      "resourceId": 50403797,
+      "assetId": 72149
     }
   }
 }

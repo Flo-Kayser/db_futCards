@@ -2037,7 +2037,7 @@
       50
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 200,
     "resourceId": 75754,
     "assetId": 75754
   },
@@ -2497,7 +2497,7 @@
       40
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 5100,
     "resourceId": 76918,
     "assetId": 76918
   },
@@ -4438,7 +4438,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 850,
+    "price": 750,
     "resourceId": 194333,
     "assetId": 194333
   },
@@ -5038,6 +5038,7 @@
       62
     ],
     "hasDynamicImage": false,
+    "price": 200,
     "resourceId": 204884,
     "assetId": 204884
   },
@@ -7286,7 +7287,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 350,
     "resourceId": 231267,
     "assetId": 231267
   },
@@ -7691,7 +7692,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 350,
     "resourceId": 233222,
     "assetId": 233222
   },
@@ -11382,7 +11383,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 350,
     "resourceId": 251760,
     "assetId": 251760
   },
@@ -15801,6 +15802,7 @@
       77
     ],
     "hasDynamicImage": false,
+    "price": 350,
     "resourceId": 264251,
     "assetId": 264251
   },
@@ -16452,7 +16454,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 4800,
     "resourceId": 269707,
     "assetId": 269707
   },
@@ -19079,6 +19081,46 @@
     "resourceId": 50576379,
     "assetId": 244731
   },
+  "50576410": {
+    "name": "Lamine Diaby Fadiga",
+    "cardName": "Diaby Fadiga",
+    "originalVersionId": "0",
+    "clubId": 114326,
+    "leagueId": 66,
+    "countryId": 118,
+    "versionId": "2000",
+    "rating": 64,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      32,
+      44
+    ],
+    "rolesPlusPlus": [
+      32,
+      44
+    ],
+    "attributes": [
+      66,
+      62,
+      55,
+      64,
+      25,
+      66
+    ],
+    "hasDynamicImage": false,
+    "price": 1000,
+    "resourceId": 50576410,
+    "assetId": 244762
+  },
   "50577176": {
     "name": "Edu Espiau",
     "cardName": "Edu Espiau",
@@ -19116,7 +19158,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 12500,
     "resourceId": 50577176,
     "assetId": 245528
   },
@@ -19962,7 +20004,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 13000,
     "resourceId": 50601280,
     "assetId": 269632
   },
@@ -20085,5 +20127,51 @@
     "price": 200,
     "resourceId": 50608383,
     "assetId": 276735
+  },
+  "67356276": {
+    "name": "Andy Pelmard",
+    "cardName": "Pelmard",
+    "originalVersionId": "1",
+    "clubId": 110745,
+    "leagueId": 66,
+    "countryId": 124,
+    "versionId": "3001",
+    "rating": 70,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      14
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      3,
+      11,
+      48
+    ],
+    "rolesPlusPlus": [
+      3,
+      11,
+      48
+    ],
+    "attributes": [
+      81,
+      34,
+      60,
+      66,
+      69,
+      76
+    ],
+    "hasDynamicImage": false,
+    "price": 10000,
+    "resourceId": 67356276,
+    "assetId": 247412
   }
 }

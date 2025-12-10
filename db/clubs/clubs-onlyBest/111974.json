@@ -506,7 +506,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 243593,
       "assetId": 243593
     },
@@ -708,7 +708,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 200,
       "resourceId": 255561,
       "assetId": 255561
     },
@@ -872,47 +872,6 @@
       "price": 0,
       "resourceId": 258846,
       "assetId": 258846
-    },
-    "262027": {
-      "name": "Tarik Muharemović",
-      "cardName": "Muharemović",
-      "originalVersionId": "0",
-      "clubId": 111974,
-      "leagueId": 31,
-      "countryId": 8,
-      "versionId": "2001",
-      "rating": 70,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        15
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        12
-      ],
-      "rolesPlusPlus": [
-        11,
-        12
-      ],
-      "attributes": [
-        59,
-        23,
-        47,
-        56,
-        73,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 262027,
-      "assetId": 262027
     },
     "262396": {
       "name": "Jay Idzes",
@@ -1446,7 +1405,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 12500,
       "resourceId": 50542583,
       "assetId": 210935
     },
@@ -1487,9 +1446,56 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 200,
       "resourceId": 50582983,
       "assetId": 251335
+    },
+    "50593675": {
+      "name": "Tarik Muharemović",
+      "cardName": "Muharemović",
+      "originalVersionId": "3",
+      "clubId": 111974,
+      "leagueId": 31,
+      "countryId": 8,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        11,
+        14,
+        17,
+        19,
+        4
+      ],
+      "playStylesPlus": [
+        15
+      ],
+      "rolesPlus": [
+        12,
+        111
+      ],
+      "rolesPlusPlus": [
+        12,
+        111
+      ],
+      "attributes": [
+        80,
+        39,
+        65,
+        75,
+        88,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 13750,
+      "resourceId": 50593675,
+      "assetId": 262027
     },
     "50600159": {
       "name": "Walid Cheddira",
@@ -1527,6 +1533,47 @@
       "price": 200,
       "resourceId": 50600159,
       "assetId": 268511
+    },
+    "67360199": {
+      "name": "Woyo Coulibaly",
+      "cardName": "Coulibaly",
+      "originalVersionId": "0",
+      "clubId": 111974,
+      "leagueId": 31,
+      "countryId": 126,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        9
+      ],
+      "rolesPlusPlus": [
+        5,
+        9
+      ],
+      "attributes": [
+        75,
+        52,
+        66,
+        71,
+        69,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 67360199,
+      "assetId": 251335
     }
   }
 }

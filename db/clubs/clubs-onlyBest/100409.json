@@ -149,7 +149,7 @@
         36
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 200,
       "resourceId": 80755,
       "assetId": 80755
     },
@@ -276,7 +276,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 6200,
+      "price": 5500,
       "resourceId": 224883,
       "assetId": 224883
     },
@@ -407,46 +407,6 @@
       "resourceId": 236369,
       "assetId": 236369
     },
-    "236457": {
-      "name": "Dimitris Giannoulis",
-      "cardName": "Giannoulis",
-      "originalVersionId": "0",
-      "clubId": 100409,
-      "leagueId": 19,
-      "countryId": 22,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9,
-        10
-      ],
-      "rolesPlusPlus": [
-        9,
-        10
-      ],
-      "attributes": [
-        83,
-        55,
-        69,
-        73,
-        70,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 236457,
-      "assetId": 236457
-    },
     "236477": {
       "name": "Alexis Claude-Maurice",
       "cardName": "Claude-Maurice",
@@ -492,7 +452,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 236477,
       "assetId": 236477
     },
@@ -671,7 +631,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 244068,
       "assetId": 244068
     },
@@ -918,7 +878,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 258432,
       "assetId": 258432
     },
@@ -1171,6 +1131,52 @@
       "price": 5900,
       "resourceId": 277373,
       "assetId": 277373
+    },
+    "50568105": {
+      "name": "Dimitris Giannoulis",
+      "cardName": "Giannoulis",
+      "originalVersionId": "3",
+      "clubId": 100409,
+      "leagueId": 19,
+      "countryId": 22,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12,
+        14,
+        16,
+        25,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        110
+      ],
+      "rolesPlusPlus": [
+        9,
+        110
+      ],
+      "attributes": [
+        90,
+        63,
+        81,
+        83,
+        81,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 20000,
+      "resourceId": 50568105,
+      "assetId": 236457
     },
     "50590954": {
       "name": "Fabian Rieder",

@@ -35,6 +35,7 @@
         45
       ],
       "hasDynamicImage": false,
+      "price": 200,
       "resourceId": 72076,
       "assetId": 72076
     },
@@ -71,6 +72,7 @@
         67
       ],
       "hasDynamicImage": false,
+      "price": 200,
       "resourceId": 76312,
       "assetId": 76312
     },
@@ -121,7 +123,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 14750,
+      "price": 15000,
       "resourceId": 227361,
       "assetId": 227361
     },
@@ -166,54 +168,9 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 227392,
       "assetId": 227392
-    },
-    "242896": {
-      "name": "Ingrid Syrstad Engen",
-      "cardName": "Engen",
-      "originalVersionId": "1",
-      "clubId": 116033,
-      "leagueId": 2218,
-      "countryId": 36,
-      "versionId": "3002",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        13,
-        15,
-        21,
-        48
-      ],
-      "rolesPlusPlus": [
-        13,
-        15,
-        21,
-        48
-      ],
-      "attributes": [
-        72,
-        61,
-        80,
-        74,
-        85,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 900,
-      "resourceId": 242896,
-      "assetId": 242896
     },
     "246272": {
       "name": "Marie Katoto",
@@ -253,7 +210,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 14250,
+      "price": 14750,
       "resourceId": 246272,
       "assetId": 246272
     },
@@ -412,7 +369,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 264980,
       "assetId": 264980
     },
@@ -455,7 +412,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 265092,
       "assetId": 265092
     },
@@ -501,7 +458,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 265536,
       "assetId": 265536
     },
@@ -578,7 +535,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 850,
       "resourceId": 277170,
       "assetId": 277170
     },
@@ -617,7 +574,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 8500,
+      "price": 4000,
       "resourceId": 277171,
       "assetId": 277171
     },
@@ -709,9 +666,60 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 63500,
+      "price": 61000,
       "resourceId": 50563080,
       "assetId": 231432
+    },
+    "50574544": {
+      "name": "Ingrid Syrstad Engen",
+      "cardName": "Engen",
+      "originalVersionId": "3",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 36,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        15,
+        16,
+        19,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        21,
+        48,
+        113
+      ],
+      "rolesPlusPlus": [
+        15,
+        21,
+        48,
+        113
+      ],
+      "attributes": [
+        80,
+        63,
+        83,
+        77,
+        87,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 13000,
+      "resourceId": 50574544,
+      "assetId": 242896
     },
     "50577604": {
       "name": "Christiane Endler",
@@ -756,7 +764,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 23750,
+      "price": 24250,
       "resourceId": 50577604,
       "assetId": 245956
     },
@@ -863,7 +871,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 214000,
+      "price": 223000,
       "resourceId": 50597322,
       "assetId": 265674
     },
@@ -921,7 +929,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 122000,
+      "price": 126000,
       "resourceId": 50597546,
       "assetId": 265898
     },
@@ -971,7 +979,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 12250,
+      "price": 13250,
       "resourceId": 50597553,
       "assetId": 265905
     },
@@ -1017,7 +1025,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 13250,
       "resourceId": 50605594,
       "assetId": 273946
     },
@@ -1163,7 +1171,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 13000,
       "resourceId": 50609867,
       "assetId": 278219
     },
@@ -1210,7 +1218,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 15500,
+      "price": 16250,
       "resourceId": 67336174,
       "assetId": 227310
     },
@@ -1259,7 +1267,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 51100,
+      "sbcPrice": 54600,
       "price": 69550,
       "resourceId": 67336180,
       "assetId": 227316

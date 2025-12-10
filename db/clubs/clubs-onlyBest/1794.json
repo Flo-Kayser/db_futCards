@@ -34,7 +34,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 5000,
       "resourceId": 71274,
       "assetId": 71274
     },
@@ -265,7 +265,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 350,
       "resourceId": 189682,
       "assetId": 189682
     },
@@ -304,7 +304,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 200,
       "resourceId": 195859,
       "assetId": 195859
     },
@@ -519,7 +519,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 234741,
       "assetId": 234741
     },
@@ -643,7 +643,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 240783,
       "assetId": 240783
     },
@@ -866,48 +866,6 @@
       "price": 200,
       "resourceId": 258932,
       "assetId": 258932
-    },
-    "264196": {
-      "name": "Femi Seriki",
-      "cardName": "Seriki",
-      "originalVersionId": "1",
-      "clubId": 1794,
-      "leagueId": 14,
-      "countryId": 14,
-      "versionId": "3001",
-      "rating": 68,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        21
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5,
-        6
-      ],
-      "rolesPlusPlus": [
-        5,
-        6
-      ],
-      "attributes": [
-        87,
-        36,
-        58,
-        68,
-        60,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 264196,
-      "assetId": 264196
     },
     "264514": {
       "name": "Sam Curtis",
@@ -1244,6 +1202,7 @@
         80
       ],
       "hasDynamicImage": false,
+      "price": 350,
       "resourceId": 278288,
       "assetId": 278288
     },
@@ -1325,6 +1284,43 @@
       "price": 200,
       "resourceId": 279572,
       "assetId": 279572
+    },
+    "50538182": {
+      "name": "Patrick Bamford",
+      "cardName": "Bamford",
+      "originalVersionId": "0",
+      "clubId": 1794,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "rolesPlusPlus": [
+        41
+      ],
+      "attributes": [
+        69,
+        71,
+        67,
+        69,
+        36,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 6500,
+      "resourceId": 50538182,
+      "assetId": 206534
     },
     "50562653": {
       "name": "Chiedozie Ogbene",
@@ -1454,7 +1450,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 50568248,
       "assetId": 236600
     },
@@ -1499,6 +1495,52 @@
       "price": 200,
       "resourceId": 50580053,
       "assetId": 248405
+    },
+    "50595844": {
+      "name": "Femi Seriki",
+      "cardName": "Seriki",
+      "originalVersionId": "3",
+      "clubId": 1794,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        14,
+        17,
+        21,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        105
+      ],
+      "rolesPlusPlus": [
+        6,
+        105
+      ],
+      "attributes": [
+        94,
+        53,
+        75,
+        83,
+        77,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 40000,
+      "resourceId": 50595844,
+      "assetId": 264196
     },
     "67342374": {
       "name": "Tahith Chong",

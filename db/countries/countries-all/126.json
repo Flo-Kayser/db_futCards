@@ -281,7 +281,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1400,
     "resourceId": 73511,
     "assetId": 73511
   },
@@ -779,7 +779,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 5400,
     "resourceId": 79338,
     "assetId": 79338
   },
@@ -860,7 +860,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 1100,
+    "price": 200,
     "resourceId": 201955,
     "assetId": 201955
   },
@@ -1197,7 +1197,7 @@
       48
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 350,
     "resourceId": 236944,
     "assetId": 236944
   },
@@ -1415,7 +1415,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 400,
     "resourceId": 240453,
     "assetId": 240453
   },
@@ -1665,7 +1665,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 9700,
+    "price": 6100,
     "resourceId": 245694,
     "assetId": 245694
   },
@@ -1990,7 +1990,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 350,
     "resourceId": 251992,
     "assetId": 251992
   },
@@ -2033,7 +2033,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 252975,
     "assetId": 252975
   },
@@ -2582,7 +2582,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 650,
     "resourceId": 267660,
     "assetId": 267660
   },
@@ -2930,7 +2930,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 2400,
     "resourceId": 277985,
     "assetId": 277985
   },
@@ -3092,7 +3092,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 850,
+    "price": 700,
     "resourceId": 50551437,
     "assetId": 219789
   },
@@ -3132,7 +3132,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 4000,
+    "price": 200,
     "resourceId": 50587177,
     "assetId": 255529
   },
@@ -3169,7 +3169,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 300,
     "resourceId": 50590087,
     "assetId": 258439
   },
@@ -3215,6 +3215,45 @@
     "resourceId": 50593785,
     "assetId": 262137
   },
+  "50596675": {
+    "name": "Teninsoun Sissoko",
+    "cardName": "Sissoko",
+    "originalVersionId": "1",
+    "clubId": 116035,
+    "leagueId": 2218,
+    "countryId": 126,
+    "versionId": "3001",
+    "rating": 73,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      11,
+      13
+    ],
+    "rolesPlusPlus": [
+      11,
+      13
+    ],
+    "attributes": [
+      60,
+      46,
+      63,
+      59,
+      74,
+      75
+    ],
+    "hasDynamicImage": false,
+    "price": 10000,
+    "resourceId": 50596675,
+    "assetId": 265027
+  },
   "50602261": {
     "name": "Mahamadou Doumbia",
     "cardName": "Doumbia",
@@ -3259,5 +3298,46 @@
     "price": 350,
     "resourceId": 50602261,
     "assetId": 270613
+  },
+  "67360199": {
+    "name": "Woyo Coulibaly",
+    "cardName": "Coulibaly",
+    "originalVersionId": "0",
+    "clubId": 111974,
+    "leagueId": 31,
+    "countryId": 126,
+    "versionId": "2001",
+    "rating": 72,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      5,
+      9
+    ],
+    "rolesPlusPlus": [
+      5,
+      9
+    ],
+    "attributes": [
+      75,
+      52,
+      66,
+      71,
+      69,
+      73
+    ],
+    "hasDynamicImage": false,
+    "price": 10000,
+    "resourceId": 67360199,
+    "assetId": 251335
   }
 }

@@ -221,6 +221,7 @@
       64
     ],
     "hasDynamicImage": false,
+    "price": 200,
     "resourceId": 81636,
     "assetId": 81636
   },
@@ -257,7 +258,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 190700,
     "assetId": 190700
   },
@@ -795,7 +796,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 200,
     "resourceId": 257020,
     "assetId": 257020
   },
@@ -1031,7 +1032,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 200,
     "resourceId": 262844,
     "assetId": 262844
   },
@@ -1200,7 +1201,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 1200,
+    "price": 200,
     "resourceId": 267624,
     "assetId": 267624
   },
@@ -1624,6 +1625,46 @@
     "resourceId": 50573469,
     "assetId": 241821
   },
+  "50576410": {
+    "name": "Lamine Diaby Fadiga",
+    "cardName": "Diaby Fadiga",
+    "originalVersionId": "0",
+    "clubId": 114326,
+    "leagueId": 66,
+    "countryId": 118,
+    "versionId": "2000",
+    "rating": 64,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      32,
+      44
+    ],
+    "rolesPlusPlus": [
+      32,
+      44
+    ],
+    "attributes": [
+      66,
+      62,
+      55,
+      64,
+      25,
+      66
+    ],
+    "hasDynamicImage": false,
+    "price": 1000,
+    "resourceId": 50576410,
+    "assetId": 244762
+  },
   "50595162": {
     "name": "Abdoulaye Kamara",
     "cardName": "Kamara",
@@ -1661,5 +1702,49 @@
     "price": 200,
     "resourceId": 50595162,
     "assetId": 263514
+  },
+  "50602658": {
+    "name": "Jocelyn Janneh",
+    "cardName": "Janneh",
+    "originalVersionId": "0",
+    "clubId": 58,
+    "leagueId": 17,
+    "countryId": 118,
+    "versionId": "2001",
+    "rating": 68,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      16
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      14,
+      15,
+      21
+    ],
+    "rolesPlusPlus": [
+      14,
+      15,
+      21
+    ],
+    "attributes": [
+      70,
+      46,
+      57,
+      62,
+      68,
+      75
+    ],
+    "hasDynamicImage": false,
+    "price": 10000,
+    "resourceId": 50602658,
+    "assetId": 271010
   }
 }

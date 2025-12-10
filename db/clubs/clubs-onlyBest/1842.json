@@ -37,7 +37,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 350,
       "resourceId": 73095,
       "assetId": 73095
     },
@@ -334,46 +334,6 @@
       "resourceId": 236311,
       "assetId": 236311
     },
-    "246877": {
-      "name": "Gianluca Gaetano",
-      "cardName": "Gaetano",
-      "originalVersionId": "1",
-      "clubId": 1842,
-      "leagueId": 31,
-      "countryId": 27,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        31,
-        33
-      ],
-      "rolesPlusPlus": [
-        31,
-        33
-      ],
-      "attributes": [
-        64,
-        72,
-        73,
-        76,
-        51,
-        60
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 246877,
-      "assetId": 246877
-    },
     "247888": {
       "name": "Sebastiano Esposito",
       "cardName": "Esposito",
@@ -539,7 +499,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 252942,
       "assetId": 252942
     },
@@ -661,7 +621,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 255303,
       "assetId": 255303
     },
@@ -1077,6 +1037,52 @@
       "resourceId": 50540244,
       "assetId": 208596
     },
+    "50578525": {
+      "name": "Gianluca Gaetano",
+      "cardName": "Gaetano",
+      "originalVersionId": "3",
+      "clubId": 1842,
+      "leagueId": 31,
+      "countryId": 27,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        10,
+        22,
+        3,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        33,
+        131
+      ],
+      "rolesPlusPlus": [
+        33,
+        131
+      ],
+      "attributes": [
+        81,
+        83,
+        83,
+        85,
+        61,
+        74
+      ],
+      "hasDynamicImage": true,
+      "price": 12750,
+      "resourceId": 50578525,
+      "assetId": 246877
+    },
     "50609987": {
       "name": "Marco Palestra",
       "cardName": "Palestra",
@@ -1150,7 +1156,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 50610316,
       "assetId": 278668
     }

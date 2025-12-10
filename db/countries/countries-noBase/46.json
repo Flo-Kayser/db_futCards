@@ -45,7 +45,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 22000,
+    "price": 24250,
     "resourceId": 6975,
     "assetId": 6975
   },
@@ -93,7 +93,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 3080000,
+    "price": 2935000,
     "resourceId": 41236,
     "assetId": 41236
   },
@@ -144,7 +144,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 429000,
+    "price": 433000,
     "resourceId": 226369,
     "assetId": 226369
   },
@@ -194,7 +194,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 98000,
+    "price": 93000,
     "resourceId": 226975,
     "assetId": 226975
   },
@@ -237,7 +237,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 76000,
+    "price": 73000,
     "resourceId": 239261,
     "assetId": 239261
   },
@@ -286,7 +286,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 45000,
+    "price": 46250,
     "resourceId": 266695,
     "assetId": 266695
   },
@@ -359,7 +359,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 26500,
     "resourceId": 50338623,
     "assetId": 6975
   },
@@ -411,7 +411,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 4650000,
+    "price": 4500000,
     "resourceId": 50372884,
     "assetId": 41236
   },
@@ -454,7 +454,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 14500,
+    "price": 16250,
     "resourceId": 50403375,
     "assetId": 71727
   },
@@ -500,7 +500,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 12250,
     "resourceId": 50405823,
     "assetId": 74175
   },
@@ -593,7 +593,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 15500,
     "resourceId": 50540080,
     "assetId": 208432
   },
@@ -650,7 +650,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 764000,
+    "price": 800000,
     "resourceId": 50558017,
     "assetId": 226369
   },
@@ -704,7 +704,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 147000,
+    "price": 155000,
     "resourceId": 50558623,
     "assetId": 226975
   },
@@ -756,7 +756,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 12750,
     "resourceId": 50558635,
     "assetId": 226987
   },
@@ -823,7 +823,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 43500,
+    "sbcPrice": 45750,
     "price": 0,
     "resourceId": 50558661,
     "assetId": 227013
@@ -877,7 +877,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 306500,
+    "sbcPrice": 312750,
     "price": 350350,
     "resourceId": 50573299,
     "assetId": 241651
@@ -928,7 +928,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 14250,
     "resourceId": 50579125,
     "assetId": 247477
   },
@@ -1006,7 +1006,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 12500,
     "resourceId": 50591364,
     "assetId": 259716
   },
@@ -1056,9 +1056,107 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 12000,
     "resourceId": 50591569,
     "assetId": 259921
+  },
+  "50594875": {
+    "name": "Williot Swedberg",
+    "cardName": "Swedberg",
+    "originalVersionId": "3",
+    "clubId": 450,
+    "leagueId": 53,
+    "countryId": 46,
+    "versionId": "3",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      11,
+      20,
+      25,
+      5,
+      7
+    ],
+    "playStylesPlus": [
+      22
+    ],
+    "rolesPlus": [
+      22,
+      38,
+      132
+    ],
+    "rolesPlusPlus": [
+      22,
+      38,
+      132
+    ],
+    "attributes": [
+      86,
+      83,
+      84,
+      88,
+      73,
+      76
+    ],
+    "hasDynamicImage": true,
+    "price": 60000,
+    "resourceId": 50594875,
+    "assetId": 263227
+  },
+  "50597248": {
+    "name": "Roony Bardghji",
+    "cardName": "Bardghji",
+    "originalVersionId": "3",
+    "clubId": 241,
+    "leagueId": 53,
+    "countryId": 46,
+    "versionId": "3",
+    "rating": 83,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      2,
+      20,
+      23,
+      7,
+      8
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      26,
+      124
+    ],
+    "rolesPlusPlus": [
+      26,
+      124
+    ],
+    "attributes": [
+      87,
+      83,
+      79,
+      88,
+      40,
+      70
+    ],
+    "hasDynamicImage": true,
+    "price": 42500,
+    "resourceId": 50597248,
+    "assetId": 265600
   },
   "50604574": {
     "name": "Lucas Bergvall",
@@ -1101,7 +1199,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 28000,
+    "price": 0,
     "resourceId": 50604574,
     "assetId": 272926
   }

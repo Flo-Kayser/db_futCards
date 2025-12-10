@@ -160,7 +160,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 650,
       "resourceId": 245834,
       "assetId": 245834
     },
@@ -499,7 +499,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 550,
       "resourceId": 265331,
       "assetId": 265331
     },
@@ -780,7 +780,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 350,
       "resourceId": 272049,
       "assetId": 272049
     },
@@ -823,7 +823,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 272051,
       "assetId": 272051
     },
@@ -869,7 +869,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 3600,
+      "price": 4500,
       "resourceId": 272056,
       "assetId": 272056
     },
@@ -993,6 +993,90 @@
       "price": 200,
       "resourceId": 50596990,
       "assetId": 265342
+    },
+    "50598174": {
+      "name": "Katie Startup",
+      "cardName": "Startup",
+      "originalVersionId": "0",
+      "clubId": 116016,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "rolesPlusPlus": [
+        1
+      ],
+      "attributes": [
+        60,
+        63,
+        67,
+        69,
+        33,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50598174,
+      "assetId": 266526
+    },
+    "50603387": {
+      "name": "Honoka Hayashi",
+      "cardName": "Hayashi",
+      "originalVersionId": "3",
+      "clubId": 116016,
+      "leagueId": 2216,
+      "countryId": 163,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        11,
+        22,
+        25,
+        26,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        127
+      ],
+      "rolesPlusPlus": [
+        18,
+        127
+      ],
+      "attributes": [
+        83,
+        79,
+        84,
+        85,
+        72,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 12500,
+      "resourceId": 50603387,
+      "assetId": 271739
     }
   }
 }

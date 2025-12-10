@@ -1,5 +1,328 @@
 [
   {
+    "id": 141,
+    "name": "TOTW 13",
+    "allIds": [
+      117642638,
+      67341157,
+      100821319,
+      50608200,
+      50594875,
+      50593675,
+      50574544,
+      67341352,
+      67361026,
+      67186876,
+      50603387,
+      50406857,
+      67371810,
+      50578525,
+      50597248,
+      50595844,
+      50403797,
+      84145479,
+      50577245,
+      50401652,
+      50568105,
+      50557810,
+      50537651
+    ],
+    "highlightedPlayers": [
+      {
+        "clubId": 21,
+        "leagueId": 19,
+        "countryId": 14,
+        "versionId": 3,
+        "rating": 91,
+        "preferredFoot": "Right",
+        "weakFoot": 4,
+        "skillMoves": 3,
+        "preferredPosition": "ST",
+        "possiblePositions": [
+          "ST"
+        ],
+        "playStyles": [
+          10,
+          22,
+          4,
+          6,
+          7
+        ],
+        "playStylesPlus": [
+          0
+        ],
+        "rolesPlus": [
+          43,
+          141
+        ],
+        "rolesPlusPlus": [
+          43,
+          141
+        ],
+        "attributes": [
+          75,
+          94,
+          85,
+          84,
+          52,
+          84
+        ],
+        "hasDynamicImage": true,
+        "price": 60000,
+        "resourceId": 117642638,
+        "assetId": 202126,
+        "cardName": "Kane",
+        "name": "Harry Kane"
+      },
+      {
+        "clubId": 325,
+        "leagueId": 68,
+        "countryId": 133,
+        "versionId": 3,
+        "rating": 88,
+        "preferredFoot": "Right",
+        "weakFoot": 4,
+        "skillMoves": 3,
+        "preferredPosition": "ST",
+        "possiblePositions": [
+          "ST"
+        ],
+        "playStyles": [
+          21,
+          4,
+          5,
+          6,
+          7
+        ],
+        "playStylesPlus": [],
+        "rolesPlus": [
+          42,
+          144
+        ],
+        "rolesPlusPlus": [
+          42,
+          144
+        ],
+        "attributes": [
+          93,
+          86,
+          66,
+          83,
+          44,
+          85
+        ],
+        "hasDynamicImage": true,
+        "price": 90000,
+        "resourceId": 67341157,
+        "assetId": 232293,
+        "cardName": "Osimhen",
+        "name": "Victor Osimhen"
+      },
+      {
+        "clubId": 112893,
+        "leagueId": 39,
+        "countryId": 52,
+        "versionId": 3,
+        "rating": 88,
+        "preferredFoot": "Left",
+        "weakFoot": 4,
+        "skillMoves": 4,
+        "preferredPosition": "ST",
+        "possiblePositions": [
+          "CAM",
+          "RM",
+          "RW",
+          "ST"
+        ],
+        "playStyles": [
+          0,
+          11,
+          20,
+          25,
+          3,
+          7
+        ],
+        "playStylesPlus": [
+          8
+        ],
+        "rolesPlus": [
+          33,
+          35,
+          137,
+          143
+        ],
+        "rolesPlusPlus": [
+          33,
+          35,
+          137,
+          143
+        ],
+        "attributes": [
+          83,
+          87,
+          88,
+          92,
+          35,
+          67
+        ],
+        "hasDynamicImage": true,
+        "price": 440000,
+        "resourceId": 100821319,
+        "assetId": 158023,
+        "cardName": "Messi",
+        "name": "Lionel Messi"
+      },
+      {
+        "clubId": 116009,
+        "leagueId": 2216,
+        "countryId": 70,
+        "versionId": 3,
+        "rating": 86,
+        "preferredFoot": "Right",
+        "weakFoot": 4,
+        "skillMoves": 4,
+        "preferredPosition": "LW",
+        "possiblePositions": [
+          "CAM",
+          "LM",
+          "LW",
+          "ST"
+        ],
+        "playStyles": [
+          0,
+          12,
+          2,
+          21,
+          22
+        ],
+        "playStylesPlus": [
+          20
+        ],
+        "rolesPlus": [
+          42,
+          43,
+          139
+        ],
+        "rolesPlusPlus": [
+          42,
+          43,
+          139
+        ],
+        "attributes": [
+          86,
+          86,
+          78,
+          89,
+          31,
+          75
+        ],
+        "hasDynamicImage": true,
+        "price": 14750,
+        "resourceId": 50608200,
+        "assetId": 276552,
+        "cardName": "Smith",
+        "name": "Olivia Smith"
+      },
+      {
+        "clubId": 450,
+        "leagueId": 53,
+        "countryId": 46,
+        "versionId": 3,
+        "rating": 86,
+        "preferredFoot": "Right",
+        "weakFoot": 3,
+        "skillMoves": 3,
+        "preferredPosition": "CAM",
+        "possiblePositions": [
+          "CAM",
+          "CM",
+          "LM",
+          "LW"
+        ],
+        "playStyles": [
+          11,
+          20,
+          25,
+          5,
+          7
+        ],
+        "playStylesPlus": [
+          22
+        ],
+        "rolesPlus": [
+          22,
+          38,
+          132
+        ],
+        "rolesPlusPlus": [
+          22,
+          38,
+          132
+        ],
+        "attributes": [
+          86,
+          83,
+          84,
+          88,
+          73,
+          76
+        ],
+        "hasDynamicImage": true,
+        "price": 60000,
+        "resourceId": 50594875,
+        "assetId": 263227,
+        "cardName": "Swedberg",
+        "name": "Williot Swedberg"
+      },
+      {
+        "clubId": 111974,
+        "leagueId": 31,
+        "countryId": 8,
+        "versionId": 3,
+        "rating": 86,
+        "preferredFoot": "Left",
+        "weakFoot": 3,
+        "skillMoves": 2,
+        "preferredPosition": "CB",
+        "possiblePositions": [
+          "CB"
+        ],
+        "playStyles": [
+          11,
+          14,
+          17,
+          19,
+          4
+        ],
+        "playStylesPlus": [
+          15
+        ],
+        "rolesPlus": [
+          12,
+          111
+        ],
+        "rolesPlusPlus": [
+          12,
+          111
+        ],
+        "attributes": [
+          80,
+          39,
+          65,
+          75,
+          88,
+          83
+        ],
+        "hasDynamicImage": true,
+        "price": 13750,
+        "resourceId": 50593675,
+        "assetId": 262027,
+        "cardName": "Muharemović",
+        "name": "Tarik Muharemović"
+      }
+    ]
+  },
+  {
     "id": 139,
     "name": "TOTW 12",
     "allIds": [
@@ -67,7 +390,7 @@
           84
         ],
         "hasDynamicImage": true,
-        "price": 26250,
+        "price": 27750,
         "resourceId": 50563126,
         "assetId": 231478,
         "cardName": "Martínez",
@@ -113,7 +436,7 @@
           82
         ],
         "hasDynamicImage": false,
-        "price": 15500,
+        "price": 16250,
         "resourceId": 67336174,
         "assetId": 227310,
         "cardName": "Hegerberg",
@@ -166,7 +489,7 @@
           59
         ],
         "hasDynamicImage": true,
-        "price": 14000,
+        "price": 14250,
         "resourceId": 84123772,
         "assetId": 237692,
         "cardName": "Foden",
@@ -215,7 +538,7 @@
           75
         ],
         "hasDynamicImage": true,
-        "price": 11250,
+        "price": 12500,
         "resourceId": 50579697,
         "assetId": 248049,
         "cardName": "Petrila",
@@ -269,7 +592,7 @@
           69
         ],
         "hasDynamicImage": true,
-        "price": 34500,
+        "price": 36500,
         "resourceId": 67345496,
         "assetId": 236632,
         "cardName": "David Neres",
@@ -318,7 +641,7 @@
           66
         ],
         "hasDynamicImage": false,
-        "price": 11000,
+        "price": 12250,
         "resourceId": 50594659,
         "assetId": 263011,
         "cardName": "Toone",
@@ -399,7 +722,7 @@
           68
         ],
         "hasDynamicImage": true,
-        "price": 25000,
+        "price": 26250,
         "resourceId": 84118155,
         "assetId": 232075,
         "cardName": "Lavelle",
@@ -454,7 +777,7 @@
           71
         ],
         "hasDynamicImage": true,
-        "price": 63500,
+        "price": 66000,
         "resourceId": 67342526,
         "assetId": 233662,
         "cardName": "Karchaoui",
@@ -503,7 +826,7 @@
           73
         ],
         "hasDynamicImage": true,
-        "price": 64500,
+        "price": 66000,
         "resourceId": 67344658,
         "assetId": 235794,
         "cardName": "Eze",
@@ -557,7 +880,7 @@
           80
         ],
         "hasDynamicImage": false,
-        "price": 11500,
+        "price": 12500,
         "resourceId": 50603590,
         "assetId": 271942,
         "cardName": "Ane Azkona",
@@ -604,7 +927,7 @@
           78
         ],
         "hasDynamicImage": true,
-        "price": 78500,
+        "price": 83000,
         "resourceId": 83906881,
         "assetId": 20801,
         "cardName": "Cristiano Ronaldo",
@@ -730,7 +1053,7 @@
           86
         ],
         "hasDynamicImage": true,
-        "price": 32500,
+        "price": 33750,
         "resourceId": 67355083,
         "assetId": 246219,
         "cardName": "Shaw",
@@ -774,7 +1097,7 @@
           83
         ],
         "hasDynamicImage": true,
-        "price": 33750,
+        "price": 35000,
         "resourceId": 50568127,
         "assetId": 236479,
         "cardName": "Mapi León",
@@ -823,7 +1146,7 @@
           78
         ],
         "hasDynamicImage": false,
-        "price": 157000,
+        "price": 161000,
         "resourceId": 67349502,
         "assetId": 240638,
         "cardName": "Reijnders",
@@ -865,7 +1188,7 @@
           83
         ],
         "hasDynamicImage": true,
-        "price": 12750,
+        "price": 13000,
         "resourceId": 50589958,
         "assetId": 258310,
         "cardName": "Berger",
@@ -916,7 +1239,7 @@
           64
         ],
         "hasDynamicImage": true,
-        "price": 11500,
+        "price": 12500,
         "resourceId": 50596140,
         "assetId": 264492,
         "cardName": "Yeremay",
@@ -965,7 +1288,7 @@
           82
         ],
         "hasDynamicImage": true,
-        "price": 11500,
+        "price": 12250,
         "resourceId": 50603852,
         "assetId": 272204,
         "cardName": "Poljak",
@@ -1047,7 +1370,7 @@
           72
         ],
         "hasDynamicImage": true,
-        "price": 88000,
+        "price": 91500,
         "resourceId": 50586901,
         "assetId": 255253,
         "cardName": "Vitinha",
@@ -1092,7 +1415,7 @@
           77
         ],
         "hasDynamicImage": true,
-        "price": 15750,
+        "price": 16000,
         "resourceId": 67357686,
         "assetId": 248822,
         "cardName": "Bühl",
@@ -1146,7 +1469,7 @@
           66
         ],
         "hasDynamicImage": true,
-        "price": 70000,
+        "price": 58000,
         "resourceId": 84044103,
         "assetId": 158023,
         "cardName": "Messi",
@@ -1199,7 +1522,7 @@
           81
         ],
         "hasDynamicImage": true,
-        "price": 11250,
+        "price": 12500,
         "resourceId": 50585083,
         "assetId": 253435,
         "cardName": "Laia Aleixandri",
@@ -1243,7 +1566,7 @@
           90
         ],
         "hasDynamicImage": true,
-        "price": 12000,
+        "price": 13000,
         "resourceId": 50575556,
         "assetId": 243908,
         "cardName": "Ballard",
@@ -1294,7 +1617,7 @@
           73
         ],
         "hasDynamicImage": true,
-        "price": 11000,
+        "price": 12500,
         "resourceId": 50542583,
         "assetId": 210935,
         "cardName": "Berardi",
@@ -1416,7 +1739,7 @@
           86
         ],
         "hasDynamicImage": true,
-        "price": 22500,
+        "price": 23500,
         "resourceId": 50547346,
         "assetId": 215698,
         "cardName": "Maignan",
@@ -1466,7 +1789,7 @@
           75
         ],
         "hasDynamicImage": true,
-        "price": 13000,
+        "price": 13500,
         "resourceId": 50539776,
         "assetId": 208128,
         "cardName": "Çalhanoğlu",
@@ -1512,7 +1835,7 @@
           70
         ],
         "hasDynamicImage": true,
-        "price": 11000,
+        "price": 12250,
         "resourceId": 50577825,
         "assetId": 246177,
         "cardName": "Laurent",
@@ -1566,7 +1889,7 @@
           73
         ],
         "hasDynamicImage": true,
-        "price": 11250,
+        "price": 12500,
         "resourceId": 50572598,
         "assetId": 240950,
         "cardName": "Pedro Gonçalves",
@@ -1611,7 +1934,7 @@
           82
         ],
         "hasDynamicImage": true,
-        "price": 11250,
+        "price": 12250,
         "resourceId": 50571678,
         "assetId": 240030,
         "cardName": "Carpenter",
@@ -1693,7 +2016,7 @@
           81
         ],
         "hasDynamicImage": false,
-        "price": 430000,
+        "price": 433000,
         "resourceId": 50558851,
         "assetId": 227203,
         "cardName": "Alexia Putellas",
@@ -1747,7 +2070,7 @@
           86
         ],
         "hasDynamicImage": true,
-        "price": 263000,
+        "price": 278000,
         "resourceId": 50584019,
         "assetId": 252371,
         "cardName": "Bellingham",
@@ -1797,7 +2120,7 @@
           84
         ],
         "hasDynamicImage": false,
-        "price": 16000,
+        "price": 16250,
         "resourceId": 50596887,
         "assetId": 265239,
         "cardName": "McCabe",
@@ -1851,7 +2174,7 @@
           80
         ],
         "hasDynamicImage": false,
-        "price": 13250,
+        "price": 13750,
         "resourceId": 50590935,
         "assetId": 259287,
         "cardName": "Harder",
@@ -1896,7 +2219,7 @@
           84
         ],
         "hasDynamicImage": true,
-        "price": 11750,
+        "price": 14000,
         "resourceId": 50560836,
         "assetId": 229188,
         "cardName": "Pavlidis",
@@ -1943,7 +2266,7 @@
           83
         ],
         "hasDynamicImage": true,
-        "price": 12250,
+        "price": 13000,
         "resourceId": 50591128,
         "assetId": 259480,
         "cardName": "Saibari",
@@ -2019,7 +2342,7 @@
           82
         ],
         "hasDynamicImage": true,
-        "price": 11750,
+        "price": 13000,
         "resourceId": 50609867,
         "assetId": 278219,
         "cardName": "Chawinga",
@@ -2070,7 +2393,7 @@
           77
         ],
         "hasDynamicImage": true,
-        "price": 11500,
+        "price": 13500,
         "resourceId": 50577345,
         "assetId": 245697,
         "cardName": "Mateo",
@@ -2115,7 +2438,7 @@
           75
         ],
         "hasDynamicImage": true,
-        "price": 11250,
+        "price": 12500,
         "resourceId": 67359823,
         "assetId": 250959,
         "cardName": "Stiller",
@@ -2155,7 +2478,7 @@
           83
         ],
         "hasDynamicImage": true,
-        "price": 12000,
+        "price": 13000,
         "resourceId": 67345325,
         "assetId": 236461,
         "cardName": "Mateta",
@@ -2205,7 +2528,7 @@
           67
         ],
         "hasDynamicImage": true,
-        "price": 18000,
+        "price": 18250,
         "resourceId": 50577795,
         "assetId": 246147,
         "cardName": "Greenwood",
@@ -2331,7 +2654,7 @@
           78
         ],
         "hasDynamicImage": false,
-        "price": 389000,
+        "price": 415000,
         "resourceId": 50540979,
         "assetId": 209331,
         "cardName": "Salah",
@@ -2376,7 +2699,7 @@
           75
         ],
         "hasDynamicImage": true,
-        "price": 13250,
+        "price": 13750,
         "resourceId": 50580470,
         "assetId": 248822,
         "cardName": "Bühl",
@@ -2423,7 +2746,7 @@
           77
         ],
         "hasDynamicImage": false,
-        "price": 13500,
+        "price": 13750,
         "resourceId": 50574164,
         "assetId": 242516,
         "cardName": "Gakpo",
@@ -2473,7 +2796,7 @@
           79
         ],
         "hasDynamicImage": false,
-        "price": 11500,
+        "price": 12250,
         "resourceId": 50555941,
         "assetId": 224293,
         "cardName": "Rúben Neves",
@@ -2524,7 +2847,7 @@
           66
         ],
         "hasDynamicImage": false,
-        "price": 26750,
+        "price": 26000,
         "resourceId": 67352676,
         "assetId": 243812,
         "cardName": "Rodrygo",
@@ -2567,7 +2890,7 @@
           72
         ],
         "hasDynamicImage": false,
-        "price": 12250,
+        "price": 13000,
         "resourceId": 50520215,
         "assetId": 188567,
         "cardName": "Aubameyang",
@@ -2651,7 +2974,7 @@
           70
         ],
         "hasDynamicImage": true,
-        "price": 800000,
+        "price": 814000,
         "resourceId": 50570442,
         "assetId": 238794,
         "cardName": "Vini Jr.",
@@ -2699,7 +3022,7 @@
           83
         ],
         "hasDynamicImage": true,
-        "price": 35750,
+        "price": 37000,
         "resourceId": 50587727,
         "assetId": 256079,
         "cardName": "Caicedo",
@@ -2795,7 +3118,7 @@
           77
         ],
         "hasDynamicImage": true,
-        "price": 19000,
+        "price": 20500,
         "resourceId": 67349948,
         "assetId": 241084,
         "cardName": "Díaz",
@@ -2839,7 +3162,7 @@
           76
         ],
         "hasDynamicImage": true,
-        "price": 24250,
+        "price": 20750,
         "resourceId": 50520980,
         "assetId": 189332,
         "cardName": "Jordi Alba",
@@ -2891,7 +3214,7 @@
           79
         ],
         "hasDynamicImage": true,
-        "price": 17500,
+        "price": 19750,
         "resourceId": 50599910,
         "assetId": 268262,
         "cardName": "Kouassi",
@@ -2972,7 +3295,7 @@
           66
         ],
         "hasDynamicImage": true,
-        "price": 16000,
+        "price": 16500,
         "resourceId": 50563723,
         "assetId": 232075,
         "cardName": "Lavelle",
@@ -3017,7 +3340,7 @@
           79
         ],
         "hasDynamicImage": true,
-        "price": 13750,
+        "price": 12500,
         "resourceId": 50575052,
         "assetId": 243404,
         "cardName": "Stanway",
@@ -3062,7 +3385,7 @@
           77
         ],
         "hasDynamicImage": true,
-        "price": 11750,
+        "price": 13250,
         "resourceId": 50605594,
         "assetId": 273946,
         "cardName": "Shrader",
@@ -3107,7 +3430,7 @@
           81
         ],
         "hasDynamicImage": true,
-        "price": 14000,
+        "price": 14500,
         "resourceId": 50525395,
         "assetId": 193747,
         "cardName": "Koke",
@@ -3152,7 +3475,7 @@
           79
         ],
         "hasDynamicImage": true,
-        "price": 13250,
+        "price": 14000,
         "resourceId": 50603742,
         "assetId": 272094,
         "cardName": "Fiamma Benítez",
@@ -3204,7 +3527,7 @@
           59
         ],
         "hasDynamicImage": true,
-        "price": 25000,
+        "price": 22000,
         "resourceId": 50548195,
         "assetId": 216547,
         "cardName": "Rafa",
@@ -3286,7 +3609,7 @@
           77
         ],
         "hasDynamicImage": true,
-        "price": 25500,
+        "price": 24500,
         "resourceId": 50558541,
         "assetId": 226893,
         "cardName": "Debinha",
@@ -3387,7 +3710,7 @@
           76
         ],
         "hasDynamicImage": true,
-        "price": 11500,
+        "price": 12500,
         "resourceId": 50558975,
         "assetId": 227327,
         "cardName": "Däbritz",
@@ -3438,7 +3761,7 @@
           73
         ],
         "hasDynamicImage": true,
-        "price": 108000,
+        "price": 97500,
         "resourceId": 50574092,
         "assetId": 242444,
         "cardName": "João Félix",
@@ -3533,7 +3856,7 @@
           82
         ],
         "hasDynamicImage": true,
-        "price": 24000,
+        "price": 26500,
         "resourceId": 50557599,
         "assetId": 225951,
         "cardName": "Bouanga",
@@ -3609,7 +3932,7 @@
           89
         ],
         "hasDynamicImage": true,
-        "price": 140000,
+        "price": 145000,
         "resourceId": 50570733,
         "assetId": 239085,
         "cardName": "Haaland",
@@ -3653,7 +3976,7 @@
           83
         ],
         "hasDynamicImage": true,
-        "price": 33000,
+        "price": 35000,
         "resourceId": 50533774,
         "assetId": 202126,
         "cardName": "Kane",
@@ -3700,7 +4023,7 @@
           73
         ],
         "hasDynamicImage": true,
-        "price": 11500,
+        "price": 12500,
         "resourceId": 50541683,
         "assetId": 210035,
         "cardName": "Grimaldo",
@@ -3748,7 +4071,7 @@
           70
         ],
         "hasDynamicImage": true,
-        "price": 23250,
+        "price": 24500,
         "resourceId": 50590354,
         "assetId": 258706,
         "cardName": "Malard",
@@ -3842,7 +4165,7 @@
           72
         ],
         "hasDynamicImage": true,
-        "price": 16500,
+        "price": 18500,
         "resourceId": 50521244,
         "assetId": 189596,
         "cardName": "Müller",
