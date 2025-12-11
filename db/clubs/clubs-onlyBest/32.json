@@ -310,7 +310,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1000,
       "resourceId": 210324,
       "assetId": 210324
     },
@@ -387,7 +387,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 900,
       "resourceId": 211738,
       "assetId": 211738
     },
@@ -527,7 +527,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 231521,
       "assetId": 231521
     },
@@ -580,7 +580,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 236786,
       "assetId": 236786
     },
@@ -627,52 +627,6 @@
       "resourceId": 247679,
       "assetId": 247679
     },
-    "255106": {
-      "name": "Loïc Badé",
-      "cardName": "Badé",
-      "originalVersionId": "0",
-      "clubId": 32,
-      "leagueId": 19,
-      "countryId": 18,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        14,
-        16,
-        17,
-        19
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        12,
-        48
-      ],
-      "rolesPlusPlus": [
-        11,
-        12,
-        48
-      ],
-      "attributes": [
-        61,
-        45,
-        56,
-        66,
-        78,
-        78
-      ],
-      "hasDynamicImage": false,
-      "price": 450,
-      "resourceId": 255106,
-      "assetId": 255106
-    },
     "256197": {
       "name": "Piero Hincapié",
       "cardName": "Hincapié",
@@ -717,7 +671,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 900000,
+      "price": 1100000,
       "resourceId": 256197,
       "assetId": 256197
     },
@@ -962,7 +916,7 @@
       "attributes": [
         88,
         83,
-        99,
+        86,
         86,
         56,
         70
@@ -1016,9 +970,61 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 17750,
+      "price": 18250,
       "resourceId": 50578911,
       "assetId": 247263
+    },
+    "50586754": {
+      "name": "Loïc Badé",
+      "cardName": "Badé",
+      "originalVersionId": "96",
+      "clubId": 32,
+      "leagueId": 19,
+      "countryId": 18,
+      "versionId": "96",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 5,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        16,
+        17,
+        18,
+        19,
+        9
+      ],
+      "playStylesPlus": [
+        10
+      ],
+      "rolesPlus": [
+        12,
+        48,
+        111,
+        113
+      ],
+      "rolesPlusPlus": [
+        12,
+        48,
+        111,
+        113
+      ],
+      "attributes": [
+        80,
+        53,
+        80,
+        75,
+        87,
+        86
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 66750,
+      "resourceId": 50586754,
+      "assetId": 255106
     },
     "50588501": {
       "name": "Malik Tillman",
@@ -1118,7 +1124,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 50593799,
       "assetId": 262151
     },
@@ -1163,7 +1169,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 50604429,
       "assetId": 272781
     },
@@ -1259,7 +1265,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 14500,
       "resourceId": 50606677,
       "assetId": 275029
     },
@@ -1318,7 +1324,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 42250,
+      "price": 46750,
       "resourceId": 67318899,
       "assetId": 210035
     },

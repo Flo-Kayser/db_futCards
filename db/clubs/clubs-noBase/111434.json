@@ -1,6 +1,57 @@
 {
   "clubName": "Cremonese",
   "players": {
+    "50540478": {
+      "name": "Jamie Vardy",
+      "cardName": "Vardy",
+      "originalVersionId": "114",
+      "clubId": 111434,
+      "leagueId": 31,
+      "countryId": 14,
+      "versionId": "114",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        11,
+        22,
+        25,
+        6
+      ],
+      "playStylesPlus": [
+        2
+      ],
+      "rolesPlus": [
+        41,
+        43,
+        142,
+        144
+      ],
+      "rolesPlusPlus": [
+        41,
+        43,
+        142,
+        144
+      ],
+      "attributes": [
+        87,
+        87,
+        80,
+        85,
+        63,
+        80
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 67500,
+      "resourceId": 50540478,
+      "assetId": 208830
+    },
     "50600221": {
       "name": "Federico Baschirotto",
       "cardName": "Baschirotto",
@@ -42,7 +93,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 18500,
+      "price": 18000,
       "resourceId": 50600221,
       "assetId": 268573
     }
