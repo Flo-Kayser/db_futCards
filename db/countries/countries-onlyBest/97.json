@@ -433,7 +433,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 350,
     "resourceId": 201143,
     "assetId": 201143
   },
@@ -475,7 +475,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 350,
     "resourceId": 206436,
     "assetId": 206436
   },
@@ -565,56 +565,6 @@
     "price": 200,
     "resourceId": 211240,
     "assetId": 211240
-  },
-  "213296": {
-    "name": "Nabil Bentaleb",
-    "cardName": "Bentaleb",
-    "originalVersionId": "0",
-    "clubId": 65,
-    "leagueId": 16,
-    "countryId": 97,
-    "versionId": "2002",
-    "rating": 77,
-    "preferredFoot": "Left",
-    "weakFoot": 2,
-    "skillMoves": 4,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      10,
-      13,
-      19,
-      2,
-      20,
-      3,
-      9
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      15,
-      16,
-      20
-    ],
-    "rolesPlusPlus": [
-      15,
-      16,
-      20
-    ],
-    "attributes": [
-      50,
-      72,
-      77,
-      79,
-      71,
-      73
-    ],
-    "hasDynamicImage": false,
-    "price": 450,
-    "resourceId": 213296,
-    "assetId": 213296
   },
   "217699": {
     "name": "Islam Slimani",
@@ -829,7 +779,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 234906,
     "assetId": 234906
   },
@@ -1044,7 +994,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 750,
     "resourceId": 242641,
     "assetId": 242641
   },
@@ -1136,7 +1086,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 246297,
     "assetId": 246297
   },
@@ -1180,7 +1130,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 8500,
+    "price": 8400,
     "resourceId": 252302,
     "assetId": 252302
   },
@@ -1266,7 +1216,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 350,
     "resourceId": 253157,
     "assetId": 253157
   },
@@ -1407,7 +1357,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 350,
     "resourceId": 261737,
     "assetId": 261737
   },
@@ -1595,7 +1545,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 700,
     "resourceId": 264697,
     "assetId": 264697
   },
@@ -1637,7 +1587,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 265845,
     "assetId": 265845
   },
@@ -1719,7 +1669,7 @@
       47
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 3600,
     "resourceId": 266889,
     "assetId": 266889
   },
@@ -2183,7 +2133,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 200,
     "resourceId": 271244,
     "assetId": 271244
   },
@@ -2482,9 +2432,67 @@
       61
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 16750,
     "resourceId": 50402374,
     "assetId": 70726
+  },
+  "50544944": {
+    "name": "Nabil Bentaleb",
+    "cardName": "Bentaleb",
+    "originalVersionId": "82",
+    "clubId": 65,
+    "leagueId": 16,
+    "countryId": 97,
+    "versionId": "82",
+    "rating": 86,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      13,
+      19,
+      2,
+      20,
+      3,
+      9
+    ],
+    "playStylesPlus": [
+      24
+    ],
+    "rolesPlus": [
+      14,
+      15,
+      19,
+      116,
+      120,
+      121
+    ],
+    "rolesPlusPlus": [
+      14,
+      15,
+      19,
+      116,
+      120,
+      121
+    ],
+    "attributes": [
+      82,
+      83,
+      86,
+      87,
+      80,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 20000,
+    "resourceId": 50544944,
+    "assetId": 213296
   },
   "50552269": {
     "name": "Saïd Benrahma",
@@ -2631,7 +2639,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 850,
+    "price": 700,
     "resourceId": 50558402,
     "assetId": 226754
   },
@@ -2790,20 +2798,26 @@
       "LM"
     ],
     "playStyles": [
+      14,
       18,
       20,
       21,
+      25,
       28
     ],
     "playStylesPlus": [],
     "rolesPlus": [
       9,
+      28,
       30,
+      107,
       110
     ],
     "rolesPlusPlus": [
       9,
+      28,
       30,
+      107,
       110
     ],
     "attributes": [
@@ -2858,7 +2872,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 200,
     "resourceId": 50596040,
     "assetId": 264392
   },
@@ -2904,7 +2918,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 50602113,
     "assetId": 270465
   },
@@ -2952,7 +2966,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 20500,
     "resourceId": 50606677,
     "assetId": 275029
   },
@@ -3009,7 +3023,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17500,
     "resourceId": 67313349,
     "assetId": 204485
   }

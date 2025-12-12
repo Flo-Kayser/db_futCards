@@ -72,7 +72,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 200,
       "resourceId": 77494,
       "assetId": 77494
     },
@@ -191,48 +191,6 @@
       "resourceId": 190560,
       "assetId": 190560
     },
-    "213209": {
-      "name": "Kellyn Acosta",
-      "cardName": "Acosta",
-      "originalVersionId": "0",
-      "clubId": 693,
-      "leagueId": 39,
-      "countryId": 95,
-      "versionId": "2001",
-      "rating": 71,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        14,
-        16,
-        21
-      ],
-      "rolesPlusPlus": [
-        14,
-        16,
-        21
-      ],
-      "attributes": [
-        74,
-        67,
-        71,
-        71,
-        64,
-        76
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 213209,
-      "assetId": 213209
-    },
     "215443": {
       "name": "Philip Zinckernagel",
       "cardName": "Zinckernagel",
@@ -280,7 +238,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 215443,
       "assetId": 215443
     },
@@ -329,7 +287,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 225085,
       "assetId": 225085
     },
@@ -370,7 +328,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 233630,
       "assetId": 233630
     },
@@ -710,7 +668,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 850,
       "resourceId": 247474,
       "assetId": 247474
     },
@@ -1165,6 +1123,60 @@
       "price": 200,
       "resourceId": 277619,
       "assetId": 277619
+    },
+    "50544857": {
+      "name": "Kellyn Acosta",
+      "cardName": "Acosta",
+      "originalVersionId": "82",
+      "clubId": 693,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "82",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        2,
+        20,
+        26,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18,
+        21,
+        116,
+        120,
+        149
+      ],
+      "rolesPlusPlus": [
+        14,
+        18,
+        21,
+        116,
+        120,
+        149
+      ],
+      "attributes": [
+        84,
+        82,
+        83,
+        86,
+        80,
+        87
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50544857,
+      "assetId": 213209
     },
     "50587604": {
       "name": "Joel Waterman",

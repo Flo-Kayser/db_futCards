@@ -46,7 +46,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 14250,
+    "price": 14500,
     "resourceId": 51412,
     "assetId": 51412
   },
@@ -1786,7 +1786,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 2000,
+    "price": 2500,
     "resourceId": 75141,
     "assetId": 75141
   },
@@ -2060,7 +2060,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 8000,
+    "price": 10000,
     "resourceId": 79446,
     "assetId": 79446
   },
@@ -2480,7 +2480,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 350,
     "resourceId": 199005,
     "assetId": 199005
   },
@@ -4132,7 +4132,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 700,
     "resourceId": 227113,
     "assetId": 227113
   },
@@ -4223,7 +4223,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 950,
     "resourceId": 227119,
     "assetId": 227119
   },
@@ -4262,7 +4262,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 400,
     "resourceId": 227925,
     "assetId": 227925
   },
@@ -6813,7 +6813,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 400,
     "resourceId": 248799,
     "assetId": 248799
   },
@@ -8873,7 +8873,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 350,
     "resourceId": 262866,
     "assetId": 262866
   },
@@ -9851,56 +9851,6 @@
     "resourceId": 266740,
     "assetId": 266740
   },
-  "266801": {
-    "name": "Harry Kewell",
-    "cardName": "Kewell",
-    "originalVersionId": "72",
-    "clubId": 114605,
-    "leagueId": 13,
-    "countryId": 195,
-    "versionId": "72",
-    "rating": 87,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 4,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "CAM",
-      "LM",
-      "LW"
-    ],
-    "playStyles": [
-      13,
-      2,
-      21,
-      22
-    ],
-    "playStylesPlus": [
-      6
-    ],
-    "rolesPlus": [
-      27,
-      33,
-      138
-    ],
-    "rolesPlusPlus": [
-      27,
-      33,
-      138
-    ],
-    "attributes": [
-      90,
-      85,
-      88,
-      88,
-      52,
-      69
-    ],
-    "hasDynamicImage": false,
-    "price": 89500,
-    "resourceId": 266801,
-    "assetId": 266801
-  },
   "267599": {
     "name": "Patrick Beach",
     "cardName": "Beach",
@@ -10259,7 +10209,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1800,
     "resourceId": 271971,
     "assetId": 271971
   },
@@ -11072,7 +11022,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 274644,
     "assetId": 274644
   },
@@ -12545,7 +12495,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 20250,
+    "price": 20000,
     "resourceId": 50548392,
     "assetId": 216744
   },
@@ -12642,7 +12592,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 34750,
+    "price": 35500,
     "resourceId": 50558773,
     "assetId": 227125
   },
@@ -12730,7 +12680,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 14000,
     "resourceId": 50571678,
     "assetId": 240030
   },
@@ -12906,7 +12856,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 14500,
     "resourceId": 50584116,
     "assetId": 252468
   },
@@ -13077,9 +13027,61 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 14250,
     "resourceId": 50595711,
     "assetId": 264063
+  },
+  "50598449": {
+    "name": "Harry Kewell",
+    "cardName": "Kewell",
+    "originalVersionId": "81",
+    "clubId": 114605,
+    "leagueId": 13,
+    "countryId": 195,
+    "versionId": "81",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      13,
+      2,
+      21,
+      22,
+      23,
+      6
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      27,
+      33,
+      138
+    ],
+    "rolesPlusPlus": [
+      27,
+      33,
+      138
+    ],
+    "attributes": [
+      92,
+      85,
+      89,
+      88,
+      52,
+      70
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50598449,
+    "assetId": 266801
   },
   "50601768": {
     "name": "Jake Najdovski",

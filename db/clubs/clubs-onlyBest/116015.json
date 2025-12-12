@@ -34,7 +34,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 200,
       "resourceId": 75704,
       "assetId": 75704
     },
@@ -72,7 +72,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 200,
       "resourceId": 77841,
       "assetId": 77841
     },
@@ -109,7 +109,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 80614,
       "assetId": 80614
     },
@@ -148,7 +148,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 235593,
       "assetId": 235593
     },
@@ -194,7 +194,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 450,
       "resourceId": 235657,
       "assetId": 235657
     },
@@ -283,48 +283,9 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 246235,
       "assetId": 246235
-    },
-    "247796": {
-      "name": "Ellie Roebuck",
-      "cardName": "Roebuck",
-      "originalVersionId": "0",
-      "clubId": 116015,
-      "leagueId": 2216,
-      "countryId": 14,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        31
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        1
-      ],
-      "rolesPlusPlus": [
-        1
-      ],
-      "attributes": [
-        81,
-        77,
-        76,
-        78,
-        59,
-        76
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 247796,
-      "assetId": 247796
     },
     "264866": {
       "name": "Océane Deslandes",
@@ -418,7 +379,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 400,
       "resourceId": 264876,
       "assetId": 264876
     },
@@ -460,7 +421,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 3500,
       "resourceId": 265237,
       "assetId": 265237
     },
@@ -499,7 +460,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 265243,
       "assetId": 265243
     },
@@ -545,7 +506,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 265274,
       "assetId": 265274
     },
@@ -584,7 +545,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 265307,
       "assetId": 265307
     },
@@ -626,7 +587,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 400,
       "resourceId": 265326,
       "assetId": 265326
     },
@@ -710,7 +671,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 400,
       "resourceId": 267374,
       "assetId": 267374
     },
@@ -755,7 +716,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 272011,
       "assetId": 272011
     },
@@ -798,7 +759,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 273205,
       "assetId": 273205
     },
@@ -835,9 +796,55 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 200,
       "resourceId": 277983,
       "assetId": 277983
+    },
+    "50579444": {
+      "name": "Ellie Roebuck",
+      "cardName": "Roebuck",
+      "originalVersionId": "82",
+      "clubId": 116015,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "82",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        31,
+        32,
+        33
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "rolesPlusPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        88,
+        84,
+        83,
+        85,
+        68,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 19500,
+      "resourceId": 50579444,
+      "assetId": 247796
     },
     "50596885": {
       "name": "Anna Patten",
@@ -877,7 +884,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 50596885,
       "assetId": 265237
     },
@@ -961,7 +968,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 200,
       "resourceId": 50599022,
       "assetId": 267374
     },
@@ -1009,7 +1016,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 13500,
+      "price": 14000,
       "resourceId": 67362281,
       "assetId": 253417
     }

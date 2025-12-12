@@ -1,6 +1,62 @@
 {
   "clubName": "SV Werder Bremen",
   "players": {
+    "50596579": {
+      "name": "Verena Wieder",
+      "cardName": "Wieder",
+      "originalVersionId": "82",
+      "clubId": 116004,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "82",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        2,
+        20,
+        5,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        39,
+        43,
+        127,
+        138,
+        142
+      ],
+      "rolesPlusPlus": [
+        30,
+        39,
+        43,
+        127,
+        138,
+        142
+      ],
+      "attributes": [
+        90,
+        86,
+        82,
+        86,
+        60,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 18000,
+      "resourceId": 50596579,
+      "assetId": 264931
+    },
     "50597030": {
       "name": "Medina Dešić",
       "cardName": "Dešić",
@@ -40,7 +96,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 15750,
       "resourceId": 50597030,
       "assetId": 265382
     }

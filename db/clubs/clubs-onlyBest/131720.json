@@ -83,46 +83,6 @@
       "resourceId": 72148,
       "assetId": 72148
     },
-    "72150": {
-      "name": "Eva Dios",
-      "cardName": "Eva Dios",
-      "originalVersionId": "0",
-      "clubId": 131720,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "2001",
-      "rating": 69,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        20
-      ],
-      "rolesPlusPlus": [
-        18,
-        20
-      ],
-      "attributes": [
-        71,
-        53,
-        65,
-        67,
-        61,
-        60
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 72150,
-      "assetId": 72150
-    },
     "72215": {
       "name": "Samara Ortiz",
       "cardName": "Samara Ortiz",
@@ -599,7 +559,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 261848,
       "assetId": 261848
     },
@@ -773,7 +733,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 278195,
       "assetId": 278195
     },
@@ -858,9 +818,66 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 13750,
       "resourceId": 50403797,
       "assetId": 72149
+    },
+    "50403798": {
+      "name": "Eva Dios",
+      "cardName": "Eva Dios",
+      "originalVersionId": "82",
+      "clubId": 131720,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "82",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        17,
+        20,
+        25,
+        26,
+        8
+      ],
+      "playStylesPlus": [
+        13
+      ],
+      "rolesPlus": [
+        16,
+        20,
+        22,
+        118,
+        121,
+        149
+      ],
+      "rolesPlusPlus": [
+        16,
+        20,
+        22,
+        118,
+        121,
+        149
+      ],
+      "attributes": [
+        88,
+        75,
+        83,
+        85,
+        77,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 19250,
+      "resourceId": 50403798,
+      "assetId": 72150
     }
   }
 }

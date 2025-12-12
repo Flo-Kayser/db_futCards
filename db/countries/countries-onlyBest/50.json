@@ -616,7 +616,7 @@
       47
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 200,
     "resourceId": 75297,
     "assetId": 75297
   },
@@ -653,7 +653,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 4900,
+    "price": 200,
     "resourceId": 75704,
     "assetId": 75704
   },
@@ -2090,48 +2090,6 @@
     "resourceId": 218343,
     "assetId": 218343
   },
-  "220196": {
-    "name": "David Brooks",
-    "cardName": "Brooks",
-    "originalVersionId": "0",
-    "clubId": 1943,
-    "leagueId": 13,
-    "countryId": 50,
-    "versionId": "2002",
-    "rating": 75,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 4,
-    "preferredPosition": "RM",
-    "possiblePositions": [
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      20
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      25,
-      26
-    ],
-    "rolesPlusPlus": [
-      25,
-      26
-    ],
-    "attributes": [
-      70,
-      69,
-      74,
-      77,
-      48,
-      58
-    ],
-    "hasDynamicImage": false,
-    "price": 450,
-    "resourceId": 220196,
-    "assetId": 220196
-  },
   "220710": {
     "name": "Harry Wilson",
     "cardName": "Wilson",
@@ -2168,7 +2126,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 220710,
     "assetId": 220710
   },
@@ -2385,7 +2343,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 350,
     "resourceId": 225147,
     "assetId": 225147
   },
@@ -2640,7 +2598,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 229266,
     "assetId": 229266
   },
@@ -3066,7 +3024,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 235735,
     "assetId": 235735
   },
@@ -3309,7 +3267,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 350,
     "resourceId": 243057,
     "assetId": 243057
   },
@@ -3572,7 +3530,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 73500,
+    "price": 75500,
     "resourceId": 247703,
     "assetId": 247703
   },
@@ -4731,7 +4689,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 400,
     "resourceId": 265271,
     "assetId": 265271
   },
@@ -5101,7 +5059,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 266922,
     "assetId": 266922
   },
@@ -6196,6 +6154,7 @@
     ],
     "playStyles": [
       0,
+      11,
       2,
       21,
       25,
@@ -6232,7 +6191,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 2999000,
+    "price": 3070000,
     "resourceId": 50403205,
     "assetId": 71557
   },
@@ -6279,7 +6238,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 17250,
     "resourceId": 50537571,
     "assetId": 205923
   },
@@ -6322,9 +6281,64 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 14250,
     "resourceId": 50548275,
     "assetId": 216627
+  },
+  "50551844": {
+    "name": "David Brooks",
+    "cardName": "Brooks",
+    "originalVersionId": "82",
+    "clubId": 1943,
+    "leagueId": 13,
+    "countryId": 50,
+    "versionId": "82",
+    "rating": 86,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      13,
+      2,
+      20,
+      22,
+      25,
+      6
+    ],
+    "playStylesPlus": [
+      12
+    ],
+    "rolesPlus": [
+      25,
+      37,
+      124,
+      126,
+      136
+    ],
+    "rolesPlusPlus": [
+      25,
+      37,
+      124,
+      126,
+      136
+    ],
+    "attributes": [
+      88,
+      83,
+      88,
+      87,
+      58,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 21000,
+    "resourceId": 50551844,
+    "assetId": 220196
   },
   "50560463": {
     "name": "Tyler Roberts",
@@ -6418,7 +6432,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 78500,
+    "price": 82000,
     "resourceId": 50563752,
     "assetId": 232104
   },
@@ -6662,7 +6676,7 @@
       51
     ],
     "hasDynamicImage": false,
-    "price": 8000,
+    "price": 200,
     "resourceId": 50592087,
     "assetId": 260439
   },

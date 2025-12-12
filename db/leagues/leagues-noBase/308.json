@@ -41,7 +41,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 140000,
+    "price": 143000,
     "resourceId": 3622,
     "assetId": 3622
   },
@@ -68,6 +68,7 @@
       20,
       23,
       7,
+      8,
       9
     ],
     "playStylesPlus": [
@@ -77,6 +78,7 @@
       33,
       38,
       43,
+      131,
       132,
       140
     ],
@@ -84,6 +86,7 @@
       33,
       38,
       43,
+      131,
       132,
       140
     ],
@@ -96,7 +99,7 @@
       50
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 20500,
     "resourceId": 50404645,
     "assetId": 72997
   },
@@ -199,7 +202,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 35000,
+    "price": 33000,
     "resourceId": 50524014,
     "assetId": 192366
   },
@@ -245,7 +248,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 16500,
     "resourceId": 50560836,
     "assetId": 229188
   },
@@ -300,9 +303,71 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 14250,
     "resourceId": 50572598,
     "assetId": 240950
+  },
+  "50576426": {
+    "name": "Trincão",
+    "cardName": "Trincão",
+    "originalVersionId": "82",
+    "clubId": 237,
+    "leagueId": 308,
+    "countryId": 38,
+    "versionId": "82",
+    "rating": 86,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      13,
+      20,
+      22,
+      23,
+      6
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      23,
+      33,
+      35,
+      42,
+      125,
+      132,
+      137
+    ],
+    "rolesPlusPlus": [
+      23,
+      33,
+      35,
+      42,
+      125,
+      132,
+      137
+    ],
+    "attributes": [
+      85,
+      85,
+      84,
+      90,
+      45,
+      77
+    ],
+    "hasDynamicImage": false,
+    "price": 15250,
+    "resourceId": 50576426,
+    "assetId": 244778
   },
   "50576883": {
     "name": "Alexander Bah",
@@ -325,6 +390,7 @@
       14,
       17,
       21,
+      25,
       26,
       28,
       9
@@ -353,7 +419,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 55000,
+    "price": 61500,
     "resourceId": 50576883,
     "assetId": 245235
   },
@@ -402,7 +468,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 13750,
     "resourceId": 50577245,
     "assetId": 245597
   },
@@ -508,7 +574,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 16750,
     "resourceId": 50590377,
     "assetId": 258729
   },
@@ -531,6 +597,7 @@
     ],
     "playStyles": [
       15,
+      16,
       20,
       22,
       24,
@@ -542,14 +609,14 @@
     "rolesPlus": [
       16,
       20,
-      49,
-      118
+      118,
+      149
     ],
     "rolesPlusPlus": [
       16,
       20,
-      49,
-      118
+      118,
+      149
     ],
     "attributes": [
       85,
@@ -560,7 +627,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 187000,
+    "price": 179000,
     "resourceId": 50594529,
     "assetId": 262881
   },
@@ -605,7 +672,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 15250,
+    "price": 16000,
     "resourceId": 50595938,
     "assetId": 264290
   },
@@ -629,6 +696,7 @@
       10,
       14,
       15,
+      18,
       19,
       28,
       4
@@ -653,7 +721,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 18500,
+    "price": 19000,
     "resourceId": 50602179,
     "assetId": 270531
   },
@@ -708,7 +776,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 15750,
+    "sbcPrice": 19750,
     "price": 0,
     "resourceId": 50602780,
     "assetId": 271132
@@ -755,7 +823,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 13750,
     "resourceId": 50605488,
     "assetId": 273840
   },
@@ -798,7 +866,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 19250,
+    "price": 17250,
     "resourceId": 50605646,
     "assetId": 273998
   },
@@ -859,7 +927,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 12000,
     "resourceId": 50610692,
     "assetId": 279044
   },
@@ -905,7 +973,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 14750,
+    "price": 15000,
     "resourceId": 67182717,
     "assetId": 73853
   }

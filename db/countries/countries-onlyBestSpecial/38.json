@@ -41,7 +41,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 140000,
+    "price": 143000,
     "resourceId": 3622,
     "assetId": 3622
   },
@@ -95,7 +95,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 202000,
+    "price": 200000,
     "resourceId": 5589,
     "assetId": 5589
   },
@@ -148,7 +148,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 66000,
+    "price": 64000,
     "resourceId": 50332673,
     "assetId": 1025
   },
@@ -206,7 +206,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 600000,
+    "price": 625000,
     "resourceId": 50352423,
     "assetId": 20775
   },
@@ -233,6 +233,7 @@
       20,
       23,
       7,
+      8,
       9
     ],
     "playStylesPlus": [
@@ -242,6 +243,7 @@
       33,
       38,
       43,
+      131,
       132,
       140
     ],
@@ -249,6 +251,7 @@
       33,
       38,
       43,
+      131,
       132,
       140
     ],
@@ -261,7 +264,7 @@
       50
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 20500,
     "resourceId": 50404645,
     "assetId": 72997
   },
@@ -319,7 +322,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 30750,
+    "price": 31250,
     "resourceId": 50542162,
     "assetId": 210514
   },
@@ -372,7 +375,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 496000,
+    "price": 490000,
     "resourceId": 50543846,
     "assetId": 212198
   },
@@ -493,7 +496,7 @@
       63
     ],
     "hasDynamicImage": true,
-    "price": 590000,
+    "price": 510000,
     "resourceId": 50545749,
     "assetId": 214101
   },
@@ -546,7 +549,7 @@
       59
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 20750,
     "resourceId": 50548195,
     "assetId": 216547
   },
@@ -604,7 +607,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 67500,
+    "price": 64500,
     "resourceId": 50550315,
     "assetId": 218667
   },
@@ -655,7 +658,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 13500,
+    "price": 14000,
     "resourceId": 50555941,
     "assetId": 224293
   },
@@ -689,24 +692,36 @@
       14
     ],
     "rolesPlus": [
-      3,
-      7,
-      24,
-      46,
-      47,
+      103,
       104,
+      105,
+      106,
+      107,
       108,
-      123
+      109,
+      110,
+      123,
+      124,
+      125,
+      126,
+      146,
+      147
     ],
     "rolesPlusPlus": [
-      3,
-      7,
-      24,
-      46,
-      47,
+      103,
       104,
+      105,
+      106,
+      107,
       108,
-      123
+      109,
+      110,
+      123,
+      124,
+      125,
+      126,
+      146,
+      147
     ],
     "attributes": [
       90,
@@ -717,7 +732,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 188000,
+    "price": 197000,
     "resourceId": 50566222,
     "assetId": 234574
   },
@@ -743,6 +758,7 @@
     "playStyles": [
       11,
       12,
+      20,
       21,
       25
     ],
@@ -776,7 +792,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 369000,
+    "price": 395000,
     "resourceId": 50570264,
     "assetId": 238616
   },
@@ -831,7 +847,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 14250,
     "resourceId": 50572598,
     "assetId": 240950
   },
@@ -899,9 +915,71 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 364000,
+    "price": 375000,
     "resourceId": 50573369,
     "assetId": 241721
+  },
+  "50576426": {
+    "name": "Trincão",
+    "cardName": "Trincão",
+    "originalVersionId": "82",
+    "clubId": 237,
+    "leagueId": 308,
+    "countryId": 38,
+    "versionId": "82",
+    "rating": 86,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      13,
+      20,
+      22,
+      23,
+      6
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      23,
+      33,
+      35,
+      42,
+      125,
+      132,
+      137
+    ],
+    "rolesPlusPlus": [
+      23,
+      33,
+      35,
+      42,
+      125,
+      132,
+      137
+    ],
+    "attributes": [
+      85,
+      85,
+      84,
+      90,
+      45,
+      77
+    ],
+    "hasDynamicImage": false,
+    "price": 15250,
+    "resourceId": 50576426,
+    "assetId": 244778
   },
   "50583178": {
     "name": "Nuno Tavares",
@@ -949,7 +1027,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 111000,
+    "price": 119000,
     "resourceId": 50583178,
     "assetId": 251530
   },
@@ -1056,7 +1134,7 @@
       62
     ],
     "hasDynamicImage": true,
-    "price": 32000,
+    "price": 30000,
     "resourceId": 50592698,
     "assetId": 261050
   },
@@ -1109,7 +1187,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 12000,
     "resourceId": 50593478,
     "assetId": 261830
   },
@@ -1205,7 +1283,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 67500,
+    "price": 65000,
     "resourceId": 50604482,
     "assetId": 272834
   },
@@ -1248,7 +1326,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 19250,
+    "price": 17250,
     "resourceId": 50605646,
     "assetId": 273998
   },
@@ -1309,7 +1387,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 12000,
     "resourceId": 50610692,
     "assetId": 279044
   },
@@ -1359,7 +1437,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 625000,
+    "price": 627000,
     "resourceId": 67129665,
     "assetId": 20801
   },
@@ -1435,7 +1513,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 130000,
+    "price": 100000,
     "resourceId": 67351308,
     "assetId": 242444
   },
@@ -1460,7 +1538,8 @@
       20,
       21,
       25,
-      6
+      6,
+      7
     ],
     "playStylesPlus": [
       0
@@ -1486,7 +1565,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 4730000,
+    "price": 4599000,
     "resourceId": 67351383,
     "assetId": 242519
   },
@@ -1546,7 +1625,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 2300000,
+    "price": 2319000,
     "resourceId": 67364117,
     "assetId": 255253
   },
@@ -1601,7 +1680,7 @@
       63
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 12000,
     "resourceId": 67365822,
     "assetId": 256958
   },
@@ -1652,7 +1731,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 13500,
+    "price": 14000,
     "resourceId": 67381698,
     "assetId": 272834
   }

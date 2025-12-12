@@ -170,7 +170,7 @@
       }
     },
     "43": {
-      "count": 2,
+      "count": 3,
       "file": "db/versions/43.json",
       "details": {
         "name": "POTM Premier League",
@@ -284,6 +284,58 @@
         "primaryColor": "#ffffff",
         "secondaryColor": "#262626",
         "tertiaryColor": "#ff7fde"
+      }
+    },
+    "81": {
+      "count": 11,
+      "file": "db/versions/81.json",
+      "details": {
+        "name": "Classic XI Hero",
+        "hasStrip": true,
+        "createdAt": "2025-12-11T23:30:00.375Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_81_0.png",
+        "primaryColor": "#f8ebbd",
+        "secondaryColor": "#2f1602",
+        "tertiaryColor": "#d19638"
+      }
+    },
+    "82": {
+      "count": 34,
+      "file": "db/versions/82.json",
+      "details": {
+        "name": "Unbreakables",
+        "hasStrip": true,
+        "createdAt": "2025-12-11T23:30:00.375Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_82_0.png",
+        "primaryColor": "#fff1d7",
+        "secondaryColor": "#861051",
+        "tertiaryColor": "#5bffaf"
+      }
+    },
+    "83": {
+      "count": 4,
+      "file": "db/versions/83.json",
+      "details": {
+        "name": "Unbreakables Hero",
+        "hasStrip": true,
+        "createdAt": "2025-12-11T23:30:00.375Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_83_0.png",
+        "primaryColor": "#ebe1ef",
+        "secondaryColor": "#673486",
+        "tertiaryColor": "#cf94bc"
+      }
+    },
+    "85": {
+      "count": 6,
+      "file": "db/versions/85.json",
+      "details": {
+        "name": "Unbreakables ICON",
+        "hasStrip": true,
+        "createdAt": "2025-12-11T23:30:00.375Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_85_0.png",
+        "primaryColor": "#54462b",
+        "secondaryColor": "#dbdbdb",
+        "tertiaryColor": "#94792e"
       }
     },
     "86": {
@@ -548,8 +600,8 @@
     }
   },
   "meta": {
-    "totalVersions": 42,
-    "totalVersionsWithoutBase": 36,
-    "updatedAt": "2025-12-11T18:47:49.598Z"
+    "totalVersions": 46,
+    "totalVersionsWithoutBase": 40,
+    "updatedAt": "2025-12-12T18:47:15.092Z"
   }
 }

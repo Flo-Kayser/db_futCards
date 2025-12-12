@@ -1,6 +1,61 @@
 {
   "clubName": "AFC Bournemouth",
   "players": {
+    "50551844": {
+      "name": "David Brooks",
+      "cardName": "Brooks",
+      "originalVersionId": "82",
+      "clubId": 1943,
+      "leagueId": 13,
+      "countryId": 50,
+      "versionId": "82",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        13,
+        2,
+        20,
+        22,
+        25,
+        6
+      ],
+      "playStylesPlus": [
+        12
+      ],
+      "rolesPlus": [
+        25,
+        37,
+        124,
+        126,
+        136
+      ],
+      "rolesPlusPlus": [
+        25,
+        37,
+        124,
+        126,
+        136
+      ],
+      "attributes": [
+        88,
+        83,
+        88,
+        87,
+        58,
+        78
+      ],
+      "hasDynamicImage": true,
+      "price": 21000,
+      "resourceId": 50551844,
+      "assetId": 220196
+    },
     "50569125": {
       "name": "Marcus Tavernier",
       "cardName": "Tavernier",
@@ -52,7 +107,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 45250,
+      "sbcPrice": 50250,
       "resourceId": 50569125,
       "assetId": 237477
     },
@@ -152,7 +207,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 40650,
+      "sbcPrice": 42400,
       "resourceId": 67350100,
       "assetId": 241236
     }

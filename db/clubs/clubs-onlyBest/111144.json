@@ -1,45 +1,6 @@
 {
   "clubName": "Sounders FC",
   "players": {
-    "72379": {
-      "name": "Georgi Minoungou",
-      "cardName": "Minoungou",
-      "originalVersionId": "1",
-      "clubId": 111144,
-      "leagueId": 39,
-      "countryId": 108,
-      "versionId": "3000",
-      "rating": 62,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23
-      ],
-      "rolesPlusPlus": [
-        23
-      ],
-      "attributes": [
-        88,
-        43,
-        47,
-        71,
-        22,
-        50
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 72379,
-      "assetId": 72379
-    },
     "77351": {
       "name": "Leo Burney",
       "cardName": "Burney",
@@ -289,7 +250,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 210423,
       "assetId": 210423
     },
@@ -378,7 +339,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 224396,
       "assetId": 224396
     },
@@ -429,7 +390,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 224520,
       "assetId": 224520
     },
@@ -1149,7 +1110,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 5000,
       "resourceId": 275686,
       "assetId": 275686
     },
@@ -1189,6 +1150,61 @@
       "price": 200,
       "resourceId": 278151,
       "assetId": 278151
+    },
+    "50404027": {
+      "name": "Georgi Minoungou",
+      "cardName": "Minoungou",
+      "originalVersionId": "82",
+      "clubId": 111144,
+      "leagueId": 39,
+      "countryId": 108,
+      "versionId": "82",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        20,
+        21,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        36,
+        39,
+        123,
+        135,
+        138
+      ],
+      "rolesPlusPlus": [
+        26,
+        36,
+        39,
+        123,
+        135,
+        138
+      ],
+      "attributes": [
+        93,
+        83,
+        81,
+        88,
+        45,
+        76
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50404027,
+      "assetId": 72379
     }
   }
 }

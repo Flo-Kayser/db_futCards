@@ -46,7 +46,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 5500000,
+    "price": 6000000,
     "resourceId": 84117827,
     "assetId": 231747,
     "cardName": "Mbappé",
@@ -66,8 +66,10 @@
       "ST"
     ],
     "playStyles": [
+      0,
       1,
       2,
+      22,
       29,
       4,
       5,
@@ -77,14 +79,16 @@
       6
     ],
     "rolesPlus": [
-      42,
+      43,
       44,
-      141
+      141,
+      142
     ],
     "rolesPlusPlus": [
-      42,
+      43,
       44,
-      141
+      141,
+      142
     ],
     "attributes": [
       89,
@@ -95,7 +99,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 800000,
+    "price": 760000,
     "resourceId": 84125165,
     "assetId": 239085,
     "cardName": "Haaland",
@@ -145,11 +149,65 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 320000,
+    "price": 329000,
     "resourceId": 100865422,
     "assetId": 202126,
     "cardName": "Kane",
     "name": "Harry Kane"
+  },
+  {
+    "clubId": 116325,
+    "leagueId": 2222,
+    "countryId": 36,
+    "versionId": 31,
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      10,
+      12,
+      22,
+      23,
+      25
+    ],
+    "playStylesPlus": [
+      20
+    ],
+    "rolesPlus": [
+      23,
+      35,
+      37,
+      126,
+      136
+    ],
+    "rolesPlusPlus": [
+      23,
+      35,
+      37,
+      126,
+      136
+    ],
+    "attributes": [
+      90,
+      89,
+      89,
+      92,
+      49,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 1843000,
+    "resourceId": 50558750,
+    "assetId": 227102,
+    "cardName": "Graham Hansen",
+    "name": "Caroline Graham Hansen"
   },
   {
     "clubId": 9,
@@ -194,7 +252,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 1315000,
+    "price": 1291000,
     "resourceId": 50535024,
     "assetId": 203376,
     "cardName": "van Dijk",
@@ -251,65 +309,11 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 64500,
+    "price": 64000,
     "resourceId": 50557955,
     "assetId": 226307,
     "cardName": "Laudehr",
     "name": "Simone Laudehr"
-  },
-  {
-    "clubId": 116325,
-    "leagueId": 2222,
-    "countryId": 36,
-    "versionId": 31,
-    "rating": 90,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 5,
-    "preferredPosition": "RW",
-    "possiblePositions": [
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      0,
-      10,
-      12,
-      22,
-      23,
-      25
-    ],
-    "playStylesPlus": [
-      20
-    ],
-    "rolesPlus": [
-      23,
-      35,
-      37,
-      126,
-      136
-    ],
-    "rolesPlusPlus": [
-      23,
-      35,
-      37,
-      126,
-      136
-    ],
-    "attributes": [
-      89,
-      88,
-      88,
-      91,
-      48,
-      76
-    ],
-    "hasDynamicImage": true,
-    "price": 1789000,
-    "resourceId": 50558750,
-    "assetId": 227102,
-    "cardName": "Graham Hansen",
-    "name": "Caroline Graham Hansen"
   },
   {
     "clubId": 73,
@@ -381,7 +385,7 @@
       69
     ],
     "hasDynamicImage": true,
-    "price": 3859000,
+    "price": 3600000,
     "resourceId": 50563091,
     "assetId": 231443,
     "cardName": "Dembélé",
@@ -449,7 +453,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 1582000,
+    "price": 1530000,
     "resourceId": 67347658,
     "assetId": 238794,
     "cardName": "Vini Jr.",
@@ -498,7 +502,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 625000,
+    "price": 627000,
     "resourceId": 67129665,
     "assetId": 20801,
     "cardName": "Cristiano Ronaldo",
@@ -519,12 +523,14 @@
       "RW"
     ],
     "playStyles": [
+      11,
       13,
       20,
       22,
       25,
       7,
-      8
+      8,
+      9
     ],
     "playStylesPlus": [
       0
@@ -532,16 +538,18 @@
     "rolesPlus": [
       23,
       25,
-      36,
+      37,
       126,
-      135
+      135,
+      136
     ],
     "rolesPlusPlus": [
       23,
       25,
-      36,
+      37,
       126,
-      135
+      135,
+      136
     ],
     "attributes": [
       88,
@@ -552,7 +560,7 @@
       53
     ],
     "hasDynamicImage": true,
-    "price": 1295000,
+    "price": 1405000,
     "resourceId": 50609291,
     "assetId": 277643,
     "cardName": "Lamine Yamal",
@@ -577,20 +585,22 @@
       11,
       22,
       23,
-      25
+      25,
+      7,
+      9
     ],
     "playStylesPlus": [
       20
     ],
     "rolesPlus": [
-      27,
       38,
+      127,
       130,
       139
     ],
     "rolesPlusPlus": [
-      27,
       38,
+      127,
       130,
       139
     ],
@@ -603,11 +613,114 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 1251000,
+    "price": 1150000,
     "resourceId": 50514925,
     "assetId": 183277,
     "cardName": "Hazard",
     "name": "Eden Hazard"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": 26,
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      15,
+      16,
+      17,
+      19,
+      26,
+      4,
+      9
+    ],
+    "playStylesPlus": [
+      18
+    ],
+    "rolesPlus": [
+      15,
+      18,
+      114,
+      116,
+      119
+    ],
+    "rolesPlusPlus": [
+      15,
+      18,
+      114,
+      116,
+      119
+    ],
+    "attributes": [
+      81,
+      84,
+      83,
+      82,
+      90,
+      89
+    ],
+    "hasDynamicImage": true,
+    "price": 339000,
+    "resourceId": 50384950,
+    "assetId": 53302,
+    "cardName": "De Rossi",
+    "name": "Daniele De Rossi"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 2218,
+    "countryId": 18,
+    "versionId": 27,
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      15,
+      18,
+      19,
+      28
+    ],
+    "playStylesPlus": [
+      17
+    ],
+    "rolesPlus": [
+      13,
+      111,
+      112
+    ],
+    "rolesPlusPlus": [
+      13,
+      111,
+      112
+    ],
+    "attributes": [
+      87,
+      51,
+      69,
+      69,
+      89,
+      88
+    ],
+    "hasDynamicImage": true,
+    "price": 199000,
+    "resourceId": 50558963,
+    "assetId": 227315,
+    "cardName": "Georges",
+    "name": "Laura Georges"
   },
   {
     "clubId": 114605,
@@ -677,7 +790,7 @@
       63
     ],
     "hasDynamicImage": true,
-    "price": 590000,
+    "price": 510000,
     "resourceId": 50545749,
     "assetId": 214101,
     "cardName": "Paulo Futre",
@@ -757,7 +870,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 35000,
+    "price": 28000,
     "resourceId": 50568936,
     "assetId": 237288,
     "cardName": "Mariona",
@@ -822,7 +935,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 666000,
+    "price": 658000,
     "resourceId": 50451922,
     "assetId": 120274,
     "cardName": "Di Natale",
@@ -900,7 +1013,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 86000,
+    "price": 84500,
     "resourceId": 67335757,
     "assetId": 226893,
     "cardName": "Debinha",
@@ -955,7 +1068,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 200000,
+    "price": 199000,
     "resourceId": 50588278,
     "assetId": 256630,
     "cardName": "Wirtz",
@@ -1010,7 +1123,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 538000,
+    "price": 519000,
     "resourceId": 50570701,
     "assetId": 239053,
     "cardName": "Valverde",
@@ -1059,110 +1172,73 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 179000,
+    "price": 183000,
     "resourceId": 50339996,
     "assetId": 8348,
     "cardName": "Míchel Salgado",
     "name": "Míchel Salgado"
   },
   {
-    "clubId": 114605,
-    "leagueId": 31,
-    "countryId": 27,
-    "versionId": 26,
+    "clubId": 267,
+    "leagueId": 319,
+    "countryId": 43,
+    "versionId": 105,
     "rating": 88,
     "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CDM",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
     "possiblePositions": [
-      "CDM",
-      "CM"
+      "LM",
+      "LW",
+      "RW",
+      "ST"
     ],
     "playStyles": [
-      15,
-      16,
-      19,
-      26,
-      4
+      0,
+      11,
+      20,
+      27,
+      6,
+      9
     ],
     "playStylesPlus": [
-      18
+      22
     ],
     "rolesPlus": [
-      15,
-      18,
-      114,
-      119
+      30,
+      36,
+      39,
+      44,
+      127,
+      135,
+      138,
+      141
     ],
     "rolesPlusPlus": [
-      15,
-      18,
-      114,
-      119
+      30,
+      36,
+      39,
+      44,
+      127,
+      135,
+      138,
+      141
     ],
     "attributes": [
-      80,
-      83,
-      82,
-      81,
-      89,
-      88
-    ],
-    "hasDynamicImage": true,
-    "price": 320000,
-    "resourceId": 50384950,
-    "assetId": 53302,
-    "cardName": "De Rossi",
-    "name": "Daniele De Rossi"
-  },
-  {
-    "clubId": 114605,
-    "leagueId": 2218,
-    "countryId": 18,
-    "versionId": 27,
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [
-      14,
-      15,
-      18,
-      19,
-      28
-    ],
-    "playStylesPlus": [
-      17
-    ],
-    "rolesPlus": [
-      13,
-      111,
-      112
-    ],
-    "rolesPlusPlus": [
-      13,
-      111,
-      112
-    ],
-    "attributes": [
+      90,
       86,
-      50,
-      68,
-      68,
-      88,
-      87
+      85,
+      91,
+      51,
+      71
     ],
     "hasDynamicImage": true,
-    "price": 200000,
-    "resourceId": 50558963,
-    "assetId": 227315,
-    "cardName": "Georges",
-    "name": "Laura Georges"
+    "price": 19000,
+    "resourceId": 50559210,
+    "assetId": 227562,
+    "cardName": "Haraslín",
+    "name": "Lukáš Haraslín"
   },
   {
     "clubId": 114605,
@@ -1231,7 +1307,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 820000,
+    "price": 801000,
     "resourceId": 50351937,
     "assetId": 20289,
     "cardName": "Touré",
@@ -1340,7 +1416,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 361000,
+    "price": 363000,
     "resourceId": 50489671,
     "assetId": 158023,
     "cardName": "Messi",
@@ -1386,7 +1462,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 196000,
+    "price": 199000,
     "resourceId": 50577839,
     "assetId": 246191,
     "cardName": "Alvarez",
@@ -1443,7 +1519,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 67500,
+    "price": 64500,
     "resourceId": 50550315,
     "assetId": 218667,
     "cardName": "Bernardo Silva",
@@ -1500,11 +1576,64 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 11000,
     "resourceId": 67354743,
     "assetId": 245879,
     "cardName": "Weir",
     "name": "Caroline Weir"
+  },
+  {
+    "clubId": 116010,
+    "leagueId": 2216,
+    "countryId": 163,
+    "versionId": 31,
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      20,
+      22,
+      6,
+      8,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      22,
+      32,
+      121,
+      131,
+      133
+    ],
+    "rolesPlusPlus": [
+      22,
+      32,
+      121,
+      131,
+      133
+    ],
+    "attributes": [
+      85,
+      84,
+      84,
+      89,
+      56,
+      61
+    ],
+    "hasDynamicImage": true,
+    "price": 13000,
+    "resourceId": 50605168,
+    "assetId": 273520,
+    "cardName": "Hamano",
+    "name": "Maika Hamano"
   },
   {
     "clubId": 114605,
@@ -1554,7 +1683,7 @@
       59
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 15000,
     "resourceId": 50333199,
     "assetId": 1551,
     "cardName": "Giuly",
@@ -1606,72 +1735,11 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 93500,
+    "price": 104000,
     "resourceId": 50580113,
     "assetId": 248465,
     "cardName": "Maatsen",
     "name": "Ian Maatsen"
-  },
-  {
-    "clubId": 267,
-    "leagueId": 319,
-    "countryId": 43,
-    "versionId": 105,
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "RW",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      11,
-      20,
-      27,
-      9
-    ],
-    "playStylesPlus": [
-      22
-    ],
-    "rolesPlus": [
-      30,
-      36,
-      39,
-      41,
-      44,
-      127,
-      135,
-      138
-    ],
-    "rolesPlusPlus": [
-      30,
-      36,
-      39,
-      41,
-      44,
-      127,
-      135,
-      138
-    ],
-    "attributes": [
-      89,
-      85,
-      84,
-      90,
-      50,
-      70
-    ],
-    "hasDynamicImage": true,
-    "price": 15000,
-    "resourceId": 50559210,
-    "assetId": 227562,
-    "cardName": "Haraslín",
-    "name": "Lukáš Haraslín"
   },
   {
     "clubId": 131681,
@@ -1739,7 +1807,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 18500,
+    "price": 17250,
     "resourceId": 84113876,
     "assetId": 227796,
     "cardName": "Pulisic",
@@ -1805,7 +1873,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 38250,
+    "price": 25000,
     "resourceId": 50574662,
     "assetId": 243014,
     "cardName": "Mbeumo",
@@ -1860,7 +1928,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 68500,
+    "price": 64000,
     "resourceId": 50598576,
     "assetId": 266928,
     "cardName": "Rodman",
@@ -1917,7 +1985,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 459000,
+    "price": 475000,
     "resourceId": 50594179,
     "assetId": 262531,
     "cardName": "Claudia Pina",
@@ -1971,7 +2039,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 530000,
+    "price": 428000,
     "resourceId": 50588164,
     "assetId": 256516,
     "cardName": "Nico Williams",
@@ -2026,7 +2094,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 395000,
+    "price": 353000,
     "resourceId": 50572286,
     "assetId": 240638,
     "cardName": "Reijnders",
@@ -2084,55 +2152,6 @@
     "name": "Kosovare Asllani"
   },
   {
-    "clubId": 116010,
-    "leagueId": 2216,
-    "countryId": 163,
-    "versionId": 31,
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [
-      0,
-      20,
-      22,
-      8,
-      9
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      22,
-      33,
-      121,
-      131
-    ],
-    "rolesPlusPlus": [
-      22,
-      33,
-      121,
-      131
-    ],
-    "attributes": [
-      84,
-      83,
-      83,
-      88,
-      55,
-      60
-    ],
-    "hasDynamicImage": true,
-    "price": 12750,
-    "resourceId": 50605168,
-    "assetId": 273520,
-    "cardName": "Hamano",
-    "name": "Maika Hamano"
-  },
-  {
     "clubId": 14,
     "leagueId": 13,
     "countryId": 54,
@@ -2151,19 +2170,20 @@
       24,
       29,
       4,
-      6
+      6,
+      9
     ],
     "playStylesPlus": [],
     "rolesPlus": [
-      41,
       43,
       44,
+      141,
       142
     ],
     "rolesPlusPlus": [
-      41,
       43,
       44,
+      141,
       142
     ],
     "attributes": [
@@ -2227,7 +2247,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 101000,
+    "price": 110000,
     "resourceId": 67355727,
     "assetId": 246863,
     "cardName": "Nmecha",
@@ -2282,7 +2302,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 79500,
+    "price": 79000,
     "resourceId": 50408335,
     "assetId": 76687,
     "cardName": "Estêvão",
@@ -2346,7 +2366,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 11500,
     "resourceId": 50572365,
     "assetId": 240717,
     "cardName": "Beerensteyn",
@@ -2413,7 +2433,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 364000,
+    "price": 375000,
     "resourceId": 50573369,
     "assetId": 241721,
     "cardName": "Rafael Leão",
@@ -2466,7 +2486,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 145000,
+    "price": 150000,
     "resourceId": 50601052,
     "assetId": 269404,
     "cardName": "Salma Paralluelo",
@@ -2489,6 +2509,7 @@
     "playStyles": [
       11,
       16,
+      20,
       22,
       24,
       9
@@ -2497,12 +2518,14 @@
     "rolesPlus": [
       15,
       18,
+      19,
       116,
       120
     ],
     "rolesPlusPlus": [
       15,
       18,
+      19,
       116,
       120
     ],
@@ -2515,7 +2538,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 14750,
     "resourceId": 50554038,
     "assetId": 222390,
     "cardName": "Unai López",
@@ -2569,7 +2592,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14000,
     "resourceId": 50557984,
     "assetId": 226336,
     "cardName": "Dunn",
@@ -2616,7 +2639,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 76000,
+    "price": 80000,
     "resourceId": 50578894,
     "assetId": 247246,
     "cardName": "Thuram",
@@ -2665,7 +2688,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11000,
     "resourceId": 50598886,
     "assetId": 267238,
     "cardName": "O'Sullivan",

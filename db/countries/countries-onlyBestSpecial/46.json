@@ -45,52 +45,9 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 106000,
+    "price": 100000,
     "resourceId": 226975,
     "assetId": 226975
-  },
-  "239261": {
-    "name": "Henrik Larsson",
-    "cardName": "Larsson",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 46,
-    "versionId": "12",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      1,
-      25
-    ],
-    "playStylesPlus": [
-      4
-    ],
-    "rolesPlus": [
-      141
-    ],
-    "rolesPlusPlus": [
-      141
-    ],
-    "attributes": [
-      87,
-      86,
-      73,
-      82,
-      45,
-      71
-    ],
-    "hasDynamicImage": false,
-    "price": 74500,
-    "resourceId": 239261,
-    "assetId": 239261
   },
   "266695": {
     "name": "Tomas Brolin",
@@ -137,7 +94,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 47750,
+    "price": 40000,
     "resourceId": 266695,
     "assetId": 266695
   },
@@ -210,7 +167,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 29000,
+    "price": 24750,
     "resourceId": 50338623,
     "assetId": 6975
   },
@@ -262,7 +219,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 4595000,
+    "price": 4449000,
     "resourceId": 50372884,
     "assetId": 41236
   },
@@ -305,7 +262,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 16500,
+    "price": 16250,
     "resourceId": 50403375,
     "assetId": 71727
   },
@@ -351,7 +308,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 13750,
     "resourceId": 50405823,
     "assetId": 74175
   },
@@ -363,7 +320,7 @@
     "leagueId": 66,
     "countryId": 46,
     "versionId": "105",
-    "rating": 85,
+    "rating": 86,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -377,28 +334,29 @@
       20,
       29,
       4,
-      6
+      6,
+      9
     ],
     "playStylesPlus": [],
     "rolesPlus": [
-      41,
       42,
       43,
+      141,
       144
     ],
     "rolesPlusPlus": [
-      41,
       42,
       43,
+      141,
       144
     ],
     "attributes": [
-      83,
-      87,
-      77,
-      85,
-      65,
-      90
+      84,
+      88,
+      78,
+      86,
+      66,
+      91
     ],
     "hasDynamicImage": true,
     "price": 13750,
@@ -444,7 +402,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 15500,
     "resourceId": 50540080,
     "assetId": 208432
   },
@@ -501,7 +459,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 878000,
+    "price": 894000,
     "resourceId": 50558017,
     "assetId": 226369
   },
@@ -555,7 +513,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 158000,
+    "price": 149000,
     "resourceId": 50558623,
     "assetId": 226975
   },
@@ -679,6 +637,58 @@
     "resourceId": 50558661,
     "assetId": 227013
   },
+  "50570909": {
+    "name": "Henrik Larsson",
+    "cardName": "Larsson",
+    "originalVersionId": "85",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 46,
+    "versionId": "85",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      2,
+      4,
+      6,
+      7
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      42,
+      141,
+      143,
+      144
+    ],
+    "rolesPlusPlus": [
+      42,
+      141,
+      143,
+      144
+    ],
+    "attributes": [
+      90,
+      90,
+      75,
+      88,
+      47,
+      76
+    ],
+    "hasDynamicImage": true,
+    "price": 341000,
+    "resourceId": 50570909,
+    "assetId": 239261
+  },
   "50573299": {
     "name": "Viktor Gyökeres",
     "cardName": "Gyökeres",
@@ -728,7 +738,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 307250,
+    "sbcPrice": 313000,
     "price": 350350,
     "resourceId": 50573299,
     "assetId": 241651
@@ -779,7 +789,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 14500,
     "resourceId": 50579125,
     "assetId": 247477
   },
@@ -857,7 +867,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 12750,
     "resourceId": 50591364,
     "assetId": 259716
   },
@@ -959,7 +969,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 13750,
     "resourceId": 50594875,
     "assetId": 263227
   },
@@ -1005,7 +1015,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 14000,
     "resourceId": 50597248,
     "assetId": 265600
   },
@@ -1050,7 +1060,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 26750,
+    "price": 30000,
     "resourceId": 50604574,
     "assetId": 272926
   }

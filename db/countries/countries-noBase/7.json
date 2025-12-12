@@ -43,7 +43,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 716000,
+    "price": 710000,
     "resourceId": 183277,
     "assetId": 183277
   },
@@ -91,7 +91,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 424000,
+    "price": 390000,
     "resourceId": 251483,
     "assetId": 251483
   },
@@ -117,20 +117,22 @@
       11,
       22,
       23,
-      25
+      25,
+      7,
+      9
     ],
     "playStylesPlus": [
       20
     ],
     "rolesPlus": [
-      27,
       38,
+      127,
       130,
       139
     ],
     "rolesPlusPlus": [
-      27,
       38,
+      127,
       130,
       139
     ],
@@ -143,7 +145,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 1251000,
+    "price": 1150000,
     "resourceId": 50514925,
     "assetId": 183277
   },
@@ -255,7 +257,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 167000,
+    "price": 165000,
     "resourceId": 50524633,
     "assetId": 192985
   },
@@ -356,7 +358,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 12000,
     "resourceId": 50560631,
     "assetId": 228983
   },
@@ -401,7 +403,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14500,
     "resourceId": 50565815,
     "assetId": 234167
   },
@@ -449,7 +451,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 16000,
     "resourceId": 50574312,
     "assetId": 242664
   },
@@ -499,9 +501,56 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 173000,
+    "price": 161000,
     "resourceId": 50578068,
     "assetId": 246420
+  },
+  "50583131": {
+    "name": "Vincent Kompany",
+    "cardName": "Kompany",
+    "originalVersionId": "81",
+    "clubId": 114605,
+    "leagueId": 13,
+    "countryId": 7,
+    "versionId": "81",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      15,
+      18,
+      19,
+      28,
+      4
+    ],
+    "playStylesPlus": [
+      17
+    ],
+    "rolesPlus": [
+      11,
+      113
+    ],
+    "rolesPlusPlus": [
+      11,
+      113
+    ],
+    "attributes": [
+      80,
+      59,
+      67,
+      69,
+      89,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50583131,
+    "assetId": 251483
   },
   "50590026": {
     "name": "Mika Godts",
@@ -605,7 +654,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 74500,
+    "sbcPrice": 75500,
     "price": 64500,
     "resourceId": 50593753,
     "assetId": 262105
@@ -656,7 +705,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 40650,
+    "sbcPrice": 42400,
     "resourceId": 50597098,
     "assetId": 265450
   },
@@ -713,7 +762,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 410000,
+    "price": 412000,
     "resourceId": 67355284,
     "assetId": 246420
   }

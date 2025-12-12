@@ -38,59 +38,9 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 78500,
+    "price": 77000,
     "resourceId": 214649,
     "assetId": 214649
-  },
-  "50508651": {
-    "name": "Luka Modrić",
-    "cardName": "Modrić",
-    "originalVersionId": "3",
-    "clubId": 131681,
-    "leagueId": 31,
-    "countryId": 10,
-    "versionId": "3",
-    "rating": 85,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      10,
-      20,
-      6,
-      8
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      15,
-      21,
-      33,
-      120
-    ],
-    "rolesPlusPlus": [
-      15,
-      21,
-      33,
-      120
-    ],
-    "attributes": [
-      72,
-      77,
-      88,
-      88,
-      73,
-      66
-    ],
-    "hasDynamicImage": true,
-    "price": 17000,
-    "resourceId": 50508651,
-    "assetId": 177003
   },
   "50513106": {
     "name": "Ivan Perišić",
@@ -115,6 +65,7 @@
       12,
       13,
       21,
+      22,
       3,
       7
     ],
@@ -146,9 +97,116 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 11750,
     "resourceId": 50513106,
     "assetId": 181458
+  },
+  "50526734": {
+    "name": "Dejan Lovren",
+    "cardName": "Lovren",
+    "originalVersionId": "82",
+    "clubId": 393,
+    "leagueId": 63,
+    "countryId": 10,
+    "versionId": "82",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      16,
+      18,
+      19,
+      25,
+      9
+    ],
+    "playStylesPlus": [
+      17
+    ],
+    "rolesPlus": [
+      48,
+      111,
+      112,
+      113
+    ],
+    "rolesPlusPlus": [
+      48,
+      111,
+      112,
+      113
+    ],
+    "attributes": [
+      78,
+      53,
+      70,
+      76,
+      87,
+      87
+    ],
+    "hasDynamicImage": false,
+    "price": 21500,
+    "resourceId": 50526734,
+    "assetId": 195086
+  },
+  "50562655": {
+    "name": "Josip Mišić",
+    "cardName": "Mišić",
+    "originalVersionId": "82",
+    "clubId": 211,
+    "leagueId": 317,
+    "countryId": 10,
+    "versionId": "82",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      16,
+      18,
+      26,
+      8,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      16,
+      20,
+      21,
+      114,
+      115,
+      119
+    ],
+    "rolesPlusPlus": [
+      16,
+      20,
+      21,
+      114,
+      115,
+      119
+    ],
+    "attributes": [
+      80,
+      77,
+      84,
+      78,
+      84,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 50500,
+    "resourceId": 50562655,
+    "assetId": 231007
   },
   "50582603": {
     "name": "Josip Stanišić",
@@ -242,9 +300,70 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 37250,
+    "price": 37750,
     "resourceId": 50583165,
     "assetId": 251517
+  },
+  "67285867": {
+    "name": "Luka Modrić",
+    "cardName": "Modrić",
+    "originalVersionId": "82",
+    "clubId": 131681,
+    "leagueId": 31,
+    "countryId": 10,
+    "versionId": "82",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      12,
+      13,
+      20,
+      25,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      11
+    ],
+    "rolesPlus": [
+      15,
+      22,
+      33,
+      116,
+      120,
+      121,
+      131
+    ],
+    "rolesPlusPlus": [
+      15,
+      22,
+      33,
+      116,
+      120,
+      121,
+      131
+    ],
+    "attributes": [
+      83,
+      81,
+      92,
+      91,
+      75,
+      81
+    ],
+    "hasDynamicImage": true,
+    "price": 1120000,
+    "resourceId": 67285867,
+    "assetId": 177003
   },
   "67380259": {
     "name": "Ivan Prtajin",
@@ -283,7 +402,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 15500,
     "resourceId": 67380259,
     "assetId": 271395
   }

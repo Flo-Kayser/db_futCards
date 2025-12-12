@@ -35,7 +35,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 200,
       "resourceId": 73016,
       "assetId": 73016
     },
@@ -129,7 +129,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 400,
       "resourceId": 190765,
       "assetId": 190765
     },
@@ -174,7 +174,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 204923,
       "assetId": 204923
     },
@@ -314,56 +314,9 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 400,
       "resourceId": 212190,
       "assetId": 212190
-    },
-    "215441": {
-      "name": "Serhou Guirassy",
-      "cardName": "Guirassy",
-      "originalVersionId": "1",
-      "clubId": 22,
-      "leagueId": 19,
-      "countryId": 118,
-      "versionId": "3002",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        1,
-        22,
-        4,
-        5,
-        6
-      ],
-      "playStylesPlus": [
-        0
-      ],
-      "rolesPlus": [
-        44,
-        141
-      ],
-      "rolesPlusPlus": [
-        44,
-        141
-      ],
-      "attributes": [
-        72,
-        88,
-        76,
-        83,
-        45,
-        83
-      ],
-      "hasDynamicImage": false,
-      "price": 8900,
-      "resourceId": 215441,
-      "assetId": 215441
     },
     "229476": {
       "name": "Waldemar Anton",
@@ -497,7 +450,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 4800,
+      "price": 4500,
       "resourceId": 235073,
       "assetId": 235073
     },
@@ -540,7 +493,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 235407,
       "assetId": 235407
     },
@@ -579,7 +532,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 241050,
       "assetId": 241050
     },
@@ -628,7 +581,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 2300,
       "resourceId": 247819,
       "assetId": 247819
     },
@@ -714,7 +667,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 270964,
       "assetId": 270964
     },
@@ -811,6 +764,7 @@
         "CM"
       ],
       "playStyles": [
+        0,
         11,
         20,
         22,
@@ -843,7 +797,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 15250,
+      "price": 16500,
       "resourceId": 50543842,
       "assetId": 212194
     },
@@ -949,7 +903,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 220000,
+      "price": 252000,
       "resourceId": 50583500,
       "assetId": 251852
     },
@@ -993,7 +947,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 50583685,
       "assetId": 252037
     },
@@ -1045,7 +999,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 23500,
+      "price": 24250,
       "resourceId": 50585765,
       "assetId": 254117
     },
@@ -1222,7 +1176,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 13750,
+      "price": 12750,
       "resourceId": 50591364,
       "assetId": 259716
     },
@@ -1284,7 +1238,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 74500,
+      "sbcPrice": 75500,
       "price": 64500,
       "resourceId": 50593753,
       "assetId": 262105
@@ -1327,6 +1281,59 @@
       "price": 200,
       "resourceId": 50610103,
       "assetId": 278455
+    },
+    "67324305": {
+      "name": "Serhou Guirassy",
+      "cardName": "Guirassy",
+      "originalVersionId": "82",
+      "clubId": 22,
+      "leagueId": 19,
+      "countryId": 118,
+      "versionId": "82",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        2,
+        22,
+        4,
+        5,
+        6
+      ],
+      "playStylesPlus": [
+        29
+      ],
+      "rolesPlus": [
+        43,
+        141,
+        142,
+        144
+      ],
+      "rolesPlusPlus": [
+        43,
+        141,
+        142,
+        144
+      ],
+      "attributes": [
+        85,
+        90,
+        80,
+        85,
+        46,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 58500,
+      "resourceId": 67324305,
+      "assetId": 215441
     },
     "67355727": {
       "name": "Felix Nmecha",
@@ -1377,7 +1384,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 101000,
+      "price": 110000,
       "resourceId": 67355727,
       "assetId": 246863
     }
