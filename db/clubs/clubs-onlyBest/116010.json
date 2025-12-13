@@ -35,7 +35,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 200,
       "resourceId": 74741,
       "assetId": 74741
     },
@@ -154,7 +154,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 227383,
       "assetId": 227383
     },
@@ -198,7 +198,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 241491,
       "assetId": 241491
     },
@@ -249,7 +249,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 1900,
       "resourceId": 245882,
       "assetId": 245882
     },
@@ -347,7 +347,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 1900,
       "resourceId": 261733,
       "assetId": 261733
     },
@@ -394,7 +394,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 800,
       "resourceId": 262093,
       "assetId": 262093
     },
@@ -484,7 +484,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 700,
       "resourceId": 264969,
       "assetId": 264969
     },
@@ -690,7 +690,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 270407,
       "assetId": 270407
     },
@@ -738,7 +738,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 900,
       "resourceId": 272001,
       "assetId": 272001
     },
@@ -991,7 +991,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 35500,
+      "price": 30750,
       "resourceId": 50558773,
       "assetId": 227125
     },
@@ -1042,7 +1042,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 99000,
+      "price": 102000,
       "resourceId": 50558894,
       "assetId": 227246
     },
@@ -1102,7 +1102,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 142000,
+      "sbcPrice": 113900,
       "resourceId": 50558971,
       "assetId": 227323
     },
@@ -1155,7 +1155,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 85000,
+      "price": 74000,
       "resourceId": 50569905,
       "assetId": 238257
     },
@@ -1201,7 +1201,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 13500,
       "resourceId": 50571678,
       "assetId": 240030
     },
@@ -1249,7 +1249,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 13750,
+      "price": 13500,
       "resourceId": 50574478,
       "assetId": 242830
     },
@@ -1307,8 +1307,8 @@
         64,
         78
       ],
-      "hasDynamicImage": false,
-      "price": 23000,
+      "hasDynamicImage": true,
+      "price": 15250,
       "resourceId": 50593978,
       "assetId": 262330
     },
@@ -1419,7 +1419,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 225000,
+      "price": 218000,
       "resourceId": 50596897,
       "assetId": 265249
     },
@@ -1467,7 +1467,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 59000,
+      "price": 54000,
       "resourceId": 50599030,
       "assetId": 267382
     },
@@ -1521,9 +1521,66 @@
         61
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 11500,
       "resourceId": 50605168,
       "assetId": 273520
+    },
+    "67336110": {
+      "name": "Lucy Bronze",
+      "cardName": "Bronze",
+      "originalVersionId": "8",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "8",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        1,
+        12,
+        14,
+        15,
+        26,
+        27
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        3,
+        4,
+        26,
+        105,
+        106,
+        123
+      ],
+      "rolesPlusPlus": [
+        3,
+        4,
+        26,
+        105,
+        106,
+        123
+      ],
+      "attributes": [
+        86,
+        83,
+        83,
+        83,
+        88,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 200000,
+      "resourceId": 67336110,
+      "assetId": 227246
     },
     "67382330": {
       "name": "Alyssa Thompson",

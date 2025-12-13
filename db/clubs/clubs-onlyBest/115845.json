@@ -35,7 +35,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 74483,
       "assetId": 74483
     },
@@ -75,7 +75,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 74574,
       "assetId": 74574
     },
@@ -414,7 +414,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 230899,
       "assetId": 230899
     },
@@ -549,59 +549,9 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 247229,
       "assetId": 247229
-    },
-    "251470": {
-      "name": "Charles De Ketelaere",
-      "cardName": "De Ketelaere",
-      "originalVersionId": "1",
-      "clubId": 115845,
-      "leagueId": 31,
-      "countryId": 7,
-      "versionId": "3002",
-      "rating": 82,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [
-        13,
-        19,
-        20,
-        4,
-        6,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        31,
-        33,
-        43
-      ],
-      "rolesPlusPlus": [
-        31,
-        33,
-        43
-      ],
-      "attributes": [
-        70,
-        79,
-        80,
-        83,
-        56,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 850,
-      "resourceId": 251470,
-      "assetId": 251470
     },
     "252154": {
       "name": "Marco Carnesecchi",
@@ -638,7 +588,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 850,
       "resourceId": 252154,
       "assetId": 252154
     },
@@ -852,7 +802,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 450,
       "resourceId": 257785,
       "assetId": 257785
     },
@@ -1276,9 +1226,69 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 15000,
+      "price": 15500,
       "resourceId": 50540109,
       "assetId": 208461
+    },
+    "50583118": {
+      "name": "Charles De Ketelaere",
+      "cardName": "De Ketelaere",
+      "originalVersionId": "8",
+      "clubId": 115845,
+      "leagueId": 31,
+      "countryId": 7,
+      "versionId": "8",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        12,
+        13,
+        19,
+        20,
+        4,
+        8
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        22,
+        33,
+        34,
+        43,
+        121,
+        131,
+        132
+      ],
+      "rolesPlusPlus": [
+        22,
+        33,
+        34,
+        43,
+        121,
+        131,
+        132
+      ],
+      "attributes": [
+        84,
+        88,
+        87,
+        89,
+        62,
+        74
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50583118,
+      "assetId": 251470
     },
     "50584825": {
       "name": "Yunus Musah",
@@ -1322,7 +1332,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 500,
       "resourceId": 50584825,
       "assetId": 253177
     }
