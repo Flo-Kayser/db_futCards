@@ -1,6 +1,60 @@
 {
   "clubName": "Toulouse FC",
   "players": {
+    "50584585": {
+      "name": "Yann Gboho",
+      "cardName": "Gboho",
+      "originalVersionId": "3",
+      "clubId": 1809,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        21,
+        22,
+        6,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        32,
+        33,
+        39,
+        131
+      ],
+      "rolesPlusPlus": [
+        30,
+        32,
+        33,
+        39,
+        131
+      ],
+      "attributes": [
+        88,
+        80,
+        83,
+        87,
+        45,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 28750,
+      "resourceId": 50584585,
+      "assetId": 252937
+    },
     "67185667": {
       "name": "Emersonn",
       "cardName": "Emersonn",
@@ -43,7 +97,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 16750,
       "resourceId": 67185667,
       "assetId": 76803
     }

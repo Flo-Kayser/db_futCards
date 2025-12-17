@@ -736,43 +736,6 @@
       "resourceId": 275536,
       "assetId": 275536
     },
-    "275760": {
-      "name": "Nastassja Lein",
-      "cardName": "Lein",
-      "originalVersionId": "1",
-      "clubId": 131386,
-      "leagueId": 2215,
-      "countryId": 21,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "rolesPlusPlus": [
-        41
-      ],
-      "attributes": [
-        66,
-        73,
-        63,
-        73,
-        37,
-        55
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 275760,
-      "assetId": 275760
-    },
     "275889": {
       "name": "Lourdes Romero",
       "cardName": "Romero",
@@ -847,7 +810,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 275895,
       "assetId": 275895
     },
@@ -999,6 +962,49 @@
       "price": 200,
       "resourceId": 277299,
       "assetId": 277299
+    },
+    "50607408": {
+      "name": "Nastassja Lein",
+      "cardName": "Lein",
+      "originalVersionId": "3",
+      "clubId": 131386,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        21,
+        24,
+        5,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141
+      ],
+      "rolesPlusPlus": [
+        141
+      ],
+      "attributes": [
+        83,
+        84,
+        75,
+        83,
+        47,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50607408,
+      "assetId": 275760
     }
   }
 }

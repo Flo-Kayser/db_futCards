@@ -36,7 +36,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 70539,
       "assetId": 70539
     },
@@ -199,7 +199,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 199833,
       "assetId": 199833
     },
@@ -374,49 +374,6 @@
       "resourceId": 229593,
       "assetId": 229593
     },
-    "236498": {
-      "name": "Sam Lammers",
-      "cardName": "Lammers",
-      "originalVersionId": "1",
-      "clubId": 1908,
-      "leagueId": 10,
-      "countryId": 34,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42,
-        43
-      ],
-      "rolesPlusPlus": [
-        42,
-        43
-      ],
-      "attributes": [
-        65,
-        74,
-        65,
-        76,
-        36,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 236498,
-      "assetId": 236498
-    },
     "239371": {
       "name": "Issam El Maach",
       "cardName": "El Maach",
@@ -492,7 +449,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 245338,
       "assetId": 245338
     },
@@ -916,7 +873,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 750,
       "resourceId": 269232,
       "assetId": 269232
     },
@@ -1041,6 +998,52 @@
       "price": 350,
       "resourceId": 277447,
       "assetId": 277447
+    },
+    "50568146": {
+      "name": "Sam Lammers",
+      "cardName": "Lammers",
+      "originalVersionId": "3",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        24,
+        4,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        43,
+        142
+      ],
+      "rolesPlusPlus": [
+        43,
+        142
+      ],
+      "attributes": [
+        81,
+        85,
+        76,
+        86,
+        46,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 14500,
+      "resourceId": 50568146,
+      "assetId": 236498
     }
   }
 }

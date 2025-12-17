@@ -159,7 +159,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 350,
       "resourceId": 75320,
       "assetId": 75320
     },
@@ -355,7 +355,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 220837,
       "assetId": 220837
     },
@@ -540,52 +540,6 @@
       "resourceId": 227232,
       "assetId": 227232
     },
-    "229236": {
-      "name": "Matthieu Udol",
-      "cardName": "Udol",
-      "originalVersionId": "1",
-      "clubId": 64,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        12,
-        14
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9,
-        13,
-        48
-      ],
-      "rolesPlusPlus": [
-        9,
-        13,
-        48
-      ],
-      "attributes": [
-        70,
-        52,
-        65,
-        72,
-        74,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 229236,
-      "assetId": 229236
-    },
     "235454": {
       "name": "Malang Sarr",
       "cardName": "Sarr",
@@ -671,7 +625,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 10000,
       "resourceId": 246688,
       "assetId": 246688
     },
@@ -717,7 +671,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 257020,
       "assetId": 257020
     },
@@ -964,7 +918,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 276207,
       "assetId": 276207
     },
@@ -1056,7 +1010,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 13500,
       "resourceId": 50540435,
       "assetId": 208787
     },
@@ -1101,50 +1055,65 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 14250,
       "resourceId": 50544261,
       "assetId": 212613
     },
-    "50565514": {
-      "name": "Odsonne Edouard",
-      "cardName": "Edouard",
-      "originalVersionId": "1",
+    "50560884": {
+      "name": "Matthieu Udol",
+      "cardName": "Udol",
+      "originalVersionId": "82",
       "clubId": 64,
       "leagueId": 16,
       "countryId": 18,
-      "versionId": "3001",
-      "rating": 72,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
+      "versionId": "82",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
       "possiblePositions": [
-        "ST"
+        "CB",
+        "LB",
+        "LM"
       ],
       "playStyles": [
-        1
+        12,
+        15,
+        17,
+        9
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        14
+      ],
       "rolesPlus": [
-        41,
-        42
+        10,
+        12,
+        48,
+        109,
+        111,
+        113
       ],
       "rolesPlusPlus": [
-        41,
-        42
+        10,
+        12,
+        48,
+        109,
+        111,
+        113
       ],
       "attributes": [
-        66,
-        73,
+        80,
         65,
-        71,
-        45,
-        67
+        77,
+        84,
+        86,
+        87
       ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50565514,
-      "assetId": 233866
+      "hasDynamicImage": true,
+      "sbcPrice": 18750,
+      "resourceId": 50560884,
+      "assetId": 229236
     },
     "50591464": {
       "name": "Abdallah Sima",
@@ -1187,6 +1156,51 @@
       "price": 350,
       "resourceId": 50591464,
       "assetId": 259816
+    },
+    "67342730": {
+      "name": "Odsonne Edouard",
+      "cardName": "Edouard",
+      "originalVersionId": "3",
+      "clubId": 64,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        11,
+        29,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        141
+      ],
+      "rolesPlusPlus": [
+        42,
+        141
+      ],
+      "attributes": [
+        81,
+        85,
+        77,
+        83,
+        56,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 45250,
+      "resourceId": 67342730,
+      "assetId": 233866
     },
     "100868266": {
       "name": "Florian Thauvin",
@@ -1240,7 +1254,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 46500,
+      "sbcPrice": 51000,
       "resourceId": 100868266,
       "assetId": 204970
     }

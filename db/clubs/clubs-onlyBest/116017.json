@@ -441,7 +441,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 6100,
+      "price": 6500,
       "resourceId": 257008,
       "assetId": 257008
     },
@@ -772,7 +772,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 800,
       "resourceId": 266568,
       "assetId": 266568
     },
@@ -820,48 +820,6 @@
       "price": 200,
       "resourceId": 275450,
       "assetId": 275450
-    },
-    "275906": {
-      "name": "Aoba Fujino",
-      "cardName": "Fujino",
-      "originalVersionId": "0",
-      "clubId": 116017,
-      "leagueId": 2216,
-      "countryId": 163,
-      "versionId": "2002",
-      "rating": 77,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        35,
-        36
-      ],
-      "rolesPlusPlus": [
-        26,
-        35,
-        36
-      ],
-      "attributes": [
-        77,
-        73,
-        75,
-        77,
-        23,
-        56
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 275906,
-      "assetId": 275906
     },
     "275983": {
       "name": "Tara O'Hanlon",
@@ -1039,7 +997,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 20000,
+      "sbcPrice": 23000,
       "resourceId": 50564798,
       "assetId": 233150
     },
@@ -1093,7 +1051,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 47250,
+      "sbcPrice": 46750,
       "price": 0,
       "resourceId": 50565394,
       "assetId": 233746
@@ -1155,7 +1113,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 44250,
+      "sbcPrice": 46500,
       "resourceId": 50577478,
       "assetId": 245830
     },
@@ -1259,9 +1217,57 @@
         80
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 18750,
+      "sbcPrice": 25750,
       "resourceId": 50598882,
       "assetId": 267234
+    },
+    "50607554": {
+      "name": "Aoba Fujino",
+      "cardName": "Fujino",
+      "originalVersionId": "3",
+      "clubId": 116017,
+      "leagueId": 2216,
+      "countryId": 163,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12,
+        13,
+        2,
+        21,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        35,
+        36,
+        126
+      ],
+      "rolesPlusPlus": [
+        35,
+        36,
+        126
+      ],
+      "attributes": [
+        85,
+        83,
+        82,
+        84,
+        29,
+        65
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50607554,
+      "assetId": 275906
     },
     "50611180": {
       "name": "Jade Rose",
@@ -1306,7 +1312,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 20250,
       "resourceId": 50611180,
       "assetId": 279532
     },
@@ -1359,7 +1365,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 130000,
+      "price": 142000,
       "resourceId": 84132299,
       "assetId": 246219
     }

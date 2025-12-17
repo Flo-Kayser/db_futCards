@@ -570,54 +570,6 @@
       "resourceId": 239250,
       "assetId": 239250
     },
-    "244369": {
-      "name": "Viktor Tsygankov",
-      "cardName": "Tsygankov",
-      "originalVersionId": "0",
-      "clubId": 110062,
-      "leagueId": 53,
-      "countryId": 49,
-      "versionId": "2002",
-      "rating": 79,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        20,
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        25,
-        33,
-        36
-      ],
-      "rolesPlusPlus": [
-        23,
-        25,
-        33,
-        36
-      ],
-      "attributes": [
-        82,
-        75,
-        79,
-        78,
-        43,
-        60
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 244369,
-      "assetId": 244369
-    },
     "246928": {
       "name": "Iván Martín",
       "cardName": "Iván Martín",
@@ -969,7 +921,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 11500,
       "resourceId": 50522463,
       "assetId": 190815
     },
@@ -1009,9 +961,60 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 900,
       "resourceId": 50573319,
       "assetId": 241671
+    },
+    "50576017": {
+      "name": "Viktor Tsygankov",
+      "cardName": "Tsygankov",
+      "originalVersionId": "3",
+      "clubId": 110062,
+      "leagueId": 53,
+      "countryId": 49,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        20,
+        22,
+        25,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        33,
+        36,
+        123
+      ],
+      "rolesPlusPlus": [
+        25,
+        33,
+        36,
+        123
+      ],
+      "attributes": [
+        88,
+        82,
+        84,
+        83,
+        48,
+        68
+      ],
+      "hasDynamicImage": true,
+      "price": 14000,
+      "resourceId": 50576017,
+      "assetId": 244369
     },
     "50578433": {
       "name": "Bryan Gil",
@@ -1133,7 +1136,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 12250,
+      "price": 12500,
       "resourceId": 50585958,
       "assetId": 254310
     },
