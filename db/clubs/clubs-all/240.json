@@ -94,7 +94,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 4900,
       "resourceId": 194765,
       "assetId": 194765
     },
@@ -136,7 +136,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 10250,
+      "price": 9400,
       "resourceId": 200389,
       "assetId": 200389
     },
@@ -218,7 +218,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1000,
       "resourceId": 216460,
       "assetId": 216460
     },
@@ -265,7 +265,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 950,
       "resourceId": 216549,
       "assetId": 216549
     },
@@ -355,7 +355,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 8900,
       "resourceId": 226161,
       "assetId": 226161
     },
@@ -440,7 +440,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 233084,
       "assetId": 233084
     },
@@ -533,7 +533,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 238216,
       "assetId": 238216
     },
@@ -619,7 +619,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 6500,
+      "price": 7500,
       "resourceId": 246191,
       "assetId": 246191
     },
@@ -667,7 +667,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 850,
       "resourceId": 247103,
       "assetId": 247103
     },
@@ -759,7 +759,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 253396,
       "assetId": 253396
     },
@@ -814,7 +814,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 257279,
       "assetId": 257279
     },
@@ -860,7 +860,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 259516,
       "assetId": 259516
     },
@@ -1116,7 +1116,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 15750,
+      "price": 15250,
       "resourceId": 50525395,
       "assetId": 193747
     },
@@ -1187,7 +1187,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 87500,
+      "price": 85500,
       "resourceId": 50526413,
       "assetId": 194765
     },
@@ -1208,6 +1208,7 @@
         "GK"
       ],
       "playStyles": [
+        10,
         30,
         31,
         32,
@@ -1235,7 +1236,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 59000,
+      "price": 61000,
       "resourceId": 50532037,
       "assetId": 200389
     },
@@ -1286,7 +1287,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 109000,
+      "price": 95500,
       "resourceId": 50548108,
       "assetId": 216460
     },
@@ -1388,7 +1389,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 129000,
+      "price": 138000,
       "resourceId": 50557809,
       "assetId": 226161
     },
@@ -1592,7 +1593,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 54400,
+      "sbcPrice": 53650,
       "resourceId": 50578751,
       "assetId": 247103
     },
@@ -1710,6 +1711,65 @@
       "resourceId": 50585044,
       "assetId": 253396
     },
+    "50588927": {
+      "name": "Álex Baena",
+      "cardName": "Álex Baena",
+      "originalVersionId": "91",
+      "clubId": 240,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "91",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        10,
+        11,
+        20,
+        22,
+        3,
+        8
+      ],
+      "playStylesPlus": [
+        13
+      ],
+      "rolesPlus": [
+        27,
+        38,
+        43,
+        129,
+        130,
+        140
+      ],
+      "rolesPlusPlus": [
+        27,
+        38,
+        43,
+        129,
+        130,
+        140
+      ],
+      "attributes": [
+        90,
+        85,
+        87,
+        86,
+        70,
+        75
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 33000,
+      "price": 0,
+      "resourceId": 50588927,
+      "assetId": 257279
+    },
     "50591232": {
       "name": "Matteo Ruggeri",
       "cardName": "Ruggeri",
@@ -1801,7 +1861,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 14750,
       "resourceId": 67355967,
       "assetId": 247103
     }
