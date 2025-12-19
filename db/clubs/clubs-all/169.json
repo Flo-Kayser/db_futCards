@@ -37,7 +37,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 70909,
       "assetId": 70909
     },
@@ -495,7 +495,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 224251,
       "assetId": 224251
     },
@@ -543,7 +543,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 225309,
       "assetId": 225309
     },
@@ -673,7 +673,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 2200,
       "resourceId": 236518,
       "assetId": 236518
     },
@@ -859,7 +859,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 257075,
       "assetId": 257075
     },
@@ -1191,7 +1191,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 600,
       "resourceId": 276863,
       "assetId": 276863
     },
@@ -1237,7 +1237,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 14250,
+      "price": 14750,
       "resourceId": 50404726,
       "assetId": 73078
     },
@@ -1312,7 +1312,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 10500,
       "resourceId": 50534077,
       "assetId": 202429
     },
@@ -1383,16 +1383,19 @@
         "ST"
       ],
       "playStyles": [
+        0,
         1,
         21,
         25,
-        26,
+        26
+      ],
+      "playStylesPlus": [
         6
       ],
-      "playStylesPlus": [],
       "rolesPlus": [
         30,
         33,
+        42,
         43,
         127,
         141,
@@ -1401,6 +1404,7 @@
       "rolesPlusPlus": [
         30,
         33,
+        42,
         43,
         127,
         141,
@@ -1415,7 +1419,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 16500,
       "resourceId": 50590363,
       "assetId": 258715
     }

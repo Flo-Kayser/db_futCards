@@ -1,17 +1,17 @@
 {
   "clubName": "Al Khaleej",
   "players": {
-    "50517070": {
+    "67294286": {
       "name": "Joshua King",
       "cardName": "King",
-      "originalVersionId": "3",
+      "originalVersionId": "117",
       "clubId": 112883,
       "leagueId": 350,
       "countryId": 36,
-      "versionId": "3",
-      "rating": 80,
+      "versionId": "117",
+      "rating": 85,
       "preferredFoot": "Right",
-      "weakFoot": 3,
+      "weakFoot": 5,
       "skillMoves": 3,
       "preferredPosition": "ST",
       "possiblePositions": [
@@ -21,33 +21,43 @@
       ],
       "playStyles": [
         0,
+        1,
         21,
+        6,
+        7
+      ],
+      "playStylesPlus": [
         22
       ],
-      "playStylesPlus": [],
       "rolesPlus": [
-        30,
-        39,
-        41,
-        142
+        28,
+        29,
+        40,
+        43,
+        130,
+        139,
+        141
       ],
       "rolesPlusPlus": [
-        30,
-        39,
-        41,
-        142
+        28,
+        29,
+        40,
+        43,
+        130,
+        139,
+        141
       ],
       "attributes": [
-        84,
-        83,
-        76,
-        82,
-        44,
-        80
+        87,
+        86,
+        81,
+        85,
+        50,
+        85
       ],
-      "hasDynamicImage": false,
-      "price": 16000,
-      "resourceId": 50517070,
+      "hasDynamicImage": true,
+      "price": 16750,
+      "resourceId": 67294286,
       "assetId": 185422
     }
   }

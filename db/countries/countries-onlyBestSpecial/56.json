@@ -1,48 +1,4 @@
 {
-  "16619": {
-    "name": "Iván Córdoba",
-    "cardName": "Córdoba",
-    "originalVersionId": "72",
-    "clubId": 114605,
-    "leagueId": 31,
-    "countryId": 56,
-    "versionId": "72",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [
-      14,
-      4
-    ],
-    "playStylesPlus": [
-      19
-    ],
-    "rolesPlus": [
-      12,
-      111
-    ],
-    "rolesPlusPlus": [
-      12,
-      111
-    ],
-    "attributes": [
-      86,
-      63,
-      65,
-      68,
-      90,
-      87
-    ],
-    "hasDynamicImage": false,
-    "price": 275000,
-    "resourceId": 16619,
-    "assetId": 16619
-  },
   "204550": {
     "name": "Víctor Ibarbo",
     "cardName": "Ibarbo",
@@ -87,9 +43,65 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 75000,
+    "price": 62000,
     "resourceId": 204550,
     "assetId": 204550
+  },
+  "50348267": {
+    "name": "Iván Córdoba",
+    "cardName": "Córdoba",
+    "originalVersionId": "49",
+    "clubId": 114605,
+    "leagueId": 31,
+    "countryId": 56,
+    "versionId": "49",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "RB"
+    ],
+    "playStyles": [
+      15,
+      16,
+      19,
+      26,
+      4
+    ],
+    "playStylesPlus": [
+      14
+    ],
+    "rolesPlus": [
+      4,
+      13,
+      48,
+      103,
+      111,
+      112
+    ],
+    "rolesPlusPlus": [
+      4,
+      13,
+      48,
+      103,
+      111,
+      112
+    ],
+    "attributes": [
+      87,
+      64,
+      76,
+      80,
+      93,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50348267,
+    "assetId": 16619
   },
   "50518723": {
     "name": "Dayro Moreno",
@@ -130,7 +142,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 19750,
     "resourceId": 50518723,
     "assetId": 187075
   },
@@ -197,7 +209,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 27000,
+    "price": 24000,
     "resourceId": 50524730,
     "assetId": 193082
   },
@@ -249,7 +261,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 17000,
     "resourceId": 50534715,
     "assetId": 203067
   },
@@ -348,7 +360,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 14750,
+    "price": 15000,
     "resourceId": 50551445,
     "assetId": 219797
   },
@@ -394,7 +406,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 71250,
+    "sbcPrice": 72750,
     "price": 102800,
     "resourceId": 50552441,
     "assetId": 220793
@@ -440,7 +452,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 15500,
+    "price": 16000,
     "resourceId": 50562855,
     "assetId": 231207
   },
@@ -517,7 +529,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 62000,
+    "price": 45750,
     "resourceId": 50583518,
     "assetId": 251870
   },
@@ -570,7 +582,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 111000,
+    "price": 90000,
     "resourceId": 50594529,
     "assetId": 262881
   },
@@ -625,7 +637,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 24250,
+    "sbcPrice": 24000,
     "price": 0,
     "resourceId": 50603763,
     "assetId": 272115
@@ -686,7 +698,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 24500,
+    "price": 16500,
     "resourceId": 50604801,
     "assetId": 273153
   },
@@ -746,6 +758,61 @@
     "resourceId": 50611434,
     "assetId": 279786
   },
+  "67125483": {
+    "name": "Iván Córdoba",
+    "cardName": "Córdoba",
+    "originalVersionId": "49",
+    "clubId": 114605,
+    "leagueId": 31,
+    "countryId": 56,
+    "versionId": "49",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CB",
+      "RB"
+    ],
+    "playStyles": [
+      14,
+      15,
+      16,
+      19,
+      26,
+      4
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      5,
+      11,
+      103,
+      104,
+      112
+    ],
+    "rolesPlusPlus": [
+      5,
+      11,
+      103,
+      104,
+      112
+    ],
+    "attributes": [
+      90,
+      64,
+      84,
+      84,
+      91,
+      88
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67125483,
+    "assetId": 16619
+  },
   "67371745": {
     "name": "Richard Ríos",
     "cardName": "Ríos",
@@ -795,7 +862,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 84000,
+    "price": 59000,
     "resourceId": 67371745,
     "assetId": 262881
   },
@@ -853,7 +920,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 127000,
+    "price": 101000,
     "resourceId": 84127164,
     "assetId": 241084
   }

@@ -47,7 +47,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 240000,
+      "price": 230000,
       "resourceId": 50520193,
       "assetId": 188545
     },
@@ -103,7 +103,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 899000,
+      "price": 898000,
       "resourceId": 50560350,
       "assetId": 228702
     },
@@ -161,7 +161,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 153000,
+      "sbcPrice": 154500,
       "resourceId": 50563325,
       "assetId": 231677
     },
@@ -221,7 +221,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 500000,
+      "price": 390000,
       "resourceId": 50565067,
       "assetId": 233419
     },
@@ -275,7 +275,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 14750,
       "resourceId": 50573109,
       "assetId": 241461
     },
@@ -330,7 +330,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 451000,
+      "sbcPrice": 425250,
       "resourceId": 50573134,
       "assetId": 241486
     },
@@ -380,7 +380,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 309000,
+      "price": 98500,
       "resourceId": 50595226,
       "assetId": 263578
     },
@@ -426,59 +426,9 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 14250,
       "resourceId": 50597248,
       "assetId": 265600
-    },
-    "50608827": {
-      "name": "Fermín",
-      "cardName": "Fermín",
-      "originalVersionId": "3",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "3",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        11,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        21,
-        33,
-        38,
-        132
-      ],
-      "rolesPlusPlus": [
-        21,
-        33,
-        38,
-        132
-      ],
-      "attributes": [
-        79,
-        80,
-        80,
-        85,
-        65,
-        61
-      ],
-      "hasDynamicImage": true,
-      "price": 47000,
-      "resourceId": 50608827,
-      "assetId": 277179
     },
     "50609694": {
       "name": "Pau Cubarsí",
@@ -524,7 +474,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 94000,
+      "price": 96000,
       "resourceId": 50609694,
       "assetId": 278046
     },
@@ -580,7 +530,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 153000,
+      "sbcPrice": 154500,
       "resourceId": 67340541,
       "assetId": 231677
     },
@@ -631,9 +581,69 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 599000,
+      "price": 399000,
       "resourceId": 67342283,
       "assetId": 233419
+    },
+    "67386043": {
+      "name": "Fermín",
+      "cardName": "Fermín",
+      "originalVersionId": "45",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "45",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        24,
+        4,
+        9
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        22,
+        33,
+        40,
+        43,
+        121,
+        132,
+        138
+      ],
+      "rolesPlusPlus": [
+        22,
+        33,
+        40,
+        43,
+        121,
+        132,
+        138
+      ],
+      "attributes": [
+        83,
+        85,
+        84,
+        88,
+        70,
+        65
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 67386043,
+      "assetId": 277179
     },
     "67386507": {
       "name": "Lamine Yamal",
@@ -686,7 +696,7 @@
         54
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 317500,
+      "sbcPrice": 301000,
       "resourceId": 67386507,
       "assetId": 277643
     }

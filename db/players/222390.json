@@ -46,7 +46,7 @@
     "leagueId": 53,
     "countryId": 45,
     "versionId": "105",
-    "rating": 85,
+    "rating": 87,
     "preferredFoot": "Right",
     "weakFoot": 3,
     "skillMoves": 3,
@@ -56,14 +56,15 @@
       "CM"
     ],
     "playStyles": [
-      11,
       16,
       20,
       22,
       24,
       9
     ],
-    "playStylesPlus": [],
+    "playStylesPlus": [
+      11
+    ],
     "rolesPlus": [
       15,
       18,
@@ -79,15 +80,15 @@
       120
     ],
     "attributes": [
+      84,
+      85,
+      89,
+      89,
       82,
-      83,
-      87,
-      87,
-      80,
-      80
+      82
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 13750,
     "resourceId": 50554038,
     "assetId": 222390,
     "originalVersionId": 105

@@ -37,7 +37,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 21000,
+    "price": 19750,
     "resourceId": 1845,
     "assetId": 1845
   },
@@ -87,58 +87,9 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 35750,
+    "price": 34000,
     "resourceId": 274967,
     "assetId": 274967
-  },
-  "50517070": {
-    "name": "Joshua King",
-    "cardName": "King",
-    "originalVersionId": "3",
-    "clubId": 112883,
-    "leagueId": 350,
-    "countryId": 36,
-    "versionId": "3",
-    "rating": 80,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      21,
-      22
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      30,
-      39,
-      41,
-      142
-    ],
-    "rolesPlusPlus": [
-      30,
-      39,
-      41,
-      142
-    ],
-    "attributes": [
-      84,
-      83,
-      76,
-      82,
-      44,
-      80
-    ],
-    "hasDynamicImage": false,
-    "price": 16000,
-    "resourceId": 50517070,
-    "assetId": 185422
   },
   "50536862": {
     "name": "Zlatko Tripić",
@@ -185,7 +136,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 15000,
     "resourceId": 50536862,
     "assetId": 205214
   },
@@ -290,7 +241,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 169000,
+    "price": 125000,
     "resourceId": 50554313,
     "assetId": 222665
   },
@@ -302,7 +253,7 @@
     "leagueId": 2222,
     "countryId": 36,
     "versionId": "31",
-    "rating": 91,
+    "rating": 92,
     "preferredFoot": "Right",
     "weakFoot": 5,
     "skillMoves": 5,
@@ -315,37 +266,40 @@
       0,
       10,
       12,
+      21,
       22,
       23,
-      25
+      25,
+      6,
+      8
     ],
     "playStylesPlus": [
       20
     ],
     "rolesPlus": [
       23,
-      35,
       37,
       126,
+      135,
       136
     ],
     "rolesPlusPlus": [
       23,
-      35,
       37,
       126,
+      135,
       136
     ],
     "attributes": [
+      91,
       90,
-      89,
-      89,
-      92,
-      49,
-      77
+      90,
+      93,
+      50,
+      78
     ],
     "hasDynamicImage": true,
-    "price": 1900000,
+    "price": 1842000,
     "resourceId": 50558750,
     "assetId": 227102
   },
@@ -405,7 +359,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 132500,
+    "sbcPrice": 133750,
     "resourceId": 50558971,
     "assetId": 227323
   },
@@ -455,9 +409,69 @@
       81
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 13200,
+    "sbcPrice": 13300,
     "resourceId": 50559017,
     "assetId": 227369
+  },
+  "50561539": {
+    "name": "Julian Ryerson",
+    "cardName": "Ryerson",
+    "originalVersionId": "45",
+    "clubId": 22,
+    "leagueId": 19,
+    "countryId": 36,
+    "versionId": "45",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "CM",
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      14,
+      16,
+      17,
+      26,
+      9
+    ],
+    "playStylesPlus": [
+      28
+    ],
+    "rolesPlus": [
+      4,
+      8,
+      20,
+      24,
+      106,
+      110,
+      119
+    ],
+    "rolesPlusPlus": [
+      4,
+      8,
+      20,
+      24,
+      106,
+      110,
+      119
+    ],
+    "attributes": [
+      82,
+      73,
+      80,
+      85,
+      86,
+      89
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50561539,
+    "assetId": 229891
   },
   "50574544": {
     "name": "Ingrid Syrstad Engen",
@@ -506,7 +520,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 15000,
     "resourceId": 50574544,
     "assetId": 242896
   },
@@ -550,7 +564,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 17500,
+    "price": 17750,
     "resourceId": 50577939,
     "assetId": 246291
   },
@@ -596,7 +610,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 11500,
     "resourceId": 50597902,
     "assetId": 266254
   },
@@ -650,9 +664,68 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 28250,
+    "price": 11000,
     "resourceId": 50608943,
     "assetId": 277295
+  },
+  "67294286": {
+    "name": "Joshua King",
+    "cardName": "King",
+    "originalVersionId": "117",
+    "clubId": 112883,
+    "leagueId": 350,
+    "countryId": 36,
+    "versionId": "117",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      21,
+      6,
+      7
+    ],
+    "playStylesPlus": [
+      22
+    ],
+    "rolesPlus": [
+      28,
+      29,
+      40,
+      43,
+      130,
+      139,
+      141
+    ],
+    "rolesPlusPlus": [
+      28,
+      29,
+      40,
+      43,
+      130,
+      139,
+      141
+    ],
+    "attributes": [
+      87,
+      86,
+      81,
+      85,
+      50,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 16750,
+    "resourceId": 67294286,
+    "assetId": 185422
   },
   "67336174": {
     "name": "Ada Hegerberg",
@@ -697,7 +770,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 19000,
+    "price": 19750,
     "resourceId": 67336174,
     "assetId": 227310
   },
@@ -751,7 +824,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 729000,
+    "price": 740000,
     "resourceId": 84125165,
     "assetId": 239085
   },
@@ -800,7 +873,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 17500,
+    "price": 15750,
     "resourceId": 84148943,
     "assetId": 262863
   }

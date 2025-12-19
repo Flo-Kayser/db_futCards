@@ -117,7 +117,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 198039,
       "assetId": 198039
     },
@@ -287,7 +287,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 210047,
       "assetId": 210047
     },
@@ -370,7 +370,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1200000,
+      "price": 1400000,
       "resourceId": 233731,
       "assetId": 233731
     },
@@ -490,7 +490,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 246923,
       "assetId": 246923
     },
@@ -531,7 +531,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 251809,
       "assetId": 251809
     },
@@ -617,52 +617,9 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 258805,
       "assetId": 258805
-    },
-    "262118": {
-      "name": "Tino Livramento",
-      "cardName": "Livramento",
-      "originalVersionId": "0",
-      "clubId": 13,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "2002",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "LB",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        14
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5,
-        9
-      ],
-      "rolesPlusPlus": [
-        5,
-        9
-      ],
-      "attributes": [
-        82,
-        51,
-        72,
-        78,
-        76,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 450,
-      "resourceId": 262118,
-      "assetId": 262118
     },
     "266127": {
       "name": "Lewis Hall",
@@ -785,7 +742,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 270617,
       "assetId": 270617
     },
@@ -871,7 +828,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 338000,
+      "price": 108000,
       "resourceId": 50529680,
       "assetId": 198032
     },
@@ -974,7 +931,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 84000,
+      "price": 75000,
       "resourceId": 50554982,
       "assetId": 223334
     },
@@ -1020,7 +977,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 14750,
       "resourceId": 50566390,
       "assetId": 234742
     },
@@ -1116,7 +1073,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 457000,
+      "price": 699000,
       "resourceId": 50572744,
       "assetId": 241096
     },
@@ -1173,7 +1130,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 270000,
+      "price": 230000,
       "resourceId": 50574612,
       "assetId": 242964
     },
@@ -1221,7 +1178,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 16250,
       "resourceId": 50579499,
       "assetId": 247851
     },
@@ -1270,9 +1227,66 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 29500,
+      "price": 26750,
       "resourceId": 50587909,
       "assetId": 256261
+    },
+    "50593766": {
+      "name": "Tino Livramento",
+      "cardName": "Livramento",
+      "originalVersionId": "117",
+      "clubId": 13,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "117",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        15,
+        16,
+        18,
+        22,
+        26
+      ],
+      "playStylesPlus": [
+        14
+      ],
+      "rolesPlus": [
+        5,
+        9,
+        23,
+        104,
+        108,
+        125
+      ],
+      "rolesPlusPlus": [
+        5,
+        9,
+        23,
+        104,
+        108,
+        125
+      ],
+      "attributes": [
+        85,
+        56,
+        83,
+        84,
+        85,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 29500,
+      "resourceId": 50593766,
+      "assetId": 262118
     },
     "67362886": {
       "name": "Nick Woltemade",
@@ -1333,7 +1347,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 43000,
+      "price": 38750,
       "resourceId": 67362886,
       "assetId": 254022
     }

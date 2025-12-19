@@ -46,7 +46,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 10500,
+    "price": 8500,
     "resourceId": 262531,
     "assetId": 262531,
     "originalVersionId": 1
@@ -102,7 +102,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 320000,
+    "price": 290000,
     "resourceId": 50594179,
     "assetId": 262531,
     "originalVersionId": 150
@@ -156,10 +156,124 @@
       73
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 431250,
+    "sbcPrice": 407750,
     "resourceId": 67371395,
     "assetId": 262531,
     "originalVersionId": 177
+  },
+  "84148611": {
+    "clubId": 116325,
+    "leagueId": 2222,
+    "countryId": 45,
+    "versionId": "117",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      3,
+      6,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      20
+    ],
+    "rolesPlus": [
+      30,
+      39,
+      41,
+      127,
+      138,
+      140,
+      143
+    ],
+    "rolesPlusPlus": [
+      30,
+      39,
+      41,
+      127,
+      138,
+      140,
+      143
+    ],
+    "attributes": [
+      85,
+      89,
+      87,
+      90,
+      48,
+      74
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84148611,
+    "assetId": 262531,
+    "originalVersionId": 117
+  },
+  "100925827": {
+    "clubId": 116325,
+    "leagueId": 2222,
+    "countryId": 45,
+    "versionId": "117",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      20,
+      3,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      27,
+      35,
+      43,
+      130,
+      136,
+      141
+    ],
+    "rolesPlusPlus": [
+      27,
+      35,
+      43,
+      130,
+      136,
+      141
+    ],
+    "attributes": [
+      83,
+      90,
+      86,
+      89,
+      48,
+      76
+    ],
+    "hasDynamicImage": true,
+    "price": 1318000,
+    "resourceId": 100925827,
+    "assetId": 262531,
+    "originalVersionId": 117
   },
   "cardName": "Claudia Pina",
   "name": "Claudia Pina"

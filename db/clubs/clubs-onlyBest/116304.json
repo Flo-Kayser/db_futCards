@@ -155,7 +155,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 241545,
       "assetId": 241545
     },
@@ -245,7 +245,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 243263,
       "assetId": 243263
     },
@@ -450,7 +450,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 750,
       "resourceId": 266816,
       "assetId": 266816
     },
@@ -728,7 +728,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4900,
       "resourceId": 274806,
       "assetId": 274806
     },
@@ -981,7 +981,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 23250,
       "resourceId": 50572872,
       "assetId": 241224
     },
@@ -1029,62 +1029,6 @@
       "price": 0,
       "resourceId": 50596987,
       "assetId": 265339
-    },
-    "50598576": {
-      "name": "Trinity Rodman",
-      "cardName": "Rodman",
-      "originalVersionId": "22",
-      "clubId": 116304,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "22",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        13,
-        19,
-        21,
-        23,
-        26
-      ],
-      "playStylesPlus": [
-        25
-      ],
-      "rolesPlus": [
-        26,
-        36,
-        43,
-        123,
-        135
-      ],
-      "rolesPlusPlus": [
-        26,
-        36,
-        43,
-        123,
-        135
-      ],
-      "attributes": [
-        92,
-        83,
-        80,
-        85,
-        70,
-        84
-      ],
-      "hasDynamicImage": true,
-      "price": 69000,
-      "resourceId": 50598576,
-      "assetId": 266928
     },
     "50599910": {
       "name": "Rosemonde Kouassi",
@@ -1190,7 +1134,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 24250,
+      "sbcPrice": 24000,
       "price": 0,
       "resourceId": 50603763,
       "assetId": 272115
@@ -1237,7 +1181,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 15500,
       "resourceId": 50603865,
       "assetId": 272217
     },
@@ -1286,9 +1230,127 @@
         72
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 20750,
+      "sbcPrice": 28250,
       "resourceId": 50611460,
       "assetId": 279812
+    },
+    "67375792": {
+      "name": "Trinity Rodman",
+      "cardName": "Rodman",
+      "originalVersionId": "117",
+      "clubId": 116304,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "117",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        13,
+        19,
+        23,
+        25,
+        26,
+        6
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        26,
+        36,
+        43,
+        123,
+        135,
+        142
+      ],
+      "rolesPlusPlus": [
+        26,
+        36,
+        43,
+        123,
+        135,
+        142
+      ],
+      "attributes": [
+        93,
+        85,
+        82,
+        87,
+        71,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67375792,
+      "assetId": 266928
+    },
+    "84153008": {
+      "name": "Trinity Rodman",
+      "cardName": "Rodman",
+      "originalVersionId": "117",
+      "clubId": 116304,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "117",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        13,
+        19,
+        21,
+        23,
+        25,
+        26,
+        6
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        23,
+        35,
+        44,
+        126,
+        136,
+        141,
+        143
+      ],
+      "rolesPlusPlus": [
+        23,
+        35,
+        44,
+        126,
+        136,
+        141,
+        143
+      ],
+      "attributes": [
+        91,
+        88,
+        81,
+        86,
+        70,
+        86
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 84153008,
+      "assetId": 266928
     }
   }
 }

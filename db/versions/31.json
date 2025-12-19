@@ -7,7 +7,7 @@
     "leagueId": 2222,
     "countryId": 36,
     "versionId": "31",
-    "rating": 91,
+    "rating": 92,
     "preferredFoot": "Right",
     "weakFoot": 5,
     "skillMoves": 5,
@@ -20,37 +20,40 @@
       0,
       10,
       12,
+      21,
       22,
       23,
-      25
+      25,
+      6,
+      8
     ],
     "playStylesPlus": [
       20
     ],
     "rolesPlus": [
       23,
-      35,
       37,
       126,
+      135,
       136
     ],
     "rolesPlusPlus": [
       23,
-      35,
       37,
       126,
+      135,
       136
     ],
     "attributes": [
+      91,
       90,
-      89,
-      89,
-      92,
-      49,
-      77
+      90,
+      93,
+      50,
+      78
     ],
     "hasDynamicImage": true,
-    "price": 1900000,
+    "price": 1842000,
     "resourceId": 50558750,
     "assetId": 227102
   },
@@ -62,7 +65,7 @@
     "leagueId": 2222,
     "countryId": 45,
     "versionId": "31",
-    "rating": 86,
+    "rating": 87,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -99,12 +102,12 @@
       141
     ],
     "attributes": [
-      86,
-      88,
-      74,
       87,
-      30,
-      70
+      89,
+      75,
+      88,
+      31,
+      71
     ],
     "hasDynamicImage": true,
     "sbcPrice": 72800,
@@ -132,6 +135,7 @@
     "playStyles": [
       10,
       15,
+      17,
       18,
       28,
       9
@@ -142,13 +146,13 @@
     "rolesPlus": [
       3,
       4,
-      11,
+      111,
       113
     ],
     "rolesPlusPlus": [
       3,
       4,
-      11,
+      111,
       113
     ],
     "attributes": [
@@ -160,7 +164,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 86500,
+    "price": 70000,
     "resourceId": 50596941,
     "assetId": 265293
   },
@@ -184,13 +188,14 @@
     "playStyles": [
       0,
       11,
-      20,
       22,
       6,
       8,
       9
     ],
-    "playStylesPlus": [],
+    "playStylesPlus": [
+      20
+    ],
     "rolesPlus": [
       22,
       32,
@@ -214,7 +219,7 @@
       61
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 11000,
     "resourceId": 50605168,
     "assetId": 273520
   },
@@ -238,6 +243,7 @@
     "playStyles": [
       10,
       14,
+      16,
       17,
       21,
       9
@@ -247,13 +253,15 @@
       9,
       28,
       108,
-      110
+      110,
+      127
     ],
     "rolesPlusPlus": [
       9,
       28,
       108,
-      110
+      110,
+      127
     ],
     "attributes": [
       87,
@@ -264,7 +272,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 16250,
     "resourceId": 50609873,
     "assetId": 278225
   }

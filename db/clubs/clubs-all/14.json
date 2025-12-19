@@ -115,7 +115,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 79402,
       "assetId": 79402
     },
@@ -193,7 +193,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 192123,
       "assetId": 192123
     },
@@ -232,7 +232,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 750,
       "resourceId": 199641,
       "assetId": 199641
     },
@@ -353,7 +353,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1300,
       "resourceId": 224656,
       "assetId": 224656
     },
@@ -555,7 +555,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 400,
       "resourceId": 235642,
       "assetId": 235642
     },
@@ -643,7 +643,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 236499,
       "assetId": 236499
     },
@@ -1026,7 +1026,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 254243,
       "assetId": 254243
     },
@@ -1117,7 +1117,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 257980,
       "assetId": 257980
     },
@@ -1253,7 +1253,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 1800,
       "resourceId": 269421,
       "assetId": 269421
     },
@@ -1297,7 +1297,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 4400,
       "resourceId": 278016,
       "assetId": 278016
     },
@@ -1480,7 +1480,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 39000,
+      "price": 32000,
       "resourceId": 50566821,
       "assetId": 235173
     },
@@ -1532,7 +1532,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 28750,
+      "price": 24500,
       "resourceId": 50567290,
       "assetId": 235642
     },
@@ -1576,7 +1576,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 50582437,
       "assetId": 250789
     },
@@ -1622,7 +1622,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 14250,
+      "price": 14500,
       "resourceId": 50589628,
       "assetId": 257980
     },
@@ -1671,7 +1671,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 393000,
+      "price": 330000,
       "resourceId": 50609664,
       "assetId": 278016
     },
@@ -1720,7 +1720,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 16250,
+      "price": 19750,
       "resourceId": 67183174,
       "assetId": 74310
     },
@@ -1776,10 +1776,67 @@
         82
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 23750,
+      "sbcPrice": 23250,
       "price": 0,
       "resourceId": 67336677,
       "assetId": 227813
+    },
+    "67366844": {
+      "name": "Dan Ndoye",
+      "cardName": "Ndoye",
+      "originalVersionId": "45",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 47,
+      "versionId": "45",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        20,
+        25,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        23,
+        27,
+        38,
+        126,
+        130,
+        139
+      ],
+      "rolesPlusPlus": [
+        23,
+        27,
+        38,
+        126,
+        130,
+        139
+      ],
+      "attributes": [
+        94,
+        83,
+        80,
+        87,
+        68,
+        75
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 67366844,
+      "assetId": 257980
     }
   }
 }

@@ -155,7 +155,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 850,
+    "price": 200,
     "resourceId": 73895,
     "assetId": 73895
   },
@@ -382,7 +382,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 3500,
+    "price": 5000,
     "resourceId": 166764,
     "assetId": 166764
   },
@@ -1189,57 +1189,6 @@
     "price": 200,
     "resourceId": 221167,
     "assetId": 221167
-  },
-  "226764": {
-    "name": "George Best",
-    "cardName": "Best",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 35,
-    "versionId": "12",
-    "rating": 90,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "RW",
-    "possiblePositions": [
-      "CAM",
-      "LW",
-      "RW"
-    ],
-    "playStyles": [
-      0,
-      22,
-      25
-    ],
-    "playStylesPlus": [
-      20
-    ],
-    "rolesPlus": [
-      31,
-      36,
-      137,
-      140
-    ],
-    "rolesPlusPlus": [
-      31,
-      36,
-      137,
-      140
-    ],
-    "attributes": [
-      91,
-      89,
-      82,
-      92,
-      56,
-      68
-    ],
-    "hasDynamicImage": false,
-    "price": 669000,
-    "resourceId": 226764,
-    "assetId": 226764
   },
   "228292": {
     "name": "Ciaron Harkin",
@@ -2249,7 +2198,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 450,
     "resourceId": 264298,
     "assetId": 264298
   },
@@ -2338,7 +2287,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 2000,
     "resourceId": 264677,
     "assetId": 264677
   },
@@ -2791,7 +2740,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 4900,
     "resourceId": 273979,
     "assetId": 273979
   },
@@ -2921,7 +2870,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 2000,
     "resourceId": 277533,
     "assetId": 277533
   },
@@ -3087,6 +3036,63 @@
     "resourceId": 50409086,
     "assetId": 77438
   },
+  "50558412": {
+    "name": "George Best",
+    "cardName": "Best",
+    "originalVersionId": "35",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 35,
+    "versionId": "35",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CAM",
+      "LW",
+      "RW"
+    ],
+    "playStyles": [
+      20,
+      21,
+      22,
+      25,
+      7
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      31,
+      35,
+      38,
+      136,
+      137,
+      140
+    ],
+    "rolesPlusPlus": [
+      31,
+      35,
+      38,
+      136,
+      137,
+      140
+    ],
+    "attributes": [
+      92,
+      90,
+      83,
+      93,
+      57,
+      69
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50558412,
+    "assetId": 226764
+  },
   "50575556": {
     "name": "Daniel Ballard",
     "cardName": "Ballard",
@@ -3128,7 +3134,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 14750,
     "resourceId": 50575556,
     "assetId": 243908
   },
@@ -3180,7 +3186,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 34500,
+    "price": 32750,
     "resourceId": 50598048,
     "assetId": 266400
   }

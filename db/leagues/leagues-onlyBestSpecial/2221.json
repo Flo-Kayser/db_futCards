@@ -41,7 +41,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 4600,
+    "sbcPrice": 4500,
     "resourceId": 50403075,
     "assetId": 71427
   },
@@ -261,7 +261,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 27750,
     "resourceId": 50558541,
     "assetId": 226893
   },
@@ -305,7 +305,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 15000,
     "resourceId": 50558545,
     "assetId": 226897
   },
@@ -361,7 +361,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 12000,
     "resourceId": 50559035,
     "assetId": 227387
   },
@@ -419,7 +419,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 44500,
+    "price": 34500,
     "resourceId": 50563721,
     "assetId": 232073
   },
@@ -523,7 +523,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 95900,
+    "sbcPrice": 95650,
     "price": 105650,
     "resourceId": 50564991,
     "assetId": 233343
@@ -750,7 +750,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 29000,
+    "price": 23250,
     "resourceId": 50572872,
     "assetId": 241224
   },
@@ -919,65 +919,90 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 14750,
     "resourceId": 50597739,
     "assetId": 266091
   },
-  "50598576": {
-    "name": "Trinity Rodman",
-    "cardName": "Rodman",
-    "originalVersionId": "22",
-    "clubId": 116304,
+  "50598871": {
+    "name": "Olivia Moultrie",
+    "cardName": "Moultrie",
+    "originalVersionId": "117",
+    "clubId": 116302,
     "leagueId": 2221,
     "countryId": 95,
-    "versionId": "22",
-    "rating": 87,
+    "versionId": "117",
+    "rating": 86,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 4,
-    "preferredPosition": "RM",
+    "preferredPosition": "CM",
     "possiblePositions": [
-      "RM",
-      "RW",
-      "ST"
+      "CAM",
+      "CM",
+      "LM",
+      "RM"
     ],
     "playStyles": [
       0,
       13,
-      19,
-      21,
-      23,
-      26
+      2,
+      3,
+      6,
+      8,
+      9
     ],
     "playStylesPlus": [
-      25
+      11
     ],
     "rolesPlus": [
-      26,
-      36,
-      43,
+      118,
+      119,
+      120,
+      121,
+      122,
       123,
-      135
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134
     ],
     "rolesPlusPlus": [
-      26,
-      36,
-      43,
+      118,
+      119,
+      120,
+      121,
+      122,
       123,
-      135
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134
     ],
     "attributes": [
-      92,
-      83,
-      80,
       85,
-      70,
-      84
+      85,
+      86,
+      86,
+      75,
+      81
     ],
     "hasDynamicImage": true,
-    "price": 69000,
-    "resourceId": 50598576,
-    "assetId": 266928
+    "resourceId": 50598871,
+    "assetId": 267223
   },
   "50598875": {
     "name": "Yazmeen Ryan",
@@ -1074,7 +1099,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 13000,
     "resourceId": 50598886,
     "assetId": 267238
   },
@@ -1177,9 +1202,65 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 14250,
     "resourceId": 50599023,
     "assetId": 267375
+  },
+  "50599032": {
+    "name": "Taylor Flint",
+    "cardName": "Flint",
+    "originalVersionId": "45",
+    "clubId": 116308,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "45",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      16,
+      17,
+      19,
+      4,
+      8
+    ],
+    "playStylesPlus": [
+      26
+    ],
+    "rolesPlus": [
+      15,
+      17,
+      19,
+      114,
+      118,
+      149
+    ],
+    "rolesPlusPlus": [
+      15,
+      17,
+      19,
+      114,
+      118,
+      149
+    ],
+    "attributes": [
+      80,
+      80,
+      83,
+      84,
+      85,
+      89
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50599032,
+    "assetId": 267384
   },
   "50599910": {
     "name": "Rosemonde Kouassi",
@@ -1285,7 +1366,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 24250,
+    "sbcPrice": 24000,
     "price": 0,
     "resourceId": 50603763,
     "assetId": 272115
@@ -1332,7 +1413,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 15500,
     "resourceId": 50603865,
     "assetId": 272217
   },
@@ -1385,7 +1466,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 21250,
+    "price": 10500,
     "resourceId": 50609574,
     "assetId": 277926
   },
@@ -1434,7 +1515,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 20750,
+    "sbcPrice": 28250,
     "resourceId": 50611460,
     "assetId": 279812
   },
@@ -1513,7 +1594,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 77000,
+    "price": 65000,
     "resourceId": 67335757,
     "assetId": 226893
   },
@@ -1561,9 +1642,67 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 11000,
     "resourceId": 67367174,
     "assetId": 258310
+  },
+  "67375792": {
+    "name": "Trinity Rodman",
+    "cardName": "Rodman",
+    "originalVersionId": "117",
+    "clubId": 116304,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "117",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      13,
+      19,
+      23,
+      25,
+      26,
+      6
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      26,
+      36,
+      43,
+      123,
+      135,
+      142
+    ],
+    "rolesPlusPlus": [
+      26,
+      36,
+      43,
+      123,
+      135,
+      142
+    ],
+    "attributes": [
+      93,
+      85,
+      82,
+      87,
+      71,
+      85
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67375792,
+    "assetId": 266928
   },
   "67379904": {
     "name": "Jaedyn Shaw",
@@ -1612,7 +1751,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 15000,
     "resourceId": 67379904,
     "assetId": 271040
   },
@@ -1709,8 +1848,68 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 26750,
+    "price": 24750,
     "resourceId": 84118155,
     "assetId": 232075
+  },
+  "84153008": {
+    "name": "Trinity Rodman",
+    "cardName": "Rodman",
+    "originalVersionId": "117",
+    "clubId": 116304,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "117",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      13,
+      19,
+      21,
+      23,
+      25,
+      26,
+      6
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      23,
+      35,
+      44,
+      126,
+      136,
+      141,
+      143
+    ],
+    "rolesPlusPlus": [
+      23,
+      35,
+      44,
+      126,
+      136,
+      141,
+      143
+    ],
+    "attributes": [
+      91,
+      88,
+      81,
+      86,
+      70,
+      86
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 84153008,
+    "assetId": 266928
   }
 }

@@ -98,7 +98,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 39000,
+      "price": 32000,
       "resourceId": 50566821,
       "assetId": 235173
     },
@@ -150,55 +150,9 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 28750,
+      "price": 24500,
       "resourceId": 50567290,
       "assetId": 235642
-    },
-    "50589628": {
-      "name": "Dan Ndoye",
-      "cardName": "Ndoye",
-      "originalVersionId": "3",
-      "clubId": 14,
-      "leagueId": 13,
-      "countryId": 47,
-      "versionId": "3",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM"
-      ],
-      "playStyles": [
-        21,
-        25,
-        6,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        130
-      ],
-      "rolesPlusPlus": [
-        26,
-        130
-      ],
-      "attributes": [
-        93,
-        80,
-        78,
-        86,
-        67,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 14250,
-      "resourceId": 50589628,
-      "assetId": 257980
     },
     "50609664": {
       "name": "Murillo",
@@ -245,7 +199,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 393000,
+      "price": 330000,
       "resourceId": 50609664,
       "assetId": 278016
     },
@@ -294,7 +248,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 16250,
+      "price": 19750,
       "resourceId": 67183174,
       "assetId": 74310
     },
@@ -350,10 +304,67 @@
         82
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 23750,
+      "sbcPrice": 23250,
       "price": 0,
       "resourceId": 67336677,
       "assetId": 227813
+    },
+    "67366844": {
+      "name": "Dan Ndoye",
+      "cardName": "Ndoye",
+      "originalVersionId": "45",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 47,
+      "versionId": "45",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        20,
+        25,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        23,
+        27,
+        38,
+        126,
+        130,
+        139
+      ],
+      "rolesPlusPlus": [
+        23,
+        27,
+        38,
+        126,
+        130,
+        139
+      ],
+      "attributes": [
+        94,
+        83,
+        80,
+        87,
+        68,
+        75
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 67366844,
+      "assetId": 257980
     }
   }
 }

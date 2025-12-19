@@ -144,7 +144,7 @@
       }
     },
     "35": {
-      "count": 1,
+      "count": 9,
       "file": "db/versions/35.json",
       "details": {
         "name": "Winter Wildcards ICON",
@@ -182,6 +182,19 @@
         "tertiaryColor": "#00f5ff"
       }
     },
+    "45": {
+      "count": 8,
+      "file": "db/versions/45.json",
+      "details": {
+        "name": "Winter Wildcards Red",
+        "hasStrip": true,
+        "createdAt": "2025-12-18T19:45:00.434Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_45_0.png",
+        "primaryColor": "#fff0be",
+        "secondaryColor": "#961d25",
+        "tertiaryColor": "#ff8f91"
+      }
+    },
     "46": {
       "count": 17,
       "file": "db/versions/46.json",
@@ -193,6 +206,19 @@
         "primaryColor": "#ffffff",
         "secondaryColor": "#3b1904",
         "tertiaryColor": "#ff6900"
+      }
+    },
+    "49": {
+      "count": 6,
+      "file": "db/versions/49.json",
+      "details": {
+        "name": "Winter Wildcards Hero",
+        "hasStrip": true,
+        "createdAt": "2025-12-18T19:45:00.433Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_49_0.png",
+        "primaryColor": "#fff0be",
+        "secondaryColor": "#083824",
+        "tertiaryColor": "#99f4ef"
       }
     },
     "50": {
@@ -219,6 +245,19 @@
         "primaryColor": "#fcfcf7",
         "secondaryColor": "#2d187f",
         "tertiaryColor": "#ff4be0"
+      }
+    },
+    "53": {
+      "count": 1,
+      "file": "db/versions/53.json",
+      "details": {
+        "name": "Winter Wildcards ICON Red",
+        "hasStrip": true,
+        "createdAt": "2025-12-18T19:45:00.433Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_53_0.png",
+        "primaryColor": "#531814",
+        "secondaryColor": "#e2dcd7",
+        "tertiaryColor": "#976730"
       }
     },
     "57": {
@@ -442,6 +481,19 @@
         "tertiaryColor": "#00e8da"
       }
     },
+    "117": {
+      "count": 27,
+      "file": "db/versions/117.json",
+      "details": {
+        "name": "Winter Wildcards",
+        "hasStrip": true,
+        "createdAt": "2025-12-18T19:45:00.433Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_117_0.png",
+        "primaryColor": "#fff0be",
+        "secondaryColor": "#083824",
+        "tertiaryColor": "#99f4ef"
+      }
+    },
     "150": {
       "count": 53,
       "file": "db/versions/150.json",
@@ -600,8 +652,8 @@
     }
   },
   "meta": {
-    "totalVersions": 46,
-    "totalVersionsWithoutBase": 40,
-    "updatedAt": "2025-12-18T18:48:10.475Z"
+    "totalVersions": 50,
+    "totalVersionsWithoutBase": 44,
+    "updatedAt": "2025-12-19T18:52:12.490Z"
   }
 }

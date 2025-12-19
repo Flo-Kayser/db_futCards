@@ -1,6 +1,64 @@
 {
   "clubName": "SV Werder Bremen",
   "players": {
+    "50404671": {
+      "name": "Larissa Mühlhaus",
+      "cardName": "Mühlhaus",
+      "originalVersionId": "117",
+      "clubId": 116004,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "117",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        11,
+        2,
+        6
+      ],
+      "playStylesPlus": [
+        29
+      ],
+      "rolesPlus": [
+        28,
+        29,
+        40,
+        44,
+        130,
+        139,
+        142
+      ],
+      "rolesPlusPlus": [
+        28,
+        29,
+        40,
+        44,
+        130,
+        139,
+        142
+      ],
+      "attributes": [
+        85,
+        85,
+        85,
+        85,
+        60,
+        95
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50404671,
+      "assetId": 73023
+    },
     "50596579": {
       "name": "Verena Wieder",
       "cardName": "Wieder",
@@ -96,7 +154,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 21250,
+      "price": 15000,
       "resourceId": 50597030,
       "assetId": 265382
     }

@@ -751,7 +751,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 850,
     "resourceId": 221422,
     "assetId": 221422
   },
@@ -1001,7 +1001,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 800,
     "resourceId": 238004,
     "assetId": 238004
   },
@@ -1168,7 +1168,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 750,
     "resourceId": 244290,
     "assetId": 244290
   },
@@ -1247,7 +1247,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 200,
     "resourceId": 245270,
     "assetId": 245270
   },
@@ -1503,7 +1503,7 @@
       51
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 400,
     "resourceId": 258533,
     "assetId": 258533
   },
@@ -1585,55 +1585,9 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 250,
     "resourceId": 261457,
     "assetId": 261457
-  },
-  "262088": {
-    "name": "Hákon Arnar Haraldsson",
-    "cardName": "Haraldsson",
-    "originalVersionId": "0",
-    "clubId": 65,
-    "leagueId": 16,
-    "countryId": 24,
-    "versionId": "2002",
-    "rating": 78,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "CM",
-      "LM"
-    ],
-    "playStyles": [
-      20,
-      8
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      30,
-      31,
-      33
-    ],
-    "rolesPlusPlus": [
-      30,
-      31,
-      33
-    ],
-    "attributes": [
-      77,
-      67,
-      75,
-      81,
-      57,
-      69
-    ],
-    "hasDynamicImage": false,
-    "price": 350,
-    "resourceId": 262088,
-    "assetId": 262088
   },
   "262551": {
     "name": "Stefán Teitur Þórðarson",
@@ -1886,7 +1840,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 800,
     "resourceId": 266384,
     "assetId": 266384
   },
@@ -2251,7 +2205,7 @@
       50
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 250,
     "resourceId": 274927,
     "assetId": 274927
   },
@@ -2329,7 +2283,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 250,
     "resourceId": 277121,
     "assetId": 277121
   },
@@ -2502,6 +2456,67 @@
     "resourceId": 277902,
     "assetId": 277902
   },
+  "50593736": {
+    "name": "Hákon Arnar Haraldsson",
+    "cardName": "Haraldsson",
+    "originalVersionId": "45",
+    "clubId": 65,
+    "leagueId": 16,
+    "countryId": 24,
+    "versionId": "45",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM"
+    ],
+    "playStyles": [
+      0,
+      10,
+      11,
+      20,
+      26
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      22,
+      28,
+      121,
+      130,
+      131,
+      132,
+      133,
+      134
+    ],
+    "rolesPlusPlus": [
+      22,
+      28,
+      121,
+      130,
+      131,
+      132,
+      133,
+      134
+    ],
+    "attributes": [
+      84,
+      83,
+      85,
+      88,
+      65,
+      76
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50593736,
+    "assetId": 262088
+  },
   "50600834": {
     "name": "Orri Óskarsson",
     "cardName": "Óskarsson",
@@ -2547,7 +2562,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 23000,
     "resourceId": 50600834,
     "assetId": 269186
   },
@@ -2634,7 +2649,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 28750,
     "resourceId": 67373750,
     "assetId": 264886
   }

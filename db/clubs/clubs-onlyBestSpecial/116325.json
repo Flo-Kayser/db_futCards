@@ -9,7 +9,7 @@
       "leagueId": 2222,
       "countryId": 36,
       "versionId": "31",
-      "rating": 91,
+      "rating": 92,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 5,
@@ -22,37 +22,40 @@
         0,
         10,
         12,
+        21,
         22,
         23,
-        25
+        25,
+        6,
+        8
       ],
       "playStylesPlus": [
         20
       ],
       "rolesPlus": [
         23,
-        35,
         37,
         126,
+        135,
         136
       ],
       "rolesPlusPlus": [
         23,
-        35,
         37,
         126,
+        135,
         136
       ],
       "attributes": [
+        91,
         90,
-        89,
-        89,
-        92,
-        49,
-        77
+        90,
+        93,
+        50,
+        78
       ],
       "hasDynamicImage": true,
-      "price": 1900000,
+      "price": 1842000,
       "resourceId": 50558750,
       "assetId": 227102
     },
@@ -100,7 +103,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 110000,
+      "price": 35500,
       "resourceId": 50558838,
       "assetId": 227190
     },
@@ -152,7 +155,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 385000,
+      "price": 400000,
       "resourceId": 50558851,
       "assetId": 227203
     },
@@ -254,7 +257,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 2189000,
+      "price": 2250000,
       "resourceId": 50573315,
       "assetId": 241667
     },
@@ -311,7 +314,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 268000,
+      "price": 260000,
       "resourceId": 50573494,
       "assetId": 241846
     },
@@ -365,7 +368,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 14750,
       "resourceId": 50585083,
       "assetId": 253435
     },
@@ -443,67 +446,9 @@
         73
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 40000,
+      "sbcPrice": 38250,
       "resourceId": 50585084,
       "assetId": 253436
-    },
-    "50594179": {
-      "name": "Claudia Pina",
-      "cardName": "Claudia Pina",
-      "originalVersionId": "150",
-      "clubId": 116325,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "150",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        11,
-        20,
-        3,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        6
-      ],
-      "rolesPlus": [
-        27,
-        29,
-        39,
-        43,
-        138,
-        140
-      ],
-      "rolesPlusPlus": [
-        27,
-        29,
-        39,
-        43,
-        138,
-        140
-      ],
-      "attributes": [
-        81,
-        88,
-        85,
-        88,
-        46,
-        72
-      ],
-      "hasDynamicImage": true,
-      "price": 320000,
-      "resourceId": 50594179,
-      "assetId": 262531
     },
     "50599178": {
       "name": "Esmee Brugts",
@@ -553,7 +498,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 19750,
+      "price": 14500,
       "resourceId": 50599178,
       "assetId": 267530
     },
@@ -607,7 +552,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 143000,
+      "price": 125000,
       "resourceId": 50601052,
       "assetId": 269404
     },
@@ -666,22 +611,22 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 2000000,
+      "price": 1700000,
       "resourceId": 67336067,
       "assetId": 227203
     },
-    "67371395": {
+    "84148611": {
       "name": "Claudia Pina",
       "cardName": "Claudia Pina",
-      "originalVersionId": "177",
+      "originalVersionId": "117",
       "clubId": 116325,
       "leagueId": 2222,
       "countryId": 45,
-      "versionId": "177",
-      "rating": 87,
+      "versionId": "117",
+      "rating": 88,
       "preferredFoot": "Right",
       "weakFoot": 5,
-      "skillMoves": 4,
+      "skillMoves": 5,
       "preferredPosition": "LW",
       "possiblePositions": [
         "LM",
@@ -689,41 +634,103 @@
         "ST"
       ],
       "playStyles": [
+        0,
         11,
-        20,
         3,
         6,
         7,
         8
       ],
       "playStylesPlus": [
-        0
+        20
       ],
       "rolesPlus": [
-        27,
-        38,
-        139,
+        30,
+        39,
+        41,
+        127,
+        138,
         140,
         143
       ],
       "rolesPlusPlus": [
-        27,
-        38,
-        139,
+        30,
+        39,
+        41,
+        127,
+        138,
         140,
         143
       ],
       "attributes": [
-        80,
-        87,
         85,
-        88,
-        47,
-        73
+        89,
+        87,
+        90,
+        48,
+        74
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 431250,
-      "resourceId": 67371395,
+      "price": 0,
+      "resourceId": 84148611,
+      "assetId": 262531
+    },
+    "100925827": {
+      "name": "Claudia Pina",
+      "cardName": "Claudia Pina",
+      "originalVersionId": "117",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "117",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        20,
+        3,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        27,
+        35,
+        43,
+        130,
+        136,
+        141
+      ],
+      "rolesPlusPlus": [
+        27,
+        35,
+        43,
+        130,
+        136,
+        141
+      ],
+      "attributes": [
+        83,
+        90,
+        86,
+        89,
+        48,
+        76
+      ],
+      "hasDynamicImage": true,
+      "price": 1318000,
+      "resourceId": 100925827,
       "assetId": 262531
     }
   }

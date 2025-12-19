@@ -352,52 +352,6 @@
       "resourceId": 247791,
       "assetId": 247791
     },
-    "248799": {
-      "name": "Mary Fowler",
-      "cardName": "Fowler",
-      "originalVersionId": "0",
-      "clubId": 116017,
-      "leagueId": 2216,
-      "countryId": 195,
-      "versionId": "2002",
-      "rating": 79,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 3,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "LW",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        3
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        36,
-        37,
-        43
-      ],
-      "rolesPlusPlus": [
-        36,
-        37,
-        43
-      ],
-      "attributes": [
-        80,
-        77,
-        73,
-        81,
-        47,
-        62
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 248799,
-      "assetId": 248799
-    },
     "257008": {
       "name": "Lauren Hemp",
       "cardName": "Hemp",
@@ -441,7 +395,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 6400,
+      "price": 6000,
       "resourceId": 257008,
       "assetId": 257008
     },
@@ -485,7 +439,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 264875,
       "assetId": 264875
     },
@@ -732,7 +686,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1000,
       "resourceId": 266526,
       "assetId": 266526
     },
@@ -772,7 +726,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 266568,
       "assetId": 266568
     },
@@ -997,7 +951,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 23000,
+      "sbcPrice": 24000,
       "resourceId": 50564798,
       "assetId": 233150
     },
@@ -1113,9 +1067,76 @@
         70
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 47500,
+      "sbcPrice": 45000,
       "resourceId": 50577478,
       "assetId": 245830
+    },
+    "50580447": {
+      "name": "Mary Fowler",
+      "cardName": "Fowler",
+      "originalVersionId": "117",
+      "clubId": 116017,
+      "leagueId": 2216,
+      "countryId": 195,
+      "versionId": "117",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        24,
+        3,
+        6
+      ],
+      "playStylesPlus": [
+        7
+      ],
+      "rolesPlus": [
+        25,
+        29,
+        37,
+        40,
+        41,
+        126,
+        130,
+        136,
+        139,
+        143
+      ],
+      "rolesPlusPlus": [
+        25,
+        29,
+        37,
+        40,
+        41,
+        126,
+        130,
+        136,
+        139,
+        143
+      ],
+      "attributes": [
+        87,
+        90,
+        83,
+        87,
+        55,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50580447,
+      "assetId": 248799
     },
     "50596981": {
       "name": "Grace Clinton",
@@ -1217,7 +1238,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 23250,
+      "sbcPrice": 20500,
       "resourceId": 50598882,
       "assetId": 267234
     },
@@ -1265,7 +1286,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 14250,
       "resourceId": 50607554,
       "assetId": 275906
     },
@@ -1313,7 +1334,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 19750,
+      "price": 20000,
       "resourceId": 50611180,
       "assetId": 279532
     },
@@ -1366,7 +1387,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 135000,
+      "price": 94500,
       "resourceId": 84132299,
       "assetId": 246219
     }

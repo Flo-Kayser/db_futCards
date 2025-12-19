@@ -40,7 +40,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 74774,
       "assetId": 74774
     },
@@ -251,7 +251,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 211398,
       "assetId": 211398
     },
@@ -335,7 +335,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 750,
       "resourceId": 231318,
       "assetId": 231318
     },
@@ -374,7 +374,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 237525,
       "assetId": 237525
     },
@@ -549,55 +549,9 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 262071,
       "assetId": 262071
-    },
-    "262088": {
-      "name": "Hákon Arnar Haraldsson",
-      "cardName": "Haraldsson",
-      "originalVersionId": "0",
-      "clubId": 65,
-      "leagueId": 16,
-      "countryId": 24,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LM"
-      ],
-      "playStyles": [
-        20,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        30,
-        31,
-        33
-      ],
-      "rolesPlusPlus": [
-        30,
-        31,
-        33
-      ],
-      "attributes": [
-        77,
-        67,
-        75,
-        81,
-        57,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 262088,
-      "assetId": 262088
     },
     "268738": {
       "name": "Marius Broholm",
@@ -633,7 +587,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 268738,
       "assetId": 268738
     },
@@ -712,7 +666,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 271317,
       "assetId": 271317
     },
@@ -752,7 +706,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 274447,
       "assetId": 274447
     },
@@ -838,7 +792,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 276324,
       "assetId": 276324
     },
@@ -876,7 +830,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 278172,
       "assetId": 278172
     },
@@ -913,7 +867,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 278261,
       "assetId": 278261
     },
@@ -1005,7 +959,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 56000,
+      "price": 45000,
       "resourceId": 50510157,
       "assetId": 178509
     },
@@ -1063,7 +1017,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 10750,
+      "price": 11500,
       "resourceId": 50544944,
       "assetId": 213296
     },
@@ -1107,7 +1061,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 400,
       "resourceId": 50559442,
       "assetId": 227794
     },
@@ -1149,7 +1103,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 14500,
       "resourceId": 50570902,
       "assetId": 239254
     },
@@ -1201,9 +1155,70 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 15750,
       "resourceId": 50584815,
       "assetId": 253167
+    },
+    "50593736": {
+      "name": "Hákon Arnar Haraldsson",
+      "cardName": "Haraldsson",
+      "originalVersionId": "45",
+      "clubId": 65,
+      "leagueId": 16,
+      "countryId": 24,
+      "versionId": "45",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [
+        0,
+        10,
+        11,
+        20,
+        26
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        22,
+        28,
+        121,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "rolesPlusPlus": [
+        22,
+        28,
+        121,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "attributes": [
+        84,
+        83,
+        85,
+        88,
+        65,
+        76
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50593736,
+      "assetId": 262088
     },
     "50601141": {
       "name": "Alexsandro",
@@ -1252,7 +1267,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 23500,
+      "price": 20000,
       "resourceId": 50601141,
       "assetId": 269493
     },

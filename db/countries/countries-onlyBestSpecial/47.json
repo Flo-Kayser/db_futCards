@@ -39,7 +39,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 14750,
     "resourceId": 50537651,
     "assetId": 206003
   },
@@ -138,55 +138,9 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 12250,
     "resourceId": 50560909,
     "assetId": 229261
-  },
-  "50589628": {
-    "name": "Dan Ndoye",
-    "cardName": "Ndoye",
-    "originalVersionId": "3",
-    "clubId": 14,
-    "leagueId": 13,
-    "countryId": 47,
-    "versionId": "3",
-    "rating": 84,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "RM"
-    ],
-    "playStyles": [
-      21,
-      25,
-      6,
-      8
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      26,
-      130
-    ],
-    "rolesPlusPlus": [
-      26,
-      130
-    ],
-    "attributes": [
-      93,
-      80,
-      78,
-      86,
-      67,
-      74
-    ],
-    "hasDynamicImage": false,
-    "price": 14250,
-    "resourceId": 50589628,
-    "assetId": 257980
   },
   "50596584": {
     "name": "Géraldine Reuteler",
@@ -254,7 +208,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 13000,
     "resourceId": 50596584,
     "assetId": 264936
   },
@@ -341,8 +295,65 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 11250,
     "resourceId": 50596635,
     "assetId": 264987
+  },
+  "67366844": {
+    "name": "Dan Ndoye",
+    "cardName": "Ndoye",
+    "originalVersionId": "45",
+    "clubId": 14,
+    "leagueId": 13,
+    "countryId": 47,
+    "versionId": "45",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 5,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM"
+    ],
+    "playStyles": [
+      0,
+      20,
+      25,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      23,
+      27,
+      38,
+      126,
+      130,
+      139
+    ],
+    "rolesPlusPlus": [
+      23,
+      27,
+      38,
+      126,
+      130,
+      139
+    ],
+    "attributes": [
+      94,
+      83,
+      80,
+      87,
+      68,
+      75
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67366844,
+    "assetId": 257980
   }
 }
