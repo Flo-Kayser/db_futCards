@@ -52,6 +52,7 @@
       86,
       85
     ],
+    "isObjective": true,
     "hasDynamicImage": true,
     "price": 0,
     "resourceId": 50557814,
@@ -291,6 +292,78 @@
     "resourceId": 50599032,
     "assetId": 267384
   },
+  "67330941": {
+    "name": "Manuel Locatelli",
+    "cardName": "Locatelli",
+    "originalVersionId": "45",
+    "clubId": 45,
+    "leagueId": 31,
+    "countryId": 27,
+    "versionId": "45",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CAM",
+      "CB",
+      "CDM",
+      "CM",
+      "LB",
+      "LM",
+      "RB"
+    ],
+    "playStyles": [
+      10,
+      13,
+      14,
+      15,
+      19,
+      26
+    ],
+    "playStylesPlus": [
+      17
+    ],
+    "rolesPlus": [
+      14,
+      19,
+      33,
+      49,
+      113,
+      115,
+      116,
+      120,
+      128,
+      146,
+      147
+    ],
+    "rolesPlusPlus": [
+      14,
+      19,
+      33,
+      49,
+      113,
+      115,
+      116,
+      120,
+      128,
+      146,
+      147
+    ],
+    "attributes": [
+      85,
+      72,
+      85,
+      83,
+      87,
+      84
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 94050,
+    "resourceId": 67330941,
+    "assetId": 222077
+  },
   "67342595": {
     "name": "Alexander Isak",
     "cardName": "Isak",
@@ -339,9 +412,67 @@
       77
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 96750,
+    "sbcPrice": 84250,
     "resourceId": 67342595,
     "assetId": 233731
+  },
+  "67354019": {
+    "name": "Mohammed Kudus",
+    "cardName": "Kudus",
+    "originalVersionId": "45",
+    "clubId": 18,
+    "leagueId": 13,
+    "countryId": 117,
+    "versionId": "45",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      13,
+      20,
+      22,
+      23
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      23,
+      38,
+      41,
+      136,
+      139,
+      143
+    ],
+    "rolesPlusPlus": [
+      23,
+      38,
+      41,
+      136,
+      139,
+      143
+    ],
+    "attributes": [
+      93,
+      84,
+      81,
+      90,
+      70,
+      81
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 192500,
+    "resourceId": 67354019,
+    "assetId": 245155
   },
   "67366844": {
     "name": "Dan Ndoye",
