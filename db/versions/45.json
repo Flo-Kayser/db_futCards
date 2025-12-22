@@ -1,4 +1,67 @@
 {
+  "50541537": {
+    "name": "Raphaël Guerreiro",
+    "cardName": "Guerreiro",
+    "originalVersionId": "45",
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 38,
+    "versionId": "45",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LB",
+      "LM",
+      "RB"
+    ],
+    "playStyles": [
+      13,
+      16,
+      20,
+      22,
+      8
+    ],
+    "playStylesPlus": [
+      11
+    ],
+    "rolesPlus": [
+      10,
+      18,
+      28,
+      33,
+      106,
+      121,
+      122,
+      131
+    ],
+    "rolesPlusPlus": [
+      10,
+      18,
+      28,
+      33,
+      106,
+      121,
+      122,
+      131
+    ],
+    "attributes": [
+      84,
+      85,
+      92,
+      91,
+      82,
+      71
+    ],
+    "hasDynamicImage": false,
+    "sbcPrice": 52300,
+    "resourceId": 50541537,
+    "assetId": 209889
+  },
   "50557814": {
     "name": "Nordi Mukiele",
     "cardName": "Mukiele",
@@ -164,8 +227,8 @@
       88,
       84
     ],
-    "hasDynamicImage": false,
-    "sbcPrice": 74800,
+    "hasDynamicImage": true,
+    "sbcPrice": 89550,
     "price": 0,
     "resourceId": 50574889,
     "assetId": 243241
@@ -288,6 +351,64 @@
     "resourceId": 50593736,
     "assetId": 262088
   },
+  "50597775": {
+    "name": "Lewis Hall",
+    "cardName": "Hall",
+    "originalVersionId": "45",
+    "clubId": 13,
+    "leagueId": 13,
+    "countryId": 14,
+    "versionId": "45",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CM",
+      "LB",
+      "RB"
+    ],
+    "playStyles": [
+      12,
+      15,
+      16,
+      24,
+      26,
+      8
+    ],
+    "playStylesPlus": [
+      9
+    ],
+    "rolesPlus": [
+      4,
+      8,
+      20,
+      103,
+      107,
+      118
+    ],
+    "rolesPlusPlus": [
+      4,
+      8,
+      20,
+      103,
+      107,
+      118
+    ],
+    "attributes": [
+      85,
+      80,
+      87,
+      88,
+      85,
+      84
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 125500,
+    "resourceId": 50597775,
+    "assetId": 266127
+  },
   "50599032": {
     "name": "Taylor Flint",
     "cardName": "Flint",
@@ -398,7 +519,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 106250,
+    "sbcPrice": 128750,
     "price": 0,
     "resourceId": 67319974,
     "assetId": 211110
@@ -471,9 +592,66 @@
       84
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 93400,
+    "sbcPrice": 100550,
     "resourceId": 67330941,
     "assetId": 222077
+  },
+  "67335025": {
+    "name": "Marcos Llorente",
+    "cardName": "Marcos Llorente",
+    "originalVersionId": "45",
+    "clubId": 240,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "45",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CM",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      2,
+      21,
+      25,
+      26
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      4,
+      22,
+      24,
+      118,
+      125,
+      146
+    ],
+    "rolesPlusPlus": [
+      4,
+      22,
+      24,
+      118,
+      125,
+      146
+    ],
+    "attributes": [
+      92,
+      82,
+      85,
+      84,
+      83,
+      87
+    ],
+    "isObjective": true,
+    "hasDynamicImage": false,
+    "resourceId": 67335025,
+    "assetId": 226161
   },
   "67342595": {
     "name": "Alexander Isak",
@@ -523,7 +701,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 82500,
+    "sbcPrice": 101250,
     "resourceId": 67342595,
     "assetId": 233731
   },
@@ -581,7 +759,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 191000,
+    "sbcPrice": 229250,
     "resourceId": 67354019,
     "assetId": 245155
   },

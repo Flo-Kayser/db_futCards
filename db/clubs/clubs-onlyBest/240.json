@@ -158,7 +158,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 233084,
       "assetId": 233084
     },
@@ -202,7 +202,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 950,
       "resourceId": 233486,
       "assetId": 233486
     },
@@ -420,7 +420,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 750,
       "resourceId": 272449,
       "assetId": 272449
     },
@@ -504,7 +504,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 15250,
       "resourceId": 50525395,
       "assetId": 193747
     },
@@ -575,7 +575,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 18000,
       "resourceId": 50526413,
       "assetId": 194765
     },
@@ -624,7 +624,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 63500,
+      "price": 70000,
       "resourceId": 50532037,
       "assetId": 200389
     },
@@ -675,7 +675,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 28250,
+      "price": 38000,
       "resourceId": 50548108,
       "assetId": 216460
     },
@@ -726,60 +726,9 @@
         90
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 20250,
+      "sbcPrice": 21250,
       "resourceId": 50548197,
       "assetId": 216549
-    },
-    "50557809": {
-      "name": "Marcos Llorente",
-      "cardName": "Marcos Llorente",
-      "originalVersionId": "3",
-      "clubId": 240,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "CM",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        12,
-        2,
-        21,
-        25,
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        4,
-        18,
-        25,
-        146
-      ],
-      "rolesPlusPlus": [
-        4,
-        18,
-        25,
-        146
-      ],
-      "attributes": [
-        91,
-        81,
-        81,
-        83,
-        81,
-        85
-      ],
-      "hasDynamicImage": true,
-      "price": 119000,
-      "resourceId": 50557809,
-      "assetId": 226161
     },
     "50569864": {
       "name": "Conor Gallagher",
@@ -930,7 +879,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 114000,
+      "price": 121000,
       "resourceId": 50577839,
       "assetId": 246191
     },
@@ -1102,7 +1051,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 25750,
+      "sbcPrice": 28000,
       "price": 0,
       "resourceId": 50588927,
       "assetId": 257279
@@ -1153,6 +1102,63 @@
       "resourceId": 50591232,
       "assetId": 259584
     },
+    "67335025": {
+      "name": "Marcos Llorente",
+      "cardName": "Marcos Llorente",
+      "originalVersionId": "45",
+      "clubId": 240,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "45",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        2,
+        21,
+        25,
+        26
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        4,
+        22,
+        24,
+        118,
+        125,
+        146
+      ],
+      "rolesPlusPlus": [
+        4,
+        22,
+        24,
+        118,
+        125,
+        146
+      ],
+      "attributes": [
+        92,
+        82,
+        85,
+        84,
+        83,
+        87
+      ],
+      "isObjective": true,
+      "hasDynamicImage": false,
+      "resourceId": 67335025,
+      "assetId": 226161
+    },
     "67355967": {
       "name": "Dávid Hancko",
       "cardName": "Hancko",
@@ -1198,7 +1204,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 14000,
       "resourceId": 67355967,
       "assetId": 247103
     }

@@ -120,7 +120,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 550,
       "resourceId": 198032,
       "assetId": 198032
     },
@@ -157,7 +157,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 200,
       "resourceId": 198039,
       "assetId": 198039
     },
@@ -235,7 +235,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 900,
       "resourceId": 203841,
       "assetId": 203841
     },
@@ -366,7 +366,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 210047,
       "assetId": 210047
     },
@@ -664,7 +664,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 3300,
       "resourceId": 241096,
       "assetId": 241096
     },
@@ -798,7 +798,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 3400,
       "resourceId": 247851,
       "assetId": 247851
     },
@@ -839,7 +839,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 251809,
       "assetId": 251809
     },
@@ -927,7 +927,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 700,
       "resourceId": 257470,
       "assetId": 257470
     },
@@ -968,7 +968,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 3100,
       "resourceId": 258805,
       "assetId": 258805
     },
@@ -1011,7 +1011,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 262118,
       "assetId": 262118
     },
@@ -1136,7 +1136,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 200,
       "resourceId": 270617,
       "assetId": 270617
     },
@@ -1173,7 +1173,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 274246,
       "assetId": 274246
     },
@@ -1222,7 +1222,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 51500,
+      "price": 70500,
       "resourceId": 50529680,
       "assetId": 198032
     },
@@ -1267,7 +1267,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 41900,
+      "sbcPrice": 41800,
       "resourceId": 50535489,
       "assetId": 203841
     },
@@ -1325,7 +1325,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 76000,
+      "price": 85500,
       "resourceId": 50554982,
       "assetId": 223334
     },
@@ -1371,7 +1371,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 13750,
       "resourceId": 50566390,
       "assetId": 234742
     },
@@ -1413,7 +1413,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1000,
       "resourceId": 50566472,
       "assetId": 234824
     },
@@ -1467,7 +1467,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 469000,
+      "price": 474000,
       "resourceId": 50572744,
       "assetId": 241096
     },
@@ -1524,7 +1524,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 235000,
+      "price": 228000,
       "resourceId": 50574612,
       "assetId": 242964
     },
@@ -1572,7 +1572,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 15250,
+      "price": 16500,
       "resourceId": 50579499,
       "assetId": 247851
     },
@@ -1666,7 +1666,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 22000,
+      "price": 26250,
       "resourceId": 50587909,
       "assetId": 256261
     },
@@ -1723,9 +1723,67 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 13000,
       "resourceId": 50593766,
       "assetId": 262118
+    },
+    "50597775": {
+      "name": "Lewis Hall",
+      "cardName": "Hall",
+      "originalVersionId": "45",
+      "clubId": 13,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "45",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM",
+        "LB",
+        "RB"
+      ],
+      "playStyles": [
+        12,
+        15,
+        16,
+        24,
+        26,
+        8
+      ],
+      "playStylesPlus": [
+        9
+      ],
+      "rolesPlus": [
+        4,
+        8,
+        20,
+        103,
+        107,
+        118
+      ],
+      "rolesPlusPlus": [
+        4,
+        8,
+        20,
+        103,
+        107,
+        118
+      ],
+      "attributes": [
+        85,
+        80,
+        87,
+        88,
+        85,
+        84
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 125500,
+      "resourceId": 50597775,
+      "assetId": 266127
     },
     "67362886": {
       "name": "Nick Woltemade",
@@ -1786,7 +1844,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 34750,
+      "price": 35250,
       "resourceId": 67362886,
       "assetId": 254022
     }
