@@ -72,7 +72,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 80731,
       "assetId": 80731
     },
@@ -166,58 +166,6 @@
       "price": 0,
       "resourceId": 212219,
       "assetId": 212219
-    },
-    "212523": {
-      "name": "Anderson Talisca",
-      "cardName": "Anderson Talisca",
-      "originalVersionId": "1",
-      "clubId": 326,
-      "leagueId": 68,
-      "countryId": 54,
-      "versionId": "3002",
-      "rating": 81,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        4,
-        5
-      ],
-      "playStylesPlus": [
-        7
-      ],
-      "rolesPlus": [
-        31,
-        33,
-        35,
-        43
-      ],
-      "rolesPlusPlus": [
-        31,
-        33,
-        35,
-        43
-      ],
-      "attributes": [
-        76,
-        86,
-        80,
-        81,
-        45,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 212523,
-      "assetId": 212523
     },
     "219693": {
       "name": "Diego Carlos",
@@ -535,7 +483,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 232363,
       "assetId": 232363
     },
@@ -619,7 +567,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 750,
       "resourceId": 235410,
       "assetId": 235410
     },
@@ -1279,6 +1227,60 @@
       "resourceId": 50540945,
       "assetId": 209297
     },
+    "50544171": {
+      "name": "Anderson Talisca",
+      "cardName": "Anderson Talisca",
+      "originalVersionId": "3",
+      "clubId": 326,
+      "leagueId": 68,
+      "countryId": 54,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        4,
+        5,
+        8
+      ],
+      "playStylesPlus": [
+        7
+      ],
+      "rolesPlus": [
+        33,
+        35,
+        43,
+        131
+      ],
+      "rolesPlusPlus": [
+        33,
+        35,
+        43,
+        131
+      ],
+      "attributes": [
+        82,
+        90,
+        85,
+        86,
+        50,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50544171,
+      "assetId": 212523
+    },
     "50567492": {
       "name": "Edson Álvarez",
       "cardName": "Álvarez",
@@ -1327,7 +1329,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 44000,
+      "price": 38250,
       "resourceId": 50567492,
       "assetId": 235844
     },
@@ -1424,7 +1426,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 16250,
+      "price": 15750,
       "resourceId": 50592114,
       "assetId": 260466
     },
@@ -1480,7 +1482,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 28000,
+      "price": 24500,
       "resourceId": 50594616,
       "assetId": 262968
     },
@@ -1529,7 +1531,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 16000,
       "resourceId": 67319121,
       "assetId": 210257
     },
@@ -1606,7 +1608,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 10750,
+      "price": 12500,
       "resourceId": 67329698,
       "assetId": 220834
     }

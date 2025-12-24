@@ -1,6 +1,55 @@
 {
   "clubName": "Sheffield Utd",
   "players": {
+    "50566389": {
+      "name": "Gustavo Hamer",
+      "cardName": "Hamer",
+      "originalVersionId": "3",
+      "clubId": 1794,
+      "leagueId": 14,
+      "countryId": 34,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        16,
+        24,
+        3,
+        7,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        27,
+        129
+      ],
+      "rolesPlusPlus": [
+        18,
+        27,
+        129
+      ],
+      "attributes": [
+        79,
+        79,
+        85,
+        82,
+        78,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50566389,
+      "assetId": 234741
+    },
     "50595844": {
       "name": "Femi Seriki",
       "cardName": "Seriki",
@@ -43,7 +92,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 15500,
       "resourceId": 50595844,
       "assetId": 264196
     }

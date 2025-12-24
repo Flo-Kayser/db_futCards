@@ -866,52 +866,6 @@
       "resourceId": 266041,
       "assetId": 266041
     },
-    "270728": {
-      "name": "Carlos Romero",
-      "cardName": "Carlos Romero",
-      "originalVersionId": "0",
-      "clubId": 452,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        14,
-        17
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9,
-        29,
-        47
-      ],
-      "rolesPlusPlus": [
-        9,
-        29,
-        47
-      ],
-      "attributes": [
-        77,
-        65,
-        71,
-        74,
-        70,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 270728,
-      "assetId": 270728
-    },
     "276976": {
       "name": "Javi Hernández",
       "cardName": "Javi Hernández",
@@ -986,7 +940,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 200,
       "resourceId": 279605,
       "assetId": 279605
     },
@@ -1163,6 +1117,57 @@
       "price": 200,
       "resourceId": 50595223,
       "assetId": 263575
+    },
+    "50602376": {
+      "name": "Carlos Romero",
+      "cardName": "Carlos Romero",
+      "originalVersionId": "3",
+      "clubId": 452,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        14,
+        17,
+        25,
+        5,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        29,
+        47,
+        110
+      ],
+      "rolesPlusPlus": [
+        9,
+        29,
+        47,
+        110
+      ],
+      "attributes": [
+        85,
+        75,
+        80,
+        83,
+        81,
+        79
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50602376,
+      "assetId": 270728
     }
   }
 }

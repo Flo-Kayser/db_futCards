@@ -37,7 +37,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 70115,
       "assetId": 70115
     },
@@ -75,7 +75,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 5000,
       "resourceId": 70273,
       "assetId": 70273
     },
@@ -114,7 +114,7 @@
         46
       ],
       "hasDynamicImage": false,
-      "price": 4300,
+      "price": 1100,
       "resourceId": 73059,
       "assetId": 73059
     },
@@ -157,7 +157,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 9500,
       "resourceId": 73307,
       "assetId": 73307
     },
@@ -195,7 +195,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1000,
       "resourceId": 74755,
       "assetId": 74755
     },
@@ -355,7 +355,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 2700,
       "resourceId": 79837,
       "assetId": 79837
     },
@@ -398,50 +398,9 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 201438,
       "assetId": 201438
-    },
-    "216334": {
-      "name": "Pieter Gerkens",
-      "cardName": "Gerkens",
-      "originalVersionId": "0",
-      "clubId": 1750,
-      "leagueId": 4,
-      "countryId": 7,
-      "versionId": "2001",
-      "rating": 69,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CM",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        29
-      ],
-      "rolesPlusPlus": [
-        18,
-        29
-      ],
-      "attributes": [
-        52,
-        68,
-        68,
-        66,
-        66,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 216334,
-      "assetId": 216334
     },
     "251537": {
       "name": "Gary Magnée",
@@ -487,7 +446,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 251537,
       "assetId": 251537
     },
@@ -700,7 +659,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 263397,
       "assetId": 263397
     },
@@ -747,7 +706,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 263549,
       "assetId": 263549
     },
@@ -786,7 +745,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 3000,
       "resourceId": 264863,
       "assetId": 264863
     },
@@ -873,7 +832,7 @@
         38
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1300,
       "resourceId": 268068,
       "assetId": 268068
     },
@@ -910,7 +869,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 900,
       "resourceId": 268069,
       "assetId": 268069
     },
@@ -992,7 +951,7 @@
         41
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 5100,
       "resourceId": 272399,
       "assetId": 272399
     },
@@ -1035,7 +994,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 272568,
       "assetId": 272568
     },
@@ -1074,7 +1033,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 275019,
       "assetId": 275019
     },
@@ -1115,6 +1074,54 @@
       "price": 0,
       "resourceId": 278552,
       "assetId": 278552
+    },
+    "50547982": {
+      "name": "Pieter Gerkens",
+      "cardName": "Gerkens",
+      "originalVersionId": "3",
+      "clubId": 1750,
+      "leagueId": 4,
+      "countryId": 7,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        11,
+        16,
+        24,
+        26,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        29,
+        121
+      ],
+      "rolesPlusPlus": [
+        18,
+        29,
+        121
+      ],
+      "attributes": [
+        77,
+        82,
+        83,
+        80,
+        81,
+        83
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50547982,
+      "assetId": 216334
     },
     "50608826": {
       "name": "Oumar Diakité",

@@ -79,7 +79,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 74881,
       "assetId": 74881
     },
@@ -638,7 +638,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 250,
       "resourceId": 265731,
       "assetId": 265731
     },
@@ -683,46 +683,6 @@
       "price": 200,
       "resourceId": 269197,
       "assetId": 269197
-    },
-    "269639": {
-      "name": "Arana",
-      "cardName": "Arana",
-      "originalVersionId": "0",
-      "clubId": 456,
-      "leagueId": 54,
-      "countryId": 45,
-      "versionId": "2001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        1,
-        6
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42
-      ],
-      "rolesPlusPlus": [
-        42
-      ],
-      "attributes": [
-        71,
-        69,
-        55,
-        69,
-        33,
-        63
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 269639,
-      "assetId": 269639
     },
     "273022": {
       "name": "Yeray",
@@ -920,6 +880,50 @@
       "resourceId": 50597379,
       "assetId": 265731
     },
+    "50601287": {
+      "name": "Arana",
+      "cardName": "Arana",
+      "originalVersionId": "3",
+      "clubId": 456,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        20,
+        21,
+        22,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        141
+      ],
+      "rolesPlusPlus": [
+        42,
+        141
+      ],
+      "attributes": [
+        85,
+        83,
+        70,
+        84,
+        46,
+        78
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50601287,
+      "assetId": 269639
+    },
     "50605475": {
       "name": "Gustavo Puerta",
       "cardName": "Puerta",
@@ -1034,7 +1038,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 200,
       "resourceId": 50609390,
       "assetId": 277742
     }
