@@ -116,7 +116,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 3800,
       "resourceId": 75319,
       "assetId": 75319
     },
@@ -196,7 +196,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 1500,
       "resourceId": 77056,
       "assetId": 77056
     },
@@ -233,7 +233,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 77105,
       "assetId": 77105
     },
@@ -270,7 +270,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 10000,
       "resourceId": 77633,
       "assetId": 77633
     },
@@ -579,7 +579,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 235454,
       "assetId": 235454
     },
@@ -625,7 +625,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 2300,
       "resourceId": 246688,
       "assetId": 246688
     },
@@ -671,7 +671,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 450,
       "resourceId": 257020,
       "assetId": 257020
     },
@@ -720,7 +720,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1300,
       "resourceId": 258601,
       "assetId": 258601
     },
@@ -806,47 +806,6 @@
       "resourceId": 264325,
       "assetId": 264325
     },
-    "270997": {
-      "name": "Samson Baidoo",
-      "cardName": "Baidoo",
-      "originalVersionId": "0",
-      "clubId": 64,
-      "leagueId": 16,
-      "countryId": 4,
-      "versionId": "2001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        12,
-        13
-      ],
-      "rolesPlusPlus": [
-        12,
-        13
-      ],
-      "attributes": [
-        70,
-        26,
-        50,
-        60,
-        69,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 250,
-      "resourceId": 270997,
-      "assetId": 270997
-    },
     "271918": {
       "name": "Robin Risser",
       "cardName": "Risser",
@@ -880,7 +839,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 950,
       "resourceId": 271918,
       "assetId": 271918
     },
@@ -1020,7 +979,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 13750,
       "resourceId": 50540435,
       "assetId": 208787
     },
@@ -1065,7 +1024,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 15000,
+      "price": 17000,
       "resourceId": 50544261,
       "assetId": 212613
     },
@@ -1121,7 +1080,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 20000,
+      "sbcPrice": 20750,
       "resourceId": 50560884,
       "assetId": 229236
     },
@@ -1163,9 +1122,60 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 650,
       "resourceId": 50591464,
       "assetId": 259816
+    },
+    "50602645": {
+      "name": "Samson Baidoo",
+      "cardName": "Baidoo",
+      "originalVersionId": "117",
+      "clubId": 64,
+      "leagueId": 16,
+      "countryId": 4,
+      "versionId": "117",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        15,
+        16,
+        18
+      ],
+      "playStylesPlus": [
+        28
+      ],
+      "rolesPlus": [
+        11,
+        48,
+        112,
+        113
+      ],
+      "rolesPlusPlus": [
+        11,
+        48,
+        112,
+        113
+      ],
+      "attributes": [
+        83,
+        41,
+        66,
+        81,
+        85,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 16250,
+      "resourceId": 50602645,
+      "assetId": 270997
     },
     "67342730": {
       "name": "Odsonne Edouard",
@@ -1208,7 +1218,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 15250,
+      "price": 16000,
       "resourceId": 67342730,
       "assetId": 233866
     },
@@ -1264,7 +1274,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 43900,
+      "sbcPrice": 38050,
       "resourceId": 100868266,
       "assetId": 204970
     }

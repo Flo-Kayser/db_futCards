@@ -43,7 +43,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 203000,
+    "price": 210000,
     "resourceId": 251483,
     "assetId": 251483
   },
@@ -97,7 +97,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 889000,
+    "price": 940000,
     "resourceId": 50514925,
     "assetId": 183277
   },
@@ -146,7 +146,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 77250,
+    "sbcPrice": 71250,
     "price": 0,
     "resourceId": 50523767,
     "assetId": 192119
@@ -208,60 +208,6 @@
     "sbcPrice": 21700,
     "resourceId": 50524153,
     "assetId": 192505
-  },
-  "50524633": {
-    "name": "Kevin De Bruyne",
-    "cardName": "De Bruyne",
-    "originalVersionId": "22",
-    "clubId": 48,
-    "leagueId": 31,
-    "countryId": 7,
-    "versionId": "22",
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [
-      0,
-      12,
-      13,
-      3,
-      9
-    ],
-    "playStylesPlus": [
-      8
-    ],
-    "rolesPlus": [
-      22,
-      33,
-      121,
-      131,
-      134
-    ],
-    "rolesPlusPlus": [
-      22,
-      33,
-      121,
-      131,
-      134
-    ],
-    "attributes": [
-      77,
-      84,
-      93,
-      87,
-      70,
-      76
-    ],
-    "hasDynamicImage": true,
-    "price": 96000,
-    "resourceId": 50524633,
-    "assetId": 192985
   },
   "50540066": {
     "name": "Yannick Carrasco",
@@ -363,6 +309,7 @@
       83
     ],
     "hasDynamicImage": true,
+    "price": 16000,
     "resourceId": 50547982,
     "assetId": 216334
   },
@@ -408,7 +355,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 12000,
     "resourceId": 50560631,
     "assetId": 228983
   },
@@ -453,7 +400,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 19500,
     "resourceId": 50565815,
     "assetId": 234167
   },
@@ -501,7 +448,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 17250,
     "resourceId": 50574312,
     "assetId": 242664
   },
@@ -561,7 +508,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 57500,
+    "price": 51500,
     "resourceId": 50583118,
     "assetId": 251470
   },
@@ -652,7 +599,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 23000,
+    "price": 23500,
     "resourceId": 50590026,
     "assetId": 258378
   },
@@ -714,7 +661,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 64000,
+    "sbcPrice": 61500,
     "price": 64500,
     "resourceId": 50593753,
     "assetId": 262105
@@ -769,6 +716,68 @@
     "resourceId": 50597098,
     "assetId": 265450
   },
+  "67301849": {
+    "name": "Kevin De Bruyne",
+    "cardName": "De Bruyne",
+    "originalVersionId": "117",
+    "clubId": 48,
+    "leagueId": 31,
+    "countryId": 7,
+    "versionId": "117",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      12,
+      13,
+      3,
+      9
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      17,
+      18,
+      22,
+      33,
+      121,
+      131,
+      132,
+      134
+    ],
+    "rolesPlusPlus": [
+      17,
+      18,
+      22,
+      33,
+      121,
+      131,
+      132,
+      134
+    ],
+    "attributes": [
+      83,
+      86,
+      94,
+      89,
+      71,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 215000,
+    "resourceId": 67301849,
+    "assetId": 192985
+  },
   "67355284": {
     "name": "Jérémy Doku",
     "cardName": "Doku",
@@ -822,8 +831,69 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 335000,
+    "price": 442000,
     "resourceId": 67355284,
     "assetId": 246420
+  },
+  "84079065": {
+    "name": "Kevin De Bruyne",
+    "cardName": "De Bruyne",
+    "originalVersionId": "117",
+    "clubId": 48,
+    "leagueId": 31,
+    "countryId": 7,
+    "versionId": "117",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      13,
+      14,
+      17,
+      3,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      18,
+      21,
+      31,
+      116,
+      120,
+      134,
+      149
+    ],
+    "rolesPlusPlus": [
+      18,
+      21,
+      31,
+      116,
+      120,
+      134,
+      149
+    ],
+    "attributes": [
+      81,
+      85,
+      94,
+      88,
+      84,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 246000,
+    "resourceId": 84079065,
+    "assetId": 192985
   }
 }

@@ -1101,7 +1101,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 1900,
+    "price": 3200,
     "resourceId": 225682,
     "assetId": 225682
   },
@@ -1268,7 +1268,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 2800,
+    "price": 5000,
     "resourceId": 236267,
     "assetId": 236267
   },
@@ -1641,7 +1641,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1000,
     "resourceId": 245231,
     "assetId": 245231
   },
@@ -3204,7 +3204,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 797000,
+    "price": 895000,
     "resourceId": 256197,
     "assetId": 256197
   },
@@ -3246,7 +3246,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 900,
     "resourceId": 256199,
     "assetId": 256199
   },
@@ -3617,7 +3617,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 900,
     "resourceId": 263397,
     "assetId": 263397
   },
@@ -3742,7 +3742,7 @@
       55
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 950,
     "resourceId": 264205,
     "assetId": 264205
   },
@@ -4051,7 +4051,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 850,
     "resourceId": 268611,
     "assetId": 268611
   },
@@ -4093,7 +4093,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 950,
     "resourceId": 271417,
     "assetId": 271417
   },
@@ -4216,7 +4216,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 450,
     "resourceId": 274559,
     "assetId": 274559
   },
@@ -4328,7 +4328,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 1100,
     "resourceId": 274741,
     "assetId": 274741
   },
@@ -4484,55 +4484,6 @@
     "resourceId": 279487,
     "assetId": 279487
   },
-  "50587727": {
-    "name": "Moisés Caicedo",
-    "cardName": "Caicedo",
-    "originalVersionId": "3",
-    "clubId": 5,
-    "leagueId": 13,
-    "countryId": 57,
-    "versionId": "3",
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      11,
-      16,
-      17,
-      24,
-      26,
-      9
-    ],
-    "playStylesPlus": [
-      2
-    ],
-    "rolesPlus": [
-      49,
-      114
-    ],
-    "rolesPlusPlus": [
-      49,
-      114
-    ],
-    "attributes": [
-      74,
-      67,
-      80,
-      82,
-      85,
-      83
-    ],
-    "hasDynamicImage": true,
-    "price": 28500,
-    "resourceId": 50587727,
-    "assetId": 256079
-  },
   "50587844": {
     "name": "Willian Pacho",
     "cardName": "Pacho",
@@ -4581,7 +4532,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 188500,
+    "sbcPrice": 187750,
     "resourceId": 50587844,
     "assetId": 256196
   },
@@ -4629,7 +4580,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 1900,
+    "price": 1200,
     "resourceId": 50587845,
     "assetId": 256197
   },
@@ -4808,5 +4759,62 @@
     "price": 200,
     "resourceId": 50609390,
     "assetId": 277742
+  },
+  "67364943": {
+    "name": "Moisés Caicedo",
+    "cardName": "Caicedo",
+    "originalVersionId": "45",
+    "clubId": 5,
+    "leagueId": 13,
+    "countryId": 57,
+    "versionId": "45",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      16,
+      17,
+      18,
+      24,
+      9
+    ],
+    "playStylesPlus": [
+      26
+    ],
+    "rolesPlus": [
+      16,
+      18,
+      20,
+      114,
+      119,
+      149
+    ],
+    "rolesPlusPlus": [
+      16,
+      18,
+      20,
+      114,
+      119,
+      149
+    ],
+    "attributes": [
+      80,
+      72,
+      81,
+      84,
+      89,
+      85
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 146000,
+    "resourceId": 67364943,
+    "assetId": 256079
   }
 }

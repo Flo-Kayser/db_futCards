@@ -74,7 +74,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 76034,
       "assetId": 76034
     },
@@ -111,7 +111,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 5100,
       "resourceId": 76901,
       "assetId": 76901
     },
@@ -451,7 +451,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 550,
       "resourceId": 235569,
       "assetId": 235569
     },
@@ -540,7 +540,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 239093,
       "assetId": 239093
     },
@@ -630,7 +630,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 252059,
       "assetId": 252059
     },
@@ -772,7 +772,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 252960,
       "assetId": 252960
     },
@@ -1215,7 +1215,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 273948,
       "assetId": 273948
     },
@@ -1258,7 +1258,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 3300,
+      "price": 1400,
       "resourceId": 274536,
       "assetId": 274536
     },
@@ -1399,7 +1399,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 12500,
       "resourceId": 50567217,
       "assetId": 235569
     },
@@ -1492,9 +1492,65 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 50600516,
       "assetId": 268868
+    },
+    "50606184": {
+      "name": "Moïse Bombito",
+      "cardName": "Bombito",
+      "originalVersionId": "45",
+      "clubId": 72,
+      "leagueId": 16,
+      "countryId": 70,
+      "versionId": "45",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [
+        15,
+        16,
+        18,
+        19,
+        9
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        9,
+        12,
+        13,
+        107,
+        111,
+        148
+      ],
+      "rolesPlusPlus": [
+        9,
+        12,
+        13,
+        107,
+        111,
+        148
+      ],
+      "attributes": [
+        95,
+        60,
+        72,
+        75,
+        85,
+        86
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 81000,
+      "resourceId": 50606184,
+      "assetId": 274536
     }
   }
 }

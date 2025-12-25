@@ -2,6 +2,110 @@
   {
     "clubId": 114605,
     "leagueId": 31,
+    "countryId": 27,
+    "versionId": "80",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      4
+    ],
+    "playStylesPlus": [
+      26,
+      9
+    ],
+    "rolesPlus": [
+      15,
+      16,
+      20,
+      114,
+      118,
+      119
+    ],
+    "rolesPlusPlus": [
+      15,
+      16,
+      20,
+      114,
+      118,
+      119
+    ],
+    "attributes": [
+      82,
+      85,
+      84,
+      83,
+      91,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67162166,
+    "assetId": 53302,
+    "name": "Daniele De Rossi",
+    "cardName": "De Rossi"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 31,
+    "countryId": 21,
+    "versionId": "69",
+    "rating": 74,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      22,
+      25,
+      5,
+      6
+    ],
+    "playStylesPlus": [
+      4
+    ],
+    "rolesPlus": [
+      41,
+      142
+    ],
+    "rolesPlusPlus": [
+      41,
+      142
+    ],
+    "attributes": [
+      73,
+      84,
+      74,
+      73,
+      35,
+      74
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67275540,
+    "assetId": 166676,
+    "name": "Rudi Völler",
+    "cardName": "Völler"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 31,
     "countryId": 56,
     "versionId": "49",
     "rating": 88,
@@ -47,7 +151,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 397000,
+    "price": 270000,
     "resourceId": 67125483,
     "assetId": 16619,
     "name": "Iván Córdoba",
@@ -102,7 +206,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 332000,
+    "price": 215000,
     "resourceId": 50348267,
     "assetId": 16619,
     "name": "Iván Córdoba",
@@ -259,7 +363,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 297000,
+    "price": 284000,
     "resourceId": 50384950,
     "assetId": 53302,
     "name": "Daniele De Rossi",
@@ -324,7 +428,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 510000,
+    "price": 533000,
     "resourceId": 50451922,
     "assetId": 120274,
     "name": "Antonio Di Natale",
@@ -396,7 +500,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 222000,
+    "price": 210000,
     "resourceId": 50504858,
     "assetId": 173210,
     "name": "Claudio Marchisio",
@@ -456,7 +560,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 165000,
+    "price": 104000,
     "resourceId": 50503525,
     "assetId": 171877,
     "name": "Marek Hamšík",
@@ -535,7 +639,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 190000,
+    "price": 214000,
     "resourceId": 50606398,
     "assetId": 274750,
     "name": "Wesley Sneijder",
@@ -589,7 +693,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 590000,
+    "price": 598000,
     "resourceId": 50467103,
     "assetId": 135455,
     "name": "Maicon",
@@ -641,7 +745,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 29500,
+    "price": 30000,
     "resourceId": 50332673,
     "assetId": 1025,
     "name": "Rui Costa",
@@ -750,7 +854,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 29000,
     "resourceId": 50574273,
     "assetId": 242625,
     "name": "Hidetoshi Nakata",
@@ -799,7 +903,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 99000,
+    "price": 98500,
     "resourceId": 53302,
     "assetId": 53302,
     "name": "Daniele De Rossi",
@@ -842,7 +946,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 492000,
+    "price": 481000,
     "resourceId": 266690,
     "assetId": 266690,
     "name": "Lúcio",
@@ -890,7 +994,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 502000,
+    "price": 345000,
     "resourceId": 120274,
     "assetId": 120274,
     "name": "Antonio Di Natale",
@@ -941,7 +1045,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 66500,
+    "price": 70500,
     "resourceId": 274750,
     "assetId": 274750,
     "name": "Wesley Sneijder",
@@ -989,7 +1093,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 90500,
+    "price": 82500,
     "resourceId": 171877,
     "assetId": 171877,
     "name": "Marek Hamšík",
@@ -1040,7 +1144,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 61500,
+    "price": 64000,
     "resourceId": 173210,
     "assetId": 173210,
     "name": "Claudio Marchisio",
@@ -1129,7 +1233,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 195000,
+    "price": 183000,
     "resourceId": 16619,
     "assetId": 16619,
     "name": "Iván Córdoba",
@@ -1227,7 +1331,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 48000,
+    "price": 47500,
     "resourceId": 170733,
     "assetId": 170733,
     "name": "Gervinho",
@@ -1276,7 +1380,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 200000,
+    "price": 210000,
     "resourceId": 135455,
     "assetId": 135455,
     "name": "Maicon",
@@ -1321,7 +1425,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 17750,
+    "price": 13000,
     "resourceId": 262271,
     "assetId": 262271,
     "name": "Diego Milito",
@@ -1366,7 +1470,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 14500,
+    "price": 13250,
     "resourceId": 242625,
     "assetId": 242625,
     "name": "Hidetoshi Nakata",
@@ -1407,7 +1511,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 59000,
+    "price": 59500,
     "resourceId": 188428,
     "assetId": 188428,
     "name": "Seydou Doumbia",
@@ -1454,7 +1558,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 48000,
+    "price": 55000,
     "resourceId": 204550,
     "assetId": 204550,
     "name": "Víctor Ibarbo",
@@ -1496,7 +1600,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 21250,
+    "price": 20750,
     "resourceId": 233700,
     "assetId": 233700,
     "name": "Gianluca Vialli",

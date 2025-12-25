@@ -40,7 +40,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 650,
       "resourceId": 74462,
       "assetId": 74462
     },
@@ -78,7 +78,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 600,
       "resourceId": 74463,
       "assetId": 74463
     },
@@ -117,7 +117,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 7500,
+      "price": 8500,
       "resourceId": 80674,
       "assetId": 80674
     },
@@ -156,7 +156,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 186153,
       "assetId": 186153
     },
@@ -202,7 +202,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 10250,
+      "price": 7200,
       "resourceId": 188545,
       "assetId": 188545
     },
@@ -243,7 +243,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 3700,
       "resourceId": 192448,
       "assetId": 192448
     },
@@ -332,7 +332,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 213661,
       "assetId": 213661
     },
@@ -382,7 +382,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 2500,
       "resourceId": 244260,
       "assetId": 244260
     },
@@ -475,55 +475,6 @@
       "resourceId": 246139,
       "assetId": 246139
     },
-    "251854": {
-      "name": "Pedri",
-      "cardName": "Pedri",
-      "originalVersionId": "1",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "3002",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        11,
-        20,
-        26,
-        8
-      ],
-      "playStylesPlus": [
-        22
-      ],
-      "rolesPlus": [
-        116,
-        121
-      ],
-      "rolesPlusPlus": [
-        116,
-        121
-      ],
-      "attributes": [
-        77,
-        73,
-        85,
-        91,
-        78,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 18750,
-      "resourceId": 251854,
-      "assetId": 251854
-    },
     "253163": {
       "name": "Ronald Araujo",
       "cardName": "Araujo",
@@ -571,7 +522,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 253163,
       "assetId": 253163
     },
@@ -795,7 +746,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 186000,
+      "price": 182000,
       "resourceId": 50520193,
       "assetId": 188545
     },
@@ -851,7 +802,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 1004000,
+      "price": 920000,
       "resourceId": 50560350,
       "assetId": 228702
     },
@@ -969,7 +920,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 407000,
+      "price": 424000,
       "resourceId": 50565067,
       "assetId": 233419
     },
@@ -1023,7 +974,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 16000,
       "resourceId": 50573109,
       "assetId": 241461
     },
@@ -1078,9 +1029,88 @@
         86
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 452750,
+      "sbcPrice": 381750,
       "resourceId": 50573134,
       "assetId": 241486
+    },
+    "50583502": {
+      "name": "Pedri",
+      "cardName": "Pedri",
+      "originalVersionId": "117",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "117",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LB",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        10,
+        20,
+        21,
+        22,
+        26,
+        8
+      ],
+      "playStylesPlus": [
+        11
+      ],
+      "rolesPlus": [
+        3,
+        7,
+        14,
+        21,
+        23,
+        31,
+        35,
+        104,
+        108,
+        116,
+        120,
+        126,
+        133,
+        136
+      ],
+      "rolesPlusPlus": [
+        3,
+        7,
+        14,
+        21,
+        23,
+        31,
+        35,
+        104,
+        108,
+        116,
+        120,
+        126,
+        133,
+        136
+      ],
+      "attributes": [
+        85,
+        82,
+        87,
+        92,
+        83,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50583502,
+      "assetId": 251854
     },
     "50595226": {
       "name": "Balde",
@@ -1128,7 +1158,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 78000,
+      "price": 57500,
       "resourceId": 50595226,
       "assetId": 263578
     },
@@ -1174,7 +1204,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 15000,
+      "price": 16000,
       "resourceId": 50597248,
       "assetId": 265600
     },
@@ -1222,7 +1252,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 85000,
+      "price": 78000,
       "resourceId": 50609694,
       "assetId": 278046
     },
@@ -1329,7 +1359,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 191000,
+      "price": 204000,
       "resourceId": 67342283,
       "assetId": 233419
     },
@@ -1444,7 +1474,7 @@
         54
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 316000,
+      "sbcPrice": 264000,
       "resourceId": 67386507,
       "assetId": 277643
     }

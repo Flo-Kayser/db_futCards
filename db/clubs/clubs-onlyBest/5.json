@@ -37,7 +37,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 71651,
       "assetId": 71651
     },
@@ -79,7 +79,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 600,
       "resourceId": 71998,
       "assetId": 71998
     },
@@ -205,7 +205,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 228789,
       "assetId": 228789
     },
@@ -476,7 +476,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 247090,
       "assetId": 247090
     },
@@ -554,7 +554,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 248695,
       "assetId": 248695
     },
@@ -804,7 +804,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 262859,
       "assetId": 262859
     },
@@ -938,7 +938,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 272978,
       "assetId": 272978
     },
@@ -985,7 +985,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 273018,
       "assetId": 273018
     },
@@ -1162,7 +1162,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 70500,
+      "price": 69500,
       "resourceId": 50408335,
       "assetId": 76687
     },
@@ -1209,7 +1209,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 34800,
+      "sbcPrice": 32800,
       "resourceId": 50569722,
       "assetId": 238074
     },
@@ -1285,7 +1285,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 273000,
+      "price": 210000,
       "resourceId": 50570264,
       "assetId": 238616
     },
@@ -1333,7 +1333,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 59500,
+      "price": 60000,
       "resourceId": 50570879,
       "assetId": 239231
     },
@@ -1384,55 +1384,6 @@
       "resourceId": 50583690,
       "assetId": 252042
     },
-    "50587727": {
-      "name": "Moisés Caicedo",
-      "cardName": "Caicedo",
-      "originalVersionId": "3",
-      "clubId": 5,
-      "leagueId": 13,
-      "countryId": 57,
-      "versionId": "3",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        11,
-        16,
-        17,
-        24,
-        26,
-        9
-      ],
-      "playStylesPlus": [
-        2
-      ],
-      "rolesPlus": [
-        49,
-        114
-      ],
-      "rolesPlusPlus": [
-        49,
-        114
-      ],
-      "attributes": [
-        74,
-        67,
-        80,
-        82,
-        85,
-        83
-      ],
-      "hasDynamicImage": true,
-      "price": 28500,
-      "resourceId": 50587727,
-      "assetId": 256079
-    },
     "50590955": {
       "name": "Malo Gusto",
       "cardName": "Gusto",
@@ -1474,7 +1425,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 16750,
+      "price": 17250,
       "resourceId": 50590955,
       "assetId": 259307
     },
@@ -1554,9 +1505,66 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 200,
       "resourceId": 50610461,
       "assetId": 278813
+    },
+    "67364943": {
+      "name": "Moisés Caicedo",
+      "cardName": "Caicedo",
+      "originalVersionId": "45",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 57,
+      "versionId": "45",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        16,
+        17,
+        18,
+        24,
+        9
+      ],
+      "playStylesPlus": [
+        26
+      ],
+      "rolesPlus": [
+        16,
+        18,
+        20,
+        114,
+        119,
+        149
+      ],
+      "rolesPlusPlus": [
+        16,
+        18,
+        20,
+        114,
+        119,
+        149
+      ],
+      "attributes": [
+        80,
+        72,
+        81,
+        84,
+        89,
+        85
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 146000,
+      "resourceId": 67364943,
+      "assetId": 256079
     },
     "67366398": {
       "name": "Cole Palmer",
@@ -1614,7 +1622,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 109000,
+      "price": 104000,
       "resourceId": 67366398,
       "assetId": 257534
     },

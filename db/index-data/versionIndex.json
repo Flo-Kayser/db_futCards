@@ -144,7 +144,7 @@
       }
     },
     "35": {
-      "count": 9,
+      "count": 14,
       "file": "db/versions/35.json",
       "details": {
         "name": "Winter Wildcards ICON",
@@ -183,7 +183,7 @@
       }
     },
     "45": {
-      "count": 19,
+      "count": 21,
       "file": "db/versions/45.json",
       "details": {
         "name": "Winter Wildcards Red",
@@ -209,7 +209,7 @@
       }
     },
     "49": {
-      "count": 6,
+      "count": 10,
       "file": "db/versions/49.json",
       "details": {
         "name": "Winter Wildcards Hero",
@@ -286,8 +286,21 @@
         "tertiaryColor": "#f2f2f2"
       }
     },
+    "68": {
+      "count": 5,
+      "file": "db/versions/68.json",
+      "details": {
+        "name": "Premium World Tour",
+        "hasStrip": true,
+        "createdAt": "2025-12-19T17:15:00.491Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_68_0.png",
+        "primaryColor": "#fef7b9",
+        "secondaryColor": "#18cf12",
+        "tertiaryColor": "#fef7b9"
+      }
+    },
     "69": {
-      "count": 16,
+      "count": 26,
       "file": "db/versions/69.json",
       "details": {
         "name": "World Tour Silver Superstar",
@@ -323,6 +336,19 @@
         "primaryColor": "#ffffff",
         "secondaryColor": "#262626",
         "tertiaryColor": "#ff7fde"
+      }
+    },
+    "80": {
+      "count": 2,
+      "file": "db/versions/80.json",
+      "details": {
+        "name": "Team of the Year Honourable Mentions Hero",
+        "hasStrip": true,
+        "createdAt": "2025-12-19T17:15:00.490Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_80_0.png",
+        "primaryColor": "#ffe490",
+        "secondaryColor": "#001267",
+        "tertiaryColor": "#4487e3"
       }
     },
     "81": {
@@ -417,7 +443,7 @@
       }
     },
     "91": {
-      "count": 48,
+      "count": 53,
       "file": "db/versions/91.json",
       "details": {
         "name": "World Tour",
@@ -482,7 +508,7 @@
       }
     },
     "117": {
-      "count": 27,
+      "count": 43,
       "file": "db/versions/117.json",
       "details": {
         "name": "Winter Wildcards",
@@ -652,8 +678,8 @@
     }
   },
   "meta": {
-    "totalVersions": 50,
-    "totalVersionsWithoutBase": 44,
-    "updatedAt": "2025-12-24T18:45:09.788Z"
+    "totalVersions": 52,
+    "totalVersionsWithoutBase": 46,
+    "updatedAt": "2025-12-25T18:45:31.194Z"
   }
 }

@@ -1,45 +1,4 @@
 {
-  "44897": {
-    "name": "Jerzy Dudek",
-    "cardName": "Dudek",
-    "originalVersionId": "72",
-    "clubId": 114605,
-    "leagueId": 13,
-    "countryId": 37,
-    "versionId": "72",
-    "rating": 86,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 1,
-    "preferredPosition": "GK",
-    "possiblePositions": [
-      "GK"
-    ],
-    "playStyles": [
-      35
-    ],
-    "playStylesPlus": [
-      33
-    ],
-    "rolesPlus": [
-      101
-    ],
-    "rolesPlusPlus": [
-      101
-    ],
-    "attributes": [
-      86,
-      83,
-      78,
-      90,
-      60,
-      85
-    ],
-    "hasDynamicImage": false,
-    "price": 26750,
-    "resourceId": 44897,
-    "assetId": 44897
-  },
   "269603": {
     "name": "Włodzimierz Smolarek",
     "cardName": "Smolarek",
@@ -83,9 +42,57 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 39000,
+    "price": 31500,
     "resourceId": 269603,
     "assetId": 269603
+  },
+  "50376545": {
+    "name": "Jerzy Dudek",
+    "cardName": "Dudek",
+    "originalVersionId": "49",
+    "clubId": 114605,
+    "leagueId": 13,
+    "countryId": 37,
+    "versionId": "49",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      10,
+      31,
+      33,
+      34
+    ],
+    "playStylesPlus": [
+      35
+    ],
+    "rolesPlus": [
+      2,
+      101,
+      145
+    ],
+    "rolesPlusPlus": [
+      2,
+      101,
+      145
+    ],
+    "attributes": [
+      87,
+      84,
+      81,
+      91,
+      62,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 15250,
+    "resourceId": 50376545,
+    "assetId": 44897
   },
   "50520193": {
     "name": "Robert Lewandowski",
@@ -133,7 +140,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 186000,
+    "price": 182000,
     "resourceId": 50520193,
     "assetId": 188545
   },
@@ -182,7 +189,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 23000,
+    "price": 15000,
     "resourceId": 50542054,
     "assetId": 210406
   },
@@ -226,7 +233,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 23750,
+    "price": 18250,
     "resourceId": 50558822,
     "assetId": 227174
   },
@@ -326,7 +333,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 214000,
+    "price": 199000,
     "resourceId": 50573494,
     "assetId": 241846
   },
@@ -376,8 +383,68 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 34000,
+    "price": 27750,
     "resourceId": 50584143,
     "assetId": 252495
+  },
+  "67153761": {
+    "name": "Jerzy Dudek",
+    "cardName": "Dudek",
+    "originalVersionId": "49",
+    "clubId": 114605,
+    "leagueId": 13,
+    "countryId": 37,
+    "versionId": "49",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      10,
+      12,
+      23,
+      25,
+      26,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      24,
+      37,
+      123,
+      125,
+      126,
+      135,
+      136
+    ],
+    "rolesPlusPlus": [
+      24,
+      37,
+      123,
+      125,
+      126,
+      135,
+      136
+    ],
+    "attributes": [
+      87,
+      83,
+      87,
+      87,
+      61,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 90000,
+    "resourceId": 67153761,
+    "assetId": 44897
   }
 }

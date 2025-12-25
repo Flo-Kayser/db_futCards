@@ -1,4 +1,109 @@
 {
+  "50332762": {
+    "name": "Roberto Baggio",
+    "cardName": "Baggio",
+    "originalVersionId": "69",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 27,
+    "versionId": "69",
+    "rating": 73,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      10,
+      11,
+      22,
+      3
+    ],
+    "playStylesPlus": [
+      20
+    ],
+    "rolesPlus": [
+      31,
+      32,
+      143
+    ],
+    "rolesPlusPlus": [
+      31,
+      32,
+      143
+    ],
+    "attributes": [
+      73,
+      73,
+      78,
+      85,
+      31,
+      57
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50332762,
+    "assetId": 1114
+  },
+  "50497772": {
+    "name": "Gheorghe Hagi",
+    "cardName": "Hagi",
+    "originalVersionId": "69",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 39,
+    "versionId": "69",
+    "rating": 71,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM",
+      "RM"
+    ],
+    "playStyles": [
+      1,
+      13,
+      2,
+      20,
+      3,
+      8
+    ],
+    "playStylesPlus": [
+      9
+    ],
+    "rolesPlus": [
+      25,
+      29,
+      122,
+      133
+    ],
+    "rolesPlusPlus": [
+      25,
+      29,
+      122,
+      133
+    ],
+    "attributes": [
+      73,
+      72,
+      84,
+      77,
+      38,
+      62
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50497772,
+    "assetId": 166124
+  },
   "50498339": {
     "name": "Zico",
     "cardName": "Zico",
@@ -47,8 +152,8 @@
       40,
       58
     ],
-    "isObjective": true,
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50498339,
     "assetId": 166691
   },
@@ -92,8 +197,8 @@
       85,
       73
     ],
-    "isObjective": true,
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50498554,
     "assetId": 166906
   },
@@ -281,8 +386,8 @@
       35,
       72
     ],
-    "isObjective": true,
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50521694,
     "assetId": 190046
   },
@@ -330,6 +435,105 @@
     "price": 0,
     "resourceId": 50521696,
     "assetId": 190048
+  },
+  "50545748": {
+    "name": "Ruud Gullit",
+    "cardName": "Gullit",
+    "originalVersionId": "69",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 34,
+    "versionId": "69",
+    "rating": 71,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [
+      13,
+      2,
+      21,
+      29,
+      4
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      21,
+      31,
+      132,
+      143
+    ],
+    "rolesPlusPlus": [
+      21,
+      31,
+      132,
+      143
+    ],
+    "attributes": [
+      70,
+      74,
+      84,
+      72,
+      71,
+      73
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50545748,
+    "assetId": 214100
+  },
+  "50545915": {
+    "name": "Gary Lineker",
+    "cardName": "Lineker",
+    "originalVersionId": "69",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 14,
+    "versionId": "69",
+    "rating": 73,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      25,
+      4,
+      6
+    ],
+    "playStylesPlus": [
+      22
+    ],
+    "rolesPlus": [
+      41,
+      142
+    ],
+    "rolesPlusPlus": [
+      41,
+      142
+    ],
+    "attributes": [
+      74,
+      86,
+      70,
+      74,
+      34,
+      71
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50545915,
+    "assetId": 214267
   },
   "50561673": {
     "name": "Bobby Charlton",
@@ -516,6 +720,57 @@
     "resourceId": 50574167,
     "assetId": 242519
   },
+  "50579163": {
+    "name": "John Barnes",
+    "cardName": "Barnes",
+    "originalVersionId": "69",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 14,
+    "versionId": "69",
+    "rating": 73,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      13,
+      20,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      27,
+      133,
+      138
+    ],
+    "rolesPlusPlus": [
+      27,
+      133,
+      138
+    ],
+    "attributes": [
+      86,
+      73,
+      75,
+      73,
+      53,
+      74
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50579163,
+    "assetId": 247515
+  },
   "50579201": {
     "name": "Garrincha",
     "cardName": "Garrincha",
@@ -604,8 +859,8 @@
       30,
       56
     ],
-    "isObjective": true,
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50579347,
     "assetId": 247699
   },
@@ -702,10 +957,107 @@
       28,
       68
     ],
-    "isObjective": true,
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50601251,
     "assetId": 269603
+  },
+  "67275540": {
+    "name": "Rudi Völler",
+    "cardName": "Völler",
+    "originalVersionId": "69",
+    "clubId": 114605,
+    "leagueId": 31,
+    "countryId": 21,
+    "versionId": "69",
+    "rating": 74,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      22,
+      25,
+      5,
+      6
+    ],
+    "playStylesPlus": [
+      4
+    ],
+    "rolesPlus": [
+      41,
+      142
+    ],
+    "rolesPlusPlus": [
+      41,
+      142
+    ],
+    "attributes": [
+      73,
+      84,
+      74,
+      73,
+      35,
+      74
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67275540,
+    "assetId": 166676
+  },
+  "67276544": {
+    "name": "Ronald Koeman",
+    "cardName": "Koeman",
+    "originalVersionId": "69",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 34,
+    "versionId": "69",
+    "rating": 71,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM"
+    ],
+    "playStyles": [
+      10,
+      18,
+      2,
+      28
+    ],
+    "playStylesPlus": [
+      3
+    ],
+    "rolesPlus": [
+      11,
+      49,
+      113
+    ],
+    "rolesPlusPlus": [
+      11,
+      49,
+      113
+    ],
+    "attributes": [
+      70,
+      72,
+      71,
+      68,
+      82,
+      73
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67276544,
+    "assetId": 167680
   },
   "67298906": {
     "name": "Diego Armando Maradona",
@@ -755,9 +1107,158 @@
       30,
       62
     ],
-    "isObjective": true,
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 67298906,
     "assetId": 190042
+  },
+  "67347299": {
+    "name": "Lothar Matthäus",
+    "cardName": "Matthäus",
+    "originalVersionId": "69",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 21,
+    "versionId": "69",
+    "rating": 74,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      17,
+      21,
+      25,
+      26
+    ],
+    "playStylesPlus": [
+      2
+    ],
+    "rolesPlus": [
+      13,
+      116,
+      118,
+      120
+    ],
+    "rolesPlusPlus": [
+      13,
+      116,
+      118,
+      120
+    ],
+    "attributes": [
+      72,
+      76,
+      85,
+      71,
+      77,
+      72
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67347299,
+    "assetId": 238435
+  },
+  "67347303": {
+    "name": "Paolo Maldini",
+    "cardName": "Maldini",
+    "originalVersionId": "69",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 27,
+    "versionId": "69",
+    "rating": 73,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "CB",
+      "LB"
+    ],
+    "playStyles": [
+      14,
+      17,
+      18,
+      19,
+      4
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      9,
+      107,
+      148
+    ],
+    "rolesPlusPlus": [
+      9,
+      107,
+      148
+    ],
+    "attributes": [
+      74,
+      40,
+      71,
+      71,
+      84,
+      76
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67347303,
+    "assetId": 238439
+  },
+  "67370457": {
+    "name": "Jürgen Kohler",
+    "cardName": "Kohler",
+    "originalVersionId": "69",
+    "clubId": 114605,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "69",
+    "rating": 74,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      17,
+      18,
+      28,
+      4
+    ],
+    "playStylesPlus": [
+      15
+    ],
+    "rolesPlus": [
+      48,
+      112
+    ],
+    "rolesPlusPlus": [
+      48,
+      112
+    ],
+    "attributes": [
+      70,
+      36,
+      62,
+      61,
+      83,
+      77
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67370457,
+    "assetId": 261593
   }
 }

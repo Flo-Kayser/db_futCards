@@ -1,4 +1,59 @@
 {
+  "50337321": {
+    "name": "Jari Litmanen",
+    "cardName": "Litmanen",
+    "originalVersionId": "49",
+    "clubId": 114605,
+    "leagueId": 10,
+    "countryId": 17,
+    "versionId": "49",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      1,
+      11,
+      22,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      18,
+      32,
+      121,
+      131,
+      134
+    ],
+    "rolesPlusPlus": [
+      18,
+      32,
+      121,
+      131,
+      134
+    ],
+    "attributes": [
+      84,
+      90,
+      86,
+      86,
+      65,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50337321,
+    "assetId": 5673
+  },
   "50348267": {
     "name": "Iván Córdoba",
     "cardName": "Córdoba",
@@ -51,7 +106,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 332000,
+    "price": 215000,
     "resourceId": 50348267,
     "assetId": 16619
   },
@@ -106,9 +161,57 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 20000,
     "resourceId": 50357068,
     "assetId": 25420
+  },
+  "50376545": {
+    "name": "Jerzy Dudek",
+    "cardName": "Dudek",
+    "originalVersionId": "49",
+    "clubId": 114605,
+    "leagueId": 13,
+    "countryId": 37,
+    "versionId": "49",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      10,
+      31,
+      33,
+      34
+    ],
+    "playStylesPlus": [
+      35
+    ],
+    "rolesPlus": [
+      2,
+      101,
+      145
+    ],
+    "rolesPlusPlus": [
+      2,
+      101,
+      145
+    ],
+    "attributes": [
+      87,
+      84,
+      81,
+      91,
+      62,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 15250,
+    "resourceId": 50376545,
+    "assetId": 44897
   },
   "50409435": {
     "name": "Iván Zamorano",
@@ -157,7 +260,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 52500,
+    "price": 26000,
     "resourceId": 50409435,
     "assetId": 77787
   },
@@ -232,7 +335,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 42000,
+    "price": 21000,
     "resourceId": 50558910,
     "assetId": 227262
   },
@@ -284,9 +387,79 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 154000,
+    "price": 95500,
     "resourceId": 50593241,
     "assetId": 261593
+  },
+  "50606740": {
+    "name": "Sonia Bompastor",
+    "cardName": "Bompastor",
+    "originalVersionId": "49",
+    "clubId": 114605,
+    "leagueId": 2218,
+    "countryId": 18,
+    "versionId": "49",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      12,
+      17,
+      24,
+      26,
+      3,
+      8
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      147
+    ],
+    "rolesPlusPlus": [
+      107,
+      108,
+      109,
+      110,
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      147
+    ],
+    "attributes": [
+      90,
+      82,
+      88,
+      88,
+      84,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 83500,
+    "resourceId": 50606740,
+    "assetId": 275092
   },
   "67125483": {
     "name": "Iván Córdoba",
@@ -339,8 +512,68 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 397000,
+    "price": 270000,
     "resourceId": 67125483,
     "assetId": 16619
+  },
+  "67153761": {
+    "name": "Jerzy Dudek",
+    "cardName": "Dudek",
+    "originalVersionId": "49",
+    "clubId": 114605,
+    "leagueId": 13,
+    "countryId": 37,
+    "versionId": "49",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      10,
+      12,
+      23,
+      25,
+      26,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      24,
+      37,
+      123,
+      125,
+      126,
+      135,
+      136
+    ],
+    "rolesPlusPlus": [
+      24,
+      37,
+      123,
+      125,
+      126,
+      135,
+      136
+    ],
+    "attributes": [
+      87,
+      83,
+      87,
+      87,
+      61,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 90000,
+    "resourceId": 67153761,
+    "assetId": 44897
   }
 }
