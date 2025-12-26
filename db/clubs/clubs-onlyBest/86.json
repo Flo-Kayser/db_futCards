@@ -303,7 +303,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 213693,
       "assetId": 213693
     },
@@ -526,61 +526,9 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 238071,
       "assetId": 238071
-    },
-    "239810": {
-      "name": "Nicolas Raskin",
-      "cardName": "Raskin",
-      "originalVersionId": "0",
-      "clubId": 86,
-      "leagueId": 50,
-      "countryId": 7,
-      "versionId": "2002",
-      "rating": 77,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        11,
-        14,
-        16,
-        17,
-        24,
-        26,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        17,
-        21,
-        49
-      ],
-      "rolesPlusPlus": [
-        16,
-        17,
-        21,
-        49
-      ],
-      "attributes": [
-        73,
-        63,
-        73,
-        76,
-        73,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 239810,
-      "assetId": 239810
     },
     "239881": {
       "name": "Danilo",
@@ -1268,6 +1216,61 @@
       "resourceId": 279641,
       "assetId": 279641
     },
+    "50571458": {
+      "name": "Nicolas Raskin",
+      "cardName": "Raskin",
+      "originalVersionId": "117",
+      "clubId": 86,
+      "leagueId": 50,
+      "countryId": 7,
+      "versionId": "117",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        14,
+        16,
+        17,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        24
+      ],
+      "rolesPlus": [
+        17,
+        21,
+        49,
+        116,
+        120
+      ],
+      "rolesPlusPlus": [
+        17,
+        21,
+        49,
+        116,
+        120
+      ],
+      "attributes": [
+        82,
+        70,
+        83,
+        85,
+        82,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 15750,
+      "resourceId": 50571458,
+      "assetId": 239810
+    },
     "50571708": {
       "name": "Max Aarons",
       "cardName": "Aarons",
@@ -1317,7 +1320,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 10750,
+      "price": 10500,
       "resourceId": 50571708,
       "assetId": 240060
     },

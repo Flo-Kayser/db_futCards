@@ -40,7 +40,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 7300,
+      "sbcPrice": 7200,
       "resourceId": 50515160,
       "assetId": 183512
     },
@@ -97,7 +97,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 240000,
+      "price": 267000,
       "resourceId": 50547849,
       "assetId": 216201
     },
@@ -171,63 +171,132 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 11000,
       "resourceId": 50556849,
       "assetId": 225201
     },
-    "50588164": {
+    "67365380": {
       "name": "Nico Williams",
       "cardName": "Nico Williams",
-      "originalVersionId": "150",
+      "originalVersionId": "117",
       "clubId": 448,
       "leagueId": 53,
       "countryId": 45,
-      "versionId": "150",
-      "rating": 87,
+      "versionId": "117",
+      "rating": 89,
       "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
+      "weakFoot": 4,
+      "skillMoves": 5,
       "preferredPosition": "LM",
       "possiblePositions": [
         "LM",
         "LW",
-        "RM"
+        "RM",
+        "ST"
       ],
       "playStyles": [
         0,
         13,
-        25,
+        20,
+        21,
         26,
         7
       ],
       "playStylesPlus": [
-        21
+        25
       ],
       "rolesPlus": [
-        26,
+        23,
+        27,
         29,
-        127,
+        38,
+        126,
         130,
-        139
+        139,
+        143
       ],
       "rolesPlusPlus": [
-        26,
+        23,
+        27,
         29,
-        127,
+        38,
+        126,
         130,
-        139
+        139,
+        143
       ],
       "attributes": [
-        94,
-        77,
-        81,
-        88,
-        38,
-        68
+        95,
+        80,
+        85,
+        89,
+        40,
+        75
       ],
       "hasDynamicImage": true,
-      "price": 299000,
-      "resourceId": 50588164,
+      "price": 0,
+      "resourceId": 67365380,
+      "assetId": 256516
+    },
+    "84142596": {
+      "name": "Nico Williams",
+      "cardName": "Nico Williams",
+      "originalVersionId": "117",
+      "clubId": 448,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "117",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        13,
+        21,
+        25,
+        26,
+        6
+      ],
+      "playStylesPlus": [
+        7
+      ],
+      "rolesPlus": [
+        28,
+        43,
+        44,
+        129,
+        140,
+        141,
+        142
+      ],
+      "rolesPlusPlus": [
+        28,
+        43,
+        44,
+        129,
+        140,
+        141,
+        142
+      ],
+      "attributes": [
+        95,
+        85,
+        82,
+        89,
+        40,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84142596,
       "assetId": 256516
     }
   }

@@ -71,7 +71,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 75736,
       "assetId": 75736
     },
@@ -396,7 +396,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1100,
       "resourceId": 228813,
       "assetId": 228813
     },
@@ -440,7 +440,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1200,
       "resourceId": 231521,
       "assetId": 231521
     },
@@ -584,7 +584,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 895000,
+      "price": 1100000,
       "resourceId": 256197,
       "assetId": 256197
     },
@@ -631,7 +631,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 800,
       "resourceId": 264219,
       "assetId": 264219
     },
@@ -674,7 +674,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 268622,
       "assetId": 268622
     },
@@ -806,7 +806,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 15750,
       "resourceId": 50543386,
       "assetId": 211738
     },
@@ -929,7 +929,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 10750,
       "resourceId": 50568976,
       "assetId": 237328
     },
@@ -978,7 +978,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 14500,
       "resourceId": 50578911,
       "assetId": 247263
     },
@@ -1030,7 +1030,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 62500,
+      "sbcPrice": 58750,
       "resourceId": 50586754,
       "assetId": 255106
     },
@@ -1085,7 +1085,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 10750,
+      "price": 11750,
       "resourceId": 50588501,
       "assetId": 256853
     },
@@ -1273,7 +1273,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 18750,
       "resourceId": 50606677,
       "assetId": 275029
     },
@@ -1332,22 +1332,22 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 13500,
       "resourceId": 67318899,
       "assetId": 210035
     },
-    "67343100": {
+    "84120316": {
       "name": "Patrik Schick",
       "cardName": "Schick",
-      "originalVersionId": "22",
+      "originalVersionId": "117",
       "clubId": 32,
       "leagueId": 19,
       "countryId": 12,
-      "versionId": "22",
-      "rating": 86,
+      "versionId": "117",
+      "rating": 88,
       "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
+      "weakFoot": 5,
+      "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
         "ST"
@@ -1356,32 +1356,35 @@
         2,
         22,
         4,
-        5,
-        6
+        6,
+        8
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        29
+      ],
       "rolesPlus": [
         42,
-        44,
-        141
+        43,
+        141,
+        144
       ],
       "rolesPlusPlus": [
         42,
-        44,
-        141
+        43,
+        141,
+        144
       ],
       "attributes": [
-        83,
-        86,
-        76,
-        84,
-        39,
-        81
+        85,
+        88,
+        80,
+        87,
+        41,
+        84
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 20250,
-      "price": 0,
-      "resourceId": 67343100,
+      "price": 13000,
+      "resourceId": 84120316,
       "assetId": 234236
     }
   }

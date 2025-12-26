@@ -50,7 +50,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 12000,
       "resourceId": 50552524,
       "assetId": 220876
     },
@@ -99,55 +99,60 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 17250,
       "resourceId": 50575002,
       "assetId": 243354
     },
-    "67320866": {
+    "84098082": {
       "name": "Haris Tabaković",
       "cardName": "Tabaković",
-      "originalVersionId": "3",
+      "originalVersionId": "117",
       "clubId": 23,
       "leagueId": 19,
       "countryId": 8,
-      "versionId": "3",
-      "rating": 83,
+      "versionId": "117",
+      "rating": 85,
       "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
+      "weakFoot": 5,
+      "skillMoves": 5,
       "preferredPosition": "ST",
       "possiblePositions": [
         "ST"
       ],
       "playStyles": [
+        0,
+        11,
         19,
         2,
         24,
-        29,
+        29
+      ],
+      "playStylesPlus": [
         4
       ],
-      "playStylesPlus": [],
       "rolesPlus": [
-        42,
-        44,
-        141
+        41,
+        43,
+        142,
+        144
       ],
       "rolesPlusPlus": [
-        42,
-        44,
-        141
+        41,
+        43,
+        142,
+        144
       ],
       "attributes": [
-        81,
         83,
-        75,
+        85,
         80,
-        39,
-        88
+        83,
+        41,
+        90
       ],
       "hasDynamicImage": true,
-      "price": 16750,
-      "resourceId": 67320866,
+      "price": 24750,
+      "resourceId": 84098082,
       "assetId": 212002
     }
   }

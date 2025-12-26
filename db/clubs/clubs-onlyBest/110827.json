@@ -111,7 +111,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 3000,
       "resourceId": 75551,
       "assetId": 75551
     },
@@ -325,45 +325,6 @@
       "price": 350,
       "resourceId": 219848,
       "assetId": 219848
-    },
-    "220383": {
-      "name": "Aarón",
-      "cardName": "Aarón",
-      "originalVersionId": "0",
-      "clubId": 110827,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        45
-      ],
-      "rolesPlusPlus": [
-        45
-      ],
-      "attributes": [
-        72,
-        76,
-        75,
-        74,
-        38,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 220383,
-      "assetId": 220383
     },
     "225508": {
       "name": "Eric Bailly",
@@ -623,7 +584,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 238305,
       "assetId": 238305
     },
@@ -876,7 +837,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 253385,
       "assetId": 253385
     },
@@ -960,7 +921,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 262300,
       "assetId": 262300
     },
@@ -1089,7 +1050,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 200,
       "resourceId": 275985,
       "assetId": 275985
     },
@@ -1190,6 +1151,55 @@
       "hasDynamicImage": true,
       "resourceId": 50478210,
       "assetId": 146562
+    },
+    "50552031": {
+      "name": "Aarón",
+      "cardName": "Aarón",
+      "originalVersionId": "117",
+      "clubId": 110827,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "117",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        31,
+        34,
+        35,
+        9
+      ],
+      "playStylesPlus": [
+        32
+      ],
+      "rolesPlus": [
+        2,
+        101,
+        145
+      ],
+      "rolesPlusPlus": [
+        2,
+        101,
+        145
+      ],
+      "attributes": [
+        82,
+        86,
+        85,
+        99,
+        48,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50552031,
+      "assetId": 220383
     },
     "50583264": {
       "name": "David Carmo",

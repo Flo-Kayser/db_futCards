@@ -245,7 +245,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 243263,
       "assetId": 243263
     },
@@ -652,7 +652,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 200,
       "resourceId": 273493,
       "assetId": 273493
     },
@@ -728,7 +728,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 1200,
       "resourceId": 274806,
       "assetId": 274806
     },
@@ -981,7 +981,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 17500,
       "resourceId": 50572872,
       "assetId": 241224
     },
@@ -1079,7 +1079,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 17750,
+      "price": 17000,
       "resourceId": 50599910,
       "assetId": 268262
     },
@@ -1134,7 +1134,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 20500,
+      "sbcPrice": 22750,
       "price": 0,
       "resourceId": 50603763,
       "assetId": 272115
@@ -1181,58 +1181,9 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 16500,
       "resourceId": 50603865,
       "assetId": 272217
-    },
-    "50611460": {
-      "name": "Croix Bethune",
-      "cardName": "Bethune",
-      "originalVersionId": "22",
-      "clubId": 116304,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "22",
-      "rating": 85,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        13,
-        2,
-        20,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        21,
-        32,
-        33,
-        131
-      ],
-      "rolesPlusPlus": [
-        21,
-        32,
-        33,
-        131
-      ],
-      "attributes": [
-        83,
-        84,
-        85,
-        86,
-        70,
-        72
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 25000,
-      "resourceId": 50611460,
-      "assetId": 279812
     },
     "67375792": {
       "name": "Trinity Rodman",
@@ -1289,7 +1240,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 38000,
+      "price": 40000,
       "resourceId": 67375792,
       "assetId": 266928
     },
@@ -1350,9 +1301,63 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 76000,
+      "price": 79000,
       "resourceId": 84153008,
       "assetId": 266928
+    },
+    "84165892": {
+      "name": "Croix Bethune",
+      "cardName": "Bethune",
+      "originalVersionId": "117",
+      "clubId": 116304,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "117",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        20,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        13
+      ],
+      "rolesPlus": [
+        33,
+        34,
+        121,
+        131,
+        132
+      ],
+      "rolesPlusPlus": [
+        33,
+        34,
+        121,
+        131,
+        132
+      ],
+      "attributes": [
+        85,
+        86,
+        87,
+        88,
+        73,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 14000,
+      "resourceId": 84165892,
+      "assetId": 279812
     }
   }
 }

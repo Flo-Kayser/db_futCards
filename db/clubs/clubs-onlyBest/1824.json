@@ -162,7 +162,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1000,
       "resourceId": 192318,
       "assetId": 192318
     },
@@ -330,7 +330,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 225126,
       "assetId": 225126
     },
@@ -374,51 +374,6 @@
       "price": 350,
       "resourceId": 227370,
       "assetId": 227370
-    },
-    "232639": {
-      "name": "Ritsu Doan",
-      "cardName": "Doan",
-      "originalVersionId": "0",
-      "clubId": 1824,
-      "leagueId": 19,
-      "countryId": 163,
-      "versionId": "2002",
-      "rating": 82,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        13,
-        20,
-        22,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        124
-      ],
-      "rolesPlusPlus": [
-        23,
-        124
-      ],
-      "attributes": [
-        82,
-        71,
-        78,
-        85,
-        41,
-        64
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 232639,
-      "assetId": 232639
     },
     "233301": {
       "name": "Rasmus Kristensen",
@@ -546,7 +501,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 236532,
       "assetId": 236532
     },
@@ -684,7 +639,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 4600,
       "resourceId": 256500,
       "assetId": 256500
     },
@@ -724,7 +679,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 256658,
       "assetId": 256658
     },
@@ -770,7 +725,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 257278,
       "assetId": 257278
     },
@@ -1131,7 +1086,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 270846,
       "assetId": 270846
     },
@@ -1248,9 +1203,66 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 1200,
       "resourceId": 278228,
       "assetId": 278228
+    },
+    "50564287": {
+      "name": "Ritsu Doan",
+      "cardName": "Doan",
+      "originalVersionId": "117",
+      "clubId": 1824,
+      "leagueId": 19,
+      "countryId": 163,
+      "versionId": "117",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        13,
+        16,
+        21,
+        22,
+        23
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        5,
+        25,
+        26,
+        106,
+        123,
+        124
+      ],
+      "rolesPlusPlus": [
+        5,
+        25,
+        26,
+        106,
+        123,
+        124
+      ],
+      "attributes": [
+        87,
+        80,
+        83,
+        89,
+        60,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 12000,
+      "resourceId": 50564287,
+      "assetId": 232639
     },
     "50575905": {
       "name": "Jonathan Burkardt",
@@ -1357,7 +1369,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 30750,
+      "sbcPrice": 29550,
       "resourceId": 67378592,
       "assetId": 269728
     },

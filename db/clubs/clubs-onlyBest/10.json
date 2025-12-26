@@ -126,7 +126,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 203574,
       "assetId": 203574
     },
@@ -209,7 +209,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1200,
       "resourceId": 207410,
       "assetId": 207410
     },
@@ -416,7 +416,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 2500,
       "resourceId": 239818,
       "assetId": 239818
     },
@@ -460,7 +460,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 700,
       "resourceId": 242641,
       "assetId": 242641
     },
@@ -545,56 +545,9 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1300,
       "resourceId": 253124,
       "assetId": 253124
-    },
-    "256675": {
-      "name": "Omar Marmoush",
-      "cardName": "Marmoush",
-      "originalVersionId": "1",
-      "clubId": 10,
-      "leagueId": 13,
-      "countryId": 111,
-      "versionId": "3002",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        20,
-        3
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        32,
-        39,
-        43
-      ],
-      "rolesPlusPlus": [
-        32,
-        39,
-        43
-      ],
-      "attributes": [
-        89,
-        85,
-        76,
-        86,
-        34,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 800,
-      "resourceId": 256675,
-      "assetId": 256675
     },
     "263063": {
       "name": "James Trafford",
@@ -802,7 +755,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 350,
       "resourceId": 277427,
       "assetId": 277427
     },
@@ -860,7 +813,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 38500,
+      "price": 32000,
       "resourceId": 50550315,
       "assetId": 218667
     },
@@ -901,7 +854,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 13750,
+      "price": 13500,
       "resourceId": 50562269,
       "assetId": 230621
     },
@@ -968,7 +921,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 475000,
+      "price": 454000,
       "resourceId": 50563514,
       "assetId": 231866
     },
@@ -1024,7 +977,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 97000,
+      "price": 88000,
       "resourceId": 50572286,
       "assetId": 240638
     },
@@ -1073,7 +1026,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 29750,
+      "price": 34000,
       "resourceId": 50583165,
       "assetId": 251517
     },
@@ -1132,7 +1085,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 133000,
+      "price": 128000,
       "resourceId": 50583218,
       "assetId": 251570
     },
@@ -1190,9 +1143,91 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 12000,
       "resourceId": 50586717,
       "assetId": 255069
+    },
+    "50588323": {
+      "name": "Omar Marmoush",
+      "cardName": "Marmoush",
+      "originalVersionId": "117",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 111,
+      "versionId": "117",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        21,
+        22,
+        3,
+        6
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        22,
+        25,
+        29,
+        33,
+        37,
+        40,
+        41,
+        121,
+        126,
+        130,
+        131,
+        132,
+        136,
+        139,
+        142,
+        143
+      ],
+      "rolesPlusPlus": [
+        22,
+        25,
+        29,
+        33,
+        37,
+        40,
+        41,
+        121,
+        126,
+        130,
+        131,
+        132,
+        136,
+        139,
+        142,
+        143
+      ],
+      "attributes": [
+        92,
+        88,
+        80,
+        89,
+        37,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 85500,
+      "resourceId": 50588323,
+      "assetId": 256675
     },
     "50602057": {
       "name": "Savinho",
@@ -1244,7 +1279,7 @@
         62
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 111500,
+      "sbcPrice": 116000,
       "resourceId": 50602057,
       "assetId": 270409
     },
@@ -1298,7 +1333,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 15750,
       "resourceId": 50608943,
       "assetId": 277295
     },
@@ -1343,7 +1378,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 427000,
+      "price": 419000,
       "resourceId": 67339485,
       "assetId": 230621
     },
@@ -1467,7 +1502,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 45000,
+      "price": 30000,
       "resourceId": 67349502,
       "assetId": 240638
     },
@@ -1524,7 +1559,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 442000,
+      "price": 400000,
       "resourceId": 67355284,
       "assetId": 246420
     },
@@ -1578,7 +1613,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 695000,
+      "price": 730000,
       "resourceId": 84125165,
       "assetId": 239085
     }

@@ -99,7 +99,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 13500,
+    "price": 13000,
     "resourceId": 8473,
     "assetId": 8473
   },
@@ -140,7 +140,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 136000,
+    "price": 125000,
     "resourceId": 48940,
     "assetId": 48940
   },
@@ -195,54 +195,6 @@
     "sbcPrice": 40800,
     "resourceId": 50568440,
     "assetId": 236792
-  },
-  "67343100": {
-    "name": "Patrik Schick",
-    "cardName": "Schick",
-    "originalVersionId": "22",
-    "clubId": 32,
-    "leagueId": 19,
-    "countryId": 12,
-    "versionId": "22",
-    "rating": 86,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      2,
-      22,
-      4,
-      5,
-      6
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      42,
-      44,
-      141
-    ],
-    "rolesPlusPlus": [
-      42,
-      44,
-      141
-    ],
-    "attributes": [
-      83,
-      86,
-      76,
-      84,
-      39,
-      81
-    ],
-    "hasDynamicImage": true,
-    "sbcPrice": 20250,
-    "price": 0,
-    "resourceId": 67343100,
-    "assetId": 234236
   },
   "67360928": {
     "name": "Ladislav Krejčí",
@@ -302,5 +254,56 @@
     "sbcPrice": 14750,
     "resourceId": 67360928,
     "assetId": 252064
+  },
+  "84120316": {
+    "name": "Patrik Schick",
+    "cardName": "Schick",
+    "originalVersionId": "117",
+    "clubId": 32,
+    "leagueId": 19,
+    "countryId": 12,
+    "versionId": "117",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      22,
+      4,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      29
+    ],
+    "rolesPlus": [
+      42,
+      43,
+      141,
+      144
+    ],
+    "rolesPlusPlus": [
+      42,
+      43,
+      141,
+      144
+    ],
+    "attributes": [
+      85,
+      88,
+      80,
+      87,
+      41,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 13000,
+    "resourceId": 84120316,
+    "assetId": 234236
   }
 }

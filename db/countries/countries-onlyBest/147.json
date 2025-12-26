@@ -69,7 +69,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 10000,
     "resourceId": 77095,
     "assetId": 77095
   },
@@ -506,50 +506,6 @@
     "resourceId": 272078,
     "assetId": 272078
   },
-  "276359": {
-    "name": "Barbra Banda",
-    "cardName": "Banda",
-    "originalVersionId": "1",
-    "clubId": 116307,
-    "leagueId": 2221,
-    "countryId": 147,
-    "versionId": "3002",
-    "rating": 85,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      19,
-      21,
-      25,
-      29,
-      4,
-      6
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      142
-    ],
-    "rolesPlusPlus": [
-      142
-    ],
-    "attributes": [
-      92,
-      82,
-      62,
-      78,
-      33,
-      75
-    ],
-    "hasDynamicImage": false,
-    "price": 2500,
-    "resourceId": 276359,
-    "assetId": 276359
-  },
   "50408743": {
     "name": "Prisca Chilufya",
     "cardName": "Chilufya",
@@ -586,5 +542,57 @@
     "price": 200,
     "resourceId": 50408743,
     "assetId": 77095
+  },
+  "50608007": {
+    "name": "Barbra Banda",
+    "cardName": "Banda",
+    "originalVersionId": "117",
+    "clubId": 116307,
+    "leagueId": 2221,
+    "countryId": 147,
+    "versionId": "117",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      19,
+      25,
+      26,
+      29,
+      4,
+      6
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      41,
+      43,
+      142,
+      144
+    ],
+    "rolesPlusPlus": [
+      41,
+      43,
+      142,
+      144
+    ],
+    "attributes": [
+      93,
+      85,
+      63,
+      83,
+      34,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50608007,
+    "assetId": 276359
   }
 }

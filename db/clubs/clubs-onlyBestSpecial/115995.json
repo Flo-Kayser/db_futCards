@@ -101,7 +101,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 63250,
+      "sbcPrice": 61000,
       "resourceId": 50579436,
       "assetId": 247788
     },
@@ -150,7 +150,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 16250,
       "resourceId": 50580365,
       "assetId": 248717
     },
@@ -205,7 +205,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 18250,
+      "price": 18750,
       "resourceId": 50590935,
       "assetId": 259287
     },
@@ -257,7 +257,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 12250,
+      "price": 13250,
       "resourceId": 50596538,
       "assetId": 264890
     },
@@ -313,55 +313,9 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 12250,
       "resourceId": 67352268,
       "assetId": 243404
-    },
-    "67357686": {
-      "name": "Klara Bühl",
-      "cardName": "Bühl",
-      "originalVersionId": "3",
-      "clubId": 115995,
-      "leagueId": 2215,
-      "countryId": 21,
-      "versionId": "3",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        0,
-        12,
-        21,
-        22,
-        3,
-        6,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        130
-      ],
-      "rolesPlusPlus": [
-        130
-      ],
-      "attributes": [
-        87,
-        86,
-        85,
-        88,
-        38,
-        77
-      ],
-      "hasDynamicImage": true,
-      "price": 21000,
-      "resourceId": 67357686,
-      "assetId": 248822
     },
     "67368151": {
       "name": "Pernille Harder",
@@ -416,7 +370,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 11250,
       "resourceId": 67368151,
       "assetId": 259287
     },
@@ -464,9 +418,88 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 20000,
       "resourceId": 67373750,
       "assetId": 264886
+    },
+    "84134902": {
+      "name": "Klara Bühl",
+      "cardName": "Bühl",
+      "originalVersionId": "117",
+      "clubId": 115995,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "117",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LB",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        12,
+        14,
+        21,
+        24,
+        3,
+        6
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        10,
+        23,
+        27,
+        32,
+        35,
+        38,
+        41,
+        109,
+        126,
+        130,
+        133,
+        136,
+        139,
+        143
+      ],
+      "rolesPlusPlus": [
+        10,
+        23,
+        27,
+        32,
+        35,
+        38,
+        41,
+        109,
+        126,
+        130,
+        133,
+        136,
+        139,
+        143
+      ],
+      "attributes": [
+        88,
+        87,
+        86,
+        89,
+        70,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 28750,
+      "resourceId": 84134902,
+      "assetId": 248822
     }
   }
 }
