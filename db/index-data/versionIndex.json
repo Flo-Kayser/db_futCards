@@ -183,7 +183,7 @@
       }
     },
     "45": {
-      "count": 25,
+      "count": 27,
       "file": "db/versions/45.json",
       "details": {
         "name": "Winter Wildcards Red",
@@ -258,6 +258,19 @@
         "primaryColor": "#531814",
         "secondaryColor": "#e2dcd7",
         "tertiaryColor": "#976730"
+      }
+    },
+    "54": {
+      "count": 1,
+      "file": "db/versions/54.json",
+      "details": {
+        "name": "CONMEBOL Libertadores MOTM",
+        "hasStrip": true,
+        "createdAt": "2025-12-18T19:45:00.434Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_54_0.png",
+        "primaryColor": "#fff0be",
+        "secondaryColor": "#961d25",
+        "tertiaryColor": "#ff8f91"
       }
     },
     "57": {
@@ -678,8 +691,8 @@
     }
   },
   "meta": {
-    "totalVersions": 52,
-    "totalVersionsWithoutBase": 46,
-    "updatedAt": "2025-12-27T18:43:34.637Z"
+    "totalVersions": 53,
+    "totalVersionsWithoutBase": 47,
+    "updatedAt": "2025-12-28T18:44:22.695Z"
   }
 }
