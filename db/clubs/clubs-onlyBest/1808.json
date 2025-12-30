@@ -118,7 +118,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 188836,
       "assetId": 188836
     },
@@ -368,7 +368,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 235152,
       "assetId": 235152
     },
@@ -1154,53 +1154,9 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 271800,
       "assetId": 271800
-    },
-    "272500": {
-      "name": "Carlos Baleba",
-      "cardName": "Baleba",
-      "originalVersionId": "0",
-      "clubId": 1808,
-      "leagueId": 13,
-      "countryId": 103,
-      "versionId": "2002",
-      "rating": 81,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        19,
-        2,
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        14,
-        19
-      ],
-      "rolesPlusPlus": [
-        14,
-        19
-      ],
-      "attributes": [
-        74,
-        70,
-        75,
-        80,
-        79,
-        79
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 272500,
-      "assetId": 272500
     },
     "272612": {
       "name": "Brajan Gruda",
@@ -1281,7 +1237,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 274699,
       "assetId": 274699
     },
@@ -1413,7 +1369,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 16500,
+      "price": 16750,
       "resourceId": 50517794,
       "assetId": 186146
     },
@@ -1463,9 +1419,67 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 37500,
+      "price": 39750,
       "resourceId": 50600926,
       "assetId": 269278
+    },
+    "50604148": {
+      "name": "Carlos Baleba",
+      "cardName": "Baleba",
+      "originalVersionId": "45",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 103,
+      "versionId": "45",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        14,
+        15,
+        17,
+        18,
+        19,
+        2,
+        20
+      ],
+      "playStylesPlus": [
+        28
+      ],
+      "rolesPlus": [
+        16,
+        18,
+        20,
+        114,
+        119,
+        149
+      ],
+      "rolesPlusPlus": [
+        16,
+        18,
+        20,
+        114,
+        119,
+        149
+      ],
+      "attributes": [
+        83,
+        76,
+        80,
+        85,
+        86,
+        85
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 72750,
+      "resourceId": 50604148,
+      "assetId": 272500
     }
   }
 }

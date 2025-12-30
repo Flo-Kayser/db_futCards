@@ -34,7 +34,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 250,
     "resourceId": 69997,
     "assetId": 69997
   },
@@ -153,7 +153,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 10000,
     "resourceId": 72622,
     "assetId": 72622
   },
@@ -236,7 +236,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 250,
     "resourceId": 73330,
     "assetId": 73330
   },
@@ -319,7 +319,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 73400,
     "assetId": 73400
   },
@@ -399,7 +399,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 350,
     "resourceId": 76034,
     "assetId": 76034
   },
@@ -816,7 +816,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 220906,
     "assetId": 220906
   },
@@ -860,7 +860,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 250,
     "resourceId": 224069,
     "assetId": 224069
   },
@@ -938,7 +938,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 750,
     "resourceId": 228732,
     "assetId": 228732
   },
@@ -2674,50 +2674,6 @@
     "resourceId": 271983,
     "assetId": 271983
   },
-  "272500": {
-    "name": "Carlos Baleba",
-    "cardName": "Baleba",
-    "originalVersionId": "0",
-    "clubId": 1808,
-    "leagueId": 13,
-    "countryId": 103,
-    "versionId": "2002",
-    "rating": 81,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      19,
-      2,
-      20
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      14,
-      19
-    ],
-    "rolesPlusPlus": [
-      14,
-      19
-    ],
-    "attributes": [
-      74,
-      70,
-      75,
-      80,
-      79,
-      79
-    ],
-    "hasDynamicImage": false,
-    "price": 400,
-    "resourceId": 272500,
-    "assetId": 272500
-  },
   "272540": {
     "name": "Jerome Ngom Mbekeli",
     "cardName": "Ngom Mbekeli",
@@ -2797,7 +2753,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 900,
     "resourceId": 272930,
     "assetId": 272930
   },
@@ -2914,7 +2870,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 2800,
     "resourceId": 276235,
     "assetId": 276235
   },
@@ -2995,7 +2951,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 4200,
+    "price": 2900,
     "resourceId": 278181,
     "assetId": 278181
   },
@@ -3123,7 +3079,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 1700000,
+    "price": 1515000,
     "resourceId": 50341324,
     "assetId": 9676
   },
@@ -3175,7 +3131,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 10750,
     "resourceId": 50515217,
     "assetId": 183569
   },
@@ -3281,7 +3237,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 27250,
     "resourceId": 50574662,
     "assetId": 243014
   },
@@ -3400,7 +3356,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 50592987,
     "assetId": 261339
   },
@@ -3443,6 +3399,64 @@
     "price": 200,
     "resourceId": 50603062,
     "assetId": 271414
+  },
+  "50604148": {
+    "name": "Carlos Baleba",
+    "cardName": "Baleba",
+    "originalVersionId": "45",
+    "clubId": 1808,
+    "leagueId": 13,
+    "countryId": 103,
+    "versionId": "45",
+    "rating": 86,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      14,
+      15,
+      17,
+      18,
+      19,
+      2,
+      20
+    ],
+    "playStylesPlus": [
+      28
+    ],
+    "rolesPlus": [
+      16,
+      18,
+      20,
+      114,
+      119,
+      149
+    ],
+    "rolesPlusPlus": [
+      16,
+      18,
+      20,
+      114,
+      119,
+      149
+    ],
+    "attributes": [
+      83,
+      76,
+      80,
+      85,
+      86,
+      85
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 72750,
+    "resourceId": 50604148,
+    "assetId": 272500
   },
   "67336100": {
     "name": "André-Franck Zambo Anguissa",
@@ -3491,7 +3505,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 55350,
+    "sbcPrice": 51600,
     "price": 75150,
     "resourceId": 67336100,
     "assetId": 227236
