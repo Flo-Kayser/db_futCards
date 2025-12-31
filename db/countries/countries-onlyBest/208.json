@@ -233,48 +233,6 @@
     "resourceId": 254693,
     "assetId": 254693
   },
-  "264189": {
-    "name": "Maksim Paskotši",
-    "cardName": "Paskotši",
-    "originalVersionId": "1",
-    "clubId": 674,
-    "leagueId": 4,
-    "countryId": 208,
-    "versionId": "3000",
-    "rating": 64,
-    "preferredFoot": "Right",
-    "weakFoot": 2,
-    "skillMoves": 3,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB",
-      "RB"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      4,
-      11,
-      48
-    ],
-    "rolesPlusPlus": [
-      4,
-      11,
-      48
-    ],
-    "attributes": [
-      59,
-      40,
-      54,
-      56,
-      63,
-      67
-    ],
-    "hasDynamicImage": false,
-    "price": 750,
-    "resourceId": 264189,
-    "assetId": 264189
-  },
   "268095": {
     "name": "Rocco Robert Shein",
     "cardName": "Shein",
@@ -312,5 +270,55 @@
     "price": 200,
     "resourceId": 268095,
     "assetId": 268095
+  },
+  "50595837": {
+    "name": "Maksim Paskotši",
+    "cardName": "Paskotši",
+    "originalVersionId": "3",
+    "clubId": 674,
+    "leagueId": 4,
+    "countryId": 208,
+    "versionId": "3",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "RB"
+    ],
+    "playStyles": [
+      14,
+      18,
+      28,
+      4,
+      9
+    ],
+    "playStylesPlus": [
+      15
+    ],
+    "rolesPlus": [
+      4,
+      111,
+      148
+    ],
+    "rolesPlusPlus": [
+      4,
+      111,
+      148
+    ],
+    "attributes": [
+      79,
+      60,
+      75,
+      76,
+      84,
+      87
+    ],
+    "hasDynamicImage": false,
+    "price": 14750,
+    "resourceId": 50595837,
+    "assetId": 264189
   }
 }

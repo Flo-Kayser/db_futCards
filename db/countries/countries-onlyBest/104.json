@@ -40,7 +40,7 @@
       43
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 650,
     "resourceId": 71291,
     "assetId": 71291
   },
@@ -205,7 +205,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 5100,
     "resourceId": 79437,
     "assetId": 79437
   },
@@ -250,7 +250,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 8900,
+    "price": 7000,
     "resourceId": 194847,
     "assetId": 194847
   },
@@ -424,7 +424,7 @@
       55
     ],
     "hasDynamicImage": false,
-    "price": 5000,
+    "price": 300,
     "resourceId": 218738,
     "assetId": 218738
   },
@@ -502,7 +502,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 650,
     "resourceId": 229327,
     "assetId": 229327
   },
@@ -585,7 +585,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 231150,
     "assetId": 231150
   },
@@ -670,7 +670,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 239453,
     "assetId": 239453
   },
@@ -710,7 +710,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 243918,
     "assetId": 243918
   },
@@ -794,59 +794,9 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 200,
     "resourceId": 244046,
     "assetId": 244046
-  },
-  "244193": {
-    "name": "Jovane Cabral",
-    "cardName": "Jovane Cabral",
-    "originalVersionId": "0",
-    "clubId": 718,
-    "leagueId": 308,
-    "countryId": 104,
-    "versionId": "2001",
-    "rating": 70,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "RW",
-      "ST"
-    ],
-    "playStyles": [
-      2,
-      21,
-      7
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      35,
-      38,
-      40,
-      43
-    ],
-    "rolesPlusPlus": [
-      35,
-      38,
-      40,
-      43
-    ],
-    "attributes": [
-      77,
-      71,
-      68,
-      72,
-      38,
-      68
-    ],
-    "hasDynamicImage": false,
-    "price": 750,
-    "resourceId": 244193,
-    "assetId": 244193
   },
   "244963": {
     "name": "Ivanildo Fernandes",
@@ -883,7 +833,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 650,
     "resourceId": 244963,
     "assetId": 244963
   },
@@ -977,7 +927,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 650,
     "resourceId": 257194,
     "assetId": 257194
   },
@@ -1197,6 +1147,64 @@
     "resourceId": 50551402,
     "assetId": 219754
   },
+  "50575841": {
+    "name": "Jovane Cabral",
+    "cardName": "Jovane Cabral",
+    "originalVersionId": "3",
+    "clubId": 718,
+    "leagueId": 308,
+    "countryId": 104,
+    "versionId": "3",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      29,
+      5,
+      6,
+      7
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      35,
+      38,
+      40,
+      43,
+      130,
+      139
+    ],
+    "rolesPlusPlus": [
+      35,
+      38,
+      40,
+      43,
+      130,
+      139
+    ],
+    "attributes": [
+      91,
+      85,
+      82,
+      86,
+      52,
+      82
+    ],
+    "hasDynamicImage": false,
+    "price": 14750,
+    "resourceId": 50575841,
+    "assetId": 244193
+  },
   "67182717": {
     "name": "Dailon Livramento",
     "cardName": "Dailon Livramento",
@@ -1239,7 +1247,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 22250,
+    "price": 17250,
     "resourceId": 67182717,
     "assetId": 73853
   }

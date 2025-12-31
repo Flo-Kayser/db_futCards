@@ -85,48 +85,6 @@
     "resourceId": 73238,
     "assetId": 73238
   },
-  "213064": {
-    "name": "Francisco Calvo",
-    "cardName": "Calvo",
-    "originalVersionId": "0",
-    "clubId": 112096,
-    "leagueId": 350,
-    "countryId": 72,
-    "versionId": "2001",
-    "rating": 68,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB",
-      "LB"
-    ],
-    "playStyles": [
-      10,
-      16,
-      4
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      11
-    ],
-    "rolesPlusPlus": [
-      11
-    ],
-    "attributes": [
-      63,
-      44,
-      59,
-      64,
-      67,
-      76
-    ],
-    "hasDynamicImage": false,
-    "price": 250,
-    "resourceId": 213064,
-    "assetId": 213064
-  },
   "227911": {
     "name": "Randall Leal",
     "cardName": "Leal",
@@ -467,7 +425,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 650,
     "resourceId": 268719,
     "assetId": 268719
   },
@@ -504,7 +462,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 700,
     "resourceId": 270054,
     "assetId": 270054
   },
@@ -626,7 +584,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 650,
     "resourceId": 277755,
     "assetId": 277755
   },
@@ -671,5 +629,55 @@
     "price": 350,
     "resourceId": 50404886,
     "assetId": 73238
+  },
+  "50544712": {
+    "name": "Francisco Calvo",
+    "cardName": "Calvo",
+    "originalVersionId": "3",
+    "clubId": 112096,
+    "leagueId": 350,
+    "countryId": 72,
+    "versionId": "3",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "CB",
+      "LB"
+    ],
+    "playStyles": [
+      10,
+      14,
+      16,
+      28,
+      4
+    ],
+    "playStylesPlus": [
+      19
+    ],
+    "rolesPlus": [
+      11,
+      107,
+      148
+    ],
+    "rolesPlusPlus": [
+      11,
+      107,
+      148
+    ],
+    "attributes": [
+      81,
+      60,
+      76,
+      81,
+      84,
+      89
+    ],
+    "hasDynamicImage": false,
+    "price": 15000,
+    "resourceId": 50544712,
+    "assetId": 213064
   }
 }

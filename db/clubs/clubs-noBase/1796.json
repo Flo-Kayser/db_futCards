@@ -1,6 +1,55 @@
 {
   "clubName": "Burnley",
   "players": {
+    "50552055": {
+      "name": "Martin Dúbravka",
+      "cardName": "Dúbravka",
+      "originalVersionId": "3",
+      "clubId": 1796,
+      "leagueId": 13,
+      "countryId": 43,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        31,
+        32,
+        34
+      ],
+      "playStylesPlus": [
+        35
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "rolesPlusPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        86,
+        85,
+        87,
+        88,
+        50,
+        85
+      ],
+      "hasDynamicImage": false,
+      "price": 14750,
+      "resourceId": 50552055,
+      "assetId": 220407
+    },
     "50571021": {
       "name": "Zian Flemming",
       "cardName": "Flemming",
@@ -38,7 +87,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 17000,
       "resourceId": 50571021,
       "assetId": 239373
     }

@@ -41,7 +41,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 74364,
       "assetId": 74364
     },
@@ -196,7 +196,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4000,
       "resourceId": 75869,
       "assetId": 75869
     },
@@ -442,55 +442,6 @@
       "price": 350,
       "resourceId": 228106,
       "assetId": 228106
-    },
-    "238839": {
-      "name": "Lewis Wing",
-      "cardName": "Wing",
-      "originalVersionId": "0",
-      "clubId": 1793,
-      "leagueId": 60,
-      "countryId": 14,
-      "versionId": "2001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        16,
-        19,
-        2,
-        3,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        15,
-        18,
-        20
-      ],
-      "rolesPlusPlus": [
-        15,
-        18,
-        20
-      ],
-      "attributes": [
-        55,
-        69,
-        71,
-        66,
-        64,
-        75
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 238839,
-      "assetId": 238839
     },
     "242643": {
       "name": "Liam Fraser",
@@ -1202,7 +1153,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 277922,
       "assetId": 277922
     },
@@ -1283,6 +1234,60 @@
       "price": 200,
       "resourceId": 50546524,
       "assetId": 214876
+    },
+    "50570487": {
+      "name": "Lewis Wing",
+      "cardName": "Wing",
+      "originalVersionId": "3",
+      "clubId": 1793,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        19,
+        2,
+        3,
+        8
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        18,
+        20,
+        115,
+        119,
+        149
+      ],
+      "rolesPlusPlus": [
+        18,
+        20,
+        115,
+        119,
+        149
+      ],
+      "attributes": [
+        80,
+        85,
+        86,
+        82,
+        81,
+        90
+      ],
+      "hasDynamicImage": false,
+      "price": 15500,
+      "resourceId": 50570487,
+      "assetId": 238839
     },
     "50609005": {
       "name": "Seán Patton",
