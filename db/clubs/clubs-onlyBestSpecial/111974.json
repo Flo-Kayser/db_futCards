@@ -1,6 +1,62 @@
 {
   "clubName": "Sassuolo",
   "players": {
+    "50522850": {
+      "name": "Nemanja Matić",
+      "cardName": "Matić",
+      "originalVersionId": "108",
+      "clubId": 111974,
+      "leagueId": 31,
+      "countryId": 51,
+      "versionId": "108",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        19,
+        24,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        17
+      ],
+      "rolesPlus": [
+        19,
+        21,
+        49,
+        114,
+        116,
+        120
+      ],
+      "rolesPlusPlus": [
+        19,
+        21,
+        49,
+        114,
+        116,
+        120
+      ],
+      "attributes": [
+        80,
+        78,
+        85,
+        84,
+        87,
+        83
+      ],
+      "hasDynamicImage": false,
+      "sbcPrice": 47750,
+      "resourceId": 50522850,
+      "assetId": 191202
+    },
     "50575241": {
       "name": "Armand Laurienté",
       "cardName": "Laurienté",
@@ -74,7 +130,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 32000,
+      "price": 39000,
       "resourceId": 50575241,
       "assetId": 243593
     },

@@ -1,54 +1,4 @@
 {
-  "240": {
-    "name": "Roy Keane",
-    "cardName": "Keane",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 25,
-    "versionId": "12",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      16,
-      18,
-      22,
-      24,
-      26
-    ],
-    "playStylesPlus": [
-      9
-    ],
-    "rolesPlus": [
-      19,
-      114,
-      118
-    ],
-    "rolesPlusPlus": [
-      19,
-      114,
-      118
-    ],
-    "attributes": [
-      72,
-      69,
-      82,
-      78,
-      84,
-      87
-    ],
-    "hasDynamicImage": false,
-    "price": 79500,
-    "resourceId": 240,
-    "assetId": 240
-  },
   "330": {
     "name": "Robbie Keane",
     "cardName": "Keane",
@@ -90,9 +40,69 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 28250,
+    "price": 28750,
     "resourceId": 330,
     "assetId": 330
+  },
+  "50331888": {
+    "name": "Roy Keane",
+    "cardName": "Keane",
+    "originalVersionId": "112",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 25,
+    "versionId": "112",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      18,
+      22,
+      24,
+      26,
+      28,
+      9
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      16,
+      20,
+      21,
+      49,
+      114,
+      118,
+      119
+    ],
+    "rolesPlusPlus": [
+      16,
+      20,
+      21,
+      49,
+      114,
+      118,
+      119
+    ],
+    "attributes": [
+      82,
+      75,
+      84,
+      83,
+      86,
+      89
+    ],
+    "hasDynamicImage": true,
+    "price": 894000,
+    "resourceId": 50331888,
+    "assetId": 240
   },
   "50521456": {
     "name": "Paddy Madden",
@@ -137,9 +147,70 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 16750,
     "resourceId": 50521456,
     "assetId": 189808
+  },
+  "50530137": {
+    "name": "James McClean",
+    "cardName": "McClean",
+    "originalVersionId": "108",
+    "clubId": 1947,
+    "leagueId": 14,
+    "countryId": 25,
+    "versionId": "108",
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      18,
+      2,
+      20,
+      21,
+      28,
+      9
+    ],
+    "playStylesPlus": [
+      12
+    ],
+    "rolesPlus": [
+      7,
+      10,
+      27,
+      28,
+      109,
+      129,
+      130,
+      140
+    ],
+    "rolesPlusPlus": [
+      7,
+      10,
+      27,
+      28,
+      109,
+      129,
+      130,
+      140
+    ],
+    "attributes": [
+      88,
+      82,
+      84,
+      87,
+      80,
+      88
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50530137,
+    "assetId": 198489
   },
   "50577550": {
     "name": "Troy Parrott",
@@ -188,7 +259,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 27550,
+    "sbcPrice": 28250,
     "resourceId": 50577550,
     "assetId": 245902
   },
@@ -234,7 +305,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 17250,
     "resourceId": 50580132,
     "assetId": 248484
   },
@@ -285,7 +356,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 25000,
+    "price": 21750,
     "resourceId": 50596887,
     "assetId": 265239
   },
@@ -331,7 +402,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 18000,
     "resourceId": 50597477,
     "assetId": 265829
   },
@@ -381,7 +452,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 10750,
     "resourceId": 50598886,
     "assetId": 267238
   },
@@ -432,7 +503,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 18000,
+    "price": 16000,
     "resourceId": 67360930,
     "assetId": 252066
   }

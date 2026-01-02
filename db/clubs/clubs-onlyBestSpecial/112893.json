@@ -1,66 +1,59 @@
 {
   "clubName": "Inter Miami CF",
   "players": {
-    "50489671": {
-      "name": "Lionel Messi",
-      "cardName": "Messi",
-      "originalVersionId": "22",
+    "50508228": {
+      "name": "Luis Suárez",
+      "cardName": "Suárez",
+      "originalVersionId": "108",
       "clubId": 112893,
       "leagueId": 39,
-      "countryId": 52,
-      "versionId": "22",
-      "rating": 88,
-      "preferredFoot": "Left",
+      "countryId": 60,
+      "versionId": "108",
+      "rating": 89,
+      "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 4,
-      "preferredPosition": "RW",
+      "preferredPosition": "ST",
       "possiblePositions": [
         "CAM",
-        "RM",
-        "RW",
         "ST"
       ],
       "playStyles": [
-        11,
-        20,
+        0,
+        2,
+        24,
         25,
-        3,
-        7,
-        8
+        29,
+        7
       ],
       "playStylesPlus": [
-        0
+        6
       ],
       "rolesPlus": [
-        26,
-        33,
-        35,
-        132,
-        136,
-        137,
-        143
+        31,
+        41,
+        142,
+        143,
+        144
       ],
       "rolesPlusPlus": [
-        26,
-        33,
-        35,
-        132,
-        136,
-        137,
-        143
+        31,
+        41,
+        142,
+        143,
+        144
       ],
       "attributes": [
-        82,
-        87,
-        87,
-        91,
-        35,
-        66
+        86,
+        92,
+        84,
+        89,
+        50,
+        85
       ],
       "hasDynamicImage": true,
-      "price": 180000,
-      "resourceId": 50489671,
-      "assetId": 158023
+      "resourceId": 50508228,
+      "assetId": 176580
     },
     "50521159": {
       "name": "Sergio Busquets",
@@ -110,7 +103,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 223000,
+      "sbcPrice": 230000,
       "resourceId": 50521159,
       "assetId": 189511
     },
@@ -167,7 +160,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 29400,
+      "sbcPrice": 32750,
       "resourceId": 50544264,
       "assetId": 212616
     },
@@ -221,7 +214,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 15250,
       "resourceId": 50598272,
       "assetId": 266624
     },
@@ -274,15 +267,15 @@
       "resourceId": 67298196,
       "assetId": 189332
     },
-    "100821319": {
+    "117598535": {
       "name": "Lionel Messi",
       "cardName": "Messi",
-      "originalVersionId": "3",
+      "originalVersionId": "108",
       "clubId": 112893,
       "leagueId": 39,
       "countryId": 52,
-      "versionId": "3",
-      "rating": 88,
+      "versionId": "108",
+      "rating": 90,
       "preferredFoot": "Left",
       "weakFoot": 4,
       "skillMoves": 4,
@@ -294,39 +287,52 @@
         "ST"
       ],
       "playStyles": [
-        0,
         11,
         20,
+        22,
         25,
         3,
-        7
-      ],
-      "playStylesPlus": [
+        7,
         8
       ],
+      "playStylesPlus": [
+        0
+      ],
       "rolesPlus": [
+        25,
+        32,
         33,
-        35,
-        137,
+        37,
+        42,
+        126,
+        134,
+        136,
+        141,
         143
       ],
       "rolesPlusPlus": [
+        25,
+        32,
         33,
-        35,
-        137,
+        37,
+        42,
+        126,
+        134,
+        136,
+        141,
         143
       ],
       "attributes": [
-        83,
-        87,
-        88,
-        92,
-        35,
-        67
+        90,
+        90,
+        89,
+        94,
+        37,
+        70
       ],
       "hasDynamicImage": true,
-      "price": 156000,
-      "resourceId": 100821319,
+      "price": 15000000,
+      "resourceId": 117598535,
       "assetId": 158023
     }
   }

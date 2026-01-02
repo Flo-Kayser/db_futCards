@@ -118,52 +118,6 @@
       "resourceId": 186139,
       "assetId": 186139
     },
-    "198489": {
-      "name": "James McClean",
-      "cardName": "McClean",
-      "originalVersionId": "1",
-      "clubId": 1947,
-      "leagueId": 14,
-      "countryId": 25,
-      "versionId": "3001",
-      "rating": 68,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        12,
-        18,
-        2
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9,
-        10,
-        30
-      ],
-      "rolesPlusPlus": [
-        9,
-        10,
-        30
-      ],
-      "attributes": [
-        61,
-        63,
-        65,
-        65,
-        63,
-        79
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 198489,
-      "assetId": 198489
-    },
     "207998": {
       "name": "Danny Ward",
       "cardName": "Ward",
@@ -1253,9 +1207,70 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 271854,
       "assetId": 271854
+    },
+    "50530137": {
+      "name": "James McClean",
+      "cardName": "McClean",
+      "originalVersionId": "108",
+      "clubId": 1947,
+      "leagueId": 14,
+      "countryId": 25,
+      "versionId": "108",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        18,
+        2,
+        20,
+        21,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        12
+      ],
+      "rolesPlus": [
+        7,
+        10,
+        27,
+        28,
+        109,
+        129,
+        130,
+        140
+      ],
+      "rolesPlusPlus": [
+        7,
+        10,
+        27,
+        28,
+        109,
+        129,
+        130,
+        140
+      ],
+      "attributes": [
+        88,
+        82,
+        84,
+        87,
+        80,
+        88
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50530137,
+      "assetId": 198489
     },
     "50533696": {
       "name": "Conor Coady",
@@ -1342,7 +1357,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 15250,
+      "price": 16500,
       "resourceId": 50548275,
       "assetId": 216627
     },

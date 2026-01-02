@@ -116,56 +116,6 @@
     "resourceId": 79610,
     "assetId": 79610
   },
-  "212811": {
-    "name": "Mario Lemina",
-    "cardName": "Lemina",
-    "originalVersionId": "1",
-    "clubId": 325,
-    "leagueId": 68,
-    "countryId": 115,
-    "versionId": "3002",
-    "rating": 79,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      10,
-      13,
-      16,
-      20,
-      26
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      14,
-      15,
-      17,
-      18
-    ],
-    "rolesPlusPlus": [
-      14,
-      15,
-      17,
-      18
-    ],
-    "attributes": [
-      79,
-      67,
-      75,
-      76,
-      78,
-      83
-    ],
-    "hasDynamicImage": false,
-    "price": 700,
-    "resourceId": 212811,
-    "assetId": 212811
-  },
   "213498": {
     "name": "Serge-Junior Martinsson Ngouali",
     "cardName": "Martinsson Ngouali",
@@ -407,9 +357,66 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 3000,
+    "price": 2000,
     "resourceId": 277912,
     "assetId": 277912
+  },
+  "50544459": {
+    "name": "Mario Lemina",
+    "cardName": "Lemina",
+    "originalVersionId": "108",
+    "clubId": 325,
+    "leagueId": 68,
+    "countryId": 115,
+    "versionId": "108",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      13,
+      14,
+      20,
+      26
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      14,
+      16,
+      19,
+      20,
+      118,
+      121,
+      149
+    ],
+    "rolesPlusPlus": [
+      14,
+      16,
+      19,
+      20,
+      118,
+      121,
+      149
+    ],
+    "attributes": [
+      87,
+      76,
+      87,
+      88,
+      85,
+      86
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50544459,
+    "assetId": 212811
   },
   "50557599": {
     "name": "Denis Bouanga",
@@ -456,7 +463,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 19250,
     "resourceId": 50557599,
     "assetId": 225951
   },
@@ -505,7 +512,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 48500,
+    "price": 42000,
     "resourceId": 67297431,
     "assetId": 188567
   }

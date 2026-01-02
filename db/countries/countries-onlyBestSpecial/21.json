@@ -36,7 +36,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 283000,
+    "price": 275000,
     "resourceId": 488,
     "assetId": 488
   },
@@ -81,7 +81,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 111000,
+    "price": 107000,
     "resourceId": 77676,
     "assetId": 77676
   },
@@ -134,7 +134,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 198000,
+    "price": 194000,
     "resourceId": 121939,
     "assetId": 121939
   },
@@ -177,7 +177,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 17000,
+    "price": 18000,
     "resourceId": 150418,
     "assetId": 150418
   },
@@ -231,7 +231,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 123000,
+    "price": 121000,
     "resourceId": 182521,
     "assetId": 182521
   },
@@ -276,7 +276,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 250000,
+    "price": 271000,
     "resourceId": 190048,
     "assetId": 190048
   },
@@ -317,7 +317,7 @@
       92
     ],
     "hasDynamicImage": false,
-    "price": 109000,
+    "price": 103000,
     "resourceId": 226293,
     "assetId": 226293
   },
@@ -361,7 +361,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 22250,
+    "price": 18750,
     "resourceId": 226306,
     "assetId": 226306
   },
@@ -406,7 +406,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 73500,
+    "price": 78000,
     "resourceId": 242510,
     "assetId": 242510
   },
@@ -451,7 +451,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 238000,
+    "price": 250000,
     "resourceId": 50332136,
     "assetId": 488
   },
@@ -510,7 +510,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 10750,
     "resourceId": 50404671,
     "assetId": 73023
   },
@@ -552,7 +552,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 18500,
     "resourceId": 50407930,
     "assetId": 76282
   },
@@ -603,7 +603,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 114000,
+    "price": 110000,
     "resourceId": 50409324,
     "assetId": 77676
   },
@@ -651,7 +651,7 @@
       60
     ],
     "hasDynamicImage": true,
-    "price": 19750,
+    "price": 19500,
     "resourceId": 50409711,
     "assetId": 78063
   },
@@ -777,7 +777,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 120000,
+    "price": 126000,
     "resourceId": 50453592,
     "assetId": 121944
   },
@@ -977,7 +977,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 40750,
+    "price": 42500,
     "resourceId": 50499143,
     "assetId": 167495
   },
@@ -1035,9 +1035,125 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 80000,
+    "price": 85500,
     "resourceId": 50514169,
     "assetId": 182521
+  },
+  "50519998": {
+    "name": "Marco Reus",
+    "cardName": "Reus",
+    "originalVersionId": "108",
+    "clubId": 697,
+    "leagueId": 39,
+    "countryId": 21,
+    "versionId": "108",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      20,
+      21,
+      22,
+      26,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      22,
+      28,
+      33,
+      43,
+      121,
+      127,
+      129,
+      130,
+      131,
+      142
+    ],
+    "rolesPlusPlus": [
+      22,
+      28,
+      33,
+      43,
+      121,
+      127,
+      129,
+      130,
+      131,
+      142
+    ],
+    "attributes": [
+      90,
+      88,
+      87,
+      90,
+      62,
+      72
+    ],
+    "hasDynamicImage": true,
+    "price": 1200000,
+    "resourceId": 50519998,
+    "assetId": 188350
+  },
+  "50524096": {
+    "name": "Marc-André ter Stegen",
+    "cardName": "ter Stegen",
+    "originalVersionId": "108",
+    "clubId": 241,
+    "leagueId": 53,
+    "countryId": 21,
+    "versionId": "108",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      10,
+      30,
+      32,
+      33,
+      35
+    ],
+    "playStylesPlus": [
+      31
+    ],
+    "rolesPlus": [
+      2,
+      101,
+      145
+    ],
+    "rolesPlusPlus": [
+      2,
+      101,
+      145
+    ],
+    "attributes": [
+      87,
+      87,
+      91,
+      89,
+      53,
+      87
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50524096,
+    "assetId": 192448
   },
   "50531964": {
     "name": "Timo Horn",
@@ -1078,7 +1194,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 16250,
+    "price": 18000,
     "resourceId": 50531964,
     "assetId": 200316
   },
@@ -1153,7 +1269,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 10500,
     "resourceId": 50534077,
     "assetId": 202429
   },
@@ -1200,7 +1316,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 22000,
     "resourceId": 50539510,
     "assetId": 207862
   },
@@ -1257,7 +1373,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 63250,
+    "sbcPrice": 66000,
     "resourceId": 50539981,
     "assetId": 208333
   },
@@ -1306,57 +1422,10 @@
       79
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 47850,
+    "sbcPrice": 48550,
     "price": 68500,
     "resourceId": 50541306,
     "assetId": 209658
-  },
-  "50541494": {
-    "name": "Christian Günter",
-    "cardName": "Günter",
-    "originalVersionId": "150",
-    "clubId": 25,
-    "leagueId": 19,
-    "countryId": 21,
-    "versionId": "150",
-    "rating": 84,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "LB",
-    "possiblePositions": [
-      "LB",
-      "LM"
-    ],
-    "playStyles": [
-      12,
-      18,
-      21,
-      26
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      7,
-      27,
-      109
-    ],
-    "rolesPlusPlus": [
-      7,
-      27,
-      109
-    ],
-    "attributes": [
-      88,
-      68,
-      77,
-      78,
-      80,
-      87
-    ],
-    "hasDynamicImage": true,
-    "price": 14500,
-    "resourceId": 50541494,
-    "assetId": 209846
   },
   "50543836": {
     "name": "Timo Werner",
@@ -1409,7 +1478,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 24250,
+    "price": 25500,
     "resourceId": 50543836,
     "assetId": 212188
   },
@@ -1459,7 +1528,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 13500,
     "resourceId": 50543838,
     "assetId": 212190
   },
@@ -1522,7 +1591,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 18500,
     "resourceId": 50543842,
     "assetId": 212194
   },
@@ -1647,7 +1716,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 135000,
+    "price": 123000,
     "resourceId": 50544270,
     "assetId": 212622
   },
@@ -1700,7 +1769,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 51500,
+    "price": 57000,
     "resourceId": 50544979,
     "assetId": 213331
   },
@@ -1753,9 +1822,66 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 122000,
+    "price": 128000,
     "resourceId": 50553979,
     "assetId": 222331
+  },
+  "50557950": {
+    "name": "Alexandra Popp",
+    "cardName": "Popp",
+    "originalVersionId": "108",
+    "clubId": 115998,
+    "leagueId": 2215,
+    "countryId": 21,
+    "versionId": "108",
+    "rating": 89,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      19,
+      20,
+      28,
+      4,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      29
+    ],
+    "rolesPlus": [
+      39,
+      42,
+      43,
+      138,
+      141,
+      144
+    ],
+    "rolesPlusPlus": [
+      39,
+      42,
+      43,
+      138,
+      141,
+      144
+    ],
+    "attributes": [
+      85,
+      89,
+      83,
+      85,
+      55,
+      93
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50557950,
+    "assetId": 226302
   },
   "50557955": {
     "name": "Simone Laudehr",
@@ -1811,7 +1937,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 48250,
+    "price": 49000,
     "resourceId": 50557955,
     "assetId": 226307
   },
@@ -1917,7 +2043,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 15500,
     "resourceId": 50558975,
     "assetId": 227327
   },
@@ -2084,7 +2210,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 29500,
     "resourceId": 50565044,
     "assetId": 233396
   },
@@ -2273,7 +2399,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 2360000,
+    "price": 2290000,
     "resourceId": 50570083,
     "assetId": 238435
   },
@@ -2318,7 +2444,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 14500,
     "resourceId": 50571656,
     "assetId": 240008
   },
@@ -2367,7 +2493,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 16000,
+    "price": 17500,
     "resourceId": 50571977,
     "assetId": 240329
   },
@@ -2468,7 +2594,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 14000,
     "resourceId": 50575002,
     "assetId": 243354
   },
@@ -2515,7 +2641,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 15250,
+    "price": 16000,
     "resourceId": 50575824,
     "assetId": 244176
   },
@@ -2667,7 +2793,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 22500,
+    "price": 30750,
     "resourceId": 50579467,
     "assetId": 247819
   },
@@ -2716,7 +2842,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 16000,
     "resourceId": 50580365,
     "assetId": 248717
   },
@@ -2767,7 +2893,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 20250,
     "resourceId": 50582607,
     "assetId": 250959
   },
@@ -2821,7 +2947,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 75000,
+    "price": 77500,
     "resourceId": 50583500,
     "assetId": 251852
   },
@@ -2871,7 +2997,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 15250,
+    "price": 14500,
     "resourceId": 50584096,
     "assetId": 252448
   },
@@ -2923,7 +3049,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 22500,
+    "price": 23250,
     "resourceId": 50585765,
     "assetId": 254117
   },
@@ -2972,7 +3098,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 27000,
+    "price": 27500,
     "resourceId": 50587909,
     "assetId": 256261
   },
@@ -3056,7 +3182,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 374000,
+    "price": 399000,
     "resourceId": 50588438,
     "assetId": 256790
   },
@@ -3102,7 +3228,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 2100,
+    "sbcPrice": 2150,
     "resourceId": 50588538,
     "assetId": 256890
   },
@@ -3215,7 +3341,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 20500,
+    "price": 18500,
     "resourceId": 50590363,
     "assetId": 258715
   },
@@ -3280,7 +3406,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 190000,
+    "price": 180000,
     "resourceId": 50592574,
     "assetId": 260926
   },
@@ -3332,7 +3458,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 169000,
+    "price": 179000,
     "resourceId": 50593241,
     "assetId": 261593
   },
@@ -3617,7 +3743,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 14000,
     "resourceId": 50596579,
     "assetId": 264931
   },
@@ -3676,7 +3802,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 32500,
+    "price": 30750,
     "resourceId": 50596595,
     "assetId": 264947
   },
@@ -3837,7 +3963,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 16750,
     "resourceId": 50596673,
     "assetId": 265025
   },
@@ -3947,7 +4073,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 13250,
     "resourceId": 50596703,
     "assetId": 265055
   },
@@ -4048,7 +4174,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 21250,
+    "price": 22250,
     "resourceId": 50596717,
     "assetId": 265069
   },
@@ -4156,7 +4282,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 18000,
     "resourceId": 50603487,
     "assetId": 271839
   },
@@ -4209,7 +4335,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 208000,
+    "price": 322000,
     "resourceId": 50606924,
     "assetId": 275276
   },
@@ -4264,7 +4390,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 105000,
+    "price": 115000,
     "resourceId": 50606946,
     "assetId": 275298
   },
@@ -4307,7 +4433,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 16000,
     "resourceId": 50607408,
     "assetId": 275760
   },
@@ -4382,7 +4508,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 2251000,
+    "price": 2039000,
     "resourceId": 67277337,
     "assetId": 168473
   },
@@ -4508,7 +4634,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 15250,
     "resourceId": 67298460,
     "assetId": 189596
   },
@@ -4583,11 +4709,67 @@
       50,
       72
     ],
-    "isObjective": true,
     "hasDynamicImage": true,
     "price": 0,
     "resourceId": 67314977,
     "assetId": 206113
+  },
+  "67318710": {
+    "name": "Christian Günter",
+    "cardName": "Günter",
+    "originalVersionId": "108",
+    "clubId": 25,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "108",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      12,
+      17,
+      21,
+      24,
+      26
+    ],
+    "playStylesPlus": [
+      18
+    ],
+    "rolesPlus": [
+      8,
+      29,
+      47,
+      107,
+      109,
+      110,
+      127
+    ],
+    "rolesPlusPlus": [
+      8,
+      29,
+      47,
+      107,
+      109,
+      110,
+      127
+    ],
+    "attributes": [
+      90,
+      70,
+      85,
+      85,
+      87,
+      90
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67318710,
+    "assetId": 209846
   },
   "67331356": {
     "name": "Leroy Sané",
@@ -4699,7 +4881,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 22500,
     "resourceId": 67345567,
     "assetId": 236703
   },
@@ -4752,7 +4934,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 103000,
+    "price": 104000,
     "resourceId": 67355727,
     "assetId": 246863
   },
@@ -4798,7 +4980,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 14250,
     "resourceId": 67359823,
     "assetId": 250959
   },
@@ -4862,7 +5044,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 43000,
+    "price": 44250,
     "resourceId": 67362886,
     "assetId": 254022
   },
@@ -4917,7 +5099,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 171000,
+    "price": 185000,
     "resourceId": 67365494,
     "assetId": 256630
   },
@@ -4965,7 +5147,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 12500,
     "resourceId": 67367174,
     "assetId": 258310
   },
@@ -5010,7 +5192,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 15250,
+    "price": 15000,
     "resourceId": 67371810,
     "assetId": 262946
   },
@@ -5089,7 +5271,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 22500,
+    "price": 25000,
     "resourceId": 84134902,
     "assetId": 248822
   }

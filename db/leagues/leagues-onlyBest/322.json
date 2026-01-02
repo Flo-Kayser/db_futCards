@@ -32,7 +32,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 5000,
+    "price": 2500,
     "resourceId": 71943,
     "assetId": 71943
   },
@@ -112,45 +112,6 @@
     "price": 200,
     "resourceId": 76413,
     "assetId": 76413
-  },
-  "190362": {
-    "name": "Teemu Pukki",
-    "cardName": "Pukki",
-    "originalVersionId": "0",
-    "clubId": 100325,
-    "leagueId": 322,
-    "countryId": 17,
-    "versionId": "2001",
-    "rating": 71,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      0
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      41
-    ],
-    "rolesPlusPlus": [
-      41
-    ],
-    "attributes": [
-      68,
-      72,
-      62,
-      71,
-      36,
-      70
-    ],
-    "hasDynamicImage": false,
-    "price": 200,
-    "resourceId": 190362,
-    "assetId": 190362
   },
   "205895": {
     "name": "Alexander Ring",
@@ -696,5 +657,56 @@
     "price": 200,
     "resourceId": 275331,
     "assetId": 275331
+  },
+  "50522010": {
+    "name": "Teemu Pukki",
+    "cardName": "Pukki",
+    "originalVersionId": "108",
+    "clubId": 100325,
+    "leagueId": 322,
+    "countryId": 17,
+    "versionId": "108",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      2,
+      25,
+      29,
+      9
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      43,
+      44,
+      141,
+      142
+    ],
+    "rolesPlusPlus": [
+      43,
+      44,
+      141,
+      142
+    ],
+    "attributes": [
+      88,
+      88,
+      80,
+      84,
+      51,
+      86
+    ],
+    "isObjective": true,
+    "hasDynamicImage": false,
+    "resourceId": 50522010,
+    "assetId": 190362
   }
 }

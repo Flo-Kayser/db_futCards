@@ -1047,7 +1047,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 850,
     "resourceId": 181872,
     "assetId": 181872
   },
@@ -1971,7 +1971,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 300,
     "resourceId": 214404,
     "assetId": 214404
   },
@@ -2096,7 +2096,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5000,
     "resourceId": 214440,
     "assetId": 214440
   },
@@ -3203,7 +3203,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 750,
     "resourceId": 223249,
     "assetId": 223249
   },
@@ -3654,7 +3654,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 2400,
     "resourceId": 229444,
     "assetId": 229444
   },
@@ -4638,7 +4638,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 600,
     "resourceId": 243386,
     "assetId": 243386
   },
@@ -4853,47 +4853,6 @@
     "price": 0,
     "resourceId": 245959,
     "assetId": 245959
-  },
-  "245962": {
-    "name": "Karen Araya",
-    "cardName": "Araya",
-    "originalVersionId": "1",
-    "clubId": 116334,
-    "leagueId": 2222,
-    "countryId": 55,
-    "versionId": "3001",
-    "rating": 74,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      21,
-      32
-    ],
-    "rolesPlusPlus": [
-      21,
-      32
-    ],
-    "attributes": [
-      52,
-      70,
-      78,
-      69,
-      62,
-      70
-    ],
-    "hasDynamicImage": false,
-    "price": 0,
-    "resourceId": 245962,
-    "assetId": 245962
   },
   "246840": {
     "name": "Erick Wiemberg",
@@ -6085,7 +6044,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 271772,
     "assetId": 271772
   },
@@ -6242,7 +6201,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 275043,
     "assetId": 275043
   },
@@ -6756,50 +6715,9 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 23000,
     "resourceId": 50577604,
     "assetId": 245956
-  },
-  "50577610": {
-    "name": "Karen Araya",
-    "cardName": "Araya",
-    "originalVersionId": "1",
-    "clubId": 116417,
-    "leagueId": 2218,
-    "countryId": 55,
-    "versionId": "3001",
-    "rating": 74,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      21,
-      32
-    ],
-    "rolesPlusPlus": [
-      21,
-      32
-    ],
-    "attributes": [
-      52,
-      70,
-      78,
-      69,
-      62,
-      70
-    ],
-    "hasDynamicImage": false,
-    "price": 350,
-    "resourceId": 50577610,
-    "assetId": 245962
   },
   "50587699": {
     "name": "Marcelino Núñez",
@@ -6883,5 +6801,64 @@
     "price": 400,
     "resourceId": 50600044,
     "assetId": 268396
+  },
+  "67354826": {
+    "name": "Karen Araya",
+    "cardName": "Araya",
+    "originalVersionId": "108",
+    "clubId": 116417,
+    "leagueId": 2218,
+    "countryId": 55,
+    "versionId": "108",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      10,
+      16,
+      24,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      11
+    ],
+    "rolesPlus": [
+      21,
+      31,
+      49,
+      116,
+      118,
+      120,
+      132
+    ],
+    "rolesPlusPlus": [
+      21,
+      31,
+      49,
+      116,
+      118,
+      120,
+      132
+    ],
+    "attributes": [
+      85,
+      86,
+      89,
+      83,
+      75,
+      81
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67354826,
+    "assetId": 245962
   }
 }

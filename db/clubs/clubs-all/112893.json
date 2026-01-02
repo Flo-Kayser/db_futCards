@@ -95,7 +95,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 6500,
+      "price": 4500,
       "resourceId": 158023,
       "assetId": 158023
     },
@@ -259,7 +259,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 350,
       "resourceId": 189332,
       "assetId": 189332
     },
@@ -569,7 +569,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 1800,
       "resourceId": 260732,
       "assetId": 260732
     },
@@ -861,7 +861,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 10000,
       "resourceId": 274569,
       "assetId": 274569
     },
@@ -1202,9 +1202,63 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 180000,
+      "price": 184000,
       "resourceId": 50489671,
       "assetId": 158023
+    },
+    "50508228": {
+      "name": "Luis Suárez",
+      "cardName": "Suárez",
+      "originalVersionId": "108",
+      "clubId": 112893,
+      "leagueId": 39,
+      "countryId": 60,
+      "versionId": "108",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        24,
+        25,
+        29,
+        7
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        31,
+        41,
+        142,
+        143,
+        144
+      ],
+      "rolesPlusPlus": [
+        31,
+        41,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        86,
+        92,
+        84,
+        89,
+        50,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50508228,
+      "assetId": 176580
     },
     "50520980": {
       "name": "Jordi Alba",
@@ -1247,7 +1301,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 19000,
+      "price": 19500,
       "resourceId": 50520980,
       "assetId": 189332
     },
@@ -1299,7 +1353,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 223000,
+      "sbcPrice": 230000,
       "resourceId": 50521159,
       "assetId": 189511
     },
@@ -1356,7 +1410,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 29400,
+      "sbcPrice": 32750,
       "resourceId": 50544264,
       "assetId": 212616
     },
@@ -1397,7 +1451,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50592380,
       "assetId": 260732
     },
@@ -1451,7 +1505,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 15250,
       "resourceId": 50598272,
       "assetId": 266624
     },
@@ -1555,7 +1609,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 54000,
+      "price": 59500,
       "resourceId": 84044103,
       "assetId": 158023
     },
@@ -1610,8 +1664,76 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 156000,
+      "price": 161000,
       "resourceId": 100821319,
+      "assetId": 158023
+    },
+    "117598535": {
+      "name": "Lionel Messi",
+      "cardName": "Messi",
+      "originalVersionId": "108",
+      "clubId": 112893,
+      "leagueId": 39,
+      "countryId": 52,
+      "versionId": "108",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        20,
+        22,
+        25,
+        3,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        25,
+        32,
+        33,
+        37,
+        42,
+        126,
+        134,
+        136,
+        141,
+        143
+      ],
+      "rolesPlusPlus": [
+        25,
+        32,
+        33,
+        37,
+        42,
+        126,
+        134,
+        136,
+        141,
+        143
+      ],
+      "attributes": [
+        90,
+        90,
+        89,
+        94,
+        37,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 15000000,
+      "resourceId": 117598535,
       "assetId": 158023
     }
   }
