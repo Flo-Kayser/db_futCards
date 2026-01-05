@@ -60,7 +60,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 70000,
+    "price": 68000,
     "resourceId": 50470060,
     "assetId": 138412
   },
@@ -121,8 +121,8 @@
       78,
       80
     ],
-    "hasDynamicImage": false,
-    "sbcPrice": 31150,
+    "hasDynamicImage": true,
+    "sbcPrice": 30750,
     "resourceId": 50484556,
     "assetId": 152908
   },
@@ -174,7 +174,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 10750,
     "resourceId": 50503439,
     "assetId": 171791
   },
@@ -229,7 +229,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 700000,
+    "price": 699000,
     "resourceId": 50508228,
     "assetId": 176580
   },
@@ -295,7 +295,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 115000,
+    "price": 112000,
     "resourceId": 50509736,
     "assetId": 178088
   },
@@ -349,7 +349,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 16250,
     "resourceId": 50517838,
     "assetId": 186190
   },
@@ -405,7 +405,7 @@
       87
     ],
     "isObjective": true,
-    "hasDynamicImage": false,
+    "hasDynamicImage": true,
     "resourceId": 50519584,
     "assetId": 187936
   },
@@ -473,7 +473,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 409000,
+    "price": 420000,
     "resourceId": 50519998,
     "assetId": 188350
   },
@@ -525,7 +525,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10750,
     "resourceId": 50520951,
     "assetId": 189303
   },
@@ -576,7 +576,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 19500,
+    "price": 18250,
     "resourceId": 50521529,
     "assetId": 189881
   },
@@ -627,7 +627,7 @@
       86
     ],
     "isObjective": true,
-    "hasDynamicImage": false,
+    "hasDynamicImage": true,
     "resourceId": 50522010,
     "assetId": 190362
   },
@@ -682,8 +682,8 @@
       87,
       83
     ],
-    "hasDynamicImage": false,
-    "sbcPrice": 46500,
+    "hasDynamicImage": true,
+    "sbcPrice": 47250,
     "resourceId": 50522850,
     "assetId": 191202
   },
@@ -732,7 +732,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 60500,
+    "price": 68500,
     "resourceId": 50524096,
     "assetId": 192448
   },
@@ -798,7 +798,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10750,
     "resourceId": 50529613,
     "assetId": 197965
   },
@@ -918,7 +918,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 151000,
+    "price": 145000,
     "resourceId": 50531151,
     "assetId": 199503
   },
@@ -980,7 +980,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 10750,
     "resourceId": 50531908,
     "assetId": 200260
   },
@@ -1037,7 +1037,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10750,
     "resourceId": 50536145,
     "assetId": 204497
   },
@@ -1096,7 +1096,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 308000,
+    "price": 327000,
     "resourceId": 50536611,
     "assetId": 204963
   },
@@ -1158,9 +1158,67 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 23000,
     "resourceId": 50540222,
     "assetId": 208574
+  },
+  "50541972": {
+    "name": "Jonas Hofmann",
+    "cardName": "Hofmann",
+    "originalVersionId": "108",
+    "clubId": 32,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "108",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      13,
+      24,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      20
+    ],
+    "rolesPlus": [
+      32,
+      41,
+      121,
+      131,
+      133,
+      143
+    ],
+    "rolesPlusPlus": [
+      32,
+      41,
+      121,
+      131,
+      133,
+      143
+    ],
+    "attributes": [
+      84,
+      86,
+      88,
+      89,
+      75,
+      78
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 35500,
+    "price": 0,
+    "resourceId": 50541972,
+    "assetId": 210324
   },
   "50542670": {
     "name": "Rubén García",
@@ -1279,7 +1337,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 27000,
+    "price": 24750,
     "resourceId": 50544459,
     "assetId": 212811
   },
@@ -1331,7 +1389,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 11000,
     "resourceId": 50546940,
     "assetId": 215292
   },
@@ -1389,7 +1447,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 32000,
+    "price": 29750,
     "resourceId": 50557950,
     "assetId": 226302
   },
@@ -1451,7 +1509,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 16000,
     "resourceId": 50558761,
     "assetId": 227113
   },
@@ -1514,9 +1572,69 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10750,
     "resourceId": 50558880,
     "assetId": 227232
+  },
+  "50559053": {
+    "name": "Sophie Schmidt",
+    "cardName": "Schmidt",
+    "originalVersionId": "108",
+    "clubId": 116306,
+    "leagueId": 2221,
+    "countryId": 70,
+    "versionId": "108",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      16,
+      17,
+      19,
+      24,
+      9
+    ],
+    "playStylesPlus": [
+      10
+    ],
+    "rolesPlus": [
+      12,
+      16,
+      19,
+      113,
+      114,
+      115,
+      120
+    ],
+    "rolesPlusPlus": [
+      12,
+      16,
+      19,
+      113,
+      114,
+      115,
+      120
+    ],
+    "attributes": [
+      80,
+      81,
+      83,
+      86,
+      85,
+      82
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50559053,
+    "assetId": 227405
   },
   "50567242": {
     "name": "Shelina Zadorsky",
@@ -1623,7 +1741,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 11000,
     "resourceId": 50573419,
     "assetId": 241771
   },
@@ -1679,7 +1797,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 10750,
     "resourceId": 50598589,
     "assetId": 266941
   },
@@ -1743,7 +1861,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 14000,
     "resourceId": 50598849,
     "assetId": 267201
   },
@@ -1801,7 +1919,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 60000,
+    "price": 57500,
     "resourceId": 67318710,
     "assetId": 209846
   },
@@ -1926,7 +2044,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 535000,
+    "price": 485000,
     "resourceId": 84081944,
     "assetId": 195864
   },
@@ -1994,7 +2112,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 5711000,
+    "price": 4895000,
     "resourceId": 117598535,
     "assetId": 158023
   }

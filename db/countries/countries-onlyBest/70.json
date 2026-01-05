@@ -520,7 +520,7 @@
       41
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 79793,
     "assetId": 79793
   },
@@ -1025,7 +1025,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 1100,
+    "price": 750,
     "resourceId": 227383,
     "assetId": 227383
   },
@@ -1116,52 +1116,6 @@
     "price": 350,
     "resourceId": 227397,
     "assetId": 227397
-  },
-  "227405": {
-    "name": "Sophie Schmidt",
-    "cardName": "Schmidt",
-    "originalVersionId": "0",
-    "clubId": 116306,
-    "leagueId": 2221,
-    "countryId": 70,
-    "versionId": "2002",
-    "rating": 79,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CB",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      17,
-      19
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      14,
-      15,
-      20
-    ],
-    "rolesPlusPlus": [
-      14,
-      15,
-      20
-    ],
-    "attributes": [
-      44,
-      74,
-      75,
-      78,
-      77,
-      72
-    ],
-    "hasDynamicImage": false,
-    "price": 400,
-    "resourceId": 227405,
-    "assetId": 227405
   },
   "227847": {
     "name": "Manjrekar James",
@@ -1321,7 +1275,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 2900,
     "resourceId": 234396,
     "assetId": 234396
   },
@@ -1658,7 +1612,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 650,
     "resourceId": 242380,
     "assetId": 242380
   },
@@ -1786,7 +1740,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 1100,
+    "price": 650,
     "resourceId": 243574,
     "assetId": 243574
   },
@@ -1865,7 +1819,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 750,
     "resourceId": 243630,
     "assetId": 243630
   },
@@ -2199,7 +2153,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 750,
     "resourceId": 247724,
     "assetId": 247724
   },
@@ -2878,7 +2832,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 650,
     "resourceId": 260398,
     "assetId": 260398
   },
@@ -2995,7 +2949,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 200,
     "resourceId": 261687,
     "assetId": 261687
   },
@@ -3322,7 +3276,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 700,
     "resourceId": 266615,
     "assetId": 266615
   },
@@ -4350,7 +4304,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 700,
     "resourceId": 279008,
     "assetId": 279008
   },
@@ -4436,7 +4390,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 200,
     "resourceId": 50407865,
     "assetId": 76217
   },
@@ -4532,7 +4486,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 12750,
     "resourceId": 50559035,
     "assetId": 227387
   },
@@ -4580,9 +4534,69 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 14250,
     "resourceId": 50559040,
     "assetId": 227392
+  },
+  "50559053": {
+    "name": "Sophie Schmidt",
+    "cardName": "Schmidt",
+    "originalVersionId": "108",
+    "clubId": 116306,
+    "leagueId": 2221,
+    "countryId": 70,
+    "versionId": "108",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      16,
+      17,
+      19,
+      24,
+      9
+    ],
+    "playStylesPlus": [
+      10
+    ],
+    "rolesPlus": [
+      12,
+      16,
+      19,
+      113,
+      114,
+      115,
+      120
+    ],
+    "rolesPlusPlus": [
+      12,
+      16,
+      19,
+      113,
+      114,
+      115,
+      120
+    ],
+    "attributes": [
+      80,
+      81,
+      83,
+      86,
+      85,
+      82
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50559053,
+    "assetId": 227405
   },
   "50567242": {
     "name": "Shelina Zadorsky",
@@ -4821,7 +4835,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 29250,
+    "price": 42500,
     "resourceId": 50578448,
     "assetId": 246800
   },
@@ -5064,7 +5078,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 79000,
+    "sbcPrice": 84750,
     "resourceId": 50606184,
     "assetId": 274536
   },
@@ -5116,7 +5130,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 16750,
     "resourceId": 50608200,
     "assetId": 276552
   },
@@ -5155,7 +5169,7 @@
       55
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 50608337,
     "assetId": 276689
   },
@@ -5322,7 +5336,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 22250,
+    "price": 21000,
     "resourceId": 67354427,
     "assetId": 245563
   }
