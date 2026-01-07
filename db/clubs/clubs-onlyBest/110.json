@@ -119,44 +119,6 @@
       "resourceId": 75628,
       "assetId": 75628
     },
-    "77593": {
-      "name": "Mateus Mané",
-      "cardName": "Mateus Mané",
-      "originalVersionId": "0",
-      "clubId": 110,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "2000",
-      "rating": 60,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "RW",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "rolesPlusPlus": [
-        41
-      ],
-      "attributes": [
-        75,
-        59,
-        46,
-        59,
-        28,
-        61
-      ],
-      "hasDynamicImage": false,
-      "price": 2000,
-      "resourceId": 77593,
-      "assetId": 77593
-    },
     "198350": {
       "name": "Daniel Bentley",
       "cardName": "Bentley",
@@ -400,7 +362,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 350,
       "resourceId": 235432,
       "assetId": 235432
     },
@@ -442,7 +404,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 4200,
+      "price": 6600,
       "resourceId": 235456,
       "assetId": 235456
     },
@@ -774,7 +736,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 258575,
       "assetId": 258575
     },
@@ -984,7 +946,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 262937,
       "assetId": 262937
     },
@@ -1069,7 +1031,7 @@
         40
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 400,
       "resourceId": 274377,
       "assetId": 274377
     },
@@ -1116,6 +1078,59 @@
       "price": 1200,
       "resourceId": 279519,
       "assetId": 279519
+    },
+    "50409241": {
+      "name": "Mateus Mané",
+      "cardName": "Mateus Mané",
+      "originalVersionId": "3",
+      "clubId": 110,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        22,
+        24,
+        25,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        37,
+        132,
+        134,
+        143
+      ],
+      "rolesPlusPlus": [
+        37,
+        132,
+        134,
+        143
+      ],
+      "attributes": [
+        89,
+        87,
+        78,
+        86,
+        55,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 40000,
+      "resourceId": 50409241,
+      "assetId": 77593
     },
     "50567104": {
       "name": "Jean-Ricner Bellegarde",
@@ -1197,7 +1212,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 50590559,
       "assetId": 258911
     },

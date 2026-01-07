@@ -1,6 +1,59 @@
 {
   "clubName": "Aston Villa",
   "players": {
+    "50542529": {
+      "name": "John McGinn",
+      "cardName": "McGinn",
+      "originalVersionId": "3",
+      "clubId": 2,
+      "leagueId": 13,
+      "countryId": 42,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        24,
+        26,
+        29,
+        6
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        24,
+        34,
+        123,
+        128
+      ],
+      "rolesPlusPlus": [
+        24,
+        34,
+        123,
+        128
+      ],
+      "attributes": [
+        88,
+        82,
+        83,
+        85,
+        81,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50542529,
+      "assetId": 210881
+    },
     "50553345": {
       "name": "Ollie Watkins",
       "cardName": "Watkins",
@@ -44,7 +97,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 13250,
+      "price": 14750,
       "resourceId": 50553345,
       "assetId": 221697
     },
@@ -92,7 +145,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 18000,
       "resourceId": 50557810,
       "assetId": 226162
     },
@@ -183,7 +236,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 14500,
+      "price": 15000,
       "resourceId": 50559326,
       "assetId": 227678
     },
@@ -236,7 +289,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 111000,
+      "price": 107000,
       "resourceId": 50580113,
       "assetId": 248465
     },
@@ -299,7 +352,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 27500,
       "resourceId": 67369111,
       "assetId": 260247
     }

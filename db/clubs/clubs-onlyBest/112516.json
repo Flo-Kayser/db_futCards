@@ -34,7 +34,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 71515,
       "assetId": 71515
     },
@@ -72,7 +72,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 72169,
       "assetId": 72169
     },
@@ -112,7 +112,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 78986,
       "assetId": 78986
     },
@@ -150,7 +150,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 78989,
       "assetId": 78989
     },
@@ -189,7 +189,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 78990,
       "assetId": 78990
     },
@@ -266,7 +266,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 212267,
       "assetId": 212267
     },
@@ -343,7 +343,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 229327,
       "assetId": 229327
     },
@@ -386,7 +386,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 850,
       "resourceId": 234935,
       "assetId": 234935
     },
@@ -429,7 +429,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 239875,
       "assetId": 239875
     },
@@ -466,7 +466,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 256449,
       "assetId": 256449
     },
@@ -504,7 +504,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 257293,
       "assetId": 257293
     },
@@ -544,7 +544,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 258468,
       "assetId": 258468
     },
@@ -581,7 +581,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 259317,
       "assetId": 259317
     },
@@ -623,7 +623,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 261032,
       "assetId": 261032
     },
@@ -662,47 +662,9 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 800,
       "resourceId": 268010,
       "assetId": 268010
-    },
-    "269099": {
-      "name": "Emmanuel Maviram",
-      "cardName": "Maviram",
-      "originalVersionId": "0",
-      "clubId": 112516,
-      "leagueId": 308,
-      "countryId": 133,
-      "versionId": "2001",
-      "rating": 66,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        7
-      ],
-      "rolesPlusPlus": [
-        7
-      ],
-      "attributes": [
-        71,
-        32,
-        49,
-        62,
-        63,
-        66
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 269099,
-      "assetId": 269099
     },
     "277645": {
       "name": "Afonso Rodrigues",
@@ -739,7 +701,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 1500,
       "resourceId": 277645,
       "assetId": 277645
     },
@@ -821,9 +783,58 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 50559206,
       "assetId": 227558
+    },
+    "50600747": {
+      "name": "Emmanuel Maviram",
+      "cardName": "Maviram",
+      "originalVersionId": "3",
+      "clubId": 112516,
+      "leagueId": 308,
+      "countryId": 133,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        14,
+        21,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        3
+      ],
+      "rolesPlus": [
+        27,
+        107,
+        109
+      ],
+      "rolesPlusPlus": [
+        27,
+        107,
+        109
+      ],
+      "attributes": [
+        90,
+        50,
+        69,
+        80,
+        82,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 15000,
+      "resourceId": 50600747,
+      "assetId": 269099
     }
   }
 }

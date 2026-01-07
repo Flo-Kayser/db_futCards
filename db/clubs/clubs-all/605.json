@@ -81,7 +81,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 700,
       "resourceId": 78872,
       "assetId": 78872
     },
@@ -128,7 +128,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 201024,
       "assetId": 201024
     },
@@ -169,7 +169,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 209981,
       "assetId": 209981
     },
@@ -220,7 +220,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 210514,
       "assetId": 210514
     },
@@ -268,7 +268,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 210602,
       "assetId": 210602
     },
@@ -408,7 +408,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 900,
       "resourceId": 222737,
       "assetId": 222737
     },
@@ -457,7 +457,7 @@
         88
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 223848,
       "assetId": 223848
     },
@@ -506,7 +506,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 950,
       "resourceId": 224293,
       "assetId": 224293
     },
@@ -639,7 +639,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1100,
       "resourceId": 230713,
       "assetId": 230713
     },
@@ -686,7 +686,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 19000,
+      "price": 18500,
       "resourceId": 232656,
       "assetId": 232656
     },
@@ -774,7 +774,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 1300,
       "resourceId": 242223,
       "assetId": 242223
     },
@@ -857,7 +857,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 245276,
       "assetId": 245276
     },
@@ -979,7 +979,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 6000,
+      "price": 6100,
       "resourceId": 251573,
       "assetId": 251573
     },
@@ -1020,7 +1020,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 253072,
       "assetId": 253072
     },
@@ -1103,7 +1103,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 500,
       "resourceId": 261357,
       "assetId": 261357
     },
@@ -1148,7 +1148,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 265407,
       "assetId": 265407
     },
@@ -1188,7 +1188,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 3700,
+      "price": 4900,
       "resourceId": 275570,
       "assetId": 275570
     },
@@ -1225,7 +1225,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 500,
       "resourceId": 277063,
       "assetId": 277063
     },
@@ -1367,7 +1367,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 40500,
+      "price": 40000,
       "resourceId": 50542162,
       "assetId": 210514
     },
@@ -1424,9 +1424,62 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 17500,
+      "price": 19250,
       "resourceId": 50554385,
       "assetId": 222737
+    },
+    "50555496": {
+      "name": "Sergej Milinković-Savić",
+      "cardName": "Milinković-Savić",
+      "originalVersionId": "3",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 51,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        19,
+        22,
+        3,
+        4,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        18,
+        116,
+        121
+      ],
+      "rolesPlusPlus": [
+        18,
+        116,
+        121
+      ],
+      "attributes": [
+        70,
+        83,
+        84,
+        83,
+        81,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50555496,
+      "assetId": 223848
     },
     "50555941": {
       "name": "Rúben Neves",
@@ -1475,7 +1528,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 14750,
+      "price": 15250,
       "resourceId": 50555941,
       "assetId": 224293
     },
@@ -1499,6 +1552,7 @@
       "playStyles": [
         14,
         15,
+        16,
         17,
         21,
         25,
@@ -1508,20 +1562,26 @@
         28
       ],
       "rolesPlus": [
-        7,
-        8,
-        29,
+        107,
+        108,
         109,
         110,
-        127
+        127,
+        128,
+        129,
+        130,
+        147
       ],
       "rolesPlusPlus": [
-        7,
-        8,
-        29,
+        107,
+        108,
         109,
         110,
-        127
+        127,
+        128,
+        129,
+        130,
+        147
       ],
       "attributes": [
         92,
@@ -1532,7 +1592,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 392000,
+      "price": 402000,
       "resourceId": 50564304,
       "assetId": 232656
     },
@@ -1580,7 +1640,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 102000,
+      "price": 111000,
       "resourceId": 50584720,
       "assetId": 253072
     },
@@ -1617,7 +1677,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 650,
       "resourceId": 50606965,
       "assetId": 275317
     },
@@ -1706,7 +1766,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 50610648,
       "assetId": 279000
     },
@@ -1786,7 +1846,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 15750,
       "resourceId": 67333157,
       "assetId": 224293
     }

@@ -34,7 +34,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 74883,
       "assetId": 74883
     },
@@ -71,7 +71,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 800,
       "resourceId": 77093,
       "assetId": 77093
     },
@@ -147,7 +147,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 550,
       "resourceId": 78145,
       "assetId": 78145
     },
@@ -184,7 +184,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 3000,
       "resourceId": 80067,
       "assetId": 80067
     },
@@ -270,7 +270,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1100,
       "resourceId": 208364,
       "assetId": 208364
     },
@@ -355,7 +355,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 211256,
       "assetId": 211256
     },
@@ -405,7 +405,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 219683,
       "assetId": 219683
     },
@@ -788,7 +788,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 550,
       "resourceId": 256420,
       "assetId": 256420
     },
@@ -913,7 +913,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 263139,
       "assetId": 263139
     },
@@ -953,7 +953,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1400,
       "resourceId": 263815,
       "assetId": 263815
     },
@@ -1262,16 +1262,26 @@
       ],
       "playStylesPlus": [],
       "rolesPlus": [
-        9,
-        47,
         107,
-        128
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        147
       ],
       "rolesPlusPlus": [
-        9,
-        47,
         107,
-        128
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        147
       ],
       "attributes": [
         85,
@@ -1385,6 +1395,61 @@
       "resourceId": 50551741,
       "assetId": 220093
     },
+    "50578698": {
+      "name": "Pavel Šulc",
+      "cardName": "Šulc",
+      "originalVersionId": "3",
+      "clubId": 66,
+      "leagueId": 16,
+      "countryId": 12,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        22,
+        26,
+        7,
+        9
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        28,
+        121,
+        131,
+        141
+      ],
+      "rolesPlusPlus": [
+        28,
+        121,
+        131,
+        141
+      ],
+      "attributes": [
+        82,
+        86,
+        83,
+        87,
+        50,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50578698,
+      "assetId": 247050
+    },
     "50593750": {
       "name": "Ruben Kluivert",
       "cardName": "Kluivert",
@@ -1430,7 +1495,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 50593750,
       "assetId": 262102
     },
@@ -1523,7 +1588,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 10750,
+      "price": 11500,
       "resourceId": 50597107,
       "assetId": 265459
     }

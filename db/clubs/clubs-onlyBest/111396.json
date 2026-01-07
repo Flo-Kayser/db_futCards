@@ -1,45 +1,6 @@
 {
   "clubName": "Central Coast",
   "players": {
-    "70063": {
-      "name": "Bailey Brandtman",
-      "cardName": "Brandtman",
-      "originalVersionId": "0",
-      "clubId": 111396,
-      "leagueId": 351,
-      "countryId": 195,
-      "versionId": "2000",
-      "rating": 57,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "LM",
-        "RM",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "rolesPlusPlus": [
-        41
-      ],
-      "attributes": [
-        71,
-        56,
-        53,
-        59,
-        39,
-        59
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 70063,
-      "assetId": 70063
-    },
     "73096": {
       "name": "Haine Eames",
       "cardName": "Eames",
@@ -694,6 +655,57 @@
       "price": 200,
       "resourceId": 277571,
       "assetId": 277571
+    },
+    "50401711": {
+      "name": "Bailey Brandtman",
+      "cardName": "Brandtman",
+      "originalVersionId": "3",
+      "clubId": 111396,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        12,
+        21,
+        26,
+        7
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        41,
+        126,
+        136
+      ],
+      "rolesPlusPlus": [
+        41,
+        126,
+        136
+      ],
+      "attributes": [
+        91,
+        84,
+        81,
+        86,
+        66,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 15000,
+      "resourceId": 50401711,
+      "assetId": 70063
     }
   }
 }

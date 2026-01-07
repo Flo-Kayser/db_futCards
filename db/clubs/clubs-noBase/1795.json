@@ -1,6 +1,62 @@
 {
   "clubName": "Watford",
   "players": {
+    "50532169": {
+      "name": "Tom Ince",
+      "cardName": "Ince",
+      "originalVersionId": "3",
+      "clubId": 1795,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        20,
+        25
+      ],
+      "playStylesPlus": [
+        2
+      ],
+      "rolesPlus": [
+        18,
+        23,
+        35,
+        127,
+        138
+      ],
+      "rolesPlusPlus": [
+        18,
+        23,
+        35,
+        127,
+        138
+      ],
+      "attributes": [
+        87,
+        84,
+        86,
+        88,
+        72,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 16000,
+      "resourceId": 50532169,
+      "assetId": 200521
+    },
     "50574442": {
       "name": "Imrân Louza",
       "cardName": "Louza",
@@ -49,7 +105,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 13250,
+      "price": 15000,
       "resourceId": 50574442,
       "assetId": 242794
     }
