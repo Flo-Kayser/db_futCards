@@ -4,7 +4,7 @@
     "leagueId": 350,
     "countryId": 60,
     "versionId": 34,
-    "rating": 88,
+    "rating": 89,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -32,19 +32,115 @@
       142
     ],
     "attributes": [
-      91,
-      87,
-      81,
-      84,
-      56,
-      85
+      92,
+      88,
+      82,
+      85,
+      57,
+      86
     ],
     "hasDynamicImage": true,
-    "price": 111000,
+    "price": 89500,
     "resourceId": 50584720,
     "assetId": 253072,
     "cardName": "Núñez",
     "name": "Darwin Núñez"
+  },
+  {
+    "clubId": 65,
+    "leagueId": 16,
+    "countryId": 18,
+    "versionId": 34,
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      19,
+      29,
+      4,
+      7
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      42,
+      141,
+      144
+    ],
+    "rolesPlusPlus": [
+      42,
+      141,
+      144
+    ],
+    "attributes": [
+      84,
+      88,
+      81,
+      84,
+      49,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 73000,
+    "resourceId": 50510157,
+    "assetId": 178509,
+    "cardName": "Giroud",
+    "name": "Olivier Giroud"
+  },
+  {
+    "clubId": 115841,
+    "leagueId": 31,
+    "countryId": 38,
+    "versionId": 34,
+    "rating": 87,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      12,
+      17,
+      21,
+      25,
+      27
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      28,
+      29,
+      109,
+      110
+    ],
+    "rolesPlusPlus": [
+      28,
+      29,
+      109,
+      110
+    ],
+    "attributes": [
+      91,
+      79,
+      81,
+      84,
+      84,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 96000,
+    "resourceId": 50583178,
+    "assetId": 251530,
+    "cardName": "Nuno Tavares",
+    "name": "Nuno Tavares"
   },
   {
     "clubId": 13,
@@ -93,7 +189,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 379000,
+    "price": 640000,
     "resourceId": 50572744,
     "assetId": 241096,
     "cardName": "Tonali",
@@ -150,7 +246,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 155000,
+    "price": 117000,
     "resourceId": 67377302,
     "assetId": 268438,
     "cardName": "Garnacho",
@@ -243,7 +339,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 26250,
+    "price": 26000,
     "resourceId": 50539510,
     "assetId": 207862,
     "cardName": "Ginter",
@@ -295,58 +391,11 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 216000,
+    "price": 204000,
     "resourceId": 50553979,
     "assetId": 222331,
     "cardName": "Klostermann",
     "name": "Lukas Klostermann"
-  },
-  {
-    "clubId": 65,
-    "leagueId": 16,
-    "countryId": 18,
-    "versionId": 34,
-    "rating": 87,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      19,
-      29,
-      4,
-      7
-    ],
-    "playStylesPlus": [
-      0
-    ],
-    "rolesPlus": [
-      42,
-      141,
-      144
-    ],
-    "rolesPlusPlus": [
-      42,
-      141,
-      144
-    ],
-    "attributes": [
-      83,
-      87,
-      80,
-      83,
-      48,
-      86
-    ],
-    "hasDynamicImage": true,
-    "price": 78500,
-    "resourceId": 50510157,
-    "assetId": 178509,
-    "cardName": "Giroud",
-    "name": "Olivier Giroud"
   },
   {
     "clubId": 73,
@@ -394,7 +443,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 46250,
+    "price": 45000,
     "resourceId": 50557919,
     "assetId": 226271,
     "cardName": "Fabián Ruiz",
@@ -447,11 +496,61 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 175000,
+    "price": 141000,
     "resourceId": 50522461,
     "assetId": 190813,
     "cardName": "El Shaarawy",
     "name": "Stephan El Shaarawy"
+  },
+  {
+    "clubId": 8,
+    "leagueId": 13,
+    "countryId": 50,
+    "versionId": 34,
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      21,
+      26,
+      7
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      26,
+      36,
+      123,
+      135
+    ],
+    "rolesPlusPlus": [
+      26,
+      36,
+      123,
+      135
+    ],
+    "attributes": [
+      96,
+      81,
+      81,
+      83,
+      59,
+      76
+    ],
+    "hasDynamicImage": true,
+    "price": 130000,
+    "resourceId": 50563752,
+    "assetId": 232104,
+    "cardName": "James",
+    "name": "Daniel James"
   },
   {
     "clubId": 112096,
@@ -500,7 +599,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 16500,
+    "price": 17500,
     "resourceId": 50512939,
     "assetId": 181291,
     "cardName": "Wijnaldum",
@@ -545,7 +644,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 12250,
     "resourceId": 50560631,
     "assetId": 228983,
     "cardName": "Caufriez",
@@ -599,60 +698,11 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 26750,
+    "price": 25500,
     "resourceId": 50577640,
     "assetId": 245992,
     "cardName": "Gilmour",
     "name": "Billy Gilmour"
-  },
-  {
-    "clubId": 115841,
-    "leagueId": 31,
-    "countryId": 38,
-    "versionId": 34,
-    "rating": 86,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LB",
-    "possiblePositions": [
-      "LB",
-      "LM"
-    ],
-    "playStyles": [
-      12,
-      17,
-      21,
-      25,
-      27
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      28,
-      29,
-      109,
-      110
-    ],
-    "rolesPlusPlus": [
-      28,
-      29,
-      109,
-      110
-    ],
-    "attributes": [
-      90,
-      78,
-      80,
-      83,
-      83,
-      81
-    ],
-    "hasDynamicImage": true,
-    "price": 109000,
-    "resourceId": 50583178,
-    "assetId": 251530,
-    "cardName": "Nuno Tavares",
-    "name": "Nuno Tavares"
   },
   {
     "clubId": 9,
@@ -704,61 +754,11 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 109000,
+    "price": 89000,
     "resourceId": 50567453,
     "assetId": 235805,
     "cardName": "Chiesa",
     "name": "Federico Chiesa"
-  },
-  {
-    "clubId": 8,
-    "leagueId": 13,
-    "countryId": 50,
-    "versionId": 34,
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "RM",
-    "possiblePositions": [
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      12,
-      21,
-      26,
-      7
-    ],
-    "playStylesPlus": [
-      25
-    ],
-    "rolesPlus": [
-      26,
-      36,
-      123,
-      135
-    ],
-    "rolesPlusPlus": [
-      26,
-      36,
-      123,
-      135
-    ],
-    "attributes": [
-      95,
-      80,
-      80,
-      82,
-      58,
-      75
-    ],
-    "hasDynamicImage": true,
-    "price": 100000,
-    "resourceId": 50563752,
-    "assetId": 232104,
-    "cardName": "James",
-    "name": "Daniel James"
   },
   {
     "clubId": 112172,
@@ -808,7 +808,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 24250,
     "resourceId": 50543836,
     "assetId": 212188,
     "cardName": "Werner",
@@ -903,7 +903,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 14750,
     "resourceId": 50576859,
     "assetId": 245211,
     "cardName": "Teze",
@@ -957,7 +957,7 @@
       63
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 14500,
     "resourceId": 67365822,
     "assetId": 256958,
     "cardName": "Fábio Vieira",
@@ -1007,7 +1007,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 20500,
     "resourceId": 50582609,
     "assetId": 250961,
     "cardName": "Zirkzee",
@@ -1059,7 +1059,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13500,
     "resourceId": 50552524,
     "assetId": 220876,
     "cardName": "Honorat",
@@ -1105,7 +1105,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 14250,
     "resourceId": 50565438,
     "assetId": 233790,
     "cardName": "Thiago",
@@ -1156,7 +1156,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 11750,
     "resourceId": 50515217,
     "assetId": 183569,
     "cardName": "Choupo-Moting",
