@@ -413,7 +413,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 2000,
       "resourceId": 242596,
       "assetId": 242596
     },
@@ -534,7 +534,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 700,
       "resourceId": 245867,
       "assetId": 245867
     },
@@ -1110,7 +1110,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 15750,
+      "price": 15250,
       "resourceId": 50584944,
       "assetId": 253296
     },
@@ -1174,19 +1174,19 @@
       "resourceId": 50586853,
       "assetId": 255205
     },
-    "67298460": {
+    "84075676": {
       "name": "Thomas Müller",
       "cardName": "Müller",
-      "originalVersionId": "151",
+      "originalVersionId": "108",
       "clubId": 101112,
       "leagueId": 39,
       "countryId": 21,
-      "versionId": "151",
-      "rating": 86,
+      "versionId": "108",
+      "rating": 89,
       "preferredFoot": "Right",
       "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
+      "skillMoves": 4,
+      "preferredPosition": "RM",
       "possiblePositions": [
         "CAM",
         "RM",
@@ -1195,58 +1195,47 @@
       ],
       "playStyles": [
         0,
+        12,
+        13,
         2,
         24,
         4,
-        6,
         9
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        6
+      ],
       "rolesPlus": [
-        123,
-        124,
+        23,
+        24,
+        33,
+        35,
         125,
-        126,
-        131,
         132,
-        133,
-        134,
-        135,
-        136,
         137,
-        141,
-        142,
-        143,
-        144
+        143
       ],
       "rolesPlusPlus": [
-        123,
-        124,
+        23,
+        24,
+        33,
+        35,
         125,
-        126,
-        131,
         132,
-        133,
-        134,
-        135,
-        136,
         137,
-        141,
-        142,
-        143,
-        144
+        143
       ],
       "attributes": [
-        83,
         87,
-        86,
-        86,
-        60,
-        75
+        90,
+        90,
+        89,
+        64,
+        80
       ],
       "hasDynamicImage": true,
-      "price": 19250,
-      "resourceId": 67298460,
+      "price": 1697000,
+      "resourceId": 84075676,
       "assetId": 189596
     }
   }

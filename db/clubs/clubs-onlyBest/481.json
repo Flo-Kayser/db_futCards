@@ -128,7 +128,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 184432,
       "assetId": 184432
     },
@@ -508,7 +508,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 229752,
       "assetId": 229752
     },
@@ -692,7 +692,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 238050,
       "assetId": 238050
     },
@@ -1203,49 +1203,6 @@
       "resourceId": 275520,
       "assetId": 275520
     },
-    "50516589": {
-      "name": "Alexis Sánchez",
-      "cardName": "Sánchez",
-      "originalVersionId": "0",
-      "clubId": 481,
-      "leagueId": 53,
-      "countryId": 55,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        20,
-        22
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41,
-        43
-      ],
-      "rolesPlusPlus": [
-        41,
-        43
-      ],
-      "attributes": [
-        68,
-        78,
-        78,
-        81,
-        48,
-        59
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50516589,
-      "assetId": 184941
-    },
     "50575762": {
       "name": "Batista Mendy",
       "cardName": "Mendy",
@@ -1337,9 +1294,70 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 22500,
       "resourceId": 50595820,
       "assetId": 264172
+    },
+    "67293805": {
+      "name": "Alexis Sánchez",
+      "cardName": "Sánchez",
+      "originalVersionId": "108",
+      "clubId": 481,
+      "leagueId": 53,
+      "countryId": 55,
+      "versionId": "108",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        22,
+        23,
+        25,
+        26
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        27,
+        31,
+        38,
+        130,
+        132,
+        139,
+        143
+      ],
+      "rolesPlusPlus": [
+        27,
+        31,
+        38,
+        130,
+        132,
+        139,
+        143
+      ],
+      "attributes": [
+        89,
+        88,
+        88,
+        91,
+        60,
+        76
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 162500,
+      "resourceId": 67293805,
+      "assetId": 184941
     }
   }
 }

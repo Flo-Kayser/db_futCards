@@ -1004,49 +1004,6 @@
     "resourceId": 176930,
     "assetId": 176930
   },
-  "184941": {
-    "name": "Alexis Sánchez",
-    "cardName": "Sánchez",
-    "originalVersionId": "0",
-    "clubId": 55,
-    "leagueId": 31,
-    "countryId": 55,
-    "versionId": "2002",
-    "rating": 76,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "CAM",
-      "ST"
-    ],
-    "playStyles": [
-      20,
-      22
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      41,
-      43
-    ],
-    "rolesPlusPlus": [
-      41,
-      43
-    ],
-    "attributes": [
-      68,
-      78,
-      78,
-      81,
-      48,
-      59
-    ],
-    "hasDynamicImage": false,
-    "price": 0,
-    "resourceId": 184941,
-    "assetId": 184941
-  },
   "187800": {
     "name": "Mauricio Isla",
     "cardName": "Isla",
@@ -3156,7 +3113,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 750,
     "resourceId": 223249,
     "assetId": 223249
   },
@@ -3494,7 +3451,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 350,
     "resourceId": 228681,
     "assetId": 228681
   },
@@ -5559,7 +5516,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 261348,
     "assetId": 261348
   },
@@ -6527,7 +6484,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 51000,
+    "price": 48000,
     "resourceId": 50409435,
     "assetId": 77787
   },
@@ -6586,52 +6543,9 @@
       86
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 36500,
+    "sbcPrice": 35250,
     "resourceId": 50513520,
     "assetId": 181872
-  },
-  "50516589": {
-    "name": "Alexis Sánchez",
-    "cardName": "Sánchez",
-    "originalVersionId": "0",
-    "clubId": 481,
-    "leagueId": 53,
-    "countryId": 55,
-    "versionId": "2002",
-    "rating": 76,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "CAM",
-      "ST"
-    ],
-    "playStyles": [
-      20,
-      22
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      41,
-      43
-    ],
-    "rolesPlusPlus": [
-      41,
-      43
-    ],
-    "attributes": [
-      68,
-      78,
-      78,
-      81,
-      48,
-      59
-    ],
-    "hasDynamicImage": false,
-    "price": 350,
-    "resourceId": 50516589,
-    "assetId": 184941
   },
   "50565443": {
     "name": "Ben Brereton Díaz",
@@ -6727,7 +6641,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 24000,
     "resourceId": 50577604,
     "assetId": 245956
   },
@@ -6810,9 +6724,70 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 350,
     "resourceId": 50600044,
     "assetId": 268396
+  },
+  "67293805": {
+    "name": "Alexis Sánchez",
+    "cardName": "Sánchez",
+    "originalVersionId": "108",
+    "clubId": 481,
+    "leagueId": 53,
+    "countryId": 55,
+    "versionId": "108",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      22,
+      23,
+      25,
+      26
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      27,
+      31,
+      38,
+      130,
+      132,
+      139,
+      143
+    ],
+    "rolesPlusPlus": [
+      27,
+      31,
+      38,
+      130,
+      132,
+      139,
+      143
+    ],
+    "attributes": [
+      89,
+      88,
+      88,
+      91,
+      60,
+      76
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 162500,
+    "resourceId": 67293805,
+    "assetId": 184941
   },
   "67354826": {
     "name": "Karen Araya",

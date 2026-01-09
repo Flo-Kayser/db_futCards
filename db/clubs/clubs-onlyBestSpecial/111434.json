@@ -1,57 +1,6 @@
 {
   "clubName": "Cremonese",
   "players": {
-    "50540478": {
-      "name": "Jamie Vardy",
-      "cardName": "Vardy",
-      "originalVersionId": "114",
-      "clubId": 111434,
-      "leagueId": 31,
-      "countryId": 14,
-      "versionId": "114",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        1,
-        11,
-        22,
-        25,
-        6
-      ],
-      "playStylesPlus": [
-        2
-      ],
-      "rolesPlus": [
-        41,
-        43,
-        142,
-        144
-      ],
-      "rolesPlusPlus": [
-        41,
-        43,
-        142,
-        144
-      ],
-      "attributes": [
-        87,
-        87,
-        80,
-        85,
-        63,
-        80
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 58000,
-      "resourceId": 50540478,
-      "assetId": 208830
-    },
     "50600221": {
       "name": "Federico Baschirotto",
       "cardName": "Baschirotto",
@@ -93,9 +42,61 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 25500,
+      "price": 22250,
       "resourceId": 50600221,
       "assetId": 268573
+    },
+    "67317694": {
+      "name": "Jamie Vardy",
+      "cardName": "Vardy",
+      "originalVersionId": "108",
+      "clubId": 111434,
+      "leagueId": 31,
+      "countryId": 14,
+      "versionId": "108",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        11,
+        2,
+        22,
+        6
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        43,
+        44,
+        141,
+        142
+      ],
+      "rolesPlusPlus": [
+        43,
+        44,
+        141,
+        142
+      ],
+      "attributes": [
+        93,
+        90,
+        82,
+        87,
+        65,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 1900000,
+      "resourceId": 67317694,
+      "assetId": 208830
     }
   }
 }

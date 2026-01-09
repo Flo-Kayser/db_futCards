@@ -41,46 +41,6 @@
       "resourceId": 72180,
       "assetId": 72180
     },
-    "193080": {
-      "name": "De Gea",
-      "cardName": "De Gea",
-      "originalVersionId": "1",
-      "clubId": 110374,
-      "leagueId": 31,
-      "countryId": 45,
-      "versionId": "3002",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        30,
-        31
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        101
-      ],
-      "rolesPlusPlus": [
-        101
-      ],
-      "attributes": [
-        85,
-        78,
-        71,
-        87,
-        46,
-        84
-      ],
-      "hasDynamicImage": false,
-      "price": 4500,
-      "resourceId": 193080,
-      "assetId": 193080
-    },
     "206654": {
       "name": "Pablo Marí",
       "cardName": "Pablo Marí",
@@ -157,7 +117,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 250,
       "resourceId": 219584,
       "assetId": 219584
     },
@@ -511,7 +471,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 950,
       "resourceId": 238004,
       "assetId": 238004
     },
@@ -1108,6 +1068,54 @@
       "resourceId": 50512578,
       "assetId": 180930
     },
+    "50524728": {
+      "name": "De Gea",
+      "cardName": "De Gea",
+      "originalVersionId": "108",
+      "clubId": 110374,
+      "leagueId": 31,
+      "countryId": 45,
+      "versionId": "108",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        34,
+        35,
+        9
+      ],
+      "playStylesPlus": [
+        31
+      ],
+      "rolesPlus": [
+        2,
+        101,
+        145
+      ],
+      "rolesPlusPlus": [
+        2,
+        101,
+        145
+      ],
+      "attributes": [
+        89,
+        82,
+        76,
+        91,
+        51,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 250000,
+      "resourceId": 50524728,
+      "assetId": 193080
+    },
     "50568258": {
       "name": "Moise Kean",
       "cardName": "Kean",
@@ -1348,7 +1356,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 13000,
       "resourceId": 50608330,
       "assetId": 276682
     }

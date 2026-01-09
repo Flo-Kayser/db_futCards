@@ -40,7 +40,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 16000,
       "resourceId": 50536173,
       "assetId": 204525
     },
@@ -101,7 +101,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 55000,
+      "price": 56000,
       "resourceId": 50540370,
       "assetId": 208722
     },
@@ -159,59 +159,9 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 33500,
+      "price": 36000,
       "resourceId": 50544993,
       "assetId": 213345
-    },
-    "67129665": {
-      "name": "Cristiano Ronaldo",
-      "cardName": "Cristiano Ronaldo",
-      "originalVersionId": "28",
-      "clubId": 112139,
-      "leagueId": 350,
-      "countryId": 38,
-      "versionId": "28",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        19,
-        2,
-        23,
-        4,
-        5,
-        7
-      ],
-      "playStylesPlus": [
-        6
-      ],
-      "rolesPlus": [
-        41,
-        44,
-        142
-      ],
-      "rolesPlusPlus": [
-        41,
-        44,
-        142
-      ],
-      "attributes": [
-        83,
-        92,
-        80,
-        84,
-        38,
-        81
-      ],
-      "hasDynamicImage": true,
-      "price": 449000,
-      "resourceId": 67129665,
-      "assetId": 20801
     },
     "67351308": {
       "name": "João Félix",
@@ -285,9 +235,72 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 180000,
+      "price": 173000,
       "resourceId": 67351308,
       "assetId": 242444
+    },
+    "100684097": {
+      "name": "Cristiano Ronaldo",
+      "cardName": "Cristiano Ronaldo",
+      "originalVersionId": "108",
+      "clubId": 112139,
+      "leagueId": 350,
+      "countryId": 38,
+      "versionId": "108",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        19,
+        2,
+        23,
+        4,
+        5,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        27,
+        38,
+        43,
+        44,
+        130,
+        139,
+        141,
+        142
+      ],
+      "rolesPlusPlus": [
+        27,
+        38,
+        43,
+        44,
+        130,
+        139,
+        141,
+        142
+      ],
+      "attributes": [
+        90,
+        93,
+        81,
+        87,
+        40,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 15000000,
+      "resourceId": 100684097,
+      "assetId": 20801
     }
   }
 }

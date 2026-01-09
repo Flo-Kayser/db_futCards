@@ -1,6 +1,63 @@
 {
   "clubName": "Burnley",
   "players": {
+    "50520025": {
+      "name": "Kyle Walker",
+      "cardName": "Walker",
+      "originalVersionId": "108",
+      "clubId": 1796,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "108",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        14,
+        2,
+        21,
+        27,
+        29
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        3,
+        4,
+        24,
+        25,
+        105,
+        106,
+        123
+      ],
+      "rolesPlusPlus": [
+        3,
+        4,
+        24,
+        25,
+        105,
+        106,
+        123
+      ],
+      "attributes": [
+        90,
+        81,
+        85,
+        85,
+        88,
+        88
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50520025,
+      "assetId": 188377
+    },
     "50552055": {
       "name": "Martin Dúbravka",
       "cardName": "Dúbravka",
@@ -87,7 +144,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 19000,
       "resourceId": 50571021,
       "assetId": 239373
     }

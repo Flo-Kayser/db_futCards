@@ -39,54 +39,6 @@
       "resourceId": 72810,
       "assetId": 72810
     },
-    "233576": {
-      "name": "Mari José",
-      "cardName": "Mari José",
-      "originalVersionId": "1",
-      "clubId": 116332,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "3001",
-      "rating": 72,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        35,
-        38,
-        40,
-        42
-      ],
-      "rolesPlusPlus": [
-        35,
-        38,
-        40,
-        42
-      ],
-      "attributes": [
-        70,
-        75,
-        73,
-        73,
-        54,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 233576,
-      "assetId": 233576
-    },
     "269145": {
       "name": "Aleksandra Zaremba",
       "cardName": "Zaremba",
@@ -251,7 +203,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 272224,
       "assetId": 272224
     },
@@ -470,7 +422,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 272234,
       "assetId": 272234
     },
@@ -726,7 +678,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 276519,
       "assetId": 276519
     },
@@ -844,6 +796,68 @@
       "price": 200,
       "resourceId": 279189,
       "assetId": 279189
+    },
+    "50565224": {
+      "name": "Mari José",
+      "cardName": "Mari José",
+      "originalVersionId": "108",
+      "clubId": 116332,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "108",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        24,
+        6,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        29,
+        37,
+        40,
+        41,
+        127,
+        135,
+        138,
+        142
+      ],
+      "rolesPlusPlus": [
+        29,
+        37,
+        40,
+        41,
+        127,
+        135,
+        138,
+        142
+      ],
+      "attributes": [
+        85,
+        87,
+        86,
+        86,
+        70,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 15000,
+      "resourceId": 50565224,
+      "assetId": 233576
     }
   }
 }

@@ -108,7 +108,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 900,
       "resourceId": 75058,
       "assetId": 75058
     },
@@ -145,7 +145,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 200,
       "resourceId": 80611,
       "assetId": 80611
     },
@@ -1060,54 +1060,6 @@
       "resourceId": 50406706,
       "assetId": 75058
     },
-    "50544370": {
-      "name": "DeAndre Yedlin",
-      "cardName": "Yedlin",
-      "originalVersionId": "1",
-      "clubId": 111065,
-      "leagueId": 39,
-      "countryId": 95,
-      "versionId": "3001",
-      "rating": 71,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "CB",
-        "RB",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        15
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        4,
-        5,
-        23,
-        48
-      ],
-      "rolesPlusPlus": [
-        4,
-        5,
-        23,
-        48
-      ],
-      "attributes": [
-        85,
-        50,
-        60,
-        65,
-        66,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50544370,
-      "assetId": 212722
-    },
     "50602165": {
       "name": "Diego Luna",
       "cardName": "Luna",
@@ -1171,6 +1123,67 @@
       "price": 0,
       "resourceId": 50602165,
       "assetId": 270517
+    },
+    "67321586": {
+      "name": "DeAndre Yedlin",
+      "cardName": "Yedlin",
+      "originalVersionId": "108",
+      "clubId": 111065,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "108",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12,
+        15,
+        18,
+        21,
+        29
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        4,
+        25,
+        37,
+        105,
+        106,
+        123,
+        135,
+        148
+      ],
+      "rolesPlusPlus": [
+        4,
+        25,
+        37,
+        105,
+        106,
+        123,
+        135,
+        148
+      ],
+      "attributes": [
+        90,
+        80,
+        84,
+        85,
+        81,
+        84
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67321586,
+      "assetId": 212722
     }
   }
 }

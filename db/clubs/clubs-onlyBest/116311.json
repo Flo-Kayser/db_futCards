@@ -234,48 +234,6 @@
       "resourceId": 79564,
       "assetId": 79564
     },
-    "226316": {
-      "name": "Sydney Leroux",
-      "cardName": "Leroux",
-      "originalVersionId": "0",
-      "clubId": 116311,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "2002",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        19,
-        29
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42,
-        44
-      ],
-      "rolesPlusPlus": [
-        42,
-        44
-      ],
-      "attributes": [
-        75,
-        80,
-        78,
-        77,
-        44,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 226316,
-      "assetId": 226316
-    },
     "227109": {
       "name": "Alanna Kennedy",
       "cardName": "Kennedy",
@@ -542,7 +500,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 266384,
       "assetId": 266384
     },
@@ -662,7 +620,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 267367,
       "assetId": 267367
     },
@@ -704,7 +662,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 8000,
       "resourceId": 267370,
       "assetId": 267370
     },
@@ -994,6 +952,57 @@
       "price": 200,
       "resourceId": 50408743,
       "assetId": 77095
+    },
+    "50557964": {
+      "name": "Sydney Leroux",
+      "cardName": "Leroux",
+      "originalVersionId": "108",
+      "clubId": 116311,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "108",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        24,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        29
+      ],
+      "rolesPlus": [
+        43,
+        44,
+        141,
+        142
+      ],
+      "rolesPlusPlus": [
+        43,
+        44,
+        141,
+        142
+      ],
+      "attributes": [
+        87,
+        88,
+        85,
+        87,
+        51,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 37500,
+      "resourceId": 50557964,
+      "assetId": 226316
     },
     "50557975": {
       "name": "Christen Press",

@@ -60,7 +60,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 64500,
+    "price": 70000,
     "resourceId": 50470060,
     "assetId": 138412
   },
@@ -122,9 +122,116 @@
       80
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 35600,
+    "sbcPrice": 34350,
     "resourceId": 50484556,
     "assetId": 152908
+  },
+  "50490273": {
+    "name": "Dante",
+    "cardName": "Dante",
+    "originalVersionId": "108",
+    "clubId": 72,
+    "leagueId": 16,
+    "countryId": 54,
+    "versionId": "108",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      15,
+      17,
+      18,
+      19,
+      28
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      12,
+      48,
+      111,
+      113
+    ],
+    "rolesPlusPlus": [
+      12,
+      48,
+      111,
+      113
+    ],
+    "attributes": [
+      82,
+      60,
+      76,
+      81,
+      86,
+      84
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50490273,
+    "assetId": 158625
+  },
+  "50493995": {
+    "name": "João Moutinho",
+    "cardName": "João Moutinho",
+    "originalVersionId": "108",
+    "clubId": 1896,
+    "leagueId": 308,
+    "countryId": 38,
+    "versionId": "108",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      13,
+      17,
+      19,
+      7,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      11
+    ],
+    "rolesPlus": [
+      14,
+      15,
+      19,
+      116,
+      118,
+      120
+    ],
+    "rolesPlusPlus": [
+      14,
+      15,
+      19,
+      116,
+      118,
+      120
+    ],
+    "attributes": [
+      84,
+      80,
+      88,
+      88,
+      84,
+      83
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50493995,
+    "assetId": 162347
   },
   "50503439": {
     "name": "José Fonte",
@@ -174,7 +281,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11500,
     "resourceId": 50503439,
     "assetId": 171791
   },
@@ -229,7 +336,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 647000,
+    "price": 685000,
     "resourceId": 50508228,
     "assetId": 176580
   },
@@ -295,7 +402,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 97000,
+    "price": 106000,
     "resourceId": 50509736,
     "assetId": 178088
   },
@@ -354,9 +461,66 @@
       86
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 36500,
+    "sbcPrice": 35250,
     "resourceId": 50513520,
     "assetId": 181872
+  },
+  "50515042": {
+    "name": "Moussa Sissoko",
+    "cardName": "Sissoko",
+    "originalVersionId": "108",
+    "clubId": 1795,
+    "leagueId": 14,
+    "countryId": 18,
+    "versionId": "108",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      14,
+      16,
+      19,
+      24,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      29
+    ],
+    "rolesPlus": [
+      20,
+      21,
+      24,
+      118,
+      123,
+      135
+    ],
+    "rolesPlusPlus": [
+      20,
+      21,
+      24,
+      118,
+      123,
+      135
+    ],
+    "attributes": [
+      84,
+      80,
+      88,
+      86,
+      86,
+      90
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50515042,
+    "assetId": 183394
   },
   "50517838": {
     "name": "Patrick van Aanholt",
@@ -408,9 +572,57 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 17750,
     "resourceId": 50517838,
     "assetId": 186190
+  },
+  "50518217": {
+    "name": "Sven Ulreich",
+    "cardName": "Ulreich",
+    "originalVersionId": "108",
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "108",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      30,
+      31,
+      33,
+      9
+    ],
+    "playStylesPlus": [
+      32
+    ],
+    "rolesPlus": [
+      2,
+      101,
+      145
+    ],
+    "rolesPlusPlus": [
+      2,
+      101,
+      145
+    ],
+    "attributes": [
+      87,
+      83,
+      76,
+      88,
+      55,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 38000,
+    "resourceId": 50518217,
+    "assetId": 186569
   },
   "50519584": {
     "name": "Steven Nzonzi",
@@ -467,6 +679,64 @@
     "hasDynamicImage": true,
     "resourceId": 50519584,
     "assetId": 187936
+  },
+  "50519802": {
+    "name": "Lewis Holtby",
+    "cardName": "Holtby",
+    "originalVersionId": "108",
+    "clubId": 1904,
+    "leagueId": 10,
+    "countryId": 21,
+    "versionId": "108",
+    "rating": 86,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      13,
+      24,
+      26,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      11
+    ],
+    "rolesPlus": [
+      16,
+      20,
+      34,
+      115,
+      121,
+      131
+    ],
+    "rolesPlusPlus": [
+      16,
+      20,
+      34,
+      115,
+      121,
+      131
+    ],
+    "attributes": [
+      85,
+      81,
+      88,
+      86,
+      80,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 29000,
+    "resourceId": 50519802,
+    "assetId": 188154
   },
   "50519998": {
     "name": "Marco Reus",
@@ -532,9 +802,66 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 350000,
+    "price": 373000,
     "resourceId": 50519998,
     "assetId": 188350
+  },
+  "50520025": {
+    "name": "Kyle Walker",
+    "cardName": "Walker",
+    "originalVersionId": "108",
+    "clubId": 1796,
+    "leagueId": 13,
+    "countryId": 14,
+    "versionId": "108",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      14,
+      2,
+      21,
+      27,
+      29
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      3,
+      4,
+      24,
+      25,
+      105,
+      106,
+      123
+    ],
+    "rolesPlusPlus": [
+      3,
+      4,
+      24,
+      25,
+      105,
+      106,
+      123
+    ],
+    "attributes": [
+      90,
+      81,
+      85,
+      85,
+      88,
+      88
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50520025,
+    "assetId": 188377
   },
   "50520951": {
     "name": "Nélson Oliveira",
@@ -584,7 +911,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11000,
     "resourceId": 50520951,
     "assetId": 189303
   },
@@ -635,7 +962,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 23000,
+    "price": 22250,
     "resourceId": 50521529,
     "assetId": 189881
   },
@@ -685,10 +1012,69 @@
       51,
       86
     ],
-    "isObjective": true,
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 50522010,
     "assetId": 190362
+  },
+  "50522413": {
+    "name": "Pascal Groß",
+    "cardName": "Groß",
+    "originalVersionId": "108",
+    "clubId": 1808,
+    "leagueId": 13,
+    "countryId": 21,
+    "versionId": "108",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      12,
+      16,
+      24,
+      3
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      18,
+      34,
+      49,
+      116,
+      120,
+      121,
+      131
+    ],
+    "rolesPlusPlus": [
+      18,
+      34,
+      49,
+      116,
+      120,
+      121,
+      131
+    ],
+    "attributes": [
+      83,
+      84,
+      90,
+      87,
+      84,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 122000,
+    "resourceId": 50522413,
+    "assetId": 190765
   },
   "50522850": {
     "name": "Nemanja Matić",
@@ -742,9 +1128,75 @@
       83
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 54000,
+    "sbcPrice": 54750,
     "resourceId": 50522850,
     "assetId": 191202
+  },
+  "50523966": {
+    "name": "Mario Götze",
+    "cardName": "Götze",
+    "originalVersionId": "108",
+    "clubId": 1824,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "108",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "LW",
+      "RM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      13,
+      24,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      22
+    ],
+    "rolesPlus": [
+      17,
+      21,
+      23,
+      31,
+      38,
+      122,
+      125,
+      133,
+      140
+    ],
+    "rolesPlusPlus": [
+      17,
+      21,
+      23,
+      31,
+      38,
+      122,
+      125,
+      133,
+      140
+    ],
+    "attributes": [
+      87,
+      87,
+      88,
+      88,
+      70,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 190000,
+    "resourceId": 50523966,
+    "assetId": 192318
   },
   "50524096": {
     "name": "Marc-André ter Stegen",
@@ -791,9 +1243,114 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 77000,
+    "price": 79000,
     "resourceId": 50524096,
     "assetId": 192448
+  },
+  "50524639": {
+    "name": "Cenk Tosun",
+    "cardName": "Tosun",
+    "originalVersionId": "108",
+    "clubId": 326,
+    "leagueId": 68,
+    "countryId": 48,
+    "versionId": "108",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      4,
+      5,
+      7
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      27,
+      38,
+      42,
+      130,
+      139,
+      141
+    ],
+    "rolesPlusPlus": [
+      27,
+      38,
+      42,
+      130,
+      139,
+      141
+    ],
+    "attributes": [
+      84,
+      87,
+      81,
+      85,
+      50,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 16500,
+    "resourceId": 50524639,
+    "assetId": 192991
+  },
+  "50524728": {
+    "name": "De Gea",
+    "cardName": "De Gea",
+    "originalVersionId": "108",
+    "clubId": 110374,
+    "leagueId": 31,
+    "countryId": 45,
+    "versionId": "108",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      30,
+      34,
+      35,
+      9
+    ],
+    "playStylesPlus": [
+      31
+    ],
+    "rolesPlus": [
+      2,
+      101,
+      145
+    ],
+    "rolesPlusPlus": [
+      2,
+      101,
+      145
+    ],
+    "attributes": [
+      89,
+      82,
+      76,
+      91,
+      51,
+      88
+    ],
+    "hasDynamicImage": true,
+    "price": 250000,
+    "resourceId": 50524728,
+    "assetId": 193080
   },
   "50529613": {
     "name": "Pizzi",
@@ -861,6 +1418,56 @@
     "resourceId": 50529613,
     "assetId": 197965
   },
+  "50529789": {
+    "name": "Marc Bartra",
+    "cardName": "Marc Bartra",
+    "originalVersionId": "108",
+    "clubId": 449,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "108",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      15,
+      17,
+      18,
+      20
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      12,
+      48,
+      111,
+      113
+    ],
+    "rolesPlusPlus": [
+      12,
+      48,
+      111,
+      113
+    ],
+    "attributes": [
+      85,
+      70,
+      80,
+      81,
+      87,
+      85
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50529789,
+    "assetId": 198141
+  },
   "50530137": {
     "name": "James McClean",
     "cardName": "McClean",
@@ -923,6 +1530,63 @@
     "resourceId": 50530137,
     "assetId": 198489
   },
+  "50530799": {
+    "name": "Juan Iturbe",
+    "cardName": "Iturbe",
+    "originalVersionId": "108",
+    "clubId": 112716,
+    "leagueId": 1003,
+    "countryId": 58,
+    "versionId": "108",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      12,
+      20,
+      21,
+      25
+    ],
+    "playStylesPlus": [
+      7
+    ],
+    "rolesPlus": [
+      23,
+      35,
+      44,
+      126,
+      136,
+      143
+    ],
+    "rolesPlusPlus": [
+      23,
+      35,
+      44,
+      126,
+      136,
+      143
+    ],
+    "attributes": [
+      88,
+      83,
+      84,
+      84,
+      45,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 15750,
+    "resourceId": 50530799,
+    "assetId": 199151
+  },
   "50531151": {
     "name": "Granit Xhaka",
     "cardName": "Xhaka",
@@ -977,7 +1641,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 139000,
+    "price": 155000,
     "resourceId": 50531151,
     "assetId": 199503
   },
@@ -1039,9 +1703,122 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11000,
     "resourceId": 50531908,
     "assetId": 200260
+  },
+  "50535708": {
+    "name": "Tjaronn Chery",
+    "cardName": "Chery",
+    "originalVersionId": "108",
+    "clubId": 1910,
+    "leagueId": 10,
+    "countryId": 92,
+    "versionId": "108",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM"
+    ],
+    "playStyles": [
+      0,
+      2,
+      3,
+      6,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      20
+    ],
+    "rolesPlus": [
+      32,
+      33,
+      34,
+      121,
+      126,
+      131
+    ],
+    "rolesPlusPlus": [
+      32,
+      33,
+      34,
+      121,
+      126,
+      131
+    ],
+    "attributes": [
+      85,
+      86,
+      83,
+      85,
+      41,
+      84
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50535708,
+    "assetId": 204060
+  },
+  "50535753": {
+    "name": "Kenny Lala",
+    "cardName": "Lala",
+    "originalVersionId": "108",
+    "clubId": 378,
+    "leagueId": 16,
+    "countryId": 18,
+    "versionId": "108",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      10,
+      11,
+      12,
+      14,
+      25,
+      26
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      3,
+      24,
+      25,
+      105,
+      106,
+      123
+    ],
+    "rolesPlusPlus": [
+      3,
+      24,
+      25,
+      105,
+      106,
+      123
+    ],
+    "attributes": [
+      90,
+      75,
+      83,
+      84,
+      85,
+      86
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50535753,
+    "assetId": 204105
   },
   "50536145": {
     "name": "Kevin Stöger",
@@ -1155,9 +1932,66 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 338000,
+    "price": 340000,
     "resourceId": 50536611,
     "assetId": 204963
+  },
+  "50539783": {
+    "name": "Abdoulaye Doucouré",
+    "cardName": "Doucouré",
+    "originalVersionId": "108",
+    "clubId": 131798,
+    "leagueId": 350,
+    "countryId": 126,
+    "versionId": "108",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      17,
+      24,
+      26,
+      6
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      17,
+      21,
+      31,
+      118,
+      133,
+      149
+    ],
+    "rolesPlusPlus": [
+      17,
+      21,
+      31,
+      118,
+      133,
+      149
+    ],
+    "attributes": [
+      83,
+      84,
+      83,
+      84,
+      85,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 110000,
+    "resourceId": 50539783,
+    "assetId": 208135
   },
   "50540222": {
     "name": "Filip Kostić",
@@ -1217,7 +2051,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 23750,
+    "price": 24750,
     "resourceId": 50540222,
     "assetId": 208574
   },
@@ -1274,7 +2108,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 41500,
+    "sbcPrice": 40000,
     "price": 0,
     "resourceId": 50541972,
     "assetId": 210324
@@ -1342,6 +2176,66 @@
     "resourceId": 50542670,
     "assetId": 211022
   },
+  "50543915": {
+    "name": "Ivan Cavaleiro",
+    "cardName": "Ivan Cavaleiro",
+    "originalVersionId": "108",
+    "clubId": 112516,
+    "leagueId": 308,
+    "countryId": 38,
+    "versionId": "108",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      12,
+      21,
+      23,
+      26
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      29,
+      37,
+      40,
+      127,
+      132,
+      135,
+      138
+    ],
+    "rolesPlusPlus": [
+      29,
+      37,
+      40,
+      127,
+      132,
+      135,
+      138
+    ],
+    "attributes": [
+      87,
+      83,
+      83,
+      85,
+      52,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 12750,
+    "resourceId": 50543915,
+    "assetId": 212267
+  },
   "50544459": {
     "name": "Mario Lemina",
     "cardName": "Lemina",
@@ -1396,7 +2290,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 26250,
     "resourceId": 50544459,
     "assetId": 212811
   },
@@ -1506,9 +2400,118 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 30750,
+    "price": 27500,
     "resourceId": 50557950,
     "assetId": 226302
+  },
+  "50557964": {
+    "name": "Sydney Leroux",
+    "cardName": "Leroux",
+    "originalVersionId": "108",
+    "clubId": 116311,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "108",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      2,
+      24,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      29
+    ],
+    "rolesPlus": [
+      43,
+      44,
+      141,
+      142
+    ],
+    "rolesPlusPlus": [
+      43,
+      44,
+      141,
+      142
+    ],
+    "attributes": [
+      87,
+      88,
+      85,
+      87,
+      51,
+      88
+    ],
+    "hasDynamicImage": true,
+    "price": 37500,
+    "resourceId": 50557964,
+    "assetId": 226316
+  },
+  "50558749": {
+    "name": "Emilie Haavi",
+    "cardName": "Haavi",
+    "originalVersionId": "108",
+    "clubId": 116282,
+    "leagueId": 2236,
+    "countryId": 36,
+    "versionId": "108",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      12,
+      13,
+      22,
+      25,
+      7
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      29,
+      37,
+      40,
+      127,
+      135,
+      138
+    ],
+    "rolesPlusPlus": [
+      29,
+      37,
+      40,
+      127,
+      135,
+      138
+    ],
+    "attributes": [
+      93,
+      83,
+      85,
+      88,
+      70,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 29750,
+    "resourceId": 50558749,
+    "assetId": 227101
   },
   "50558761": {
     "name": "Emily van Egmond",
@@ -1568,7 +2571,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 14750,
     "resourceId": 50558761,
     "assetId": 227113
   },
@@ -1624,7 +2627,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 36000,
+    "sbcPrice": 35250,
     "price": 0,
     "resourceId": 50558839,
     "assetId": 227191
@@ -1692,6 +2695,57 @@
     "resourceId": 50558880,
     "assetId": 227232
   },
+  "50559005": {
+    "name": "Annaïg Butel",
+    "cardName": "Butel",
+    "originalVersionId": "108",
+    "clubId": 116036,
+    "leagueId": 2218,
+    "countryId": 18,
+    "versionId": "108",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      15,
+      16,
+      17,
+      18,
+      26
+    ],
+    "playStylesPlus": [
+      14
+    ],
+    "rolesPlus": [
+      12,
+      48,
+      111,
+      113
+    ],
+    "rolesPlusPlus": [
+      12,
+      48,
+      111,
+      113
+    ],
+    "attributes": [
+      83,
+      50,
+      75,
+      83,
+      86,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 35000,
+    "resourceId": 50559005,
+    "assetId": 227357
+  },
   "50559053": {
     "name": "Sophie Schmidt",
     "cardName": "Schmidt",
@@ -1751,6 +2805,68 @@
     "price": 0,
     "resourceId": 50559053,
     "assetId": 227405
+  },
+  "50565224": {
+    "name": "Mari José",
+    "cardName": "Mari José",
+    "originalVersionId": "108",
+    "clubId": 116332,
+    "leagueId": 2222,
+    "countryId": 45,
+    "versionId": "108",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      24,
+      6,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      29,
+      37,
+      40,
+      41,
+      127,
+      135,
+      138,
+      142
+    ],
+    "rolesPlusPlus": [
+      29,
+      37,
+      40,
+      41,
+      127,
+      135,
+      138,
+      142
+    ],
+    "attributes": [
+      85,
+      87,
+      86,
+      86,
+      70,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 15000,
+    "resourceId": 50565224,
+    "assetId": 233576
   },
   "50567242": {
     "name": "Shelina Zadorsky",
@@ -1861,6 +2977,215 @@
     "resourceId": 50573419,
     "assetId": 241771
   },
+  "50577539": {
+    "name": "Hayley Lauder",
+    "cardName": "Lauder",
+    "originalVersionId": "108",
+    "clubId": 131363,
+    "leagueId": 2233,
+    "countryId": 42,
+    "versionId": "108",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      14,
+      16,
+      20,
+      22,
+      26
+    ],
+    "playStylesPlus": [
+      24
+    ],
+    "rolesPlus": [
+      16,
+      20,
+      49,
+      114,
+      118,
+      119
+    ],
+    "rolesPlusPlus": [
+      16,
+      20,
+      49,
+      114,
+      118,
+      119
+    ],
+    "attributes": [
+      84,
+      80,
+      85,
+      85,
+      82,
+      80
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50577539,
+    "assetId": 245891
+  },
+  "50578779": {
+    "name": "Alfonso Espino",
+    "cardName": "Espino",
+    "originalVersionId": "108",
+    "clubId": 480,
+    "leagueId": 53,
+    "countryId": 60,
+    "versionId": "108",
+    "rating": 86,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB"
+    ],
+    "playStyles": [
+      14,
+      15,
+      16,
+      17,
+      22
+    ],
+    "playStylesPlus": [
+      28
+    ],
+    "rolesPlus": [
+      9,
+      47,
+      107,
+      108
+    ],
+    "rolesPlusPlus": [
+      9,
+      47,
+      107,
+      108
+    ],
+    "attributes": [
+      90,
+      72,
+      81,
+      82,
+      83,
+      87
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50578779,
+    "assetId": 247131
+  },
+  "50580363": {
+    "name": "Marina Hegering",
+    "cardName": "Hegering",
+    "originalVersionId": "108",
+    "clubId": 116003,
+    "leagueId": 2215,
+    "countryId": 21,
+    "versionId": "108",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      15,
+      16,
+      18,
+      19
+    ],
+    "playStylesPlus": [
+      17
+    ],
+    "rolesPlus": [
+      11,
+      12,
+      113,
+      148
+    ],
+    "rolesPlusPlus": [
+      11,
+      12,
+      113,
+      148
+    ],
+    "attributes": [
+      85,
+      70,
+      81,
+      84,
+      87,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 30000,
+    "resourceId": 50580363,
+    "assetId": 248715
+  },
+  "50596911": {
+    "name": "Rachel Williams",
+    "cardName": "Williams",
+    "originalVersionId": "108",
+    "clubId": 116012,
+    "leagueId": 2216,
+    "countryId": 14,
+    "versionId": "108",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      2,
+      20,
+      22,
+      7
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      43,
+      44,
+      141,
+      142
+    ],
+    "rolesPlusPlus": [
+      43,
+      44,
+      141,
+      142
+    ],
+    "attributes": [
+      87,
+      89,
+      80,
+      87,
+      60,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 234000,
+    "resourceId": 50596911,
+    "assetId": 265263
+  },
   "50598589": {
     "name": "Sofie Junge Pedersen",
     "cardName": "Pedersen",
@@ -1913,7 +3238,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11000,
     "resourceId": 50598589,
     "assetId": 266941
   },
@@ -1977,9 +3302,183 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 14000,
     "resourceId": 50598849,
     "assetId": 267201
+  },
+  "67293805": {
+    "name": "Alexis Sánchez",
+    "cardName": "Sánchez",
+    "originalVersionId": "108",
+    "clubId": 481,
+    "leagueId": 53,
+    "countryId": 55,
+    "versionId": "108",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      22,
+      23,
+      25,
+      26
+    ],
+    "playStylesPlus": [
+      21
+    ],
+    "rolesPlus": [
+      27,
+      31,
+      38,
+      130,
+      132,
+      139,
+      143
+    ],
+    "rolesPlusPlus": [
+      27,
+      31,
+      38,
+      130,
+      132,
+      139,
+      143
+    ],
+    "attributes": [
+      89,
+      88,
+      88,
+      91,
+      60,
+      76
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 162500,
+    "resourceId": 67293805,
+    "assetId": 184941
+  },
+  "67302611": {
+    "name": "Koke",
+    "cardName": "Koke",
+    "originalVersionId": "108",
+    "clubId": 240,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "108",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      10,
+      22,
+      24,
+      26,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      20
+    ],
+    "rolesPlus": [
+      15,
+      17,
+      20,
+      116,
+      118,
+      125,
+      137
+    ],
+    "rolesPlusPlus": [
+      15,
+      17,
+      20,
+      116,
+      118,
+      125,
+      137
+    ],
+    "attributes": [
+      83,
+      80,
+      90,
+      85,
+      84,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 400000,
+    "resourceId": 67302611,
+    "assetId": 193747
+  },
+  "67317694": {
+    "name": "Jamie Vardy",
+    "cardName": "Vardy",
+    "originalVersionId": "108",
+    "clubId": 111434,
+    "leagueId": 31,
+    "countryId": 14,
+    "versionId": "108",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      11,
+      2,
+      22,
+      6
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      43,
+      44,
+      141,
+      142
+    ],
+    "rolesPlusPlus": [
+      43,
+      44,
+      141,
+      142
+    ],
+    "attributes": [
+      93,
+      90,
+      82,
+      87,
+      65,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 1900000,
+    "resourceId": 67317694,
+    "assetId": 208830
   },
   "67318710": {
     "name": "Christian Günter",
@@ -2035,9 +3534,70 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 67000,
+    "price": 70000,
     "resourceId": 67318710,
     "assetId": 209846
+  },
+  "67321586": {
+    "name": "DeAndre Yedlin",
+    "cardName": "Yedlin",
+    "originalVersionId": "108",
+    "clubId": 111065,
+    "leagueId": 39,
+    "countryId": 95,
+    "versionId": "108",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CB",
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      15,
+      18,
+      21,
+      29
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      4,
+      25,
+      37,
+      105,
+      106,
+      123,
+      135,
+      148
+    ],
+    "rolesPlusPlus": [
+      4,
+      25,
+      37,
+      105,
+      106,
+      123,
+      135,
+      148
+    ],
+    "attributes": [
+      90,
+      80,
+      84,
+      85,
+      81,
+      84
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67321586,
+    "assetId": 212722
   },
   "67354826": {
     "name": "Karen Araya",
@@ -2098,6 +3658,70 @@
     "price": 10750,
     "resourceId": 67354826,
     "assetId": 245962
+  },
+  "84075676": {
+    "name": "Thomas Müller",
+    "cardName": "Müller",
+    "originalVersionId": "108",
+    "clubId": 101112,
+    "leagueId": 39,
+    "countryId": 21,
+    "versionId": "108",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      12,
+      13,
+      2,
+      24,
+      4,
+      9
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      23,
+      24,
+      33,
+      35,
+      125,
+      132,
+      137,
+      143
+    ],
+    "rolesPlusPlus": [
+      23,
+      24,
+      33,
+      35,
+      125,
+      132,
+      137,
+      143
+    ],
+    "attributes": [
+      87,
+      90,
+      90,
+      89,
+      64,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 1697000,
+    "resourceId": 84075676,
+    "assetId": 189596
   },
   "84081944": {
     "name": "Paul Pogba",
@@ -2160,9 +3784,185 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 511000,
+    "price": 505000,
     "resourceId": 84081944,
     "assetId": 195864
+  },
+  "84086225": {
+    "name": "Casemiro",
+    "cardName": "Casemiro",
+    "originalVersionId": "108",
+    "clubId": 11,
+    "leagueId": 13,
+    "countryId": 54,
+    "versionId": "108",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      15,
+      16,
+      18,
+      19,
+      29
+    ],
+    "playStylesPlus": [
+      28
+    ],
+    "rolesPlus": [
+      16,
+      20,
+      49,
+      114,
+      115,
+      119
+    ],
+    "rolesPlusPlus": [
+      16,
+      20,
+      49,
+      114,
+      115,
+      119
+    ],
+    "attributes": [
+      83,
+      84,
+      85,
+      85,
+      88,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 641000,
+    "resourceId": 84086225,
+    "assetId": 200145
+  },
+  "84116100": {
+    "name": "Pierre Lees-Melou",
+    "cardName": "Lees-Melou",
+    "originalVersionId": "108",
+    "clubId": 111817,
+    "leagueId": 16,
+    "countryId": 18,
+    "versionId": "108",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      14,
+      16,
+      26,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      10
+    ],
+    "rolesPlus": [
+      14,
+      19,
+      49,
+      116,
+      120,
+      121
+    ],
+    "rolesPlusPlus": [
+      14,
+      19,
+      49,
+      116,
+      120,
+      121
+    ],
+    "attributes": [
+      81,
+      82,
+      87,
+      87,
+      85,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 49000,
+    "resourceId": 84116100,
+    "assetId": 230020
+  },
+  "100684097": {
+    "name": "Cristiano Ronaldo",
+    "cardName": "Cristiano Ronaldo",
+    "originalVersionId": "108",
+    "clubId": 112139,
+    "leagueId": 350,
+    "countryId": 38,
+    "versionId": "108",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      19,
+      2,
+      23,
+      4,
+      5,
+      6,
+      7
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      27,
+      38,
+      43,
+      44,
+      130,
+      139,
+      141,
+      142
+    ],
+    "rolesPlusPlus": [
+      27,
+      38,
+      43,
+      44,
+      130,
+      139,
+      141,
+      142
+    ],
+    "attributes": [
+      90,
+      93,
+      81,
+      87,
+      40,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 15000000,
+    "resourceId": 100684097,
+    "assetId": 20801
   },
   "117598535": {
     "name": "Lionel Messi",
@@ -2228,7 +4028,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 5200000,
+    "price": 5800000,
     "resourceId": 117598535,
     "assetId": 158023
   }

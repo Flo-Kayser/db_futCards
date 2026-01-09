@@ -40,7 +40,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 200,
       "resourceId": 71181,
       "assetId": 71181
     },
@@ -77,52 +77,9 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 5100,
       "resourceId": 76250,
       "assetId": 76250
-    },
-    "183394": {
-      "name": "Moussa Sissoko",
-      "cardName": "Sissoko",
-      "originalVersionId": "1",
-      "clubId": 1795,
-      "leagueId": 14,
-      "countryId": 18,
-      "versionId": "3001",
-      "rating": 72,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CM",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        19
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        23
-      ],
-      "rolesPlusPlus": [
-        18,
-        23
-      ],
-      "attributes": [
-        51,
-        64,
-        72,
-        70,
-        70,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 183394,
-      "assetId": 183394
     },
     "198861": {
       "name": "Nampalys Mendy",
@@ -1171,6 +1128,63 @@
       "price": 200,
       "resourceId": 50402230,
       "assetId": 70582
+    },
+    "50515042": {
+      "name": "Moussa Sissoko",
+      "cardName": "Sissoko",
+      "originalVersionId": "108",
+      "clubId": 1795,
+      "leagueId": 14,
+      "countryId": 18,
+      "versionId": "108",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        14,
+        16,
+        19,
+        24,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        29
+      ],
+      "rolesPlus": [
+        20,
+        21,
+        24,
+        118,
+        123,
+        135
+      ],
+      "rolesPlusPlus": [
+        20,
+        21,
+        24,
+        118,
+        123,
+        135
+      ],
+      "attributes": [
+        84,
+        80,
+        88,
+        86,
+        86,
+        90
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50515042,
+      "assetId": 183394
     },
     "50532169": {
       "name": "Tom Ince",

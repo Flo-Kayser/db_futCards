@@ -304,44 +304,6 @@
     "resourceId": 245871,
     "assetId": 245871
   },
-  "245891": {
-    "name": "Hayley Lauder",
-    "cardName": "Lauder",
-    "originalVersionId": "0",
-    "clubId": 131363,
-    "leagueId": 2233,
-    "countryId": 42,
-    "versionId": "2001",
-    "rating": 72,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      18
-    ],
-    "rolesPlusPlus": [
-      18
-    ],
-    "attributes": [
-      71,
-      65,
-      72,
-      72,
-      68,
-      65
-    ],
-    "hasDynamicImage": false,
-    "price": 200,
-    "resourceId": 245891,
-    "assetId": 245891
-  },
   "246899": {
     "name": "Linda Motlhalo",
     "cardName": "Motlhalo",
@@ -693,5 +655,61 @@
     "price": 200,
     "resourceId": 275899,
     "assetId": 275899
+  },
+  "50577539": {
+    "name": "Hayley Lauder",
+    "cardName": "Lauder",
+    "originalVersionId": "108",
+    "clubId": 131363,
+    "leagueId": 2233,
+    "countryId": 42,
+    "versionId": "108",
+    "rating": 85,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      14,
+      16,
+      20,
+      22,
+      26
+    ],
+    "playStylesPlus": [
+      24
+    ],
+    "rolesPlus": [
+      16,
+      20,
+      49,
+      114,
+      118,
+      119
+    ],
+    "rolesPlusPlus": [
+      16,
+      20,
+      49,
+      114,
+      118,
+      119
+    ],
+    "attributes": [
+      84,
+      80,
+      85,
+      85,
+      82,
+      80
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50577539,
+    "assetId": 245891
   }
 }

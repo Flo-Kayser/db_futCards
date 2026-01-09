@@ -40,7 +40,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1800,
       "resourceId": 74462,
       "assetId": 74462
     },
@@ -78,7 +78,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 74463,
       "assetId": 74463
     },
@@ -117,7 +117,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 9500,
       "resourceId": 80674,
       "assetId": 80674
     },
@@ -202,7 +202,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 9600,
+      "price": 9900,
       "resourceId": 188545,
       "assetId": 188545
     },
@@ -341,7 +341,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 4200,
+      "price": 3800,
       "resourceId": 244260,
       "assetId": 244260
     },
@@ -481,7 +481,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 750,
       "resourceId": 253163,
       "assetId": 253163
     },
@@ -520,7 +520,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 259532,
       "assetId": 259532
     },
@@ -569,7 +569,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 750,
       "resourceId": 264240,
       "assetId": 264240
     },
@@ -705,7 +705,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 198000,
+      "price": 195000,
       "resourceId": 50520193,
       "assetId": 188545
     },
@@ -754,7 +754,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 77000,
+      "price": 79000,
       "resourceId": 50524096,
       "assetId": 192448
     },
@@ -810,7 +810,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 799000,
+      "price": 800000,
       "resourceId": 50560350,
       "assetId": 228702
     },
@@ -870,7 +870,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 430000,
+      "price": 434000,
       "resourceId": 50565067,
       "assetId": 233419
     },
@@ -924,7 +924,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 18500,
+      "price": 18000,
       "resourceId": 50573109,
       "assetId": 241461
     },
@@ -1058,7 +1058,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 368000,
+      "price": 385000,
       "resourceId": 50583502,
       "assetId": 251854
     },
@@ -1108,7 +1108,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 83000,
+      "price": 84000,
       "resourceId": 50595226,
       "assetId": 263578
     },
@@ -1154,7 +1154,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 26500,
       "resourceId": 50597248,
       "assetId": 265600
     },
@@ -1202,7 +1202,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 129000,
+      "price": 145000,
       "resourceId": 50609694,
       "assetId": 278046
     },
@@ -1253,7 +1253,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 206000,
+      "price": 235000,
       "resourceId": 67342283,
       "assetId": 233419
     },
@@ -1317,61 +1317,6 @@
       "resourceId": 67386043,
       "assetId": 277179
     },
-    "67386507": {
-      "name": "Lamine Yamal",
-      "cardName": "Lamine Yamal",
-      "originalVersionId": "86",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "86",
-      "rating": 90,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 5,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        13,
-        22,
-        23,
-        25,
-        8
-      ],
-      "playStylesPlus": [
-        20
-      ],
-      "rolesPlus": [
-        25,
-        36,
-        37,
-        126,
-        135
-      ],
-      "rolesPlusPlus": [
-        25,
-        36,
-        37,
-        126,
-        135
-      ],
-      "attributes": [
-        86,
-        82,
-        87,
-        91,
-        24,
-        54
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 308250,
-      "resourceId": 67386507,
-      "assetId": 277643
-    },
     "84117757": {
       "name": "Marcus Rashford",
       "cardName": "Rashford",
@@ -1426,7 +1371,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 1089000,
+      "price": 1150000,
       "resourceId": 84117757,
       "assetId": 231677
     },
@@ -1479,9 +1424,65 @@
         64
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 15250,
       "resourceId": 84163259,
       "assetId": 277179
+    },
+    "84163723": {
+      "name": "Lamine Yamal",
+      "cardName": "Lamine Yamal",
+      "originalVersionId": "86",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "86",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 5,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        13,
+        20,
+        22,
+        25,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        11
+      ],
+      "rolesPlus": [
+        23,
+        36,
+        37,
+        126,
+        135
+      ],
+      "rolesPlusPlus": [
+        23,
+        36,
+        37,
+        126,
+        135
+      ],
+      "attributes": [
+        87,
+        83,
+        88,
+        92,
+        25,
+        55
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 580250,
+      "resourceId": 84163723,
+      "assetId": 277643
     }
   }
 }

@@ -197,54 +197,6 @@
       "resourceId": 198145,
       "assetId": 198145
     },
-    "199151": {
-      "name": "Juan Iturbe",
-      "cardName": "Iturbe",
-      "originalVersionId": "0",
-      "clubId": 112716,
-      "leagueId": 1003,
-      "countryId": 58,
-      "versionId": "2001",
-      "rating": 71,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        21,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        26,
-        36,
-        43
-      ],
-      "rolesPlusPlus": [
-        23,
-        26,
-        36,
-        43
-      ],
-      "attributes": [
-        84,
-        65,
-        66,
-        73,
-        29,
-        55
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 199151,
-      "assetId": 199151
-    },
     "216055": {
       "name": "Federico Carrizo",
       "cardName": "Carrizo",
@@ -1120,7 +1072,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 5200,
+      "price": 5500,
       "resourceId": 275431,
       "assetId": 275431
     },
@@ -1165,6 +1117,63 @@
       "price": 200,
       "resourceId": 277786,
       "assetId": 277786
+    },
+    "50530799": {
+      "name": "Juan Iturbe",
+      "cardName": "Iturbe",
+      "originalVersionId": "108",
+      "clubId": 112716,
+      "leagueId": 1003,
+      "countryId": 58,
+      "versionId": "108",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        12,
+        20,
+        21,
+        25
+      ],
+      "playStylesPlus": [
+        7
+      ],
+      "rolesPlus": [
+        23,
+        35,
+        44,
+        126,
+        136,
+        143
+      ],
+      "rolesPlusPlus": [
+        23,
+        35,
+        44,
+        126,
+        136,
+        143
+      ],
+      "attributes": [
+        88,
+        83,
+        84,
+        84,
+        45,
+        78
+      ],
+      "hasDynamicImage": true,
+      "price": 15750,
+      "resourceId": 50530799,
+      "assetId": 199151
     }
   }
 }

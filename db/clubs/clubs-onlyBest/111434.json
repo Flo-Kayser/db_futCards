@@ -76,7 +76,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 74071,
       "assetId": 74071
     },
@@ -117,7 +117,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 74448,
       "assetId": 74448
     },
@@ -503,7 +503,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 223137,
       "assetId": 223137
     },
@@ -712,7 +712,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 233968,
       "assetId": 233968
     },
@@ -1088,7 +1088,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 268576,
       "assetId": 268576
     },
@@ -1247,57 +1247,6 @@
       "resourceId": 278331,
       "assetId": 278331
     },
-    "50540478": {
-      "name": "Jamie Vardy",
-      "cardName": "Vardy",
-      "originalVersionId": "114",
-      "clubId": 111434,
-      "leagueId": 31,
-      "countryId": 14,
-      "versionId": "114",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        1,
-        11,
-        22,
-        25,
-        6
-      ],
-      "playStylesPlus": [
-        2
-      ],
-      "rolesPlus": [
-        41,
-        43,
-        142,
-        144
-      ],
-      "rolesPlusPlus": [
-        41,
-        43,
-        142,
-        144
-      ],
-      "attributes": [
-        87,
-        87,
-        80,
-        85,
-        63,
-        80
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 58000,
-      "resourceId": 50540478,
-      "assetId": 208830
-    },
     "50588317": {
       "name": "Faris Pemi Moumbagna",
       "cardName": "Moumbagna",
@@ -1421,7 +1370,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 25500,
+      "price": 22250,
       "resourceId": 50600221,
       "assetId": 268573
     },
@@ -1460,9 +1409,61 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 50608766,
       "assetId": 277118
+    },
+    "67317694": {
+      "name": "Jamie Vardy",
+      "cardName": "Vardy",
+      "originalVersionId": "108",
+      "clubId": 111434,
+      "leagueId": 31,
+      "countryId": 14,
+      "versionId": "108",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        11,
+        2,
+        22,
+        6
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        43,
+        44,
+        141,
+        142
+      ],
+      "rolesPlusPlus": [
+        43,
+        44,
+        141,
+        142
+      ],
+      "attributes": [
+        93,
+        90,
+        82,
+        87,
+        65,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 1900000,
+      "resourceId": 67317694,
+      "assetId": 208830
     }
   }
 }
