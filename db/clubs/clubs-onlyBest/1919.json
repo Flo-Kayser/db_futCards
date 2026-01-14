@@ -40,7 +40,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 250,
       "resourceId": 70275,
       "assetId": 70275
     },
@@ -692,43 +692,6 @@
       "resourceId": 242800,
       "assetId": 242800
     },
-    "244296": {
-      "name": "Emil Riis",
-      "cardName": "Riis",
-      "originalVersionId": "1",
-      "clubId": 1919,
-      "leagueId": 14,
-      "countryId": 13,
-      "versionId": "3001",
-      "rating": 71,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42
-      ],
-      "rolesPlusPlus": [
-        42
-      ],
-      "attributes": [
-        73,
-        73,
-        54,
-        67,
-        28,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 244296,
-      "assetId": 244296
-    },
     "246847": {
       "name": "Mark Sykes",
       "cardName": "Sykes",
@@ -1318,6 +1281,53 @@
       "price": 350,
       "resourceId": 50573829,
       "assetId": 242181
+    },
+    "50575944": {
+      "name": "Emil Riis",
+      "cardName": "Riis",
+      "originalVersionId": "3",
+      "clubId": 1919,
+      "leagueId": 14,
+      "countryId": 13,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        24,
+        29,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        4
+      ],
+      "rolesPlus": [
+        142,
+        144
+      ],
+      "rolesPlusPlus": [
+        142,
+        144
+      ],
+      "attributes": [
+        86,
+        86,
+        71,
+        82,
+        41,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 18000,
+      "resourceId": 50575944,
+      "assetId": 244296
     }
   }
 }

@@ -154,7 +154,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1000,
       "resourceId": 227383,
       "assetId": 227383
     },
@@ -198,7 +198,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 241491,
       "assetId": 241491
     },
@@ -249,7 +249,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 4100,
       "resourceId": 245882,
       "assetId": 245882
     },
@@ -302,55 +302,6 @@
       "resourceId": 247461,
       "assetId": 247461
     },
-    "261733": {
-      "name": "Sandy Baltimore",
-      "cardName": "Baltimore",
-      "originalVersionId": "1",
-      "clubId": 116010,
-      "leagueId": 2216,
-      "countryId": 18,
-      "versionId": "3002",
-      "rating": 85,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LB",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        12,
-        13,
-        20,
-        25,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        30,
-        110,
-        127
-      ],
-      "rolesPlusPlus": [
-        30,
-        110,
-        127
-      ],
-      "attributes": [
-        87,
-        74,
-        84,
-        86,
-        72,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 3500,
-      "resourceId": 261733,
-      "assetId": 261733
-    },
     "263009": {
       "name": "Hannah Hampton",
       "cardName": "Hampton",
@@ -389,7 +340,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 2100,
       "resourceId": 263009,
       "assetId": 263009
     },
@@ -437,7 +388,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 264969,
       "assetId": 264969
     },
@@ -691,7 +642,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1100,
       "resourceId": 272001,
       "assetId": 272001
     },
@@ -914,6 +865,7 @@
       ],
       "playStyles": [
         21,
+        22,
         24,
         25,
         29,
@@ -944,7 +896,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 22750,
       "resourceId": 50558773,
       "assetId": 227125
     },
@@ -995,7 +947,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 62000,
+      "price": 65500,
       "resourceId": 50558894,
       "assetId": 227246
     },
@@ -1108,7 +1060,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 57500,
+      "price": 60000,
       "resourceId": 50569905,
       "assetId": 238257
     },
@@ -1154,7 +1106,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 16250,
       "resourceId": 50571678,
       "assetId": 240030
     },
@@ -1202,9 +1154,62 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 16250,
+      "price": 20000,
       "resourceId": 50574478,
       "assetId": 242830
+    },
+    "50593381": {
+      "name": "Sandy Baltimore",
+      "cardName": "Baltimore",
+      "originalVersionId": "3",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        20,
+        24,
+        25,
+        8
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        30,
+        39,
+        110,
+        127
+      ],
+      "rolesPlusPlus": [
+        30,
+        39,
+        110,
+        127
+      ],
+      "attributes": [
+        89,
+        78,
+        86,
+        88,
+        75,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50593381,
+      "assetId": 261733
     },
     "50593741": {
       "name": "Sjoeke Nüsken",
@@ -1320,7 +1325,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 16750,
+      "price": 15000,
       "resourceId": 50593978,
       "assetId": 262330
     },
@@ -1423,7 +1428,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 22000,
+      "price": 25500,
       "resourceId": 50599030,
       "assetId": 267382
     },
@@ -1478,7 +1483,7 @@
         61
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 12500,
       "resourceId": 50605168,
       "assetId": 273520
     },
@@ -1535,7 +1540,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 88000,
+      "price": 94500,
       "resourceId": 67336110,
       "assetId": 227246
     },
@@ -1594,7 +1599,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 86000,
+      "price": 84500,
       "resourceId": 67374113,
       "assetId": 265249
     },
@@ -1702,7 +1707,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 84000,
+      "price": 78500,
       "resourceId": 84151329,
       "assetId": 265249
     }

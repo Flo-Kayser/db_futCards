@@ -240,7 +240,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 14000,
       "resourceId": 50568869,
       "assetId": 237221
     },
@@ -316,10 +316,11 @@
         16,
         2,
         21,
-        25,
         26
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        25
+      ],
       "rolesPlus": [
         103,
         104,
@@ -357,7 +358,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 34000,
+      "price": 33000,
       "resourceId": 50578448,
       "assetId": 246800
     },
@@ -410,8 +411,61 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 16500,
+      "price": 16000,
       "resourceId": 50596036,
+      "assetId": 264388
+    },
+    "67373252": {
+      "name": "Moleiro",
+      "cardName": "Moleiro",
+      "originalVersionId": "3",
+      "clubId": 483,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        13,
+        20,
+        22,
+        25,
+        8
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        33,
+        39,
+        127,
+        129
+      ],
+      "rolesPlusPlus": [
+        33,
+        39,
+        127,
+        129
+      ],
+      "attributes": [
+        90,
+        81,
+        83,
+        89,
+        60,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 75000,
+      "resourceId": 67373252,
       "assetId": 264388
     }
   }

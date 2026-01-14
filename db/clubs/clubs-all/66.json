@@ -34,7 +34,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 74883,
       "assetId": 74883
     },
@@ -184,7 +184,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 2400,
       "resourceId": 80067,
       "assetId": 80067
     },
@@ -313,7 +313,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 400,
       "resourceId": 210372,
       "assetId": 210372
     },
@@ -652,7 +652,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 1500,
       "resourceId": 247050,
       "assetId": 247050
     },
@@ -913,7 +913,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 263139,
       "assetId": 263139
     },
@@ -995,7 +995,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1100,
       "resourceId": 265459,
       "assetId": 265459
     },
@@ -1344,7 +1344,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 11250,
       "resourceId": 50551331,
       "assetId": 219683
     },
@@ -1446,7 +1446,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 15250,
       "resourceId": 50578698,
       "assetId": 247050
     },
@@ -1495,7 +1495,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 12750,
       "resourceId": 50593750,
       "assetId": 262102
     },
@@ -1588,9 +1588,60 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 10750,
+      "price": 11000,
       "resourceId": 50597107,
       "assetId": 265459
+    },
+    "50608549": {
+      "name": "Afonso Moreira",
+      "cardName": "Afonso Moreira",
+      "originalVersionId": "3",
+      "clubId": 66,
+      "leagueId": 16,
+      "countryId": 38,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        13,
+        20,
+        21,
+        24,
+        3
+      ],
+      "playStylesPlus": [
+        12
+      ],
+      "rolesPlus": [
+        27,
+        128,
+        139
+      ],
+      "rolesPlusPlus": [
+        27,
+        128,
+        139
+      ],
+      "attributes": [
+        93,
+        78,
+        80,
+        88,
+        59,
+        73
+      ],
+      "hasDynamicImage": true,
+      "price": 15750,
+      "resourceId": 50608549,
+      "assetId": 276901
     }
   }
 }

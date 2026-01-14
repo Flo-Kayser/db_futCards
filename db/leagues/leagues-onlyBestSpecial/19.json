@@ -40,52 +40,9 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 78000,
+    "price": 84000,
     "resourceId": 5454,
     "assetId": 5454
-  },
-  "150418": {
-    "name": "Mario Gomez",
-    "cardName": "Gomez",
-    "originalVersionId": "72",
-    "clubId": 114605,
-    "leagueId": 19,
-    "countryId": 21,
-    "versionId": "72",
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      22,
-      4
-    ],
-    "playStylesPlus": [
-      29
-    ],
-    "rolesPlus": [
-      144
-    ],
-    "rolesPlusPlus": [
-      144
-    ],
-    "attributes": [
-      83,
-      90,
-      73,
-      82,
-      43,
-      83
-    ],
-    "hasDynamicImage": false,
-    "price": 17500,
-    "resourceId": 150418,
-    "assetId": 150418
   },
   "269603": {
     "name": "Włodzimierz Smolarek",
@@ -130,7 +87,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 42000,
+    "price": 46250,
     "resourceId": 269603,
     "assetId": 269603
   },
@@ -192,12 +149,12 @@
   "50360413": {
     "name": "Zé Roberto",
     "cardName": "Zé Roberto",
-    "originalVersionId": "81",
+    "originalVersionId": "80",
     "clubId": 114605,
     "leagueId": 19,
     "countryId": 54,
-    "versionId": "81",
-    "rating": 88,
+    "versionId": "80",
+    "rating": 90,
     "preferredFoot": "Left",
     "weakFoot": 3,
     "skillMoves": 5,
@@ -212,6 +169,7 @@
       13,
       20,
       22,
+      24,
       27,
       3
     ],
@@ -219,22 +177,28 @@
       26
     ],
     "rolesPlus": [
-      9,
+      10,
+      19,
+      28,
+      109,
       118,
       127
     ],
     "rolesPlusPlus": [
-      9,
+      10,
+      19,
+      28,
+      109,
       118,
       127
     ],
     "attributes": [
-      85,
-      78,
-      85,
-      85,
-      82,
-      84
+      87,
+      80,
+      87,
+      87,
+      84,
+      86
     ],
     "hasDynamicImage": true,
     "price": 0,
@@ -283,7 +247,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 16000,
+    "price": 18000,
     "resourceId": 50404726,
     "assetId": 73078
   },
@@ -331,19 +295,19 @@
       60
     ],
     "hasDynamicImage": true,
-    "price": 25500,
+    "price": 26500,
     "resourceId": 50409711,
     "assetId": 78063
   },
   "50482066": {
     "name": "Mario Gomez",
     "cardName": "Gomez",
-    "originalVersionId": "81",
+    "originalVersionId": "80",
     "clubId": 114605,
     "leagueId": 19,
     "countryId": 21,
-    "versionId": "81",
-    "rating": 88,
+    "versionId": "80",
+    "rating": 90,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 3,
@@ -356,26 +320,31 @@
       22,
       24,
       29,
-      4
+      4,
+      6
     ],
     "playStylesPlus": [
       2
     ],
     "rolesPlus": [
+      41,
+      43,
       142,
       144
     ],
     "rolesPlusPlus": [
+      41,
+      43,
       142,
       144
     ],
     "attributes": [
-      88,
-      89,
-      74,
-      84,
-      43,
-      84
+      90,
+      91,
+      76,
+      86,
+      45,
+      86
     ],
     "hasDynamicImage": true,
     "price": 0,
@@ -480,7 +449,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 34250,
+    "price": 35250,
     "resourceId": 50499143,
     "assetId": 167495
   },
@@ -528,7 +497,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 14750,
     "resourceId": 50518217,
     "assetId": 186569
   },
@@ -585,7 +554,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 31000,
     "resourceId": 50522108,
     "assetId": 190460
   },
@@ -651,7 +620,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 31500,
+    "price": 32000,
     "resourceId": 50523966,
     "assetId": 192318
   },
@@ -726,7 +695,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 10500,
+    "price": 11500,
     "resourceId": 50534077,
     "assetId": 202429
   },
@@ -831,7 +800,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 15750,
     "resourceId": 50536286,
     "assetId": 204638
   },
@@ -878,7 +847,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 26250,
     "resourceId": 50539510,
     "assetId": 207862
   },
@@ -935,7 +904,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 63000,
+    "sbcPrice": 65500,
     "resourceId": 50539981,
     "assetId": 208333
   },
@@ -1200,7 +1169,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 15500,
     "resourceId": 50543386,
     "assetId": 211738
   },
@@ -1306,7 +1275,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 28750,
     "resourceId": 50543836,
     "assetId": 212188
   },
@@ -1356,7 +1325,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 16250,
     "resourceId": 50543838,
     "assetId": 212190
   },
@@ -1383,6 +1352,7 @@
       20,
       22,
       3,
+      7,
       8
     ],
     "playStylesPlus": [
@@ -1419,7 +1389,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 18500,
     "resourceId": 50543842,
     "assetId": 212194
   },
@@ -1468,7 +1438,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 16000,
     "resourceId": 50543890,
     "assetId": 212242
   },
@@ -1544,7 +1514,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 135000,
+    "price": 113000,
     "resourceId": 50544270,
     "assetId": 212622
   },
@@ -1597,7 +1567,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 74000,
+    "price": 70500,
     "resourceId": 50544979,
     "assetId": 213331
   },
@@ -1650,7 +1620,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 12500,
     "resourceId": 50552524,
     "assetId": 220876
   },
@@ -1703,7 +1673,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 196000,
+    "price": 189000,
     "resourceId": 50553979,
     "assetId": 222331
   },
@@ -1759,6 +1729,61 @@
     "resourceId": 50555844,
     "assetId": 224196
   },
+  "50556489": {
+    "name": "Kevin Diks",
+    "cardName": "Diks",
+    "originalVersionId": "3",
+    "clubId": 23,
+    "leagueId": 19,
+    "countryId": 160,
+    "versionId": "3",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "LB",
+      "RB"
+    ],
+    "playStyles": [
+      10,
+      16,
+      19,
+      27,
+      4
+    ],
+    "playStylesPlus": [
+      15
+    ],
+    "rolesPlus": [
+      11,
+      46,
+      47,
+      103,
+      113
+    ],
+    "rolesPlusPlus": [
+      11,
+      46,
+      47,
+      103,
+      113
+    ],
+    "attributes": [
+      84,
+      71,
+      78,
+      80,
+      84,
+      89
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50556489,
+    "assetId": 224841
+  },
   "50557023": {
     "name": "Konrad Laimer",
     "cardName": "Laimer",
@@ -1805,7 +1830,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 19000,
     "resourceId": 50557023,
     "assetId": 225375
   },
@@ -1852,7 +1877,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 22750,
+    "price": 25000,
     "resourceId": 50557280,
     "assetId": 225632
   },
@@ -1895,7 +1920,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 19250,
     "resourceId": 50560031,
     "assetId": 228383
   },
@@ -2166,7 +2191,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 17500,
     "resourceId": 50568105,
     "assetId": 236457
   },
@@ -2293,7 +2318,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 15000,
     "resourceId": 50570124,
     "assetId": 238476
   },
@@ -2325,15 +2350,25 @@
     ],
     "playStylesPlus": [],
     "rolesPlus": [
-      5,
-      23,
       103,
+      104,
+      105,
+      106,
+      123,
+      124,
+      125,
+      126,
       146
     ],
     "rolesPlusPlus": [
-      5,
-      23,
       103,
+      104,
+      105,
+      106,
+      123,
+      124,
+      125,
+      126,
       146
     ],
     "attributes": [
@@ -2442,7 +2477,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 18250,
     "resourceId": 50575698,
     "assetId": 244050
   },
@@ -2489,7 +2524,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 16250,
     "resourceId": 50575824,
     "assetId": 244176
   },
@@ -2583,7 +2618,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 17000,
     "resourceId": 50578911,
     "assetId": 247263
   },
@@ -2635,7 +2670,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 31250,
+    "price": 31000,
     "resourceId": 50579467,
     "assetId": 247819
   },
@@ -2686,7 +2721,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 21750,
     "resourceId": 50582607,
     "assetId": 250959
   },
@@ -2740,7 +2775,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 78500,
+    "price": 79500,
     "resourceId": 50583500,
     "assetId": 251852
   },
@@ -2790,59 +2825,9 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 25750,
+    "price": 24000,
     "resourceId": 50583609,
     "assetId": 251961
-  },
-  "50584096": {
-    "name": "Jamie Leweling",
-    "cardName": "Leweling",
-    "originalVersionId": "3",
-    "clubId": 36,
-    "leagueId": 19,
-    "countryId": 21,
-    "versionId": "3",
-    "rating": 83,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      12,
-      2,
-      20,
-      21,
-      23
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      23,
-      36,
-      127
-    ],
-    "rolesPlusPlus": [
-      23,
-      36,
-      127
-    ],
-    "attributes": [
-      91,
-      81,
-      78,
-      86,
-      55,
-      81
-    ],
-    "hasDynamicImage": true,
-    "price": 18000,
-    "resourceId": 50584096,
-    "assetId": 252448
   },
   "50584143": {
     "name": "Jakub Kamiński",
@@ -2890,7 +2875,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 22750,
+    "price": 19500,
     "resourceId": 50584143,
     "assetId": 252495
   },
@@ -2942,7 +2927,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 24500,
+    "price": 26250,
     "resourceId": 50585765,
     "assetId": 254117
   },
@@ -3078,7 +3063,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 459000,
+    "price": 427000,
     "resourceId": 50588438,
     "assetId": 256790
   },
@@ -3133,7 +3118,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11250,
     "resourceId": 50588501,
     "assetId": 256853
   },
@@ -3203,7 +3188,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 11000,
     "resourceId": 50589524,
     "assetId": 257876
   },
@@ -3262,7 +3247,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 22750,
     "resourceId": 50590363,
     "assetId": 258715
   },
@@ -3439,7 +3424,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 12750,
     "resourceId": 50591364,
     "assetId": 259716
   },
@@ -3491,7 +3476,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 185000,
+    "price": 177000,
     "resourceId": 50593241,
     "assetId": 261593
   },
@@ -3817,7 +3802,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 37250,
+    "price": 43000,
     "resourceId": 50606677,
     "assetId": 275029
   },
@@ -3872,7 +3857,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 138000,
+    "price": 137000,
     "resourceId": 50606946,
     "assetId": 275298
   },
@@ -3924,7 +3909,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 16250,
     "resourceId": 67186876,
     "assetId": 78012
   },
@@ -4058,7 +4043,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 100000,
+    "price": 89000,
     "resourceId": 67318710,
     "assetId": 209846
   },
@@ -4170,7 +4155,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 27750,
+    "price": 28000,
     "resourceId": 67324305,
     "assetId": 215441
   },
@@ -4232,7 +4217,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 36000,
+    "price": 38500,
     "resourceId": 67345567,
     "assetId": 236703
   },
@@ -4285,7 +4270,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 97000,
+    "price": 106000,
     "resourceId": 67355727,
     "assetId": 246863
   },
@@ -4338,7 +4323,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 16750,
     "resourceId": 67359819,
     "assetId": 250955
   },
@@ -4387,6 +4372,57 @@
     "price": 16000,
     "resourceId": 67359823,
     "assetId": 250959
+  },
+  "67361312": {
+    "name": "Jamie Leweling",
+    "cardName": "Leweling",
+    "originalVersionId": "3",
+    "clubId": 36,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "3",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      12,
+      13,
+      20,
+      23,
+      25
+    ],
+    "playStylesPlus": [
+      22
+    ],
+    "rolesPlus": [
+      36,
+      123,
+      143
+    ],
+    "rolesPlusPlus": [
+      36,
+      123,
+      143
+    ],
+    "attributes": [
+      94,
+      84,
+      82,
+      89,
+      59,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 30750,
+    "resourceId": 67361312,
+    "assetId": 252448
   },
   "67365822": {
     "name": "Fábio Vieira",
@@ -4498,7 +4534,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 14500,
     "resourceId": 67374441,
     "assetId": 265577
   },
@@ -4664,7 +4700,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 12500,
     "resourceId": 84098082,
     "assetId": 212002
   },
@@ -4715,7 +4751,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 14250,
     "resourceId": 84120316,
     "assetId": 234236
   },
@@ -4773,7 +4809,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 133000,
+    "price": 123000,
     "resourceId": 84127164,
     "assetId": 241084
   },
@@ -4834,7 +4870,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 205000,
+    "price": 200000,
     "resourceId": 84133907,
     "assetId": 247827
   },
@@ -4883,7 +4919,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 22500,
+    "price": 22000,
     "resourceId": 84148943,
     "assetId": 262863
   },
@@ -4934,7 +4970,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 200000,
+    "price": 165000,
     "resourceId": 100865422,
     "assetId": 202126
   },
@@ -4981,7 +5017,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 59500,
+    "price": 58500,
     "resourceId": 117642638,
     "assetId": 202126
   },
@@ -5032,7 +5068,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 203000,
+    "sbcPrice": 202500,
     "price": 216150,
     "resourceId": 134419854,
     "assetId": 202126

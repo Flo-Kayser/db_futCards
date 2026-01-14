@@ -42,7 +42,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 750,
       "resourceId": 70651,
       "assetId": 70651
     },
@@ -81,7 +81,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 250,
       "resourceId": 78872,
       "assetId": 78872
     },
@@ -128,7 +128,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 201024,
       "assetId": 201024
     },
@@ -169,7 +169,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 209981,
       "assetId": 209981
     },
@@ -217,7 +217,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1500,
       "resourceId": 210602,
       "assetId": 210602
     },
@@ -438,7 +438,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 1000,
       "resourceId": 230713,
       "assetId": 230713
     },
@@ -526,7 +526,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1400,
       "resourceId": 242223,
       "assetId": 242223
     },
@@ -609,7 +609,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 4700,
+      "price": 600,
       "resourceId": 245276,
       "assetId": 245276
     },
@@ -652,7 +652,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 600,
       "resourceId": 245751,
       "assetId": 245751
     },
@@ -731,7 +731,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 6800,
+      "price": 5900,
       "resourceId": 251573,
       "assetId": 251573
     },
@@ -776,7 +776,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 350,
       "resourceId": 256331,
       "assetId": 256331
     },
@@ -814,7 +814,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 500,
       "resourceId": 261357,
       "assetId": 261357
     },
@@ -859,7 +859,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 265407,
       "assetId": 265407
     },
@@ -899,7 +899,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 4800,
+      "price": 4700,
       "resourceId": 275570,
       "assetId": 275570
     },
@@ -936,7 +936,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 550,
       "resourceId": 277063,
       "assetId": 277063
     },
@@ -974,7 +974,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 1600,
       "resourceId": 277487,
       "assetId": 277487
     },
@@ -1032,7 +1032,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 41250,
+      "price": 39500,
       "resourceId": 50542162,
       "assetId": 210514
     },
@@ -1089,7 +1089,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 27000,
       "resourceId": 50554385,
       "assetId": 222737
     },
@@ -1164,6 +1164,7 @@
         "LM"
       ],
       "playStyles": [
+        10,
         14,
         15,
         16,
@@ -1206,7 +1207,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 400000,
+      "price": 360000,
       "resourceId": 50564304,
       "assetId": 232656
     },
@@ -1254,7 +1255,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 97500,
+      "price": 88500,
       "resourceId": 50584720,
       "assetId": 253072
     },
@@ -1291,7 +1292,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 450,
       "resourceId": 50606965,
       "assetId": 275317
     },
@@ -1460,8 +1461,63 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 17750,
+      "price": 16500,
       "resourceId": 67333157,
+      "assetId": 224293
+    },
+    "84110373": {
+      "name": "Rúben Neves",
+      "cardName": "Rúben Neves",
+      "originalVersionId": "3",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 38,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        12,
+        13,
+        16,
+        19,
+        3
+      ],
+      "playStylesPlus": [
+        10
+      ],
+      "rolesPlus": [
+        13,
+        15,
+        21,
+        116,
+        120
+      ],
+      "rolesPlusPlus": [
+        13,
+        15,
+        21,
+        116,
+        120
+      ],
+      "attributes": [
+        78,
+        78,
+        90,
+        82,
+        83,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84110373,
       "assetId": 224293
     }
   }

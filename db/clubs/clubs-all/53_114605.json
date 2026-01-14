@@ -3,6 +3,115 @@
     "clubId": 114605,
     "leagueId": 53,
     "countryId": 45,
+    "versionId": "80",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      13,
+      20,
+      24,
+      9
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      18,
+      20,
+      22,
+      121,
+      131,
+      132
+    ],
+    "rolesPlusPlus": [
+      18,
+      20,
+      22,
+      121,
+      131,
+      132
+    ],
+    "attributes": [
+      82,
+      85,
+      92,
+      90,
+      66,
+      76
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50593933,
+    "assetId": 262285,
+    "name": "Guti",
+    "cardName": "Guti"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 53,
+    "countryId": 60,
+    "versionId": "80",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      2,
+      22,
+      24,
+      3
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      38,
+      42,
+      139,
+      141,
+      143
+    ],
+    "rolesPlusPlus": [
+      38,
+      42,
+      139,
+      141,
+      143
+    ],
+    "attributes": [
+      89,
+      91,
+      80,
+      86,
+      56,
+      79
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50598339,
+    "assetId": 266691,
+    "name": "Diego Forlán",
+    "cardName": "Forlán"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 53,
+    "countryId": 45,
     "versionId": "49",
     "rating": 87,
     "preferredFoot": "Left",
@@ -53,7 +162,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 45250,
+    "price": 51500,
     "resourceId": 50357572,
     "assetId": 25924,
     "name": "Capdevila",
@@ -98,7 +207,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 22500,
+    "price": 23000,
     "resourceId": 77787,
     "assetId": 77787,
     "name": "Iván Zamorano",
@@ -148,7 +257,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 54000,
+    "price": 60500,
     "resourceId": 50409435,
     "assetId": 77787,
     "name": "Iván Zamorano",
@@ -196,112 +305,11 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 15000,
+    "price": 16250,
     "resourceId": 10959,
     "assetId": 10959,
     "name": "Pablo Aimar",
     "cardName": "Aimar"
-  },
-  {
-    "clubId": 114605,
-    "leagueId": 53,
-    "countryId": 45,
-    "versionId": "81",
-    "rating": 88,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [
-      0,
-      11,
-      13,
-      24,
-      9
-    ],
-    "playStylesPlus": [
-      8
-    ],
-    "rolesPlus": [
-      20,
-      22,
-      121,
-      131,
-      132
-    ],
-    "rolesPlusPlus": [
-      20,
-      22,
-      121,
-      131,
-      132
-    ],
-    "attributes": [
-      80,
-      83,
-      90,
-      88,
-      64,
-      74
-    ],
-    "hasDynamicImage": true,
-    "price": 0,
-    "resourceId": 50593933,
-    "assetId": 262285,
-    "name": "Guti",
-    "cardName": "Guti"
-  },
-  {
-    "clubId": 114605,
-    "leagueId": 53,
-    "countryId": 60,
-    "versionId": "81",
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "LW",
-      "ST"
-    ],
-    "playStyles": [
-      2,
-      22,
-      24,
-      3
-    ],
-    "playStylesPlus": [
-      0
-    ],
-    "rolesPlus": [
-      39,
-      43,
-      141
-    ],
-    "rolesPlusPlus": [
-      39,
-      43,
-      141
-    ],
-    "attributes": [
-      87,
-      89,
-      78,
-      84,
-      54,
-      77
-    ],
-    "hasDynamicImage": true,
-    "price": 0,
-    "resourceId": 50598339,
-    "assetId": 266691,
-    "name": "Diego Forlán",
-    "cardName": "Forlán"
   },
   {
     "clubId": 114605,
@@ -371,7 +379,7 @@
       63
     ],
     "hasDynamicImage": true,
-    "price": 330000,
+    "price": 310000,
     "resourceId": 50545749,
     "assetId": 214101,
     "name": "Paulo Futre",
@@ -431,7 +439,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 116000,
+    "price": 105000,
     "resourceId": 50474402,
     "assetId": 142754,
     "name": "Javier Mascherano",
@@ -482,7 +490,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 24750,
+    "price": 23750,
     "resourceId": 50342607,
     "assetId": 10959,
     "name": "Pablo Aimar",
@@ -524,7 +532,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 63000,
+    "price": 63500,
     "resourceId": 8348,
     "assetId": 8348,
     "name": "Míchel Salgado",
@@ -573,7 +581,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 144000,
+    "price": 140000,
     "resourceId": 50339996,
     "assetId": 8348,
     "name": "Míchel Salgado",
@@ -666,7 +674,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 42500,
+    "price": 45500,
     "resourceId": 25924,
     "assetId": 25924,
     "name": "Capdevila",
@@ -714,7 +722,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 21750,
+    "price": 24500,
     "resourceId": 262285,
     "assetId": 262285,
     "name": "Guti",
@@ -763,7 +771,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 63000,
+    "price": 61000,
     "resourceId": 26709,
     "assetId": 26709,
     "name": "Rafael Márquez",
@@ -810,7 +818,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 55000,
+    "price": 55500,
     "resourceId": 266691,
     "assetId": 266691,
     "name": "Diego Forlán",
@@ -854,7 +862,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 28500,
+    "price": 33000,
     "resourceId": 5661,
     "assetId": 5661,
     "name": "Fernando Morientes",
@@ -901,7 +909,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 50500,
+    "price": 54000,
     "resourceId": 142754,
     "assetId": 142754,
     "name": "Javier Mascherano",

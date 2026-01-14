@@ -39,7 +39,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 0,
       "resourceId": 71832,
       "assetId": 71832
     },
@@ -87,7 +87,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 3700,
+      "price": 4200,
       "resourceId": 165153,
       "assetId": 165153
     },
@@ -132,7 +132,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 200888,
       "assetId": 200888
     },
@@ -181,7 +181,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 209499,
       "assetId": 209499
     },
@@ -264,7 +264,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 250,
       "resourceId": 211173,
       "assetId": 211173
     },
@@ -311,7 +311,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 3700,
+      "price": 4100,
       "resourceId": 215914,
       "assetId": 215914
     },
@@ -398,7 +398,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 350,
       "resourceId": 221772,
       "assetId": 221772
     },
@@ -669,7 +669,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1900,
       "resourceId": 241852,
       "assetId": 241852
     },
@@ -711,7 +711,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 300,
       "resourceId": 241963,
       "assetId": 241963
     },
@@ -841,7 +841,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 450,
       "resourceId": 259358,
       "assetId": 259358
     },
@@ -925,7 +925,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 260977,
       "assetId": 260977
     },
@@ -1004,7 +1004,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1900,
       "resourceId": 268874,
       "assetId": 268874
     },
@@ -1041,7 +1041,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 4400,
       "resourceId": 271569,
       "assetId": 271569
     },
@@ -1079,7 +1079,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 1400,
       "resourceId": 272830,
       "assetId": 272830
     },
@@ -1117,7 +1117,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 500,
       "resourceId": 275128,
       "assetId": 275128
     },
@@ -1159,7 +1159,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 5100,
       "resourceId": 277235,
       "assetId": 277235
     },
@@ -1205,7 +1205,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 9800,
+      "price": 10000,
       "resourceId": 278391,
       "assetId": 278391
     },
@@ -1242,7 +1242,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2600,
       "resourceId": 279593,
       "assetId": 279593
     },
@@ -1495,6 +1495,54 @@
       "resourceId": 50608670,
       "assetId": 277022
     },
+    "67274017": {
+      "name": "Karim Benzema",
+      "cardName": "Benzema",
+      "originalVersionId": "3",
+      "clubId": 607,
+      "leagueId": 350,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        22,
+        26,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        141,
+        143
+      ],
+      "rolesPlusPlus": [
+        141,
+        143
+      ],
+      "attributes": [
+        81,
+        87,
+        83,
+        86,
+        40,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67274017,
+      "assetId": 165153
+    },
     "67324778": {
       "name": "N'Golo Kanté",
       "cardName": "Kanté",
@@ -1515,6 +1563,7 @@
       "playStyles": [
         11,
         14,
+        17,
         24,
         26,
         28,
@@ -1557,7 +1606,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 239000,
+      "price": 230000,
       "resourceId": 67324778,
       "assetId": 215914
     }

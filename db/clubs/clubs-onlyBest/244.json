@@ -362,7 +362,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2500,
       "resourceId": 230623,
       "assetId": 230623
     },
@@ -768,7 +768,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 650,
       "resourceId": 253216,
       "assetId": 253216
     },
@@ -940,43 +940,6 @@
       "resourceId": 278530,
       "assetId": 278530
     },
-    "50542716": {
-      "name": "Kenan Kodro",
-      "cardName": "Kodro",
-      "originalVersionId": "0",
-      "clubId": 244,
-      "leagueId": 54,
-      "countryId": 8,
-      "versionId": "2001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "rolesPlusPlus": [
-        41
-      ],
-      "attributes": [
-        44,
-        71,
-        62,
-        65,
-        40,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 50542716,
-      "assetId": 211068
-    },
     "50578595": {
       "name": "Paul Akouokou",
       "cardName": "Akouokou",
@@ -1014,6 +977,53 @@
       "price": 350,
       "resourceId": 50578595,
       "assetId": 246947
+    },
+    "67319932": {
+      "name": "Kenan Kodro",
+      "cardName": "Kodro",
+      "originalVersionId": "3",
+      "clubId": 244,
+      "leagueId": 54,
+      "countryId": 8,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        11,
+        2,
+        24,
+        4
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        141,
+        144
+      ],
+      "rolesPlusPlus": [
+        141,
+        144
+      ],
+      "attributes": [
+        80,
+        86,
+        78,
+        81,
+        54,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 15750,
+      "resourceId": 67319932,
+      "assetId": 211068
     }
   }
 }

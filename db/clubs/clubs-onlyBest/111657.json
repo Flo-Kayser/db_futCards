@@ -74,7 +74,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 74304,
       "assetId": 74304
     },
@@ -115,7 +115,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 200,
       "resourceId": 74520,
       "assetId": 74520
     },
@@ -157,7 +157,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 74533,
       "assetId": 74533
     },
@@ -198,7 +198,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 74536,
       "assetId": 74536
     },
@@ -235,7 +235,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 75448,
       "assetId": 75448
     },
@@ -272,7 +272,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 900,
       "resourceId": 75449,
       "assetId": 75449
     },
@@ -474,7 +474,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 268466,
       "assetId": 268466
     },
@@ -596,45 +596,6 @@
       "price": 200,
       "resourceId": 269182,
       "assetId": 269182
-    },
-    "270064": {
-      "name": "Ilario Monterisi",
-      "cardName": "Monterisi",
-      "originalVersionId": "0",
-      "clubId": 111657,
-      "leagueId": 32,
-      "countryId": 27,
-      "versionId": "2001",
-      "rating": 67,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        12
-      ],
-      "rolesPlusPlus": [
-        11,
-        12
-      ],
-      "attributes": [
-        53,
-        30,
-        47,
-        49,
-        67,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 270064,
-      "assetId": 270064
     },
     "270131": {
       "name": "Niccolò Corrado",
@@ -873,7 +834,7 @@
         38
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 279877,
       "assetId": 279877
     },
@@ -952,6 +913,55 @@
       "price": 200,
       "resourceId": 50597952,
       "assetId": 266304
+    },
+    "50601712": {
+      "name": "Ilario Monterisi",
+      "cardName": "Monterisi",
+      "originalVersionId": "3",
+      "clubId": 111657,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        16,
+        17,
+        28,
+        4
+      ],
+      "playStylesPlus": [
+        19
+      ],
+      "rolesPlus": [
+        12,
+        111,
+        148
+      ],
+      "rolesPlusPlus": [
+        12,
+        111,
+        148
+      ],
+      "attributes": [
+        76,
+        48,
+        66,
+        68,
+        84,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 15250,
+      "resourceId": 50601712,
+      "assetId": 270064
     }
   }
 }
