@@ -37,7 +37,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 19750,
+    "price": 20250,
     "resourceId": 1845,
     "assetId": 1845
   },
@@ -136,7 +136,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 20000,
     "resourceId": 50536862,
     "assetId": 205214
   },
@@ -245,7 +245,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 13250,
     "resourceId": 50558749,
     "assetId": 227101
   },
@@ -303,7 +303,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 1380000,
+    "price": 1360000,
     "resourceId": 50558750,
     "assetId": 227102
   },
@@ -524,7 +524,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 16500,
     "resourceId": 50574544,
     "assetId": 242896
   },
@@ -568,7 +568,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 24000,
+    "price": 19000,
     "resourceId": 50577939,
     "assetId": 246291
   },
@@ -614,7 +614,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 12500,
     "resourceId": 50597902,
     "assetId": 266254
   },
@@ -668,7 +668,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 14500,
     "resourceId": 50608943,
     "assetId": 277295
   },
@@ -727,7 +727,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 12250,
     "resourceId": 67294286,
     "assetId": 185422
   },
@@ -777,7 +777,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 27500,
     "resourceId": 67331529,
     "assetId": 222665
   },
@@ -824,63 +824,9 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 24500,
+    "price": 28250,
     "resourceId": 67336174,
     "assetId": 227310
-  },
-  "84125165": {
-    "name": "Erling Haaland",
-    "cardName": "Haaland",
-    "originalVersionId": "50",
-    "clubId": 10,
-    "leagueId": 13,
-    "countryId": 36,
-    "versionId": "50",
-    "rating": 92,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      1,
-      2,
-      22,
-      29,
-      4,
-      5,
-      7
-    ],
-    "playStylesPlus": [
-      6
-    ],
-    "rolesPlus": [
-      43,
-      44,
-      141,
-      142
-    ],
-    "rolesPlusPlus": [
-      43,
-      44,
-      141,
-      142
-    ],
-    "attributes": [
-      89,
-      94,
-      75,
-      83,
-      50,
-      90
-    ],
-    "hasDynamicImage": true,
-    "price": 668000,
-    "resourceId": 84125165,
-    "assetId": 239085
   },
   "84148943": {
     "name": "Antonio Nusa",
@@ -930,5 +876,58 @@
     "price": 25000,
     "resourceId": 84148943,
     "assetId": 262863
+  },
+  "100902381": {
+    "name": "Erling Haaland",
+    "cardName": "Haaland",
+    "originalVersionId": "5",
+    "clubId": 10,
+    "leagueId": 13,
+    "countryId": 36,
+    "versionId": "5",
+    "rating": 96,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      2,
+      4,
+      5
+    ],
+    "playStylesPlus": [
+      21,
+      29,
+      6
+    ],
+    "rolesPlus": [
+      43,
+      141,
+      142,
+      144
+    ],
+    "rolesPlusPlus": [
+      43,
+      141,
+      142,
+      144
+    ],
+    "attributes": [
+      93,
+      96,
+      83,
+      90,
+      54,
+      93
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100902381,
+    "assetId": 239085
   }
 }

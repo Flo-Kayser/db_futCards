@@ -13,6 +13,19 @@
         "tertiaryColor": "#574e2c"
       }
     },
+    "5": {
+      "count": 6,
+      "file": "db/versions/5.json",
+      "details": {
+        "name": "TEAM OF THE YEAR",
+        "hasStrip": true,
+        "createdAt": "2026-01-15T19:00:00.458Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_5_0.png",
+        "primaryColor": "#f5db9b",
+        "secondaryColor": "#161a4f",
+        "tertiaryColor": "#645e4e"
+      }
+    },
     "8": {
       "count": 16,
       "file": "db/versions/8.json",
@@ -170,7 +183,7 @@
       }
     },
     "43": {
-      "count": 3,
+      "count": 4,
       "file": "db/versions/43.json",
       "details": {
         "name": "POTM Premier League",
@@ -235,7 +248,7 @@
       }
     },
     "51": {
-      "count": 11,
+      "count": 12,
       "file": "db/versions/51.json",
       "details": {
         "name": "Flashback",
@@ -297,6 +310,19 @@
         "primaryColor": "#f2f2f2",
         "secondaryColor": "#3f3f3f",
         "tertiaryColor": "#f2f2f2"
+      }
+    },
+    "64": {
+      "count": 1,
+      "file": "db/versions/64.json",
+      "details": {
+        "name": "Special Item",
+        "hasStrip": true,
+        "createdAt": "2026-01-15T19:00:00.459Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_64_0.png",
+        "primaryColor": "#f6f8f8",
+        "secondaryColor": "#161a4f",
+        "tertiaryColor": "#6f7980"
       }
     },
     "68": {
@@ -572,6 +598,19 @@
         "tertiaryColor": "#cf94bc"
       }
     },
+    "155": {
+      "count": 6,
+      "file": "db/versions/155.json",
+      "details": {
+        "name": "TOTY ICON",
+        "hasStrip": true,
+        "createdAt": "2026-01-15T19:00:00.459Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_155_0.png",
+        "primaryColor": "#594d2c",
+        "secondaryColor": "#dbdbdb",
+        "tertiaryColor": "#94792e"
+      }
+    },
     "157": {
       "count": 18,
       "file": "db/versions/157.json",
@@ -704,8 +743,8 @@
     }
   },
   "meta": {
-    "totalVersions": 54,
-    "totalVersionsWithoutBase": 48,
-    "updatedAt": "2026-01-15T18:54:19.040Z"
+    "totalVersions": 57,
+    "totalVersionsWithoutBase": 51,
+    "updatedAt": "2026-01-16T18:49:51.946Z"
   }
 }

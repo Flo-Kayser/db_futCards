@@ -37,7 +37,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 19750,
+    "price": 20250,
     "resourceId": 1845,
     "assetId": 1845
   },
@@ -136,7 +136,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 16250,
+    "price": 20000,
     "resourceId": 50517070,
     "assetId": 185422
   },
@@ -185,7 +185,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 20000,
     "resourceId": 50536862,
     "assetId": 205214
   },
@@ -290,7 +290,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 94500,
+    "price": 99500,
     "resourceId": 50554313,
     "assetId": 222665
   },
@@ -348,7 +348,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 13250,
     "resourceId": 50558749,
     "assetId": 227101
   },
@@ -406,7 +406,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 1380000,
+    "price": 1360000,
     "resourceId": 50558750,
     "assetId": 227102
   },
@@ -455,7 +455,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 15000,
     "resourceId": 50558958,
     "assetId": 227310
   },
@@ -722,7 +722,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 16500,
     "resourceId": 50574544,
     "assetId": 242896
   },
@@ -766,7 +766,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 24000,
+    "price": 19000,
     "resourceId": 50577939,
     "assetId": 246291
   },
@@ -815,7 +815,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 19750,
+    "price": 22500,
     "resourceId": 50594511,
     "assetId": 262863
   },
@@ -861,7 +861,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 12500,
     "resourceId": 50597902,
     "assetId": 266254
   },
@@ -915,7 +915,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 14500,
     "resourceId": 50608943,
     "assetId": 277295
   },
@@ -974,7 +974,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 12250,
     "resourceId": 67294286,
     "assetId": 185422
   },
@@ -1024,7 +1024,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 27500,
     "resourceId": 67331529,
     "assetId": 222665
   },
@@ -1071,7 +1071,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 24500,
+    "price": 28250,
     "resourceId": 67336174,
     "assetId": 227310
   },
@@ -1174,7 +1174,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 668000,
+    "price": 633000,
     "resourceId": 84125165,
     "assetId": 239085
   },
@@ -1226,5 +1226,58 @@
     "price": 25000,
     "resourceId": 84148943,
     "assetId": 262863
+  },
+  "100902381": {
+    "name": "Erling Haaland",
+    "cardName": "Haaland",
+    "originalVersionId": "5",
+    "clubId": 10,
+    "leagueId": 13,
+    "countryId": 36,
+    "versionId": "5",
+    "rating": 96,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      2,
+      4,
+      5
+    ],
+    "playStylesPlus": [
+      21,
+      29,
+      6
+    ],
+    "rolesPlus": [
+      43,
+      141,
+      142,
+      144
+    ],
+    "rolesPlusPlus": [
+      43,
+      141,
+      142,
+      144
+    ],
+    "attributes": [
+      93,
+      96,
+      83,
+      90,
+      54,
+      93
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100902381,
+    "assetId": 239085
   }
 }
