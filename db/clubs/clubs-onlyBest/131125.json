@@ -599,59 +599,6 @@
       "resourceId": 272159,
       "assetId": 272159
     },
-    "272163": {
-      "name": "Elena Julve",
-      "cardName": "Elena Julve",
-      "originalVersionId": "1",
-      "clubId": 131125,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "3002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        12,
-        17,
-        20,
-        22,
-        23,
-        25,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        35,
-        37,
-        43
-      ],
-      "rolesPlusPlus": [
-        26,
-        35,
-        37,
-        43
-      ],
-      "attributes": [
-        90,
-        71,
-        73,
-        83,
-        66,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 900,
-      "resourceId": 272163,
-      "assetId": 272163
-    },
     "272168": {
       "name": "Núria Garrote",
       "cardName": "Núria Garrote",
@@ -770,7 +717,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 350,
       "resourceId": 273142,
       "assetId": 273142
     },
@@ -911,6 +858,67 @@
       "price": 10750,
       "resourceId": 50598589,
       "assetId": 266941
+    },
+    "50603811": {
+      "name": "Elena Julve",
+      "cardName": "Elena Julve",
+      "originalVersionId": "64",
+      "clubId": 131125,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "64",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        12,
+        17,
+        20,
+        23,
+        25,
+        9
+      ],
+      "playStylesPlus": [
+        22
+      ],
+      "rolesPlus": [
+        26,
+        36,
+        37,
+        41,
+        123,
+        135,
+        143
+      ],
+      "rolesPlusPlus": [
+        26,
+        36,
+        37,
+        41,
+        123,
+        135,
+        143
+      ],
+      "attributes": [
+        93,
+        83,
+        84,
+        88,
+        76,
+        75
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50603811,
+      "assetId": 272163
     }
   }
 }
