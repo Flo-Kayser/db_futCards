@@ -279,7 +279,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 225116,
       "assetId": 225116
     },
@@ -453,7 +453,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 750,
       "resourceId": 244263,
       "assetId": 244263
     },
@@ -660,7 +660,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 272726,
       "assetId": 272726
     },
@@ -904,7 +904,7 @@
         60
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 13000,
       "resourceId": 50548057,
       "assetId": 216409
     },
@@ -941,61 +941,9 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 50552180,
       "assetId": 220532
-    },
-    "50568886": {
-      "name": "Scott McTominay",
-      "cardName": "McTominay",
-      "originalVersionId": "22",
-      "clubId": 48,
-      "leagueId": 31,
-      "countryId": 42,
-      "versionId": "22",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        19,
-        20,
-        29,
-        4,
-        6
-      ],
-      "playStylesPlus": [
-        8
-      ],
-      "rolesPlus": [
-        19,
-        31,
-        118,
-        121
-      ],
-      "rolesPlusPlus": [
-        19,
-        31,
-        118,
-        121
-      ],
-      "attributes": [
-        78,
-        84,
-        80,
-        84,
-        82,
-        87
-      ],
-      "hasDynamicImage": true,
-      "price": 68500,
-      "resourceId": 50568886,
-      "assetId": 237238
     },
     "50573038": {
       "name": "Eljif Elmas",
@@ -1147,7 +1095,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 27000,
+      "price": 28250,
       "resourceId": 50577640,
       "assetId": 245992
     },
@@ -1261,7 +1209,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 102000,
+      "price": 99000,
       "resourceId": 67301849,
       "assetId": 192985
     },
@@ -1315,7 +1263,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 93000,
+      "price": 98500,
       "resourceId": 67326734,
       "assetId": 217870
     },
@@ -1422,62 +1370,9 @@
         69
       ],
       "hasDynamicImage": true,
-      "price": 59500,
+      "price": 65000,
       "resourceId": 67345496,
       "assetId": 236632
-    },
-    "67346102": {
-      "name": "Scott McTominay",
-      "cardName": "McTominay",
-      "originalVersionId": "8",
-      "clubId": 48,
-      "leagueId": 31,
-      "countryId": 42,
-      "versionId": "8",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        19,
-        20,
-        29,
-        4,
-        6,
-        8
-      ],
-      "playStylesPlus": [
-        5
-      ],
-      "rolesPlus": [
-        18,
-        32,
-        121,
-        131
-      ],
-      "rolesPlusPlus": [
-        18,
-        32,
-        121,
-        131
-      ],
-      "attributes": [
-        79,
-        86,
-        80,
-        84,
-        82,
-        88
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 41250,
-      "resourceId": 67346102,
-      "assetId": 237238
     },
     "67368263": {
       "name": "Rasmus Højlund",
@@ -1526,7 +1421,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 69000,
+      "price": 66500,
       "resourceId": 67368263,
       "assetId": 259399
     },
@@ -1587,9 +1482,68 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 143000,
+      "price": 140000,
       "resourceId": 84079065,
       "assetId": 192985
+    },
+    "84123318": {
+      "name": "Scott McTominay",
+      "cardName": "McTominay",
+      "originalVersionId": "64",
+      "clubId": 48,
+      "leagueId": 31,
+      "countryId": 42,
+      "versionId": "64",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        19,
+        20,
+        29,
+        4,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        19,
+        20,
+        34,
+        118,
+        121,
+        131,
+        132
+      ],
+      "rolesPlusPlus": [
+        19,
+        20,
+        34,
+        118,
+        121,
+        131,
+        132
+      ],
+      "attributes": [
+        83,
+        89,
+        85,
+        86,
+        85,
+        90
+      ],
+      "isObjective": true,
+      "hasDynamicImage": false,
+      "resourceId": 84123318,
+      "assetId": 237238
     }
   }
 }

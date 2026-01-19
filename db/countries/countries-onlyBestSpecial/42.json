@@ -146,7 +146,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 28500,
+    "price": 28000,
     "resourceId": 50538213,
     "assetId": 206565
   },
@@ -199,7 +199,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 13500,
     "resourceId": 50542529,
     "assetId": 210881
   },
@@ -252,7 +252,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 65000,
+    "price": 64000,
     "resourceId": 50542741,
     "assetId": 211093
   },
@@ -304,7 +304,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 192000,
+    "price": 200000,
     "resourceId": 50547915,
     "assetId": 216267
   },
@@ -347,7 +347,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 32000,
+    "price": 34250,
     "resourceId": 50553693,
     "assetId": 222045
   },
@@ -439,7 +439,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 26250,
     "resourceId": 50557280,
     "assetId": 225632
   },
@@ -484,61 +484,9 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 14250,
     "resourceId": 50559593,
     "assetId": 227945
-  },
-  "50568886": {
-    "name": "Scott McTominay",
-    "cardName": "McTominay",
-    "originalVersionId": "22",
-    "clubId": 48,
-    "leagueId": 31,
-    "countryId": 42,
-    "versionId": "22",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [
-      19,
-      20,
-      29,
-      4,
-      6
-    ],
-    "playStylesPlus": [
-      8
-    ],
-    "rolesPlus": [
-      19,
-      31,
-      118,
-      121
-    ],
-    "rolesPlusPlus": [
-      19,
-      31,
-      118,
-      121
-    ],
-    "attributes": [
-      78,
-      84,
-      80,
-      84,
-      82,
-      87
-    ],
-    "hasDynamicImage": true,
-    "price": 68500,
-    "resourceId": 50568886,
-    "assetId": 237238
   },
   "50577520": {
     "name": "Kim Little",
@@ -698,7 +646,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 27000,
+    "price": 28250,
     "resourceId": 50577640,
     "assetId": 245992
   },
@@ -758,59 +706,6 @@
     "resourceId": 67335355,
     "assetId": 226491
   },
-  "67346102": {
-    "name": "Scott McTominay",
-    "cardName": "McTominay",
-    "originalVersionId": "8",
-    "clubId": 48,
-    "leagueId": 31,
-    "countryId": 42,
-    "versionId": "8",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [
-      19,
-      20,
-      29,
-      4,
-      6,
-      8
-    ],
-    "playStylesPlus": [
-      5
-    ],
-    "rolesPlus": [
-      18,
-      32,
-      121,
-      131
-    ],
-    "rolesPlusPlus": [
-      18,
-      32,
-      121,
-      131
-    ],
-    "attributes": [
-      79,
-      86,
-      80,
-      84,
-      82,
-      88
-    ],
-    "hasDynamicImage": true,
-    "sbcPrice": 41250,
-    "resourceId": 67346102,
-    "assetId": 237238
-  },
   "67354743": {
     "name": "Caroline Weir",
     "cardName": "Weir",
@@ -865,8 +760,67 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 12000,
     "resourceId": 67354743,
     "assetId": 245879
+  },
+  "84123318": {
+    "name": "Scott McTominay",
+    "cardName": "McTominay",
+    "originalVersionId": "64",
+    "clubId": 48,
+    "leagueId": 31,
+    "countryId": 42,
+    "versionId": "64",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      19,
+      20,
+      29,
+      4,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      19,
+      20,
+      34,
+      118,
+      121,
+      131,
+      132
+    ],
+    "rolesPlusPlus": [
+      19,
+      20,
+      34,
+      118,
+      121,
+      131,
+      132
+    ],
+    "attributes": [
+      83,
+      89,
+      85,
+      86,
+      85,
+      90
+    ],
+    "isObjective": true,
+    "hasDynamicImage": false,
+    "resourceId": 84123318,
+    "assetId": 237238
   }
 }
