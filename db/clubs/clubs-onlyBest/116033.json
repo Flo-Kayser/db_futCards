@@ -114,7 +114,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 7800,
+      "price": 7900,
       "resourceId": 246272,
       "assetId": 246272
     },
@@ -362,7 +362,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1400,
       "resourceId": 265536,
       "assetId": 265536
     },
@@ -439,7 +439,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 5100,
       "resourceId": 277170,
       "assetId": 277170
     },
@@ -478,7 +478,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 9600,
+      "price": 9000,
       "resourceId": 277171,
       "assetId": 277171
     },
@@ -579,7 +579,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 220750,
+      "sbcPrice": 219000,
       "price": 0,
       "resourceId": 50559009,
       "assetId": 227361
@@ -628,7 +628,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 50559040,
       "assetId": 227392
     },
@@ -683,7 +683,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 46500,
+      "price": 46000,
       "resourceId": 50563080,
       "assetId": 231432
     },
@@ -737,55 +737,6 @@
       "price": 14000,
       "resourceId": 50574544,
       "assetId": 242896
-    },
-    "50577604": {
-      "name": "Christiane Endler",
-      "cardName": "Endler",
-      "originalVersionId": "33",
-      "clubId": 116033,
-      "leagueId": 2218,
-      "countryId": 55,
-      "versionId": "33",
-      "rating": 89,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        30,
-        32,
-        33,
-        34,
-        9
-      ],
-      "playStylesPlus": [
-        31
-      ],
-      "rolesPlus": [
-        101,
-        102,
-        145
-      ],
-      "rolesPlusPlus": [
-        101,
-        102,
-        145
-      ],
-      "attributes": [
-        89,
-        84,
-        85,
-        90,
-        45,
-        90
-      ],
-      "hasDynamicImage": true,
-      "price": 25250,
-      "resourceId": 50577604,
-      "assetId": 245956
     },
     "50593388": {
       "name": "Jule Brand",
@@ -908,7 +859,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 92500,
+      "price": 95000,
       "resourceId": 50597546,
       "assetId": 265898
     },
@@ -958,7 +909,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 15250,
       "resourceId": 50597553,
       "assetId": 265905
     },
@@ -1004,7 +955,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 15250,
+      "price": 13000,
       "resourceId": 50605594,
       "assetId": 273946
     },
@@ -1150,7 +1101,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 15000,
       "resourceId": 50609867,
       "assetId": 278219
     },
@@ -1197,7 +1148,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 27500,
+      "price": 28000,
       "resourceId": 67336174,
       "assetId": 227310
     },
@@ -1251,83 +1202,118 @@
       "resourceId": 67336180,
       "assetId": 227316
     },
-    "67374538": {
+    "67354820": {
+      "name": "Christiane Endler",
+      "cardName": "Endler",
+      "originalVersionId": "5",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 55,
+      "versionId": "5",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 2,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        32,
+        34,
+        35,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        31,
+        33
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "rolesPlusPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        94,
+        90,
+        91,
+        95,
+        70,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 700000,
+      "resourceId": 67354820,
+      "assetId": 245956
+    },
+    "84151754": {
       "name": "Selma Bacha",
       "cardName": "Bacha",
-      "originalVersionId": "117",
+      "originalVersionId": "5",
       "clubId": 116033,
       "leagueId": 2218,
       "countryId": 18,
-      "versionId": "117",
-      "rating": 87,
+      "versionId": "5",
+      "rating": 94,
       "preferredFoot": "Left",
       "weakFoot": 4,
       "skillMoves": 4,
       "preferredPosition": "LB",
       "possiblePositions": [
-        "CB",
         "LB",
         "LM",
-        "LW",
-        "RB",
-        "RM",
-        "RW"
+        "LW"
       ],
       "playStyles": [
-        12,
         13,
         17,
         20,
-        22,
         26,
         3
       ],
       "playStylesPlus": [
+        12,
+        16,
         25
       ],
       "rolesPlus": [
-        6,
-        10,
-        12,
-        25,
+        7,
+        8,
         29,
-        37,
         40,
-        105,
         109,
-        123,
+        110,
         127,
-        135,
-        138,
-        148
+        138
       ],
       "rolesPlusPlus": [
-        6,
-        10,
-        12,
-        25,
+        7,
+        8,
         29,
-        37,
         40,
-        105,
         109,
-        123,
+        110,
         127,
-        135,
-        138,
-        148
+        138
       ],
       "attributes": [
-        90,
-        80,
+        94,
         87,
-        84,
-        82,
-        83
+        93,
+        91,
+        90,
+        88
       ],
       "hasDynamicImage": true,
-      "price": 30250,
-      "resourceId": 67374538,
+      "price": 1300000,
+      "resourceId": 84151754,
       "assetId": 265674
     }
   }

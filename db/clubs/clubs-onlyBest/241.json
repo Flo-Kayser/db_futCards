@@ -40,7 +40,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1000,
       "resourceId": 74462,
       "assetId": 74462
     },
@@ -78,7 +78,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 74463,
       "assetId": 74463
     },
@@ -117,7 +117,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 8600,
+      "price": 9900,
       "resourceId": 80674,
       "assetId": 80674
     },
@@ -202,7 +202,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 8000,
+      "price": 8100,
       "resourceId": 188545,
       "assetId": 188545
     },
@@ -341,7 +341,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 3000,
       "resourceId": 244260,
       "assetId": 244260
     },
@@ -481,7 +481,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 253163,
       "assetId": 253163
     },
@@ -520,7 +520,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1500,
       "resourceId": 259532,
       "assetId": 259532
     },
@@ -705,7 +705,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 200000,
+      "price": 212000,
       "resourceId": 50520193,
       "assetId": 188545
     },
@@ -754,7 +754,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 116000,
+      "price": 102000,
       "resourceId": 50524096,
       "assetId": 192448
     },
@@ -810,7 +810,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 645000,
+      "price": 628000,
       "resourceId": 50560350,
       "assetId": 228702
     },
@@ -870,7 +870,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 537000,
+      "price": 515000,
       "resourceId": 50565067,
       "assetId": 233419
     },
@@ -924,64 +924,9 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 22250,
+      "price": 24250,
       "resourceId": 50573109,
       "assetId": 241461
-    },
-    "50573134": {
-      "name": "Jules Koundé",
-      "cardName": "Koundé",
-      "originalVersionId": "51",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 18,
-      "versionId": "51",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "CB",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        10,
-        18,
-        19,
-        25,
-        26
-      ],
-      "playStylesPlus": [
-        14
-      ],
-      "rolesPlus": [
-        4,
-        6,
-        48,
-        105,
-        113
-      ],
-      "rolesPlusPlus": [
-        4,
-        6,
-        48,
-        105,
-        113
-      ],
-      "attributes": [
-        85,
-        48,
-        75,
-        81,
-        88,
-        86
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 436500,
-      "resourceId": 50573134,
-      "assetId": 241486
     },
     "50595226": {
       "name": "Balde",
@@ -1029,7 +974,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 110000,
+      "price": 96500,
       "resourceId": 50595226,
       "assetId": 263578
     },
@@ -1075,7 +1020,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 35500,
+      "price": 39750,
       "resourceId": 50597248,
       "assetId": 265600
     },
@@ -1123,7 +1068,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 156000,
+      "price": 149000,
       "resourceId": 50609694,
       "assetId": 278046
     },
@@ -1174,9 +1119,70 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 296000,
+      "price": 290000,
       "resourceId": 67342283,
       "assetId": 233419
+    },
+    "67350350": {
+      "name": "Jules Koundé",
+      "cardName": "Koundé",
+      "originalVersionId": "5",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 18,
+      "versionId": "5",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        19,
+        20,
+        25,
+        26
+      ],
+      "playStylesPlus": [
+        12,
+        14,
+        18
+      ],
+      "rolesPlus": [
+        4,
+        6,
+        12,
+        103,
+        105,
+        113,
+        148
+      ],
+      "rolesPlusPlus": [
+        4,
+        6,
+        12,
+        103,
+        105,
+        113,
+        148
+      ],
+      "attributes": [
+        90,
+        54,
+        83,
+        87,
+        94,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 2700000,
+      "resourceId": 67350350,
+      "assetId": 241486
     },
     "67360718": {
       "name": "Pedri",
@@ -1235,7 +1241,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 3495000,
+      "price": 3195000,
       "resourceId": 67360718,
       "assetId": 251854
     },
@@ -1353,7 +1359,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 1200000,
+      "price": 1000000,
       "resourceId": 84117757,
       "assetId": 231677
     },
@@ -1406,7 +1412,7 @@
         64
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 16500,
       "resourceId": 84163259,
       "assetId": 277179
     },
@@ -1462,7 +1468,7 @@
         55
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 536500,
+      "sbcPrice": 565000,
       "resourceId": 84163723,
       "assetId": 277643
     }

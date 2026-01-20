@@ -95,7 +95,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 13750,
+      "price": 13000,
       "resourceId": 50558964,
       "assetId": 227316
     },
@@ -159,7 +159,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 220750,
+      "sbcPrice": 219000,
       "price": 0,
       "resourceId": 50559009,
       "assetId": 227361
@@ -208,7 +208,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 50559040,
       "assetId": 227392
     },
@@ -263,7 +263,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 46500,
+      "price": 46000,
       "resourceId": 50563080,
       "assetId": 231432
     },
@@ -363,7 +363,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 25250,
+      "price": 26500,
       "resourceId": 50577604,
       "assetId": 245956
     },
@@ -544,7 +544,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 92500,
+      "price": 95000,
       "resourceId": 50597546,
       "assetId": 265898
     },
@@ -594,7 +594,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 15250,
       "resourceId": 50597553,
       "assetId": 265905
     },
@@ -640,7 +640,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 15250,
+      "price": 13000,
       "resourceId": 50605594,
       "assetId": 273946
     },
@@ -786,7 +786,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 15000,
       "resourceId": 50609867,
       "assetId": 278219
     },
@@ -833,7 +833,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 27500,
+      "price": 28000,
       "resourceId": 67336174,
       "assetId": 227310
     },
@@ -886,6 +886,57 @@
       "price": 69550,
       "resourceId": 67336180,
       "assetId": 227316
+    },
+    "67354820": {
+      "name": "Christiane Endler",
+      "cardName": "Endler",
+      "originalVersionId": "5",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 55,
+      "versionId": "5",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 2,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        32,
+        34,
+        35,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        31,
+        33
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "rolesPlusPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        94,
+        90,
+        91,
+        95,
+        70,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 700000,
+      "resourceId": 67354820,
+      "assetId": 245956
     },
     "67374538": {
       "name": "Selma Bacha",
@@ -962,7 +1013,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 30250,
+      "price": 31500,
       "resourceId": 67374538,
       "assetId": 265674
     },
@@ -1009,9 +1060,72 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 17500,
       "resourceId": 84113396,
       "assetId": 227316
+    },
+    "84151754": {
+      "name": "Selma Bacha",
+      "cardName": "Bacha",
+      "originalVersionId": "5",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "5",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        13,
+        17,
+        20,
+        26,
+        3
+      ],
+      "playStylesPlus": [
+        12,
+        16,
+        25
+      ],
+      "rolesPlus": [
+        7,
+        8,
+        29,
+        40,
+        109,
+        110,
+        127,
+        138
+      ],
+      "rolesPlusPlus": [
+        7,
+        8,
+        29,
+        40,
+        109,
+        110,
+        127,
+        138
+      ],
+      "attributes": [
+        94,
+        87,
+        93,
+        91,
+        90,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 1300000,
+      "resourceId": 84151754,
+      "assetId": 265674
     }
   }
 }

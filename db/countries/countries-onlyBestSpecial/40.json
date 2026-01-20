@@ -1,41 +1,52 @@
 {
-  "238380": {
+  "67347244": {
     "name": "Lev Yashin",
     "cardName": "Yashin",
-    "originalVersionId": "12",
+    "originalVersionId": "155",
     "clubId": 112658,
     "leagueId": 2118,
     "countryId": 40,
-    "versionId": "12",
-    "rating": 92,
+    "versionId": "155",
+    "rating": 93,
     "preferredFoot": "Right",
-    "weakFoot": 3,
+    "weakFoot": 5,
     "skillMoves": 1,
     "preferredPosition": "GK",
     "possiblePositions": [
       "GK"
     ],
-    "playStyles": [],
+    "playStyles": [
+      10,
+      30,
+      33,
+      34,
+      35
+    ],
     "playStylesPlus": [
+      31,
       32
     ],
     "rolesPlus": [
+      45,
+      101,
       102
     ],
     "rolesPlusPlus": [
+      45,
+      101,
       102
     ],
     "attributes": [
-      93,
-      89,
-      75,
       94,
-      60,
-      93
+      90,
+      82,
+      95,
+      74,
+      94
     ],
-    "hasDynamicImage": false,
-    "price": 422000,
-    "resourceId": 238380,
+    "hasDynamicImage": true,
+    "price": 915000,
+    "resourceId": 67347244,
     "assetId": 238380
   }
 }

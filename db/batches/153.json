@@ -1,5 +1,64 @@
 [
   {
+    "clubId": 73,
+    "leagueId": 16,
+    "countryId": 38,
+    "versionId": 5,
+    "rating": 97,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      12,
+      16,
+      17,
+      21,
+      26
+    ],
+    "playStylesPlus": [
+      14,
+      25,
+      9
+    ],
+    "rolesPlus": [
+      8,
+      9,
+      29,
+      107,
+      110,
+      127,
+      128
+    ],
+    "rolesPlusPlus": [
+      8,
+      9,
+      29,
+      107,
+      110,
+      127,
+      128
+    ],
+    "attributes": [
+      97,
+      80,
+      88,
+      95,
+      93,
+      88
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50583793,
+    "assetId": 252145,
+    "cardName": "Nuno Mendes",
+    "name": "Nuno Mendes"
+  },
+  {
     "clubId": 116325,
     "leagueId": 2222,
     "countryId": 45,
@@ -52,7 +111,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 7985000,
+    "price": 7399000,
     "resourceId": 67350531,
     "assetId": 241667,
     "cardName": "Aitana Bonmatí",
@@ -116,7 +175,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 1290000,
+    "price": 1119000,
     "resourceId": 67367844,
     "assetId": 258980,
     "cardName": "Russo",
@@ -176,7 +235,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 7529000,
+    "price": 7400000,
     "resourceId": 100894739,
     "assetId": 231443,
     "cardName": "Dembélé",
@@ -239,7 +298,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 2525000,
+    "price": 2059000,
     "resourceId": 67346152,
     "assetId": 237288,
     "cardName": "Mariona",
@@ -301,7 +360,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 14400000,
+    "price": 14660000,
     "resourceId": 117672259,
     "assetId": 231747,
     "cardName": "Mbappé",
@@ -353,7 +412,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 2103000,
+    "price": 1870000,
     "resourceId": 100902381,
     "assetId": 239085,
     "cardName": "Haaland",
@@ -415,11 +474,236 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 1705000,
+    "price": 1498000,
     "resourceId": 84127926,
     "assetId": 241846,
     "cardName": "Pajor",
     "name": "Ewa Pajor"
+  },
+  {
+    "clubId": 10,
+    "leagueId": 13,
+    "countryId": 27,
+    "versionId": 5,
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      10,
+      32,
+      33,
+      35,
+      9
+    ],
+    "playStylesPlus": [
+      30,
+      31,
+      34
+    ],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "rolesPlusPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      95,
+      90,
+      80,
+      95,
+      70,
+      93
+    ],
+    "hasDynamicImage": true,
+    "price": 1430000,
+    "resourceId": 84116701,
+    "assetId": 230621,
+    "cardName": "Donnarumma",
+    "name": "Gianluigi Donnarumma"
+  },
+  {
+    "clubId": 116010,
+    "leagueId": 2216,
+    "countryId": 14,
+    "versionId": 5,
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      18,
+      20,
+      27,
+      28
+    ],
+    "playStylesPlus": [
+      14,
+      15,
+      9
+    ],
+    "rolesPlus": [
+      5,
+      6,
+      11,
+      24,
+      25,
+      103,
+      104,
+      123,
+      148
+    ],
+    "rolesPlusPlus": [
+      5,
+      6,
+      11,
+      24,
+      25,
+      103,
+      104,
+      123,
+      148
+    ],
+    "attributes": [
+      90,
+      80,
+      90,
+      88,
+      95,
+      93
+    ],
+    "hasDynamicImage": true,
+    "price": 1150000,
+    "resourceId": 84113326,
+    "assetId": 227246,
+    "cardName": "Bronze",
+    "name": "Lucy Bronze"
+  },
+  {
+    "clubId": 116009,
+    "leagueId": 2216,
+    "countryId": 14,
+    "versionId": 5,
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM"
+    ],
+    "playStyles": [
+      15,
+      17,
+      18,
+      28,
+      9
+    ],
+    "playStylesPlus": [
+      10,
+      14,
+      16
+    ],
+    "rolesPlus": [
+      12,
+      48,
+      49,
+      111,
+      113,
+      114,
+      116
+    ],
+    "rolesPlusPlus": [
+      12,
+      48,
+      49,
+      111,
+      113,
+      114,
+      116
+    ],
+    "attributes": [
+      88,
+      60,
+      85,
+      85,
+      95,
+      92
+    ],
+    "hasDynamicImage": true,
+    "price": 1500000,
+    "resourceId": 67355290,
+    "assetId": 246426,
+    "cardName": "Williamson",
+    "name": "Leah Williamson"
+  },
+  {
+    "clubId": 9,
+    "leagueId": 13,
+    "countryId": 34,
+    "versionId": 5,
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      14,
+      28,
+      4,
+      9
+    ],
+    "playStylesPlus": [
+      16,
+      17,
+      19
+    ],
+    "rolesPlus": [
+      48,
+      111,
+      112,
+      113
+    ],
+    "rolesPlusPlus": [
+      48,
+      111,
+      112,
+      113
+    ],
+    "attributes": [
+      87,
+      65,
+      81,
+      80,
+      95,
+      94
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67312240,
+    "assetId": 203376,
+    "cardName": "van Dijk",
+    "name": "Virgil van Dijk"
   },
   {
     "clubId": 73,
@@ -477,7 +761,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 3958000,
+    "price": 3479000,
     "resourceId": 100918549,
     "assetId": 255253,
     "cardName": "Vitinha",
@@ -539,7 +823,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 7600000,
+    "price": 7290000,
     "resourceId": 84113283,
     "assetId": 227203,
     "cardName": "Alexia Putellas",
@@ -599,7 +883,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 3495000,
+    "price": 3195000,
     "resourceId": 67360718,
     "assetId": 251854,
     "cardName": "Pedri",
@@ -665,11 +949,287 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 5475000,
+    "price": 4889000,
     "resourceId": 117703043,
     "assetId": 262531,
     "cardName": "Claudia Pina",
     "name": "Claudia Pina"
+  },
+  {
+    "clubId": 116033,
+    "leagueId": 2218,
+    "countryId": 55,
+    "versionId": 5,
+    "rating": 94,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 2,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      30,
+      32,
+      34,
+      35,
+      9
+    ],
+    "playStylesPlus": [
+      10,
+      31,
+      33
+    ],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "rolesPlusPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      94,
+      90,
+      91,
+      95,
+      70,
+      95
+    ],
+    "hasDynamicImage": true,
+    "price": 700000,
+    "resourceId": 67354820,
+    "assetId": 245956,
+    "cardName": "Endler",
+    "name": "Christiane Endler"
+  },
+  {
+    "clubId": 116033,
+    "leagueId": 2218,
+    "countryId": 18,
+    "versionId": 5,
+    "rating": 94,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      13,
+      17,
+      20,
+      26,
+      3
+    ],
+    "playStylesPlus": [
+      12,
+      16,
+      25
+    ],
+    "rolesPlus": [
+      7,
+      8,
+      29,
+      40,
+      109,
+      110,
+      127,
+      138
+    ],
+    "rolesPlusPlus": [
+      7,
+      8,
+      29,
+      40,
+      109,
+      110,
+      127,
+      138
+    ],
+    "attributes": [
+      94,
+      87,
+      93,
+      91,
+      90,
+      88
+    ],
+    "hasDynamicImage": true,
+    "price": 1300000,
+    "resourceId": 84151754,
+    "assetId": 265674,
+    "cardName": "Bacha",
+    "name": "Selma Bacha"
+  },
+  {
+    "clubId": 241,
+    "leagueId": 53,
+    "countryId": 18,
+    "versionId": 5,
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      10,
+      19,
+      20,
+      25,
+      26
+    ],
+    "playStylesPlus": [
+      12,
+      14,
+      18
+    ],
+    "rolesPlus": [
+      4,
+      6,
+      12,
+      103,
+      105,
+      113,
+      148
+    ],
+    "rolesPlusPlus": [
+      4,
+      6,
+      12,
+      103,
+      105,
+      113,
+      148
+    ],
+    "attributes": [
+      90,
+      54,
+      83,
+      87,
+      94,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 2700000,
+    "resourceId": 67350350,
+    "assetId": 241486,
+    "cardName": "Koundé",
+    "name": "Jules Koundé"
+  },
+  {
+    "clubId": 1,
+    "leagueId": 13,
+    "countryId": 18,
+    "versionId": 5,
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      15,
+      16,
+      18,
+      4
+    ],
+    "playStylesPlus": [
+      10,
+      17,
+      28
+    ],
+    "rolesPlus": [
+      48,
+      111,
+      112,
+      113
+    ],
+    "rolesPlusPlus": [
+      48,
+      111,
+      112,
+      113
+    ],
+    "attributes": [
+      87,
+      50,
+      78,
+      81,
+      94,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67352579,
+    "assetId": 243715,
+    "cardName": "Saliba",
+    "name": "William Saliba"
+  },
+  {
+    "clubId": 116010,
+    "leagueId": 2216,
+    "countryId": 14,
+    "versionId": 5,
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      16,
+      17,
+      19,
+      26
+    ],
+    "playStylesPlus": [
+      15,
+      28,
+      9
+    ],
+    "rolesPlus": [
+      48,
+      111,
+      112,
+      113
+    ],
+    "rolesPlusPlus": [
+      48,
+      111,
+      112,
+      113
+    ],
+    "attributes": [
+      85,
+      60,
+      80,
+      80,
+      92,
+      94
+    ],
+    "hasDynamicImage": true,
+    "price": 1090000,
+    "resourceId": 67347121,
+    "assetId": 238257,
+    "cardName": "Bright",
+    "name": "Millie Bright"
   },
   {
     "clubId": 1,
@@ -726,7 +1286,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 1835000,
+    "price": 1600000,
     "resourceId": 100897674,
     "assetId": 234378,
     "cardName": "Rice",
