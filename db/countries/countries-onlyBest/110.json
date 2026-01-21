@@ -80,48 +80,6 @@
     "resourceId": 73317,
     "assetId": 73317
   },
-  "77050": {
-    "name": "Merveille Kanjinga",
-    "cardName": "Kanjinga",
-    "originalVersionId": "0",
-    "clubId": 116034,
-    "leagueId": 2218,
-    "countryId": 110,
-    "versionId": "2002",
-    "rating": 75,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "CAM",
-      "ST"
-    ],
-    "playStyles": [
-      29
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      41,
-      43
-    ],
-    "rolesPlusPlus": [
-      41,
-      43
-    ],
-    "attributes": [
-      71,
-      74,
-      53,
-      69,
-      29,
-      74
-    ],
-    "hasDynamicImage": false,
-    "price": 350,
-    "resourceId": 77050,
-    "assetId": 77050
-  },
   "79092": {
     "name": "Filozofe Mabete",
     "cardName": "Mabete",
@@ -314,7 +272,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 3700,
+    "price": 3200,
     "resourceId": 196953,
     "assetId": 196953
   },
@@ -441,7 +399,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 4500,
+    "price": 250,
     "resourceId": 210394,
     "assetId": 210394
   },
@@ -482,7 +440,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 900,
     "resourceId": 210897,
     "assetId": 210897
   },
@@ -655,7 +613,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 1300,
     "resourceId": 222875,
     "assetId": 222875
   },
@@ -695,7 +653,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 223150,
     "assetId": 223150
   },
@@ -735,7 +693,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 223926,
     "assetId": 223926
   },
@@ -782,7 +740,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 900,
     "resourceId": 229880,
     "assetId": 229880
   },
@@ -1373,7 +1331,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 1400,
     "resourceId": 244843,
     "assetId": 244843
   },
@@ -1457,7 +1415,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 850,
+    "price": 9600,
     "resourceId": 245940,
     "assetId": 245940
   },
@@ -1921,9 +1879,63 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 9900,
     "resourceId": 274447,
     "assetId": 274447
+  },
+  "50408698": {
+    "name": "Merveille Kanjinga",
+    "cardName": "Kanjinga",
+    "originalVersionId": "3",
+    "clubId": 116034,
+    "leagueId": 2218,
+    "countryId": 110,
+    "versionId": "3",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      2,
+      24,
+      29,
+      4
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      43,
+      132,
+      135,
+      141
+    ],
+    "rolesPlusPlus": [
+      43,
+      132,
+      135,
+      141
+    ],
+    "attributes": [
+      85,
+      86,
+      70,
+      84,
+      40,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 13250,
+    "resourceId": 50408698,
+    "assetId": 77050
   },
   "50530599": {
     "name": "Cédric Bakambu",
@@ -1972,7 +1984,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 11750,
     "resourceId": 50530599,
     "assetId": 198951
   },
@@ -2052,7 +2064,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 900,
     "resourceId": 50566472,
     "assetId": 234824
   },
@@ -2097,7 +2109,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 1100,
+    "price": 1200,
     "resourceId": 50591810,
     "assetId": 260162
   },
@@ -2137,7 +2149,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 1300,
     "resourceId": 50593913,
     "assetId": 262265
   },
@@ -2179,7 +2191,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 1200,
     "resourceId": 50600862,
     "assetId": 269214
   },
@@ -2224,7 +2236,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 15750,
+    "price": 15500,
     "resourceId": 67360396,
     "assetId": 251532
   },

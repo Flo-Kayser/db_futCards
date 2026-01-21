@@ -34,7 +34,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 200,
       "resourceId": 70015,
       "assetId": 70015
     },
@@ -72,7 +72,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 700,
       "resourceId": 72099,
       "assetId": 72099
     },
@@ -191,7 +191,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 350,
       "resourceId": 74491,
       "assetId": 74491
     },
@@ -229,7 +229,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 79390,
       "assetId": 79390
     },
@@ -275,7 +275,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 201042,
       "assetId": 201042
     },
@@ -314,7 +314,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 224322,
       "assetId": 224322
     },
@@ -359,7 +359,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 235022,
       "assetId": 235022
     },
@@ -532,7 +532,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 3000,
       "resourceId": 242534,
       "assetId": 242534
     },
@@ -616,7 +616,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 251845,
       "assetId": 251845
     },
@@ -659,7 +659,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 257970,
       "assetId": 257970
     },
@@ -739,49 +739,6 @@
       "resourceId": 266299,
       "assetId": 266299
     },
-    "269719": {
-      "name": "Santiago Hidalgo",
-      "cardName": "Hidalgo",
-      "originalVersionId": "0",
-      "clubId": 1809,
-      "leagueId": 16,
-      "countryId": 52,
-      "versionId": "2001",
-      "rating": 68,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        26,
-        33
-      ],
-      "rolesPlusPlus": [
-        23,
-        26,
-        33
-      ],
-      "attributes": [
-        77,
-        65,
-        65,
-        72,
-        33,
-        50
-      ],
-      "hasDynamicImage": false,
-      "price": 250,
-      "resourceId": 269719,
-      "assetId": 269719
-    },
     "277820": {
       "name": "Noah Lahmadi",
       "cardName": "Lahmadi",
@@ -816,7 +773,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 200,
       "resourceId": 277820,
       "assetId": 277820
     },
@@ -895,7 +852,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 278207,
       "assetId": 278207
     },
@@ -949,7 +906,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 22000,
+      "price": 21000,
       "resourceId": 50584585,
       "assetId": 252937
     },
@@ -1001,9 +958,62 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 12750,
       "resourceId": 50585769,
       "assetId": 254121
+    },
+    "50601367": {
+      "name": "Santiago Hidalgo",
+      "cardName": "Hidalgo",
+      "originalVersionId": "3",
+      "clubId": 1809,
+      "leagueId": 16,
+      "countryId": 52,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        22,
+        4,
+        5,
+        6
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        26,
+        33,
+        123,
+        136
+      ],
+      "rolesPlusPlus": [
+        26,
+        33,
+        123,
+        136
+      ],
+      "attributes": [
+        89,
+        83,
+        84,
+        88,
+        49,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 13000,
+      "resourceId": 50601367,
+      "assetId": 269719
     },
     "67185667": {
       "name": "Emersonn",
@@ -1047,7 +1057,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 22500,
       "resourceId": 67185667,
       "assetId": 76803
     }

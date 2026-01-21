@@ -1,56 +1,6 @@
 {
   "clubName": "Al Qadsiah",
   "players": {
-    "50566227": {
-      "name": "Julian Quiñones",
-      "cardName": "Quiñones",
-      "originalVersionId": "91",
-      "clubId": 112391,
-      "leagueId": 350,
-      "countryId": 83,
-      "versionId": "91",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        1,
-        21,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        27,
-        42,
-        138,
-        141
-      ],
-      "rolesPlusPlus": [
-        27,
-        42,
-        138,
-        141
-      ],
-      "attributes": [
-        92,
-        84,
-        77,
-        84,
-        41,
-        87
-      ],
-      "isObjective": true,
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 50566227,
-      "assetId": 234579
-    },
     "50573498": {
       "name": "Mateo Retegui",
       "cardName": "Retegui",
@@ -97,6 +47,57 @@
       "price": 0,
       "resourceId": 50573498,
       "assetId": 241850
+    },
+    "67343443": {
+      "name": "Julian Quiñones",
+      "cardName": "Quiñones",
+      "originalVersionId": "3",
+      "clubId": 112391,
+      "leagueId": 350,
+      "countryId": 83,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        21,
+        24,
+        4
+      ],
+      "playStylesPlus": [
+        29
+      ],
+      "rolesPlus": [
+        138,
+        141,
+        144
+      ],
+      "rolesPlusPlus": [
+        138,
+        141,
+        144
+      ],
+      "attributes": [
+        93,
+        87,
+        80,
+        87,
+        43,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 35000,
+      "resourceId": 67343443,
+      "assetId": 234579
     }
   }
 }

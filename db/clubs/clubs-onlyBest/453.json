@@ -117,7 +117,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1000,
       "resourceId": 80915,
       "assetId": 80915
     },
@@ -260,7 +260,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 202648,
       "assetId": 202648
     },
@@ -380,47 +380,6 @@
       "resourceId": 221342,
       "assetId": 221342
     },
-    "223710": {
-      "name": "Vedat Muriqi",
-      "cardName": "Muriqi",
-      "originalVersionId": "0",
-      "clubId": 453,
-      "leagueId": 53,
-      "countryId": 219,
-      "versionId": "2002",
-      "rating": 79,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        2,
-        29,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "rolesPlusPlus": [
-        41
-      ],
-      "attributes": [
-        50,
-        81,
-        63,
-        71,
-        29,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 223710,
-      "assetId": 223710
-    },
     "226777": {
       "name": "Cyle Larin",
       "cardName": "Larin",
@@ -502,7 +461,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 228805,
       "assetId": 228805
     },
@@ -928,7 +887,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 250,
       "resourceId": 261375,
       "assetId": 261375
     },
@@ -1102,7 +1061,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 15000,
+      "price": 13750,
       "resourceId": 50540268,
       "assetId": 208620
     },
@@ -1158,6 +1117,55 @@
       "resourceId": 50545674,
       "assetId": 214026
     },
+    "50555358": {
+      "name": "Vedat Muriqi",
+      "cardName": "Muriqi",
+      "originalVersionId": "3",
+      "clubId": 453,
+      "leagueId": 53,
+      "countryId": 219,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        24,
+        4,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        29
+      ],
+      "rolesPlus": [
+        41,
+        142,
+        144
+      ],
+      "rolesPlusPlus": [
+        41,
+        142,
+        144
+      ],
+      "attributes": [
+        78,
+        86,
+        71,
+        80,
+        34,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 12250,
+      "resourceId": 50555358,
+      "assetId": 223710
+    },
     "50601854": {
       "name": "Mateo Joseph",
       "cardName": "Joseph",
@@ -1199,7 +1207,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 22500,
+      "price": 20000,
       "resourceId": 50601854,
       "assetId": 270206
     }

@@ -157,43 +157,6 @@
       "resourceId": 199493,
       "assetId": 199493
     },
-    "206031": {
-      "name": "Jefté",
-      "cardName": "Jefté",
-      "originalVersionId": "0",
-      "clubId": 1854,
-      "leagueId": 54,
-      "countryId": 45,
-      "versionId": "2001",
-      "rating": 71,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "rolesPlusPlus": [
-        41
-      ],
-      "attributes": [
-        71,
-        71,
-        62,
-        70,
-        32,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 206031,
-      "assetId": 206031
-    },
     "211565": {
       "name": "Higinio",
       "cardName": "Higinio",
@@ -398,7 +361,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1200,
       "resourceId": 225161,
       "assetId": 225161
     },
@@ -822,7 +785,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 0,
       "resourceId": 266118,
       "assetId": 266118
     },
@@ -869,6 +832,53 @@
       "resourceId": 269644,
       "assetId": 269644
     },
+    "50537679": {
+      "name": "Jefté",
+      "cardName": "Jefté",
+      "originalVersionId": "3",
+      "clubId": 1854,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        20,
+        21,
+        24
+      ],
+      "playStylesPlus": [
+        5
+      ],
+      "rolesPlus": [
+        141,
+        142
+      ],
+      "rolesPlusPlus": [
+        141,
+        142
+      ],
+      "attributes": [
+        86,
+        86,
+        75,
+        84,
+        45,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 12500,
+      "resourceId": 50537679,
+      "assetId": 206031
+    },
     "50597766": {
       "name": "Jonathan Germán Gómez",
       "cardName": "Gómez",
@@ -903,7 +913,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 50597766,
       "assetId": 266118
     }

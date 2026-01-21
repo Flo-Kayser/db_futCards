@@ -385,7 +385,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 78778,
     "assetId": 78778
   },
@@ -426,7 +426,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 450,
     "resourceId": 79000,
     "assetId": 79000
   },
@@ -813,7 +813,7 @@
       46
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 80269,
     "assetId": 80269
   },
@@ -1385,7 +1385,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 900,
     "resourceId": 229167,
     "assetId": 229167
   },
@@ -1738,7 +1738,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 900,
     "resourceId": 244263,
     "assetId": 244263
   },
@@ -2255,7 +2255,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 900,
     "resourceId": 265058,
     "assetId": 265058
   },
@@ -2543,7 +2543,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 1400,
+    "price": 400,
     "resourceId": 276247,
     "assetId": 276247
   },
@@ -2580,7 +2580,7 @@
       52
     ],
     "hasDynamicImage": false,
-    "price": 2000,
+    "price": 1300,
     "resourceId": 276966,
     "assetId": 276966
   },
@@ -2699,7 +2699,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 950,
+    "price": 2700,
     "resourceId": 50407430,
     "assetId": 75782
   },
@@ -2749,6 +2749,55 @@
     "resourceId": 50555281,
     "assetId": 223633
   },
+  "50555358": {
+    "name": "Vedat Muriqi",
+    "cardName": "Muriqi",
+    "originalVersionId": "3",
+    "clubId": 453,
+    "leagueId": 53,
+    "countryId": 219,
+    "versionId": "3",
+    "rating": 84,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      24,
+      4,
+      6,
+      7
+    ],
+    "playStylesPlus": [
+      29
+    ],
+    "rolesPlus": [
+      41,
+      142,
+      144
+    ],
+    "rolesPlusPlus": [
+      41,
+      142,
+      144
+    ],
+    "attributes": [
+      78,
+      86,
+      71,
+      80,
+      34,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 12250,
+    "resourceId": 50555358,
+    "assetId": 223710
+  },
   "50571411": {
     "name": "Edon Zhegrova",
     "cardName": "Zhegrova",
@@ -2791,7 +2840,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 900,
     "resourceId": 50571411,
     "assetId": 239763
   },
@@ -2851,7 +2900,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 12500,
     "resourceId": 50596706,
     "assetId": 265058
   },
@@ -3058,14 +3107,15 @@
       "ST"
     ],
     "playStyles": [
-      0,
       1,
       20,
       22,
       29,
       6
     ],
-    "playStylesPlus": [],
+    "playStylesPlus": [
+      0
+    ],
     "rolesPlus": [
       131,
       132,
@@ -3095,7 +3145,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 11750,
     "resourceId": 67374441,
     "assetId": 265577
   }

@@ -77,7 +77,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 200,
       "resourceId": 72754,
       "assetId": 72754
     },
@@ -154,7 +154,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 750,
       "resourceId": 193105,
       "assetId": 193105
     },
@@ -490,7 +490,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 229880,
       "assetId": 229880
     },
@@ -744,50 +744,6 @@
       "resourceId": 246158,
       "assetId": 246158
     },
-    "251954": {
-      "name": "Crysencio Summerville",
-      "cardName": "Summerville",
-      "originalVersionId": "0",
-      "clubId": 19,
-      "leagueId": 13,
-      "countryId": 34,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        21,
-        22,
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        29,
-        30
-      ],
-      "rolesPlusPlus": [
-        29,
-        30
-      ],
-      "attributes": [
-        89,
-        71,
-        67,
-        80,
-        35,
-        54
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 251954,
-      "assetId": 251954
-    },
     "264579": {
       "name": "Freddie Potts",
       "cardName": "Potts",
@@ -908,7 +864,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4900,
       "resourceId": 274104,
       "assetId": 274104
     },
@@ -1196,6 +1152,58 @@
       "price": 350,
       "resourceId": 50573233,
       "assetId": 241585
+    },
+    "50583602": {
+      "name": "Crysencio Summerville",
+      "cardName": "Summerville",
+      "originalVersionId": "3",
+      "clubId": 19,
+      "leagueId": 13,
+      "countryId": 34,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20,
+        22,
+        25,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        29,
+        127,
+        130,
+        139
+      ],
+      "rolesPlusPlus": [
+        29,
+        127,
+        130,
+        139
+      ],
+      "attributes": [
+        95,
+        83,
+        80,
+        90,
+        45,
+        68
+      ],
+      "hasDynamicImage": true,
+      "price": 90000,
+      "resourceId": 50583602,
+      "assetId": 251954
     },
     "50602505": {
       "name": "Mateus Fernandes",

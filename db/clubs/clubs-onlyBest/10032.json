@@ -889,52 +889,6 @@
       "resourceId": 264705,
       "assetId": 264705
     },
-    "270913": {
-      "name": "Uran Bislimi",
-      "cardName": "Bislimi",
-      "originalVersionId": "0",
-      "clubId": 10032,
-      "leagueId": 189,
-      "countryId": 47,
-      "versionId": "2001",
-      "rating": 72,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        20,
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        22,
-        33
-      ],
-      "rolesPlusPlus": [
-        18,
-        22,
-        33
-      ],
-      "attributes": [
-        69,
-        66,
-        71,
-        74,
-        64,
-        72
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 270913,
-      "assetId": 270913
-    },
     "271502": {
       "name": "Šerif Berbić",
       "cardName": "Berbić",
@@ -1213,9 +1167,62 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 15000,
       "resourceId": 50571656,
       "assetId": 240008
+    },
+    "50602561": {
+      "name": "Uran Bislimi",
+      "cardName": "Bislimi",
+      "originalVersionId": "3",
+      "clubId": 10032,
+      "leagueId": 189,
+      "countryId": 47,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        14,
+        2,
+        20,
+        26
+      ],
+      "playStylesPlus": [
+        9
+      ],
+      "rolesPlus": [
+        22,
+        33,
+        114,
+        118
+      ],
+      "rolesPlusPlus": [
+        22,
+        33,
+        114,
+        118
+      ],
+      "attributes": [
+        81,
+        80,
+        83,
+        86,
+        76,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 12500,
+      "resourceId": 50602561,
+      "assetId": 270913
     }
   }
 }

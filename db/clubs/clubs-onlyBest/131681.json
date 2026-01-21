@@ -34,7 +34,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 72179,
       "assetId": 72179
     },
@@ -121,7 +121,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 213666,
       "assetId": 213666
     },
@@ -296,7 +296,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 2700,
       "resourceId": 243627,
       "assetId": 243627
     },
@@ -345,7 +345,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 245630,
       "assetId": 245630
     },
@@ -527,7 +527,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 257186,
       "assetId": 257186
     },
@@ -607,7 +607,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 200,
       "resourceId": 278237,
       "assetId": 278237
     },
@@ -729,52 +729,6 @@
       "resourceId": 50404934,
       "assetId": 73286
     },
-    "50541656": {
-      "name": "Adrien Rabiot",
-      "cardName": "Rabiot",
-      "originalVersionId": "1",
-      "clubId": 131681,
-      "leagueId": 31,
-      "countryId": 18,
-      "versionId": "3002",
-      "rating": 83,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        22,
-        24,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        31,
-        32
-      ],
-      "rolesPlusPlus": [
-        18,
-        31,
-        32
-      ],
-      "attributes": [
-        81,
-        79,
-        81,
-        80,
-        77,
-        84
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 50541656,
-      "assetId": 210008
-    },
     "50547346": {
       "name": "Mike Maignan",
       "cardName": "Maignan",
@@ -814,7 +768,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 27750,
+      "price": 28750,
       "resourceId": 50547346,
       "assetId": 215698
     },
@@ -1071,9 +1025,61 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 180000,
+      "price": 187000,
       "resourceId": 67285867,
       "assetId": 177003
+    },
+    "67318872": {
+      "name": "Adrien Rabiot",
+      "cardName": "Rabiot",
+      "originalVersionId": "3",
+      "clubId": 131681,
+      "leagueId": 31,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        22,
+        26,
+        4,
+        6
+      ],
+      "playStylesPlus": [
+        24
+      ],
+      "rolesPlus": [
+        31,
+        32,
+        118,
+        133
+      ],
+      "rolesPlusPlus": [
+        31,
+        32,
+        118,
+        133
+      ],
+      "attributes": [
+        84,
+        84,
+        84,
+        85,
+        81,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 32250,
+      "resourceId": 67318872,
+      "assetId": 210008
     },
     "67336660": {
       "name": "Christian Pulisic",
@@ -1266,7 +1272,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 469000,
+      "price": 483000,
       "resourceId": 67350585,
       "assetId": 241721
     },
