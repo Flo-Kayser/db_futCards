@@ -47,7 +47,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 209000,
+      "price": 217000,
       "resourceId": 50520193,
       "assetId": 188545
     },
@@ -96,7 +96,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 97500,
+      "price": 103000,
       "resourceId": 50524096,
       "assetId": 192448
     },
@@ -152,7 +152,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 650000,
+      "price": 641000,
       "resourceId": 50560350,
       "assetId": 228702
     },
@@ -270,7 +270,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 544000,
+      "price": 570000,
       "resourceId": 50565067,
       "assetId": 233419
     },
@@ -324,7 +324,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 23500,
+      "price": 25750,
       "resourceId": 50573109,
       "assetId": 241461
     },
@@ -458,7 +458,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 400000,
+      "price": 407000,
       "resourceId": 50583502,
       "assetId": 251854
     },
@@ -508,7 +508,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 102000,
+      "price": 98500,
       "resourceId": 50595226,
       "assetId": 263578
     },
@@ -554,7 +554,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 34250,
+      "price": 47000,
       "resourceId": 50597248,
       "assetId": 265600
     },
@@ -604,7 +604,7 @@
         61
       ],
       "hasDynamicImage": true,
-      "price": 65000,
+      "price": 58500,
       "resourceId": 50608827,
       "assetId": 277179
     },
@@ -663,7 +663,7 @@
         53
       ],
       "hasDynamicImage": true,
-      "price": 1305000,
+      "price": 1250000,
       "resourceId": 50609291,
       "assetId": 277643
     },
@@ -711,7 +711,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 161000,
+      "price": 144000,
       "resourceId": 50609694,
       "assetId": 278046
     },
@@ -818,7 +818,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 305000,
+      "price": 307000,
       "resourceId": 67342283,
       "assetId": 233419
     },
@@ -879,7 +879,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 986000,
+      "price": 930000,
       "resourceId": 67350350,
       "assetId": 241486
     },
@@ -940,7 +940,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 3500000,
+      "price": 3290000,
       "resourceId": 67360718,
       "assetId": 251854
     },
@@ -1113,9 +1113,79 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 1070000,
+      "price": 1149000,
       "resourceId": 84117757,
       "assetId": 231677
+    },
+    "84119499": {
+      "name": "Raphinha",
+      "cardName": "Raphinha",
+      "originalVersionId": "5",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 54,
+      "versionId": "5",
+      "rating": 95,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        11,
+        2,
+        23,
+        25,
+        26,
+        6
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        21
+      ],
+      "rolesPlus": [
+        23,
+        27,
+        32,
+        35,
+        38,
+        126,
+        130,
+        131,
+        136,
+        139
+      ],
+      "rolesPlusPlus": [
+        23,
+        27,
+        32,
+        35,
+        38,
+        126,
+        130,
+        131,
+        136,
+        139
+      ],
+      "attributes": [
+        95,
+        90,
+        91,
+        94,
+        61,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84119499,
+      "assetId": 233419
     },
     "84163259": {
       "name": "Fermín",
@@ -1166,7 +1236,7 @@
         64
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 16750,
       "resourceId": 84163259,
       "assetId": 277179
     },
@@ -1222,8 +1292,68 @@
         55
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 609000,
+      "sbcPrice": 594250,
       "resourceId": 84163723,
+      "assetId": 277643
+    },
+    "100940939": {
+      "name": "Lamine Yamal",
+      "cardName": "Lamine Yamal",
+      "originalVersionId": "64",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "64",
+      "rating": 92,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        11,
+        22,
+        25,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        20,
+        8
+      ],
+      "rolesPlus": [
+        24,
+        25,
+        37,
+        123,
+        126,
+        135,
+        136
+      ],
+      "rolesPlusPlus": [
+        24,
+        25,
+        37,
+        123,
+        126,
+        135,
+        136
+      ],
+      "attributes": [
+        88,
+        85,
+        91,
+        94,
+        26,
+        68
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 100940939,
       "assetId": 277643
     }
   }

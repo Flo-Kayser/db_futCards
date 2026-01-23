@@ -146,7 +146,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 75566,
       "assetId": 75566
     },
@@ -221,7 +221,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 4900,
       "resourceId": 79446,
       "assetId": 79446
     },
@@ -351,7 +351,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 247790,
       "assetId": 247790
     },
@@ -663,7 +663,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 850,
       "resourceId": 265063,
       "assetId": 265063
     },
@@ -843,7 +843,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 42000,
+      "price": 40000,
       "resourceId": 50557950,
       "assetId": 226302
     },
@@ -906,71 +906,6 @@
       "resourceId": 50558985,
       "assetId": 227337
     },
-    "50572365": {
-      "name": "Lineth Beerensteyn",
-      "cardName": "Beerensteyn",
-      "originalVersionId": "151",
-      "clubId": 115998,
-      "leagueId": 2215,
-      "countryId": 34,
-      "versionId": "151",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        20,
-        25,
-        4,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        127,
-        128,
-        129,
-        130,
-        138,
-        139,
-        140,
-        141,
-        142,
-        143,
-        144
-      ],
-      "rolesPlusPlus": [
-        127,
-        128,
-        129,
-        130,
-        138,
-        139,
-        140,
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        92,
-        82,
-        75,
-        88,
-        55,
-        78
-      ],
-      "hasDynamicImage": true,
-      "price": 17500,
-      "resourceId": 50572365,
-      "assetId": 240717
-    },
     "50596703": {
       "name": "Vivien Endemann",
       "cardName": "Endemann",
@@ -1009,7 +944,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 21750,
+      "price": 15500,
       "resourceId": 50596703,
       "assetId": 265055
     },
@@ -1108,9 +1043,69 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 13500,
       "resourceId": 50597057,
       "assetId": 265409
+    },
+    "67349581": {
+      "name": "Lineth Beerensteyn",
+      "cardName": "Beerensteyn",
+      "originalVersionId": "64",
+      "clubId": 115998,
+      "leagueId": 2215,
+      "countryId": 34,
+      "versionId": "64",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        21,
+        25,
+        4,
+        7
+      ],
+      "playStylesPlus": [
+        12
+      ],
+      "rolesPlus": [
+        29,
+        30,
+        41,
+        43,
+        127,
+        138,
+        139
+      ],
+      "rolesPlusPlus": [
+        29,
+        30,
+        41,
+        43,
+        127,
+        138,
+        139
+      ],
+      "attributes": [
+        93,
+        84,
+        82,
+        90,
+        59,
+        81
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 67349581,
+      "assetId": 240717
     }
   }
 }

@@ -1101,7 +1101,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 2500,
+    "price": 1800,
     "resourceId": 225682,
     "assetId": 225682
   },
@@ -3246,7 +3246,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 1000,
     "resourceId": 256199,
     "assetId": 256199
   },
@@ -3617,7 +3617,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 1200,
+    "price": 1000,
     "resourceId": 263397,
     "assetId": 263397
   },
@@ -4051,7 +4051,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 1200,
+    "price": 950,
     "resourceId": 268611,
     "assetId": 268611
   },
@@ -4093,7 +4093,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 1200,
+    "price": 1000,
     "resourceId": 271417,
     "assetId": 271417
   },
@@ -4216,7 +4216,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 400,
     "resourceId": 274559,
     "assetId": 274559
   },
@@ -4328,7 +4328,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 350,
     "resourceId": 274741,
     "assetId": 274741
   },
@@ -4484,59 +4484,6 @@
     "resourceId": 279487,
     "assetId": 279487
   },
-  "50587844": {
-    "name": "Willian Pacho",
-    "cardName": "Pacho",
-    "originalVersionId": "33",
-    "clubId": 73,
-    "leagueId": 16,
-    "countryId": 57,
-    "versionId": "33",
-    "rating": 87,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [
-      10,
-      14,
-      15,
-      17,
-      19,
-      5,
-      9
-    ],
-    "playStylesPlus": [
-      28
-    ],
-    "rolesPlus": [
-      111,
-      112,
-      113,
-      148
-    ],
-    "rolesPlusPlus": [
-      111,
-      112,
-      113,
-      148
-    ],
-    "attributes": [
-      82,
-      35,
-      66,
-      64,
-      88,
-      87
-    ],
-    "hasDynamicImage": true,
-    "sbcPrice": 172750,
-    "resourceId": 50587844,
-    "assetId": 256196
-  },
   "50587845": {
     "name": "Piero Hincapié",
     "cardName": "Hincapié",
@@ -4581,7 +4528,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 1200,
+    "price": 1100,
     "resourceId": 50587845,
     "assetId": 256197
   },
@@ -4622,7 +4569,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 50000,
+    "price": 40000,
     "resourceId": 50591552,
     "assetId": 259904
   },
@@ -4665,7 +4612,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 300,
     "resourceId": 50595170,
     "assetId": 263522
   },
@@ -4719,7 +4666,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 21250,
     "resourceId": 50604217,
     "assetId": 272569
   },
@@ -4817,5 +4764,57 @@
     "sbcPrice": 176000,
     "resourceId": 67364943,
     "assetId": 256079
+  },
+  "67365060": {
+    "name": "Willian Pacho",
+    "cardName": "Pacho",
+    "originalVersionId": "64",
+    "clubId": 73,
+    "leagueId": 16,
+    "countryId": 57,
+    "versionId": "64",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      14,
+      15,
+      17,
+      19,
+      28
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      48,
+      111,
+      112,
+      113
+    ],
+    "rolesPlusPlus": [
+      48,
+      111,
+      112,
+      113
+    ],
+    "attributes": [
+      85,
+      38,
+      70,
+      73,
+      90,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67365060,
+    "assetId": 256196
   }
 }

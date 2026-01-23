@@ -1,57 +1,4 @@
 {
-  "50587844": {
-    "name": "Willian Pacho",
-    "cardName": "Pacho",
-    "originalVersionId": "33",
-    "clubId": 73,
-    "leagueId": 16,
-    "countryId": 57,
-    "versionId": "33",
-    "rating": 87,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [
-      10,
-      14,
-      15,
-      17,
-      19,
-      5,
-      9
-    ],
-    "playStylesPlus": [
-      28
-    ],
-    "rolesPlus": [
-      111,
-      112,
-      113,
-      148
-    ],
-    "rolesPlusPlus": [
-      111,
-      112,
-      113,
-      148
-    ],
-    "attributes": [
-      82,
-      35,
-      66,
-      64,
-      88,
-      87
-    ],
-    "hasDynamicImage": true,
-    "sbcPrice": 172750,
-    "resourceId": 50587844,
-    "assetId": 256196
-  },
   "50591552": {
     "name": "Gonzalo Valle",
     "cardName": "Valle",
@@ -89,7 +36,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 50000,
+    "price": 40000,
     "resourceId": 50591552,
     "assetId": 259904
   },
@@ -143,7 +90,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 21250,
     "resourceId": 50604217,
     "assetId": 272569
   },
@@ -203,5 +150,57 @@
     "sbcPrice": 176000,
     "resourceId": 67364943,
     "assetId": 256079
+  },
+  "67365060": {
+    "name": "Willian Pacho",
+    "cardName": "Pacho",
+    "originalVersionId": "64",
+    "clubId": 73,
+    "leagueId": 16,
+    "countryId": 57,
+    "versionId": "64",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      14,
+      15,
+      17,
+      19,
+      28
+    ],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      48,
+      111,
+      112,
+      113
+    ],
+    "rolesPlusPlus": [
+      48,
+      111,
+      112,
+      113
+    ],
+    "attributes": [
+      85,
+      38,
+      70,
+      73,
+      90,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67365060,
+    "assetId": 256196
   }
 }
