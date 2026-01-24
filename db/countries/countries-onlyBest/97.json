@@ -113,7 +113,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 250,
     "resourceId": 72099,
     "assetId": 72099
   },
@@ -193,7 +193,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 950,
     "resourceId": 73348,
     "assetId": 73348
   },
@@ -387,7 +387,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 300,
     "resourceId": 188825,
     "assetId": 188825
   },
@@ -475,7 +475,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 300,
     "resourceId": 206436,
     "assetId": 206436
   },
@@ -518,7 +518,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 500,
     "resourceId": 210372,
     "assetId": 210372
   },
@@ -643,7 +643,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 350,
     "resourceId": 224444,
     "assetId": 224444
   },
@@ -825,7 +825,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 1200,
+    "price": 1000,
     "resourceId": 235955,
     "assetId": 235955
   },
@@ -950,7 +950,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 850,
+    "price": 750,
     "resourceId": 240753,
     "assetId": 240753
   },
@@ -994,7 +994,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 850,
+    "price": 750,
     "resourceId": 242641,
     "assetId": 242641
   },
@@ -1130,7 +1130,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 10000,
     "resourceId": 252302,
     "assetId": 252302
   },
@@ -1174,7 +1174,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 3500,
     "resourceId": 252383,
     "assetId": 252383
   },
@@ -1493,7 +1493,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 1200,
+    "price": 1100,
     "resourceId": 264201,
     "assetId": 264201
   },
@@ -1545,7 +1545,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 850,
+    "price": 750,
     "resourceId": 264697,
     "assetId": 264697
   },
@@ -1669,7 +1669,7 @@
       47
     ],
     "hasDynamicImage": false,
-    "price": 3200,
+    "price": 3900,
     "resourceId": 266889,
     "assetId": 266889
   },
@@ -1752,7 +1752,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 1300,
     "resourceId": 269956,
     "assetId": 269956
   },
@@ -1798,7 +1798,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 350,
     "resourceId": 270084,
     "assetId": 270084
   },
@@ -2133,7 +2133,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 271244,
     "assetId": 271244
   },
@@ -2404,6 +2404,8 @@
       "RW"
     ],
     "playStyles": [
+      0,
+      12,
       22,
       23,
       25,
@@ -2413,13 +2415,17 @@
     "playStylesPlus": [],
     "rolesPlus": [
       26,
+      35,
       36,
+      124,
       125,
       137
     ],
     "rolesPlusPlus": [
       26,
+      35,
       36,
+      124,
       125,
       137
     ],
@@ -2432,7 +2438,7 @@
       61
     ],
     "hasDynamicImage": true,
-    "price": 60000,
+    "price": 0,
     "resourceId": 50402374,
     "assetId": 70726
   },
@@ -2490,7 +2496,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 15000,
     "resourceId": 50544944,
     "assetId": 213296
   },
@@ -2639,7 +2645,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 750,
     "resourceId": 50558402,
     "assetId": 226754
   },
@@ -2680,7 +2686,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 5000,
+    "price": 200,
     "resourceId": 50571959,
     "assetId": 240311
   },
@@ -2820,7 +2826,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 550,
     "resourceId": 50596040,
     "assetId": 264392
   },
@@ -2914,7 +2920,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 44250,
+    "price": 41250,
     "resourceId": 50606677,
     "assetId": 275029
   },
@@ -2974,7 +2980,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 32500,
+    "price": 34000,
     "resourceId": 67313349,
     "assetId": 204485
   },
@@ -3032,7 +3038,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 16250,
     "resourceId": 67365982,
     "assetId": 257118
   }
