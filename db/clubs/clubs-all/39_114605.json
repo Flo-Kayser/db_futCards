@@ -42,58 +42,11 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 15750,
     "resourceId": 50523342,
     "assetId": 191694,
     "name": "Jorge Campos",
     "cardName": "Campos"
-  },
-  {
-    "clubId": 114605,
-    "leagueId": 39,
-    "countryId": 95,
-    "versionId": "72",
-    "rating": 85,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "LB",
-      "LM",
-      "LW"
-    ],
-    "playStyles": [
-      25,
-      26
-    ],
-    "playStylesPlus": [
-      21
-    ],
-    "rolesPlus": [
-      9,
-      38,
-      128
-    ],
-    "rolesPlusPlus": [
-      9,
-      38,
-      128
-    ],
-    "attributes": [
-      91,
-      77,
-      79,
-      86,
-      73,
-      74
-    ],
-    "hasDynamicImage": false,
-    "price": 18250,
-    "resourceId": 39386,
-    "assetId": 39386,
-    "name": "DaMarcus Beasley",
-    "cardName": "Beasley"
   },
   {
     "clubId": 114605,
@@ -137,7 +90,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 13500,
+    "price": 13000,
     "resourceId": 7743,
     "assetId": 7743,
     "name": "Landon Donovan",
@@ -146,42 +99,49 @@
   {
     "clubId": 114605,
     "leagueId": 39,
-    "countryId": 83,
+    "countryId": 95,
     "versionId": "72",
-    "rating": 87,
-    "preferredFoot": "Right",
+    "rating": 85,
+    "preferredFoot": "Left",
     "weakFoot": 4,
     "skillMoves": 3,
-    "preferredPosition": "GK",
+    "preferredPosition": "LM",
     "possiblePositions": [
-      "GK"
+      "LB",
+      "LM",
+      "LW"
     ],
     "playStyles": [
-      34
+      25,
+      26
     ],
     "playStylesPlus": [
-      32
+      21
     ],
     "rolesPlus": [
-      145
+      9,
+      38,
+      128
     ],
     "rolesPlusPlus": [
-      145
+      9,
+      38,
+      128
     ],
     "attributes": [
-      93,
-      83,
-      81,
-      90,
-      84,
-      80
+      91,
+      77,
+      79,
+      86,
+      73,
+      74
     ],
     "hasDynamicImage": false,
     "price": 17750,
-    "resourceId": 191694,
-    "assetId": 191694,
-    "name": "Jorge Campos",
-    "cardName": "Campos"
+    "resourceId": 39386,
+    "assetId": 39386,
+    "name": "DaMarcus Beasley",
+    "cardName": "Beasley"
   },
   {
     "clubId": 114605,
@@ -222,10 +182,50 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 11500,
     "resourceId": 155897,
     "assetId": 155897,
     "name": "Clint Dempsey",
     "cardName": "Dempsey"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 39,
+    "countryId": 83,
+    "versionId": "72",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      34
+    ],
+    "playStylesPlus": [
+      32
+    ],
+    "rolesPlus": [
+      145
+    ],
+    "rolesPlusPlus": [
+      145
+    ],
+    "attributes": [
+      93,
+      83,
+      81,
+      90,
+      84,
+      80
+    ],
+    "hasDynamicImage": false,
+    "price": 15250,
+    "resourceId": 191694,
+    "assetId": 191694,
+    "name": "Jorge Campos",
+    "cardName": "Campos"
   }
 ]
