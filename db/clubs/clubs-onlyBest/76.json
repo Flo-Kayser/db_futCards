@@ -306,7 +306,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 245865,
       "assetId": 245865
     },
@@ -519,7 +519,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 258437,
       "assetId": 258437
     },
@@ -599,7 +599,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 5900,
       "resourceId": 261495,
       "assetId": 261495
     },
@@ -850,7 +850,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 270039,
       "assetId": 270039
     },
@@ -887,7 +887,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 400,
       "resourceId": 270821,
       "assetId": 270821
     },
@@ -1049,7 +1049,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 274559,
       "assetId": 274559
     },
@@ -1127,7 +1127,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 1500,
       "resourceId": 275507,
       "assetId": 275507
     },
@@ -1294,54 +1294,6 @@
       "resourceId": 50561632,
       "assetId": 229984
     },
-    "50587082": {
-      "name": "Julio César Enciso",
-      "cardName": "Enciso",
-      "originalVersionId": "1",
-      "clubId": 76,
-      "leagueId": 16,
-      "countryId": 58,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "RM",
-        "ST"
-      ],
-      "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        30,
-        32,
-        33
-      ],
-      "rolesPlusPlus": [
-        26,
-        30,
-        32,
-        33
-      ],
-      "attributes": [
-        74,
-        72,
-        70,
-        78,
-        33,
-        51
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50587082,
-      "assetId": 255434
-    },
     "50595018": {
       "name": "Valentín Barco",
       "cardName": "Barco",
@@ -1387,7 +1339,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 16750,
+      "price": 20500,
       "resourceId": 50595018,
       "assetId": 263370
     },
@@ -1430,7 +1382,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 700,
       "resourceId": 50603588,
       "assetId": 271940
     },
@@ -1505,7 +1457,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 14500,
       "resourceId": 50606856,
       "assetId": 275208
     },
@@ -1547,6 +1499,60 @@
       "price": 350,
       "resourceId": 50607155,
       "assetId": 275507
+    },
+    "67364298": {
+      "name": "Julio César Enciso",
+      "cardName": "Enciso",
+      "originalVersionId": "3",
+      "clubId": 76,
+      "leagueId": 16,
+      "countryId": 58,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        12,
+        2,
+        20,
+        24
+      ],
+      "playStylesPlus": [
+        1
+      ],
+      "rolesPlus": [
+        30,
+        33,
+        126,
+        132
+      ],
+      "rolesPlusPlus": [
+        30,
+        33,
+        126,
+        132
+      ],
+      "attributes": [
+        85,
+        85,
+        85,
+        89,
+        45,
+        67
+      ],
+      "hasDynamicImage": true,
+      "price": 18000,
+      "resourceId": 67364298,
+      "assetId": 255434
     }
   }
 }

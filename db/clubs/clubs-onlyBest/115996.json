@@ -347,7 +347,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 264922,
       "assetId": 264922
     },
@@ -393,7 +393,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 264924,
       "assetId": 264924
     },
@@ -434,7 +434,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 200,
       "resourceId": 264926,
       "assetId": 264926
     },
@@ -599,52 +599,6 @@
       "price": 350,
       "resourceId": 265118,
       "assetId": 265118
-    },
-    "265377": {
-      "name": "Vanessa Fudalla",
-      "cardName": "Fudalla",
-      "originalVersionId": "1",
-      "clubId": 115996,
-      "leagueId": 2215,
-      "countryId": 21,
-      "versionId": "3002",
-      "rating": 82,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [
-        2,
-        3
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        31,
-        33,
-        43
-      ],
-      "rolesPlusPlus": [
-        31,
-        33,
-        43
-      ],
-      "attributes": [
-        85,
-        84,
-        74,
-        79,
-        55,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 265377,
-      "assetId": 265377
     },
     "267885": {
       "name": "Juliette Vidal",
@@ -995,6 +949,56 @@
       "hasDynamicImage": true,
       "resourceId": 50596682,
       "assetId": 265034
+    },
+    "50597025": {
+      "name": "Vanessa Fudalla",
+      "cardName": "Fudalla",
+      "originalVersionId": "3",
+      "clubId": 115996,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        20,
+        21,
+        8
+      ],
+      "playStylesPlus": [
+        3
+      ],
+      "rolesPlus": [
+        33,
+        131,
+        143
+      ],
+      "rolesPlusPlus": [
+        33,
+        131,
+        143
+      ],
+      "attributes": [
+        90,
+        88,
+        80,
+        86,
+        60,
+        78
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50597025,
+      "assetId": 265377
     }
   }
 }

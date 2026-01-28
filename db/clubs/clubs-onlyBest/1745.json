@@ -764,7 +764,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 239977,
       "assetId": 239977
     },
@@ -1140,53 +1140,9 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 250,
       "resourceId": 261478,
       "assetId": 261478
-    },
-    "262842": {
-      "name": "Martin Baturina",
-      "cardName": "Baturina",
-      "originalVersionId": "0",
-      "clubId": 1745,
-      "leagueId": 31,
-      "countryId": 10,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        0,
-        13,
-        20,
-        22,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        31
-      ],
-      "rolesPlusPlus": [
-        31
-      ],
-      "attributes": [
-        77,
-        70,
-        78,
-        83,
-        59,
-        66
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 262842,
-      "assetId": 262842
     },
     "262906": {
       "name": "Yannik Engelhardt",
@@ -1345,7 +1301,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2000,
       "resourceId": 273875,
       "assetId": 273875
     },
@@ -1485,7 +1441,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 23750,
+      "price": 24750,
       "resourceId": 50532801,
       "assetId": 201153
     },
@@ -1530,6 +1486,59 @@
       "price": 350,
       "resourceId": 50551341,
       "assetId": 219693
+    },
+    "50594490": {
+      "name": "Martin Baturina",
+      "cardName": "Baturina",
+      "originalVersionId": "3",
+      "clubId": 1745,
+      "leagueId": 31,
+      "countryId": 10,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        13,
+        20,
+        22,
+        6
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        33,
+        128,
+        131,
+        140
+      ],
+      "rolesPlusPlus": [
+        33,
+        128,
+        131,
+        140
+      ],
+      "attributes": [
+        84,
+        82,
+        85,
+        89,
+        65,
+        75
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50594490,
+      "assetId": 262842
     },
     "50602111": {
       "name": "Nikola Čavlina",
@@ -1658,7 +1667,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 15000,
       "resourceId": 84163926,
       "assetId": 277846
     }

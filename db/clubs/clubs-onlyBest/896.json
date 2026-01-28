@@ -156,56 +156,6 @@
       "resourceId": 190243,
       "assetId": 190243
     },
-    "193348": {
-      "name": "Xherdan Shaqiri",
-      "cardName": "Shaqiri",
-      "originalVersionId": "1",
-      "clubId": 896,
-      "leagueId": 189,
-      "countryId": 47,
-      "versionId": "3002",
-      "rating": 78,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        13,
-        2,
-        3,
-        7,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        31,
-        33,
-        35
-      ],
-      "rolesPlusPlus": [
-        31,
-        33,
-        35
-      ],
-      "attributes": [
-        67,
-        81,
-        81,
-        80,
-        40,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 1000,
-      "resourceId": 193348,
-      "assetId": 193348
-    },
     "209332": {
       "name": "Mirko Salvi",
       "cardName": "Salvi",
@@ -1060,7 +1010,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 275721,
       "assetId": 275721
     },
@@ -1301,6 +1251,59 @@
       "price": 350,
       "resourceId": 50402991,
       "assetId": 71343
+    },
+    "50524996": {
+      "name": "Xherdan Shaqiri",
+      "cardName": "Shaqiri",
+      "originalVersionId": "3",
+      "clubId": 896,
+      "leagueId": 189,
+      "countryId": 47,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        1,
+        13,
+        3,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        2
+      ],
+      "rolesPlus": [
+        33,
+        35,
+        121,
+        131
+      ],
+      "rolesPlusPlus": [
+        33,
+        35,
+        121,
+        131
+      ],
+      "attributes": [
+        77,
+        87,
+        87,
+        86,
+        46,
+        80
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50524996,
+      "assetId": 193348
     },
     "50602476": {
       "name": "Ibrahim Salah",

@@ -34,7 +34,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 700,
       "resourceId": 71131,
       "assetId": 71131
     },
@@ -71,7 +71,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 4800,
+      "price": 5000,
       "resourceId": 71364,
       "assetId": 71364
     },
@@ -145,7 +145,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 4300,
+      "price": 0,
       "resourceId": 79431,
       "assetId": 79431
     },
@@ -191,7 +191,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 2400,
       "resourceId": 227110,
       "assetId": 227110
     },
@@ -239,7 +239,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1000,
       "resourceId": 227119,
       "assetId": 227119
     },
@@ -283,7 +283,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 233364,
       "assetId": 233364
     },
@@ -328,7 +328,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 239761,
       "assetId": 239761
     },
@@ -377,52 +377,6 @@
       "resourceId": 244064,
       "assetId": 244064
     },
-    "245802": {
-      "name": "Beth Mead",
-      "cardName": "Mead",
-      "originalVersionId": "1",
-      "clubId": 116009,
-      "leagueId": 2216,
-      "countryId": 14,
-      "versionId": "3002",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        12,
-        20,
-        7
-      ],
-      "playStylesPlus": [
-        22
-      ],
-      "rolesPlus": [
-        126,
-        135
-      ],
-      "rolesPlusPlus": [
-        126,
-        135
-      ],
-      "attributes": [
-        82,
-        84,
-        84,
-        87,
-        67,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 3800,
-      "resourceId": 245802,
-      "assetId": 245802
-    },
     "258680": {
       "name": "Daphne van Domselaar",
       "cardName": "van Domselaar",
@@ -459,7 +413,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 950,
       "resourceId": 258680,
       "assetId": 258680
     },
@@ -789,9 +743,59 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 4500,
       "resourceId": 279129,
       "assetId": 279129
+    },
+    "50577450": {
+      "name": "Beth Mead",
+      "cardName": "Mead",
+      "originalVersionId": "3",
+      "clubId": 116009,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12,
+        2,
+        20,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        22
+      ],
+      "rolesPlus": [
+        25,
+        126,
+        135
+      ],
+      "rolesPlusPlus": [
+        25,
+        126,
+        135
+      ],
+      "attributes": [
+        84,
+        86,
+        85,
+        88,
+        68,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 25000,
+      "resourceId": 50577450,
+      "assetId": 245802
     },
     "50577520": {
       "name": "Kim Little",
@@ -957,7 +961,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 40750,
+      "price": 39000,
       "resourceId": 50588649,
       "assetId": 257001
     },
@@ -1054,7 +1058,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 26750,
+      "price": 27750,
       "resourceId": 50596887,
       "assetId": 265239
     },
@@ -1219,7 +1223,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 2447000,
+      "price": 2235000,
       "resourceId": 67346152,
       "assetId": 237288
     },
@@ -1279,7 +1283,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 713000,
+      "price": 720000,
       "resourceId": 67355290,
       "assetId": 246426
     },
@@ -1344,7 +1348,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 1198000,
+      "price": 1157000,
       "resourceId": 67367844,
       "assetId": 258980
     }

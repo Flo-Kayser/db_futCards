@@ -34,7 +34,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4600,
       "resourceId": 72026,
       "assetId": 72026
     },
@@ -364,7 +364,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 232999,
       "assetId": 232999
     },
@@ -491,7 +491,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 236920,
       "assetId": 236920
     },
@@ -579,7 +579,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1000,
       "resourceId": 242577,
       "assetId": 242577
     },
@@ -661,7 +661,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 246565,
       "assetId": 246565
     },
@@ -709,52 +709,6 @@
       "price": 200,
       "resourceId": 248492,
       "assetId": 248492
-    },
-    "255223": {
-      "name": "Amine Adli",
-      "cardName": "Adli",
-      "originalVersionId": "0",
-      "clubId": 1943,
-      "leagueId": 13,
-      "countryId": 129,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "ST"
-      ],
-      "playStyles": [
-        20,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        30,
-        32,
-        43
-      ],
-      "rolesPlusPlus": [
-        30,
-        32,
-        43
-      ],
-      "attributes": [
-        84,
-        76,
-        70,
-        82,
-        42,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 255223,
-      "assetId": 255223
     },
     "256612": {
       "name": "Evanilson",
@@ -1114,7 +1068,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 200,
       "resourceId": 271756,
       "assetId": 271756
     },
@@ -1209,7 +1163,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 17750,
       "resourceId": 50551844,
       "assetId": 220196
     },
@@ -1330,6 +1284,59 @@
       "price": 0,
       "resourceId": 50579326,
       "assetId": 247678
+    },
+    "50586871": {
+      "name": "Amine Adli",
+      "cardName": "Adli",
+      "originalVersionId": "3",
+      "clubId": 1943,
+      "leagueId": 13,
+      "countryId": 129,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        22,
+        7,
+        9
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        32,
+        130,
+        139,
+        143
+      ],
+      "rolesPlusPlus": [
+        32,
+        130,
+        139,
+        143
+      ],
+      "attributes": [
+        90,
+        83,
+        78,
+        88,
+        48,
+        77
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50586871,
+      "assetId": 255223
     },
     "50610576": {
       "name": "Álex Jiménez",
