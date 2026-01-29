@@ -130,7 +130,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2000,
       "resourceId": 245697,
       "assetId": 245697
     },
@@ -206,7 +206,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 264906,
       "assetId": 264906
     },
@@ -382,7 +382,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 265861,
       "assetId": 265861
     },
@@ -871,7 +871,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 16250,
+      "price": 17500,
       "resourceId": 50577345,
       "assetId": 245697
     },
@@ -910,7 +910,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 400,
       "resourceId": 50596675,
       "assetId": 265027
     },
@@ -972,9 +972,66 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 14000,
       "resourceId": 50597509,
       "assetId": 265861
+    },
+    "50608473": {
+      "name": "Melween N'Dongala",
+      "cardName": "N'Dongala",
+      "originalVersionId": "68",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "68",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        14,
+        15,
+        16,
+        18,
+        28,
+        29
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        3,
+        4,
+        25,
+        105,
+        106,
+        123
+      ],
+      "rolesPlusPlus": [
+        3,
+        4,
+        25,
+        105,
+        106,
+        123
+      ],
+      "attributes": [
+        92,
+        82,
+        85,
+        88,
+        88,
+        87
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50608473,
+      "assetId": 276825
     }
   }
 }

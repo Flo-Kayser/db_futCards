@@ -100,7 +100,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 17000,
       "resourceId": 50543386,
       "assetId": 211738
     },
@@ -149,7 +149,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 15750,
+      "price": 16500,
       "resourceId": 50543890,
       "assetId": 212242
     },
@@ -223,7 +223,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 28000,
+      "price": 21750,
       "resourceId": 50568976,
       "assetId": 237328
     },
@@ -272,7 +272,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 20500,
+      "price": 20000,
       "resourceId": 50578911,
       "assetId": 247263
     },
@@ -379,7 +379,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 50588501,
       "assetId": 256853
     },
@@ -430,54 +430,6 @@
       "price": 0,
       "resourceId": 50605299,
       "assetId": 273651
-    },
-    "50606677": {
-      "name": "Ibrahim Maza",
-      "cardName": "Maza",
-      "originalVersionId": "3",
-      "clubId": 32,
-      "leagueId": 19,
-      "countryId": 97,
-      "versionId": "3",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        20,
-        8,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        22,
-        31,
-        33,
-        121
-      ],
-      "rolesPlusPlus": [
-        22,
-        31,
-        33,
-        121
-      ],
-      "attributes": [
-        87,
-        80,
-        81,
-        90,
-        52,
-        76
-      ],
-      "hasDynamicImage": true,
-      "price": 47750,
-      "resourceId": 50606677,
-      "assetId": 275029
     },
     "67318899": {
       "name": "Grimaldo",
@@ -534,9 +486,66 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 17750,
+      "price": 19000,
       "resourceId": 67318899,
       "assetId": 210035
+    },
+    "67383893": {
+      "name": "Ibrahim Maza",
+      "cardName": "Maza",
+      "originalVersionId": "71",
+      "clubId": 32,
+      "leagueId": 19,
+      "countryId": 97,
+      "versionId": "71",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        13,
+        20,
+        22,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        31,
+        122,
+        132,
+        133
+      ],
+      "rolesPlusPlus": [
+        18,
+        21,
+        31,
+        122,
+        132,
+        133
+      ],
+      "attributes": [
+        91,
+        87,
+        87,
+        92,
+        57,
+        82
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 67383893,
+      "assetId": 275029
     },
     "84120316": {
       "name": "Patrik Schick",
@@ -585,7 +594,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 19250,
+      "price": 17750,
       "resourceId": 84120316,
       "assetId": 234236
     }
