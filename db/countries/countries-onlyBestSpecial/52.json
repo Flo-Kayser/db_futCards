@@ -40,7 +40,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 69500,
+    "price": 69000,
     "resourceId": 7512,
     "assetId": 7512
   },
@@ -89,7 +89,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 71500,
+    "price": 73000,
     "resourceId": 243027,
     "assetId": 243027
   },
@@ -135,7 +135,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 18500,
+    "price": 17750,
     "resourceId": 262271,
     "assetId": 262271
   },
@@ -192,7 +192,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 595000,
+    "price": 630000,
     "resourceId": 50332689,
     "assetId": 1041
   },
@@ -244,7 +244,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 29500,
+    "price": 24250,
     "resourceId": 50342607,
     "assetId": 10959
   },
@@ -296,7 +296,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 220000,
+    "price": 231000,
     "resourceId": 50354822,
     "assetId": 23174
   },
@@ -357,7 +357,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 140000,
+    "price": 130000,
     "resourceId": 50474402,
     "assetId": 142754
   },
@@ -526,7 +526,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 3800000,
+    "price": 4101000,
     "resourceId": 50521690,
     "assetId": 190042
   },
@@ -575,7 +575,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 16000,
     "resourceId": 50524014,
     "assetId": 192366
   },
@@ -784,7 +784,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 18500,
+    "price": 19000,
     "resourceId": 50548464,
     "assetId": 216816
   },
@@ -826,7 +826,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 17500,
     "resourceId": 50554066,
     "assetId": 222418
   },
@@ -977,7 +977,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 37500,
+    "price": 40250,
     "resourceId": 50564136,
     "assetId": 232488
   },
@@ -1055,7 +1055,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 25750,
+    "price": 24750,
     "resourceId": 50568869,
     "assetId": 237221
   },
@@ -1121,7 +1121,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 50500,
+    "price": 48750,
     "resourceId": 50571485,
     "assetId": 239837
   },
@@ -1179,7 +1179,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 15500,
     "resourceId": 50572392,
     "assetId": 240744
   },
@@ -1402,55 +1402,6 @@
     "resourceId": 50591436,
     "assetId": 259788
   },
-  "50595018": {
-    "name": "Valentín Barco",
-    "cardName": "Barco",
-    "originalVersionId": "3",
-    "clubId": 76,
-    "leagueId": 16,
-    "countryId": 52,
-    "versionId": "3",
-    "rating": 81,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CM",
-      "LB",
-      "LM"
-    ],
-    "playStyles": [
-      18,
-      20,
-      8
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      10,
-      18,
-      29,
-      120
-    ],
-    "rolesPlusPlus": [
-      10,
-      18,
-      29,
-      120
-    ],
-    "attributes": [
-      82,
-      58,
-      84,
-      84,
-      77,
-      70
-    ],
-    "hasDynamicImage": true,
-    "price": 17000,
-    "resourceId": 50595018,
-    "assetId": 263370
-  },
   "50598272": {
     "name": "Tadeo Allende",
     "cardName": "Allende",
@@ -1501,9 +1452,61 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 24750,
+    "price": 21750,
     "resourceId": 50598272,
     "assetId": 266624
+  },
+  "50599509": {
+    "name": "Santiago Castro",
+    "cardName": "Castro",
+    "originalVersionId": "71",
+    "clubId": 189,
+    "leagueId": 31,
+    "countryId": 52,
+    "versionId": "71",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      21,
+      29,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      7
+    ],
+    "rolesPlus": [
+      43,
+      141,
+      142,
+      144
+    ],
+    "rolesPlusPlus": [
+      43,
+      141,
+      142,
+      144
+    ],
+    "attributes": [
+      90,
+      87,
+      75,
+      86,
+      50,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50599509,
+    "assetId": 267861
   },
   "50601367": {
     "name": "Santiago Hidalgo",
@@ -1554,9 +1557,47 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 15500,
     "resourceId": 50601367,
     "assetId": 269719
+  },
+  "50602853": {
+    "name": "Isaías Delpupo",
+    "cardName": "Delpupo",
+    "originalVersionId": "9",
+    "clubId": 680,
+    "leagueId": 4,
+    "countryId": 52,
+    "versionId": "9",
+    "rating": 61,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      31
+    ],
+    "rolesPlusPlus": [
+      31
+    ],
+    "attributes": [
+      65,
+      53,
+      61,
+      67,
+      37,
+      56
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50602853,
+    "assetId": 271205
   },
   "50606614": {
     "name": "Carlos Tévez",
@@ -1612,7 +1653,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 330000,
+    "price": 359000,
     "resourceId": 50606614,
     "assetId": 274966
   },
@@ -1720,7 +1761,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 29500,
+    "price": 32000,
     "resourceId": 67324180,
     "assetId": 215316
   },
@@ -1785,7 +1826,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 325000,
+    "price": 333000,
     "resourceId": 67355055,
     "assetId": 246191
   },
@@ -1835,7 +1876,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 15000,
     "resourceId": 67355228,
     "assetId": 246364
   },
@@ -1896,6 +1937,66 @@
     "resourceId": 67369465,
     "assetId": 260601
   },
+  "67372234": {
+    "name": "Valentín Barco",
+    "cardName": "Barco",
+    "originalVersionId": "71",
+    "clubId": 76,
+    "leagueId": 16,
+    "countryId": 52,
+    "versionId": "71",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CM",
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      10,
+      16,
+      18,
+      20,
+      24,
+      9
+    ],
+    "playStylesPlus": [
+      8
+    ],
+    "rolesPlus": [
+      7,
+      20,
+      27,
+      110,
+      118,
+      121,
+      129
+    ],
+    "rolesPlusPlus": [
+      7,
+      20,
+      27,
+      110,
+      118,
+      121,
+      129
+    ],
+    "attributes": [
+      90,
+      65,
+      88,
+      89,
+      85,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 60000,
+    "resourceId": 67372234,
+    "assetId": 263370
+  },
   "67377302": {
     "name": "Alejandro Garnacho",
     "cardName": "Garnacho",
@@ -1951,9 +2052,69 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 288000,
+    "price": 266000,
     "resourceId": 67377302,
     "assetId": 268438
+  },
+  "84076122": {
+    "name": "Diego Armando Maradona",
+    "cardName": "Maradona",
+    "originalVersionId": "170",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 52,
+    "versionId": "170",
+    "rating": 96,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      13,
+      20,
+      22,
+      3,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      21
+    ],
+    "rolesPlus": [
+      33,
+      42,
+      131,
+      132,
+      134,
+      141,
+      143
+    ],
+    "rolesPlusPlus": [
+      33,
+      42,
+      131,
+      132,
+      134,
+      141,
+      143
+    ],
+    "attributes": [
+      92,
+      92,
+      93,
+      97,
+      43,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84076122,
+    "assetId": 190042
   },
   "84151775": {
     "name": "Matías Soulé",
@@ -2012,7 +2173,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 20250,
+    "price": 17000,
     "resourceId": 84151775,
     "assetId": 265695
   },
@@ -2115,7 +2276,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 265050,
+    "sbcPrice": 256300,
     "resourceId": 100894774,
     "assetId": 231478
   },
@@ -2183,7 +2344,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 3821000,
+    "price": 3069000,
     "resourceId": 117598535,
     "assetId": 158023
   },
@@ -2253,7 +2414,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 3290400,
+    "price": 3128350,
     "resourceId": 134375751,
     "assetId": 158023
   }

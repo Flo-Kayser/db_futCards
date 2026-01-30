@@ -1,62 +1,6 @@
 {
   "clubName": "Chelsea",
   "players": {
-    "50408335": {
-      "name": "Estêvão",
-      "cardName": "Estêvão",
-      "originalVersionId": "50",
-      "clubId": 5,
-      "leagueId": 13,
-      "countryId": 54,
-      "versionId": "50",
-      "rating": 86,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        13,
-        2,
-        20,
-        22,
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        31,
-        35,
-        123,
-        126,
-        133,
-        136
-      ],
-      "rolesPlusPlus": [
-        31,
-        35,
-        123,
-        126,
-        133,
-        136
-      ],
-      "attributes": [
-        93,
-        84,
-        82,
-        88,
-        45,
-        65
-      ],
-      "hasDynamicImage": true,
-      "price": 176000,
-      "resourceId": 50408335,
-      "assetId": 76687
-    },
     "50569722": {
       "name": "Reece James",
       "cardName": "James",
@@ -176,7 +120,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 205000,
+      "price": 219000,
       "resourceId": 50570264,
       "assetId": 238616
     },
@@ -268,9 +212,67 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 42250,
+      "price": 38000,
       "resourceId": 50590955,
       "assetId": 259307
+    },
+    "67185551": {
+      "name": "Estêvão",
+      "cardName": "Estêvão",
+      "originalVersionId": "71",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 54,
+      "versionId": "71",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        11,
+        13,
+        22,
+        23,
+        25
+      ],
+      "playStylesPlus": [
+        0,
+        20
+      ],
+      "rolesPlus": [
+        23,
+        31,
+        35,
+        126,
+        133,
+        136
+      ],
+      "rolesPlusPlus": [
+        23,
+        31,
+        35,
+        126,
+        133,
+        136
+      ],
+      "attributes": [
+        94,
+        89,
+        88,
+        92,
+        50,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67185551,
+      "assetId": 76687
     },
     "67348095": {
       "name": "Marc Cucurella",
@@ -439,7 +441,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 121000,
+      "price": 124000,
       "resourceId": 67366398,
       "assetId": 257534
     },
@@ -498,7 +500,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 288000,
+      "price": 266000,
       "resourceId": 67377302,
       "assetId": 268438
     }

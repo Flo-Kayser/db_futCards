@@ -1,4 +1,83 @@
 {
+  "50406613": {
+    "name": "Ebube Duru",
+    "cardName": "Duru",
+    "originalVersionId": "9",
+    "clubId": 1447,
+    "leagueId": 1,
+    "countryId": 133,
+    "versionId": "9",
+    "rating": 61,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      28
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      7
+    ],
+    "rolesPlusPlus": [
+      7
+    ],
+    "attributes": [
+      72,
+      39,
+      50,
+      57,
+      58,
+      67
+    ],
+    "isObjective": true,
+    "hasDynamicImage": false,
+    "resourceId": 50406613,
+    "assetId": 74965
+  },
+  "50410269": {
+    "name": "Oscar Buch",
+    "cardName": "Buch",
+    "originalVersionId": "9",
+    "clubId": 15006,
+    "leagueId": 1,
+    "countryId": 13,
+    "versionId": "9",
+    "rating": 61,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      38
+    ],
+    "rolesPlusPlus": [
+      38
+    ],
+    "attributes": [
+      70,
+      62,
+      57,
+      59,
+      28,
+      60
+    ],
+    "isObjective": true,
+    "hasDynamicImage": false,
+    "resourceId": 50410269,
+    "assetId": 78621
+  },
   "50566120": {
     "name": "Mads Bech Sørensen",
     "cardName": "Sørensen",
@@ -95,7 +174,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 17000,
     "resourceId": 50575314,
     "assetId": 243666
   },
@@ -142,9 +221,47 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 20000,
     "resourceId": 50588581,
     "assetId": 256933
+  },
+  "50610010": {
+    "name": "Lasse Flø",
+    "cardName": "Flø",
+    "originalVersionId": "9",
+    "clubId": 822,
+    "leagueId": 1,
+    "countryId": 13,
+    "versionId": "9",
+    "rating": 60,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      5
+    ],
+    "rolesPlusPlus": [
+      5
+    ],
+    "attributes": [
+      61,
+      35,
+      55,
+      55,
+      58,
+      56
+    ],
+    "isObjective": true,
+    "hasDynamicImage": false,
+    "resourceId": 50610010,
+    "assetId": 278362
   },
   "50610900": {
     "name": "Mikel Gogorza",
@@ -194,7 +311,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 44000,
+    "price": 45000,
     "resourceId": 50610900,
     "assetId": 279252
   }

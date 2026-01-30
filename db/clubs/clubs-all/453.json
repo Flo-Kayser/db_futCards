@@ -596,7 +596,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 228805,
       "assetId": 228805
     },
@@ -1184,6 +1184,49 @@
       "resourceId": 278392,
       "assetId": 278392
     },
+    "50412563": {
+      "name": "Jan Virgili",
+      "cardName": "Jan Virgili",
+      "originalVersionId": "71",
+      "clubId": 453,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "71",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        38
+      ],
+      "rolesPlusPlus": [
+        23,
+        27,
+        38
+      ],
+      "attributes": [
+        81,
+        63,
+        64,
+        73,
+        38,
+        51
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50412563,
+      "assetId": 80915
+    },
     "50540268": {
       "name": "Omar Mascarell",
       "cardName": "Omar Mascarell",
@@ -1233,7 +1276,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 16500,
       "resourceId": 50540268,
       "assetId": 208620
     },
@@ -1334,7 +1377,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 16250,
+      "price": 16000,
       "resourceId": 50555358,
       "assetId": 223710
     },
@@ -1379,9 +1422,61 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 22250,
       "resourceId": 50601854,
       "assetId": 270206
+    },
+    "67332574": {
+      "name": "Vedat Muriqi",
+      "cardName": "Muriqi",
+      "originalVersionId": "86",
+      "clubId": 453,
+      "leagueId": 53,
+      "countryId": 219,
+      "versionId": "86",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        22,
+        29,
+        4,
+        7
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        43,
+        141,
+        142,
+        144
+      ],
+      "rolesPlusPlus": [
+        43,
+        141,
+        142,
+        144
+      ],
+      "attributes": [
+        84,
+        90,
+        81,
+        88,
+        37,
+        90
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 34500,
+      "resourceId": 67332574,
+      "assetId": 223710
     }
   }
 }

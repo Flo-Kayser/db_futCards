@@ -1,6 +1,86 @@
 {
   "clubName": "KAA Gent",
   "players": {
+    "50401839": {
+      "name": "Tibe De Vlieger",
+      "cardName": "De Vlieger",
+      "originalVersionId": "9",
+      "clubId": 674,
+      "leagueId": 4,
+      "countryId": 7,
+      "versionId": "9",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        31
+      ],
+      "rolesPlusPlus": [
+        23,
+        31
+      ],
+      "attributes": [
+        66,
+        65,
+        62,
+        63,
+        35,
+        48
+      ],
+      "isObjective": true,
+      "hasDynamicImage": false,
+      "resourceId": 50401839,
+      "assetId": 70191
+    },
+    "50407263": {
+      "name": "Gilles De Meyer",
+      "cardName": "De Meyer",
+      "originalVersionId": "9",
+      "clubId": 674,
+      "leagueId": 4,
+      "countryId": 7,
+      "versionId": "9",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "rolesPlusPlus": [
+        3
+      ],
+      "attributes": [
+        73,
+        55,
+        55,
+        64,
+        51,
+        48
+      ],
+      "isObjective": true,
+      "hasDynamicImage": false,
+      "resourceId": 50407263,
+      "assetId": 75615
+    },
     "50565815": {
       "name": "Siebe Van der Heyden",
       "cardName": "Van der Heyden",
@@ -42,7 +122,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 21750,
       "resourceId": 50565815,
       "assetId": 234167
     },
@@ -91,7 +171,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 16750,
+      "price": 15750,
       "resourceId": 50571237,
       "assetId": 239589
     },
@@ -141,7 +221,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 16750,
       "resourceId": 50595837,
       "assetId": 264189
     }

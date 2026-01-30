@@ -41,7 +41,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 13750,
+    "price": 12750,
     "resourceId": 168880,
     "assetId": 168880
   },
@@ -83,7 +83,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 13250,
+    "price": 42500,
     "resourceId": 168886,
     "assetId": 168886
   },
@@ -102,6 +102,7 @@
     "preferredPosition": "CM",
     "possiblePositions": [
       "CAM",
+      "CDM",
       "CM",
       "ST"
     ],
@@ -116,16 +117,20 @@
       8
     ],
     "rolesPlus": [
+      14,
       20,
       21,
       31,
+      116,
       118,
       142
     ],
     "rolesPlusPlus": [
+      14,
       20,
       21,
       31,
+      116,
       118,
       142
     ],
@@ -138,7 +143,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 20000,
+    "price": 21500,
     "resourceId": 50512939,
     "assetId": 181291
   },
@@ -189,7 +194,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 31500,
+    "price": 32000,
     "resourceId": 50521529,
     "assetId": 189881
   },
@@ -232,7 +237,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 17000,
     "resourceId": 50536173,
     "assetId": 204525
   },
@@ -289,7 +294,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 18250,
     "resourceId": 50539783,
     "assetId": 208135
   },
@@ -570,7 +575,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 15500,
+    "price": 14750,
     "resourceId": 50542296,
     "assetId": 210648
   },
@@ -667,7 +672,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 17000,
+    "price": 16000,
     "resourceId": 50544712,
     "assetId": 213064
   },
@@ -725,7 +730,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 48750,
+    "price": 49000,
     "resourceId": 50544993,
     "assetId": 213345
   },
@@ -772,7 +777,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 17500,
+    "price": 16000,
     "resourceId": 50551445,
     "assetId": 219797
   },
@@ -880,7 +885,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 32500,
+    "price": 30750,
     "resourceId": 50554385,
     "assetId": 222737
   },
@@ -933,7 +938,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 16500,
     "resourceId": 50555496,
     "assetId": 223848
   },
@@ -1099,7 +1104,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 564000,
+    "price": 489000,
     "resourceId": 50564304,
     "assetId": 232656
   },
@@ -1142,7 +1147,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 17750,
     "resourceId": 50567162,
     "assetId": 235514
   },
@@ -1405,7 +1410,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 126000,
+    "price": 123000,
     "resourceId": 50578905,
     "assetId": 247257
   },
@@ -1462,12 +1467,13 @@
     "leagueId": 350,
     "countryId": 60,
     "versionId": "34",
-    "rating": 89,
+    "rating": 90,
     "preferredFoot": "Right",
-    "weakFoot": 4,
+    "weakFoot": 5,
     "skillMoves": 4,
     "preferredPosition": "ST",
     "possiblePositions": [
+      "RW",
       "ST"
     ],
     "playStyles": [
@@ -1481,25 +1487,31 @@
       6
     ],
     "rolesPlus": [
+      35,
+      37,
       44,
+      136,
       141,
       142
     ],
     "rolesPlusPlus": [
+      35,
+      37,
       44,
+      136,
       141,
       142
     ],
     "attributes": [
-      92,
-      88,
-      82,
-      85,
-      57,
-      86
+      93,
+      89,
+      83,
+      86,
+      58,
+      87
     ],
     "hasDynamicImage": true,
-    "price": 109000,
+    "price": 94000,
     "resourceId": 50584720,
     "assetId": 253072
   },
@@ -1565,7 +1577,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 151000,
+    "price": 145000,
     "resourceId": 50598342,
     "assetId": 266694
   },
@@ -1809,7 +1821,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 16500,
     "resourceId": 67274017,
     "assetId": 165153
   },
@@ -1928,7 +1940,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 33750,
+    "price": 33000,
     "resourceId": 67313349,
     "assetId": 204485
   },
@@ -1995,7 +2007,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 308000,
+    "price": 295000,
     "resourceId": 67324778,
     "assetId": 215914
   },
@@ -2075,7 +2087,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 20250,
+    "price": 20000,
     "resourceId": 67333157,
     "assetId": 224293
   },
@@ -2126,7 +2138,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 16750,
     "resourceId": 67343443,
     "assetId": 234579
   },
@@ -2202,7 +2214,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 310000,
+    "price": 252000,
     "resourceId": 67351308,
     "assetId": 242444
   },
@@ -2320,7 +2332,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 4811000,
+    "price": 4029000,
     "resourceId": 100684097,
     "assetId": 20801
   },
@@ -2373,7 +2385,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 3329000,
+    "price": 3023100,
     "resourceId": 117461313,
     "assetId": 20801
   }

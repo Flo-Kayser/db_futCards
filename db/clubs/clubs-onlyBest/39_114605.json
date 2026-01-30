@@ -51,11 +51,11 @@
     "clubId": 114605,
     "leagueId": 39,
     "countryId": 95,
-    "versionId": "72",
-    "rating": 85,
+    "versionId": "23",
+    "rating": 88,
     "preferredFoot": "Left",
     "weakFoot": 4,
-    "skillMoves": 3,
+    "skillMoves": 4,
     "preferredPosition": "LM",
     "possiblePositions": [
       "LB",
@@ -63,33 +63,47 @@
       "LW"
     ],
     "playStyles": [
+      12,
+      14,
+      16,
+      20,
+      24,
       25,
       26
     ],
     "playStylesPlus": [
-      21
+      21,
+      8
     ],
     "rolesPlus": [
       9,
-      38,
-      128
+      30,
+      39,
+      110,
+      127,
+      128,
+      138
     ],
     "rolesPlusPlus": [
       9,
-      38,
-      128
+      30,
+      39,
+      110,
+      127,
+      128,
+      138
     ],
     "attributes": [
-      91,
-      77,
-      79,
-      86,
-      73,
-      74
+      94,
+      81,
+      87,
+      89,
+      82,
+      80
     ],
-    "hasDynamicImage": false,
-    "price": 17000,
-    "resourceId": 39386,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50371034,
     "assetId": 39386,
     "name": "DaMarcus Beasley",
     "cardName": "Beasley"
@@ -182,7 +196,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 16000,
     "resourceId": 50523342,
     "assetId": 191694,
     "name": "Jorge Campos",

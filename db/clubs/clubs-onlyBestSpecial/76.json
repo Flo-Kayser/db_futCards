@@ -1,55 +1,6 @@
 {
   "clubName": "Strasbourg",
   "players": {
-    "50595018": {
-      "name": "Valentín Barco",
-      "cardName": "Barco",
-      "originalVersionId": "3",
-      "clubId": 76,
-      "leagueId": 16,
-      "countryId": 52,
-      "versionId": "3",
-      "rating": 81,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CM",
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        18,
-        20,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        10,
-        18,
-        29,
-        120
-      ],
-      "rolesPlusPlus": [
-        10,
-        18,
-        29,
-        120
-      ],
-      "attributes": [
-        82,
-        58,
-        84,
-        84,
-        77,
-        70
-      ],
-      "hasDynamicImage": true,
-      "price": 17000,
-      "resourceId": 50595018,
-      "assetId": 263370
-    },
     "50606856": {
       "name": "Guéla Doué",
       "cardName": "Doué",
@@ -121,7 +72,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 14000,
       "resourceId": 50606856,
       "assetId": 275208
     },
@@ -175,9 +126,69 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 16750,
+      "price": 16000,
       "resourceId": 67364298,
       "assetId": 255434
+    },
+    "67372234": {
+      "name": "Valentín Barco",
+      "cardName": "Barco",
+      "originalVersionId": "71",
+      "clubId": 76,
+      "leagueId": 16,
+      "countryId": 52,
+      "versionId": "71",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        18,
+        20,
+        24,
+        9
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        7,
+        20,
+        27,
+        110,
+        118,
+        121,
+        129
+      ],
+      "rolesPlusPlus": [
+        7,
+        20,
+        27,
+        110,
+        118,
+        121,
+        129
+      ],
+      "attributes": [
+        90,
+        65,
+        88,
+        89,
+        85,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 60000,
+      "resourceId": 67372234,
+      "assetId": 263370
     }
   }
 }

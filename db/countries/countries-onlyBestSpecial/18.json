@@ -47,7 +47,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 154000,
+    "price": 160000,
     "resourceId": 1668,
     "assetId": 1668
   },
@@ -92,103 +92,9 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 72000,
+    "price": 66000,
     "resourceId": 5454,
     "assetId": 5454
-  },
-  "71587": {
-    "name": "Marinette Pichon",
-    "cardName": "Pichon",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 18,
-    "versionId": "12",
-    "rating": 88,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      20,
-      22,
-      25,
-      6,
-      7
-    ],
-    "playStylesPlus": [
-      5
-    ],
-    "rolesPlus": [
-      141
-    ],
-    "rolesPlusPlus": [
-      141
-    ],
-    "attributes": [
-      85,
-      89,
-      80,
-      88,
-      44,
-      75
-    ],
-    "hasDynamicImage": false,
-    "price": 70500,
-    "resourceId": 71587,
-    "assetId": 71587
-  },
-  "167198": {
-    "name": "Eric Cantona",
-    "cardName": "Cantona",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 18,
-    "versionId": "12",
-    "rating": 89,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      1,
-      13,
-      20,
-      22,
-      7,
-      8
-    ],
-    "playStylesPlus": [
-      2
-    ],
-    "rolesPlus": [
-      41,
-      143
-    ],
-    "rolesPlusPlus": [
-      41,
-      143
-    ],
-    "attributes": [
-      86,
-      89,
-      86,
-      89,
-      50,
-      88
-    ],
-    "hasDynamicImage": false,
-    "price": 300000,
-    "resourceId": 167198,
-    "assetId": 167198
   },
   "238443": {
     "name": "Laurent Blanc",
@@ -235,7 +141,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 237000,
+    "price": 240000,
     "resourceId": 238443,
     "assetId": 238443
   },
@@ -372,7 +278,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 3150000,
+    "price": 3500000,
     "resourceId": 50333045,
     "assetId": 1397
   },
@@ -427,7 +333,7 @@
       59
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 21000,
     "resourceId": 50333199,
     "assetId": 1551
   },
@@ -491,7 +397,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 160000,
+    "price": 163000,
     "resourceId": 50333253,
     "assetId": 1605
   },
@@ -551,7 +457,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 5200000,
+    "price": 6155000,
     "resourceId": 50333263,
     "assetId": 1615
   },
@@ -719,9 +625,100 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 35750,
+    "price": 0,
     "resourceId": 50401652,
     "assetId": 70004
+  },
+  "50402125": {
+    "name": "Dehmaine Tabibou",
+    "cardName": "Tabibou",
+    "originalVersionId": "71",
+    "clubId": 71,
+    "leagueId": 16,
+    "countryId": 18,
+    "versionId": "71",
+    "rating": 64,
+    "preferredFoot": "Left",
+    "weakFoot": 2,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      18
+    ],
+    "rolesPlusPlus": [
+      18
+    ],
+    "attributes": [
+      63,
+      52,
+      65,
+      72,
+      47,
+      57
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50402125,
+    "assetId": 70477
+  },
+  "50403235": {
+    "name": "Marinette Pichon",
+    "cardName": "Pichon",
+    "originalVersionId": "170",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 18,
+    "versionId": "170",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      22,
+      25,
+      4,
+      5,
+      6,
+      7
+    ],
+    "playStylesPlus": [
+      0,
+      20
+    ],
+    "rolesPlus": [
+      44,
+      141,
+      142,
+      143
+    ],
+    "rolesPlusPlus": [
+      44,
+      141,
+      142,
+      143
+    ],
+    "attributes": [
+      88,
+      91,
+      85,
+      90,
+      45,
+      81
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50403235,
+    "assetId": 71587
   },
   "50407246": {
     "name": "Mohamed Kader Meïté",
@@ -762,9 +759,47 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 22750,
+    "price": 20000,
     "resourceId": 50407246,
     "assetId": 75598
+  },
+  "50411603": {
+    "name": "Noémie Fatier",
+    "cardName": "Fatier",
+    "originalVersionId": "9",
+    "clubId": 116034,
+    "leagueId": 2218,
+    "countryId": 18,
+    "versionId": "9",
+    "rating": 60,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      7
+    ],
+    "rolesPlusPlus": [
+      7
+    ],
+    "attributes": [
+      62,
+      30,
+      56,
+      55,
+      58,
+      58
+    ],
+    "isObjective": true,
+    "hasDynamicImage": false,
+    "resourceId": 50411603,
+    "assetId": 79955
   },
   "50488264": {
     "name": "Franck Ribéry",
@@ -821,7 +856,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 498000,
+    "price": 507000,
     "resourceId": 50488264,
     "assetId": 156616
   },
@@ -876,6 +911,59 @@
     "price": 0,
     "resourceId": 50498782,
     "assetId": 167134
+  },
+  "50498846": {
+    "name": "Eric Cantona",
+    "cardName": "Cantona",
+    "originalVersionId": "4",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 18,
+    "versionId": "4",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      13,
+      2,
+      20,
+      22,
+      8
+    ],
+    "playStylesPlus": [
+      24,
+      6
+    ],
+    "rolesPlus": [
+      42,
+      44,
+      141,
+      143
+    ],
+    "rolesPlusPlus": [
+      42,
+      44,
+      141,
+      143
+    ],
+    "attributes": [
+      90,
+      92,
+      88,
+      92,
+      53,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50498846,
+    "assetId": 167198
   },
   "50499596": {
     "name": "Hugo Lloris",
@@ -967,7 +1055,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 99000,
+    "price": 100000,
     "resourceId": 50510157,
     "assetId": 178509
   },
@@ -1025,7 +1113,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 112000,
+    "price": 123000,
     "resourceId": 50515042,
     "assetId": 183394
   },
@@ -1140,7 +1228,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 3049000,
+    "price": 3170000,
     "resourceId": 50523620,
     "assetId": 191972
   },
@@ -1211,7 +1299,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 30500,
+    "price": 31750,
     "resourceId": 50526413,
     "assetId": 194765
   },
@@ -1328,7 +1416,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 74000,
+    "price": 67000,
     "resourceId": 50535753,
     "assetId": 204105
   },
@@ -1393,7 +1481,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 21250,
+    "price": 19250,
     "resourceId": 50540435,
     "assetId": 208787
   },
@@ -1438,7 +1526,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 20000,
     "resourceId": 50544261,
     "assetId": 212613
   },
@@ -1496,7 +1584,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 48750,
+    "price": 49000,
     "resourceId": 50544993,
     "assetId": 213345
   },
@@ -1585,7 +1673,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 28750,
+    "price": 28000,
     "resourceId": 50547346,
     "assetId": 215698
   },
@@ -1637,7 +1725,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13500,
     "resourceId": 50551331,
     "assetId": 219683
   },
@@ -1682,7 +1770,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 18250,
     "resourceId": 50551381,
     "assetId": 219733
   },
@@ -1732,7 +1820,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 19750,
     "resourceId": 50551440,
     "assetId": 219792
   },
@@ -1903,7 +1991,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 54500,
+    "price": 59500,
     "resourceId": 50558010,
     "assetId": 226362
   },
@@ -1966,7 +2054,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 13750,
     "resourceId": 50558880,
     "assetId": 227232
   },
@@ -2015,7 +2103,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 195000,
+    "price": 200000,
     "resourceId": 50558963,
     "assetId": 227315
   },
@@ -2081,7 +2169,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 875000,
+    "price": 886000,
     "resourceId": 50558972,
     "assetId": 227324
   },
@@ -2129,7 +2217,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 32250,
+    "price": 28750,
     "resourceId": 50558994,
     "assetId": 227346
   },
@@ -2309,7 +2397,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 16750,
     "resourceId": 50559005,
     "assetId": 227357
   },
@@ -2542,7 +2630,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 564000,
+    "price": 489000,
     "resourceId": 50564304,
     "assetId": 232656
   },
@@ -2672,7 +2760,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 20000,
     "resourceId": 50565887,
     "assetId": 234239
   },
@@ -2731,7 +2819,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 17750,
     "resourceId": 50567217,
     "assetId": 235569
   },
@@ -2835,7 +2923,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 1950000,
+    "price": 1919000,
     "resourceId": 50570075,
     "assetId": 238427
   },
@@ -2888,7 +2976,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 26750,
+    "price": 24750,
     "resourceId": 50570124,
     "assetId": 238476
   },
@@ -2943,7 +3031,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 590000,
+    "price": 615000,
     "resourceId": 50573285,
     "assetId": 241637
   },
@@ -3020,7 +3108,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 48000,
+    "price": 46500,
     "resourceId": 50575241,
     "assetId": 243593
   },
@@ -3129,7 +3217,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 250000,
+    "price": 241000,
     "resourceId": 50575715,
     "assetId": 244067
   },
@@ -3181,7 +3269,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 23250,
     "resourceId": 50577345,
     "assetId": 245697
   },
@@ -3228,7 +3316,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 16750,
     "resourceId": 50577825,
     "assetId": 246177
   },
@@ -3505,7 +3593,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 128000,
+    "price": 97500,
     "resourceId": 50582371,
     "assetId": 250723
   },
@@ -3564,7 +3652,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 190000,
+    "price": 200000,
     "resourceId": 50583218,
     "assetId": 251570
   },
@@ -3614,7 +3702,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 29750,
+    "price": 24500,
     "resourceId": 50583609,
     "assetId": 251961
   },
@@ -3660,7 +3748,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17000,
     "resourceId": 50583785,
     "assetId": 252137
   },
@@ -3714,7 +3802,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 16750,
     "resourceId": 50584585,
     "assetId": 252937
   },
@@ -3815,7 +3903,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 19500,
+    "price": 18000,
     "resourceId": 50587302,
     "assetId": 255654
   },
@@ -3864,7 +3952,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 57000,
+    "price": 47000,
     "resourceId": 50588937,
     "assetId": 257289
   },
@@ -3913,7 +4001,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 18750,
     "resourceId": 50590354,
     "assetId": 258706
   },
@@ -3958,7 +4046,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 42250,
+    "price": 38000,
     "resourceId": 50590955,
     "assetId": 259307
   },
@@ -4006,7 +4094,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 19750,
     "resourceId": 50596070,
     "assetId": 264422
   },
@@ -4063,7 +4151,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 250000,
+    "price": 238000,
     "resourceId": 50596300,
     "assetId": 264652
   },
@@ -4119,54 +4207,42 @@
     "resourceId": 50596510,
     "assetId": 264862
   },
-  "50596553": {
-    "name": "Jade Le Guilly",
-    "cardName": "Le Guilly",
-    "originalVersionId": "150",
-    "clubId": 116034,
+  "50596541": {
+    "name": "Féerine Belhadj",
+    "cardName": "Belhadj",
+    "originalVersionId": "9",
+    "clubId": 116033,
     "leagueId": 2218,
     "countryId": 18,
-    "versionId": "150",
-    "rating": 84,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "RB",
+    "versionId": "9",
+    "rating": 61,
+    "preferredFoot": "Left",
+    "weakFoot": 2,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
     "possiblePositions": [
-      "RB",
-      "RM"
+      "GK"
     ],
-    "playStyles": [
-      19,
-      21,
-      26,
-      9
-    ],
+    "playStyles": [],
     "playStylesPlus": [],
     "rolesPlus": [
-      3,
-      6,
-      24,
-      105
+      1
     ],
     "rolesPlusPlus": [
-      3,
-      6,
-      24,
-      105
+      1
     ],
     "attributes": [
-      86,
-      58,
-      78,
-      77,
-      83,
-      78
+      60,
+      54,
+      61,
+      67,
+      41,
+      58
     ],
-    "hasDynamicImage": true,
-    "price": 16250,
-    "resourceId": 50596553,
-    "assetId": 264905
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50596541,
+    "assetId": 264893
   },
   "50596616": {
     "name": "Mathilde Bourdieu",
@@ -4210,7 +4286,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 16000,
     "resourceId": 50596616,
     "assetId": 264968
   },
@@ -4272,7 +4348,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 13000,
     "resourceId": 50597509,
     "assetId": 265861
   },
@@ -4322,7 +4398,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 19750,
     "resourceId": 50597553,
     "assetId": 265905
   },
@@ -4430,7 +4506,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 19750,
+    "price": 17000,
     "resourceId": 50597747,
     "assetId": 266099
   },
@@ -4477,7 +4553,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 71000,
+    "price": 70500,
     "resourceId": 50600735,
     "assetId": 269087
   },
@@ -4535,69 +4611,80 @@
     "resourceId": 50601477,
     "assetId": 269829
   },
-  "50603069": {
-    "name": "Désiré Doué",
-    "cardName": "Doué",
-    "originalVersionId": "22",
-    "clubId": 73,
-    "leagueId": 16,
+  "50601620": {
+    "name": "Lou Bogaert",
+    "cardName": "Bogaert",
+    "originalVersionId": "71",
+    "clubId": 116035,
+    "leagueId": 2218,
     "countryId": 18,
-    "versionId": "22",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "RW",
+    "versionId": "71",
+    "rating": 79,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
     "possiblePositions": [
-      "CAM",
-      "CM",
-      "LW",
-      "RM",
-      "RW"
+      "LB",
+      "LM"
     ],
-    "playStyles": [
-      13,
-      22,
-      23,
-      24,
-      25,
-      7
-    ],
-    "playStylesPlus": [
-      20
-    ],
+    "playStyles": [],
+    "playStylesPlus": [],
     "rolesPlus": [
-      22,
-      26,
-      36,
-      39,
-      125,
-      131,
-      137,
-      140
+      9
     ],
     "rolesPlusPlus": [
-      22,
-      26,
-      36,
-      39,
-      125,
-      131,
-      137,
-      140
+      9
     ],
     "attributes": [
-      85,
-      82,
-      80,
-      91,
-      57,
-      77
+      77,
+      51,
+      71,
+      75,
+      78,
+      66
     ],
     "hasDynamicImage": true,
-    "price": 61000,
-    "resourceId": 50603069,
-    "assetId": 271421
+    "price": 0,
+    "resourceId": 50601620,
+    "assetId": 269972
+  },
+  "50603050": {
+    "name": "Ananée Yeboah",
+    "cardName": "Yeboah",
+    "originalVersionId": "9",
+    "clubId": 131724,
+    "leagueId": 2218,
+    "countryId": 18,
+    "versionId": "9",
+    "rating": 61,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      41
+    ],
+    "rolesPlusPlus": [
+      41
+    ],
+    "attributes": [
+      79,
+      58,
+      50,
+      66,
+      25,
+      53
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50603050,
+    "assetId": 271402
   },
   "50604431": {
     "name": "Arthur Atta",
@@ -4652,7 +4739,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 41000,
+    "price": 37000,
     "resourceId": 50604431,
     "assetId": 272783
   },
@@ -4722,7 +4809,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 98500,
+    "price": 91500,
     "resourceId": 50606740,
     "assetId": 275092
   },
@@ -4832,7 +4919,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 12750,
     "resourceId": 50609873,
     "assetId": 278225
   },
@@ -4884,9 +4971,66 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 16250,
     "resourceId": 50610219,
     "assetId": 278571
+  },
+  "50610549": {
+    "name": "Ayyoub Bouaddi",
+    "cardName": "Bouaddi",
+    "originalVersionId": "71",
+    "clubId": 65,
+    "leagueId": 16,
+    "countryId": 18,
+    "versionId": "71",
+    "rating": 86,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      14,
+      16,
+      20,
+      22,
+      8
+    ],
+    "playStylesPlus": [
+      11
+    ],
+    "rolesPlus": [
+      16,
+      20,
+      21,
+      114,
+      118,
+      119
+    ],
+    "rolesPlusPlus": [
+      16,
+      20,
+      21,
+      114,
+      118,
+      119
+    ],
+    "attributes": [
+      88,
+      70,
+      85,
+      87,
+      82,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 33250,
+    "resourceId": 50610549,
+    "assetId": 278901
   },
   "67110489": {
     "name": "Thierry Henry",
@@ -4938,7 +5082,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 3978000,
+    "price": 5625000,
     "resourceId": 67110489,
     "assetId": 1625
   },
@@ -4983,7 +5127,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17250,
     "resourceId": 67179279,
     "assetId": 70415
   },
@@ -5031,7 +5175,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 16500,
     "resourceId": 67274017,
     "assetId": 165153
   },
@@ -5201,7 +5345,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 15750,
     "resourceId": 67318872,
     "assetId": 210008
   },
@@ -5268,7 +5412,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 308000,
+    "price": 295000,
     "resourceId": 67324778,
     "assetId": 215914
   },
@@ -5427,7 +5571,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 490000,
+    "price": 504000,
     "resourceId": 67336225,
     "assetId": 227361
   },
@@ -5554,7 +5698,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 17000,
     "resourceId": 67342730,
     "assetId": 233866
   },
@@ -5770,7 +5914,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 880000,
+    "price": 958000,
     "resourceId": 67350350,
     "assetId": 241486
   },
@@ -5823,7 +5967,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 3291000,
+    "price": 3145000,
     "resourceId": 67352579,
     "assetId": 243715
   },
@@ -5879,7 +6023,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 95500,
+    "price": 89000,
     "resourceId": 67356110,
     "assetId": 247246
   },
@@ -5927,7 +6071,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 68000,
+    "price": 49500,
     "resourceId": 67366153,
     "assetId": 257289
   },
@@ -5981,7 +6125,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 137000,
+    "price": 147000,
     "resourceId": 67368429,
     "assetId": 259565
   },
@@ -6045,6 +6189,65 @@
     "hasDynamicImage": true,
     "resourceId": 67370597,
     "assetId": 261733
+  },
+  "67373769": {
+    "name": "Jade Le Guilly",
+    "cardName": "Le Guilly",
+    "originalVersionId": "71",
+    "clubId": 116034,
+    "leagueId": 2218,
+    "countryId": 18,
+    "versionId": "71",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      17,
+      19,
+      21,
+      26,
+      9
+    ],
+    "playStylesPlus": [
+      14
+    ],
+    "rolesPlus": [
+      4,
+      23,
+      46,
+      103,
+      105,
+      106,
+      124
+    ],
+    "rolesPlusPlus": [
+      4,
+      23,
+      46,
+      103,
+      105,
+      106,
+      124
+    ],
+    "attributes": [
+      91,
+      65,
+      85,
+      86,
+      89,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 879000,
+    "resourceId": 67373769,
+    "assetId": 264905
   },
   "67378592": {
     "name": "Jean-Mattéo Bahoya",
@@ -6110,61 +6313,6 @@
     "resourceId": 67378592,
     "assetId": 269728
   },
-  "67380285": {
-    "name": "Désiré Doué",
-    "cardName": "Doué",
-    "originalVersionId": "3",
-    "clubId": 73,
-    "leagueId": 16,
-    "countryId": 18,
-    "versionId": "3",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "RW",
-    "possiblePositions": [
-      "CM",
-      "LW",
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      13,
-      22,
-      23,
-      24,
-      25,
-      7
-    ],
-    "playStylesPlus": [
-      0
-    ],
-    "rolesPlus": [
-      22,
-      36,
-      137,
-      140
-    ],
-    "rolesPlusPlus": [
-      22,
-      36,
-      137,
-      140
-    ],
-    "attributes": [
-      85,
-      83,
-      80,
-      92,
-      57,
-      76
-    ],
-    "hasDynamicImage": true,
-    "price": 140000,
-    "resourceId": 67380285,
-    "assetId": 271421
-  },
   "84081944": {
     "name": "Paul Pogba",
     "cardName": "Pogba",
@@ -6226,7 +6374,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 534000,
+    "price": 560000,
     "resourceId": 84081944,
     "assetId": 195864
   },
@@ -6282,7 +6430,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 21500,
     "resourceId": 84116100,
     "assetId": 230020
   },
@@ -6346,7 +6494,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 247500,
+    "sbcPrice": 225250,
     "price": 206200,
     "resourceId": 84119742,
     "assetId": 233662
@@ -6410,9 +6558,73 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 797000,
+    "price": 765000,
     "resourceId": 84151754,
     "assetId": 265674
+  },
+  "84157501": {
+    "name": "Désiré Doué",
+    "cardName": "Doué",
+    "originalVersionId": "71",
+    "clubId": 73,
+    "leagueId": 16,
+    "countryId": 18,
+    "versionId": "71",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      13,
+      20,
+      22,
+      23,
+      24,
+      7
+    ],
+    "playStylesPlus": [
+      0,
+      25
+    ],
+    "rolesPlus": [
+      22,
+      25,
+      37,
+      40,
+      118,
+      126,
+      136,
+      139
+    ],
+    "rolesPlusPlus": [
+      22,
+      25,
+      37,
+      40,
+      118,
+      126,
+      136,
+      139
+    ],
+    "attributes": [
+      91,
+      87,
+      86,
+      95,
+      61,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84157501,
+    "assetId": 271421
   },
   "100868266": {
     "name": "Florian Thauvin",
@@ -6527,7 +6739,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 7300000,
+    "price": 7550000,
     "resourceId": 100894739,
     "assetId": 231443
   },
@@ -6590,7 +6802,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 14400000,
+    "price": 15000000,
     "resourceId": 117672259,
     "assetId": 231747
   },
@@ -6653,7 +6865,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 716250,
+    "sbcPrice": 677250,
     "resourceId": 117688339,
     "assetId": 247827
   }

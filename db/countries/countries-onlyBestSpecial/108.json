@@ -1,51 +1,4 @@
 {
-  "31432": {
-    "name": "Didier Drogba",
-    "cardName": "Drogba",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 108,
-    "versionId": "12",
-    "rating": 89,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      2,
-      22,
-      24,
-      4,
-      6
-    ],
-    "playStylesPlus": [
-      29
-    ],
-    "rolesPlus": [
-      41,
-      144
-    ],
-    "rolesPlusPlus": [
-      41,
-      144
-    ],
-    "attributes": [
-      87,
-      90,
-      74,
-      80,
-      44,
-      87
-    ],
-    "hasDynamicImage": false,
-    "price": 245000,
-    "resourceId": 31432,
-    "assetId": 31432
-  },
   "188428": {
     "name": "Seydou Doumbia",
     "cardName": "Doumbia",
@@ -84,7 +37,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 46250,
+    "price": 47250,
     "resourceId": 188428,
     "assetId": 188428
   },
@@ -158,9 +111,63 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 540000,
+    "price": 510000,
     "resourceId": 50351937,
     "assetId": 20289
+  },
+  "50363080": {
+    "name": "Didier Drogba",
+    "cardName": "Drogba",
+    "originalVersionId": "170",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 108,
+    "versionId": "170",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      2,
+      22,
+      24,
+      4,
+      9
+    ],
+    "playStylesPlus": [
+      29,
+      6
+    ],
+    "rolesPlus": [
+      43,
+      141,
+      142,
+      144
+    ],
+    "rolesPlusPlus": [
+      43,
+      141,
+      142,
+      144
+    ],
+    "attributes": [
+      90,
+      93,
+      83,
+      86,
+      47,
+      91
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50363080,
+    "assetId": 31432
   },
   "50502381": {
     "name": "Gervinho",
@@ -215,7 +222,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 105000,
+    "price": 115000,
     "resourceId": 50502381,
     "assetId": 170733
   },
@@ -422,7 +429,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 33500,
+    "price": 28250,
     "resourceId": 50566821,
     "assetId": 235173
   },
@@ -471,7 +478,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 15750,
     "resourceId": 50571237,
     "assetId": 239589
   },
@@ -524,7 +531,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 17500,
     "resourceId": 50599910,
     "assetId": 268262
   },
@@ -576,7 +583,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 28750,
+    "price": 27250,
     "resourceId": 50602179,
     "assetId": 270531
   },
@@ -651,9 +658,46 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 14000,
     "resourceId": 50606856,
     "assetId": 275208
+  },
+  "50610696": {
+    "name": "Bakary Haidara",
+    "cardName": "Haidara",
+    "originalVersionId": "9",
+    "clubId": 681,
+    "leagueId": 4,
+    "countryId": 108,
+    "versionId": "9",
+    "rating": 61,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      11
+    ],
+    "rolesPlusPlus": [
+      11
+    ],
+    "attributes": [
+      62,
+      33,
+      45,
+      44,
+      62,
+      63
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50610696,
+    "assetId": 279048
   },
   "67186876": {
     "name": "Yan Diomande",
@@ -703,7 +747,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 29750,
     "resourceId": 67186876,
     "assetId": 78012
   },
@@ -756,7 +800,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 16000,
     "resourceId": 67349651,
     "assetId": 240787
   }

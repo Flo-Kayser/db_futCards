@@ -146,7 +146,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 21250,
     "resourceId": 50538213,
     "assetId": 206565
   },
@@ -199,7 +199,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 16250,
     "resourceId": 50542529,
     "assetId": 210881
   },
@@ -252,7 +252,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 98000,
+    "price": 88500,
     "resourceId": 50542741,
     "assetId": 211093
   },
@@ -304,7 +304,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 237000,
+    "price": 300000,
     "resourceId": 50547915,
     "assetId": 216267
   },
@@ -347,7 +347,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 36500,
+    "price": 25250,
     "resourceId": 50553693,
     "assetId": 222045
   },
@@ -439,7 +439,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 19500,
+    "price": 21000,
     "resourceId": 50557280,
     "assetId": 225632
   },
@@ -534,7 +534,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 19500,
+    "price": 22000,
     "resourceId": 50577520,
     "assetId": 245872
   },
@@ -591,7 +591,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 11750,
     "resourceId": 50577539,
     "assetId": 245891
   },
@@ -609,6 +609,7 @@
     "skillMoves": 4,
     "preferredPosition": "CDM",
     "possiblePositions": [
+      "CB",
       "CDM",
       "CM"
     ],
@@ -623,17 +624,21 @@
       9
     ],
     "rolesPlus": [
+      12,
       15,
       16,
       20,
+      113,
       114,
       119,
       149
     ],
     "rolesPlusPlus": [
+      12,
       15,
       16,
       20,
+      113,
       114,
       119,
       149
@@ -647,9 +652,46 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 38750,
+    "price": 36000,
     "resourceId": 50577640,
     "assetId": 245992
+  },
+  "50610544": {
+    "name": "Ryan Oné",
+    "cardName": "Oné",
+    "originalVersionId": "9",
+    "clubId": 149,
+    "leagueId": 60,
+    "countryId": 42,
+    "versionId": "9",
+    "rating": 61,
+    "preferredFoot": "Left",
+    "weakFoot": 2,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      41
+    ],
+    "rolesPlusPlus": [
+      41
+    ],
+    "attributes": [
+      73,
+      60,
+      46,
+      59,
+      21,
+      64
+    ],
+    "isObjective": true,
+    "hasDynamicImage": false,
+    "resourceId": 50610544,
+    "assetId": 278896
   },
   "67335355": {
     "name": "Kieran Tierney",
@@ -761,7 +803,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 12500,
     "resourceId": 67354743,
     "assetId": 245879
   },

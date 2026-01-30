@@ -35,7 +35,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 600,
       "resourceId": 73895,
       "assetId": 73895
     },
@@ -75,7 +75,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 73896,
       "assetId": 73896
     },
@@ -365,7 +365,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 233306,
       "assetId": 233306
     },
@@ -445,7 +445,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 350,
       "resourceId": 236988,
       "assetId": 236988
     },
@@ -579,7 +579,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 241159,
       "assetId": 241159
     },
@@ -745,7 +745,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 258490,
       "assetId": 258490
     },
@@ -788,50 +788,6 @@
       "resourceId": 259205,
       "assetId": 259205
     },
-    "259240": {
-      "name": "Adam Wharton",
-      "cardName": "Wharton",
-      "originalVersionId": "0",
-      "clubId": 1799,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "2002",
-      "rating": 79,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        18,
-        22,
-        24
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        21
-      ],
-      "rolesPlusPlus": [
-        16,
-        21
-      ],
-      "attributes": [
-        62,
-        62,
-        81,
-        77,
-        75,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 259240,
-      "assetId": 259240
-    },
     "264035": {
       "name": "Jesurun Rak-Sakyi",
       "cardName": "Rak-Sakyi",
@@ -868,7 +824,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 6800,
+      "price": 9000,
       "resourceId": 264035,
       "assetId": 264035
     },
@@ -957,7 +913,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 750,
       "resourceId": 273616,
       "assetId": 273616
     },
@@ -1049,7 +1005,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1100,
       "resourceId": 50405781,
       "assetId": 74133
     },
@@ -1096,7 +1052,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 21500,
+      "price": 22750,
       "resourceId": 50567001,
       "assetId": 235353
     },
@@ -1196,9 +1152,69 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 250000,
+      "price": 241000,
       "resourceId": 50575715,
       "assetId": 244067
+    },
+    "50590888": {
+      "name": "Adam Wharton",
+      "cardName": "Wharton",
+      "originalVersionId": "71",
+      "clubId": 1799,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "71",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        17,
+        18,
+        22,
+        24,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        11,
+        16
+      ],
+      "rolesPlus": [
+        16,
+        18,
+        20,
+        114,
+        119,
+        121,
+        149
+      ],
+      "rolesPlusPlus": [
+        16,
+        18,
+        20,
+        114,
+        119,
+        121,
+        149
+      ],
+      "attributes": [
+        84,
+        75,
+        90,
+        86,
+        88,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 545000,
+      "resourceId": 50590888,
+      "assetId": 259240
     },
     "67368241": {
       "name": "Yeremy Pino",

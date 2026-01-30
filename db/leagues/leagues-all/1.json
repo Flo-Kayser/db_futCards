@@ -430,7 +430,7 @@
       55
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 71258,
     "assetId": 71258
   },
@@ -2126,7 +2126,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 10000,
     "resourceId": 78610,
     "assetId": 78610
   },
@@ -2956,7 +2956,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 10000,
     "resourceId": 79554,
     "assetId": 79554
   },
@@ -5121,7 +5121,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 7800,
+    "price": 0,
     "resourceId": 223694,
     "assetId": 223694
   },
@@ -7519,7 +7519,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 400,
     "resourceId": 247187,
     "assetId": 247187
   },
@@ -8181,7 +8181,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1200,
     "resourceId": 251847,
     "assetId": 251847
   },
@@ -8968,7 +8968,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 257399,
     "assetId": 257399
   },
@@ -9336,7 +9336,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 9000,
+    "price": 9900,
     "resourceId": 260896,
     "assetId": 260896
   },
@@ -11383,7 +11383,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 9800,
+    "price": 5200,
     "resourceId": 275704,
     "assetId": 275704
   },
@@ -12148,9 +12148,88 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 200,
     "resourceId": 50405654,
     "assetId": 74006
+  },
+  "50406613": {
+    "name": "Ebube Duru",
+    "cardName": "Duru",
+    "originalVersionId": "9",
+    "clubId": 1447,
+    "leagueId": 1,
+    "countryId": 133,
+    "versionId": "9",
+    "rating": 61,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      28
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      7
+    ],
+    "rolesPlusPlus": [
+      7
+    ],
+    "attributes": [
+      72,
+      39,
+      50,
+      57,
+      58,
+      67
+    ],
+    "isObjective": true,
+    "hasDynamicImage": false,
+    "resourceId": 50406613,
+    "assetId": 74965
+  },
+  "50410269": {
+    "name": "Oscar Buch",
+    "cardName": "Buch",
+    "originalVersionId": "9",
+    "clubId": 15006,
+    "leagueId": 1,
+    "countryId": 13,
+    "versionId": "9",
+    "rating": 61,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      38
+    ],
+    "rolesPlusPlus": [
+      38
+    ],
+    "attributes": [
+      70,
+      62,
+      57,
+      59,
+      28,
+      60
+    ],
+    "isObjective": true,
+    "hasDynamicImage": false,
+    "resourceId": 50410269,
+    "assetId": 78621
   },
   "50545607": {
     "name": "Elias Andersson",
@@ -12276,7 +12355,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 300,
     "resourceId": 50562209,
     "assetId": 230561
   },
@@ -12417,7 +12496,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 17000,
     "resourceId": 50575314,
     "assetId": 243666
   },
@@ -12501,7 +12580,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 20000,
     "resourceId": 50588581,
     "assetId": 256933
   },
@@ -12790,6 +12869,44 @@
     "resourceId": 50605912,
     "assetId": 274264
   },
+  "50610010": {
+    "name": "Lasse Flø",
+    "cardName": "Flø",
+    "originalVersionId": "9",
+    "clubId": 822,
+    "leagueId": 1,
+    "countryId": 13,
+    "versionId": "9",
+    "rating": 60,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      5
+    ],
+    "rolesPlusPlus": [
+      5
+    ],
+    "attributes": [
+      61,
+      35,
+      55,
+      55,
+      58,
+      56
+    ],
+    "isObjective": true,
+    "hasDynamicImage": false,
+    "resourceId": 50610010,
+    "assetId": 278362
+  },
   "50610900": {
     "name": "Mikel Gogorza",
     "cardName": "Gogorza",
@@ -12838,7 +12955,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 44000,
+    "price": 45000,
     "resourceId": 50610900,
     "assetId": 279252
   }

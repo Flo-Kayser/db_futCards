@@ -152,7 +152,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 700,
       "resourceId": 198350,
       "assetId": 198350
     },
@@ -195,7 +195,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 201417,
       "assetId": 201417
     },
@@ -404,7 +404,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 5500,
       "resourceId": 235456,
       "assetId": 235456
     },
@@ -816,7 +816,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 259170,
       "assetId": 259170
     },
@@ -901,7 +901,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 262135,
       "assetId": 262135
     },
@@ -946,7 +946,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 262937,
       "assetId": 262937
     },
@@ -1079,59 +1079,6 @@
       "resourceId": 279519,
       "assetId": 279519
     },
-    "50409241": {
-      "name": "Mateus Mané",
-      "cardName": "Mateus Mané",
-      "originalVersionId": "3",
-      "clubId": 110,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        22,
-        24,
-        25,
-        6,
-        8
-      ],
-      "playStylesPlus": [
-        20
-      ],
-      "rolesPlus": [
-        37,
-        132,
-        134,
-        143
-      ],
-      "rolesPlusPlus": [
-        37,
-        132,
-        134,
-        143
-      ],
-      "attributes": [
-        89,
-        87,
-        78,
-        86,
-        55,
-        87
-      ],
-      "hasDynamicImage": true,
-      "price": 17250,
-      "resourceId": 50409241,
-      "assetId": 77593
-    },
     "50567104": {
       "name": "Jean-Ricner Bellegarde",
       "cardName": "Bellegarde",
@@ -1212,9 +1159,71 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 50590559,
       "assetId": 258911
+    },
+    "67186457": {
+      "name": "Mateus Mané",
+      "cardName": "Mateus Mané",
+      "originalVersionId": "71",
+      "clubId": 110,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "71",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        22,
+        24,
+        25,
+        8
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        31,
+        34,
+        37,
+        42,
+        132,
+        135,
+        141,
+        143
+      ],
+      "rolesPlusPlus": [
+        31,
+        34,
+        37,
+        42,
+        132,
+        135,
+        141,
+        143
+      ],
+      "attributes": [
+        91,
+        89,
+        84,
+        88,
+        57,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67186457,
+      "assetId": 77593
     },
     "67360928": {
       "name": "Ladislav Krejčí",

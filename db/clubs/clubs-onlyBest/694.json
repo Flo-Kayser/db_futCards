@@ -1016,15 +1016,15 @@
       "resourceId": 279544,
       "assetId": 279544
     },
-    "50592171": {
+    "67369387": {
       "name": "Paxten Aaronson",
       "cardName": "Aaronson",
-      "originalVersionId": "0",
+      "originalVersionId": "71",
       "clubId": 694,
       "leagueId": 39,
       "countryId": 95,
-      "versionId": "2002",
-      "rating": 75,
+      "versionId": "71",
+      "rating": 87,
       "preferredFoot": "Right",
       "weakFoot": 3,
       "skillMoves": 4,
@@ -1033,27 +1033,50 @@
         "CDM",
         "CM"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        10,
+        13,
+        15,
+        16,
+        2,
+        20,
+        26
+      ],
+      "playStylesPlus": [
+        9
+      ],
       "rolesPlus": [
-        14,
-        18
+        15,
+        16,
+        20,
+        21,
+        114,
+        118,
+        119,
+        149
       ],
       "rolesPlusPlus": [
-        14,
-        18
+        15,
+        16,
+        20,
+        21,
+        114,
+        118,
+        119,
+        149
       ],
       "attributes": [
-        83,
-        71,
-        70,
-        76,
-        69,
-        61
+        89,
+        85,
+        87,
+        89,
+        82,
+        81
       ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50592171,
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67369387,
       "assetId": 260523
     }
   }
