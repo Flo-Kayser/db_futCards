@@ -37,7 +37,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 250,
       "resourceId": 71651,
       "assetId": 71651
     },
@@ -79,7 +79,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 71998,
       "assetId": 71998
     },
@@ -127,7 +127,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 10000,
       "resourceId": 76687,
       "assetId": 76687
     },
@@ -253,7 +253,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 228789,
       "assetId": 228789
     },
@@ -527,7 +527,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 238616,
       "assetId": 238616
     },
@@ -571,7 +571,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 950,
       "resourceId": 239231,
       "assetId": 239231
     },
@@ -697,7 +697,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 6000,
       "resourceId": 248158,
       "assetId": 248158
     },
@@ -829,7 +829,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 4900,
       "resourceId": 256079,
       "assetId": 256079
     },
@@ -883,7 +883,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 4900,
       "resourceId": 257534,
       "assetId": 257534
     },
@@ -1265,7 +1265,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 4800,
       "resourceId": 266032,
       "assetId": 266032
     },
@@ -1312,7 +1312,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1100,
       "resourceId": 272978,
       "assetId": 272978
     },
@@ -1492,7 +1492,7 @@
       "leagueId": 13,
       "countryId": 54,
       "versionId": "50",
-      "rating": 86,
+      "rating": 88,
       "preferredFoot": "Left",
       "weakFoot": 3,
       "skillMoves": 4,
@@ -1507,10 +1507,11 @@
         13,
         2,
         20,
-        22,
+        22
+      ],
+      "playStylesPlus": [
         25
       ],
-      "playStylesPlus": [],
       "rolesPlus": [
         31,
         35,
@@ -1528,15 +1529,15 @@
         136
       ],
       "attributes": [
-        93,
+        95,
+        86,
         84,
-        82,
-        88,
-        45,
-        65
+        90,
+        47,
+        67
       ],
       "hasDynamicImage": true,
-      "price": 175000,
+      "price": 198000,
       "resourceId": 50408335,
       "assetId": 76687
     },
@@ -1659,7 +1660,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 219000,
+      "price": 240000,
       "resourceId": 50570264,
       "assetId": 238616
     },
@@ -1707,7 +1708,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 69000,
+      "price": 72000,
       "resourceId": 50570879,
       "assetId": 239231
     },
@@ -1803,7 +1804,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 32000,
+      "price": 37500,
       "resourceId": 50587727,
       "assetId": 256079
     },
@@ -1859,7 +1860,7 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 122000,
+      "price": 198000,
       "resourceId": 50589182,
       "assetId": 257534
     },
@@ -1904,7 +1905,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 38000,
+      "price": 40750,
       "resourceId": 50590955,
       "assetId": 259307
     },
@@ -1953,7 +1954,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 400,
       "resourceId": 50600086,
       "assetId": 268438
     },
@@ -2033,7 +2034,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 50610461,
       "assetId": 278813
     },
@@ -2091,7 +2092,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 0,
+      "price": 2200000,
       "resourceId": 67185551,
       "assetId": 76687
     },
@@ -2148,6 +2149,66 @@
       "price": 0,
       "resourceId": 67348095,
       "assetId": 239231
+    },
+    "67360906": {
+      "name": "João Pedro",
+      "cardName": "João Pedro",
+      "originalVersionId": "8",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 54,
+      "versionId": "8",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        20,
+        21,
+        22,
+        24,
+        29
+      ],
+      "playStylesPlus": [
+        2,
+        6
+      ],
+      "rolesPlus": [
+        34,
+        42,
+        44,
+        131,
+        132,
+        141,
+        143
+      ],
+      "rolesPlusPlus": [
+        34,
+        42,
+        44,
+        131,
+        132,
+        141,
+        143
+      ],
+      "attributes": [
+        88,
+        90,
+        84,
+        88,
+        46,
+        80
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67360906,
+      "assetId": 252042
     },
     "67364943": {
       "name": "Moisés Caicedo",
@@ -2262,7 +2323,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 124000,
+      "price": 121000,
       "resourceId": 67366398,
       "assetId": 257534
     },
@@ -2321,7 +2382,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 266000,
+      "price": 321000,
       "resourceId": 67377302,
       "assetId": 268438
     }

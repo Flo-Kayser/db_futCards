@@ -35,7 +35,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 400,
       "resourceId": 75150,
       "assetId": 75150
     },
@@ -74,7 +74,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 79270,
       "assetId": 79270
     },
@@ -114,7 +114,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 750,
       "resourceId": 210385,
       "assetId": 210385
     },
@@ -207,7 +207,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 750,
       "resourceId": 226853,
       "assetId": 226853
     },
@@ -309,7 +309,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 400,
       "resourceId": 230625,
       "assetId": 230625
     },
@@ -346,7 +346,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 500,
       "resourceId": 237704,
       "assetId": 237704
     },
@@ -388,7 +388,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 500,
       "resourceId": 240020,
       "assetId": 240020
     },
@@ -443,7 +443,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 240950,
       "assetId": 240950
     },
@@ -591,7 +591,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 244778,
       "assetId": 244778
     },
@@ -682,7 +682,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 400,
       "resourceId": 252143,
       "assetId": 252143
     },
@@ -729,7 +729,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 252144,
       "assetId": 252144
     },
@@ -776,7 +776,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 400,
       "resourceId": 254262,
       "assetId": 254262
     },
@@ -863,7 +863,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 550,
       "resourceId": 255634,
       "assetId": 255634
     },
@@ -906,7 +906,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 257179,
       "assetId": 257179
     },
@@ -952,7 +952,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 500,
       "resourceId": 260813,
       "assetId": 260813
     },
@@ -1054,7 +1054,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 500,
       "resourceId": 266253,
       "assetId": 266253
     },
@@ -1098,7 +1098,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 400,
       "resourceId": 268837,
       "assetId": 268837
     },
@@ -1183,7 +1183,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1700,
       "resourceId": 270865,
       "assetId": 270865
     },
@@ -1283,7 +1283,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 400,
       "resourceId": 279044,
       "assetId": 279044
     },
@@ -1320,7 +1320,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 500,
       "resourceId": 279703,
       "assetId": 279703
     },
@@ -1377,7 +1377,7 @@
       "leagueId": 308,
       "countryId": 54,
       "versionId": "50",
-      "rating": 85,
+      "rating": 87,
       "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 3,
@@ -1388,35 +1388,37 @@
         "RW"
       ],
       "playStyles": [
-        0,
         1,
         12,
         13,
         25,
-        26
+        26,
+        6
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        0
+      ],
       "rolesPlus": [
         27,
         35,
         36,
-        38,
+        138,
         139
       ],
       "rolesPlusPlus": [
         27,
         35,
         36,
-        38,
+        138,
         139
       ],
       "attributes": [
-        91,
-        81,
-        82,
-        85,
-        50,
-        76
+        93,
+        83,
+        84,
+        87,
+        52,
+        78
       ],
       "isObjective": true,
       "hasDynamicImage": true,
@@ -1475,7 +1477,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 16500,
+      "price": 14750,
       "resourceId": 50572598,
       "assetId": 240950
     },
@@ -1537,7 +1539,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 20750,
+      "price": 20250,
       "resourceId": 50576426,
       "assetId": 244778
     },
@@ -1598,7 +1600,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 180000,
+      "price": 53000,
       "resourceId": 50583792,
       "assetId": 252144
     },
@@ -1640,7 +1642,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 400,
       "resourceId": 50589663,
       "assetId": 258015
     },
@@ -1692,7 +1694,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 27250,
+      "price": 50000,
       "resourceId": 50602179,
       "assetId": 270531
     },
@@ -1753,7 +1755,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 22500,
       "resourceId": 50610692,
       "assetId": 279044
     }

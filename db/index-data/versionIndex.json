@@ -40,7 +40,7 @@
       }
     },
     "8": {
-      "count": 16,
+      "count": 21,
       "file": "db/versions/8.json",
       "details": {
         "name": "Star Performer",
@@ -287,7 +287,7 @@
       }
     },
     "51": {
-      "count": 14,
+      "count": 15,
       "file": "db/versions/51.json",
       "details": {
         "name": "Flashback",
@@ -689,6 +689,19 @@
         "tertiaryColor": "#94792e"
       }
     },
+    "162": {
+      "count": 1,
+      "file": "db/versions/162.json",
+      "details": {
+        "name": "FC Pro Open Champion ICON",
+        "hasStrip": true,
+        "createdAt": "2026-01-30T18:45:00.400Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_162_0.png",
+        "primaryColor": "#594d2c",
+        "secondaryColor": "#dbdbdb",
+        "tertiaryColor": "#94792e"
+      }
+    },
     "168": {
       "count": 13,
       "file": "db/versions/168.json",
@@ -808,8 +821,8 @@
     }
   },
   "meta": {
-    "totalVersions": 62,
-    "totalVersionsWithoutBase": 56,
-    "updatedAt": "2026-01-30T19:01:46.765Z"
+    "totalVersions": 63,
+    "totalVersionsWithoutBase": 57,
+    "updatedAt": "2026-01-31T18:49:41.418Z"
   }
 }

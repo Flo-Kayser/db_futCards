@@ -7,7 +7,7 @@
     "leagueId": 10,
     "countryId": 97,
     "versionId": "46",
-    "rating": 85,
+    "rating": 86,
     "preferredFoot": "Left",
     "weakFoot": 3,
     "skillMoves": 5,
@@ -43,15 +43,15 @@
       137
     ],
     "attributes": [
-      89,
-      80,
-      78,
-      93,
-      38,
-      61
+      90,
+      81,
+      79,
+      94,
+      39,
+      62
     ],
     "hasDynamicImage": true,
-    "price": 82500,
+    "price": 95000,
     "resourceId": 50402374,
     "assetId": 70726
   },
@@ -63,7 +63,7 @@
     "leagueId": 308,
     "countryId": 38,
     "versionId": "46",
-    "rating": 86,
+    "rating": 87,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -75,7 +75,9 @@
     ],
     "playStyles": [
       0,
+      11,
       20,
+      22,
       23,
       7,
       8,
@@ -101,15 +103,15 @@
       140
     ],
     "attributes": [
-      87,
-      82,
-      84,
-      89,
-      51,
-      51
+      88,
+      83,
+      85,
+      90,
+      52,
+      52
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 29750,
     "resourceId": 50404645,
     "assetId": 72997
   },
@@ -121,7 +123,7 @@
     "leagueId": 13,
     "countryId": 54,
     "versionId": "46",
-    "rating": 86,
+    "rating": 87,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -152,15 +154,15 @@
       142
     ],
     "attributes": [
-      84,
-      87,
-      74,
       85,
-      45,
-      86
+      88,
+      75,
+      86,
+      46,
+      87
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 20000,
     "resourceId": 50411050,
     "assetId": 79402
   },
@@ -172,7 +174,7 @@
     "leagueId": 53,
     "countryId": 110,
     "versionId": "46",
-    "rating": 85,
+    "rating": 86,
     "preferredFoot": "Right",
     "weakFoot": 3,
     "skillMoves": 3,
@@ -181,7 +183,6 @@
       "ST"
     ],
     "playStyles": [
-      0,
       2,
       20,
       21,
@@ -189,7 +190,9 @@
       25,
       29
     ],
-    "playStylesPlus": [],
+    "playStylesPlus": [
+      0
+    ],
     "rolesPlus": [
       41,
       43,
@@ -203,15 +206,15 @@
       144
     ],
     "attributes": [
+      89,
       88,
-      87,
-      76,
-      84,
-      48,
-      78
+      77,
+      85,
+      49,
+      79
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 27500,
     "resourceId": 50530599,
     "assetId": 198951
   },
@@ -223,7 +226,7 @@
     "leagueId": 50,
     "countryId": 42,
     "versionId": "46",
-    "rating": 86,
+    "rating": 87,
     "preferredFoot": "Left",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -256,15 +259,15 @@
       149
     ],
     "attributes": [
+      85,
       84,
-      83,
-      84,
-      87,
-      80,
-      85
+      85,
+      88,
+      81,
+      86
     ],
     "hasDynamicImage": true,
-    "price": 88500,
+    "price": 79500,
     "resourceId": 50542741,
     "assetId": 211093
   },
@@ -276,7 +279,7 @@
     "leagueId": 1,
     "countryId": 13,
     "versionId": "46",
-    "rating": 84,
+    "rating": 86,
     "preferredFoot": "Left",
     "weakFoot": 3,
     "skillMoves": 3,
@@ -287,12 +290,13 @@
     "playStyles": [
       14,
       15,
-      17,
       19,
       27,
       28
     ],
-    "playStylesPlus": [],
+    "playStylesPlus": [
+      17
+    ],
     "rolesPlus": [
       13,
       48,
@@ -306,12 +310,12 @@
       112
     ],
     "attributes": [
-      77,
-      55,
-      70,
-      73,
-      84,
-      89
+      79,
+      57,
+      72,
+      75,
+      86,
+      91
     ],
     "isObjective": true,
     "hasDynamicImage": true,
@@ -326,7 +330,7 @@
     "leagueId": 50,
     "countryId": 14,
     "versionId": "46",
-    "rating": 84,
+    "rating": 85,
     "preferredFoot": "Right",
     "weakFoot": 3,
     "skillMoves": 3,
@@ -363,15 +367,15 @@
       124
     ],
     "attributes": [
-      87,
-      55,
-      74,
-      83,
-      80,
-      83
+      88,
+      56,
+      75,
+      84,
+      81,
+      84
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 12000,
     "resourceId": 50571708,
     "assetId": 240060
   },
@@ -383,7 +387,7 @@
     "leagueId": 13,
     "countryId": 34,
     "versionId": "46",
-    "rating": 88,
+    "rating": 89,
     "preferredFoot": "Left",
     "weakFoot": 3,
     "skillMoves": 3,
@@ -397,10 +401,11 @@
       14,
       17,
       18,
-      21,
       26
     ],
-    "playStylesPlus": [],
+    "playStylesPlus": [
+      21
+    ],
     "rolesPlus": [
       8,
       9,
@@ -416,15 +421,15 @@
       128
     ],
     "attributes": [
-      95,
-      74,
+      96,
+      75,
+      85,
+      91,
       84,
-      90,
-      83,
-      73
+      74
     ],
     "hasDynamicImage": true,
-    "price": 151000,
+    "price": 160000,
     "resourceId": 50580113,
     "assetId": 248465
   },
@@ -436,7 +441,7 @@
     "leagueId": 31,
     "countryId": 18,
     "versionId": "46",
-    "rating": 87,
+    "rating": 88,
     "preferredFoot": "Right",
     "weakFoot": 3,
     "skillMoves": 4,
@@ -446,13 +451,14 @@
       "CM"
     ],
     "playStyles": [
-      16,
       2,
       20,
       26,
       9
     ],
-    "playStylesPlus": [],
+    "playStylesPlus": [
+      16
+    ],
     "rolesPlus": [
       14,
       19,
@@ -468,15 +474,15 @@
       118
     ],
     "attributes": [
-      82,
       83,
-      83,
-      89,
-      85,
-      87
+      84,
+      84,
+      90,
+      86,
+      88
     ],
     "hasDynamicImage": true,
-    "price": 97500,
+    "price": 123000,
     "resourceId": 50582371,
     "assetId": 250723
   },
@@ -499,7 +505,6 @@
       "RM"
     ],
     "playStyles": [
-      0,
       12,
       19,
       2,
@@ -507,7 +512,9 @@
       7,
       8
     ],
-    "playStylesPlus": [],
+    "playStylesPlus": [
+      0
+    ],
     "rolesPlus": [
       18,
       25,
@@ -686,7 +693,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 12750,
     "resourceId": 50591569,
     "assetId": 259921
   },
@@ -742,7 +749,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 28250,
     "resourceId": 50592491,
     "assetId": 260843
   },
@@ -754,7 +761,7 @@
     "leagueId": 16,
     "countryId": 34,
     "versionId": "46",
-    "rating": 85,
+    "rating": 86,
     "preferredFoot": "Right",
     "weakFoot": 3,
     "skillMoves": 3,
@@ -766,12 +773,13 @@
     "playStyles": [
       10,
       12,
-      14,
       15,
       17,
       9
     ],
-    "playStylesPlus": [],
+    "playStylesPlus": [
+      14
+    ],
     "rolesPlus": [
       4,
       5,
@@ -787,15 +795,15 @@
       148
     ],
     "attributes": [
-      87,
-      49,
-      71,
-      79,
-      83,
-      85
+      88,
+      50,
+      72,
+      80,
+      84,
+      86
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 24000,
     "resourceId": 50593750,
     "assetId": 262102
   },
@@ -851,7 +859,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 40750,
+    "price": 37500,
     "resourceId": 50594616,
     "assetId": 262968
   },

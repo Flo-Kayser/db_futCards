@@ -41,7 +41,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 57500,
+    "price": 61500,
     "resourceId": 3622,
     "assetId": 3622
   },
@@ -94,7 +94,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 278000,
+    "price": 265000,
     "resourceId": 20775,
     "assetId": 20775
   },
@@ -106,7 +106,7 @@
     "leagueId": 308,
     "countryId": 54,
     "versionId": "50",
-    "rating": 85,
+    "rating": 87,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 3,
@@ -117,35 +117,37 @@
       "RW"
     ],
     "playStyles": [
-      0,
       1,
       12,
       13,
       25,
-      26
+      26,
+      6
     ],
-    "playStylesPlus": [],
+    "playStylesPlus": [
+      0
+    ],
     "rolesPlus": [
       27,
       35,
       36,
-      38,
+      138,
       139
     ],
     "rolesPlusPlus": [
       27,
       35,
       36,
-      38,
+      138,
       139
     ],
     "attributes": [
-      91,
-      81,
-      82,
-      85,
-      50,
-      76
+      93,
+      83,
+      84,
+      87,
+      52,
+      78
     ],
     "isObjective": true,
     "hasDynamicImage": true,
@@ -206,7 +208,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 58500,
+    "price": 71500,
     "resourceId": 50493995,
     "assetId": 162347
   },
@@ -258,7 +260,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 18000,
     "resourceId": 50503439,
     "assetId": 171791
   },
@@ -310,7 +312,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 12000,
     "resourceId": 50520951,
     "assetId": 189303
   },
@@ -359,7 +361,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 17500,
     "resourceId": 50524014,
     "assetId": 192366
   },
@@ -485,7 +487,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 12500,
     "resourceId": 50543915,
     "assetId": 212267
   },
@@ -532,7 +534,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 13750,
     "resourceId": 50552218,
     "assetId": 220570
   },
@@ -588,7 +590,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 13000,
     "resourceId": 50563039,
     "assetId": 231391
   },
@@ -643,7 +645,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 14750,
     "resourceId": 50572598,
     "assetId": 240950
   },
@@ -698,7 +700,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 16250,
+    "price": 14250,
     "resourceId": 50574817,
     "assetId": 243169
   },
@@ -756,7 +758,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 16500,
+    "price": 14500,
     "resourceId": 50575841,
     "assetId": 244193
   },
@@ -818,7 +820,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 20750,
+    "price": 20250,
     "resourceId": 50576426,
     "assetId": 244778
   },
@@ -883,7 +885,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 140000,
+    "price": 198000,
     "resourceId": 50576883,
     "assetId": 245235
   },
@@ -932,9 +934,58 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 25000,
     "resourceId": 50577245,
     "assetId": 245597
+  },
+  "50582401": {
+    "name": "Anatoliy Trubin",
+    "cardName": "Trubin",
+    "originalVersionId": "8",
+    "clubId": 234,
+    "leagueId": 308,
+    "countryId": 49,
+    "versionId": "8",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      30,
+      32,
+      33,
+      34,
+      35
+    ],
+    "playStylesPlus": [
+      31,
+      4
+    ],
+    "rolesPlus": [
+      2,
+      101,
+      145
+    ],
+    "rolesPlusPlus": [
+      2,
+      101,
+      145
+    ],
+    "attributes": [
+      86,
+      85,
+      86,
+      91,
+      73,
+      90
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50582401,
+    "assetId": 250753
   },
   "50583025": {
     "name": "Rodrigo Zalazar",
@@ -955,7 +1006,6 @@
       "RM"
     ],
     "playStyles": [
-      0,
       12,
       19,
       2,
@@ -963,7 +1013,9 @@
       7,
       8
     ],
-    "playStylesPlus": [],
+    "playStylesPlus": [
+      0
+    ],
     "rolesPlus": [
       18,
       25,
@@ -1048,7 +1100,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 180000,
+    "price": 53000,
     "resourceId": 50583792,
     "assetId": 252144
   },
@@ -1095,7 +1147,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 13500,
     "resourceId": 50583812,
     "assetId": 252164
   },
@@ -1143,7 +1195,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 16500,
     "resourceId": 50584577,
     "assetId": 252929
   },
@@ -1194,7 +1246,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 24750,
     "resourceId": 50590377,
     "assetId": 258729
   },
@@ -1206,7 +1258,7 @@
     "leagueId": 308,
     "countryId": 56,
     "versionId": "50",
-    "rating": 87,
+    "rating": 88,
     "preferredFoot": "Right",
     "weakFoot": 3,
     "skillMoves": 3,
@@ -1239,15 +1291,15 @@
       149
     ],
     "attributes": [
-      85,
-      83,
-      85,
-      89,
-      80,
-      87
+      86,
+      84,
+      86,
+      90,
+      81,
+      88
     ],
     "hasDynamicImage": true,
-    "price": 79000,
+    "price": 88000,
     "resourceId": 50594529,
     "assetId": 262881
   },
@@ -1292,7 +1344,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 23750,
+    "price": 26250,
     "resourceId": 50595938,
     "assetId": 264290
   },
@@ -1341,7 +1393,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 13500,
     "resourceId": 50600747,
     "assetId": 269099
   },
@@ -1393,7 +1445,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 27250,
+    "price": 50000,
     "resourceId": 50602179,
     "assetId": 270531
   },
@@ -1495,7 +1547,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 17750,
     "resourceId": 50605488,
     "assetId": 273840
   },
@@ -1599,7 +1651,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 22500,
     "resourceId": 50610692,
     "assetId": 279044
   },
@@ -1661,7 +1713,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 100000,
+    "price": 36000,
     "resourceId": 67181861,
     "assetId": 72997
   },
@@ -1707,7 +1759,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 17500,
+    "price": 19750,
     "resourceId": 67182717,
     "assetId": 73853
   },
@@ -1764,7 +1816,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 35000,
+    "price": 12000,
     "resourceId": 67184618,
     "assetId": 75754
   },
@@ -1812,62 +1864,9 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 18250,
     "resourceId": 67338052,
     "assetId": 229188
-  },
-  "67371745": {
-    "name": "Richard Ríos",
-    "cardName": "Ríos",
-    "originalVersionId": "8",
-    "clubId": 234,
-    "leagueId": 308,
-    "countryId": 56,
-    "versionId": "8",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      15,
-      22,
-      24,
-      26,
-      29,
-      5
-    ],
-    "playStylesPlus": [
-      8
-    ],
-    "rolesPlus": [
-      16,
-      20,
-      118,
-      149
-    ],
-    "rolesPlusPlus": [
-      16,
-      20,
-      118,
-      149
-    ],
-    "attributes": [
-      85,
-      84,
-      86,
-      89,
-      80,
-      87
-    ],
-    "hasDynamicImage": true,
-    "price": 90000,
-    "resourceId": 67371745,
-    "assetId": 262881
   },
   "67388633": {
     "name": "Diogo Travassos",
@@ -1910,6 +1909,7 @@
       71
     ],
     "hasDynamicImage": true,
+    "price": 0,
     "resourceId": 67388633,
     "assetId": 279769
   }

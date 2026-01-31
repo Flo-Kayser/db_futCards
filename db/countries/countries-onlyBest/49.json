@@ -41,7 +41,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 76000,
+    "price": 84000,
     "resourceId": 13128,
     "assetId": 13128
   },
@@ -318,7 +318,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 6900,
+    "price": 6300,
     "resourceId": 72669,
     "assetId": 72669
   },
@@ -665,7 +665,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 350,
     "resourceId": 76012,
     "assetId": 76012
   },
@@ -702,7 +702,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 76308,
     "assetId": 76308
   },
@@ -890,7 +890,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 79427,
     "assetId": 79427
   },
@@ -1127,7 +1127,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 6000,
+    "price": 7100,
     "resourceId": 220532,
     "assetId": 220532
   },
@@ -1169,7 +1169,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 400,
     "resourceId": 220948,
     "assetId": 220948
   },
@@ -1446,7 +1446,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 750,
     "resourceId": 242458,
     "assetId": 242458
   },
@@ -1841,7 +1841,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 400,
     "resourceId": 247040,
     "assetId": 247040
   },
@@ -1924,7 +1924,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 800,
     "resourceId": 247680,
     "assetId": 247680
   },
@@ -1966,45 +1966,6 @@
     "price": 350,
     "resourceId": 248698,
     "assetId": 248698
-  },
-  "250753": {
-    "name": "Anatoliy Trubin",
-    "cardName": "Trubin",
-    "originalVersionId": "1",
-    "clubId": 234,
-    "leagueId": 308,
-    "countryId": 49,
-    "versionId": "3002",
-    "rating": 80,
-    "preferredFoot": "Right",
-    "weakFoot": 2,
-    "skillMoves": 1,
-    "preferredPosition": "GK",
-    "possiblePositions": [
-      "GK"
-    ],
-    "playStyles": [
-      31
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      1
-    ],
-    "rolesPlusPlus": [
-      1
-    ],
-    "attributes": [
-      77,
-      76,
-      77,
-      84,
-      45,
-      83
-    ],
-    "hasDynamicImage": false,
-    "price": 750,
-    "resourceId": 250753,
-    "assetId": 250753
   },
   "252789": {
     "name": "Ruslan Neshcheret",
@@ -2321,7 +2282,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 5000,
+    "price": 1200,
     "resourceId": 259036,
     "assetId": 259036
   },
@@ -2640,7 +2601,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 250,
     "resourceId": 270608,
     "assetId": 270608
   },
@@ -3303,7 +3264,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 700,
     "resourceId": 278229,
     "assetId": 278229
   },
@@ -3394,7 +3355,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 19500,
+    "price": 17000,
     "resourceId": 50561176,
     "assetId": 229528
   },
@@ -3444,7 +3405,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 13750,
     "resourceId": 50568703,
     "assetId": 237055
   },
@@ -3495,7 +3456,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 19000,
     "resourceId": 50576017,
     "assetId": 244369
   },
@@ -3537,6 +3498,55 @@
     "price": 200,
     "resourceId": 50576379,
     "assetId": 244731
+  },
+  "50582401": {
+    "name": "Anatoliy Trubin",
+    "cardName": "Trubin",
+    "originalVersionId": "8",
+    "clubId": 234,
+    "leagueId": 308,
+    "countryId": 49,
+    "versionId": "8",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      30,
+      32,
+      33,
+      34,
+      35
+    ],
+    "playStylesPlus": [
+      31,
+      4
+    ],
+    "rolesPlus": [
+      2,
+      101,
+      145
+    ],
+    "rolesPlusPlus": [
+      2,
+      101,
+      145
+    ],
+    "attributes": [
+      86,
+      85,
+      86,
+      91,
+      73,
+      90
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50582401,
+    "assetId": 250753
   },
   "50591561": {
     "name": "Georgiy Sudakov",
