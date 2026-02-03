@@ -373,7 +373,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 10000,
       "resourceId": 236315,
       "assetId": 236315
     },
@@ -588,7 +588,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 8800,
+      "price": 8500,
       "resourceId": 243619,
       "assetId": 243619
     },
@@ -731,52 +731,6 @@
       "resourceId": 252796,
       "assetId": 252796
     },
-    "253054": {
-      "name": "Hayden Hackney",
-      "cardName": "Hackney",
-      "originalVersionId": "1",
-      "clubId": 12,
-      "leagueId": 14,
-      "countryId": 14,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        13,
-        24
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        21,
-        49
-      ],
-      "rolesPlusPlus": [
-        16,
-        21,
-        49
-      ],
-      "attributes": [
-        67,
-        62,
-        69,
-        72,
-        68,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 253054,
-      "assetId": 253054
-    },
     "254752": {
       "name": "Sontje Hansen",
       "cardName": "Hansen",
@@ -816,7 +770,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 8800,
       "resourceId": 254752,
       "assetId": 254752
     },
@@ -949,7 +903,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 200,
       "resourceId": 261283,
       "assetId": 261283
     },
@@ -1328,6 +1282,68 @@
       "resourceId": 50575267,
       "assetId": 243619
     },
+    "50584702": {
+      "name": "Hayden Hackney",
+      "cardName": "Hackney",
+      "originalVersionId": "71",
+      "clubId": 12,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "71",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        16,
+        17,
+        24,
+        26,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        10
+      ],
+      "rolesPlus": [
+        14,
+        15,
+        18,
+        20,
+        116,
+        119,
+        121,
+        149
+      ],
+      "rolesPlusPlus": [
+        14,
+        15,
+        18,
+        20,
+        116,
+        119,
+        121,
+        149
+      ],
+      "attributes": [
+        84,
+        78,
+        85,
+        87,
+        86,
+        88
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50584702,
+      "assetId": 253054
+    },
     "50586400": {
       "name": "Sontje Hansen",
       "cardName": "Hansen",
@@ -1459,7 +1475,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 12000,
       "resourceId": 67325328,
       "assetId": 216464
     }

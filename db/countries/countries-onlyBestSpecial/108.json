@@ -37,7 +37,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 51500,
+    "price": 58500,
     "resourceId": 188428,
     "assetId": 188428
   },
@@ -111,7 +111,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 490000,
+    "price": 500000,
     "resourceId": 50351937,
     "assetId": 20289
   },
@@ -165,7 +165,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 1800000,
+    "price": 1350000,
     "resourceId": 50363080,
     "assetId": 31432
   },
@@ -222,7 +222,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 117000,
+    "price": 128000,
     "resourceId": 50502381,
     "assetId": 170733
   },
@@ -429,7 +429,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 31500,
+    "price": 35750,
     "resourceId": 50566821,
     "assetId": 235173
   },
@@ -478,7 +478,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 12250,
     "resourceId": 50571237,
     "assetId": 239589
   },
@@ -531,7 +531,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 20750,
     "resourceId": 50599910,
     "assetId": 268262
   },
@@ -583,7 +583,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 45750,
+    "price": 50000,
     "resourceId": 50602179,
     "assetId": 270531
   },
@@ -658,7 +658,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 19750,
     "resourceId": 50606856,
     "assetId": 275208
   },
@@ -698,58 +698,6 @@
     "price": 0,
     "resourceId": 50610696,
     "assetId": 279048
-  },
-  "67186876": {
-    "name": "Yan Diomande",
-    "cardName": "Diomande",
-    "originalVersionId": "3",
-    "clubId": 112172,
-    "leagueId": 19,
-    "countryId": 108,
-    "versionId": "3",
-    "rating": 84,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "RW",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      0,
-      12,
-      20,
-      21,
-      5
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      23,
-      27,
-      29,
-      136
-    ],
-    "rolesPlusPlus": [
-      23,
-      27,
-      29,
-      136
-    ],
-    "attributes": [
-      89,
-      84,
-      85,
-      86,
-      44,
-      75
-    ],
-    "hasDynamicImage": true,
-    "price": 0,
-    "resourceId": 67186876,
-    "assetId": 78012
   },
   "67349651": {
     "name": "Hamed Junior Traoré",
@@ -803,5 +751,70 @@
     "price": 13000,
     "resourceId": 67349651,
     "assetId": 240787
+  },
+  "83964092": {
+    "name": "Yan Diomande",
+    "cardName": "Diomande",
+    "originalVersionId": "71",
+    "clubId": 112172,
+    "leagueId": 19,
+    "countryId": 108,
+    "versionId": "71",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "ST"
+    ],
+    "playStyles": [
+      13,
+      2,
+      20,
+      21,
+      24,
+      8
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      25,
+      29,
+      39,
+      123,
+      126,
+      127,
+      130,
+      138,
+      144
+    ],
+    "rolesPlusPlus": [
+      25,
+      29,
+      39,
+      123,
+      126,
+      127,
+      130,
+      138,
+      144
+    ],
+    "attributes": [
+      92,
+      88,
+      90,
+      90,
+      50,
+      81
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 83750,
+    "resourceId": 83964092,
+    "assetId": 78012
   }
 }

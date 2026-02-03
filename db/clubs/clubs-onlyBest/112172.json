@@ -124,7 +124,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 74512,
       "assetId": 74512
     },
@@ -243,7 +243,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 80096,
       "assetId": 80096
     },
@@ -282,7 +282,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 3200,
       "resourceId": 185122,
       "assetId": 185122
     },
@@ -825,7 +825,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 262138,
       "assetId": 262138
     },
@@ -866,7 +866,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 4400,
       "resourceId": 263193,
       "assetId": 263193
     },
@@ -954,7 +954,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 276216,
       "assetId": 276216
     },
@@ -1041,7 +1041,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 277887,
       "assetId": 277887
     },
@@ -1087,7 +1087,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 278061,
       "assetId": 278061
     },
@@ -1135,7 +1135,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 21500,
       "resourceId": 50536286,
       "assetId": 204638
     },
@@ -1190,7 +1190,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 45500,
+      "price": 44250,
       "resourceId": 50543836,
       "assetId": 212188
     },
@@ -1244,7 +1244,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 300000,
+      "price": 359000,
       "resourceId": 50553979,
       "assetId": 222331
     },
@@ -1376,7 +1376,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 12750,
       "resourceId": 50589524,
       "assetId": 257876
     },
@@ -1479,58 +1479,6 @@
       "resourceId": 50609337,
       "assetId": 277689
     },
-    "67186876": {
-      "name": "Yan Diomande",
-      "cardName": "Diomande",
-      "originalVersionId": "3",
-      "clubId": 112172,
-      "leagueId": 19,
-      "countryId": 108,
-      "versionId": "3",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        12,
-        20,
-        21,
-        5
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        27,
-        29,
-        136
-      ],
-      "rolesPlusPlus": [
-        23,
-        27,
-        29,
-        136
-      ],
-      "attributes": [
-        89,
-        84,
-        85,
-        86,
-        44,
-        75
-      ],
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 67186876,
-      "assetId": 78012
-    },
     "67345567": {
       "name": "David Raum",
       "cardName": "Raum",
@@ -1589,9 +1537,74 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 43750,
+      "price": 60000,
       "resourceId": 67345567,
       "assetId": 236703
+    },
+    "83964092": {
+      "name": "Yan Diomande",
+      "cardName": "Diomande",
+      "originalVersionId": "71",
+      "clubId": 112172,
+      "leagueId": 19,
+      "countryId": 108,
+      "versionId": "71",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        13,
+        2,
+        20,
+        21,
+        24,
+        8
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        25,
+        29,
+        39,
+        123,
+        126,
+        127,
+        130,
+        138,
+        144
+      ],
+      "rolesPlusPlus": [
+        25,
+        29,
+        39,
+        123,
+        126,
+        127,
+        130,
+        138,
+        144
+      ],
+      "attributes": [
+        92,
+        88,
+        90,
+        90,
+        50,
+        81
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 83750,
+      "resourceId": 83964092,
+      "assetId": 78012
     },
     "100926159": {
       "name": "Antonio Nusa",
@@ -1653,7 +1666,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 135000,
+      "price": 136000,
       "resourceId": 100926159,
       "assetId": 262863
     }
