@@ -39,7 +39,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 8000,
       "resourceId": 227207,
       "assetId": 227207
     },
@@ -85,7 +85,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 350,
       "resourceId": 246356,
       "assetId": 246356
     },
@@ -468,43 +468,6 @@
       "resourceId": 272111,
       "assetId": 272111
     },
-    "272140": {
-      "name": "Cristina Cubedo",
-      "cardName": "Cristina Cubedo",
-      "originalVersionId": "0",
-      "clubId": 131125,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "2001",
-      "rating": 71,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11
-      ],
-      "rolesPlusPlus": [
-        11
-      ],
-      "attributes": [
-        46,
-        50,
-        61,
-        61,
-        72,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 272140,
-      "assetId": 272140
-    },
     "272148": {
       "name": "María Llompart",
       "cardName": "María Llompart",
@@ -855,9 +818,59 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 16250,
+      "price": 15000,
       "resourceId": 50598589,
       "assetId": 266941
+    },
+    "50603788": {
+      "name": "Cristina Cubedo",
+      "cardName": "Cristina Cubedo",
+      "originalVersionId": "3",
+      "clubId": 131125,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        15,
+        17,
+        28,
+        4
+      ],
+      "playStylesPlus": [
+        19
+      ],
+      "rolesPlus": [
+        12,
+        111,
+        113,
+        148
+      ],
+      "rolesPlusPlus": [
+        12,
+        111,
+        113,
+        148
+      ],
+      "attributes": [
+        76,
+        63,
+        75,
+        76,
+        85,
+        87
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50603788,
+      "assetId": 272140
     },
     "50603811": {
       "name": "Elena Julve",

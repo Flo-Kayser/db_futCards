@@ -75,7 +75,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 2800,
       "resourceId": 77070,
       "assetId": 77070
     },
@@ -200,7 +200,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 206218,
       "assetId": 206218
     },
@@ -546,51 +546,6 @@
       "resourceId": 242787,
       "assetId": 242787
     },
-    "243223": {
-      "name": "Nicolas Madsen",
-      "cardName": "Madsen",
-      "originalVersionId": "1",
-      "clubId": 15,
-      "leagueId": 14,
-      "countryId": 13,
-      "versionId": "3001",
-      "rating": 71,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        22,
-        31,
-        32
-      ],
-      "rolesPlusPlus": [
-        16,
-        22,
-        31,
-        32
-      ],
-      "attributes": [
-        58,
-        68,
-        73,
-        71,
-        66,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 243223,
-      "assetId": 243223
-    },
     "243393": {
       "name": "Taylor Richards",
       "cardName": "Richards",
@@ -832,7 +787,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 200,
       "resourceId": 257105,
       "assetId": 257105
     },
@@ -1260,6 +1215,62 @@
       "price": 200,
       "resourceId": 50572421,
       "assetId": 240773
+    },
+    "50574871": {
+      "name": "Nicolas Madsen",
+      "cardName": "Madsen",
+      "originalVersionId": "3",
+      "clubId": 15,
+      "leagueId": 14,
+      "countryId": 13,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        19,
+        2,
+        28,
+        3
+      ],
+      "playStylesPlus": [
+        9
+      ],
+      "rolesPlus": [
+        16,
+        22,
+        32,
+        120,
+        131,
+        149
+      ],
+      "rolesPlusPlus": [
+        16,
+        22,
+        32,
+        120,
+        131,
+        149
+      ],
+      "attributes": [
+        78,
+        81,
+        86,
+        84,
+        80,
+        84
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50574871,
+      "assetId": 243223
     },
     "50578330": {
       "name": "Karamoko Dembélé",

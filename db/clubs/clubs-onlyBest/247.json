@@ -38,7 +38,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 350,
       "resourceId": 80352,
       "assetId": 80352
     },
@@ -221,55 +221,9 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 0,
       "resourceId": 241171,
       "assetId": 241171
-    },
-    "241509": {
-      "name": "Mauro Júnior",
-      "cardName": "Mauro Júnior",
-      "originalVersionId": "1",
-      "clubId": 247,
-      "leagueId": 10,
-      "countryId": 54,
-      "versionId": "3002",
-      "rating": 79,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "CM",
-        "LB",
-        "LM",
-        "RB"
-      ],
-      "playStyles": [
-        13
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        6,
-        10,
-        20
-      ],
-      "rolesPlusPlus": [
-        6,
-        10,
-        20
-      ],
-      "attributes": [
-        83,
-        66,
-        76,
-        81,
-        73,
-        59
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 241509,
-      "assetId": 241509
     },
     "242948": {
       "name": "Matěj Kovář",
@@ -389,7 +343,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 260930,
       "assetId": 260930
     },
@@ -432,7 +386,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 700,
       "resourceId": 261422,
       "assetId": 261422
     },
@@ -474,7 +428,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 269823,
       "assetId": 269823
     },
@@ -557,7 +511,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 800,
       "resourceId": 272769,
       "assetId": 272769
     },
@@ -644,7 +598,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 275592,
       "assetId": 275592
     },
@@ -728,7 +682,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 550,
       "resourceId": 278661,
       "assetId": 278661
     },
@@ -796,7 +750,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 16250,
+      "price": 16500,
       "resourceId": 50513106,
       "assetId": 181458
     },
@@ -843,7 +797,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 21250,
+      "price": 18000,
       "resourceId": 50567311,
       "assetId": 235663
     },
@@ -932,7 +886,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 28750,
+      "price": 29000,
       "resourceId": 50571626,
       "assetId": 239978
     },
@@ -973,9 +927,70 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 50572819,
       "assetId": 241171
+    },
+    "50573157": {
+      "name": "Mauro Júnior",
+      "cardName": "Mauro Júnior",
+      "originalVersionId": "3",
+      "clubId": 247,
+      "leagueId": 10,
+      "countryId": 54,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CM",
+        "LB",
+        "LM",
+        "RB"
+      ],
+      "playStyles": [
+        12,
+        13,
+        14,
+        16,
+        25
+      ],
+      "playStylesPlus": [
+        17
+      ],
+      "rolesPlus": [
+        5,
+        9,
+        19,
+        28,
+        106,
+        110,
+        120,
+        127
+      ],
+      "rolesPlusPlus": [
+        5,
+        9,
+        19,
+        28,
+        106,
+        110,
+        120,
+        127
+      ],
+      "attributes": [
+        90,
+        73,
+        83,
+        88,
+        83,
+        75
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50573157,
+      "assetId": 241509
     },
     "50583452": {
       "name": "Sergiño Dest",
@@ -1028,7 +1043,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 33000,
+      "price": 33750,
       "resourceId": 50583452,
       "assetId": 251804
     },
@@ -1081,7 +1096,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 20000,
       "resourceId": 50584757,
       "assetId": 253109
     },
@@ -1137,7 +1152,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 73000,
+      "price": 73500,
       "resourceId": 50590401,
       "assetId": 258753
     },
@@ -1185,7 +1200,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 16750,
+      "price": 17750,
       "resourceId": 50591128,
       "assetId": 259480
     },
@@ -1240,7 +1255,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 16250,
       "resourceId": 50597885,
       "assetId": 266237
     },
@@ -1282,7 +1297,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 3000,
       "resourceId": 50600376,
       "assetId": 268728
     },

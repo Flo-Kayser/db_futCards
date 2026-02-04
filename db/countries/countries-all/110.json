@@ -118,7 +118,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 350,
     "resourceId": 77050,
     "assetId": 77050
   },
@@ -478,7 +478,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 4500,
     "resourceId": 210394,
     "assetId": 210394
   },
@@ -692,7 +692,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 1000,
     "resourceId": 222875,
     "assetId": 222875
   },
@@ -1410,7 +1410,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 550,
     "resourceId": 244843,
     "assetId": 244843
   },
@@ -1494,7 +1494,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 400,
     "resourceId": 245940,
     "assetId": 245940
   },
@@ -1661,7 +1661,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 2500,
+    "price": 10000,
     "resourceId": 251532,
     "assetId": 251532
   },
@@ -2051,7 +2051,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 16500,
     "resourceId": 50408698,
     "assetId": 77050
   },
@@ -2103,7 +2103,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 27750,
+    "price": 24250,
     "resourceId": 50530599,
     "assetId": 198951
   },
@@ -2267,7 +2267,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 600,
     "resourceId": 50591810,
     "assetId": 260162
   },
@@ -2307,7 +2307,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 600,
     "resourceId": 50593913,
     "assetId": 262265
   },
@@ -2349,7 +2349,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 350,
     "resourceId": 50600862,
     "assetId": 269214
   },
@@ -2443,8 +2443,64 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 250,
     "resourceId": 67366072,
     "assetId": 257208
+  },
+  "84132020": {
+    "name": "Silas",
+    "cardName": "Silas",
+    "originalVersionId": "3",
+    "clubId": 169,
+    "leagueId": 19,
+    "countryId": 110,
+    "versionId": "3",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      22,
+      23,
+      24,
+      5
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      26,
+      36,
+      41,
+      123,
+      135,
+      143
+    ],
+    "rolesPlusPlus": [
+      26,
+      36,
+      41,
+      123,
+      135,
+      143
+    ],
+    "attributes": [
+      94,
+      81,
+      75,
+      89,
+      62,
+      84
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 84132020,
+    "assetId": 245940
   }
 }
