@@ -155,7 +155,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 71068,
     "assetId": 71068
   },
@@ -1451,7 +1451,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 200440,
     "assetId": 200440
   },
@@ -1658,7 +1658,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 206562,
     "assetId": 206562
   },
@@ -2650,7 +2650,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 4400,
+    "price": 200,
     "resourceId": 225650,
     "assetId": 225650
   },
@@ -3758,7 +3758,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 71000,
+    "price": 73000,
     "resourceId": 247703,
     "assetId": 247703
   },
@@ -3845,7 +3845,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 800,
     "resourceId": 248688,
     "assetId": 248688
   },
@@ -4386,7 +4386,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 259186,
     "assetId": 259186
   },
@@ -5332,7 +5332,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 750,
     "resourceId": 267201,
     "assetId": 267201
   },
@@ -5776,7 +5776,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 200,
     "resourceId": 271235,
     "assetId": 271235
   },
@@ -5855,7 +5855,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 4100,
     "resourceId": 272347,
     "assetId": 272347
   },
@@ -6419,9 +6419,49 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 1550000,
+    "price": 1569000,
     "resourceId": 50403205,
     "assetId": 71557
+  },
+  "50403462": {
+    "name": "Charlie Crew",
+    "cardName": "Crew",
+    "originalVersionId": "0",
+    "clubId": 8,
+    "leagueId": 13,
+    "countryId": 50,
+    "versionId": "2000",
+    "rating": 62,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      14,
+      18
+    ],
+    "rolesPlusPlus": [
+      14,
+      18
+    ],
+    "attributes": [
+      64,
+      33,
+      55,
+      61,
+      57,
+      65
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 50403462,
+    "assetId": 71814
   },
   "50537571": {
     "name": "Ben Davies",
@@ -6466,7 +6506,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 31000,
+    "price": 31750,
     "resourceId": 50537571,
     "assetId": 205923
   },
@@ -6509,7 +6549,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 20500,
+    "price": 20000,
     "resourceId": 50548275,
     "assetId": 216627
   },
@@ -6564,7 +6604,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 20750,
+    "price": 19250,
     "resourceId": 50551844,
     "assetId": 220196
   },
@@ -6610,7 +6650,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 24250,
     "resourceId": 50552358,
     "assetId": 220710
   },
@@ -6706,7 +6746,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 153000,
+    "price": 144000,
     "resourceId": 50563752,
     "assetId": 232104
   },
@@ -6875,6 +6915,51 @@
     "resourceId": 50580336,
     "assetId": 248688
   },
+  "50583069": {
+    "name": "Brennan Johnson",
+    "cardName": "Johnson",
+    "originalVersionId": "1",
+    "clubId": 1799,
+    "leagueId": 13,
+    "countryId": 50,
+    "versionId": "3002",
+    "rating": 79,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      21,
+      25
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      26,
+      35,
+      36
+    ],
+    "rolesPlusPlus": [
+      26,
+      35,
+      36
+    ],
+    "attributes": [
+      86,
+      76,
+      72,
+      78,
+      43,
+      59
+    ],
+    "hasDynamicImage": false,
+    "price": 750,
+    "resourceId": 50583069,
+    "assetId": 251421
+  },
   "50583169": {
     "name": "Niall Huggins",
     "cardName": "Huggins",
@@ -6991,6 +7076,46 @@
     "resourceId": 50594170,
     "assetId": 262522
   },
+  "50595947": {
+    "name": "Owen Beck",
+    "cardName": "Beck",
+    "originalVersionId": "0",
+    "clubId": 9,
+    "leagueId": 13,
+    "countryId": 50,
+    "versionId": "2001",
+    "rating": 70,
+    "preferredFoot": "Left",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      14
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      7
+    ],
+    "rolesPlusPlus": [
+      7
+    ],
+    "attributes": [
+      71,
+      51,
+      67,
+      72,
+      64,
+      68
+    ],
+    "hasDynamicImage": false,
+    "price": 9900,
+    "resourceId": 50595947,
+    "assetId": 264299
+  },
   "50597162": {
     "name": "Jordan James",
     "cardName": "James",
@@ -7093,7 +7218,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 49500,
+    "price": 42750,
     "resourceId": 50598849,
     "assetId": 267201
   },

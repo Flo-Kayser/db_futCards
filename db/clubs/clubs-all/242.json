@@ -35,7 +35,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 200,
       "resourceId": 73934,
       "assetId": 73934
     },
@@ -979,7 +979,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 279897,
       "assetId": 279897
     },
@@ -1019,6 +1019,43 @@
       "price": 0,
       "resourceId": 279898,
       "assetId": 279898
+    },
+    "50568163": {
+      "name": "Álvaro",
+      "cardName": "Álvaro",
+      "originalVersionId": "1",
+      "clubId": 242,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "rolesPlusPlus": [
+        1
+      ],
+      "attributes": [
+        75,
+        71,
+        68,
+        76,
+        47,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50568163,
+      "assetId": 236515
     },
     "50574848": {
       "name": "Samuele Mulattieri",
@@ -1149,7 +1186,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 19750,
+      "price": 20500,
       "resourceId": 50594046,
       "assetId": 262398
     },
@@ -1201,9 +1238,54 @@
         64
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 18250,
       "resourceId": 50596140,
       "assetId": 264492
+    },
+    "50600876": {
+      "name": "Altimira",
+      "cardName": "Altimira",
+      "originalVersionId": "0",
+      "clubId": 242,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        23,
+        46
+      ],
+      "rolesPlusPlus": [
+        5,
+        23,
+        46
+      ],
+      "attributes": [
+        73,
+        57,
+        67,
+        73,
+        67,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 7000,
+      "resourceId": 50600876,
+      "assetId": 269228
     }
   }
 }

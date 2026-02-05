@@ -37,7 +37,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 200,
       "resourceId": 74984,
       "assetId": 74984
     },
@@ -552,7 +552,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 200,
       "resourceId": 250909,
       "assetId": 250909
     },
@@ -771,7 +771,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 200,
       "resourceId": 262671,
       "assetId": 262671
     },
@@ -1124,6 +1124,167 @@
       "price": 200,
       "resourceId": 50405604,
       "assetId": 73956
+    },
+    "50582937": {
+      "name": "Thomas Keller",
+      "cardName": "Keller",
+      "originalVersionId": "0",
+      "clubId": 503,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "rolesPlusPlus": [
+        11
+      ],
+      "attributes": [
+        58,
+        42,
+        56,
+        52,
+        67,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50582937,
+      "assetId": 251289
+    },
+    "50588602": {
+      "name": "Jonas Sterner",
+      "cardName": "Sterner",
+      "originalVersionId": "0",
+      "clubId": 503,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        23
+      ],
+      "rolesPlusPlus": [
+        5,
+        6,
+        23
+      ],
+      "attributes": [
+        80,
+        44,
+        65,
+        65,
+        63,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50588602,
+      "assetId": 256954
+    },
+    "50594546": {
+      "name": "Jason Ceka",
+      "cardName": "Ceka",
+      "originalVersionId": "0",
+      "clubId": 503,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26
+      ],
+      "rolesPlusPlus": [
+        26
+      ],
+      "attributes": [
+        68,
+        60,
+        62,
+        70,
+        28,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50594546,
+      "assetId": 262898
+    },
+    "50594724": {
+      "name": "Robert Wagner",
+      "cardName": "Wagner",
+      "originalVersionId": "0",
+      "clubId": 503,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "rolesPlusPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        61,
+        44,
+        65,
+        70,
+        62,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50594724,
+      "assetId": 263076
     }
   }
 }

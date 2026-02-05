@@ -502,7 +502,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 7500,
+      "price": 5900,
       "resourceId": 265342,
       "assetId": 265342
     },
@@ -628,7 +628,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 9500,
       "resourceId": 268000,
       "assetId": 268000
     },
@@ -1003,9 +1003,89 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 26250,
+      "price": 26000,
       "resourceId": 50558761,
       "assetId": 227113
+    },
+    "50596974": {
+      "name": "Sarah Mayling",
+      "cardName": "Mayling",
+      "originalVersionId": "0",
+      "clubId": 116020,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 79,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        23
+      ],
+      "rolesPlusPlus": [
+        5,
+        23
+      ],
+      "attributes": [
+        70,
+        59,
+        71,
+        71,
+        78,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50596974,
+      "assetId": 265326
+    },
+    "50607567": {
+      "name": "Emma Jansson",
+      "cardName": "Jansson",
+      "originalVersionId": "0",
+      "clubId": 116020,
+      "leagueId": 2216,
+      "countryId": 46,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "rolesPlusPlus": [
+        18
+      ],
+      "attributes": [
+        64,
+        63,
+        68,
+        71,
+        63,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50607567,
+      "assetId": 275919
     }
   }
 }

@@ -116,7 +116,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 71383,
       "assetId": 71383
     },
@@ -155,7 +155,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 72699,
       "assetId": 72699
     },
@@ -938,7 +938,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 950,
       "resourceId": 251285,
       "assetId": 251285
     },
@@ -1271,7 +1271,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 18500,
       "resourceId": 50531964,
       "assetId": 200316
     },
@@ -1311,6 +1311,85 @@
       "price": 200,
       "resourceId": 50573913,
       "assetId": 242265
+    },
+    "50600568": {
+      "name": "Mikkel Rakneberg",
+      "cardName": "Rakneberg",
+      "originalVersionId": "1",
+      "clubId": 160,
+      "leagueId": 20,
+      "countryId": 36,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9
+      ],
+      "rolesPlusPlus": [
+        9
+      ],
+      "attributes": [
+        72,
+        54,
+        56,
+        60,
+        60,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50600568,
+      "assetId": 268920
+    },
+    "50609749": {
+      "name": "Callum Marshall",
+      "cardName": "Marshall",
+      "originalVersionId": "0",
+      "clubId": 160,
+      "leagueId": 20,
+      "countryId": 35,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        42
+      ],
+      "rolesPlusPlus": [
+        26,
+        42
+      ],
+      "attributes": [
+        69,
+        66,
+        55,
+        64,
+        42,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50609749,
+      "assetId": 278101
     }
   }
 }

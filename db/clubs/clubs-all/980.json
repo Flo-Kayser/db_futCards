@@ -521,7 +521,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 1800,
       "resourceId": 233214,
       "assetId": 233214
     },
@@ -1149,7 +1149,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 257386,
       "assetId": 257386
     },
@@ -1529,6 +1529,99 @@
       "resourceId": 50574823,
       "assetId": 243175
     },
+    "50578585": {
+      "name": "Um Won Sang",
+      "cardName": "Um Won Sang",
+      "originalVersionId": "1",
+      "clubId": 980,
+      "leagueId": 83,
+      "countryId": 167,
+      "versionId": "3001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        36,
+        43
+      ],
+      "rolesPlusPlus": [
+        23,
+        36,
+        43
+      ],
+      "attributes": [
+        91,
+        65,
+        60,
+        71,
+        37,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 5700,
+      "resourceId": 50578585,
+      "assetId": 246937
+    },
+    "50588018": {
+      "name": "Gustav Ludwigson",
+      "cardName": "Ludwigson",
+      "originalVersionId": "1",
+      "clubId": 980,
+      "leagueId": 83,
+      "countryId": 46,
+      "versionId": "3001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        19,
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        36,
+        39
+      ],
+      "rolesPlusPlus": [
+        27,
+        36,
+        39
+      ],
+      "attributes": [
+        90,
+        67,
+        63,
+        71,
+        30,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50588018,
+      "assetId": 256370
+    },
     "50594682": {
       "name": "Anton Krivotsyuk",
       "cardName": "Krivotsyuk",
@@ -1571,9 +1664,51 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 26750,
+      "price": 27500,
       "resourceId": 50594682,
       "assetId": 263034
+    },
+    "50606342": {
+      "name": "Cho Sung Gwon",
+      "cardName": "Cho Sung Gwon",
+      "originalVersionId": "0",
+      "clubId": 980,
+      "leagueId": 83,
+      "countryId": 167,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        46,
+        48
+      ],
+      "rolesPlusPlus": [
+        4,
+        46,
+        48
+      ],
+      "attributes": [
+        68,
+        28,
+        51,
+        49,
+        62,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50606342,
+      "assetId": 274694
     }
   }
 }

@@ -121,7 +121,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 900,
       "resourceId": 227013,
       "assetId": 227013
     },
@@ -164,7 +164,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 233756,
       "assetId": 233756
     },
@@ -386,7 +386,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 3600,
+      "price": 3400,
       "resourceId": 263011,
       "assetId": 263011
     },
@@ -483,7 +483,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 264896,
       "assetId": 264896
     },
@@ -614,7 +614,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 850,
       "resourceId": 265293,
       "assetId": 265293
     },
@@ -740,7 +740,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 4800,
       "resourceId": 266503,
       "assetId": 266503
     },
@@ -824,7 +824,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 750,
       "resourceId": 267212,
       "assetId": 267212
     },
@@ -1064,7 +1064,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 5100,
       "resourceId": 277508,
       "assetId": 277508
     },
@@ -1136,6 +1136,47 @@
       "resourceId": 50558661,
       "assetId": 227013
     },
+    "50575950": {
+      "name": "Lea Schüller",
+      "cardName": "Schüller",
+      "originalVersionId": "1",
+      "clubId": 116012,
+      "leagueId": 2216,
+      "countryId": 21,
+      "versionId": "3002",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        25,
+        4,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141
+      ],
+      "rolesPlusPlus": [
+        141
+      ],
+      "attributes": [
+        87,
+        83,
+        71,
+        82,
+        33,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 3800,
+      "resourceId": 50575950,
+      "assetId": 244302
+    },
     "50579125": {
       "name": "Julia Zigiotti",
       "cardName": "Zigiotti",
@@ -1182,7 +1223,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 18750,
+      "price": 19500,
       "resourceId": 50579125,
       "assetId": 247477
     },
@@ -1278,7 +1319,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 24750,
       "resourceId": 50590354,
       "assetId": 258706
     },
@@ -1328,7 +1369,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 17750,
+      "price": 17000,
       "resourceId": 50594659,
       "assetId": 263011
     },
@@ -1380,7 +1421,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 55500,
       "resourceId": 50596911,
       "assetId": 265263
     },
@@ -1433,7 +1474,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 90500,
+      "price": 88500,
       "resourceId": 50596941,
       "assetId": 265293
     },
@@ -1526,9 +1567,94 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 18000,
       "resourceId": 50598860,
       "assetId": 267212
+    },
+    "50603762": {
+      "name": "Hanna Lundkvist",
+      "cardName": "Lundkvist",
+      "originalVersionId": "0",
+      "clubId": 116012,
+      "leagueId": 2216,
+      "countryId": 46,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6
+      ],
+      "rolesPlusPlus": [
+        5,
+        6
+      ],
+      "attributes": [
+        77,
+        58,
+        71,
+        70,
+        75,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50603762,
+      "assetId": 272114
+    },
+    "67357658": {
+      "name": "Geyse",
+      "cardName": "Geyse",
+      "originalVersionId": "1",
+      "clubId": 116012,
+      "leagueId": 2216,
+      "countryId": 54,
+      "versionId": "3002",
+      "rating": 81,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20,
+        23,
+        25,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        123
+      ],
+      "rolesPlusPlus": [
+        25,
+        123
+      ],
+      "attributes": [
+        91,
+        78,
+        73,
+        85,
+        34,
+        87
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67357658,
+      "assetId": 248794
     },
     "67371875": {
       "name": "Ella Toone",
@@ -1691,7 +1817,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 15000,
       "resourceId": 67380978,
       "assetId": 272114
     },
@@ -1743,7 +1869,7 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 18500,
       "resourceId": 84151420,
       "assetId": 265340
     }

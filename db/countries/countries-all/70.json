@@ -187,7 +187,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 600,
     "resourceId": 73070,
     "assetId": 73070
   },
@@ -599,7 +599,7 @@
       50
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 350,
     "resourceId": 79958,
     "assetId": 79958
   },
@@ -1200,7 +1200,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 1100,
+    "price": 850,
     "resourceId": 227392,
     "assetId": 227392
   },
@@ -1697,7 +1697,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 800,
     "resourceId": 237673,
     "assetId": 237673
   },
@@ -2080,7 +2080,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 750,
     "resourceId": 243630,
     "assetId": 243630
   },
@@ -3962,7 +3962,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 350,
     "resourceId": 268649,
     "assetId": 268649
   },
@@ -4377,7 +4377,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 800,
     "resourceId": 274536,
     "assetId": 274536
   },
@@ -4672,7 +4672,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 350,
     "resourceId": 276797,
     "assetId": 276797
   },
@@ -4825,7 +4825,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 1400,
+    "price": 2300,
     "resourceId": 279008,
     "assetId": 279008
   },
@@ -4949,7 +4949,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 1200,
     "resourceId": 50407865,
     "assetId": 76217
   },
@@ -4990,6 +4990,46 @@
     "price": 0,
     "resourceId": 50411606,
     "assetId": 79958
+  },
+  "50545184": {
+    "name": "Maxime Crépeau",
+    "cardName": "Crépeau",
+    "originalVersionId": "0",
+    "clubId": 112606,
+    "leagueId": 39,
+    "countryId": 70,
+    "versionId": "2001",
+    "rating": 69,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      30,
+      31
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      45
+    ],
+    "rolesPlusPlus": [
+      45
+    ],
+    "attributes": [
+      71,
+      69,
+      64,
+      72,
+      45,
+      66
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50545184,
+    "assetId": 213536
   },
   "50558425": {
     "name": "Cyle Larin",
@@ -5083,7 +5123,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 18500,
     "resourceId": 50559035,
     "assetId": 227387
   },
@@ -5131,7 +5171,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 19250,
+    "price": 18000,
     "resourceId": 50559040,
     "assetId": 227392
   },
@@ -5243,7 +5283,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 21250,
+    "price": 18750,
     "resourceId": 50567242,
     "assetId": 235594
   },
@@ -5481,9 +5521,48 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 50000,
+    "price": 59000,
     "resourceId": 50578448,
     "assetId": 246800
+  },
+  "50578876": {
+    "name": "Dayne St. Clair",
+    "cardName": "St. Clair",
+    "originalVersionId": "1",
+    "clubId": 112893,
+    "leagueId": 39,
+    "countryId": 70,
+    "versionId": "3001",
+    "rating": 73,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      32
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      2
+    ],
+    "rolesPlusPlus": [
+      2
+    ],
+    "attributes": [
+      73,
+      69,
+      60,
+      76,
+      27,
+      72
+    ],
+    "hasDynamicImage": false,
+    "price": 8700,
+    "resourceId": 50578876,
+    "assetId": 247228
   },
   "50582399": {
     "name": "Jayde Riviere",
@@ -5531,6 +5610,139 @@
     "price": 0,
     "resourceId": 50582399,
     "assetId": 250751
+  },
+  "50583000": {
+    "name": "Jacob Shaffelburg",
+    "cardName": "Shaffelburg",
+    "originalVersionId": "1",
+    "clubId": 112996,
+    "leagueId": 39,
+    "countryId": 70,
+    "versionId": "3001",
+    "rating": 67,
+    "preferredFoot": "Left",
+    "weakFoot": 2,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "LW",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      21
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      9,
+      23,
+      27,
+      30
+    ],
+    "rolesPlusPlus": [
+      9,
+      23,
+      27,
+      30
+    ],
+    "attributes": [
+      91,
+      63,
+      60,
+      65,
+      52,
+      63
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50583000,
+    "assetId": 251352
+  },
+  "50586983": {
+    "name": "Jahkeele Marshall-Rutty",
+    "cardName": "Marshall-Rutty",
+    "originalVersionId": "0",
+    "clubId": 111139,
+    "leagueId": 39,
+    "countryId": 70,
+    "versionId": "2000",
+    "rating": 63,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      6,
+      24
+    ],
+    "rolesPlusPlus": [
+      6,
+      24
+    ],
+    "attributes": [
+      81,
+      51,
+      55,
+      69,
+      52,
+      42
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50586983,
+    "assetId": 255335
+  },
+  "50586987": {
+    "name": "Jayden Nelson",
+    "cardName": "Nelson",
+    "originalVersionId": "1",
+    "clubId": 114161,
+    "leagueId": 39,
+    "countryId": 70,
+    "versionId": "3001",
+    "rating": 68,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RW"
+    ],
+    "playStyles": [
+      21
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      35,
+      38
+    ],
+    "rolesPlusPlus": [
+      35,
+      38
+    ],
+    "attributes": [
+      92,
+      59,
+      58,
+      74,
+      48,
+      59
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50586987,
+    "assetId": 255339
   },
   "50587604": {
     "name": "Joel Waterman",
@@ -5672,6 +5884,50 @@
     "resourceId": 50602756,
     "assetId": 271108
   },
+  "50604252": {
+    "name": "Ali Ahmed",
+    "cardName": "Ahmed",
+    "originalVersionId": "1",
+    "clubId": 1792,
+    "leagueId": 14,
+    "countryId": 70,
+    "versionId": "3001",
+    "rating": 68,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      22,
+      26,
+      30
+    ],
+    "rolesPlusPlus": [
+      22,
+      26,
+      30
+    ],
+    "attributes": [
+      78,
+      58,
+      65,
+      72,
+      61,
+      65
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50604252,
+    "assetId": 272604
+  },
   "50606184": {
     "name": "Moïse Bombito",
     "cardName": "Bombito",
@@ -5776,7 +6032,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 21500,
     "resourceId": 50608200,
     "assetId": 276552
   },
@@ -5942,7 +6198,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 36000,
+    "price": 34250,
     "resourceId": 50611180,
     "assetId": 279532
   },
@@ -5985,7 +6241,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 18750,
+    "price": 23750,
     "resourceId": 67354427,
     "assetId": 245563
   }

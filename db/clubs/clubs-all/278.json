@@ -469,7 +469,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 0,
       "resourceId": 211300,
       "assetId": 211300
     },
@@ -588,7 +588,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1900,
       "resourceId": 220969,
       "assetId": 220969
     },
@@ -1257,7 +1257,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 28750,
+      "price": 28500,
       "resourceId": 50543799,
       "assetId": 212151
     },
@@ -1352,6 +1352,45 @@
       "price": 350,
       "resourceId": 50563747,
       "assetId": 232099
+    },
+    "50568158": {
+      "name": "Barnabás Varga",
+      "cardName": "Varga",
+      "originalVersionId": "1",
+      "clubId": 278,
+      "leagueId": 63,
+      "countryId": 23,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "rolesPlusPlus": [
+        41
+      ],
+      "attributes": [
+        70,
+        73,
+        56,
+        69,
+        20,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50568158,
+      "assetId": 236510
     }
   }
 }

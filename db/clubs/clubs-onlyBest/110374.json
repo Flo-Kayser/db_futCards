@@ -37,7 +37,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 250,
       "resourceId": 72180,
       "assetId": 72180
     },
@@ -1112,7 +1112,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 90000,
+      "price": 97000,
       "resourceId": 50524728,
       "assetId": 193080
     },
@@ -1168,6 +1168,43 @@
       "price": 0,
       "resourceId": 50568258,
       "assetId": 236610
+    },
+    "50568406": {
+      "name": "Oliver Christensen",
+      "cardName": "Christensen",
+      "originalVersionId": "1",
+      "clubId": 110374,
+      "leagueId": 31,
+      "countryId": 13,
+      "versionId": "3001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "rolesPlusPlus": [
+        1
+      ],
+      "attributes": [
+        72,
+        69,
+        69,
+        74,
+        44,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50568406,
+      "assetId": 236758
     },
     "50574066": {
       "name": "Tariq Lamptey",
@@ -1356,7 +1393,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 15250,
+      "price": 16500,
       "resourceId": 50608330,
       "assetId": 276682
     },
@@ -1398,6 +1435,48 @@
       "price": 0,
       "resourceId": 50609988,
       "assetId": 278340
+    },
+    "67355655": {
+      "name": "Manor Solomon",
+      "cardName": "Solomon",
+      "originalVersionId": "0",
+      "clubId": 110374,
+      "leagueId": 31,
+      "countryId": 26,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        39
+      ],
+      "rolesPlusPlus": [
+        30,
+        39
+      ],
+      "attributes": [
+        83,
+        73,
+        73,
+        80,
+        43,
+        45
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67355655,
+      "assetId": 246791
     }
   }
 }

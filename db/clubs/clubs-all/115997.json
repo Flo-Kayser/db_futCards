@@ -201,7 +201,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 3600,
+      "price": 3300,
       "resourceId": 261773,
       "assetId": 261773
     },
@@ -367,7 +367,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 900,
       "resourceId": 264936,
       "assetId": 264936
     },
@@ -535,7 +535,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 265035,
       "assetId": 265035
     },
@@ -629,7 +629,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 265058,
       "assetId": 265058
     },
@@ -1065,9 +1065,54 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1800,
       "resourceId": 50558785,
       "assetId": 227137
+    },
+    "50570118": {
+      "name": "Sara Doorsoun",
+      "cardName": "Doorsoun",
+      "originalVersionId": "1",
+      "clubId": 115997,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "3002",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48,
+        113
+      ],
+      "rolesPlusPlus": [
+        11,
+        48,
+        113
+      ],
+      "attributes": [
+        77,
+        62,
+        74,
+        76,
+        85,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 1200,
+      "resourceId": 50570118,
+      "assetId": 238470
     },
     "50593421": {
       "name": "Laura Freigang",
@@ -1183,7 +1228,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 11250,
+      "price": 11000,
       "resourceId": 50596573,
       "assetId": 264925
     },
@@ -1312,7 +1357,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 63500,
+      "price": 66500,
       "resourceId": 50596595,
       "assetId": 264947
     },
@@ -1372,7 +1417,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 50596706,
       "assetId": 265058
     },
@@ -1398,23 +1443,28 @@
         12,
         20,
         21,
-        25,
         26
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        25
+      ],
       "rolesPlus": [
-        24,
-        25,
-        37,
         123,
-        135
+        124,
+        125,
+        126,
+        135,
+        136,
+        137
       ],
       "rolesPlusPlus": [
-        24,
-        25,
-        37,
         123,
-        135
+        124,
+        125,
+        126,
+        135,
+        136,
+        137
       ],
       "attributes": [
         94,
@@ -1425,7 +1475,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 16750,
+      "price": 17000,
       "resourceId": 67336001,
       "assetId": 227137
     }

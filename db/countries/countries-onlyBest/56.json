@@ -469,7 +469,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 1800,
+    "price": 200,
     "resourceId": 76513,
     "assetId": 76513
   },
@@ -1181,7 +1181,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 86000,
+    "price": 88000,
     "resourceId": 204550,
     "assetId": 204550
   },
@@ -1803,7 +1803,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 9600,
+    "price": 10000,
     "resourceId": 214356,
     "assetId": 214356
   },
@@ -3268,7 +3268,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 9000,
+    "price": 0,
     "resourceId": 231697,
     "assetId": 231697
   },
@@ -4029,7 +4029,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 800,
     "resourceId": 237646,
     "assetId": 237646
   },
@@ -4194,7 +4194,7 @@
       49
     ],
     "hasDynamicImage": false,
-    "price": 4700,
+    "price": 5100,
     "resourceId": 238889,
     "assetId": 238889
   },
@@ -4935,7 +4935,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 200,
     "resourceId": 247093,
     "assetId": 247093
   },
@@ -5908,7 +5908,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 1600,
+    "price": 550,
     "resourceId": 261502,
     "assetId": 261502
   },
@@ -6349,7 +6349,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 600,
     "resourceId": 268010,
     "assetId": 268010
   },
@@ -6685,7 +6685,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 950,
+    "price": 800,
     "resourceId": 272001,
     "assetId": 272001
   },
@@ -6722,7 +6722,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 300,
     "resourceId": 272043,
     "assetId": 272043
   },
@@ -7016,7 +7016,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 0,
     "resourceId": 273160,
     "assetId": 273160
   },
@@ -7561,7 +7561,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 429000,
+    "price": 390000,
     "resourceId": 50348267,
     "assetId": 16619
   },
@@ -7644,7 +7644,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 29000,
+    "price": 28750,
     "resourceId": 50518723,
     "assetId": 187075
   },
@@ -7711,7 +7711,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 35250,
+    "price": 34250,
     "resourceId": 50524730,
     "assetId": 193082
   },
@@ -7862,7 +7862,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 19500,
+    "price": 20000,
     "resourceId": 50551445,
     "assetId": 219797
   },
@@ -7913,6 +7913,51 @@
     "resourceId": 50552441,
     "assetId": 220793
   },
+  "50552485": {
+    "name": "Deiver Machado",
+    "cardName": "Machado",
+    "originalVersionId": "1",
+    "clubId": 71,
+    "leagueId": 16,
+    "countryId": 56,
+    "versionId": "3002",
+    "rating": 76,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      15,
+      17
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      9,
+      10,
+      27
+    ],
+    "rolesPlusPlus": [
+      9,
+      10,
+      27
+    ],
+    "attributes": [
+      84,
+      69,
+      71,
+      76,
+      71,
+      76
+    ],
+    "hasDynamicImage": false,
+    "price": 750,
+    "resourceId": 50552485,
+    "assetId": 220837
+  },
   "50562855": {
     "name": "Jhon Lucumí",
     "cardName": "Lucumí",
@@ -7954,9 +7999,48 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 19750,
+    "price": 23750,
     "resourceId": 50562855,
     "assetId": 231207
+  },
+  "50577948": {
+    "name": "Brayan Vera",
+    "cardName": "Vera",
+    "originalVersionId": "0",
+    "clubId": 111139,
+    "leagueId": 39,
+    "countryId": 56,
+    "versionId": "2001",
+    "rating": 69,
+    "preferredFoot": "Left",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      11,
+      13
+    ],
+    "rolesPlusPlus": [
+      11,
+      13
+    ],
+    "attributes": [
+      70,
+      40,
+      52,
+      55,
+      69,
+      71
+    ],
+    "hasDynamicImage": false,
+    "price": 10000,
+    "resourceId": 50577948,
+    "assetId": 246300
   },
   "50583518": {
     "name": "Juan David Cabal",
@@ -8129,7 +8213,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 136000,
+    "price": 135000,
     "resourceId": 50594529,
     "assetId": 262881
   },
@@ -8327,9 +8411,46 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 39000,
+    "price": 40000,
     "resourceId": 50604801,
     "assetId": 273153
+  },
+  "50604808": {
+    "name": "Ángela Barón",
+    "cardName": "Barón",
+    "originalVersionId": "0",
+    "clubId": 116416,
+    "leagueId": 2218,
+    "countryId": 56,
+    "versionId": "2001",
+    "rating": 66,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      11
+    ],
+    "rolesPlusPlus": [
+      11
+    ],
+    "attributes": [
+      63,
+      36,
+      45,
+      49,
+      68,
+      63
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50604808,
+    "assetId": 273160
   },
   "50605475": {
     "name": "Gustavo Puerta",
@@ -8519,7 +8640,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 385000,
+    "price": 412000,
     "resourceId": 67125483,
     "assetId": 16619
   },
@@ -8581,7 +8702,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 190000,
+    "price": 186000,
     "resourceId": 100904380,
     "assetId": 241084
   }

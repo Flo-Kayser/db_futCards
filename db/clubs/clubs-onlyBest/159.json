@@ -35,7 +35,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 200,
       "resourceId": 72376,
       "assetId": 72376
     },
@@ -78,7 +78,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 200,
       "resourceId": 72420,
       "assetId": 72420
     },
@@ -203,7 +203,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 200,
       "resourceId": 74938,
       "assetId": 74938
     },
@@ -639,7 +639,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 200,
       "resourceId": 245212,
       "assetId": 245212
     },
@@ -726,7 +726,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 253171,
       "assetId": 253171
     },
@@ -1101,6 +1101,91 @@
       "resourceId": 279685,
       "assetId": 279685
     },
+    "50576995": {
+      "name": "Maximilian Bauer",
+      "cardName": "Bauer",
+      "originalVersionId": "0",
+      "clubId": 159,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        48
+      ],
+      "rolesPlusPlus": [
+        12,
+        48
+      ],
+      "attributes": [
+        53,
+        26,
+        47,
+        52,
+        73,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50576995,
+      "assetId": 245347
+    },
+    "50582594": {
+      "name": "Jannik Rochelt",
+      "cardName": "Rochelt",
+      "originalVersionId": "0",
+      "clubId": 159,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        13,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        29,
+        33
+      ],
+      "rolesPlusPlus": [
+        27,
+        29,
+        33
+      ],
+      "attributes": [
+        81,
+        61,
+        61,
+        67,
+        46,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 3900,
+      "resourceId": 50582594,
+      "assetId": 250946
+    },
     "50604308": {
       "name": "Thaddäus-Monju Momuluh",
       "cardName": "Momuluh",
@@ -1140,6 +1225,43 @@
       "price": 200,
       "resourceId": 50604308,
       "assetId": 272660
+    },
+    "50605419": {
+      "name": "Semir Telalović",
+      "cardName": "Telalović",
+      "originalVersionId": "0",
+      "clubId": 159,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        44
+      ],
+      "rolesPlusPlus": [
+        44
+      ],
+      "attributes": [
+        66,
+        67,
+        52,
+        67,
+        34,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50605419,
+      "assetId": 273771
     }
   }
 }
