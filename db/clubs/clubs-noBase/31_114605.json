@@ -2,6 +2,69 @@
   {
     "clubId": 114605,
     "leagueId": 31,
+    "countryId": 108,
+    "versionId": "23",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      20,
+      22,
+      24,
+      25
+    ],
+    "playStylesPlus": [
+      21,
+      6
+    ],
+    "rolesPlus": [
+      27,
+      38,
+      43,
+      130,
+      139,
+      141,
+      142,
+      144
+    ],
+    "rolesPlusPlus": [
+      27,
+      38,
+      43,
+      130,
+      139,
+      141,
+      142,
+      144
+    ],
+    "attributes": [
+      96,
+      89,
+      80,
+      88,
+      50,
+      79
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 476750,
+    "price": 454350,
+    "resourceId": 50520076,
+    "assetId": 188428,
+    "name": "Seydou Doumbia",
+    "cardName": "Doumbia"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 31,
     "countryId": 27,
     "versionId": "80",
     "rating": 90,
@@ -260,7 +323,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 412000,
+    "price": 414000,
     "resourceId": 67125483,
     "assetId": 16619,
     "name": "Iván Córdoba",
@@ -315,7 +378,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 390000,
+    "price": 413000,
     "resourceId": 50348267,
     "assetId": 16619,
     "name": "Iván Córdoba",
@@ -370,7 +433,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 240000,
+    "price": 265000,
     "resourceId": 50384950,
     "assetId": 53302,
     "name": "Daniele De Rossi",
@@ -435,7 +498,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 540000,
+    "price": 556000,
     "resourceId": 50451922,
     "assetId": 120274,
     "name": "Antonio Di Natale",
@@ -507,7 +570,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 169000,
+    "price": 178000,
     "resourceId": 50504858,
     "assetId": 173210,
     "name": "Claudio Marchisio",
@@ -567,7 +630,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 126000,
+    "price": 134000,
     "resourceId": 50503525,
     "assetId": 171877,
     "name": "Marek Hamšík",
@@ -646,7 +709,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 231000,
+    "price": 239000,
     "resourceId": 50606398,
     "assetId": 274750,
     "name": "Wesley Sneijder",
@@ -700,7 +763,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 576000,
+    "price": 600000,
     "resourceId": 50467103,
     "assetId": 135455,
     "name": "Maicon",
@@ -756,7 +819,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 128000,
+    "price": 135000,
     "resourceId": 50502381,
     "assetId": 170733,
     "name": "Gervinho",
@@ -808,7 +871,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 36750,
+    "price": 38000,
     "resourceId": 50332673,
     "assetId": 1025,
     "name": "Rui Costa",
@@ -861,7 +924,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 39000,
+    "price": 38750,
     "resourceId": 50574273,
     "assetId": 242625,
     "name": "Hidetoshi Nakata",
@@ -910,7 +973,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 56500,
+    "price": 59000,
     "resourceId": 53302,
     "assetId": 53302,
     "name": "Daniele De Rossi",
@@ -958,7 +1021,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 289000,
+    "price": 328000,
     "resourceId": 120274,
     "assetId": 120274,
     "name": "Antonio Di Natale",
@@ -1053,7 +1116,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 50500,
+    "price": 51000,
     "resourceId": 173210,
     "assetId": 173210,
     "name": "Claudio Marchisio",
@@ -1104,7 +1167,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 60500,
+    "price": 68500,
     "resourceId": 274750,
     "assetId": 274750,
     "name": "Wesley Sneijder",
@@ -1154,7 +1217,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 54000,
+    "price": 56000,
     "resourceId": 170733,
     "assetId": 170733,
     "name": "Gervinho",
@@ -1202,7 +1265,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 68000,
+    "price": 72000,
     "resourceId": 171877,
     "assetId": 171877,
     "name": "Marek Hamšík",
@@ -1296,7 +1359,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 24000,
+    "price": 25250,
     "resourceId": 266695,
     "assetId": 266695,
     "name": "Tomas Brolin",
@@ -1345,7 +1408,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 202000,
+    "price": 182000,
     "resourceId": 135455,
     "assetId": 135455,
     "name": "Maicon",
@@ -1392,7 +1455,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 88000,
+    "price": 86000,
     "resourceId": 204550,
     "assetId": 204550,
     "name": "Víctor Ibarbo",
@@ -1437,7 +1500,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 22250,
+    "price": 23750,
     "resourceId": 262271,
     "assetId": 262271,
     "name": "Diego Milito",
@@ -1480,7 +1543,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 184000,
+    "price": 161000,
     "resourceId": 16619,
     "assetId": 16619,
     "name": "Iván Córdoba",
@@ -1525,7 +1588,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 15750,
+    "price": 16750,
     "resourceId": 242625,
     "assetId": 242625,
     "name": "Hidetoshi Nakata",
@@ -1566,7 +1629,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 60000,
+    "price": 59500,
     "resourceId": 188428,
     "assetId": 188428,
     "name": "Seydou Doumbia",
@@ -1608,7 +1671,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 32000,
+    "price": 38500,
     "resourceId": 233700,
     "assetId": 233700,
     "name": "Gianluca Vialli",

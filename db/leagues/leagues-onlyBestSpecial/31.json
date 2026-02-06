@@ -1,46 +1,4 @@
 {
-  "188428": {
-    "name": "Seydou Doumbia",
-    "cardName": "Doumbia",
-    "originalVersionId": "72",
-    "clubId": 114605,
-    "leagueId": 31,
-    "countryId": 108,
-    "versionId": "72",
-    "rating": 85,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      22
-    ],
-    "playStylesPlus": [
-      25
-    ],
-    "rolesPlus": [
-      141
-    ],
-    "rolesPlusPlus": [
-      141
-    ],
-    "attributes": [
-      93,
-      84,
-      68,
-      83,
-      43,
-      74
-    ],
-    "hasDynamicImage": false,
-    "price": 60000,
-    "resourceId": 188428,
-    "assetId": 188428
-  },
   "204550": {
     "name": "Víctor Ibarbo",
     "cardName": "Ibarbo",
@@ -85,7 +43,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 88000,
+    "price": 86000,
     "resourceId": 204550,
     "assetId": 204550
   },
@@ -131,7 +89,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 22250,
+    "price": 23750,
     "resourceId": 262271,
     "assetId": 262271
   },
@@ -225,7 +183,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 24000,
+    "price": 25250,
     "resourceId": 266695,
     "assetId": 266695
   },
@@ -278,7 +236,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 36750,
+    "price": 38000,
     "resourceId": 50332673,
     "assetId": 1025
   },
@@ -334,56 +292,9 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 390000,
+    "price": 413000,
     "resourceId": 50348267,
     "assetId": 16619
-  },
-  "50411818": {
-    "name": "Wesley",
-    "cardName": "Wesley",
-    "originalVersionId": "91",
-    "clubId": 52,
-    "leagueId": 31,
-    "countryId": 54,
-    "versionId": "91",
-    "rating": 85,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "RB",
-    "possiblePositions": [
-      "RB",
-      "RM"
-    ],
-    "playStyles": [
-      12,
-      14,
-      25,
-      27
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      6,
-      24,
-      105
-    ],
-    "rolesPlusPlus": [
-      6,
-      24,
-      105
-    ],
-    "attributes": [
-      91,
-      68,
-      76,
-      85,
-      79,
-      80
-    ],
-    "hasDynamicImage": true,
-    "sbcPrice": 36750,
-    "resourceId": 50411818,
-    "assetId": 80170
   },
   "50451922": {
     "name": "Antonio Di Natale",
@@ -447,7 +358,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 540000,
+    "price": 556000,
     "resourceId": 50451922,
     "assetId": 120274
   },
@@ -502,7 +413,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 576000,
+    "price": 600000,
     "resourceId": 50467103,
     "assetId": 135455
   },
@@ -559,7 +470,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 128000,
+    "price": 135000,
     "resourceId": 50502381,
     "assetId": 170733
   },
@@ -620,7 +531,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 126000,
+    "price": 134000,
     "resourceId": 50503525,
     "assetId": 171877
   },
@@ -668,6 +579,70 @@
     "sbcPrice": 26300,
     "resourceId": 50512578,
     "assetId": 180930
+  },
+  "50520076": {
+    "name": "Seydou Doumbia",
+    "cardName": "Doumbia",
+    "originalVersionId": "23",
+    "clubId": 114605,
+    "leagueId": 31,
+    "countryId": 108,
+    "versionId": "23",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      20,
+      22,
+      24,
+      25
+    ],
+    "playStylesPlus": [
+      21,
+      6
+    ],
+    "rolesPlus": [
+      27,
+      38,
+      43,
+      130,
+      139,
+      141,
+      142,
+      144
+    ],
+    "rolesPlusPlus": [
+      27,
+      38,
+      43,
+      130,
+      139,
+      141,
+      142,
+      144
+    ],
+    "attributes": [
+      96,
+      89,
+      80,
+      88,
+      50,
+      79
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 476750,
+    "price": 454350,
+    "resourceId": 50520076,
+    "assetId": 188428
   },
   "50521153": {
     "name": "Pedro",
@@ -777,7 +752,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 197000,
+    "price": 195000,
     "resourceId": 50522461,
     "assetId": 190813
   },
@@ -939,7 +914,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 97000,
+    "price": 96500,
     "resourceId": 50524728,
     "assetId": 193080
   },
@@ -1006,7 +981,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 34250,
+    "price": 36000,
     "resourceId": 50524730,
     "assetId": 193082
   },
@@ -1108,7 +1083,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 21250,
+    "price": 22000,
     "resourceId": 50532801,
     "assetId": 201153
   },
@@ -1157,7 +1132,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 17000,
     "resourceId": 50540109,
     "assetId": 208461
   },
@@ -1219,7 +1194,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 49500,
+    "price": 50000,
     "resourceId": 50540222,
     "assetId": 208574
   },
@@ -1363,7 +1338,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 20750,
     "resourceId": 50542324,
     "assetId": 210676
   },
@@ -1415,7 +1390,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 21000,
     "resourceId": 50543855,
     "assetId": 212207
   },
@@ -1521,7 +1496,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 30250,
+    "price": 32500,
     "resourceId": 50547346,
     "assetId": 215698
   },
@@ -1571,7 +1546,7 @@
       60
     ],
     "hasDynamicImage": true,
-    "price": 18500,
+    "price": 19500,
     "resourceId": 50548057,
     "assetId": 216409
   },
@@ -1612,7 +1587,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 23000,
+    "price": 28750,
     "resourceId": 50548464,
     "assetId": 216816
   },
@@ -1672,7 +1647,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 33000,
+    "price": 32250,
     "resourceId": 50552150,
     "assetId": 220502
   },
@@ -1724,7 +1699,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 19500,
     "resourceId": 50552979,
     "assetId": 221331
   },
@@ -1880,7 +1855,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 28000,
+    "price": 31500,
     "resourceId": 50559899,
     "assetId": 228251
   },
@@ -1928,7 +1903,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 30500,
     "resourceId": 50561230,
     "assetId": 229582
   },
@@ -1973,7 +1948,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 23750,
+    "price": 22500,
     "resourceId": 50562855,
     "assetId": 231207
   },
@@ -2067,7 +2042,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 98000,
+    "price": 152000,
     "resourceId": 50565044,
     "assetId": 233396
   },
@@ -2119,7 +2094,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 27750,
     "resourceId": 50565204,
     "assetId": 233556
   },
@@ -2278,7 +2253,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 23000,
     "resourceId": 50570392,
     "assetId": 238744
   },
@@ -2326,7 +2301,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 338000,
+    "price": 360000,
     "resourceId": 50571228,
     "assetId": 239580
   },
@@ -2432,7 +2407,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 20750,
     "resourceId": 50572586,
     "assetId": 240938
   },
@@ -2486,7 +2461,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 39000,
+    "price": 38750,
     "resourceId": 50574273,
     "assetId": 242625
   },
@@ -2637,7 +2612,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 20750,
+    "price": 21500,
     "resourceId": 50574897,
     "assetId": 243249
   },
@@ -2714,7 +2689,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 54000,
+    "price": 58500,
     "resourceId": 50575241,
     "assetId": 243593
   },
@@ -2870,7 +2845,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 47000,
+    "price": 48250,
     "resourceId": 50577640,
     "assetId": 245992
   },
@@ -2925,7 +2900,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 25750,
+    "price": 26750,
     "resourceId": 50578078,
     "assetId": 246430
   },
@@ -3024,7 +2999,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 152000,
+    "price": 151000,
     "resourceId": 50582371,
     "assetId": 250723
   },
@@ -3084,7 +3059,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 62500,
+    "price": 65000,
     "resourceId": 50583118,
     "assetId": 251470
   },
@@ -3136,7 +3111,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 176000,
+    "price": 175000,
     "resourceId": 50583178,
     "assetId": 251530
   },
@@ -3213,7 +3188,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 73500,
+    "price": 78000,
     "resourceId": 50583518,
     "assetId": 251870
   },
@@ -3261,7 +3236,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 23250,
+    "price": 20250,
     "resourceId": 50583708,
     "assetId": 252060
   },
@@ -3310,7 +3285,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 20000,
     "resourceId": 50583802,
     "assetId": 252154
   },
@@ -3415,7 +3390,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 23750,
     "resourceId": 50587302,
     "assetId": 255654
   },
@@ -3509,7 +3484,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 18250,
     "resourceId": 50589620,
     "assetId": 257972
   },
@@ -3668,7 +3643,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 23750,
     "resourceId": 50593675,
     "assetId": 262027
   },
@@ -3722,7 +3697,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 18000,
     "resourceId": 50594490,
     "assetId": 262842
   },
@@ -3773,7 +3748,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 21500,
     "resourceId": 50596836,
     "assetId": 265188
   },
@@ -3968,7 +3943,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 26250,
     "resourceId": 50600221,
     "assetId": 268573
   },
@@ -4057,7 +4032,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 33750,
+    "price": 36000,
     "resourceId": 50600452,
     "assetId": 268804
   },
@@ -4114,7 +4089,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 32750,
+    "price": 35000,
     "resourceId": 50604431,
     "assetId": 272783
   },
@@ -4169,7 +4144,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 22500,
     "resourceId": 50606264,
     "assetId": 274616
   },
@@ -4249,7 +4224,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 231000,
+    "price": 239000,
     "resourceId": 50606398,
     "assetId": 274750
   },
@@ -4401,7 +4376,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 412000,
+    "price": 414000,
     "resourceId": 67125483,
     "assetId": 16619
   },
@@ -4463,6 +4438,63 @@
     "price": 0,
     "resourceId": 67162166,
     "assetId": 53302
+  },
+  "67189034": {
+    "name": "Wesley",
+    "cardName": "Wesley",
+    "originalVersionId": "71",
+    "clubId": 52,
+    "leagueId": 31,
+    "countryId": 54,
+    "versionId": "71",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      14,
+      17,
+      18,
+      20,
+      26
+    ],
+    "playStylesPlus": [
+      25
+    ],
+    "rolesPlus": [
+      3,
+      4,
+      23,
+      105,
+      106,
+      124
+    ],
+    "rolesPlusPlus": [
+      3,
+      4,
+      23,
+      105,
+      106,
+      124
+    ],
+    "attributes": [
+      92,
+      75,
+      84,
+      88,
+      85,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 145000,
+    "resourceId": 67189034,
+    "assetId": 80170
   },
   "67275540": {
     "name": "Rudi Völler",
@@ -4627,7 +4659,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 216000,
+    "price": 241000,
     "resourceId": 67285867,
     "assetId": 177003
   },
@@ -4689,7 +4721,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 107000,
+    "price": 114000,
     "resourceId": 67301849,
     "assetId": 192985
   },
@@ -4758,7 +4790,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 96500,
+    "price": 102000,
     "resourceId": 67316992,
     "assetId": 208128
   },
@@ -4810,7 +4842,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 725000,
+    "price": 570000,
     "resourceId": 67317694,
     "assetId": 208830
   },
@@ -4862,7 +4894,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 18500,
     "resourceId": 67318872,
     "assetId": 210008
   },
@@ -5036,7 +5068,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 87500,
+    "price": 93000,
     "resourceId": 67326734,
     "assetId": 217870
   },
@@ -5150,7 +5182,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 21250,
+    "price": 27250,
     "resourceId": 67332535,
     "assetId": 223671
   },
@@ -5209,7 +5241,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 68500,
+    "sbcPrice": 71000,
     "resourceId": 67335132,
     "assetId": 226268
   },
@@ -5308,7 +5340,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 18500,
+    "price": 19500,
     "resourceId": 67338101,
     "assetId": 229237
   },
@@ -5449,7 +5481,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 83000,
+    "price": 79500,
     "resourceId": 67341960,
     "assetId": 233096
   },
@@ -5504,7 +5536,7 @@
       69
     ],
     "hasDynamicImage": true,
-    "price": 79500,
+    "price": 80000,
     "resourceId": 67345496,
     "assetId": 236632
   },
@@ -5562,7 +5594,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 514000,
+    "price": 549000,
     "resourceId": 67350585,
     "assetId": 241721
   },
@@ -5618,7 +5650,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 114000,
+    "price": 116000,
     "resourceId": 67356110,
     "assetId": 247246
   },
@@ -5734,7 +5766,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 60000,
+    "price": 66000,
     "resourceId": 67368263,
     "assetId": 259399
   },
@@ -5791,7 +5823,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 153000,
+    "price": 167000,
     "resourceId": 67368429,
     "assetId": 259565
   },
@@ -5900,7 +5932,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 124000,
+    "price": 120000,
     "resourceId": 84079065,
     "assetId": 192985
   },
@@ -6022,7 +6054,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 99000,
+    "price": 103000,
     "resourceId": 84147130,
     "assetId": 261050
   },
@@ -6083,59 +6115,9 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 22750,
+    "price": 24000,
     "resourceId": 84151775,
     "assetId": 265695
-  },
-  "84163926": {
-    "name": "Nico Paz",
-    "cardName": "Nico Paz",
-    "originalVersionId": "3",
-    "clubId": 1745,
-    "leagueId": 31,
-    "countryId": 52,
-    "versionId": "3",
-    "rating": 86,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 4,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [
-      0,
-      13,
-      2,
-      20,
-      25
-    ],
-    "playStylesPlus": [
-      8
-    ],
-    "rolesPlus": [
-      32,
-      131,
-      133
-    ],
-    "rolesPlusPlus": [
-      32,
-      131,
-      133
-    ],
-    "attributes": [
-      85,
-      83,
-      86,
-      89,
-      60,
-      74
-    ],
-    "hasDynamicImage": true,
-    "price": 18000,
-    "resourceId": 84163926,
-    "assetId": 277846
   },
   "84164034": {
     "name": "Kenan Yıldız",
@@ -6195,7 +6177,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 335000,
+    "price": 390000,
     "resourceId": 84164034,
     "assetId": 277954
   },
@@ -6258,7 +6240,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 259250,
+    "sbcPrice": 260500,
     "resourceId": 100891092,
     "assetId": 227796
   },
@@ -6311,8 +6293,70 @@
       88
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 342400,
+    "sbcPrice": 366500,
     "resourceId": 100894774,
     "assetId": 231478
+  },
+  "100941142": {
+    "name": "Nico Paz",
+    "cardName": "Nico Paz",
+    "originalVersionId": "71",
+    "clubId": 1745,
+    "leagueId": 31,
+    "countryId": 52,
+    "versionId": "71",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      13,
+      16,
+      22,
+      25,
+      6
+    ],
+    "playStylesPlus": [
+      20,
+      8
+    ],
+    "rolesPlus": [
+      18,
+      20,
+      34,
+      121,
+      122,
+      131,
+      132,
+      133
+    ],
+    "rolesPlusPlus": [
+      18,
+      20,
+      34,
+      121,
+      122,
+      131,
+      132,
+      133
+    ],
+    "attributes": [
+      90,
+      88,
+      90,
+      93,
+      67,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 1001000,
+    "resourceId": 100941142,
+    "assetId": 277846
   }
 }

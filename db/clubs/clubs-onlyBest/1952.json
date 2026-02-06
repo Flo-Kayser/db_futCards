@@ -723,53 +723,6 @@
       "resourceId": 243608,
       "assetId": 243608
     },
-    "246053": {
-      "name": "Joe Gelhardt",
-      "cardName": "Gelhardt",
-      "originalVersionId": "1",
-      "clubId": 1952,
-      "leagueId": 14,
-      "countryId": 14,
-      "versionId": "3001",
-      "rating": 70,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "ST"
-      ],
-      "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        33,
-        41,
-        43
-      ],
-      "rolesPlusPlus": [
-        26,
-        33,
-        41,
-        43
-      ],
-      "attributes": [
-        75,
-        71,
-        67,
-        74,
-        39,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 246053,
-      "assetId": 246053
-    },
     "248569": {
       "name": "James Furlong",
       "cardName": "Furlong",
@@ -1268,6 +1221,68 @@
       "resourceId": 50564701,
       "assetId": 233053
     },
+    "50577701": {
+      "name": "Joe Gelhardt",
+      "cardName": "Gelhardt",
+      "originalVersionId": "71",
+      "clubId": 1952,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "71",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        20,
+        21,
+        22,
+        29,
+        6
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        24,
+        25,
+        42,
+        44,
+        126,
+        133,
+        141,
+        143
+      ],
+      "rolesPlusPlus": [
+        24,
+        25,
+        42,
+        44,
+        126,
+        133,
+        141,
+        143
+      ],
+      "attributes": [
+        89,
+        87,
+        83,
+        89,
+        55,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 25000,
+      "resourceId": 50577701,
+      "assetId": 246053
+    },
     "50580340": {
       "name": "Matty Jacob",
       "cardName": "Jacob",
@@ -1303,7 +1318,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 50580340,
       "assetId": 248692
     },

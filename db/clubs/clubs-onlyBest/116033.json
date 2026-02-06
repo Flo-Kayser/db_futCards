@@ -35,7 +35,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 350,
       "resourceId": 72076,
       "assetId": 72076
     },
@@ -72,7 +72,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 76312,
       "assetId": 76312
     },
@@ -109,7 +109,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 248751,
       "assetId": 248751
     },
@@ -146,7 +146,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 600,
       "resourceId": 264893,
       "assetId": 264893
     },
@@ -189,7 +189,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 350,
       "resourceId": 264944,
       "assetId": 264944
     },
@@ -274,7 +274,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 350,
       "resourceId": 265092,
       "assetId": 265092
     },
@@ -320,7 +320,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 265536,
       "assetId": 265536
     },
@@ -397,7 +397,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 5000,
       "resourceId": 277170,
       "assetId": 277170
     },
@@ -473,7 +473,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 900,
       "resourceId": 277175,
       "assetId": 277175
     },
@@ -521,7 +521,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 22750,
       "resourceId": 50559040,
       "assetId": 227392
     },
@@ -572,7 +572,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 22500,
       "resourceId": 50574544,
       "assetId": 242896
     },
@@ -809,63 +809,9 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 20000,
       "resourceId": 50605594,
       "assetId": 273946
-    },
-    "50606401": {
-      "name": "Tarciane",
-      "cardName": "Tarciane",
-      "originalVersionId": "91",
-      "clubId": 116033,
-      "leagueId": 2218,
-      "countryId": 54,
-      "versionId": "91",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "RB"
-      ],
-      "playStyles": [
-        10,
-        16,
-        17,
-        19,
-        28,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        4,
-        12,
-        48,
-        103,
-        111
-      ],
-      "rolesPlusPlus": [
-        4,
-        12,
-        48,
-        103,
-        111
-      ],
-      "attributes": [
-        78,
-        50,
-        78,
-        70,
-        86,
-        89
-      ],
-      "isObjective": true,
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 50606401,
-      "assetId": 274753
     },
     "50609599": {
       "name": "Lily Yohannes",
@@ -955,7 +901,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 22500,
       "resourceId": 50609867,
       "assetId": 278219
     },
@@ -1002,7 +948,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 33250,
+      "price": 35000,
       "resourceId": 67336174,
       "assetId": 227310
     },
@@ -1114,7 +1060,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 556000,
+      "price": 600000,
       "resourceId": 67336225,
       "assetId": 227361
     },
@@ -1174,7 +1120,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 74500,
+      "price": 81000,
       "resourceId": 67340296,
       "assetId": 231432
     },
@@ -1225,7 +1171,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 214000,
+      "price": 270000,
       "resourceId": 67354820,
       "assetId": 245956
     },
@@ -1287,9 +1233,68 @@
         78
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 411500,
+      "sbcPrice": 443000,
       "resourceId": 67374762,
       "assetId": 265898
+    },
+    "67383617": {
+      "name": "Tarciane",
+      "cardName": "Tarciane",
+      "originalVersionId": "71",
+      "clubId": 116033,
+      "leagueId": 2218,
+      "countryId": 54,
+      "versionId": "71",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        10,
+        16,
+        17,
+        19,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        18
+      ],
+      "rolesPlus": [
+        5,
+        11,
+        12,
+        13,
+        103,
+        104,
+        148
+      ],
+      "rolesPlusPlus": [
+        5,
+        11,
+        12,
+        13,
+        103,
+        104,
+        148
+      ],
+      "attributes": [
+        86,
+        53,
+        85,
+        85,
+        89,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 13000,
+      "resourceId": 67383617,
+      "assetId": 274753
     },
     "84151754": {
       "name": "Selma Bacha",
@@ -1350,7 +1355,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 705000,
+      "price": 716000,
       "resourceId": 84151754,
       "assetId": 265674
     }

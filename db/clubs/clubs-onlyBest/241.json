@@ -40,7 +40,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1800,
       "resourceId": 74462,
       "assetId": 74462
     },
@@ -78,7 +78,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 1500,
       "resourceId": 74463,
       "assetId": 74463
     },
@@ -117,7 +117,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 8400,
       "resourceId": 80674,
       "assetId": 80674
     },
@@ -156,7 +156,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1200,
       "resourceId": 186153,
       "assetId": 186153
     },
@@ -341,7 +341,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 4000,
       "resourceId": 244260,
       "assetId": 244260
     },
@@ -520,7 +520,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 259532,
       "assetId": 259532
     },
@@ -569,7 +569,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 264240,
       "assetId": 264240
     },
@@ -662,7 +662,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 266000,
+      "price": 290000,
       "resourceId": 50520193,
       "assetId": 188545
     },
@@ -711,7 +711,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 114000,
+      "price": 116000,
       "resourceId": 50524096,
       "assetId": 192448
     },
@@ -767,7 +767,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 695000,
+      "price": 720000,
       "resourceId": 50560350,
       "assetId": 228702
     },
@@ -821,7 +821,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 28750,
+      "price": 28500,
       "resourceId": 50573109,
       "assetId": 241461
     },
@@ -871,7 +871,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 130000,
+      "price": 135000,
       "resourceId": 50595226,
       "assetId": 263578
     },
@@ -1023,7 +1023,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 177000,
+      "price": 182000,
       "resourceId": 50609694,
       "assetId": 278046
     },
@@ -1084,7 +1084,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 900000,
+      "price": 923000,
       "resourceId": 67350350,
       "assetId": 241486
     },
@@ -1145,69 +1145,9 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 3600000,
+      "price": 3520000,
       "resourceId": 67360718,
       "assetId": 251854
-    },
-    "67386043": {
-      "name": "Fermín",
-      "cardName": "Fermín",
-      "originalVersionId": "45",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "45",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        11,
-        24,
-        4,
-        9
-      ],
-      "playStylesPlus": [
-        20
-      ],
-      "rolesPlus": [
-        22,
-        33,
-        40,
-        43,
-        121,
-        132,
-        138
-      ],
-      "rolesPlusPlus": [
-        22,
-        33,
-        40,
-        43,
-        121,
-        132,
-        138
-      ],
-      "attributes": [
-        83,
-        85,
-        84,
-        88,
-        70,
-        65
-      ],
-      "isObjective": true,
-      "hasDynamicImage": true,
-      "resourceId": 67386043,
-      "assetId": 277179
     },
     "84117757": {
       "name": "Marcus Rashford",
@@ -1263,7 +1203,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 1370000,
+      "price": 1542000,
       "resourceId": 84117757,
       "assetId": 231677
     },
@@ -1333,22 +1273,22 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 7151000,
+      "price": 6800000,
       "resourceId": 84119499,
       "assetId": 233419
     },
-    "84163259": {
+    "100940475": {
       "name": "Fermín",
       "cardName": "Fermín",
-      "originalVersionId": "3",
+      "originalVersionId": "71",
       "clubId": 241,
       "leagueId": 53,
       "countryId": 45,
-      "versionId": "3",
-      "rating": 86,
+      "versionId": "71",
+      "rating": 90,
       "preferredFoot": "Right",
       "weakFoot": 4,
-      "skillMoves": 3,
+      "skillMoves": 4,
       "preferredPosition": "CAM",
       "possiblePositions": [
         "CAM",
@@ -1357,37 +1297,50 @@
         "ST"
       ],
       "playStyles": [
-        10,
+        0,
         11,
         20,
-        4
+        24,
+        4,
+        9
       ],
       "playStylesPlus": [
+        6,
         8
       ],
       "rolesPlus": [
+        22,
+        32,
         33,
-        38,
+        39,
+        41,
         121,
-        132
+        131,
+        138,
+        143
       ],
       "rolesPlusPlus": [
+        22,
+        32,
         33,
-        38,
+        39,
+        41,
         121,
-        132
+        131,
+        138,
+        143
       ],
       "attributes": [
-        82,
-        83,
-        83,
         88,
-        68,
-        64
+        90,
+        90,
+        92,
+        75,
+        70
       ],
       "hasDynamicImage": true,
-      "price": 22250,
-      "resourceId": 84163259,
+      "price": 1249000,
+      "resourceId": 100940475,
       "assetId": 277179
     },
     "100940939": {
@@ -1446,7 +1399,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 1120000,
+      "price": 1160000,
       "resourceId": 100940939,
       "assetId": 277643
     }

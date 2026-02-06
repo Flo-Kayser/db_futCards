@@ -41,7 +41,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 20000,
+    "price": 23000,
     "resourceId": 50404726,
     "assetId": 73078
   },
@@ -86,7 +86,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 22500,
+    "price": 24500,
     "resourceId": 50406527,
     "assetId": 74879
   },
@@ -136,7 +136,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 20000,
     "resourceId": 50558645,
     "assetId": 226997
   },
@@ -194,7 +194,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 284000,
+    "price": 304000,
     "resourceId": 50558650,
     "assetId": 227002
   },
@@ -251,7 +251,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 1649000,
+    "price": 1730000,
     "resourceId": 50558654,
     "assetId": 227006
   },
@@ -354,7 +354,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 18500,
+    "price": 19000,
     "resourceId": 50564287,
     "assetId": 232639
   },
@@ -408,7 +408,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 39000,
+    "price": 38750,
     "resourceId": 50574273,
     "assetId": 242625
   },
@@ -560,7 +560,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17750,
     "resourceId": 50603387,
     "assetId": 271739
   },
@@ -615,7 +615,7 @@
       62
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 16000,
     "resourceId": 50605168,
     "assetId": 273520
   },
@@ -663,62 +663,9 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 21750,
     "resourceId": 50607554,
     "assetId": 275906
-  },
-  "50609574": {
-    "name": "Manaka Matsukubo",
-    "cardName": "Matsukubo",
-    "originalVersionId": "22",
-    "clubId": 116303,
-    "leagueId": 2221,
-    "countryId": 163,
-    "versionId": "22",
-    "rating": 83,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "CAM",
-      "CM",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      1,
-      11,
-      20,
-      8
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      21,
-      31,
-      33,
-      142,
-      143
-    ],
-    "rolesPlusPlus": [
-      21,
-      31,
-      33,
-      142,
-      143
-    ],
-    "attributes": [
-      83,
-      85,
-      83,
-      87,
-      60,
-      72
-    ],
-    "hasDynamicImage": true,
-    "price": 35000,
-    "resourceId": 50609574,
-    "assetId": 277926
   },
   "67179009": {
     "name": "Momoko Tanikawa",
@@ -778,7 +725,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 46750,
+    "sbcPrice": 48500,
     "price": 41550,
     "resourceId": 67179009,
     "assetId": 70145
@@ -824,8 +771,73 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 19750,
+    "price": 23000,
     "resourceId": 67361026,
     "assetId": 252162
+  },
+  "84164006": {
+    "name": "Manaka Matsukubo",
+    "cardName": "Matsukubo",
+    "originalVersionId": "71",
+    "clubId": 116303,
+    "leagueId": 2221,
+    "countryId": 163,
+    "versionId": "71",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      13,
+      20,
+      25,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      11,
+      22
+    ],
+    "rolesPlus": [
+      21,
+      22,
+      31,
+      33,
+      42,
+      118,
+      132,
+      134,
+      143
+    ],
+    "rolesPlusPlus": [
+      21,
+      22,
+      31,
+      33,
+      42,
+      118,
+      132,
+      134,
+      143
+    ],
+    "attributes": [
+      88,
+      90,
+      89,
+      91,
+      70,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 950000,
+    "resourceId": 84164006,
+    "assetId": 277926
   }
 }

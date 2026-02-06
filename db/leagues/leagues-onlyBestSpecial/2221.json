@@ -101,6 +101,118 @@
     "resourceId": 50403208,
     "assetId": 71560
   },
+  "50407974": {
+    "name": "Lilly Reale",
+    "cardName": "Reale",
+    "originalVersionId": "71",
+    "clubId": 116310,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "71",
+    "rating": 89,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      12,
+      14,
+      18,
+      20,
+      28,
+      29
+    ],
+    "playStylesPlus": [
+      11,
+      16
+    ],
+    "rolesPlus": [
+      8,
+      29,
+      47,
+      107,
+      109,
+      110,
+      128
+    ],
+    "rolesPlusPlus": [
+      8,
+      29,
+      47,
+      107,
+      109,
+      110,
+      128
+    ],
+    "attributes": [
+      88,
+      75,
+      87,
+      85,
+      88,
+      91
+    ],
+    "hasDynamicImage": true,
+    "price": 550000,
+    "resourceId": 50407974,
+    "assetId": 76326
+  },
+  "50409317": {
+    "name": "Riley Tiernan",
+    "cardName": "Tiernan",
+    "originalVersionId": "71",
+    "clubId": 116311,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "71",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      2,
+      20,
+      25,
+      4
+    ],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      43,
+      141,
+      142,
+      144
+    ],
+    "rolesPlusPlus": [
+      43,
+      141,
+      142,
+      144
+    ],
+    "attributes": [
+      87,
+      88,
+      75,
+      89,
+      45,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 480000,
+    "resourceId": 50409317,
+    "assetId": 77669
+  },
   "50557964": {
     "name": "Sydney Leroux",
     "cardName": "Leroux",
@@ -148,7 +260,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 26500,
     "resourceId": 50557964,
     "assetId": 226316
   },
@@ -312,7 +424,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 65000,
+    "price": 67500,
     "resourceId": 50558541,
     "assetId": 226893
   },
@@ -356,7 +468,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 24000,
     "resourceId": 50558545,
     "assetId": 226897
   },
@@ -470,7 +582,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 18500,
+    "price": 16500,
     "resourceId": 50559035,
     "assetId": 227387
   },
@@ -588,7 +700,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 81500,
+    "price": 87500,
     "resourceId": 50563721,
     "assetId": 232073
   },
@@ -1045,7 +1157,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 1375000,
+    "sbcPrice": 1605750,
     "price": 0,
     "resourceId": 50595660,
     "assetId": 264012
@@ -1153,7 +1265,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 26000,
+    "price": 25000,
     "resourceId": 50597739,
     "assetId": 266091
   },
@@ -1217,7 +1329,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 42750,
+    "price": 44750,
     "resourceId": 50598849,
     "assetId": 267201
   },
@@ -1299,7 +1411,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 18000,
     "resourceId": 50598871,
     "assetId": 267223
   },
@@ -1398,7 +1510,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 13500,
     "resourceId": 50598886,
     "assetId": 267238
   },
@@ -1453,7 +1565,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 29000,
+    "price": 27500,
     "resourceId": 50598888,
     "assetId": 267240
   },
@@ -1501,7 +1613,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 13250,
     "resourceId": 50599023,
     "assetId": 267375
   },
@@ -1610,7 +1722,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 20250,
+    "price": 22750,
     "resourceId": 50599910,
     "assetId": 268262
   },
@@ -1712,7 +1824,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 19250,
+    "price": 19750,
     "resourceId": 50603865,
     "assetId": 272217
   },
@@ -1823,62 +1935,9 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 26500,
     "resourceId": 50608007,
     "assetId": 276359
-  },
-  "50609574": {
-    "name": "Manaka Matsukubo",
-    "cardName": "Matsukubo",
-    "originalVersionId": "22",
-    "clubId": 116303,
-    "leagueId": 2221,
-    "countryId": 163,
-    "versionId": "22",
-    "rating": 83,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "CAM",
-      "CM",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      1,
-      11,
-      20,
-      8
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      21,
-      31,
-      33,
-      142,
-      143
-    ],
-    "rolesPlusPlus": [
-      21,
-      31,
-      33,
-      142,
-      143
-    ],
-    "attributes": [
-      83,
-      85,
-      83,
-      87,
-      60,
-      72
-    ],
-    "hasDynamicImage": true,
-    "price": 35000,
-    "resourceId": 50609574,
-    "assetId": 277926
   },
   "50611447": {
     "name": "Temwa Chawinga",
@@ -2019,7 +2078,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 81500,
+    "price": 83000,
     "resourceId": 67335757,
     "assetId": 226893
   },
@@ -2067,7 +2126,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 17750,
     "resourceId": 67367174,
     "assetId": 258310
   },
@@ -2126,7 +2185,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 109000,
+    "price": 116000,
     "resourceId": 67375792,
     "assetId": 266928
   },
@@ -2233,9 +2292,74 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 168000,
+    "price": 165000,
     "resourceId": 84153008,
     "assetId": 266928
+  },
+  "84164006": {
+    "name": "Manaka Matsukubo",
+    "cardName": "Matsukubo",
+    "originalVersionId": "71",
+    "clubId": 116303,
+    "leagueId": 2221,
+    "countryId": 163,
+    "versionId": "71",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      13,
+      20,
+      25,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      11,
+      22
+    ],
+    "rolesPlus": [
+      21,
+      22,
+      31,
+      33,
+      42,
+      118,
+      132,
+      134,
+      143
+    ],
+    "rolesPlusPlus": [
+      21,
+      22,
+      31,
+      33,
+      42,
+      118,
+      132,
+      134,
+      143
+    ],
+    "attributes": [
+      88,
+      90,
+      89,
+      91,
+      70,
+      78
+    ],
+    "hasDynamicImage": true,
+    "price": 950000,
+    "resourceId": 84164006,
+    "assetId": 277926
   },
   "84165892": {
     "name": "Croix Bethune",
@@ -2287,7 +2411,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 17000,
     "resourceId": 84165892,
     "assetId": 279812
   },
@@ -2407,7 +2531,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 83500,
+    "price": 88000,
     "resourceId": 100934336,
     "assetId": 271040
   }

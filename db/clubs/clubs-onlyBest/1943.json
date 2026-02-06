@@ -364,7 +364,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 232999,
       "assetId": 232999
     },
@@ -579,7 +579,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1800,
       "resourceId": 242577,
       "assetId": 242577
     },
@@ -706,7 +706,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 600,
       "resourceId": 248492,
       "assetId": 248492
     },
@@ -992,7 +992,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 269796,
       "assetId": 269796
     },
@@ -1068,49 +1068,9 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 271756,
       "assetId": 271756
-    },
-    "277909": {
-      "name": "Eli Junior Kroupi",
-      "cardName": "Kroupi",
-      "originalVersionId": "0",
-      "clubId": 1943,
-      "leagueId": 13,
-      "countryId": 18,
-      "versionId": "2001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42
-      ],
-      "rolesPlusPlus": [
-        42
-      ],
-      "attributes": [
-        80,
-        74,
-        68,
-        78,
-        47,
-        57
-      ],
-      "hasDynamicImage": false,
-      "price": 300,
-      "resourceId": 277909,
-      "assetId": 277909
     },
     "50551844": {
       "name": "David Brooks",
@@ -1163,7 +1123,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 19250,
+      "price": 21250,
       "resourceId": 50551844,
       "assetId": 220196
     },
@@ -1335,9 +1295,69 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 18500,
       "resourceId": 50586871,
       "assetId": 255223
+    },
+    "50609557": {
+      "name": "Eli Junior Kroupi",
+      "cardName": "Kroupi",
+      "originalVersionId": "71",
+      "clubId": 1943,
+      "leagueId": 13,
+      "countryId": 18,
+      "versionId": "71",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        22,
+        25,
+        26,
+        6,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        20
+      ],
+      "rolesPlus": [
+        33,
+        34,
+        41,
+        131,
+        132,
+        142,
+        143
+      ],
+      "rolesPlusPlus": [
+        33,
+        34,
+        41,
+        131,
+        132,
+        142,
+        143
+      ],
+      "attributes": [
+        92,
+        88,
+        85,
+        90,
+        62,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 550000,
+      "resourceId": 50609557,
+      "assetId": 277909
     },
     "50610576": {
       "name": "Álex Jiménez",

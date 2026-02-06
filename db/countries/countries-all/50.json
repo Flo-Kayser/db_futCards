@@ -155,7 +155,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 71068,
     "assetId": 71068
   },
@@ -3758,7 +3758,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 73000,
+    "price": 72000,
     "resourceId": 247703,
     "assetId": 247703
   },
@@ -3845,7 +3845,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 200,
     "resourceId": 248688,
     "assetId": 248688
   },
@@ -3966,7 +3966,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 800,
     "resourceId": 251421,
     "assetId": 251421
   },
@@ -6419,7 +6419,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 1569000,
+    "price": 1670000,
     "resourceId": 50403205,
     "assetId": 71557
   },
@@ -6506,7 +6506,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 31750,
+    "price": 34500,
     "resourceId": 50537571,
     "assetId": 205923
   },
@@ -6604,7 +6604,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 19250,
+    "price": 21250,
     "resourceId": 50551844,
     "assetId": 220196
   },
@@ -6650,7 +6650,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 24250,
+    "price": 23000,
     "resourceId": 50552358,
     "assetId": 220710
   },
@@ -6746,7 +6746,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 144000,
+    "price": 154000,
     "resourceId": 50563752,
     "assetId": 232104
   },
@@ -7112,7 +7112,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 9900,
+    "price": 250,
     "resourceId": 50595947,
     "assetId": 264299
   },
@@ -7218,7 +7218,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 42750,
+    "price": 44750,
     "resourceId": 50598849,
     "assetId": 267201
   },
@@ -7300,5 +7300,76 @@
     "price": 200,
     "resourceId": 50600536,
     "assetId": 268888
+  },
+  "67180421": {
+    "name": "Gareth Bale",
+    "cardName": "Bale",
+    "originalVersionId": "170",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 50,
+    "versionId": "170",
+    "rating": 94,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LB",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      25,
+      29,
+      5,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      21
+    ],
+    "rolesPlus": [
+      9,
+      23,
+      35,
+      38,
+      42,
+      44,
+      110,
+      126,
+      136,
+      139,
+      141
+    ],
+    "rolesPlusPlus": [
+      9,
+      23,
+      35,
+      38,
+      42,
+      44,
+      110,
+      126,
+      136,
+      139,
+      141
+    ],
+    "attributes": [
+      97,
+      95,
+      90,
+      95,
+      80,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67180421,
+    "assetId": 71557
   }
 }

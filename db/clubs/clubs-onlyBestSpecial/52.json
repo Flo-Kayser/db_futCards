@@ -1,53 +1,6 @@
 {
   "clubName": "AS Roma",
   "players": {
-    "50411818": {
-      "name": "Wesley",
-      "cardName": "Wesley",
-      "originalVersionId": "91",
-      "clubId": 52,
-      "leagueId": 31,
-      "countryId": 54,
-      "versionId": "91",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        12,
-        14,
-        25,
-        27
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        6,
-        24,
-        105
-      ],
-      "rolesPlusPlus": [
-        6,
-        24,
-        105
-      ],
-      "attributes": [
-        91,
-        68,
-        76,
-        85,
-        79,
-        80
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 36750,
-      "resourceId": 50411818,
-      "assetId": 80170
-    },
     "50522461": {
       "name": "Stephan El Shaarawy",
       "cardName": "El Shaarawy",
@@ -98,7 +51,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 197000,
+      "price": 195000,
       "resourceId": 50522461,
       "assetId": 190813
     },
@@ -146,7 +99,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 28000,
+      "price": 31500,
       "resourceId": 50559899,
       "assetId": 228251
     },
@@ -194,7 +147,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 21500,
+      "price": 30500,
       "resourceId": 50561230,
       "assetId": 229582
     },
@@ -247,9 +200,66 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 152000,
+      "price": 151000,
       "resourceId": 50582371,
       "assetId": 250723
+    },
+    "67189034": {
+      "name": "Wesley",
+      "cardName": "Wesley",
+      "originalVersionId": "71",
+      "clubId": 52,
+      "leagueId": 31,
+      "countryId": 54,
+      "versionId": "71",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        14,
+        17,
+        18,
+        20,
+        26
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        3,
+        4,
+        23,
+        105,
+        106,
+        124
+      ],
+      "rolesPlusPlus": [
+        3,
+        4,
+        23,
+        105,
+        106,
+        124
+      ],
+      "attributes": [
+        92,
+        75,
+        84,
+        88,
+        85,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 145000,
+      "resourceId": 67189034,
+      "assetId": 80170
     },
     "67319974": {
       "name": "Paulo Dybala",
@@ -367,7 +377,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 22750,
+      "price": 24000,
       "resourceId": 84151775,
       "assetId": 265695
     }

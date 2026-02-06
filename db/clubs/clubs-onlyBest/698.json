@@ -188,7 +188,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 78686,
       "assetId": 78686
     },
@@ -909,52 +909,6 @@
       "resourceId": 258804,
       "assetId": 258804
     },
-    "260479": {
-      "name": "Jack McGlynn",
-      "cardName": "McGlynn",
-      "originalVersionId": "0",
-      "clubId": 698,
-      "leagueId": 39,
-      "countryId": 95,
-      "versionId": "2001",
-      "rating": 71,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        15,
-        18,
-        22,
-        25
-      ],
-      "rolesPlusPlus": [
-        15,
-        18,
-        22,
-        25
-      ],
-      "attributes": [
-        70,
-        55,
-        72,
-        70,
-        58,
-        62
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 260479,
-      "assetId": 260479
-    },
     "261763": {
       "name": "Ethan Bartlow",
       "cardName": "Bartlow",
@@ -1283,9 +1237,76 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2000,
       "resourceId": 50558143,
       "assetId": 226495
+    },
+    "50592127": {
+      "name": "Jack McGlynn",
+      "cardName": "McGlynn",
+      "originalVersionId": "71",
+      "clubId": 698,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "71",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        11,
+        17,
+        20,
+        3,
+        9
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        14,
+        19,
+        22,
+        25,
+        37,
+        115,
+        118,
+        121,
+        126,
+        136
+      ],
+      "rolesPlusPlus": [
+        14,
+        19,
+        22,
+        25,
+        37,
+        115,
+        118,
+        121,
+        126,
+        136
+      ],
+      "attributes": [
+        85,
+        88,
+        89,
+        88,
+        75,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 13500,
+      "resourceId": 50592127,
+      "assetId": 260479
     }
   }
 }

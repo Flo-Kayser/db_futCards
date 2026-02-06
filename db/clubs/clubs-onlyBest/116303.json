@@ -273,7 +273,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 243775,
       "assetId": 243775
     },
@@ -318,7 +318,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1300,
       "resourceId": 265862,
       "assetId": 265862
     },
@@ -736,7 +736,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 7000,
       "resourceId": 271040,
       "assetId": 271040
     },
@@ -918,7 +918,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 26000,
+      "price": 25000,
       "resourceId": 50597739,
       "assetId": 266091
     },
@@ -968,7 +968,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 13500,
       "resourceId": 50598886,
       "assetId": 267238
     },
@@ -1010,23 +1010,23 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 850,
       "resourceId": 50599660,
       "assetId": 268012
     },
-    "50609574": {
+    "84164006": {
       "name": "Manaka Matsukubo",
       "cardName": "Matsukubo",
-      "originalVersionId": "22",
+      "originalVersionId": "71",
       "clubId": 116303,
       "leagueId": 2221,
       "countryId": 163,
-      "versionId": "22",
-      "rating": 83,
+      "versionId": "71",
+      "rating": 89,
       "preferredFoot": "Right",
-      "weakFoot": 3,
+      "weakFoot": 4,
       "skillMoves": 3,
-      "preferredPosition": "ST",
+      "preferredPosition": "CAM",
       "possiblePositions": [
         "CAM",
         "CM",
@@ -1034,37 +1034,49 @@
       ],
       "playStyles": [
         0,
-        1,
-        11,
+        13,
         20,
+        25,
+        6,
         8
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        11,
+        22
+      ],
       "rolesPlus": [
         21,
+        22,
         31,
         33,
-        142,
+        42,
+        118,
+        132,
+        134,
         143
       ],
       "rolesPlusPlus": [
         21,
+        22,
         31,
         33,
-        142,
+        42,
+        118,
+        132,
+        134,
         143
       ],
       "attributes": [
-        83,
-        85,
-        83,
-        87,
-        60,
-        72
+        88,
+        90,
+        89,
+        91,
+        70,
+        78
       ],
       "hasDynamicImage": true,
-      "price": 35000,
-      "resourceId": 50609574,
+      "price": 950000,
+      "resourceId": 84164006,
       "assetId": 277926
     }
   }
