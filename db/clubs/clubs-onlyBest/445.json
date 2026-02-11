@@ -593,7 +593,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 500,
       "resourceId": 235704,
       "assetId": 235704
     },
@@ -884,7 +884,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 4300,
       "resourceId": 247098,
       "assetId": 247098
     },
@@ -978,45 +978,6 @@
       "resourceId": 259234,
       "assetId": 259234
     },
-    "274636": {
-      "name": "Alex Bannon",
-      "cardName": "Bannon",
-      "originalVersionId": "1",
-      "clubId": 445,
-      "leagueId": 65,
-      "countryId": 42,
-      "versionId": "3000",
-      "rating": 55,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "CDM",
-        "RB"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11
-      ],
-      "rolesPlusPlus": [
-        11
-      ],
-      "attributes": [
-        63,
-        34,
-        47,
-        47,
-        54,
-        61
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 274636,
-      "assetId": 274636
-    },
     "277357": {
       "name": "Seán Patton",
       "cardName": "Patton",
@@ -1097,6 +1058,91 @@
       "resourceId": 50558730,
       "assetId": 227082
     },
+    "50578814": {
+      "name": "James Olayinka",
+      "cardName": "Olayinka",
+      "originalVersionId": "0",
+      "clubId": 445,
+      "leagueId": 65,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18,
+        21
+      ],
+      "rolesPlusPlus": [
+        14,
+        18,
+        21
+      ],
+      "attributes": [
+        73,
+        55,
+        58,
+        66,
+        55,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 50578814,
+      "assetId": 247166
+    },
+    "50583064": {
+      "name": "Robert Slevin",
+      "cardName": "Slevin",
+      "originalVersionId": "1",
+      "clubId": 445,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "3000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "rolesPlusPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        70,
+        28,
+        53,
+        46,
+        60,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50583064,
+      "assetId": 251416
+    },
     "50592924": {
       "name": "James Clarke",
       "cardName": "Clarke",
@@ -1140,6 +1186,63 @@
       "price": 200,
       "resourceId": 50592924,
       "assetId": 261276
+    },
+    "50606284": {
+      "name": "Alex Bannon",
+      "cardName": "Bannon",
+      "originalVersionId": "3",
+      "clubId": 445,
+      "leagueId": 65,
+      "countryId": 42,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "RB"
+      ],
+      "playStyles": [
+        11,
+        16,
+        2,
+        21,
+        8
+      ],
+      "playStylesPlus": [
+        28
+      ],
+      "rolesPlus": [
+        6,
+        12,
+        16,
+        105,
+        111,
+        115
+      ],
+      "rolesPlusPlus": [
+        6,
+        12,
+        16,
+        105,
+        111,
+        115
+      ],
+      "attributes": [
+        88,
+        65,
+        80,
+        79,
+        83,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 20000,
+      "resourceId": 50606284,
+      "assetId": 274636
     }
   }
 }

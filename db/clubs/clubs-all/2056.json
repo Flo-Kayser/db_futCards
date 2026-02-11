@@ -471,7 +471,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 221493,
       "assetId": 221493
     },
@@ -564,7 +564,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 225733,
       "assetId": 225733
     },
@@ -603,7 +603,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 4900,
       "resourceId": 227859,
       "assetId": 227859
     },
@@ -945,7 +945,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 245848,
       "assetId": 245848
     },
@@ -1783,7 +1783,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 25500,
       "resourceId": 50577691,
       "assetId": 246043
     },
@@ -1829,6 +1829,86 @@
       "price": 200,
       "resourceId": 50586945,
       "assetId": 255297
+    },
+    "50592043": {
+      "name": "Kim Dae Woo",
+      "cardName": "Kim Dae Woo",
+      "originalVersionId": "0",
+      "clubId": 2056,
+      "leagueId": 83,
+      "countryId": 167,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        19,
+        20
+      ],
+      "rolesPlusPlus": [
+        19,
+        20
+      ],
+      "attributes": [
+        60,
+        48,
+        56,
+        59,
+        57,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 50592043,
+      "assetId": 260395
+    },
+    "50598187": {
+      "name": "Hwang In Taek",
+      "cardName": "Hwang In Taek",
+      "originalVersionId": "0",
+      "clubId": 2056,
+      "leagueId": 83,
+      "countryId": 167,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "rolesPlusPlus": [
+        11
+      ],
+      "attributes": [
+        53,
+        31,
+        41,
+        43,
+        58,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50598187,
+      "assetId": 266539
     }
   }
 }

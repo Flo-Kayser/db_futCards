@@ -651,7 +651,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 9900,
       "resourceId": 253715,
       "assetId": 253715
     },
@@ -819,47 +819,6 @@
       "price": 200,
       "resourceId": 256508,
       "assetId": 256508
-    },
-    "258082": {
-      "name": "Ignacio Russo",
-      "cardName": "Russo",
-      "originalVersionId": "0",
-      "clubId": 111715,
-      "leagueId": 353,
-      "countryId": 52,
-      "versionId": "2001",
-      "rating": 67,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        33,
-        44
-      ],
-      "rolesPlusPlus": [
-        33,
-        44
-      ],
-      "attributes": [
-        73,
-        66,
-        51,
-        67,
-        32,
-        66
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 258082,
-      "assetId": 258082
     },
     "258574": {
       "name": "Nahuel Banegas",
@@ -1312,6 +1271,63 @@
       "price": 350,
       "resourceId": 279932,
       "assetId": 279932
+    },
+    "50589730": {
+      "name": "Ignacio Russo",
+      "cardName": "Russo",
+      "originalVersionId": "3",
+      "clubId": 111715,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        24,
+        25,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        29
+      ],
+      "rolesPlus": [
+        22,
+        32,
+        41,
+        133,
+        142,
+        144
+      ],
+      "rolesPlusPlus": [
+        22,
+        32,
+        41,
+        133,
+        142,
+        144
+      ],
+      "attributes": [
+        90,
+        85,
+        70,
+        84,
+        50,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 20000,
+      "resourceId": 50589730,
+      "assetId": 258082
     }
   }
 }

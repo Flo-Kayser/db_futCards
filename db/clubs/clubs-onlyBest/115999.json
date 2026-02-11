@@ -763,49 +763,6 @@
       "resourceId": 273567,
       "assetId": 273567
     },
-    "274847": {
-      "name": "Vanessa Diehm",
-      "cardName": "Diehm",
-      "originalVersionId": "1",
-      "clubId": 115999,
-      "leagueId": 2215,
-      "countryId": 21,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        16,
-        19
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        19,
-        20
-      ],
-      "rolesPlusPlus": [
-        19,
-        20
-      ],
-      "attributes": [
-        66,
-        63,
-        64,
-        73,
-        60,
-        65
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 274847,
-      "assetId": 274847
-    },
     "274850": {
       "name": "Marie Steiner",
       "cardName": "Steiner",
@@ -890,9 +847,66 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 21500,
+      "price": 23500,
       "resourceId": 50596673,
       "assetId": 265025
+    },
+    "50606495": {
+      "name": "Vanessa Diehm",
+      "cardName": "Diehm",
+      "originalVersionId": "3",
+      "clubId": 115999,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        14,
+        15,
+        16,
+        19
+      ],
+      "playStylesPlus": [
+        17
+      ],
+      "rolesPlus": [
+        13,
+        16,
+        20,
+        111,
+        114,
+        119
+      ],
+      "rolesPlusPlus": [
+        13,
+        16,
+        20,
+        111,
+        114,
+        119
+      ],
+      "attributes": [
+        81,
+        75,
+        79,
+        86,
+        81,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 20000,
+      "resourceId": 50606495,
+      "assetId": 274847
     }
   }
 }

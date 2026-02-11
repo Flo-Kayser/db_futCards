@@ -549,7 +549,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 850,
       "resourceId": 229348,
       "assetId": 229348
     },
@@ -795,7 +795,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 10000,
       "resourceId": 241436,
       "assetId": 241436
     },
@@ -970,7 +970,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 53500,
       "resourceId": 50536486,
       "assetId": 204838
     },
@@ -1016,7 +1016,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 24750,
+      "price": 21000,
       "resourceId": 50552358,
       "assetId": 220710
     },
@@ -1066,6 +1066,44 @@
       "resourceId": 50577820,
       "assetId": 246172
     },
+    "50609868": {
+      "name": "Matt Dibley-Dias",
+      "cardName": "Dibley-Dias",
+      "originalVersionId": "1",
+      "clubId": 144,
+      "leagueId": 13,
+      "countryId": 198,
+      "versionId": "3000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "rolesPlusPlus": [
+        18
+      ],
+      "attributes": [
+        68,
+        58,
+        59,
+        63,
+        53,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 5000,
+      "resourceId": 50609868,
+      "assetId": 278220
+    },
     "50610226": {
       "name": "Jonah Kusi-Asare",
       "cardName": "Kusi-Asare",
@@ -1099,9 +1137,47 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 300,
       "resourceId": 50610226,
       "assetId": 278578
+    },
+    "50610655": {
+      "name": "Devan Tanton",
+      "cardName": "Tanton",
+      "originalVersionId": "0",
+      "clubId": 144,
+      "leagueId": 13,
+      "countryId": 56,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "rolesPlusPlus": [
+        3
+      ],
+      "attributes": [
+        68,
+        33,
+        45,
+        57,
+        55,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50610655,
+      "assetId": 279007
     }
   }
 }
