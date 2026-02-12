@@ -24,11 +24,6 @@
       22,
       33
     ],
-    "rolesPlusPlus": [
-      18,
-      22,
-      33
-    ],
     "attributes": [
       73,
       77,
@@ -38,7 +33,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 950,
     "resourceId": 255009,
     "assetId": 255009,
     "originalVersionId": 1
@@ -71,13 +66,6 @@
       121,
       131
     ],
-    "rolesPlusPlus": [
-      18,
-      22,
-      33,
-      121,
-      131
-    ],
     "attributes": [
       80,
       83,
@@ -87,10 +75,49 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 20500,
+    "price": 20000,
     "resourceId": 50586657,
     "assetId": 255009,
     "originalVersionId": 50
+  },
+  "67363873": {
+    "clubId": 115841,
+    "leagueId": 31,
+    "countryId": 34,
+    "versionId": "3002",
+    "rating": 78,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      8,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      18,
+      22,
+      33
+    ],
+    "attributes": [
+      73,
+      77,
+      78,
+      78,
+      67,
+      74
+    ],
+    "hasDynamicImage": false,
+    "price": 950,
+    "resourceId": 67363873,
+    "assetId": 255009,
+    "originalVersionId": 1
   },
   "cardName": "Taylor",
   "name": "Kenneth Taylor"
