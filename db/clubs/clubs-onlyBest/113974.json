@@ -100,7 +100,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 80597,
       "assetId": 80597
     },
@@ -672,7 +672,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2700,
       "resourceId": 252290,
       "assetId": 252290
     },
@@ -812,7 +812,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 4500,
       "resourceId": 259057,
       "assetId": 259057
     },
@@ -953,7 +953,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 278301,
       "assetId": 278301
     },
@@ -987,9 +987,87 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 1100,
       "resourceId": 279891,
       "assetId": 279891
+    },
+    "50404498": {
+      "name": "Emanuele Adamo",
+      "cardName": "Adamo",
+      "originalVersionId": "0",
+      "clubId": 113974,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        23
+      ],
+      "attributes": [
+        79,
+        57,
+        66,
+        71,
+        62,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50404498,
+      "assetId": 72850
+    },
+    "50536737": {
+      "name": "Mattia Valoti",
+      "cardName": "Valoti",
+      "originalVersionId": "0",
+      "clubId": 113974,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        12,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        22,
+        33
+      ],
+      "attributes": [
+        52,
+        67,
+        72,
+        72,
+        56,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 5400,
+      "resourceId": 50536737,
+      "assetId": 205089
     },
     "50562721": {
       "name": "Boris Radunović",
@@ -1102,6 +1180,43 @@
       "price": 350,
       "resourceId": 50577139,
       "assetId": 245491
+    },
+    "67387218": {
+      "name": "Giovanni Bonfanti",
+      "cardName": "Bonfanti",
+      "originalVersionId": "0",
+      "clubId": 113974,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        51,
+        35,
+        52,
+        53,
+        69,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 67387218,
+      "assetId": 278354
     }
   }
 }

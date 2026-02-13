@@ -1,50 +1,4 @@
 {
-  "166124": {
-    "name": "Gheorghe Hagi",
-    "cardName": "Hagi",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 39,
-    "versionId": "12",
-    "rating": 88,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "CM",
-      "LM"
-    ],
-    "playStyles": [
-      1,
-      13,
-      2,
-      20,
-      8
-    ],
-    "playStylesPlus": [
-      3
-    ],
-    "rolesPlus": [
-      29,
-      121,
-      131
-    ],
-    "attributes": [
-      82,
-      86,
-      88,
-      88,
-      41,
-      64
-    ],
-    "hasDynamicImage": false,
-    "price": 88000,
-    "resourceId": 166124,
-    "assetId": 166124
-  },
   "50543855": {
     "name": "Nicolae Stanciu",
     "cardName": "Stanciu",
@@ -86,7 +40,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 22750,
+    "price": 24250,
     "resourceId": 50543855,
     "assetId": 212207
   },
@@ -138,7 +92,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 22000,
     "resourceId": 50554879,
     "assetId": 223231
   },
@@ -183,7 +137,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 32000,
+    "price": 33750,
     "resourceId": 50571626,
     "assetId": 239978
   },
@@ -228,7 +182,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 22500,
+    "price": 23750,
     "resourceId": 50579697,
     "assetId": 248049
   },
@@ -269,7 +223,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 33750,
+    "price": 41250,
     "resourceId": 50579753,
     "assetId": 248105
   },
@@ -313,7 +267,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 23000,
+    "price": 22750,
     "resourceId": 50582884,
     "assetId": 251236
   },
@@ -359,7 +313,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 22750,
     "resourceId": 50583429,
     "assetId": 251781
   },
@@ -406,7 +360,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 15250,
+    "price": 16500,
     "resourceId": 50591789,
     "assetId": 260141
   },
@@ -443,5 +397,57 @@
     "hasDynamicImage": false,
     "resourceId": 50609284,
     "assetId": 277636
+  },
+  "67274988": {
+    "name": "Gheorghe Hagi",
+    "cardName": "Hagi",
+    "originalVersionId": "15",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 39,
+    "versionId": "15",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      13,
+      2,
+      3,
+      6
+    ],
+    "playStylesPlus": [
+      20,
+      8
+    ],
+    "rolesPlus": [
+      18,
+      27,
+      32,
+      121,
+      129,
+      131,
+      134
+    ],
+    "attributes": [
+      87,
+      90,
+      90,
+      90,
+      43,
+      70
+    ],
+    "hasDynamicImage": true,
+    "price": 483000,
+    "resourceId": 67274988,
+    "assetId": 166124
   }
 }

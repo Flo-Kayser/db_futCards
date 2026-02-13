@@ -99,7 +99,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 76480,
       "assetId": 76480
     },
@@ -407,7 +407,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 2000,
       "resourceId": 240982,
       "assetId": 240982
     },
@@ -589,7 +589,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 261177,
       "assetId": 261177
     },
@@ -857,6 +857,40 @@
       "resourceId": 274145,
       "assetId": 274145
     },
+    "50408565": {
+      "name": "Agustín Auzmendi",
+      "cardName": "Auzmendi",
+      "originalVersionId": "0",
+      "clubId": 101084,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        65,
+        69,
+        45,
+        64,
+        32,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50408565,
+      "assetId": 76917
+    },
     "50547646": {
       "name": "Ignacio Fernández",
       "cardName": "Fernández",
@@ -897,9 +931,83 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 350,
       "resourceId": 50547646,
       "assetId": 215998
+    },
+    "50604729": {
+      "name": "Bautista Barros Schelotto",
+      "cardName": "Barros Schelotto",
+      "originalVersionId": "0",
+      "clubId": 101084,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5
+      ],
+      "attributes": [
+        71,
+        40,
+        57,
+        59,
+        63,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50604729,
+      "assetId": 273081
+    },
+    "67370035": {
+      "name": "Ignacio Miramón",
+      "cardName": "Miramón",
+      "originalVersionId": "0",
+      "clubId": 101084,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        17,
+        21
+      ],
+      "attributes": [
+        66,
+        57,
+        62,
+        68,
+        66,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 9500,
+      "resourceId": 67370035,
+      "assetId": 261171
     }
   }
 }

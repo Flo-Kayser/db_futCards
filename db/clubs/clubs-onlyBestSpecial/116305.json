@@ -1,6 +1,52 @@
 {
   "clubName": "Chicago Stars FC",
   "players": {
+    "50557983": {
+      "name": "Alyssa Naeher",
+      "cardName": "Naeher",
+      "originalVersionId": "55",
+      "clubId": 116305,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "55",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        11,
+        30,
+        31,
+        32,
+        35,
+        8
+      ],
+      "playStylesPlus": [
+        34
+      ],
+      "rolesPlus": [
+        2,
+        101,
+        145
+      ],
+      "attributes": [
+        88,
+        86,
+        88,
+        85,
+        53,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 13000,
+      "resourceId": 50557983,
+      "assetId": 226335
+    },
     "50563721": {
       "name": "Mallory Swanson",
       "cardName": "Swanson",
@@ -47,7 +93,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 73000,
+      "price": 74500,
       "resourceId": 50563721,
       "assetId": 232073
     }

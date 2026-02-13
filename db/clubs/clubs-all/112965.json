@@ -1188,6 +1188,45 @@
       "resourceId": 279174,
       "assetId": 279174
     },
+    "50561184": {
+      "name": "Horacio Tijanovich",
+      "cardName": "Tijanovich",
+      "originalVersionId": "0",
+      "clubId": 112965,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        42
+      ],
+      "attributes": [
+        78,
+        69,
+        58,
+        69,
+        36,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50561184,
+      "assetId": 229536
+    },
     "50583887": {
       "name": "Lucas González",
       "cardName": "González",
@@ -1221,9 +1260,49 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 8900,
+      "price": 200,
       "resourceId": 50583887,
       "assetId": 252239
+    },
+    "50611468": {
+      "name": "Marco Iacobellis",
+      "cardName": "Iacobellis",
+      "originalVersionId": "0",
+      "clubId": 112965,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        26,
+        27,
+        33
+      ],
+      "attributes": [
+        77,
+        63,
+        65,
+        66,
+        49,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50611468,
+      "assetId": 279820
     }
   }
 }

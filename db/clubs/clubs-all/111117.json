@@ -146,7 +146,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 10000,
       "resourceId": 212225,
       "assetId": 212225
     },
@@ -368,7 +368,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 6900,
       "resourceId": 257804,
       "assetId": 257804
     },
@@ -441,7 +441,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 258725,
       "assetId": 258725
     },
@@ -664,6 +664,41 @@
       "resourceId": 50543861,
       "assetId": 212213
     },
+    "50545586": {
+      "name": "Davide Biraschi",
+      "cardName": "Biraschi",
+      "originalVersionId": "0",
+      "clubId": 111117,
+      "leagueId": 68,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        60,
+        36,
+        59,
+        61,
+        70,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 8700,
+      "resourceId": 50545586,
+      "assetId": 213938
+    },
     "50546625": {
       "name": "Matías Kranevitter",
       "cardName": "Kranevitter",
@@ -699,6 +734,43 @@
       "price": 350,
       "resourceId": 50546625,
       "assetId": 214977
+    },
+    "50592286": {
+      "name": "Bartuğ Elmaz",
+      "cardName": "Elmaz",
+      "originalVersionId": "0",
+      "clubId": 111117,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        60,
+        56,
+        66,
+        68,
+        61,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50592286,
+      "assetId": 260638
     }
   }
 }

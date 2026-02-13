@@ -1,63 +1,6 @@
 {
   "clubName": "Atlético de Madrid",
   "players": {
-    "50526413": {
-      "name": "Antoine Griezmann",
-      "cardName": "Griezmann",
-      "originalVersionId": "151",
-      "clubId": 240,
-      "leagueId": 53,
-      "countryId": 18,
-      "versionId": "151",
-      "rating": 87,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "ST"
-      ],
-      "playStyles": [
-        1,
-        10,
-        13,
-        20,
-        6,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        0
-      ],
-      "rolesPlus": [
-        127,
-        128,
-        129,
-        130,
-        131,
-        132,
-        133,
-        134,
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        80,
-        88,
-        87,
-        90,
-        61,
-        76
-      ],
-      "hasDynamicImage": true,
-      "price": 47750,
-      "resourceId": 50526413,
-      "assetId": 194765
-    },
     "50532037": {
       "name": "Jan Oblak",
       "cardName": "Oblak",
@@ -98,7 +41,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 72000,
+      "price": 77500,
       "resourceId": 50532037,
       "assetId": 200389
     },
@@ -143,7 +86,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 54000,
+      "price": 52500,
       "resourceId": 50548108,
       "assetId": 216460
     },
@@ -528,6 +471,61 @@
       "resourceId": 67302611,
       "assetId": 193747
     },
+    "67303629": {
+      "name": "Antoine Griezmann",
+      "cardName": "Griezmann",
+      "originalVersionId": "55",
+      "clubId": 240,
+      "leagueId": 53,
+      "countryId": 18,
+      "versionId": "55",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        10,
+        11,
+        13,
+        21,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        20
+      ],
+      "rolesPlus": [
+        27,
+        29,
+        32,
+        33,
+        42,
+        130,
+        131,
+        141,
+        143
+      ],
+      "attributes": [
+        90,
+        92,
+        92,
+        92,
+        63,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 2953000,
+      "resourceId": 67303629,
+      "assetId": 194765
+    },
     "67335025": {
       "name": "Marcos Llorente",
       "cardName": "Marcos Llorente",
@@ -628,7 +626,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 379000,
+      "price": 375000,
       "resourceId": 67355055,
       "assetId": 246191
     },
@@ -672,7 +670,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 25000,
       "resourceId": 67355967,
       "assetId": 247103
     }

@@ -69,7 +69,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 4300,
+      "price": 5100,
       "resourceId": 70711,
       "assetId": 70711
     },
@@ -1113,7 +1113,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 200,
       "resourceId": 50563155,
       "assetId": 231507
     },
@@ -1155,6 +1155,80 @@
       "price": 200,
       "resourceId": 50588089,
       "assetId": 256441
+    },
+    "50601855": {
+      "name": "Franco Frías",
+      "cardName": "Frías",
+      "originalVersionId": "1",
+      "clubId": 110580,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "3001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        33,
+        41
+      ],
+      "attributes": [
+        77,
+        63,
+        60,
+        71,
+        28,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50601855,
+      "assetId": 270207
+    },
+    "50602674": {
+      "name": "Tobías Cervera",
+      "cardName": "Cervera",
+      "originalVersionId": "0",
+      "clubId": 110580,
+      "leagueId": 353,
+      "countryId": 186,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        39,
+        41
+      ],
+      "attributes": [
+        75,
+        63,
+        55,
+        68,
+        29,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50602674,
+      "assetId": 271026
     }
   }
 }

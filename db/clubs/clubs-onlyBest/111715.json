@@ -589,7 +589,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 9500,
+      "price": 10000,
       "resourceId": 253715,
       "assetId": 253715
     },
@@ -1191,6 +1191,43 @@
       "resourceId": 50558025,
       "assetId": 226377
     },
+    "50588054": {
+      "name": "Tomás Lecanda",
+      "cardName": "Lecanda",
+      "originalVersionId": "0",
+      "clubId": 111715,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        12,
+        48
+      ],
+      "attributes": [
+        60,
+        44,
+        52,
+        54,
+        65,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50588054,
+      "assetId": 256406
+    },
     "50589730": {
       "name": "Ignacio Russo",
       "cardName": "Russo",
@@ -1236,7 +1273,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 21750,
+      "price": 22000,
       "resourceId": 50589730,
       "assetId": 258082
     },
@@ -1274,9 +1311,48 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 6000,
+      "price": 200,
       "resourceId": 50606748,
       "assetId": 275100
+    },
+    "50608470": {
+      "name": "Santiago López",
+      "cardName": "López",
+      "originalVersionId": "1",
+      "clubId": 111715,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "3001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        38,
+        43
+      ],
+      "attributes": [
+        84,
+        64,
+        56,
+        67,
+        25,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50608470,
+      "assetId": 276822
     }
   }
 }

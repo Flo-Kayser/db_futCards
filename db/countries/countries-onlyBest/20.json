@@ -139,7 +139,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 2000,
+    "price": 650,
     "resourceId": 77103,
     "assetId": 77103
   },
@@ -207,7 +207,7 @@
       48
     ],
     "hasDynamicImage": false,
-    "price": 1400,
+    "price": 650,
     "resourceId": 79332,
     "assetId": 79332
   },
@@ -242,7 +242,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 750,
     "resourceId": 79691,
     "assetId": 79691
   },
@@ -598,7 +598,7 @@
       47
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 350,
     "resourceId": 245131,
     "assetId": 245131
   },
@@ -718,7 +718,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 600,
     "resourceId": 260813,
     "assetId": 260813
   },
@@ -1016,7 +1016,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 350,
     "resourceId": 277979,
     "assetId": 277979
   },
@@ -1050,7 +1050,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 278013,
     "assetId": 278013
   },
@@ -1090,56 +1090,6 @@
     "resourceId": 278075,
     "assetId": 278075
   },
-  "50579283": {
-    "name": "Khvicha Kvaratskhelia",
-    "cardName": "Kvaratskhelia",
-    "originalVersionId": "96",
-    "clubId": 73,
-    "leagueId": 16,
-    "countryId": 20,
-    "versionId": "96",
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 5,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "RW"
-    ],
-    "playStyles": [
-      0,
-      13,
-      21,
-      23,
-      7,
-      8
-    ],
-    "playStylesPlus": [
-      20
-    ],
-    "rolesPlus": [
-      27,
-      35,
-      38,
-      130,
-      136,
-      139
-    ],
-    "attributes": [
-      87,
-      82,
-      84,
-      89,
-      60,
-      80
-    ],
-    "hasDynamicImage": true,
-    "price": 255000,
-    "resourceId": 50579283,
-    "assetId": 247635
-  },
   "50586199": {
     "name": "Georges Mikautadze",
     "cardName": "Mikautadze",
@@ -1176,7 +1126,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 850,
     "resourceId": 50586199,
     "assetId": 254551
   },
@@ -1214,5 +1164,60 @@
     "price": 200,
     "resourceId": 50608708,
     "assetId": 277060
+  },
+  "67356499": {
+    "name": "Khvicha Kvaratskhelia",
+    "cardName": "Kvaratskhelia",
+    "originalVersionId": "55",
+    "clubId": 73,
+    "leagueId": 16,
+    "countryId": 20,
+    "versionId": "55",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      13,
+      20,
+      23,
+      24,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      25,
+      6
+    ],
+    "rolesPlus": [
+      29,
+      37,
+      40,
+      127,
+      130,
+      135,
+      136,
+      138,
+      139
+    ],
+    "attributes": [
+      92,
+      87,
+      88,
+      92,
+      63,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 5000000,
+    "resourceId": 67356499,
+    "assetId": 247635
   }
 }

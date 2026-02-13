@@ -211,7 +211,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 6000,
+      "price": 6200,
       "resourceId": 215049,
       "assetId": 215049
     },
@@ -1189,7 +1189,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 600,
       "resourceId": 50546847,
       "assetId": 215199
     },
@@ -1223,7 +1223,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 50557506,
       "assetId": 225858
     },
@@ -1262,6 +1262,41 @@
       "resourceId": 50557818,
       "assetId": 226170
     },
+    "50573577": {
+      "name": "Elías Pereyra",
+      "cardName": "Pereyra",
+      "originalVersionId": "1",
+      "clubId": 111710,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "3001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9
+      ],
+      "attributes": [
+        82,
+        32,
+        54,
+        66,
+        63,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50573577,
+      "assetId": 241929
+    },
     "50576709": {
       "name": "Julián López",
       "cardName": "López",
@@ -1296,9 +1331,48 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 9800,
+      "price": 200,
       "resourceId": 50576709,
       "assetId": 245061
+    },
+    "50587034": {
+      "name": "Tomás Escalante",
+      "cardName": "Escalante",
+      "originalVersionId": "1",
+      "clubId": 111710,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "3001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        18,
+        20,
+        31
+      ],
+      "attributes": [
+        72,
+        59,
+        64,
+        68,
+        55,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50587034,
+      "assetId": 255386
     },
     "50589633": {
       "name": "Lautaro Amadé",
@@ -1333,6 +1407,44 @@
       "price": 200,
       "resourceId": 50589633,
       "assetId": 257985
+    },
+    "50601338": {
+      "name": "Manuel Duarte",
+      "cardName": "Duarte",
+      "originalVersionId": "0",
+      "clubId": 111710,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        30,
+        33
+      ],
+      "attributes": [
+        74,
+        64,
+        66,
+        66,
+        44,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50601338,
+      "assetId": 269690
     }
   }
 }

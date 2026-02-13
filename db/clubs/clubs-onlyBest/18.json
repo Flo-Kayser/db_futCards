@@ -76,7 +76,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1300,
       "resourceId": 220697,
       "assetId": 220697
     },
@@ -154,7 +154,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 229391,
       "assetId": 229391
     },
@@ -305,7 +305,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 237985,
       "assetId": 237985
     },
@@ -348,7 +348,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 243576,
       "assetId": 243576
     },
@@ -387,7 +387,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 350,
       "resourceId": 243702,
       "assetId": 243702
     },
@@ -508,7 +508,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 247394,
       "assetId": 247394
     },
@@ -548,7 +548,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1100,
       "resourceId": 251421,
       "assetId": 251421
     },
@@ -692,7 +692,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 264702,
       "assetId": 264702
     },
@@ -732,7 +732,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 268421,
       "assetId": 268421
     },
@@ -930,7 +930,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 33500,
+      "price": 34750,
       "resourceId": 50537571,
       "assetId": 205923
     },
@@ -975,7 +975,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 23250,
+      "price": 24000,
       "resourceId": 50557187,
       "assetId": 225539
     },
@@ -1017,7 +1017,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 63000,
+      "price": 64000,
       "resourceId": 50564136,
       "assetId": 232488
     },
@@ -1163,7 +1163,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 85000,
+      "price": 84500,
       "resourceId": 50602227,
       "assetId": 270579
     },
@@ -1240,7 +1240,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 200,
       "resourceId": 50607994,
       "assetId": 276346
     },
@@ -1275,7 +1275,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 50610765,
       "assetId": 279117
     },
@@ -1359,7 +1359,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 800,
       "resourceId": 67347080,
       "assetId": 238216
     },
@@ -1413,52 +1413,6 @@
       "resourceId": 67354019,
       "assetId": 245155
     },
-    "67373317": {
-      "name": "Micky van de Ven",
-      "cardName": "van de Ven",
-      "originalVersionId": "8",
-      "clubId": 18,
-      "leagueId": 13,
-      "countryId": 34,
-      "versionId": "8",
-      "rating": 87,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        0,
-        15,
-        18,
-        20,
-        26,
-        6
-      ],
-      "playStylesPlus": [
-        21
-      ],
-      "rolesPlus": [
-        12,
-        48,
-        111,
-        113
-      ],
-      "attributes": [
-        93,
-        83,
-        70,
-        78,
-        84,
-        83
-      ],
-      "hasDynamicImage": true,
-      "price": 2149000,
-      "resourceId": 67373317,
-      "assetId": 264453
-    },
     "84131447": {
       "name": "Xavi Simons",
       "cardName": "Simons",
@@ -1506,9 +1460,57 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 90000,
+      "price": 81000,
       "resourceId": 84131447,
       "assetId": 245367
+    },
+    "84150533": {
+      "name": "Micky van de Ven",
+      "cardName": "van de Ven",
+      "originalVersionId": "55",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 34,
+      "versionId": "55",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        11,
+        14,
+        15,
+        17,
+        18,
+        20,
+        9
+      ],
+      "playStylesPlus": [
+        16,
+        25
+      ],
+      "rolesPlus": [
+        12,
+        48,
+        111,
+        113
+      ],
+      "attributes": [
+        94,
+        52,
+        71,
+        81,
+        88,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 6100000,
+      "resourceId": 84150533,
+      "assetId": 264453
     }
   }
 }

@@ -34,7 +34,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 71651,
       "assetId": 71651
     },
@@ -116,7 +116,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 7500,
+      "price": 1400,
       "resourceId": 76687,
       "assetId": 76687
     },
@@ -158,7 +158,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1800,
       "resourceId": 202652,
       "assetId": 202652
     },
@@ -433,7 +433,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 800,
       "resourceId": 238074,
       "assetId": 238074
     },
@@ -476,7 +476,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 800,
       "resourceId": 238616,
       "assetId": 238616
     },
@@ -668,7 +668,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 248695,
       "assetId": 248695
     },
@@ -707,7 +707,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 400,
       "resourceId": 252042,
       "assetId": 252042
     },
@@ -751,7 +751,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 7400,
+      "price": 6500,
       "resourceId": 256079,
       "assetId": 256079
     },
@@ -799,7 +799,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 7200,
+      "price": 6500,
       "resourceId": 257534,
       "assetId": 257534
     },
@@ -952,7 +952,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 800,
       "resourceId": 259307,
       "assetId": 259307
     },
@@ -1147,7 +1147,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1300,
       "resourceId": 266032,
       "assetId": 266032
     },
@@ -1231,7 +1231,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 273018,
       "assetId": 273018
     },
@@ -1379,7 +1379,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 700,
       "resourceId": 50403645,
       "assetId": 71997
     },
@@ -1428,7 +1428,7 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 259000,
+      "price": 270000,
       "resourceId": 50408335,
       "assetId": 76687
     },
@@ -1529,7 +1529,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 250000,
+      "price": 248000,
       "resourceId": 50570264,
       "assetId": 238616
     },
@@ -1571,9 +1571,64 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 87000,
+      "price": 91000,
       "resourceId": 50570879,
       "assetId": 239231
+    },
+    "50578738": {
+      "name": "Enzo Fernández",
+      "cardName": "Fernández",
+      "originalVersionId": "55",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 52,
+      "versionId": "55",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        13,
+        16,
+        2,
+        22,
+        24,
+        26
+      ],
+      "playStylesPlus": [
+        10,
+        8
+      ],
+      "rolesPlus": [
+        14,
+        18,
+        19,
+        32,
+        49,
+        116,
+        120,
+        121,
+        131
+      ],
+      "attributes": [
+        85,
+        85,
+        93,
+        92,
+        82,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 991000,
+      "resourceId": 50578738,
+      "assetId": 247090
     },
     "50583690": {
       "name": "João Pedro",
@@ -1658,9 +1713,43 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 39750,
+      "price": 38500,
       "resourceId": 50587727,
       "assetId": 256079
+    },
+    "50588774": {
+      "name": "Teddy Sharman-Lowe",
+      "cardName": "Sharman-Lowe",
+      "originalVersionId": "0",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        62,
+        60,
+        63,
+        63,
+        40,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50588774,
+      "assetId": 257126
     },
     "50589182": {
       "name": "Cole Palmer",
@@ -1707,7 +1796,7 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 180000,
+      "price": 171000,
       "resourceId": 50589182,
       "assetId": 257534
     },
@@ -1748,7 +1837,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 59500,
+      "price": 57000,
       "resourceId": 50590955,
       "assetId": 259307
     },
@@ -1787,6 +1876,42 @@
       "price": 0,
       "resourceId": 50592590,
       "assetId": 260942
+    },
+    "50598253": {
+      "name": "Caleb Wiley",
+      "cardName": "Wiley",
+      "originalVersionId": "0",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        29
+      ],
+      "attributes": [
+        76,
+        52,
+        63,
+        72,
+        62,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 2000,
+      "resourceId": 50598253,
+      "assetId": 266605
     },
     "50600086": {
       "name": "Alejandro Garnacho",
@@ -1828,7 +1953,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 350,
       "resourceId": 50600086,
       "assetId": 268438
     },
@@ -1901,7 +2026,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 900,
       "resourceId": 50610461,
       "assetId": 278813
     },
@@ -1951,7 +2076,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 2049000,
+      "price": 2000000,
       "resourceId": 67185551,
       "assetId": 76687
     },
@@ -2050,7 +2175,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 615000,
+      "price": 592000,
       "resourceId": 67360906,
       "assetId": 252042
     },
@@ -2150,7 +2275,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 129000,
+      "price": 127000,
       "resourceId": 67366398,
       "assetId": 257534
     },
@@ -2201,7 +2326,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 300000,
+      "price": 304000,
       "resourceId": 67377302,
       "assetId": 268438
     }

@@ -420,7 +420,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 850,
       "resourceId": 233556,
       "assetId": 233556
     },
@@ -681,7 +681,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 242280,
       "assetId": 242280
     },
@@ -1124,7 +1124,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 269558,
       "assetId": 269558
     },
@@ -1160,7 +1160,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 10000,
       "resourceId": 271019,
       "assetId": 271019
     },
@@ -1336,9 +1336,61 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 28250,
+      "price": 22250,
       "resourceId": 50565204,
       "assetId": 233556
+    },
+    "50573928": {
+      "name": "Lewis Ferguson",
+      "cardName": "Ferguson",
+      "originalVersionId": "55",
+      "clubId": 189,
+      "leagueId": 31,
+      "countryId": 42,
+      "versionId": "55",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        16,
+        19,
+        20,
+        26
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        14,
+        19,
+        21,
+        31,
+        116,
+        118,
+        122,
+        133
+      ],
+      "attributes": [
+        82,
+        87,
+        84,
+        87,
+        83,
+        85
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50573928,
+      "assetId": 242280
     },
     "50576282": {
       "name": "Simon Sohm",
@@ -1418,7 +1470,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 22500,
+      "price": 25000,
       "resourceId": 50583708,
       "assetId": 252060
     },
@@ -1464,7 +1516,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 12250,
       "resourceId": 50599509,
       "assetId": 267861
     },
@@ -1504,7 +1556,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 26750,
+      "price": 27750,
       "resourceId": 50600351,
       "assetId": 268703
     },
@@ -1543,6 +1595,41 @@
       "price": 350,
       "resourceId": 50603225,
       "assetId": 271577
+    },
+    "50610372": {
+      "name": "Eivind Helland",
+      "cardName": "Helland",
+      "originalVersionId": "1",
+      "clubId": 189,
+      "leagueId": 31,
+      "countryId": 36,
+      "versionId": "3001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        48
+      ],
+      "attributes": [
+        70,
+        47,
+        52,
+        60,
+        64,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 2100,
+      "resourceId": 50610372,
+      "assetId": 278724
     }
   }
 }

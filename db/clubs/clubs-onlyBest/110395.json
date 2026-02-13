@@ -400,7 +400,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 190972,
       "assetId": 190972
     },
@@ -684,7 +684,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 235467,
       "assetId": 235467
     },
@@ -986,7 +986,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 5000,
       "resourceId": 262283,
       "assetId": 262283
     },
@@ -1320,7 +1320,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 22500,
+      "price": 25500,
       "resourceId": 50554066,
       "assetId": 222418
     },
@@ -1399,7 +1399,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 200,
       "resourceId": 50569968,
       "assetId": 238320
     },
@@ -1440,6 +1440,80 @@
       "price": 350,
       "resourceId": 50588055,
       "assetId": 256407
+    },
+    "50592210": {
+      "name": "Lucas Besozzi",
+      "cardName": "Besozzi",
+      "originalVersionId": "0",
+      "clubId": 110395,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        30
+      ],
+      "attributes": [
+        70,
+        63,
+        63,
+        69,
+        27,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50592210,
+      "assetId": 260562
+    },
+    "50599501": {
+      "name": "Maximiliano González",
+      "cardName": "González",
+      "originalVersionId": "0",
+      "clubId": 110395,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        56,
+        52,
+        57,
+        62,
+        63,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50599501,
+      "assetId": 267853
     }
   }
 }

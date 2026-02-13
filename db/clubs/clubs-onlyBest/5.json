@@ -34,7 +34,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 71651,
       "assetId": 71651
     },
@@ -115,7 +115,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1800,
       "resourceId": 202652,
       "assetId": 202652
     },
@@ -392,50 +392,6 @@
       "resourceId": 242578,
       "assetId": 242578
     },
-    "247090": {
-      "name": "Enzo Fernández",
-      "cardName": "Fernández",
-      "originalVersionId": "1",
-      "clubId": 5,
-      "leagueId": 13,
-      "countryId": 52,
-      "versionId": "3002",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        22,
-        24,
-        26
-      ],
-      "playStylesPlus": [
-        10
-      ],
-      "rolesPlus": [
-        16,
-        21,
-        32
-      ],
-      "attributes": [
-        68,
-        75,
-        85,
-        81,
-        73,
-        75
-      ],
-      "hasDynamicImage": false,
-      "price": 1500,
-      "resourceId": 247090,
-      "assetId": 247090
-    },
     "248158": {
       "name": "Gabriel Slonina",
       "cardName": "Slonina",
@@ -503,7 +459,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 248695,
       "assetId": 248695
     },
@@ -810,7 +766,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1300,
       "resourceId": 266032,
       "assetId": 266032
     },
@@ -894,7 +850,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 273018,
       "assetId": 273018
     },
@@ -1042,7 +998,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 700,
       "resourceId": 50403645,
       "assetId": 71997
     },
@@ -1143,9 +1099,98 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 250000,
+      "price": 248000,
       "resourceId": 50570264,
       "assetId": 238616
+    },
+    "50578738": {
+      "name": "Enzo Fernández",
+      "cardName": "Fernández",
+      "originalVersionId": "55",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 52,
+      "versionId": "55",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        13,
+        16,
+        2,
+        22,
+        24,
+        26
+      ],
+      "playStylesPlus": [
+        10,
+        8
+      ],
+      "rolesPlus": [
+        14,
+        18,
+        19,
+        32,
+        49,
+        116,
+        120,
+        121,
+        131
+      ],
+      "attributes": [
+        85,
+        85,
+        93,
+        92,
+        82,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 991000,
+      "resourceId": 50578738,
+      "assetId": 247090
+    },
+    "50588774": {
+      "name": "Teddy Sharman-Lowe",
+      "cardName": "Sharman-Lowe",
+      "originalVersionId": "0",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        62,
+        60,
+        63,
+        63,
+        40,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50588774,
+      "assetId": 257126
     },
     "50590955": {
       "name": "Malo Gusto",
@@ -1184,7 +1229,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 59500,
+      "price": 57000,
       "resourceId": 50590955,
       "assetId": 259307
     },
@@ -1223,6 +1268,42 @@
       "price": 0,
       "resourceId": 50592590,
       "assetId": 260942
+    },
+    "50598253": {
+      "name": "Caleb Wiley",
+      "cardName": "Wiley",
+      "originalVersionId": "0",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        29
+      ],
+      "attributes": [
+        76,
+        52,
+        63,
+        72,
+        62,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 2000,
+      "resourceId": 50598253,
+      "assetId": 266605
     },
     "50601143": {
       "name": "Facundo Buonanotte",
@@ -1293,7 +1374,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 900,
       "resourceId": 50610461,
       "assetId": 278813
     },
@@ -1343,7 +1424,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 2049000,
+      "price": 2000000,
       "resourceId": 67185551,
       "assetId": 76687
     },
@@ -1442,7 +1523,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 615000,
+      "price": 592000,
       "resourceId": 67360906,
       "assetId": 252042
     },
@@ -1542,7 +1623,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 129000,
+      "price": 127000,
       "resourceId": 67366398,
       "assetId": 257534
     },
@@ -1593,7 +1674,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 300000,
+      "price": 304000,
       "resourceId": 67377302,
       "assetId": 268438
     }

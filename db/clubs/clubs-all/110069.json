@@ -32,7 +32,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 800,
       "resourceId": 70333,
       "assetId": 70333
     },
@@ -383,7 +383,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 256058,
       "assetId": 256058
     },
@@ -420,7 +420,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 261993,
       "assetId": 261993
     },
@@ -529,6 +529,43 @@
       "resourceId": 277519,
       "assetId": 277519
     },
+    "50403036": {
+      "name": "Cabello",
+      "cardName": "Cabello",
+      "originalVersionId": "0",
+      "clubId": 110069,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        11,
+        48
+      ],
+      "attributes": [
+        67,
+        39,
+        57,
+        54,
+        68,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50403036,
+      "assetId": 71388
+    },
     "50403620": {
       "name": "Bauza",
       "cardName": "Bauza",
@@ -635,7 +672,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 50592987,
       "assetId": 261339
     },
@@ -672,6 +709,115 @@
       "price": 200,
       "resourceId": 50606981,
       "assetId": 275333
+    },
+    "50608624": {
+      "name": "Javi Hernández",
+      "cardName": "Javi Hernández",
+      "originalVersionId": "0",
+      "clubId": 110069,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        23
+      ],
+      "attributes": [
+        74,
+        61,
+        66,
+        69,
+        37,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 9500,
+      "resourceId": 50608624,
+      "assetId": 276976
+    },
+    "50609774": {
+      "name": "Selvi",
+      "cardName": "Selvi",
+      "originalVersionId": "0",
+      "clubId": 110069,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        17,
+        18
+      ],
+      "attributes": [
+        57,
+        46,
+        59,
+        58,
+        64,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50609774,
+      "assetId": 278126
+    },
+    "67183421": {
+      "name": "Ali Houary",
+      "cardName": "Ali Houary",
+      "originalVersionId": "0",
+      "clubId": 110069,
+      "leagueId": 54,
+      "countryId": 129,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31
+      ],
+      "attributes": [
+        62,
+        55,
+        60,
+        64,
+        40,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67183421,
+      "assetId": 74557
     }
   }
 }

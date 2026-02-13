@@ -134,7 +134,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 9500,
       "resourceId": 77095,
       "assetId": 77095
     },
@@ -544,7 +544,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 267309,
       "assetId": 267309
     },
@@ -840,55 +840,40 @@
       "resourceId": 274774,
       "assetId": 274774
     },
-    "50558538": {
-      "name": "Marta",
-      "cardName": "Marta",
-      "originalVersionId": "91",
+    "50401956": {
+      "name": "Hannah Anderson",
+      "cardName": "Anderson",
+      "originalVersionId": "0",
       "clubId": 116307,
       "leagueId": 2221,
-      "countryId": 54,
-      "versionId": "91",
-      "rating": 87,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "CAM",
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
       "possiblePositions": [
-        "CAM",
-        "RM",
-        "ST"
+        "CB"
       ],
-      "playStyles": [
-        13,
-        16,
-        20,
-        23,
-        3,
-        5
-      ],
-      "playStylesPlus": [
-        22
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
-        26,
-        33,
-        132,
-        134,
-        143
+        11,
+        48
       ],
       "attributes": [
-        80,
-        85,
-        87,
-        90,
-        46,
-        77
+        53,
+        41,
+        53,
+        55,
+        67,
+        68
       ],
-      "isObjective": true,
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 50558538,
-      "assetId": 226890
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50401956,
+      "assetId": 70308
     },
     "50577707": {
       "name": "Lizbeth Ovalle",
@@ -986,7 +971,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 18000,
       "resourceId": 50598888,
       "assetId": 267240
     },
@@ -1032,9 +1017,63 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 29750,
+      "price": 30000,
       "resourceId": 50608007,
       "assetId": 276359
+    },
+    "84112970": {
+      "name": "Marta",
+      "cardName": "Marta",
+      "originalVersionId": "55",
+      "clubId": 116307,
+      "leagueId": 2221,
+      "countryId": 54,
+      "versionId": "55",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        16,
+        20,
+        22,
+        23,
+        3,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        13
+      ],
+      "rolesPlus": [
+        23,
+        31,
+        33,
+        42,
+        126,
+        132,
+        134,
+        143
+      ],
+      "attributes": [
+        87,
+        90,
+        91,
+        93,
+        70,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 315000,
+      "resourceId": 84112970,
+      "assetId": 226890
     }
   }
 }

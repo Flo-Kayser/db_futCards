@@ -141,7 +141,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 250,
       "resourceId": 73511,
       "assetId": 73511
     },
@@ -324,7 +324,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 400,
       "resourceId": 216755,
       "assetId": 216755
     },
@@ -593,7 +593,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 200,
       "resourceId": 267973,
       "assetId": 267973
     },
@@ -629,7 +629,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 3800,
       "resourceId": 276023,
       "assetId": 276023
     },
@@ -705,7 +705,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 600,
       "resourceId": 277980,
       "assetId": 277980
     },
@@ -747,6 +747,44 @@
       "price": 200,
       "resourceId": 50401665,
       "assetId": 70017
+    },
+    "50404978": {
+      "name": "Morgan Bokele",
+      "cardName": "Bokele",
+      "originalVersionId": "0",
+      "clubId": 111276,
+      "leagueId": 17,
+      "countryId": 103,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        29
+      ],
+      "attributes": [
+        73,
+        58,
+        57,
+        68,
+        26,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50404978,
+      "assetId": 73330
     },
     "50578464": {
       "name": "Eddy Sylvestre",
@@ -823,9 +861,86 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 29000,
       "resourceId": 50583785,
       "assetId": 252137
+    },
+    "50602003": {
+      "name": "Lohann Doucet",
+      "cardName": "Doucet",
+      "originalVersionId": "0",
+      "clubId": 111276,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        16,
+        18
+      ],
+      "attributes": [
+        61,
+        50,
+        63,
+        66,
+        62,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 3500,
+      "resourceId": 50602003,
+      "assetId": 270355
+    },
+    "50608828": {
+      "name": "Bram Lagae",
+      "cardName": "Lagae",
+      "originalVersionId": "0",
+      "clubId": 111276,
+      "leagueId": 17,
+      "countryId": 7,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [
+        10,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        67,
+        34,
+        48,
+        54,
+        66,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50608828,
+      "assetId": 277180
     }
   }
 }

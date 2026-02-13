@@ -67,7 +67,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 650,
     "resourceId": 70958,
     "assetId": 70958
   },
@@ -101,7 +101,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 4400,
     "resourceId": 71943,
     "assetId": 71943
   },
@@ -240,7 +240,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 72798,
     "assetId": 72798
   },
@@ -424,7 +424,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 250,
     "resourceId": 75390,
     "assetId": 75390
   },
@@ -824,7 +824,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 213654,
     "assetId": 213654
   },
@@ -978,7 +978,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 500,
     "resourceId": 228312,
     "assetId": 228312
   },
@@ -1723,7 +1723,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 600,
     "resourceId": 258489,
     "assetId": 258489
   },
@@ -1831,7 +1831,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 200,
     "resourceId": 261375,
     "assetId": 261375
   },
@@ -2441,7 +2441,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 274855,
     "assetId": 274855
   },
@@ -2691,7 +2691,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 278167,
     "assetId": 278167
   },
@@ -2808,7 +2808,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 92500,
+    "price": 81500,
     "resourceId": 50337321,
     "assetId": 5673
   },
@@ -2843,7 +2843,7 @@
       49
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 50406276,
     "assetId": 74628
   },
@@ -2965,7 +2965,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 26000,
+    "price": 27000,
     "resourceId": 50522589,
     "assetId": 190941
   },
@@ -3006,7 +3006,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 23750,
     "resourceId": 50551813,
     "assetId": 220165
   },
@@ -3090,6 +3090,40 @@
     "resourceId": 50573171,
     "assetId": 241523
   },
+  "50586161": {
+    "name": "Carljohan Eriksson",
+    "cardName": "Eriksson",
+    "originalVersionId": "1",
+    "clubId": 112199,
+    "leagueId": 41,
+    "countryId": 17,
+    "versionId": "3001",
+    "rating": 65,
+    "preferredFoot": "Right",
+    "weakFoot": 1,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      2
+    ],
+    "attributes": [
+      63,
+      65,
+      64,
+      64,
+      54,
+      63
+    ],
+    "hasDynamicImage": false,
+    "price": 350,
+    "resourceId": 50586161,
+    "assetId": 254513
+  },
   "50594958": {
     "name": "Anssi Suhonen",
     "cardName": "Suhonen",
@@ -3168,8 +3202,47 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 22500,
+    "price": 24000,
     "resourceId": 50594991,
     "assetId": 263343
+  },
+  "67372174": {
+    "name": "Anssi Suhonen",
+    "cardName": "Suhonen",
+    "originalVersionId": "0",
+    "clubId": 272,
+    "leagueId": 1,
+    "countryId": 17,
+    "versionId": "2001",
+    "rating": 66,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [
+      20
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      21,
+      32
+    ],
+    "attributes": [
+      56,
+      57,
+      61,
+      73,
+      38,
+      51
+    ],
+    "hasDynamicImage": false,
+    "price": 750,
+    "resourceId": 67372174,
+    "assetId": 263310
   }
 }

@@ -750,7 +750,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 0,
       "resourceId": 259669,
       "assetId": 259669
     },
@@ -1040,9 +1040,46 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4700,
       "resourceId": 279117,
       "assetId": 279117
+    },
+    "50542669": {
+      "name": "Per Kristian Bråtveit",
+      "cardName": "Bråtveit",
+      "originalVersionId": "0",
+      "clubId": 77,
+      "leagueId": 50,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        65,
+        66,
+        67,
+        69,
+        48,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50542669,
+      "assetId": 211021
     },
     "50556965": {
       "name": "Kevin Nisbet",
@@ -1162,6 +1199,79 @@
       "hasDynamicImage": true,
       "resourceId": 50583782,
       "assetId": 252134
+    },
+    "50594009": {
+      "name": "Lyall Cameron",
+      "cardName": "Cameron",
+      "originalVersionId": "1",
+      "clubId": 77,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "3001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        11
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        33
+      ],
+      "attributes": [
+        77,
+        65,
+        66,
+        66,
+        59,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50594009,
+      "assetId": 262361
+    },
+    "50606945": {
+      "name": "Liam Morrison",
+      "cardName": "Morrison",
+      "originalVersionId": "0",
+      "clubId": 77,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        51,
+        31,
+        48,
+        55,
+        68,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50606945,
+      "assetId": 275297
     }
   }
 }

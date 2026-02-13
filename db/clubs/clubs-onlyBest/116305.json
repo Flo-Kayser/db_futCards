@@ -323,44 +323,6 @@
       "resourceId": 79255,
       "assetId": 79255
     },
-    "226335": {
-      "name": "Alyssa Naeher",
-      "cardName": "Naeher",
-      "originalVersionId": "0",
-      "clubId": 116305,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "2002",
-      "rating": 82,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        35
-      ],
-      "playStylesPlus": [
-        30
-      ],
-      "rolesPlus": [
-        1
-      ],
-      "attributes": [
-        83,
-        81,
-        83,
-        80,
-        46,
-        87
-      ],
-      "hasDynamicImage": false,
-      "price": 450,
-      "resourceId": 226335,
-      "assetId": 226335
-    },
     "226375": {
       "name": "Kathrin Hendrich",
       "cardName": "Hendrich",
@@ -400,7 +362,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 600,
       "resourceId": 226375,
       "assetId": 226375
     },
@@ -442,7 +404,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 228628,
       "assetId": 228628
     },
@@ -482,7 +444,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 247724,
       "assetId": 247724
     },
@@ -642,7 +604,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 267372,
       "assetId": 267372
     },
@@ -717,7 +679,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 268302,
       "assetId": 268302
     },
@@ -863,6 +825,52 @@
       "resourceId": 274810,
       "assetId": 274810
     },
+    "50557983": {
+      "name": "Alyssa Naeher",
+      "cardName": "Naeher",
+      "originalVersionId": "55",
+      "clubId": 116305,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "55",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        11,
+        30,
+        31,
+        32,
+        35,
+        8
+      ],
+      "playStylesPlus": [
+        34
+      ],
+      "rolesPlus": [
+        2,
+        101,
+        145
+      ],
+      "attributes": [
+        88,
+        86,
+        88,
+        85,
+        53,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 13000,
+      "resourceId": 50557983,
+      "assetId": 226335
+    },
     "50563721": {
       "name": "Mallory Swanson",
       "cardName": "Swanson",
@@ -909,7 +917,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 73000,
+      "price": 74500,
       "resourceId": 50563721,
       "assetId": 232073
     },

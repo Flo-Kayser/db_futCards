@@ -140,7 +140,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 250,
     "resourceId": 70515,
     "assetId": 70515
   },
@@ -1765,7 +1765,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 4000,
+    "price": 3800,
     "resourceId": 75141,
     "assetId": 75141
   },
@@ -2669,7 +2669,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 350,
     "resourceId": 197402,
     "assetId": 197402
   },
@@ -5881,7 +5881,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 3400,
     "resourceId": 242840,
     "assetId": 242840
   },
@@ -8292,7 +8292,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 1500,
     "resourceId": 271971,
     "assetId": 271971
   },
@@ -9064,7 +9064,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 2100,
+    "price": 1100,
     "resourceId": 276461,
     "assetId": 276461
   },
@@ -9541,7 +9541,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 277571,
     "assetId": 277571
   },
@@ -10053,7 +10053,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 24500,
     "resourceId": 50401711,
     "assetId": 70063
   },
@@ -10258,9 +10258,49 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 57500,
+    "price": 55500,
     "resourceId": 50509736,
     "assetId": 178088
+  },
+  "50552534": {
+    "name": "Bill Tuiloma",
+    "cardName": "Tuiloma",
+    "originalVersionId": "0",
+    "clubId": 111766,
+    "leagueId": 351,
+    "countryId": 198,
+    "versionId": "2001",
+    "rating": 65,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "RB"
+    ],
+    "playStyles": [
+      15,
+      27,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      11,
+      13
+    ],
+    "attributes": [
+      60,
+      52,
+      63,
+      56,
+      63,
+      73
+    ],
+    "hasDynamicImage": false,
+    "price": 10000,
+    "resourceId": 50552534,
+    "assetId": 220886
   },
   "50554188": {
     "name": "Nikolaos Vergos",
@@ -10301,7 +10341,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 23000,
     "resourceId": 50554188,
     "assetId": 222540
   },
@@ -10537,7 +10577,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 23750,
+    "price": 23000,
     "resourceId": 50584116,
     "assetId": 252468
   },
@@ -10574,6 +10614,43 @@
     "price": 200,
     "resourceId": 50592372,
     "assetId": 260724
+  },
+  "50593104": {
+    "name": "Sander Erik Kartum",
+    "cardName": "Kartum",
+    "originalVersionId": "1",
+    "clubId": 111766,
+    "leagueId": 351,
+    "countryId": 36,
+    "versionId": "3001",
+    "rating": 66,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      16,
+      22
+    ],
+    "attributes": [
+      72,
+      59,
+      64,
+      68,
+      58,
+      65
+    ],
+    "hasDynamicImage": false,
+    "price": 350,
+    "resourceId": 50593104,
+    "assetId": 261456
   },
   "50595547": {
     "name": "Rhys Bozinovski",
@@ -10652,7 +10729,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 45000,
+    "price": 40250,
     "resourceId": 50595711,
     "assetId": 264063
   },
@@ -10770,5 +10847,43 @@
     "price": 200,
     "resourceId": 50609804,
     "assetId": 278156
+  },
+  "67299508": {
+    "name": "Hiroshi Ibusuki",
+    "cardName": "Ibusuki",
+    "originalVersionId": "0",
+    "clubId": 112427,
+    "leagueId": 351,
+    "countryId": 163,
+    "versionId": "2001",
+    "rating": 67,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      19,
+      29,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      41
+    ],
+    "attributes": [
+      34,
+      68,
+      58,
+      61,
+      31,
+      74
+    ],
+    "hasDynamicImage": false,
+    "price": 9900,
+    "resourceId": 67299508,
+    "assetId": 190644
   }
 }

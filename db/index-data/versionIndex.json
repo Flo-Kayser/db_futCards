@@ -78,6 +78,32 @@
         "tertiaryColor": "#94792e"
       }
     },
+    "14": {
+      "count": 3,
+      "file": "db/versions/14.json",
+      "details": {
+        "name": "Knockout Royalty Hero",
+        "hasStrip": true,
+        "createdAt": "2026-02-12T23:00:00.406Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_14_0.png",
+        "primaryColor": "#f7e9ff",
+        "secondaryColor": "#5a0059",
+        "tertiaryColor": "#a43fa3"
+      }
+    },
+    "15": {
+      "count": 10,
+      "file": "db/versions/15.json",
+      "details": {
+        "name": "Knockout Royalty ICON",
+        "hasStrip": true,
+        "createdAt": "2026-02-12T23:00:00.406Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_15_0.png",
+        "primaryColor": "#54462c",
+        "secondaryColor": "#dbdbdb",
+        "tertiaryColor": "#94792e"
+      }
+    },
     "22": {
       "count": 59,
       "file": "db/versions/22.json",
@@ -222,7 +248,7 @@
       }
     },
     "43": {
-      "count": 4,
+      "count": 5,
       "file": "db/versions/43.json",
       "details": {
         "name": "POTM Premier League",
@@ -323,6 +349,19 @@
         "primaryColor": "#fff0be",
         "secondaryColor": "#961d25",
         "tertiaryColor": "#ff8f91"
+      }
+    },
+    "55": {
+      "count": 28,
+      "file": "db/versions/55.json",
+      "details": {
+        "name": "Knockout Royalty",
+        "hasStrip": true,
+        "createdAt": "2026-02-12T23:00:00.407Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_55_0.png",
+        "primaryColor": "#f2d7b1",
+        "secondaryColor": "#480012",
+        "tertiaryColor": "#755232"
       }
     },
     "57": {
@@ -742,7 +781,7 @@
       }
     },
     "2000": {
-      "count": 4750,
+      "count": 4772,
       "file": "db/versions/2000.json",
       "details": {
         "name": "Bronze Common",
@@ -755,7 +794,7 @@
       }
     },
     "2001": {
-      "count": 6663,
+      "count": 6844,
       "file": "db/versions/2001.json",
       "details": {
         "name": "Silver Common",
@@ -781,7 +820,7 @@
       }
     },
     "3000": {
-      "count": 2528,
+      "count": 2551,
       "file": "db/versions/3000.json",
       "details": {
         "name": "Bronze Rare",
@@ -794,7 +833,7 @@
       }
     },
     "3001": {
-      "count": 3510,
+      "count": 3552,
       "file": "db/versions/3001.json",
       "details": {
         "name": "Silver Rare",
@@ -821,8 +860,8 @@
     }
   },
   "meta": {
-    "totalVersions": 63,
-    "totalVersionsWithoutBase": 57,
-    "updatedAt": "2026-02-12T19:19:40.532Z"
+    "totalVersions": 66,
+    "totalVersionsWithoutBase": 60,
+    "updatedAt": "2026-02-13T19:08:59.487Z"
   }
 }

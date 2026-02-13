@@ -33,7 +33,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 75572,
       "assetId": 75572
     },
@@ -106,7 +106,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 75747,
       "assetId": 75747
     },
@@ -140,7 +140,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 350,
       "resourceId": 80807,
       "assetId": 80807
     },
@@ -182,7 +182,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 4700,
       "resourceId": 205452,
       "assetId": 205452
     },
@@ -224,47 +224,9 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 222509,
       "assetId": 222509
-    },
-    "228618": {
-      "name": "Ferland Mendy",
-      "cardName": "Mendy",
-      "originalVersionId": "1",
-      "clubId": 243,
-      "leagueId": 53,
-      "countryId": 18,
-      "versionId": "3002",
-      "rating": 81,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        15,
-        21
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9
-      ],
-      "attributes": [
-        85,
-        64,
-        74,
-        75,
-        78,
-        84
-      ],
-      "hasDynamicImage": false,
-      "price": 2500,
-      "resourceId": 228618,
-      "assetId": 228618
     },
     "231410": {
       "name": "Brahim",
@@ -383,7 +345,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 246606,
       "assetId": 246606
     },
@@ -491,7 +453,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 350,
       "resourceId": 279173,
       "assetId": 279173
     },
@@ -585,7 +547,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 119000,
+      "price": 118000,
       "resourceId": 50529093,
       "assetId": 197445
     },
@@ -635,9 +597,59 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 359000,
+      "price": 367000,
       "resourceId": 50536611,
       "assetId": 204963
+    },
+    "50560266": {
+      "name": "Ferland Mendy",
+      "cardName": "Mendy",
+      "originalVersionId": "55",
+      "clubId": 243,
+      "leagueId": 53,
+      "countryId": 18,
+      "versionId": "55",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12,
+        14,
+        15,
+        16,
+        18,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        8,
+        10,
+        28,
+        107,
+        109,
+        127
+      ],
+      "attributes": [
+        91,
+        70,
+        80,
+        81,
+        84,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 418000,
+      "resourceId": 50560266,
+      "assetId": 228618
     },
     "50562929": {
       "name": "Trent Alexander-Arnold",
@@ -681,57 +693,9 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 220000,
+      "price": 235000,
       "resourceId": 50562929,
       "assetId": 231281
-    },
-    "50570442": {
-      "name": "Vini Jr.",
-      "cardName": "Vini Jr.",
-      "originalVersionId": "3",
-      "clubId": 243,
-      "leagueId": 53,
-      "countryId": 54,
-      "versionId": "3",
-      "rating": 90,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        1,
-        13,
-        21,
-        22,
-        7
-      ],
-      "playStylesPlus": [
-        25
-      ],
-      "rolesPlus": [
-        30,
-        38,
-        139,
-        143
-      ],
-      "attributes": [
-        96,
-        85,
-        82,
-        92,
-        31,
-        70
-      ],
-      "hasDynamicImage": true,
-      "price": 842000,
-      "resourceId": 50570442,
-      "assetId": 238794
     },
     "50573285": {
       "name": "Aurélien Tchouaméni",
@@ -777,7 +741,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 610000,
+      "price": 606000,
       "resourceId": 50573285,
       "assetId": 241637
     },
@@ -829,7 +793,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 419000,
+      "price": 430000,
       "resourceId": 50579891,
       "assetId": 248243
     },
@@ -923,7 +887,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 594000,
+      "price": 586000,
       "resourceId": 50604153,
       "assetId": 272505
     },
@@ -966,65 +930,9 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 22000,
+      "price": 22750,
       "resourceId": 50610047,
       "assetId": 278399
-    },
-    "67347658": {
-      "name": "Vini Jr.",
-      "cardName": "Vini Jr.",
-      "originalVersionId": "151",
-      "clubId": 243,
-      "leagueId": 53,
-      "countryId": 54,
-      "versionId": "151",
-      "rating": 90,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        1,
-        13,
-        21,
-        22,
-        25,
-        7
-      ],
-      "playStylesPlus": [
-        6
-      ],
-      "rolesPlus": [
-        127,
-        128,
-        129,
-        130,
-        138,
-        139,
-        140,
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        95,
-        88,
-        81,
-        92,
-        30,
-        75
-      ],
-      "hasDynamicImage": true,
-      "price": 1319000,
-      "resourceId": 67347658,
-      "assetId": 238794
     },
     "67347917": {
       "name": "Federico Valverde",
@@ -1073,7 +981,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 599000,
+      "price": 600000,
       "resourceId": 67347917,
       "assetId": 239053
     },
@@ -1118,7 +1026,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 450000,
+      "price": 400000,
       "resourceId": 67348994,
       "assetId": 240130
     },
@@ -1178,7 +1086,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 1115000,
+      "price": 1030000,
       "resourceId": 67361235,
       "assetId": 252371
     },
@@ -1229,7 +1137,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 1470000,
+      "price": 1452000,
       "resourceId": 67377753,
       "assetId": 268889
     },
@@ -1276,9 +1184,65 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 2000000,
+      "price": 1988000,
       "resourceId": 67387213,
       "assetId": 278349
+    },
+    "84124874": {
+      "name": "Vini Jr.",
+      "cardName": "Vini Jr.",
+      "originalVersionId": "55",
+      "clubId": 243,
+      "leagueId": 53,
+      "countryId": 54,
+      "versionId": "55",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        13,
+        20,
+        22,
+        25,
+        26,
+        7
+      ],
+      "playStylesPlus": [
+        0,
+        21
+      ],
+      "rolesPlus": [
+        27,
+        28,
+        38,
+        41,
+        42,
+        129,
+        130,
+        139,
+        140,
+        143
+      ],
+      "attributes": [
+        97,
+        90,
+        83,
+        94,
+        32,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84124874,
+      "assetId": 238794
     },
     "84125133": {
       "name": "Federico Valverde",
@@ -1328,7 +1292,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 564000,
+      "price": 576000,
       "resourceId": 84125133,
       "assetId": 239053
     },
@@ -1380,7 +1344,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 843000,
+      "price": 917000,
       "resourceId": 84129892,
       "assetId": 243812
     },
@@ -1433,7 +1397,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 14970000,
+      "price": 14999000,
       "resourceId": 117672259,
       "assetId": 231747
     }

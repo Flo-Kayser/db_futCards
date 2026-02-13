@@ -31,7 +31,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 650,
       "resourceId": 73838,
       "assetId": 73838
     },
@@ -104,7 +104,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 700,
       "resourceId": 74520,
       "assetId": 74520
     },
@@ -141,7 +141,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 74533,
       "assetId": 74533
     },
@@ -178,7 +178,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 750,
       "resourceId": 74536,
       "assetId": 74536
     },
@@ -212,7 +212,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 300,
       "resourceId": 75448,
       "assetId": 75448
     },
@@ -246,7 +246,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 300,
       "resourceId": 75449,
       "assetId": 75449
     },
@@ -428,7 +428,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2000,
       "resourceId": 268466,
       "assetId": 268466
     },
@@ -499,7 +499,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 200,
       "resourceId": 268897,
       "assetId": 268897
     },
@@ -757,6 +757,42 @@
       "resourceId": 279877,
       "assetId": 279877
     },
+    "50404509": {
+      "name": "Antonio Fiori",
+      "cardName": "Fiori",
+      "originalVersionId": "0",
+      "clubId": 111657,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        29
+      ],
+      "attributes": [
+        75,
+        66,
+        61,
+        72,
+        28,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 9800,
+      "resourceId": 50404509,
+      "assetId": 72861
+    },
     "50584768": {
       "name": "Ben Lhassine Kone",
       "cardName": "Kone",
@@ -866,9 +902,46 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 21750,
+      "price": 23500,
       "resourceId": 50601712,
       "assetId": 270064
+    },
+    "50609998": {
+      "name": "Seydou Fini",
+      "cardName": "Fini",
+      "originalVersionId": "0",
+      "clubId": 111657,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23
+      ],
+      "attributes": [
+        78,
+        57,
+        56,
+        67,
+        31,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 7500,
+      "resourceId": 50609998,
+      "assetId": 278350
     }
   }
 }

@@ -34,7 +34,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 750,
       "resourceId": 79293,
       "assetId": 79293
     },
@@ -68,7 +68,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 550,
       "resourceId": 79505,
       "assetId": 79505
     },
@@ -143,7 +143,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 600,
       "resourceId": 194781,
       "assetId": 194781
     },
@@ -182,7 +182,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 600,
       "resourceId": 229683,
       "assetId": 229683
     },
@@ -226,7 +226,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 850,
       "resourceId": 244193,
       "assetId": 244193
     },
@@ -265,7 +265,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 650,
       "resourceId": 245240,
       "assetId": 245240
     },
@@ -345,7 +345,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 600,
       "resourceId": 247955,
       "assetId": 247955
     },
@@ -381,7 +381,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 650,
       "resourceId": 253193,
       "assetId": 253193
     },
@@ -419,7 +419,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 6300,
       "resourceId": 254258,
       "assetId": 254258
     },
@@ -453,7 +453,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 650,
       "resourceId": 263813,
       "assetId": 263813
     },
@@ -489,7 +489,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 900,
       "resourceId": 264092,
       "assetId": 264092
     },
@@ -526,7 +526,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 600,
       "resourceId": 264450,
       "assetId": 264450
     },
@@ -561,7 +561,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 264743,
       "assetId": 264743
     },
@@ -598,7 +598,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 700,
       "resourceId": 266848,
       "assetId": 266848
     },
@@ -671,9 +671,45 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 550,
       "resourceId": 279565,
       "assetId": 279565
+    },
+    "50404325": {
+      "name": "Tom Moustier",
+      "cardName": "Moustier",
+      "originalVersionId": "0",
+      "clubId": 718,
+      "leagueId": 308,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        65,
+        55,
+        62,
+        66,
+        61,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50404325,
+      "assetId": 72677
     },
     "50575841": {
       "name": "Jovane Cabral",
@@ -721,9 +757,47 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 22000,
+      "price": 22750,
       "resourceId": 50575841,
       "assetId": 244193
+    },
+    "50586162": {
+      "name": "Kevin Höög Jansson",
+      "cardName": "Höög Jansson",
+      "originalVersionId": "0",
+      "clubId": 718,
+      "leagueId": 308,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        15,
+        48
+      ],
+      "attributes": [
+        52,
+        53,
+        57,
+        59,
+        60,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50586162,
+      "assetId": 254514
     }
   }
 }
