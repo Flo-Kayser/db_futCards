@@ -35,51 +35,6 @@
       "resourceId": 50402779,
       "assetId": 71131
     },
-    "50577450": {
-      "name": "Beth Mead",
-      "cardName": "Mead",
-      "originalVersionId": "3",
-      "clubId": 116009,
-      "leagueId": 2216,
-      "countryId": 14,
-      "versionId": "3",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        12,
-        2,
-        20,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        22
-      ],
-      "rolesPlus": [
-        25,
-        126,
-        135
-      ],
-      "attributes": [
-        84,
-        86,
-        85,
-        88,
-        68,
-        75
-      ],
-      "hasDynamicImage": true,
-      "price": 25750,
-      "resourceId": 50577450,
-      "assetId": 245802
-    },
     "50577520": {
       "name": "Kim Little",
       "cardName": "Little",
@@ -221,7 +176,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 36250,
       "resourceId": 50588649,
       "assetId": 257001
     },
@@ -262,7 +217,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 20250,
+      "price": 21500,
       "resourceId": 50594661,
       "assetId": 263013
     },
@@ -307,7 +262,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 29500,
+      "price": 25750,
       "resourceId": 50596887,
       "assetId": 265239
     },
@@ -404,9 +359,64 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 2790000,
+      "price": 2690000,
       "resourceId": 67346152,
       "assetId": 237288
+    },
+    "67354666": {
+      "name": "Beth Mead",
+      "cardName": "Mead",
+      "originalVersionId": "55",
+      "clubId": 116009,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "55",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        22,
+        25,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        12
+      ],
+      "rolesPlus": [
+        23,
+        26,
+        37,
+        44,
+        135,
+        136,
+        138,
+        139,
+        141
+      ],
+      "attributes": [
+        89,
+        88,
+        87,
+        90,
+        70,
+        77
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 39100,
+      "price": 37900,
+      "resourceId": 67354666,
+      "assetId": 245802
     },
     "67355290": {
       "name": "Leah Williamson",
@@ -455,7 +465,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 847000,
+      "price": 890000,
       "resourceId": 67355290,
       "assetId": 246426
     },
@@ -509,7 +519,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 1200000,
+      "price": 1170000,
       "resourceId": 67367844,
       "assetId": 258980
     },
@@ -556,7 +566,7 @@
         90
       ],
       "hasDynamicImage": false,
-      "price": 70000,
+      "price": 66000,
       "resourceId": 67385163,
       "assetId": 276299
     },
@@ -621,7 +631,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 1245000,
+      "price": 1225000,
       "resourceId": 67385416,
       "assetId": 276552
     }

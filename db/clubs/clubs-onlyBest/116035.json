@@ -34,7 +34,7 @@
         46
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 2300,
       "resourceId": 72078,
       "assetId": 72078
     },
@@ -258,7 +258,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 4800,
+      "price": 2500,
       "resourceId": 265027,
       "assetId": 265027
     },
@@ -332,7 +332,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 269811,
       "assetId": 269811
     },
@@ -507,45 +507,9 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 275399,
       "assetId": 275399
-    },
-    "276548": {
-      "name": "Océane Picard",
-      "cardName": "Picard",
-      "originalVersionId": "0",
-      "clubId": 116035,
-      "leagueId": 2218,
-      "countryId": 18,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        33
-      ],
-      "attributes": [
-        66,
-        68,
-        74,
-        77,
-        50,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 276548,
-      "assetId": 276548
     },
     "276765": {
       "name": "Klaudia Jedlińska",
@@ -666,7 +630,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 22500,
       "resourceId": 50577345,
       "assetId": 245697
     },
@@ -701,7 +665,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 50596675,
       "assetId": 265027
     },
@@ -753,7 +717,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 17250,
       "resourceId": 50597509,
       "assetId": 265861
     },
@@ -791,6 +755,58 @@
       "price": 0,
       "resourceId": 50601620,
       "assetId": 269972
+    },
+    "50608196": {
+      "name": "Océane Picard",
+      "cardName": "Picard",
+      "originalVersionId": "58",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "58",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        13,
+        20,
+        6,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        16,
+        20,
+        33,
+        118,
+        121,
+        131,
+        149
+      ],
+      "attributes": [
+        84,
+        85,
+        88,
+        89,
+        84,
+        82
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 26200,
+      "price": 24600,
+      "resourceId": 50608196,
+      "assetId": 276548
     },
     "50608473": {
       "name": "Melween N'Dongala",
@@ -872,7 +888,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 750,
       "resourceId": 50608819,
       "assetId": 277171
     }
