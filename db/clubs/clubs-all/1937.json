@@ -220,7 +220,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 211299,
       "assetId": 211299
     },
@@ -932,7 +932,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 278121,
       "assetId": 278121
     },
@@ -1008,6 +1008,42 @@
       "resourceId": 278986,
       "assetId": 278986
     },
+    "50410062": {
+      "name": "Lee Ndlovu",
+      "cardName": "Ndlovu",
+      "originalVersionId": "0",
+      "clubId": 1937,
+      "leagueId": 61,
+      "countryId": 148,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        70,
+        59,
+        39,
+        57,
+        29,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50410062,
+      "assetId": 78414
+    },
     "50571320": {
       "name": "Harald Nilsen Tangen",
       "cardName": "Tangen",
@@ -1044,6 +1080,40 @@
       "price": 200,
       "resourceId": 50571320,
       "assetId": 239672
+    },
+    "50589510": {
+      "name": "James Belshaw",
+      "cardName": "Belshaw",
+      "originalVersionId": "1",
+      "clubId": 1937,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "3000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        61,
+        59,
+        60,
+        63,
+        50,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50589510,
+      "assetId": 257862
     }
   }
 }

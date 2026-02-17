@@ -106,7 +106,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 1700,
     "resourceId": 70994,
     "assetId": 70994
   },
@@ -176,7 +176,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 700,
     "resourceId": 71814,
     "assetId": 71814
   },
@@ -735,7 +735,7 @@
       46
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 77732,
     "assetId": 77732
   },
@@ -873,7 +873,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5000,
     "resourceId": 79342,
     "assetId": 79342
   },
@@ -3156,7 +3156,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 76000,
+    "price": 72000,
     "resourceId": 247703,
     "assetId": 247703
   },
@@ -3342,7 +3342,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 1100,
     "resourceId": 251421,
     "assetId": 251421
   },
@@ -3756,7 +3756,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 259766,
     "assetId": 259766
   },
@@ -4088,7 +4088,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 4000,
+    "price": 10000,
     "resourceId": 264299,
     "assetId": 264299
   },
@@ -4459,7 +4459,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 10000,
     "resourceId": 265789,
     "assetId": 265789
   },
@@ -4937,7 +4937,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 250,
     "resourceId": 271235,
     "assetId": 271235
   },
@@ -5651,7 +5651,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 34250,
+    "price": 32000,
     "resourceId": 50537571,
     "assetId": 205923
   },
@@ -5690,7 +5690,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 26750,
     "resourceId": 50548275,
     "assetId": 216627
   },
@@ -5738,7 +5738,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 18500,
     "resourceId": 50551844,
     "assetId": 220196
   },
@@ -5780,7 +5780,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 30500,
     "resourceId": 50552358,
     "assetId": 220710
   },
@@ -5976,6 +5976,40 @@
     "resourceId": 50572421,
     "assetId": 240773
   },
+  "50577814": {
+    "name": "David Harrington",
+    "cardName": "Harrington",
+    "originalVersionId": "1",
+    "clubId": 4,
+    "leagueId": 60,
+    "countryId": 50,
+    "versionId": "3000",
+    "rating": 60,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      1
+    ],
+    "attributes": [
+      61,
+      61,
+      60,
+      60,
+      21,
+      60
+    ],
+    "hasDynamicImage": false,
+    "price": 5100,
+    "resourceId": 50577814,
+    "assetId": 246166
+  },
   "50580336": {
     "name": "Oliver Cooper",
     "cardName": "Cooper",
@@ -6052,7 +6086,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 950,
+    "price": 800,
     "resourceId": 50583069,
     "assetId": 251421
   },
@@ -6286,7 +6320,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 30250,
+    "price": 29750,
     "resourceId": 50598849,
     "assetId": 267201
   },
@@ -6558,8 +6592,45 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 10463000,
+    "price": 9999000,
     "resourceId": 67180421,
     "assetId": 71557
+  },
+  "67377752": {
+    "name": "Joel Cotterill",
+    "cardName": "Cotterill",
+    "originalVersionId": "1",
+    "clubId": 180,
+    "leagueId": 50,
+    "countryId": 50,
+    "versionId": "3000",
+    "rating": 59,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      18,
+      23
+    ],
+    "attributes": [
+      70,
+      55,
+      56,
+      60,
+      51,
+      65
+    ],
+    "hasDynamicImage": false,
+    "price": 5100,
+    "resourceId": 67377752,
+    "assetId": 268888
   }
 }

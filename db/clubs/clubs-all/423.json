@@ -535,7 +535,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1700,
       "resourceId": 243764,
       "assetId": 243764
     },
@@ -763,7 +763,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 258122,
       "assetId": 258122
     },
@@ -943,9 +943,44 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 1600,
       "resourceId": 276346,
       "assetId": 276346
+    },
+    "50575075": {
+      "name": "Ryan Edmondson",
+      "cardName": "Edmondson",
+      "originalVersionId": "1",
+      "clubId": 423,
+      "leagueId": 65,
+      "countryId": 14,
+      "versionId": "3000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        42
+      ],
+      "attributes": [
+        57,
+        61,
+        47,
+        56,
+        32,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50575075,
+      "assetId": 243427
     },
     "50585591": {
       "name": "Ronan Boyce",
@@ -987,6 +1022,42 @@
       "price": 200,
       "resourceId": 50585591,
       "assetId": 253943
+    },
+    "50585786": {
+      "name": "Max Mata",
+      "cardName": "Mata",
+      "originalVersionId": "1",
+      "clubId": 423,
+      "leagueId": 65,
+      "countryId": 198,
+      "versionId": "3000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        44
+      ],
+      "attributes": [
+        72,
+        60,
+        49,
+        56,
+        24,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50585786,
+      "assetId": 254138
     }
   }
 }

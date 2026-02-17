@@ -73,7 +73,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 200,
       "resourceId": 73406,
       "assetId": 73406
     },
@@ -147,7 +147,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 850,
       "resourceId": 77233,
       "assetId": 77233
     },
@@ -306,7 +306,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 1100,
       "resourceId": 204311,
       "assetId": 204311
     },
@@ -447,7 +447,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1200,
       "resourceId": 224977,
       "assetId": 224977
     },
@@ -485,7 +485,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 7800,
       "resourceId": 226414,
       "assetId": 226414
     },
@@ -633,7 +633,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 243210,
       "assetId": 243210
     },
@@ -713,7 +713,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 246827,
       "assetId": 246827
     },
@@ -749,7 +749,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 248443,
       "assetId": 248443
     },
@@ -857,7 +857,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 2300,
       "resourceId": 248674,
       "assetId": 248674
     },
@@ -1041,7 +1041,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 450,
       "resourceId": 266075,
       "assetId": 266075
     },
@@ -1109,7 +1109,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 800,
       "resourceId": 271164,
       "assetId": 271164
     },
@@ -1220,9 +1220,80 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 600,
       "resourceId": 278333,
       "assetId": 278333
+    },
+    "50559075": {
+      "name": "Alibek Aliev",
+      "cardName": "Aliev",
+      "originalVersionId": "1",
+      "clubId": 114385,
+      "leagueId": 330,
+      "countryId": 46,
+      "versionId": "3000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        73,
+        62,
+        48,
+        59,
+        31,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50559075,
+      "assetId": 227427
+    },
+    "50575046": {
+      "name": "Christopher Braun",
+      "cardName": "Braun",
+      "originalVersionId": "0",
+      "clubId": 114385,
+      "leagueId": 330,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        9
+      ],
+      "attributes": [
+        73,
+        44,
+        57,
+        60,
+        58,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 3000,
+      "resourceId": 50575046,
+      "assetId": 243398
     },
     "50582884": {
       "name": "Andrei Cordea",
@@ -1264,9 +1335,43 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 21250,
+      "price": 17500,
       "resourceId": 50582884,
       "assetId": 251236
+    },
+    "50585336": {
+      "name": "Mihai Popa",
+      "cardName": "Popa",
+      "originalVersionId": "1",
+      "clubId": 114385,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        63,
+        62,
+        60,
+        65,
+        41,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50585336,
+      "assetId": 253688
     }
   }
 }

@@ -67,7 +67,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 4700,
+      "price": 4100,
       "resourceId": 72697,
       "assetId": 72697
     },
@@ -371,7 +371,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 220045,
       "assetId": 220045
     },
@@ -561,7 +561,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 800,
       "resourceId": 238958,
       "assetId": 238958
     },
@@ -921,6 +921,44 @@
       "resourceId": 277007,
       "assetId": 277007
     },
+    "50535148": {
+      "name": "Danny Rose",
+      "cardName": "Rose",
+      "originalVersionId": "0",
+      "clubId": 381,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        18,
+        19,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        76,
+        61,
+        54,
+        65,
+        45,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50535148,
+      "assetId": 203500
+    },
     "50571152": {
       "name": "Josh Gordon",
       "cardName": "Gordon",
@@ -956,6 +994,41 @@
       "price": 200,
       "resourceId": 50571152,
       "assetId": 239504
+    },
+    "50605546": {
+      "name": "Joe Anderson",
+      "cardName": "Anderson",
+      "originalVersionId": "1",
+      "clubId": 381,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        48
+      ],
+      "attributes": [
+        53,
+        35,
+        48,
+        50,
+        63,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50605546,
+      "assetId": 273898
     }
   }
 }

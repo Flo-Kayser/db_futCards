@@ -210,7 +210,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 72918,
     "assetId": 72918
   },
@@ -437,7 +437,7 @@
       50
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 73844,
     "assetId": 73844
   },
@@ -682,7 +682,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 2900,
+    "price": 400,
     "resourceId": 75577,
     "assetId": 75577
   },
@@ -753,7 +753,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 76105,
     "assetId": 76105
   },
@@ -929,7 +929,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 4200,
+    "price": 4000,
     "resourceId": 78259,
     "assetId": 78259
   },
@@ -1177,7 +1177,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5000,
     "resourceId": 79342,
     "assetId": 79342
   },
@@ -1211,7 +1211,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 79681,
     "assetId": 79681
   },
@@ -1747,7 +1747,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 1700,
+    "price": 0,
     "resourceId": 166764,
     "assetId": 166764
   },
@@ -2570,7 +2570,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 950,
+    "price": 750,
     "resourceId": 203042,
     "assetId": 203042
   },
@@ -3223,7 +3223,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 213693,
     "assetId": 213693
   },
@@ -4472,7 +4472,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 750,
     "resourceId": 228174,
     "assetId": 228174
   },
@@ -4937,7 +4937,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 800,
     "resourceId": 234570,
     "assetId": 234570
   },
@@ -6736,7 +6736,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 950,
+    "price": 800,
     "resourceId": 246321,
     "assetId": 246321
   },
@@ -6774,7 +6774,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 4100,
+    "price": 5000,
     "resourceId": 246680,
     "assetId": 246680
   },
@@ -8025,7 +8025,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 200,
     "resourceId": 257104,
     "assetId": 257104
   },
@@ -8613,7 +8613,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 9900,
+    "price": 10000,
     "resourceId": 259402,
     "assetId": 259402
   },
@@ -9425,7 +9425,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 500,
     "resourceId": 263304,
     "assetId": 263304
   },
@@ -11483,7 +11483,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 1900,
+    "price": 550,
     "resourceId": 279117,
     "assetId": 279117
   },
@@ -11711,9 +11711,83 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 143000,
+    "price": 180000,
     "resourceId": 50542741,
     "assetId": 211093
+  },
+  "50542947": {
+    "name": "Kelle Roos",
+    "cardName": "Roos",
+    "originalVersionId": "1",
+    "clubId": 82,
+    "leagueId": 50,
+    "countryId": 34,
+    "versionId": "3000",
+    "rating": 64,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      1
+    ],
+    "attributes": [
+      65,
+      61,
+      62,
+      64,
+      42,
+      64
+    ],
+    "hasDynamicImage": false,
+    "price": 5100,
+    "resourceId": 50542947,
+    "assetId": 211299
+  },
+  "50551115": {
+    "name": "Bradley Halliday",
+    "cardName": "Halliday",
+    "originalVersionId": "1",
+    "clubId": 180,
+    "leagueId": 50,
+    "countryId": 14,
+    "versionId": "3000",
+    "rating": 64,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      14
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      5,
+      6,
+      25
+    ],
+    "attributes": [
+      77,
+      40,
+      54,
+      60,
+      58,
+      72
+    ],
+    "hasDynamicImage": false,
+    "price": 5100,
+    "resourceId": 50551115,
+    "assetId": 219467
   },
   "50553693": {
     "name": "Craig Halkett",
@@ -11750,7 +11824,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 31750,
+    "price": 30000,
     "resourceId": 50553693,
     "assetId": 222045
   },
@@ -11906,7 +11980,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 19750,
+    "price": 24000,
     "resourceId": 50559593,
     "assetId": 227945
   },
@@ -12022,6 +12096,40 @@
     "resourceId": 50567969,
     "assetId": 236321
   },
+  "50568853": {
+    "name": "Ashley Maynard-Brewer",
+    "cardName": "Maynard-Brewer",
+    "originalVersionId": "0",
+    "clubId": 181,
+    "leagueId": 50,
+    "countryId": 195,
+    "versionId": "2000",
+    "rating": 64,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      2
+    ],
+    "attributes": [
+      66,
+      61,
+      63,
+      66,
+      39,
+      60
+    ],
+    "hasDynamicImage": false,
+    "price": 5100,
+    "resourceId": 50568853,
+    "assetId": 237205
+  },
   "50571458": {
     "name": "Nicolas Raskin",
     "cardName": "Raskin",
@@ -12066,7 +12174,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 17000,
     "resourceId": 50571458,
     "assetId": 239810
   },
@@ -12153,7 +12261,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 15250,
     "resourceId": 50571708,
     "assetId": 240060
   },
@@ -12338,6 +12446,118 @@
     "price": 200,
     "resourceId": 50577944,
     "assetId": 246296
+  },
+  "50578508": {
+    "name": "Odin Thiago Holm",
+    "cardName": "Holm",
+    "originalVersionId": "1",
+    "clubId": 78,
+    "leagueId": 50,
+    "countryId": 36,
+    "versionId": "3000",
+    "rating": 64,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      18
+    ],
+    "attributes": [
+      76,
+      55,
+      64,
+      64,
+      55,
+      59
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50578508,
+    "assetId": 246860
+  },
+  "50578649": {
+    "name": "Neil Farrugia",
+    "cardName": "Farrugia",
+    "originalVersionId": "0",
+    "clubId": 181,
+    "leagueId": 50,
+    "countryId": 25,
+    "versionId": "2000",
+    "rating": 64,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "RB"
+    ],
+    "playStyles": [
+      21
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      6,
+      9,
+      10
+    ],
+    "attributes": [
+      84,
+      54,
+      57,
+      64,
+      55,
+      66
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50578649,
+    "assetId": 247001
+  },
+  "50580487": {
+    "name": "Jake Young",
+    "cardName": "Young",
+    "originalVersionId": "0",
+    "clubId": 100805,
+    "leagueId": 50,
+    "countryId": 14,
+    "versionId": "2000",
+    "rating": 64,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      30,
+      42
+    ],
+    "attributes": [
+      80,
+      62,
+      47,
+      62,
+      25,
+      63
+    ],
+    "hasDynamicImage": false,
+    "price": 5100,
+    "resourceId": 50580487,
+    "assetId": 248839
   },
   "50583782": {
     "name": "Leighton Clarkson",
@@ -12582,7 +12802,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 2100,
+    "price": 1000,
     "resourceId": 50588856,
     "assetId": 257208
   },
@@ -12619,6 +12839,43 @@
     "price": 200,
     "resourceId": 50591050,
     "assetId": 259402
+  },
+  "50592952": {
+    "name": "Adam Montgomery",
+    "cardName": "Montgomery",
+    "originalVersionId": "0",
+    "clubId": 78,
+    "leagueId": 50,
+    "countryId": 42,
+    "versionId": "2000",
+    "rating": 63,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      20
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      7
+    ],
+    "attributes": [
+      75,
+      53,
+      58,
+      67,
+      57,
+      61
+    ],
+    "hasDynamicImage": false,
+    "price": 1200,
+    "resourceId": 50592952,
+    "assetId": 261304
   },
   "50594009": {
     "name": "Lyall Cameron",
@@ -12920,6 +13177,43 @@
     "resourceId": 50609239,
     "assetId": 277591
   },
+  "50609452": {
+    "name": "Louie Marsh",
+    "cardName": "Marsh",
+    "originalVersionId": "1",
+    "clubId": 79,
+    "leagueId": 50,
+    "countryId": 14,
+    "versionId": "3000",
+    "rating": 60,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      33,
+      42
+    ],
+    "attributes": [
+      68,
+      58,
+      55,
+      62,
+      42,
+      50
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 50609452,
+    "assetId": 277804
+  },
   "67335355": {
     "name": "Kieran Tierney",
     "cardName": "Tierney",
@@ -12967,6 +13261,44 @@
     "sbcPrice": 19500,
     "resourceId": 67335355,
     "assetId": 226491
+  },
+  "67341506": {
+    "name": "Toyosi Olusanya",
+    "cardName": "Olusanya",
+    "originalVersionId": "0",
+    "clubId": 77,
+    "leagueId": 50,
+    "countryId": 14,
+    "versionId": "2000",
+    "rating": 62,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      21
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      36,
+      42
+    ],
+    "attributes": [
+      83,
+      60,
+      51,
+      64,
+      22,
+      42
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 67341506,
+    "assetId": 232642
   },
   "67355783": {
     "name": "Tomáš Čvančara",
@@ -13086,6 +13418,43 @@
     "resourceId": 67366072,
     "assetId": 257208
   },
+  "67377752": {
+    "name": "Joel Cotterill",
+    "cardName": "Cotterill",
+    "originalVersionId": "1",
+    "clubId": 180,
+    "leagueId": 50,
+    "countryId": 50,
+    "versionId": "3000",
+    "rating": 59,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      18,
+      23
+    ],
+    "attributes": [
+      70,
+      55,
+      56,
+      60,
+      51,
+      65
+    ],
+    "hasDynamicImage": false,
+    "price": 5100,
+    "resourceId": 67377752,
+    "assetId": 268888
+  },
   "67379730": {
     "name": "Youssef Chermiti",
     "cardName": "Chermiti",
@@ -13125,7 +13494,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 19500,
+    "price": 20750,
     "resourceId": 67379730,
     "assetId": 270866
   }
