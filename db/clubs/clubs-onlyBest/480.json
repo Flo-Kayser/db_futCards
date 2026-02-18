@@ -104,7 +104,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 800,
       "resourceId": 74551,
       "assetId": 74551
     },
@@ -542,7 +542,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1100,
       "resourceId": 248165,
       "assetId": 248165
     },
@@ -657,7 +657,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 9800,
+      "price": 0,
       "resourceId": 251756,
       "assetId": 251756
     },
@@ -807,44 +807,9 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 1500,
       "resourceId": 272486,
       "assetId": 272486
-    },
-    "276633": {
-      "name": "Nobel Mendy",
-      "cardName": "Mendy",
-      "originalVersionId": "0",
-      "clubId": 480,
-      "leagueId": 53,
-      "countryId": 18,
-      "versionId": "2001",
-      "rating": 66,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "LB"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11
-      ],
-      "attributes": [
-        65,
-        44,
-        57,
-        56,
-        64,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 0,
-      "resourceId": 276633,
-      "assetId": 276633
     },
     "276895": {
       "name": "Alemão",
@@ -972,7 +937,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 36750,
       "resourceId": 50554038,
       "assetId": 222390
     },
@@ -1158,7 +1123,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 50583404,
       "assetId": 251756
     },
@@ -1239,39 +1204,53 @@
       "resourceId": 50597226,
       "assetId": 265578
     },
-    "50608281": {
+    "67385497": {
       "name": "Nobel Mendy",
       "cardName": "Mendy",
-      "originalVersionId": "0",
+      "originalVersionId": "3",
       "clubId": 480,
       "leagueId": 53,
       "countryId": 136,
-      "versionId": "2001",
-      "rating": 66,
+      "versionId": "3",
+      "rating": 84,
       "preferredFoot": "Left",
       "weakFoot": 3,
-      "skillMoves": 2,
+      "skillMoves": 3,
       "preferredPosition": "CB",
       "possiblePositions": [
         "CB",
         "LB"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        14,
+        18,
+        19,
+        28,
+        4
+      ],
+      "playStylesPlus": [
+        17
+      ],
       "rolesPlus": [
-        11
+        8,
+        9,
+        12,
+        13,
+        107,
+        111,
+        148
       ],
       "attributes": [
-        65,
-        44,
-        57,
-        56,
-        64,
-        68
+        83,
+        62,
+        77,
+        75,
+        83,
+        86
       ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 50608281,
+      "hasDynamicImage": true,
+      "price": 19000,
+      "resourceId": 67385497,
       "assetId": 276633
     }
   }

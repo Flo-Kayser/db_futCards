@@ -145,7 +145,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 500,
       "resourceId": 198039,
       "assetId": 198039
     },
@@ -216,7 +216,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1100,
       "resourceId": 203841,
       "assetId": 203841
     },
@@ -412,7 +412,7 @@
         90
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1100,
       "resourceId": 223334,
       "assetId": 223334
     },
@@ -454,7 +454,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1420000,
+      "price": 1360000,
       "resourceId": 233731,
       "assetId": 233731
     },
@@ -607,7 +607,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 4300,
       "resourceId": 241096,
       "assetId": 241096
     },
@@ -649,7 +649,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1000,
       "resourceId": 242964,
       "assetId": 242964
     },
@@ -729,7 +729,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 4800,
       "resourceId": 247851,
       "assetId": 247851
     },
@@ -846,7 +846,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1100,
       "resourceId": 257470,
       "assetId": 257470
     },
@@ -883,7 +883,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 550,
       "resourceId": 258805,
       "assetId": 258805
     },
@@ -1112,7 +1112,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 117000,
+      "price": 113000,
       "resourceId": 50529680,
       "assetId": 198032
     },
@@ -1203,7 +1203,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 174000,
+      "price": 169000,
       "resourceId": 50554982,
       "assetId": 223334
     },
@@ -1245,7 +1245,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 22000,
+      "price": 23500,
       "resourceId": 50566390,
       "assetId": 234742
     },
@@ -1284,7 +1284,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1100,
       "resourceId": 50566472,
       "assetId": 234824
     },
@@ -1332,7 +1332,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 581000,
+      "price": 470000,
       "resourceId": 50572744,
       "assetId": 241096
     },
@@ -1383,7 +1383,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 298000,
+      "price": 499000,
       "resourceId": 50574612,
       "assetId": 242964
     },
@@ -1426,7 +1426,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 21250,
       "resourceId": 50579499,
       "assetId": 247851
     },
@@ -1466,7 +1466,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1100,
       "resourceId": 50585670,
       "assetId": 254022
     },
@@ -1505,7 +1505,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 400,
       "resourceId": 50585783,
       "assetId": 254135
     },
@@ -1549,7 +1549,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 59000,
+      "price": 49750,
       "resourceId": 50587909,
       "assetId": 256261
     },
@@ -1598,7 +1598,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 38250,
+      "price": 35500,
       "resourceId": 50593766,
       "assetId": 262118
     },
@@ -1690,7 +1690,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 90000,
+      "price": 86000,
       "resourceId": 50605894,
       "assetId": 274246
     },
@@ -1737,9 +1737,58 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 18500,
+      "price": 20250,
       "resourceId": 67343606,
       "assetId": 234742
+    },
+    "67349960": {
+      "name": "Sandro Tonali",
+      "cardName": "Tonali",
+      "originalVersionId": "3",
+      "clubId": 13,
+      "leagueId": 13,
+      "countryId": 27,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        2,
+        29,
+        9
+      ],
+      "playStylesPlus": [
+        26
+      ],
+      "rolesPlus": [
+        14,
+        16,
+        19,
+        20,
+        117,
+        118,
+        149
+      ],
+      "attributes": [
+        81,
+        78,
+        83,
+        83,
+        82,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 65000,
+      "resourceId": 67349960,
+      "assetId": 241096
     },
     "67356715": {
       "name": "Bruno Guimarães",
@@ -1789,7 +1838,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 27750,
+      "price": 29500,
       "resourceId": 67356715,
       "assetId": 247851
     },
@@ -1843,7 +1892,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 60000,
+      "price": 59500,
       "resourceId": 67362886,
       "assetId": 254022
     },
@@ -1893,7 +1942,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 310000,
+      "price": 320000,
       "resourceId": 84140102,
       "assetId": 254022
     }

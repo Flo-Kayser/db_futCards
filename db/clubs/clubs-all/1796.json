@@ -74,7 +74,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1100,
       "resourceId": 188377,
       "assetId": 188377
     },
@@ -490,7 +490,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 9200,
       "resourceId": 237440,
       "assetId": 237440
     },
@@ -1018,7 +1018,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 350,
       "resourceId": 262642,
       "assetId": 262642
     },
@@ -1282,7 +1282,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 250,
       "resourceId": 272983,
       "assetId": 272983
     },
@@ -1366,7 +1366,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 401000,
+      "price": 400000,
       "resourceId": 50520025,
       "assetId": 188377
     },
@@ -1410,7 +1410,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 19750,
       "resourceId": 50552055,
       "assetId": 220407
     },
@@ -1456,7 +1456,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1000,
       "resourceId": 50566217,
       "assetId": 234569
     },
@@ -1531,9 +1531,87 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 29750,
+      "price": 25000,
       "resourceId": 50571021,
       "assetId": 239373
+    },
+    "50600277": {
+      "name": "Sam Waller",
+      "cardName": "Waller",
+      "originalVersionId": "0",
+      "clubId": 1796,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 50,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        50,
+        54,
+        50,
+        52,
+        28,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50600277,
+      "assetId": 268629
+    },
+    "67314433": {
+      "name": "James Ward-Prowse",
+      "cardName": "Ward-Prowse",
+      "originalVersionId": "0",
+      "clubId": 1796,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        12,
+        9
+      ],
+      "playStylesPlus": [
+        3
+      ],
+      "rolesPlus": [
+        15,
+        18,
+        33
+      ],
+      "attributes": [
+        42,
+        74,
+        83,
+        74,
+        66,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67314433,
+      "assetId": 205569
     }
   }
 }

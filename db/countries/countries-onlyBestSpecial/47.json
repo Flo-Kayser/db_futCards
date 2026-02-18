@@ -43,7 +43,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 19250,
     "resourceId": 50524996,
     "assetId": 193348
   },
@@ -133,7 +133,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 31500,
+    "price": 29750,
     "resourceId": 50537651,
     "assetId": 206003
   },
@@ -212,61 +212,6 @@
     "price": 0,
     "resourceId": 50595303,
     "assetId": 263655
-  },
-  "50596584": {
-    "name": "Géraldine Reuteler",
-    "cardName": "Reuteler",
-    "originalVersionId": "151",
-    "clubId": 115997,
-    "leagueId": 2215,
-    "countryId": 47,
-    "versionId": "151",
-    "rating": 85,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 4,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "CM",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      10,
-      12,
-      17,
-      22,
-      25
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      118,
-      119,
-      120,
-      121,
-      122,
-      131,
-      132,
-      133,
-      134,
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      91,
-      83,
-      83,
-      86,
-      60,
-      77
-    ],
-    "hasDynamicImage": true,
-    "price": 11750,
-    "resourceId": 50596584,
-    "assetId": 264936
   },
   "50596635": {
     "name": "Eseosa Aigbogun",
@@ -372,7 +317,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 18500,
+    "price": 20250,
     "resourceId": 50598534,
     "assetId": 266886
   },
@@ -419,7 +364,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 19250,
     "resourceId": 50602561,
     "assetId": 270913
   },
@@ -466,7 +411,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 19750,
+    "price": 21500,
     "resourceId": 50607497,
     "assetId": 275849
   },
@@ -514,7 +459,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 20250,
     "resourceId": 50609347,
     "assetId": 277699
   },
@@ -557,7 +502,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 23500,
+    "price": 26500,
     "resourceId": 67338101,
     "assetId": 229237
   },
@@ -607,7 +552,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 19500,
     "resourceId": 67338125,
     "assetId": 229261
   },
@@ -659,5 +604,57 @@
     "hasDynamicImage": true,
     "resourceId": 67366844,
     "assetId": 257980
+  },
+  "67373800": {
+    "name": "Géraldine Reuteler",
+    "cardName": "Reuteler",
+    "originalVersionId": "3",
+    "clubId": 115997,
+    "leagueId": 2215,
+    "countryId": 47,
+    "versionId": "3",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [
+      10,
+      12,
+      17,
+      22,
+      25
+    ],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      18,
+      22,
+      31,
+      33,
+      41,
+      42,
+      121,
+      132,
+      143
+    ],
+    "attributes": [
+      93,
+      87,
+      84,
+      88,
+      63,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 21000,
+    "resourceId": 67373800,
+    "assetId": 264936
   }
 }

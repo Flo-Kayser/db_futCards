@@ -67,7 +67,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 5100,
       "resourceId": 70760,
       "assetId": 70760
     },
@@ -102,7 +102,7 @@
         41
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 200,
       "resourceId": 70761,
       "assetId": 70761
     },
@@ -308,7 +308,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 76390,
       "assetId": 76390
     },
@@ -798,7 +798,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 5100,
       "resourceId": 227787,
       "assetId": 227787
     },
@@ -1289,7 +1289,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 5100,
       "resourceId": 274026,
       "assetId": 274026
     },
@@ -1370,9 +1370,44 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 9900,
       "resourceId": 276616,
       "assetId": 276616
+    },
+    "50402973": {
+      "name": "Jin Si Woo",
+      "cardName": "Jin Si Woo",
+      "originalVersionId": "0",
+      "clubId": 1474,
+      "leagueId": 83,
+      "countryId": 167,
+      "versionId": "2000",
+      "rating": 55,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        50,
+        28,
+        37,
+        34,
+        55,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50402973,
+      "assetId": 71325
     },
     "50410303": {
       "name": "Jakob Tranziska",
@@ -1404,9 +1439,47 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 50410303,
       "assetId": 78655
+    },
+    "50587202": {
+      "name": "Jung Han Min",
+      "cardName": "Jung Han Min",
+      "originalVersionId": "1",
+      "clubId": 1474,
+      "leagueId": 83,
+      "countryId": 167,
+      "versionId": "3000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27
+      ],
+      "attributes": [
+        69,
+        59,
+        45,
+        60,
+        27,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50587202,
+      "assetId": 255554
     },
     "50587900": {
       "name": "Park Chan Yong",
@@ -1482,6 +1555,41 @@
       "price": 200,
       "resourceId": 50592771,
       "assetId": 261123
+    },
+    "50605436": {
+      "name": "Son Seung Beom",
+      "cardName": "Son Seung Beom",
+      "originalVersionId": "1",
+      "clubId": 1474,
+      "leagueId": 83,
+      "countryId": 167,
+      "versionId": "3000",
+      "rating": 52,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27
+      ],
+      "attributes": [
+        66,
+        45,
+        48,
+        53,
+        25,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50605436,
+      "assetId": 273788
     }
   }
 }

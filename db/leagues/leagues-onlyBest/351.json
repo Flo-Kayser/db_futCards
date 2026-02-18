@@ -70,7 +70,7 @@
       47
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 70177,
     "assetId": 70177
   },
@@ -1152,7 +1152,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 73109,
     "assetId": 73109
   },
@@ -1765,7 +1765,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 0,
     "resourceId": 75141,
     "assetId": 75141
   },
@@ -4209,7 +4209,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 225053,
     "assetId": 225053
   },
@@ -5881,7 +5881,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 4000,
+    "price": 5100,
     "resourceId": 242840,
     "assetId": 242840
   },
@@ -8292,7 +8292,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 4600,
+    "price": 900,
     "resourceId": 271971,
     "assetId": 271971
   },
@@ -9064,7 +9064,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 750,
     "resourceId": 276461,
     "assetId": 276461
   },
@@ -9507,7 +9507,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 277549,
     "assetId": 277549
   },
@@ -10053,7 +10053,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 19000,
     "resourceId": 50401711,
     "assetId": 70063
   },
@@ -10258,7 +10258,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 35000,
+    "price": 42000,
     "resourceId": 50509736,
     "assetId": 178088
   },
@@ -10341,7 +10341,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 19500,
     "resourceId": 50554188,
     "assetId": 222540
   },
@@ -10577,7 +10577,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 26750,
+    "price": 24000,
     "resourceId": 50584116,
     "assetId": 252468
   },
@@ -10768,6 +10768,40 @@
     "resourceId": 50601768,
     "assetId": 270120
   },
+  "50601769": {
+    "name": "Nathanael Blair",
+    "cardName": "Blair",
+    "originalVersionId": "1",
+    "clubId": 111396,
+    "leagueId": 351,
+    "countryId": 195,
+    "versionId": "3000",
+    "rating": 55,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      41
+    ],
+    "attributes": [
+      83,
+      51,
+      36,
+      50,
+      28,
+      69
+    ],
+    "hasDynamicImage": false,
+    "price": 5100,
+    "resourceId": 50601769,
+    "assetId": 270121
+  },
   "50603972": {
     "name": "Jake Girdwood-Reich",
     "cardName": "Girdwood-Reich",
@@ -10848,6 +10882,40 @@
     "resourceId": 50609804,
     "assetId": 278156
   },
+  "50610530": {
+    "name": "Oliver Lavale",
+    "cardName": "Lavale",
+    "originalVersionId": "1",
+    "clubId": 111396,
+    "leagueId": 351,
+    "countryId": 195,
+    "versionId": "3000",
+    "rating": 54,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      41
+    ],
+    "attributes": [
+      74,
+      52,
+      42,
+      51,
+      33,
+      56
+    ],
+    "hasDynamicImage": false,
+    "price": 5100,
+    "resourceId": 50610530,
+    "assetId": 278882
+  },
   "67299508": {
     "name": "Hiroshi Ibusuki",
     "cardName": "Ibusuki",
@@ -10885,5 +10953,43 @@
     "price": 200,
     "resourceId": 67299508,
     "assetId": 190644
+  },
+  "67382394": {
+    "name": "Marcus Younis",
+    "cardName": "Younis",
+    "originalVersionId": "0",
+    "clubId": 112224,
+    "leagueId": 351,
+    "countryId": 195,
+    "versionId": "2000",
+    "rating": 58,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      7
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      35
+    ],
+    "attributes": [
+      75,
+      46,
+      46,
+      65,
+      41,
+      55
+    ],
+    "hasDynamicImage": false,
+    "price": 5000,
+    "resourceId": 67382394,
+    "assetId": 273530
   }
 }

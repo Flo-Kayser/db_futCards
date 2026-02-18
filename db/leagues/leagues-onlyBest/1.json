@@ -283,7 +283,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 200,
     "resourceId": 71170,
     "assetId": 71170
   },
@@ -710,7 +710,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 10000,
     "resourceId": 73447,
     "assetId": 73447
   },
@@ -1307,7 +1307,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 300,
     "resourceId": 74233,
     "assetId": 74233
   },
@@ -2353,7 +2353,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 200,
     "resourceId": 78634,
     "assetId": 78634
   },
@@ -2703,7 +2703,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 79554,
     "assetId": 79554
   },
@@ -3434,7 +3434,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 400,
     "resourceId": 199439,
     "assetId": 199439
   },
@@ -6737,42 +6737,6 @@
     "resourceId": 246704,
     "assetId": 246704
   },
-  "247187": {
-    "name": "Júnior Brumado",
-    "cardName": "Júnior Brumado",
-    "originalVersionId": "0",
-    "clubId": 1516,
-    "leagueId": 1,
-    "countryId": 54,
-    "versionId": "2001",
-    "rating": 66,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      20
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      41
-    ],
-    "attributes": [
-      64,
-      64,
-      55,
-      69,
-      29,
-      77
-    ],
-    "hasDynamicImage": false,
-    "price": 200,
-    "resourceId": 247187,
-    "assetId": 247187
-  },
   "247658": {
     "name": "Rami Al Hajj",
     "cardName": "Al Hajj",
@@ -7139,7 +7103,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 3000,
     "resourceId": 250854,
     "assetId": 250854
   },
@@ -7215,7 +7179,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 10000,
     "resourceId": 250960,
     "assetId": 250960
   },
@@ -8378,7 +8342,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 8800,
+    "price": 9000,
     "resourceId": 260896,
     "assetId": 260896
   },
@@ -10020,7 +9984,7 @@
       55
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 274844,
     "assetId": 274844
   },
@@ -11152,7 +11116,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 400,
     "resourceId": 50562209,
     "assetId": 230561
   },
@@ -11200,6 +11164,43 @@
     "hasDynamicImage": true,
     "resourceId": 50566120,
     "assetId": 234472
+  },
+  "50566221": {
+    "name": "Aurélio Buta",
+    "cardName": "Aurélio Buta",
+    "originalVersionId": "1",
+    "clubId": 819,
+    "leagueId": 1,
+    "countryId": 38,
+    "versionId": "3001",
+    "rating": 73,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      5,
+      6,
+      23
+    ],
+    "attributes": [
+      87,
+      60,
+      68,
+      76,
+      66,
+      66
+    ],
+    "hasDynamicImage": false,
+    "price": 1700,
+    "resourceId": 50566221,
+    "assetId": 234573
   },
   "50567284": {
     "name": "Mads Emil Madsen",
@@ -11359,9 +11360,54 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 19750,
+    "price": 30000,
     "resourceId": 50575314,
     "assetId": 243666
+  },
+  "50578835": {
+    "name": "Júnior Brumado",
+    "cardName": "Júnior Brumado",
+    "originalVersionId": "3",
+    "clubId": 1516,
+    "leagueId": 1,
+    "countryId": 54,
+    "versionId": "3",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      24,
+      29,
+      6
+    ],
+    "playStylesPlus": [
+      4
+    ],
+    "rolesPlus": [
+      43,
+      141,
+      142,
+      144
+    ],
+    "attributes": [
+      83,
+      84,
+      75,
+      87,
+      47,
+      92
+    ],
+    "hasDynamicImage": true,
+    "price": 18750,
+    "resourceId": 50578835,
+    "assetId": 247187
   },
   "50579823": {
     "name": "Magnus Knudsen",
@@ -11472,7 +11518,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 24750,
+    "price": 23750,
     "resourceId": 50588581,
     "assetId": 256933
   },
@@ -11544,7 +11590,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 50590814,
     "assetId": 259166
   },
@@ -11621,7 +11667,7 @@
       46
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 50592027,
     "assetId": 260379
   },
@@ -11770,7 +11816,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 50596165,
     "assetId": 264517
   },
@@ -11804,7 +11850,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 50599713,
     "assetId": 268065
   },
@@ -11952,7 +11998,7 @@
       52
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 50608918,
     "assetId": 277270
   },
@@ -12033,7 +12079,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 56500,
+    "price": 58500,
     "resourceId": 50610900,
     "assetId": 279252
   },

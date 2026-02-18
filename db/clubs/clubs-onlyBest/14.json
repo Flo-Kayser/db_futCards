@@ -67,7 +67,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 500,
       "resourceId": 74242,
       "assetId": 74242
     },
@@ -175,7 +175,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 2000,
       "resourceId": 199641,
       "assetId": 199641
     },
@@ -286,7 +286,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1100,
       "resourceId": 224656,
       "assetId": 224656
     },
@@ -354,7 +354,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 234724,
       "assetId": 234724
     },
@@ -432,7 +432,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1200,
       "resourceId": 236015,
       "assetId": 236015
     },
@@ -589,7 +589,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1200,
       "resourceId": 238095,
       "assetId": 238095
     },
@@ -778,7 +778,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 253444,
       "assetId": 253444
     },
@@ -939,9 +939,46 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 1900,
       "resourceId": 269421,
       "assetId": 269421
+    },
+    "50410849": {
+      "name": "Kyle McAdam",
+      "cardName": "McAdam",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        27
+      ],
+      "attributes": [
+        75,
+        48,
+        54,
+        58,
+        47,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50410849,
+      "assetId": 79201
     },
     "50411050": {
       "name": "Igor Jesus",
@@ -984,9 +1021,46 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 21250,
+      "price": 21500,
       "resourceId": 50411050,
       "assetId": 79402
+    },
+    "50531807": {
+      "name": "Stefan Ortega",
+      "cardName": "Ortega",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 21,
+      "versionId": "2002",
+      "rating": 79,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        34
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        78,
+        77,
+        85,
+        81,
+        52,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50531807,
+      "assetId": 200159
     },
     "50566821": {
       "name": "Ibrahim Sangaré",
@@ -1029,7 +1103,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 28250,
+      "price": 34750,
       "resourceId": 50566821,
       "assetId": 235173
     },
@@ -1074,7 +1148,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 17750,
+      "price": 21000,
       "resourceId": 50567290,
       "assetId": 235642
     },
@@ -1118,6 +1192,78 @@
       "resourceId": 50582437,
       "assetId": 250789
     },
+    "50588429": {
+      "name": "Luca Netz",
+      "cardName": "Netz",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        27
+      ],
+      "attributes": [
+        73,
+        48,
+        69,
+        72,
+        68,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 5700,
+      "resourceId": 50588429,
+      "assetId": 256781
+    },
+    "50597856": {
+      "name": "Detlef Esapa Osong",
+      "cardName": "Esapa Osong",
+      "originalVersionId": "0",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 56,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        59,
+        57,
+        39,
+        51,
+        18,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50597856,
+      "assetId": 266208
+    },
     "50609664": {
       "name": "Murillo",
       "cardName": "Murillo",
@@ -1158,7 +1304,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 244000,
+      "price": 236000,
       "resourceId": 50609664,
       "assetId": 278016
     },
@@ -1202,7 +1348,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 175000,
+      "price": 154000,
       "resourceId": 67183174,
       "assetId": 74310
     },
@@ -1301,7 +1447,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 188000,
+      "price": 199000,
       "resourceId": 67363107,
       "assetId": 254243
     },

@@ -145,7 +145,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1100,
       "resourceId": 192629,
       "assetId": 192629
     },
@@ -444,7 +444,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 235997,
       "assetId": 235997
     },
@@ -704,7 +704,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 650,
       "resourceId": 264095,
       "assetId": 264095
     },
@@ -817,7 +817,7 @@
         46
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 270860,
       "assetId": 270860
     },
@@ -1006,7 +1006,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 750,
       "resourceId": 279112,
       "assetId": 279112
     },
@@ -1044,6 +1044,45 @@
       "price": 350,
       "resourceId": 50407276,
       "assetId": 75628
+    },
+    "50551633": {
+      "name": "Matías Vecino",
+      "cardName": "Vecino",
+      "originalVersionId": "0",
+      "clubId": 450,
+      "leagueId": 53,
+      "countryId": 60,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        19,
+        2
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        19
+      ],
+      "attributes": [
+        53,
+        73,
+        75,
+        76,
+        79,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50551633,
+      "assetId": 219985
     },
     "50594875": {
       "name": "Williot Swedberg",
@@ -1088,7 +1127,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 19250,
       "resourceId": 50594875,
       "assetId": 263227
     },
@@ -1127,7 +1166,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 24000,
+      "price": 21500,
       "resourceId": 50597448,
       "assetId": 265800
     },
@@ -1174,9 +1213,46 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 19250,
+      "price": 19750,
       "resourceId": 50603564,
       "assetId": 271916
+    },
+    "50608393": {
+      "name": "Álvaro Núñez",
+      "cardName": "Álvaro Núñez",
+      "originalVersionId": "0",
+      "clubId": 450,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        25
+      ],
+      "attributes": [
+        75,
+        44,
+        68,
+        70,
+        67,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50608393,
+      "assetId": 276745
     }
   }
 }
