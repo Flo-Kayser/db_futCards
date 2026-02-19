@@ -34,7 +34,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 70725,
       "assetId": 70725
     },
@@ -72,7 +72,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 73355,
       "assetId": 73355
     },
@@ -108,7 +108,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 73356,
       "assetId": 73356
     },
@@ -182,7 +182,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 77561,
       "assetId": 77561
     },
@@ -217,7 +217,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 80556,
       "assetId": 80556
     },
@@ -251,7 +251,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 3400,
       "resourceId": 80557,
       "assetId": 80557
     },
@@ -289,7 +289,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 193091,
       "assetId": 193091
     },
@@ -327,7 +327,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 500,
       "resourceId": 199386,
       "assetId": 199386
     },
@@ -520,7 +520,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 300,
       "resourceId": 232829,
       "assetId": 232829
     },
@@ -602,7 +602,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 800,
       "resourceId": 237895,
       "assetId": 237895
     },
@@ -643,7 +643,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 650,
       "resourceId": 245894,
       "assetId": 245894
     },
@@ -679,7 +679,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 253211,
       "assetId": 253211
     },
@@ -753,7 +753,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 262334,
       "assetId": 262334
     },
@@ -824,7 +824,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 350,
       "resourceId": 265747,
       "assetId": 265747
     },
@@ -940,7 +940,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 26000,
+      "price": 27750,
       "resourceId": 50406527,
       "assetId": 74879
     },
@@ -982,7 +982,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 25000,
+      "price": 25750,
       "resourceId": 50535373,
       "assetId": 203725
     },
@@ -1032,7 +1032,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 13750,
       "resourceId": 50535708,
       "assetId": 204060
     },
@@ -1069,7 +1069,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 7500,
+      "price": 1000,
       "resourceId": 50571529,
       "assetId": 239881
     },
@@ -1104,9 +1104,87 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 500,
       "resourceId": 50596376,
       "assetId": 264728
+    },
+    "50600084": {
+      "name": "Isak Hansen-Aarøen",
+      "cardName": "Hansen-Aarøen",
+      "originalVersionId": "1",
+      "clubId": 1910,
+      "leagueId": 10,
+      "countryId": 36,
+      "versionId": "3000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31
+      ],
+      "attributes": [
+        70,
+        50,
+        60,
+        68,
+        47,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50600084,
+      "assetId": 268436
+    },
+    "50602226": {
+      "name": "Willum Þór Willumsson",
+      "cardName": "Willumsson",
+      "originalVersionId": "1",
+      "clubId": 1910,
+      "leagueId": 10,
+      "countryId": 24,
+      "versionId": "3001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        31,
+        33
+      ],
+      "attributes": [
+        55,
+        69,
+        71,
+        71,
+        53,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50602226,
+      "assetId": 270578
     }
   }
 }

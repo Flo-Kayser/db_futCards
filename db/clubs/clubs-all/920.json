@@ -32,7 +32,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 71867,
       "assetId": 71867
     },
@@ -518,7 +518,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 248337,
       "assetId": 248337
     },
@@ -666,7 +666,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 1200,
       "resourceId": 273952,
       "assetId": 273952
     },
@@ -814,6 +814,114 @@
       "price": 200,
       "resourceId": 50547762,
       "assetId": 216114
+    },
+    "50574931": {
+      "name": "Magnus Westergaard",
+      "cardName": "Westergaard",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 13,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        21,
+        31
+      ],
+      "attributes": [
+        71,
+        56,
+        62,
+        66,
+        60,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50574931,
+      "assetId": 243283
+    },
+    "50576918": {
+      "name": "Kolbeinn Finnsson",
+      "cardName": "Finnsson",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 24,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10
+      ],
+      "attributes": [
+        74,
+        54,
+        61,
+        63,
+        61,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50576918,
+      "assetId": 245270
+    },
+    "50592215": {
+      "name": "Ole Christian Sæter",
+      "cardName": "Sæter",
+      "originalVersionId": "0",
+      "clubId": 920,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        69,
+        68,
+        52,
+        63,
+        29,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 8100,
+      "resourceId": 50592215,
+      "assetId": 260567
     }
   }
 }

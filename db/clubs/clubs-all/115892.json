@@ -35,7 +35,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 2500,
       "resourceId": 210321,
       "assetId": 210321
     },
@@ -290,7 +290,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 229501,
       "assetId": 229501
     },
@@ -360,7 +360,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 5100,
       "resourceId": 232334,
       "assetId": 232334
     },
@@ -395,7 +395,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 500,
       "resourceId": 238055,
       "assetId": 238055
     },
@@ -511,7 +511,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2500,
       "resourceId": 241775,
       "assetId": 241775
     },
@@ -550,7 +550,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 350,
       "resourceId": 245813,
       "assetId": 245813
     },
@@ -660,7 +660,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1500,
       "resourceId": 262554,
       "assetId": 262554
     },
@@ -695,7 +695,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 250,
       "resourceId": 263024,
       "assetId": 263024
     },
@@ -730,7 +730,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 263152,
       "assetId": 263152
     },
@@ -802,7 +802,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 450,
       "resourceId": 274494,
       "assetId": 274494
     },
@@ -838,7 +838,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 3000,
       "resourceId": 50406353,
       "assetId": 74705
     },
@@ -886,6 +886,40 @@
       "resourceId": 50582942,
       "assetId": 251294
     },
+    "50593284": {
+      "name": "Felippe Cardoso",
+      "cardName": "Felippe Cardoso",
+      "originalVersionId": "0",
+      "clubId": 115892,
+      "leagueId": 350,
+      "countryId": 54,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        55,
+        66,
+        50,
+        63,
+        31,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 8000,
+      "resourceId": 50593284,
+      "assetId": 261636
+    },
     "50601081": {
       "name": "Hisham Al Dubais",
       "cardName": "Al Dubais",
@@ -916,7 +950,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 4100,
+      "price": 300,
       "resourceId": 50601081,
       "assetId": 269433
     },
@@ -953,7 +987,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 200,
       "resourceId": 50601345,
       "assetId": 269697
     },
@@ -993,9 +1027,45 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 1400,
       "resourceId": 50603321,
       "assetId": 271673
+    },
+    "50608257": {
+      "name": "Khaled Al Subaie",
+      "cardName": "Al Subaie",
+      "originalVersionId": "1",
+      "clubId": 115892,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "3000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        71,
+        55,
+        63,
+        62,
+        54,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50608257,
+      "assetId": 276609
     }
   }
 }

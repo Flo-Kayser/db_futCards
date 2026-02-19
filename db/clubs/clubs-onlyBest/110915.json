@@ -31,7 +31,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1200,
       "resourceId": 72844,
       "assetId": 72844
     },
@@ -104,7 +104,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 250,
       "resourceId": 72849,
       "assetId": 72849
     },
@@ -140,7 +140,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 950,
       "resourceId": 72850,
       "assetId": 72850
     },
@@ -247,7 +247,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 76153,
       "assetId": 76153
     },
@@ -659,9 +659,48 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 268936,
       "assetId": 268936
+    },
+    "50545477": {
+      "name": "Alberto Cerri",
+      "cardName": "Cerri",
+      "originalVersionId": "0",
+      "clubId": 110915,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        24,
+        29,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        44
+      ],
+      "attributes": [
+        39,
+        71,
+        53,
+        61,
+        37,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 7900,
+      "resourceId": 50545477,
+      "assetId": 213829
     },
     "50566811": {
       "name": "Michele Castagnetti",
@@ -737,6 +776,44 @@
       "price": 200,
       "resourceId": 50610624,
       "assetId": 278976
+    },
+    "67386568": {
+      "name": "Tommaso Corazza",
+      "cardName": "Corazza",
+      "originalVersionId": "0",
+      "clubId": 110915,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        30,
+        47
+      ],
+      "attributes": [
+        66,
+        56,
+        63,
+        68,
+        66,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67386568,
+      "assetId": 277704
     }
   }
 }

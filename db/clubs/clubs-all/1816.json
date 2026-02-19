@@ -32,7 +32,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 70018,
       "assetId": 70018
     },
@@ -105,7 +105,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 350,
       "resourceId": 70025,
       "assetId": 70025
     },
@@ -280,7 +280,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 2000,
       "resourceId": 78233,
       "assetId": 78233
     },
@@ -423,7 +423,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 223898,
       "assetId": 223898
     },
@@ -743,7 +743,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 3800,
       "resourceId": 271292,
       "assetId": 271292
     },
@@ -780,7 +780,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 250,
       "resourceId": 274440,
       "assetId": 274440
     },
@@ -815,7 +815,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 5100,
       "resourceId": 277502,
       "assetId": 277502
     },
@@ -894,6 +894,44 @@
       "resourceId": 50596149,
       "assetId": 264501
     },
+    "50597853": {
+      "name": "Yoan Koré",
+      "cardName": "Koré",
+      "originalVersionId": "0",
+      "clubId": 1816,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11,
+        48
+      ],
+      "attributes": [
+        60,
+        36,
+        57,
+        58,
+        64,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50597853,
+      "assetId": 266205
+    },
     "50602662": {
       "name": "Joseph N'Duquidi",
       "cardName": "N'Duquidi",
@@ -926,9 +964,114 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 250,
       "resourceId": 50602662,
       "assetId": 271014
+    },
+    "50602895": {
+      "name": "Skelly Alvero",
+      "cardName": "Alvero",
+      "originalVersionId": "1",
+      "clubId": 1816,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "3001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        17,
+        18
+      ],
+      "attributes": [
+        56,
+        52,
+        62,
+        67,
+        64,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50602895,
+      "assetId": 271247
+    },
+    "50605170": {
+      "name": "Samuel Ntamack",
+      "cardName": "Ntamack",
+      "originalVersionId": "0",
+      "clubId": 1816,
+      "leagueId": 17,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        78,
+        64,
+        49,
+        65,
+        24,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50605170,
+      "assetId": 273522
+    },
+    "50609767": {
+      "name": "Ibou Sané",
+      "cardName": "Sané",
+      "originalVersionId": "1",
+      "clubId": 1816,
+      "leagueId": 17,
+      "countryId": 136,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        71,
+        62,
+        50,
+        65,
+        22,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50609767,
+      "assetId": 278119
     }
   }
 }

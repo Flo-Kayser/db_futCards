@@ -669,7 +669,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 2000,
       "resourceId": 257104,
       "assetId": 257104
     },
@@ -929,6 +929,41 @@
       "resourceId": 277993,
       "assetId": 277993
     },
+    "50402378": {
+      "name": "Munashe Garananga",
+      "cardName": "Garananga",
+      "originalVersionId": "0",
+      "clubId": 81,
+      "leagueId": 50,
+      "countryId": 148,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        48
+      ],
+      "attributes": [
+        67,
+        42,
+        51,
+        60,
+        67,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50402378,
+      "assetId": 70730
+    },
     "50559454": {
       "name": "Daniel Barlaser",
       "cardName": "Barlaser",
@@ -971,6 +1006,80 @@
       "resourceId": 50559454,
       "assetId": 227806
     },
+    "50559728": {
+      "name": "Felix Passlack",
+      "cardName": "Passlack",
+      "originalVersionId": "0",
+      "clubId": 81,
+      "leagueId": 50,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5
+      ],
+      "attributes": [
+        71,
+        64,
+        68,
+        73,
+        65,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 9800,
+      "resourceId": 50559728,
+      "assetId": 228080
+    },
+    "50592673": {
+      "name": "Dane Scarlett",
+      "cardName": "Scarlett",
+      "originalVersionId": "0",
+      "clubId": 81,
+      "leagueId": 50,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        39,
+        41
+      ],
+      "attributes": [
+        75,
+        63,
+        52,
+        66,
+        23,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50592673,
+      "assetId": 261025
+    },
     "50604321": {
       "name": "Zach Mitchell",
       "cardName": "Mitchell",
@@ -1005,6 +1114,78 @@
       "price": 200,
       "resourceId": 50604321,
       "assetId": 272673
+    },
+    "50609305": {
+      "name": "Kai Andrews",
+      "cardName": "Andrews",
+      "originalVersionId": "1",
+      "clubId": 81,
+      "leagueId": 50,
+      "countryId": 50,
+      "versionId": "3000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        72,
+        55,
+        58,
+        63,
+        57,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50609305,
+      "assetId": 277657
+    },
+    "50609645": {
+      "name": "Owen Elding",
+      "cardName": "Elding",
+      "originalVersionId": "1",
+      "clubId": 81,
+      "leagueId": 50,
+      "countryId": 14,
+      "versionId": "3000",
+      "rating": 59,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26
+      ],
+      "attributes": [
+        67,
+        63,
+        52,
+        59,
+        26,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50609645,
+      "assetId": 277997
     }
   }
 }

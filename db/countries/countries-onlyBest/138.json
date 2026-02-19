@@ -31,7 +31,7 @@
       44
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 70444,
     "assetId": 70444
   },
@@ -100,7 +100,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 400,
     "resourceId": 75148,
     "assetId": 75148
   },
@@ -559,7 +559,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 5000,
+    "price": 200,
     "resourceId": 268904,
     "assetId": 268904
   },
@@ -598,7 +598,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 2800,
     "resourceId": 271010,
     "assetId": 271010
   },
@@ -673,6 +673,79 @@
     "hasDynamicImage": false,
     "price": 0,
     "resourceId": 50408092,
+    "assetId": 76444
+  },
+  "50608086": {
+    "name": "Kamil Conteh",
+    "cardName": "Conteh",
+    "originalVersionId": "0",
+    "clubId": 149,
+    "leagueId": 60,
+    "countryId": 138,
+    "versionId": "2000",
+    "rating": 63,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      14,
+      18
+    ],
+    "attributes": [
+      71,
+      46,
+      56,
+      65,
+      57,
+      72
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 50608086,
+    "assetId": 276438
+  },
+  "67185308": {
+    "name": "Hindolo Mustapha",
+    "cardName": "Mustapha",
+    "originalVersionId": "0",
+    "clubId": 109,
+    "leagueId": 14,
+    "countryId": 138,
+    "versionId": "2000",
+    "rating": 61,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      31
+    ],
+    "attributes": [
+      71,
+      63,
+      57,
+      64,
+      48,
+      69
+    ],
+    "hasDynamicImage": false,
+    "price": 3400,
+    "resourceId": 67185308,
     "assetId": 76444
   }
 }

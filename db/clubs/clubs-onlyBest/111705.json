@@ -32,7 +32,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 2400,
       "resourceId": 70143,
       "assetId": 70143
     },
@@ -102,7 +102,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4000,
       "resourceId": 71158,
       "assetId": 71158
     },
@@ -494,7 +494,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 198178,
       "assetId": 198178
     },
@@ -1065,6 +1065,84 @@
       "price": 200,
       "resourceId": 50405012,
       "assetId": 73364
+    },
+    "50559973": {
+      "name": "Oliver Berg",
+      "cardName": "Berg",
+      "originalVersionId": "0",
+      "clubId": 111705,
+      "leagueId": 56,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        26,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31,
+        33,
+        43
+      ],
+      "attributes": [
+        63,
+        69,
+        64,
+        67,
+        52,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 4000,
+      "resourceId": 50559973,
+      "assetId": 228325
+    },
+    "50574773": {
+      "name": "Simon Strand",
+      "cardName": "Strand",
+      "originalVersionId": "1",
+      "clubId": 111705,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "3000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        9
+      ],
+      "attributes": [
+        80,
+        31,
+        53,
+        61,
+        58,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50574773,
+      "assetId": 243125
     }
   }
 }

@@ -750,7 +750,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 0,
       "resourceId": 259669,
       "assetId": 259669
     },
@@ -1040,7 +1040,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 1300,
       "resourceId": 279117,
       "assetId": 279117
     },
@@ -1154,6 +1154,46 @@
       "price": 350,
       "resourceId": 50563484,
       "assetId": 231836
+    },
+    "50574392": {
+      "name": "Afeez Aremu",
+      "cardName": "Aremu",
+      "originalVersionId": "0",
+      "clubId": 77,
+      "leagueId": 50,
+      "countryId": 133,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        18,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        17,
+        19
+      ],
+      "attributes": [
+        70,
+        55,
+        56,
+        65,
+        68,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 6000,
+      "resourceId": 50574392,
+      "assetId": 242744
     },
     "50583782": {
       "name": "Leighton Clarkson",
@@ -1308,9 +1348,47 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 3000,
       "resourceId": 67341506,
       "assetId": 232642
+    },
+    "67343892": {
+      "name": "Tom McIntyre",
+      "cardName": "McIntyre",
+      "originalVersionId": "1",
+      "clubId": 77,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "3000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12,
+        14
+      ],
+      "attributes": [
+        43,
+        37,
+        54,
+        59,
+        62,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 67343892,
+      "assetId": 235028
     }
   }
 }

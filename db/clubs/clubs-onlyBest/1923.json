@@ -1189,7 +1189,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 50404807,
       "assetId": 73159
     },
@@ -1270,6 +1270,47 @@
       "resourceId": 50589347,
       "assetId": 257699
     },
+    "50590632": {
+      "name": "Davy van den Berg",
+      "cardName": "van den Berg",
+      "originalVersionId": "0",
+      "clubId": 1923,
+      "leagueId": 60,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        18,
+        26,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        18,
+        20
+      ],
+      "attributes": [
+        63,
+        66,
+        66,
+        66,
+        60,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50590632,
+      "assetId": 258984
+    },
     "50595024": {
       "name": "Ali Al Hamadi",
       "cardName": "Al Hamadi",
@@ -1341,6 +1382,79 @@
       "price": 200,
       "resourceId": 50597245,
       "assetId": 265597
+    },
+    "50611387": {
+      "name": "Sverre Hakami Sandal",
+      "cardName": "Sandal",
+      "originalVersionId": "1",
+      "clubId": 1923,
+      "leagueId": 60,
+      "countryId": 36,
+      "versionId": "3000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        19,
+        20
+      ],
+      "attributes": [
+        66,
+        57,
+        62,
+        62,
+        50,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50611387,
+      "assetId": 279739
+    },
+    "67314998": {
+      "name": "Devante Cole",
+      "cardName": "Cole",
+      "originalVersionId": "1",
+      "clubId": 1923,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "3001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        87,
+        67,
+        53,
+        66,
+        26,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67314998,
+      "assetId": 206134
     }
   }
 }

@@ -106,7 +106,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 7000,
+    "price": 500,
     "resourceId": 70994,
     "assetId": 70994
   },
@@ -225,7 +225,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 600,
     "resourceId": 71814,
     "assetId": 71814
   },
@@ -714,7 +714,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 76942,
     "assetId": 76942
   },
@@ -922,7 +922,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 2500,
+    "price": 200,
     "resourceId": 79342,
     "assetId": 79342
   },
@@ -959,7 +959,7 @@
       46
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5000,
     "resourceId": 80008,
     "assetId": 80008
   },
@@ -2627,7 +2627,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 1100,
+    "price": 800,
     "resourceId": 232104,
     "assetId": 232104
   },
@@ -3398,7 +3398,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 79000,
+    "price": 77500,
     "resourceId": 247703,
     "assetId": 247703
   },
@@ -4368,7 +4368,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 264695,
     "assetId": 264695
   },
@@ -4626,7 +4626,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 265573,
     "assetId": 265573
   },
@@ -4818,7 +4818,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 850,
     "resourceId": 267201,
     "assetId": 267201
   },
@@ -5219,7 +5219,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 2400,
+    "price": 300,
     "resourceId": 271235,
     "assetId": 271235
   },
@@ -5984,6 +5984,41 @@
     "resourceId": 50410039,
     "assetId": 78391
   },
+  "50530085": {
+    "name": "Tom Bradshaw",
+    "cardName": "Bradshaw",
+    "originalVersionId": "0",
+    "clubId": 1932,
+    "leagueId": 60,
+    "countryId": 50,
+    "versionId": "2001",
+    "rating": 67,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      41,
+      42
+    ],
+    "attributes": [
+      69,
+      67,
+      50,
+      66,
+      30,
+      66
+    ],
+    "hasDynamicImage": false,
+    "price": 10000,
+    "resourceId": 50530085,
+    "assetId": 198437
+  },
   "50537571": {
     "name": "Ben Davies",
     "cardName": "Davies",
@@ -6022,9 +6057,50 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 32000,
+    "price": 33000,
     "resourceId": 50537571,
     "assetId": 205923
+  },
+  "50544753": {
+    "name": "Lee Evans",
+    "cardName": "Evans",
+    "originalVersionId": "0",
+    "clubId": 1804,
+    "leagueId": 60,
+    "countryId": 50,
+    "versionId": "2001",
+    "rating": 67,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      19,
+      24
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      15,
+      18,
+      20
+    ],
+    "attributes": [
+      51,
+      64,
+      69,
+      64,
+      65,
+      76
+    ],
+    "hasDynamicImage": false,
+    "price": 8400,
+    "resourceId": 50544753,
+    "assetId": 213105
   },
   "50548275": {
     "name": "Kieffer Moore",
@@ -6061,7 +6137,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 29500,
+    "price": 20250,
     "resourceId": 50548275,
     "assetId": 216627
   },
@@ -6151,7 +6227,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 24750,
+    "price": 26250,
     "resourceId": 50552358,
     "assetId": 220710
   },
@@ -6235,7 +6311,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 152000,
+    "price": 146000,
     "resourceId": 50563752,
     "assetId": 232104
   },
@@ -6311,6 +6387,44 @@
     "resourceId": 50568964,
     "assetId": 237316
   },
+  "50572252": {
+    "name": "Mitch Clark",
+    "cardName": "Clark",
+    "originalVersionId": "0",
+    "clubId": 112260,
+    "leagueId": 61,
+    "countryId": 50,
+    "versionId": "2000",
+    "rating": 61,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      14
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      5,
+      25
+    ],
+    "attributes": [
+      72,
+      44,
+      54,
+      60,
+      56,
+      61
+    ],
+    "hasDynamicImage": false,
+    "price": 4600,
+    "resourceId": 50572252,
+    "assetId": 240604
+  },
   "50572421": {
     "name": "Rhys Norrington-Davies",
     "cardName": "Norrington-Davies",
@@ -6347,6 +6461,45 @@
     "resourceId": 50572421,
     "assetId": 240773
   },
+  "50574997": {
+    "name": "Dylan Levitt",
+    "cardName": "Levitt",
+    "originalVersionId": "0",
+    "clubId": 1958,
+    "leagueId": 60,
+    "countryId": 50,
+    "versionId": "2001",
+    "rating": 67,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      15,
+      18,
+      20
+    ],
+    "attributes": [
+      63,
+      63,
+      69,
+      67,
+      59,
+      60
+    ],
+    "hasDynamicImage": false,
+    "price": 4200,
+    "resourceId": 50574997,
+    "assetId": 243349
+  },
   "50577814": {
     "name": "David Harrington",
     "cardName": "Harrington",
@@ -6377,7 +6530,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 50577814,
     "assetId": 246166
   },
@@ -6457,7 +6610,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 1200,
+    "price": 750,
     "resourceId": 50583069,
     "assetId": 251421
   },
@@ -6691,7 +6844,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 29750,
+    "price": 30000,
     "resourceId": 50598849,
     "assetId": 267201
   },
@@ -6726,7 +6879,7 @@
       51
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 50600254,
     "assetId": 268606
   },
@@ -6909,6 +7062,78 @@
     "resourceId": 50609001,
     "assetId": 277353
   },
+  "50609305": {
+    "name": "Kai Andrews",
+    "cardName": "Andrews",
+    "originalVersionId": "1",
+    "clubId": 81,
+    "leagueId": 50,
+    "countryId": 50,
+    "versionId": "3000",
+    "rating": 60,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      18
+    ],
+    "attributes": [
+      72,
+      55,
+      58,
+      63,
+      57,
+      61
+    ],
+    "hasDynamicImage": false,
+    "price": 5100,
+    "resourceId": 50609305,
+    "assetId": 277657
+  },
+  "67179858": {
+    "name": "Lewis Koumas",
+    "cardName": "Koumas",
+    "originalVersionId": "0",
+    "clubId": 1952,
+    "leagueId": 14,
+    "countryId": 50,
+    "versionId": "2001",
+    "rating": 69,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      23,
+      27
+    ],
+    "attributes": [
+      78,
+      63,
+      62,
+      70,
+      26,
+      61
+    ],
+    "hasDynamicImage": false,
+    "price": 1200,
+    "resourceId": 67179858,
+    "assetId": 70994
+  },
   "67180421": {
     "name": "Gareth Bale",
     "cardName": "Bale",
@@ -6963,7 +7188,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 10000000,
+    "price": 10140000,
     "resourceId": 67180421,
     "assetId": 71557
   },
@@ -7000,7 +7225,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 250,
     "resourceId": 67377752,
     "assetId": 268888
   },

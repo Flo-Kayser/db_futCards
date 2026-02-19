@@ -393,7 +393,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 5000,
       "resourceId": 246935,
       "assetId": 246935
     },
@@ -579,7 +579,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 255900,
       "assetId": 255900
     },
@@ -762,7 +762,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 4000,
       "resourceId": 267473,
       "assetId": 267473
     },
@@ -920,6 +920,40 @@
       "resourceId": 275295,
       "assetId": 275295
     },
+    "50408311": {
+      "name": "Robin Wallinder",
+      "cardName": "Wallinder",
+      "originalVersionId": "0",
+      "clubId": 112072,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        62,
+        60,
+        61,
+        63,
+        27,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 4100,
+      "resourceId": 50408311,
+      "assetId": 76663
+    },
     "50540080": {
       "name": "Tom Pettersson",
       "cardName": "Pettersson",
@@ -955,9 +989,49 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 20750,
       "resourceId": 50540080,
       "assetId": 208432
+    },
+    "50604607": {
+      "name": "Villiam Granath",
+      "cardName": "Granath",
+      "originalVersionId": "0",
+      "clubId": 112072,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        16,
+        19,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        24
+      ],
+      "attributes": [
+        72,
+        53,
+        60,
+        55,
+        56,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50604607,
+      "assetId": 272959
     }
   }
 }

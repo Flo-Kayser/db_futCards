@@ -141,7 +141,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 10000,
       "resourceId": 71292,
       "assetId": 71292
     },
@@ -609,7 +609,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 252280,
       "assetId": 252280
     },
@@ -819,7 +819,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 3900,
       "resourceId": 275059,
       "assetId": 275059
     },
@@ -930,6 +930,44 @@
       "resourceId": 279832,
       "assetId": 279832
     },
+    "50402732": {
+      "name": "Loris Mettler",
+      "cardName": "Mettler",
+      "originalVersionId": "0",
+      "clubId": 1756,
+      "leagueId": 41,
+      "countryId": 47,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        21
+      ],
+      "attributes": [
+        55,
+        63,
+        63,
+        67,
+        62,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50402732,
+      "assetId": 71084
+    },
     "50405823": {
       "name": "Anton Ekeroth",
       "cardName": "Ekeroth",
@@ -968,9 +1006,115 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 22000,
+      "price": 23000,
       "resourceId": 50405823,
       "assetId": 74175
+    },
+    "50408734": {
+      "name": "Ilir Kukleci",
+      "cardName": "Kukleci",
+      "originalVersionId": "1",
+      "clubId": 1756,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "3000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        56,
+        29,
+        39,
+        50,
+        59,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50408734,
+      "assetId": 77086
+    },
+    "50610349": {
+      "name": "Martin Gjone",
+      "cardName": "Gjone",
+      "originalVersionId": "1",
+      "clubId": 1756,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "3000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        56,
+        29,
+        45,
+        52,
+        62,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50610349,
+      "assetId": 278701
+    },
+    "67370626": {
+      "name": "Ian Hoffmann",
+      "cardName": "Hoffmann",
+      "originalVersionId": "1",
+      "clubId": 1756,
+      "leagueId": 41,
+      "countryId": 95,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        9
+      ],
+      "attributes": [
+        70,
+        52,
+        60,
+        66,
+        56,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 67370626,
+      "assetId": 261762
     }
   }
 }

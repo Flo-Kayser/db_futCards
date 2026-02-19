@@ -32,7 +32,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 450,
       "resourceId": 72130,
       "assetId": 72130
     },
@@ -67,7 +67,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 800,
       "resourceId": 76066,
       "assetId": 76066
     },
@@ -102,7 +102,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1100,
       "resourceId": 77144,
       "assetId": 77144
     },
@@ -137,7 +137,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1000,
       "resourceId": 79394,
       "assetId": 79394
     },
@@ -171,7 +171,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1500,
       "resourceId": 79403,
       "assetId": 79403
     },
@@ -645,7 +645,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 300,
       "resourceId": 262838,
       "assetId": 262838
     },
@@ -755,7 +755,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 500,
       "resourceId": 264223,
       "assetId": 264223
     },
@@ -974,7 +974,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1500,
       "resourceId": 278750,
       "assetId": 278750
     },
@@ -1010,7 +1010,7 @@
         36
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 350,
       "resourceId": 50412403,
       "assetId": 80755
     },
@@ -1055,6 +1055,82 @@
       "price": 200,
       "resourceId": 50577775,
       "assetId": 246127
+    },
+    "50588353": {
+      "name": "Jan Elvedi",
+      "cardName": "Elvedi",
+      "originalVersionId": "1",
+      "clubId": 165,
+      "leagueId": 20,
+      "countryId": 47,
+      "versionId": "3001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12,
+        48
+      ],
+      "attributes": [
+        77,
+        34,
+        58,
+        58,
+        68,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50588353,
+      "assetId": 256705
+    },
+    "50601210": {
+      "name": "Sayfallah Ltaief",
+      "cardName": "Ltaief",
+      "originalVersionId": "0",
+      "clubId": 165,
+      "leagueId": 20,
+      "countryId": 145,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        30
+      ],
+      "attributes": [
+        84,
+        61,
+        61,
+        72,
+        32,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50601210,
+      "assetId": 269562
     }
   }
 }

@@ -68,7 +68,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 200,
       "resourceId": 70481,
       "assetId": 70481
     },
@@ -445,7 +445,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 850,
       "resourceId": 226093,
       "assetId": 226093
     },
@@ -748,7 +748,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 253688,
       "assetId": 253688
     },
@@ -861,7 +861,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 750,
       "resourceId": 265650,
       "assetId": 265650
     },
@@ -1005,7 +1005,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 650,
       "resourceId": 273883,
       "assetId": 273883
     },
@@ -1074,7 +1074,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5000,
       "resourceId": 273936,
       "assetId": 273936
     },
@@ -1108,7 +1108,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 278013,
       "assetId": 278013
     },
@@ -1146,9 +1146,44 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 23750,
+      "price": 24500,
       "resourceId": 50548464,
       "assetId": 216816
+    },
+    "50572655": {
+      "name": "Enzo Ebosse",
+      "cardName": "Ebosse",
+      "originalVersionId": "0",
+      "clubId": 54,
+      "leagueId": 31,
+      "countryId": 103,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        56,
+        35,
+        54,
+        60,
+        70,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50572655,
+      "assetId": 241007
     },
     "50586798": {
       "name": "Niels Nkounkou",
@@ -1265,6 +1300,41 @@
       "price": 350,
       "resourceId": 50596347,
       "assetId": 264699
+    },
+    "50609967": {
+      "name": "Luca Marianucci",
+      "cardName": "Marianucci",
+      "originalVersionId": "0",
+      "clubId": 54,
+      "leagueId": 31,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        48
+      ],
+      "attributes": [
+        46,
+        26,
+        48,
+        53,
+        70,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50609967,
+      "assetId": 278319
     }
   }
 }

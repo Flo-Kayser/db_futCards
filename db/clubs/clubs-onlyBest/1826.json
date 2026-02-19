@@ -923,6 +923,43 @@
       "resourceId": 50402945,
       "assetId": 71297
     },
+    "50555399": {
+      "name": "Gideon Jung",
+      "cardName": "Jung",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        68,
+        41,
+        58,
+        58,
+        66,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 9800,
+      "resourceId": 50555399,
+      "assetId": 223751
+    },
     "50571348": {
       "name": "Marius Wegmann",
       "cardName": "Wegmann",
@@ -993,6 +1030,47 @@
       "resourceId": 50589564,
       "assetId": 257916
     },
+    "50595816": {
+      "name": "Jonas Oehmichen",
+      "cardName": "Oehmichen",
+      "originalVersionId": "0",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31,
+        32,
+        39
+      ],
+      "attributes": [
+        68,
+        48,
+        62,
+        66,
+        43,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 4900,
+      "resourceId": 50595816,
+      "assetId": 264168
+    },
     "50608322": {
       "name": "Fotis Pseftis",
       "cardName": "Pseftis",
@@ -1023,9 +1101,44 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 50608322,
       "assetId": 276674
+    },
+    "67188258": {
+      "name": "Omar Sillah",
+      "cardName": "Sillah",
+      "originalVersionId": "1",
+      "clubId": 1826,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        44
+      ],
+      "attributes": [
+        82,
+        61,
+        48,
+        56,
+        34,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 4300,
+      "resourceId": 67188258,
+      "assetId": 79394
     }
   }
 }

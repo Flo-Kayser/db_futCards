@@ -734,7 +734,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 5000,
       "resourceId": 273870,
       "assetId": 273870
     },
@@ -768,7 +768,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 274979,
       "assetId": 274979
     },
@@ -878,9 +878,47 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 19500,
+      "price": 25000,
       "resourceId": 50577939,
       "assetId": 246291
+    },
+    "50608886": {
+      "name": "Troy Engseth Nyhammer",
+      "cardName": "Nyhammer",
+      "originalVersionId": "0",
+      "clubId": 418,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        33,
+        37
+      ],
+      "attributes": [
+        55,
+        58,
+        58,
+        62,
+        25,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 4500,
+      "resourceId": 50608886,
+      "assetId": 277238
     },
     "50610400": {
       "name": "Sander Håvik Innvær",
@@ -918,6 +956,43 @@
       "price": 200,
       "resourceId": 50610400,
       "assetId": 278752
+    },
+    "50611386": {
+      "name": "Mathias Tønnessen",
+      "cardName": "Tønnessen",
+      "originalVersionId": "1",
+      "clubId": 418,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13
+      ],
+      "attributes": [
+        60,
+        30,
+        48,
+        52,
+        62,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50611386,
+      "assetId": 279738
     }
   }
 }

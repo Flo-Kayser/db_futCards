@@ -440,7 +440,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 5100,
       "resourceId": 224361,
       "assetId": 224361
     },
@@ -625,7 +625,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 200,
       "resourceId": 236319,
       "assetId": 236319
     },
@@ -1093,7 +1093,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 20500,
+      "price": 17250,
       "resourceId": 50530137,
       "assetId": 198489
     },
@@ -1211,7 +1211,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 29500,
+      "price": 20250,
       "resourceId": 50548275,
       "assetId": 216627
     },
@@ -1295,7 +1295,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 19250,
+      "price": 17000,
       "resourceId": 50557417,
       "assetId": 225769
     },
@@ -1339,6 +1339,47 @@
       "price": 350,
       "resourceId": 50557427,
       "assetId": 225779
+    },
+    "50568135": {
+      "name": "Davis Keillor-Dunn",
+      "cardName": "Keillor-Dunn",
+      "originalVersionId": "0",
+      "clubId": 1947,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        10,
+        13,
+        20,
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        33,
+        43
+      ],
+      "attributes": [
+        80,
+        68,
+        63,
+        71,
+        39,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50568135,
+      "assetId": 236487
     },
     "50569591": {
       "name": "Dan Scarr",
@@ -1455,6 +1496,41 @@
       "price": 0,
       "resourceId": 50606654,
       "assetId": 275006
+    },
+    "67378436": {
+      "name": "Bailey Cadamarteri",
+      "cardName": "Cadamarteri",
+      "originalVersionId": "0",
+      "clubId": 1947,
+      "leagueId": 14,
+      "countryId": 82,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        42
+      ],
+      "attributes": [
+        76,
+        62,
+        47,
+        62,
+        32,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 67378436,
+      "assetId": 269572
     }
   }
 }

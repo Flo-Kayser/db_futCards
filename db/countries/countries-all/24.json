@@ -905,7 +905,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 1100,
+    "price": 750,
     "resourceId": 238004,
     "assetId": 238004
   },
@@ -1055,7 +1055,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 950,
     "resourceId": 244290,
     "assetId": 244290
   },
@@ -1091,7 +1091,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 244942,
     "assetId": 244942
   },
@@ -1431,7 +1431,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 261457,
     "assetId": 261457
   },
@@ -1699,7 +1699,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 1200,
+    "price": 850,
     "resourceId": 264886,
     "assetId": 264886
   },
@@ -1740,7 +1740,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 750,
     "resourceId": 266384,
     "assetId": 266384
   },
@@ -2104,7 +2104,7 @@
       50
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 500,
     "resourceId": 274927,
     "assetId": 274927
   },
@@ -2175,7 +2175,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 200,
     "resourceId": 277121,
     "assetId": 277121
   },
@@ -2329,6 +2329,41 @@
     "resourceId": 277902,
     "assetId": 277902
   },
+  "50405562": {
+    "name": "Stefán Ingi Sigurðarson",
+    "cardName": "Sigurðarson",
+    "originalVersionId": "0",
+    "clubId": 100632,
+    "leagueId": 10,
+    "countryId": 24,
+    "versionId": "2001",
+    "rating": 66,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      42,
+      44
+    ],
+    "attributes": [
+      60,
+      66,
+      53,
+      61,
+      21,
+      69
+    ],
+    "hasDynamicImage": false,
+    "price": 6200,
+    "resourceId": 50405562,
+    "assetId": 73914
+  },
   "50569159": {
     "name": "Alfons Sampsted",
     "cardName": "Sampsted",
@@ -2367,6 +2402,82 @@
     "price": 250,
     "resourceId": 50569159,
     "assetId": 237511
+  },
+  "50573122": {
+    "name": "Jón Dagur Þorsteinsson",
+    "cardName": "Þorsteinsson",
+    "originalVersionId": "0",
+    "clubId": 919,
+    "leagueId": 41,
+    "countryId": 24,
+    "versionId": "2001",
+    "rating": 69,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      21
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      28,
+      30,
+      40
+    ],
+    "attributes": [
+      79,
+      64,
+      64,
+      72,
+      40,
+      70
+    ],
+    "hasDynamicImage": false,
+    "price": 9900,
+    "resourceId": 50573122,
+    "assetId": 241474
+  },
+  "50576918": {
+    "name": "Kolbeinn Finnsson",
+    "cardName": "Finnsson",
+    "originalVersionId": "0",
+    "clubId": 920,
+    "leagueId": 41,
+    "countryId": 24,
+    "versionId": "2001",
+    "rating": 66,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      9,
+      10
+    ],
+    "attributes": [
+      74,
+      54,
+      61,
+      63,
+      61,
+      71
+    ],
+    "hasDynamicImage": false,
+    "price": 10000,
+    "resourceId": 50576918,
+    "assetId": 245270
   },
   "50579816": {
     "name": "Dagur Dan Þór­halls­son",
@@ -2532,7 +2643,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13750,
     "resourceId": 50596534,
     "assetId": 264886
   },
@@ -2576,9 +2687,49 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 16750,
     "resourceId": 50600834,
     "assetId": 269186
+  },
+  "50602226": {
+    "name": "Willum Þór Willumsson",
+    "cardName": "Willumsson",
+    "originalVersionId": "1",
+    "clubId": 1910,
+    "leagueId": 10,
+    "countryId": 24,
+    "versionId": "3001",
+    "rating": 70,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM"
+    ],
+    "playStyles": [
+      26
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      26,
+      31,
+      33
+    ],
+    "attributes": [
+      55,
+      69,
+      71,
+      71,
+      53,
+      76
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50602226,
+    "assetId": 270578
   },
   "50602435": {
     "name": "Andri Lucas Guðjohnsen",
@@ -2614,6 +2765,117 @@
     "price": 200,
     "resourceId": 50602435,
     "assetId": 270787
+  },
+  "50602804": {
+    "name": "Kristall Máni Ingason",
+    "cardName": "Ingason",
+    "originalVersionId": "1",
+    "clubId": 919,
+    "leagueId": 41,
+    "countryId": 24,
+    "versionId": "3000",
+    "rating": 64,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      31,
+      42,
+      43
+    ],
+    "attributes": [
+      74,
+      62,
+      62,
+      68,
+      46,
+      54
+    ],
+    "hasDynamicImage": false,
+    "price": 5100,
+    "resourceId": 50602804,
+    "assetId": 271156
+  },
+  "50608769": {
+    "name": "Nökkvi Þórisson",
+    "cardName": "Þórisson",
+    "originalVersionId": "0",
+    "clubId": 100638,
+    "leagueId": 10,
+    "countryId": 24,
+    "versionId": "2001",
+    "rating": 65,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      30,
+      44
+    ],
+    "attributes": [
+      69,
+      66,
+      56,
+      62,
+      28,
+      57
+    ],
+    "hasDynamicImage": false,
+    "price": 6500,
+    "resourceId": 50608769,
+    "assetId": 277121
+  },
+  "50609346": {
+    "name": "Ísak Andri Sigurgeirsson",
+    "cardName": "Sigurgeirsson",
+    "originalVersionId": "0",
+    "clubId": 1443,
+    "leagueId": 1,
+    "countryId": 24,
+    "versionId": "2001",
+    "rating": 67,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      27,
+      30,
+      39
+    ],
+    "attributes": [
+      74,
+      63,
+      62,
+      66,
+      25,
+      57
+    ],
+    "hasDynamicImage": false,
+    "price": 9900,
+    "resourceId": 50609346,
+    "assetId": 277698
   },
   "67373750": {
     "name": "Glódís Perla Viggósdóttir",
@@ -2654,7 +2916,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 28000,
     "resourceId": 67373750,
     "assetId": 264886
   }
