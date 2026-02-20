@@ -32,7 +32,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 70020,
       "assetId": 70020
     },
@@ -69,7 +69,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1100,
       "resourceId": 70768,
       "assetId": 70768
     },
@@ -175,7 +175,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 79607,
       "assetId": 79607
     },
@@ -211,7 +211,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 190120,
       "assetId": 190120
     },
@@ -246,7 +246,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 5000,
       "resourceId": 213928,
       "assetId": 213928
     },
@@ -280,7 +280,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 245865,
       "assetId": 245865
     },
@@ -472,7 +472,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 258437,
       "assetId": 258437
     },
@@ -509,7 +509,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 259119,
       "assetId": 259119
     },
@@ -544,7 +544,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 9900,
       "resourceId": 261495,
       "assetId": 261495
     },
@@ -619,7 +619,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 10000,
       "resourceId": 264869,
       "assetId": 264869
     },
@@ -729,7 +729,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 269262,
       "assetId": 269262
     },
@@ -769,7 +769,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 270039,
       "assetId": 270039
     },
@@ -953,7 +953,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 6100,
+      "price": 2700,
       "resourceId": 274559,
       "assetId": 274559
     },
@@ -1024,7 +1024,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 7900,
+      "price": 7800,
       "resourceId": 275507,
       "assetId": 275507
     },
@@ -1064,7 +1064,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 650,
       "resourceId": 276377,
       "assetId": 276377
     },
@@ -1099,7 +1099,7 @@
         41
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 277561,
       "assetId": 277561
     },
@@ -1137,44 +1137,6 @@
       "resourceId": 279702,
       "assetId": 279702
     },
-    "50561632": {
-      "name": "Ben Chilwell",
-      "cardName": "Chilwell",
-      "originalVersionId": "0",
-      "clubId": 76,
-      "leagueId": 16,
-      "countryId": 14,
-      "versionId": "2002",
-      "rating": 77,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        14
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9,
-        10
-      ],
-      "attributes": [
-        70,
-        60,
-        77,
-        75,
-        76,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50561632,
-      "assetId": 229984
-    },
     "50603588": {
       "name": "Martial Godo",
       "cardName": "Godo",
@@ -1209,7 +1171,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 250,
       "resourceId": 50603588,
       "assetId": 271940
     },
@@ -1266,7 +1228,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 20250,
+      "price": 17750,
       "resourceId": 50606856,
       "assetId": 275208
     },
@@ -1301,7 +1263,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 50607155,
       "assetId": 275507
     },
@@ -1340,9 +1302,60 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 67178881,
       "assetId": 70017
+    },
+    "67338848": {
+      "name": "Ben Chilwell",
+      "cardName": "Chilwell",
+      "originalVersionId": "111",
+      "clubId": 76,
+      "leagueId": 16,
+      "countryId": 14,
+      "versionId": "111",
+      "rating": 89,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12,
+        16,
+        17,
+        18,
+        20,
+        25,
+        28
+      ],
+      "playStylesPlus": [
+        14
+      ],
+      "rolesPlus": [
+        8,
+        27,
+        29,
+        107,
+        109,
+        110,
+        128
+      ],
+      "attributes": [
+        88,
+        75,
+        89,
+        87,
+        89,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 32250,
+      "resourceId": 67338848,
+      "assetId": 229984
     },
     "67364298": {
       "name": "Julio César Enciso",
@@ -1388,7 +1401,7 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 16750,
+      "price": 16500,
       "resourceId": 67364298,
       "assetId": 255434
     },
@@ -1439,7 +1452,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 20500,
+      "price": 18750,
       "resourceId": 67372234,
       "assetId": 263370
     },

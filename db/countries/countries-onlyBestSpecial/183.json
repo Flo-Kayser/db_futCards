@@ -1,46 +1,4 @@
 {
-  "168880": {
-    "name": "Mohammed Noor",
-    "cardName": "Noor",
-    "originalVersionId": "72",
-    "clubId": 114605,
-    "leagueId": 350,
-    "countryId": 183,
-    "versionId": "72",
-    "rating": 85,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [
-      12,
-      13,
-      8
-    ],
-    "playStylesPlus": [
-      24
-    ],
-    "rolesPlus": [
-      121,
-      131
-    ],
-    "attributes": [
-      80,
-      83,
-      83,
-      84,
-      64,
-      80
-    ],
-    "hasDynamicImage": false,
-    "price": 13750,
-    "resourceId": 168880,
-    "assetId": 168880
-  },
   "168886": {
     "name": "Sami Al Jaber",
     "cardName": "Al Jaber",
@@ -76,9 +34,61 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 13500,
+    "price": 15000,
     "resourceId": 168886,
     "assetId": 168886
+  },
+  "50500528": {
+    "name": "Mohammed Noor",
+    "cardName": "Noor",
+    "originalVersionId": "135",
+    "clubId": 114605,
+    "leagueId": 350,
+    "countryId": 183,
+    "versionId": "135",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      12,
+      13,
+      24,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      20,
+      22
+    ],
+    "rolesPlus": [
+      18,
+      20,
+      33,
+      121,
+      131,
+      132,
+      134
+    ],
+    "attributes": [
+      85,
+      87,
+      87,
+      88,
+      67,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 18500,
+    "resourceId": 50500528,
+    "assetId": 168880
   },
   "50567162": {
     "name": "Saeed Al Rubaie",
@@ -115,7 +125,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 20500,
+    "price": 28500,
     "resourceId": 50567162,
     "assetId": 235514
   },
@@ -156,62 +166,9 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 30000,
+    "price": 37750,
     "resourceId": 50580146,
     "assetId": 248498
-  },
-  "50598342": {
-    "name": "Saeed Al Owairan",
-    "cardName": "Al Owairan",
-    "originalVersionId": "168",
-    "clubId": 114605,
-    "leagueId": 350,
-    "countryId": 183,
-    "versionId": "168",
-    "rating": 86,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "CAM",
-      "RW",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      2,
-      25,
-      6
-    ],
-    "playStylesPlus": [
-      21
-    ],
-    "rolesPlus": [
-      131,
-      132,
-      133,
-      134,
-      135,
-      136,
-      137,
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      95,
-      84,
-      81,
-      87,
-      37,
-      74
-    ],
-    "hasDynamicImage": true,
-    "price": 175000,
-    "resourceId": 50598342,
-    "assetId": 266694
   },
   "50601330": {
     "name": "Ali Makki",
@@ -323,5 +280,58 @@
     "sbcPrice": 6200,
     "resourceId": 67183565,
     "assetId": 74701
+  },
+  "67375558": {
+    "name": "Saeed Al Owairan",
+    "cardName": "Al Owairan",
+    "originalVersionId": "135",
+    "clubId": 114605,
+    "leagueId": 350,
+    "countryId": 183,
+    "versionId": "135",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CAM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      12,
+      2,
+      21,
+      22,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      20,
+      25
+    ],
+    "rolesPlus": [
+      31,
+      37,
+      42,
+      132,
+      135,
+      136,
+      143
+    ],
+    "attributes": [
+      96,
+      88,
+      85,
+      91,
+      45,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 586000,
+    "resourceId": 67375558,
+    "assetId": 266694
   }
 }

@@ -153,7 +153,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 223959,
       "assetId": 223959
     },
@@ -199,7 +199,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 229905,
       "assetId": 229905
     },
@@ -276,7 +276,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 350,
       "resourceId": 234171,
       "assetId": 234171
     },
@@ -399,7 +399,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 800,
       "resourceId": 239892,
       "assetId": 239892
     },
@@ -518,7 +518,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 252293,
       "assetId": 252293
     },
@@ -559,7 +559,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 10000,
       "resourceId": 259675,
       "assetId": 259675
     },
@@ -598,7 +598,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 259754,
       "assetId": 259754
     },
@@ -855,7 +855,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 279882,
       "assetId": 279882
     },
@@ -900,7 +900,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 16250,
       "resourceId": 50533047,
       "assetId": 201399
     },
@@ -949,7 +949,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 100000,
+      "price": 74000,
       "resourceId": 50544459,
       "assetId": 212811
     },
@@ -1033,48 +1033,6 @@
       "resourceId": 50557948,
       "assetId": 226300
     },
-    "50571028": {
-      "name": "Noa Lang",
-      "cardName": "Lang",
-      "originalVersionId": "1",
-      "clubId": 325,
-      "leagueId": 68,
-      "countryId": 34,
-      "versionId": "3002",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 5,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        20,
-        22,
-        25,
-        7,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        38,
-        39
-      ],
-      "attributes": [
-        80,
-        77,
-        73,
-        84,
-        50,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 800,
-      "resourceId": 50571028,
-      "assetId": 239380
-    },
     "50584450": {
       "name": "Wilfried Singo",
       "cardName": "Singo",
@@ -1114,7 +1072,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 50584450,
       "assetId": 252802
     },
@@ -1175,7 +1133,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 115000,
+      "price": 147000,
       "resourceId": 50594853,
       "assetId": 263205
     },
@@ -1220,7 +1178,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 65000,
+      "price": 0,
       "resourceId": 50602219,
       "assetId": 270571
     },
@@ -1357,6 +1315,58 @@
       "resourceId": 67331356,
       "assetId": 222492
     },
+    "67348244": {
+      "name": "Noa Lang",
+      "cardName": "Lang",
+      "originalVersionId": "111",
+      "clubId": 325,
+      "leagueId": 68,
+      "countryId": 34,
+      "versionId": "111",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        11,
+        22,
+        23,
+        6,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        20,
+        25
+      ],
+      "rolesPlus": [
+        28,
+        29,
+        40,
+        127,
+        130,
+        138,
+        139
+      ],
+      "attributes": [
+        90,
+        88,
+        85,
+        92,
+        60,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 190000,
+      "resourceId": 67348244,
+      "assetId": 239380
+    },
     "84118373": {
       "name": "Victor Osimhen",
       "cardName": "Osimhen",
@@ -1401,7 +1411,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 294000,
+      "price": 297000,
       "resourceId": 84118373,
       "assetId": 232293
     }

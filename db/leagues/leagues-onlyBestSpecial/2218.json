@@ -46,7 +46,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 17000,
     "resourceId": 50405325,
     "assetId": 73677
   },
@@ -131,7 +131,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17500,
     "resourceId": 50408698,
     "assetId": 77050
   },
@@ -200,6 +200,7 @@
       33,
       50
     ],
+    "isObjective": true,
     "hasDynamicImage": false,
     "price": 0,
     "resourceId": 50411606,
@@ -244,7 +245,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 47750,
+    "price": 46500,
     "resourceId": 50558994,
     "assetId": 227346
   },
@@ -344,7 +345,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 28750,
+    "price": 28500,
     "resourceId": 50559005,
     "assetId": 227357
   },
@@ -387,7 +388,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 18500,
+    "price": 17750,
     "resourceId": 50559040,
     "assetId": 227392
   },
@@ -432,7 +433,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 23000,
     "resourceId": 50574544,
     "assetId": 242896
   },
@@ -479,7 +480,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 17750,
     "resourceId": 50577345,
     "assetId": 245697
   },
@@ -522,7 +523,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 17000,
     "resourceId": 50577825,
     "assetId": 246177
   },
@@ -624,7 +625,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 24750,
+    "price": 23750,
     "resourceId": 50578278,
     "assetId": 246630
   },
@@ -763,7 +764,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 29250,
     "resourceId": 50594105,
     "assetId": 262457
   },
@@ -796,6 +797,7 @@
       41,
       58
     ],
+    "isObjective": true,
     "hasDynamicImage": false,
     "price": 0,
     "resourceId": 50596541,
@@ -865,6 +867,57 @@
     "resourceId": 50596635,
     "assetId": 264987
   },
+  "50596744": {
+    "name": "Grace Kazadi",
+    "cardName": "Kazadi",
+    "originalVersionId": "111",
+    "clubId": 131724,
+    "leagueId": 2218,
+    "countryId": 18,
+    "versionId": "111",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      11,
+      12,
+      14,
+      15,
+      20,
+      24,
+      28
+    ],
+    "playStylesPlus": [
+      17
+    ],
+    "rolesPlus": [
+      5,
+      24,
+      26,
+      103,
+      104,
+      106,
+      123
+    ],
+    "attributes": [
+      87,
+      70,
+      80,
+      87,
+      86,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 12500,
+    "resourceId": 50596744,
+    "assetId": 265096
+  },
   "50597509": {
     "name": "Maëlle Garbino",
     "cardName": "Garbino",
@@ -913,7 +966,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 14500,
     "resourceId": 50597509,
     "assetId": 265861
   },
@@ -957,7 +1010,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 22000,
     "resourceId": 50597553,
     "assetId": 265905
   },
@@ -1008,49 +1061,6 @@
     "hasDynamicImage": true,
     "resourceId": 50597621,
     "assetId": 265973
-  },
-  "50599179": {
-    "name": "Romée Leuchter",
-    "cardName": "Leuchter",
-    "originalVersionId": "3",
-    "clubId": 116034,
-    "leagueId": 2218,
-    "countryId": 34,
-    "versionId": "3",
-    "rating": 84,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "CAM",
-      "LW",
-      "ST"
-    ],
-    "playStyles": [
-      2,
-      20,
-      8
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      39,
-      42,
-      43,
-      141
-    ],
-    "attributes": [
-      87,
-      86,
-      75,
-      84,
-      33,
-      78
-    ],
-    "hasDynamicImage": true,
-    "price": 20750,
-    "resourceId": 50599179,
-    "assetId": 267531
   },
   "50601477": {
     "name": "Madeline Roth",
@@ -1205,7 +1215,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 16500,
     "resourceId": 50605594,
     "assetId": 273946
   },
@@ -1261,7 +1271,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 38000,
+    "price": 37500,
     "resourceId": 50606740,
     "assetId": 275092
   },
@@ -1314,7 +1324,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 20250,
+    "price": 22000,
     "resourceId": 50607564,
     "assetId": 275916
   },
@@ -1498,7 +1508,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 29000,
+    "price": 26250,
     "resourceId": 50609867,
     "assetId": 278219
   },
@@ -1544,7 +1554,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 15250,
     "resourceId": 50609873,
     "assetId": 278225
   },
@@ -1607,7 +1617,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 407500,
+    "sbcPrice": 374250,
     "resourceId": 67335200,
     "assetId": 226336
   },
@@ -1658,7 +1668,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 66500,
+    "price": 58000,
     "resourceId": 67335226,
     "assetId": 226362
   },
@@ -1701,7 +1711,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 30500,
+    "price": 30750,
     "resourceId": 67336174,
     "assetId": 227310
   },
@@ -1747,7 +1757,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 303250,
+    "sbcPrice": 289250,
     "price": 345800,
     "resourceId": 67336179,
     "assetId": 227315
@@ -1845,7 +1855,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 513000,
+    "price": 445000,
     "resourceId": 67336225,
     "assetId": 227361
   },
@@ -1896,7 +1906,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 61500,
+    "price": 49750,
     "resourceId": 67340296,
     "assetId": 231432
   },
@@ -1942,7 +1952,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 252000,
+    "price": 244000,
     "resourceId": 67354820,
     "assetId": 245956
   },
@@ -1993,7 +2003,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 15750,
     "resourceId": 67354826,
     "assetId": 245962
   },
@@ -2037,7 +2047,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 20000,
     "resourceId": 67355228,
     "assetId": 246364
   },
@@ -2087,7 +2097,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 72000,
+    "price": 71000,
     "resourceId": 67373769,
     "assetId": 264905
   },
@@ -2134,7 +2144,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 18500,
+    "price": 17500,
     "resourceId": 67373832,
     "assetId": 264968
   },
@@ -2190,6 +2200,59 @@
     "resourceId": 67374762,
     "assetId": 265898
   },
+  "67376395": {
+    "name": "Romée Leuchter",
+    "cardName": "Leuchter",
+    "originalVersionId": "111",
+    "clubId": 116034,
+    "leagueId": 2218,
+    "countryId": 34,
+    "versionId": "111",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      2,
+      21,
+      24,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      20
+    ],
+    "rolesPlus": [
+      34,
+      38,
+      42,
+      44,
+      132,
+      139,
+      141,
+      143
+    ],
+    "attributes": [
+      92,
+      91,
+      82,
+      89,
+      40,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 38000,
+    "resourceId": 67376395,
+    "assetId": 267531
+  },
   "67383617": {
     "name": "Tarciane",
     "cardName": "Tarciane",
@@ -2236,7 +2299,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 18000,
     "resourceId": 67383617,
     "assetId": 274753
   },
@@ -2270,6 +2333,7 @@
       48,
       61
     ],
+    "isObjective": true,
     "hasDynamicImage": false,
     "price": 0,
     "resourceId": 67386034,
@@ -2379,7 +2443,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 738000,
+    "price": 722000,
     "resourceId": 84151754,
     "assetId": 265674
   }

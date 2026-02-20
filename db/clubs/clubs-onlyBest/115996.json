@@ -283,44 +283,6 @@
       "resourceId": 264915,
       "assetId": 264915
     },
-    "264922": {
-      "name": "Kristin Kögel",
-      "cardName": "Kögel",
-      "originalVersionId": "1",
-      "clubId": 115996,
-      "leagueId": 2215,
-      "countryId": 21,
-      "versionId": "3002",
-      "rating": 82,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        16
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        30,
-        127
-      ],
-      "attributes": [
-        86,
-        79,
-        77,
-        80,
-        46,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 264922,
-      "assetId": 264922
-    },
     "264924": {
       "name": "Lilla Turányi",
       "cardName": "Turányi",
@@ -358,7 +320,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 264924,
       "assetId": 264924
     },
@@ -395,7 +357,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 800,
       "resourceId": 264926,
       "assetId": 264926
     },
@@ -761,6 +723,57 @@
       "resourceId": 279695,
       "assetId": 279695
     },
+    "50596570": {
+      "name": "Kristin Kögel",
+      "cardName": "Kögel",
+      "originalVersionId": "111",
+      "clubId": 115996,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "111",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        10,
+        12,
+        16,
+        20,
+        21,
+        22,
+        6
+      ],
+      "playStylesPlus": [
+        25
+      ],
+      "rolesPlus": [
+        28,
+        29,
+        40,
+        127,
+        130,
+        138,
+        139
+      ],
+      "attributes": [
+        92,
+        87,
+        85,
+        88,
+        60,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 12000,
+      "resourceId": 50596570,
+      "assetId": 264922
+    },
     "50596682": {
       "name": "Carlotta Wamser",
       "cardName": "Wamser",
@@ -849,7 +862,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 400,
       "resourceId": 50596724,
       "assetId": 265076
     },
@@ -895,7 +908,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 22500,
       "resourceId": 50597025,
       "assetId": 265377
     },

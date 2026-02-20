@@ -45,7 +45,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 17500,
       "resourceId": 50408698,
       "assetId": 77050
     },
@@ -114,6 +114,7 @@
         33,
         50
       ],
+      "isObjective": true,
       "hasDynamicImage": false,
       "price": 0,
       "resourceId": 50411606,
@@ -158,7 +159,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 47750,
+      "price": 46500,
       "resourceId": 50558994,
       "assetId": 227346
     },
@@ -213,7 +214,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 24750,
+      "price": 23750,
       "resourceId": 50578278,
       "assetId": 246630
     },
@@ -266,52 +267,9 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 27500,
+      "price": 29250,
       "resourceId": 50594105,
       "assetId": 262457
-    },
-    "50599179": {
-      "name": "Romée Leuchter",
-      "cardName": "Leuchter",
-      "originalVersionId": "3",
-      "clubId": 116034,
-      "leagueId": 2218,
-      "countryId": 34,
-      "versionId": "3",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        2,
-        20,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        39,
-        42,
-        43,
-        141
-      ],
-      "attributes": [
-        87,
-        86,
-        75,
-        84,
-        33,
-        78
-      ],
-      "hasDynamicImage": true,
-      "price": 20750,
-      "resourceId": 50599179,
-      "assetId": 267531
     },
     "50607564": {
       "name": "Jennifer Echegini",
@@ -362,7 +320,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 20250,
+      "price": 22000,
       "resourceId": 50607564,
       "assetId": 275916
     },
@@ -408,7 +366,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 15250,
       "resourceId": 50609873,
       "assetId": 278225
     },
@@ -471,7 +429,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 407500,
+      "sbcPrice": 374250,
       "resourceId": 67335200,
       "assetId": 226336
     },
@@ -521,9 +479,62 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 72000,
+      "price": 71000,
       "resourceId": 67373769,
       "assetId": 264905
+    },
+    "67376395": {
+      "name": "Romée Leuchter",
+      "cardName": "Leuchter",
+      "originalVersionId": "111",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 34,
+      "versionId": "111",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        2,
+        21,
+        24,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        34,
+        38,
+        42,
+        44,
+        132,
+        139,
+        141,
+        143
+      ],
+      "attributes": [
+        92,
+        91,
+        82,
+        89,
+        40,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 38000,
+      "resourceId": 67376395,
+      "assetId": 267531
     },
     "84119742": {
       "name": "Sakina Karchaoui",

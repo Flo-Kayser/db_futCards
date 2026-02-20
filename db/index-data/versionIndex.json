@@ -624,6 +624,19 @@
         "tertiaryColor": "#fd4e95"
       }
     },
+    "111": {
+      "count": 35,
+      "file": "db/versions/111.json",
+      "details": {
+        "name": "Fantasy UT",
+        "hasStrip": true,
+        "createdAt": "2026-02-19T15:00:00.418Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_111_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#9545b4",
+        "tertiaryColor": "#ffb9ef"
+      }
+    },
     "112": {
       "count": 12,
       "file": "db/versions/112.json",
@@ -661,6 +674,19 @@
         "primaryColor": "#fff0be",
         "secondaryColor": "#083824",
         "tertiaryColor": "#99f4ef"
+      }
+    },
+    "135": {
+      "count": 11,
+      "file": "db/versions/135.json",
+      "details": {
+        "name": "Fantasy UT Hero",
+        "hasStrip": true,
+        "createdAt": "2026-02-19T15:00:00.419Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_135_0.png",
+        "primaryColor": "#f3fdff",
+        "secondaryColor": "#13137d",
+        "tertiaryColor": "#cf009b"
       }
     },
     "150": {
@@ -781,7 +807,7 @@
       }
     },
     "2000": {
-      "count": 4952,
+      "count": 4985,
       "file": "db/versions/2000.json",
       "details": {
         "name": "Bronze Common",
@@ -820,7 +846,7 @@
       }
     },
     "3000": {
-      "count": 2659,
+      "count": 2669,
       "file": "db/versions/3000.json",
       "details": {
         "name": "Bronze Rare",
@@ -860,8 +886,8 @@
     }
   },
   "meta": {
-    "totalVersions": 66,
-    "totalVersionsWithoutBase": 60,
-    "updatedAt": "2026-02-19T19:08:34.725Z"
+    "totalVersions": 68,
+    "totalVersionsWithoutBase": 62,
+    "updatedAt": "2026-02-20T19:05:25.958Z"
   }
 }

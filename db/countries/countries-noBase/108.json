@@ -44,7 +44,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 600000,
     "resourceId": 20289,
     "assetId": 20289
   },
@@ -87,7 +87,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 235000,
+    "price": 234000,
     "resourceId": 31432,
     "assetId": 31432
   },
@@ -132,7 +132,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 47000,
+    "price": 41750,
     "resourceId": 170733,
     "assetId": 170733
   },
@@ -171,7 +171,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 57500,
+    "price": 53000,
     "resourceId": 188428,
     "assetId": 188428
   },
@@ -229,7 +229,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 515000,
+    "price": 470000,
     "resourceId": 50351937,
     "assetId": 20289
   },
@@ -277,7 +277,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 1673000,
+    "price": 1674000,
     "resourceId": 50363080,
     "assetId": 31432
   },
@@ -370,7 +370,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 108000,
+    "price": 101000,
     "resourceId": 50502381,
     "assetId": 170733
   },
@@ -423,7 +423,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 408250,
+    "sbcPrice": 369750,
     "price": 454350,
     "resourceId": 50520076,
     "assetId": 188428
@@ -658,7 +658,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 33500,
+    "price": 30250,
     "resourceId": 50566821,
     "assetId": 235173
   },
@@ -702,7 +702,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 16000,
     "resourceId": 50571237,
     "assetId": 239589
   },
@@ -748,7 +748,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 25750,
+    "price": 29000,
     "resourceId": 50599910,
     "assetId": 268262
   },
@@ -794,7 +794,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 48500,
+    "price": 49750,
     "resourceId": 50602179,
     "assetId": 270531
   },
@@ -851,7 +851,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 20250,
+    "price": 17750,
     "resourceId": 50606856,
     "assetId": 275208
   },
@@ -884,10 +884,66 @@
       62,
       63
     ],
+    "isObjective": true,
     "hasDynamicImage": false,
     "price": 0,
     "resourceId": 50610696,
     "assetId": 279048
+  },
+  "67129153": {
+    "name": "Yaya Touré",
+    "cardName": "Touré",
+    "originalVersionId": "135",
+    "clubId": 114605,
+    "leagueId": 13,
+    "countryId": 108,
+    "versionId": "135",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      17,
+      2,
+      24,
+      29,
+      8
+    ],
+    "playStylesPlus": [
+      28,
+      9
+    ],
+    "rolesPlus": [
+      14,
+      15,
+      19,
+      31,
+      116,
+      118,
+      120,
+      134,
+      149
+    ],
+    "attributes": [
+      87,
+      88,
+      91,
+      90,
+      87,
+      93
+    ],
+    "hasDynamicImage": true,
+    "price": 4800000,
+    "resourceId": 67129153,
+    "assetId": 20289
   },
   "67186876": {
     "name": "Yan Diomande",
@@ -931,9 +987,68 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 30000,
     "resourceId": 67186876,
     "assetId": 78012
+  },
+  "67279597": {
+    "name": "Gervinho",
+    "cardName": "Gervinho",
+    "originalVersionId": "135",
+    "clubId": 114605,
+    "leagueId": 13,
+    "countryId": 108,
+    "versionId": "135",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      11,
+      23,
+      25,
+      26,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      20,
+      21
+    ],
+    "rolesPlus": [
+      25,
+      26,
+      29,
+      30,
+      37,
+      40,
+      123,
+      127,
+      135,
+      136,
+      138,
+      139
+    ],
+    "attributes": [
+      96,
+      85,
+      86,
+      90,
+      45,
+      75
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 549250,
+    "resourceId": 67279597,
+    "assetId": 170733
   },
   "67349651": {
     "name": "Hamed Junior Traoré",
@@ -978,7 +1093,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 19750,
     "resourceId": 67349651,
     "assetId": 240787
   },

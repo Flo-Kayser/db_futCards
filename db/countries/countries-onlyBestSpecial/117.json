@@ -107,7 +107,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 512000,
+    "price": 506000,
     "resourceId": 50499073,
     "assetId": 167425
   },
@@ -156,7 +156,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 320000,
+    "price": 310000,
     "resourceId": 50547849,
     "assetId": 216201
   },
@@ -196,7 +196,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 23250,
+    "price": 30000,
     "resourceId": 50567392,
     "assetId": 235744
   },
@@ -239,7 +239,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 23750,
+    "price": 22000,
     "resourceId": 50572810,
     "assetId": 241162
   },
@@ -281,7 +281,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 23500,
+    "price": 19750,
     "resourceId": 50576563,
     "assetId": 244915
   },
@@ -331,7 +331,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 13000,
     "resourceId": 50599328,
     "assetId": 267680
   },
@@ -377,53 +377,9 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 15250,
     "resourceId": 67306620,
     "assetId": 197756
-  },
-  "67350100": {
-    "name": "Antoine Semenyo",
-    "cardName": "Semenyo",
-    "originalVersionId": "22",
-    "clubId": 1943,
-    "leagueId": 13,
-    "countryId": 117,
-    "versionId": "22",
-    "rating": 85,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 3,
-    "preferredPosition": "RM",
-    "possiblePositions": [
-      "LM",
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      19,
-      27,
-      29,
-      6
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      26,
-      30,
-      123,
-      135
-    ],
-    "attributes": [
-      87,
-      85,
-      80,
-      86,
-      46,
-      84
-    ],
-    "hasDynamicImage": true,
-    "sbcPrice": 39250,
-    "resourceId": 67350100,
-    "assetId": 241236
   },
   "67354019": {
     "name": "Mohammed Kudus",
@@ -474,5 +430,64 @@
     "sbcPrice": 228500,
     "resourceId": 67354019,
     "assetId": 245155
+  },
+  "100904532": {
+    "name": "Antoine Semenyo",
+    "cardName": "Semenyo",
+    "originalVersionId": "111",
+    "clubId": 10,
+    "leagueId": 13,
+    "countryId": 117,
+    "versionId": "111",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      19,
+      2,
+      20,
+      24,
+      29,
+      9
+    ],
+    "playStylesPlus": [
+      21,
+      6
+    ],
+    "rolesPlus": [
+      25,
+      26,
+      29,
+      36,
+      37,
+      40,
+      123,
+      127,
+      130,
+      135,
+      138,
+      139
+    ],
+    "attributes": [
+      92,
+      90,
+      85,
+      91,
+      60,
+      89
+    ],
+    "hasDynamicImage": true,
+    "price": 1630000,
+    "resourceId": 100904532,
+    "assetId": 241236
   }
 }

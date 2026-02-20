@@ -34,7 +34,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1600,
       "resourceId": 78357,
       "assetId": 78357
     },
@@ -76,7 +76,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 9500,
+      "price": 8300,
       "resourceId": 227190,
       "assetId": 227190
     },
@@ -112,7 +112,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1500,
       "resourceId": 268942,
       "assetId": 268942
     },
@@ -146,7 +146,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 9600,
       "resourceId": 268943,
       "assetId": 268943
     },
@@ -180,7 +180,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 2200,
       "resourceId": 272665,
       "assetId": 272665
     },
@@ -293,7 +293,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 200,
       "resourceId": 50406711,
       "assetId": 75063
     },
@@ -336,7 +336,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 48000,
+      "price": 49750,
       "resourceId": 50558838,
       "assetId": 227190
     },
@@ -426,7 +426,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 70500,
+      "price": 77000,
       "resourceId": 50568127,
       "assetId": 236479
     },
@@ -473,7 +473,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 19500,
       "resourceId": 50585083,
       "assetId": 253435
     },
@@ -531,53 +531,6 @@
       "resourceId": 50593503,
       "assetId": 261855
     },
-    "50601052": {
-      "name": "Salma Paralluelo",
-      "cardName": "Salma Paralluelo",
-      "originalVersionId": "22",
-      "clubId": 116325,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "22",
-      "rating": 86,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        20,
-        22,
-        25,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        35,
-        39,
-        43,
-        127,
-        138
-      ],
-      "attributes": [
-        94,
-        86,
-        81,
-        85,
-        48,
-        80
-      ],
-      "hasDynamicImage": true,
-      "price": 380000,
-      "resourceId": 50601052,
-      "assetId": 269404
-    },
     "50603094": {
       "name": "Vicky López",
       "cardName": "Vicky López",
@@ -626,7 +579,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 18750,
+      "price": 18500,
       "resourceId": 50603094,
       "assetId": 271446
     },
@@ -674,7 +627,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 18250,
       "resourceId": 50609347,
       "assetId": 277699
     },
@@ -726,7 +679,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 5350000,
+      "price": 5330000,
       "resourceId": 67335966,
       "assetId": 227102
     },
@@ -777,7 +730,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 7695000,
+      "price": 7500000,
       "resourceId": 67350531,
       "assetId": 241667
     },
@@ -833,7 +786,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 87500,
+      "price": 87000,
       "resourceId": 67362300,
       "assetId": 253436
     },
@@ -888,9 +841,64 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 24000,
       "resourceId": 67376394,
       "assetId": 267530
+    },
+    "67378268": {
+      "name": "Salma Paralluelo",
+      "cardName": "Salma Paralluelo",
+      "originalVersionId": "111",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "111",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        12,
+        20,
+        22,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        25,
+        6
+      ],
+      "rolesPlus": [
+        30,
+        36,
+        39,
+        41,
+        127,
+        135,
+        138,
+        140,
+        143
+      ],
+      "attributes": [
+        95,
+        91,
+        86,
+        90,
+        60,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 2499000,
+      "resourceId": 67378268,
+      "assetId": 269404
     },
     "84113283": {
       "name": "Alexia Putellas",
@@ -941,7 +949,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 8850000,
+      "price": 8750000,
       "resourceId": 84113283,
       "assetId": 227203
     },
@@ -992,7 +1000,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 370000,
+      "price": 355000,
       "resourceId": 84123369,
       "assetId": 237289
     },
@@ -1045,7 +1053,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 1690000,
+      "price": 1645000,
       "resourceId": 84127926,
       "assetId": 241846
     },
@@ -1101,7 +1109,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 7096000,
+      "price": 9602000,
       "resourceId": 117703043,
       "assetId": 262531
     }

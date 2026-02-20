@@ -34,7 +34,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 71651,
       "assetId": 71651
     },
@@ -73,7 +73,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 71998,
       "assetId": 71998
     },
@@ -115,7 +115,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 3600,
       "resourceId": 202652,
       "assetId": 202652
     },
@@ -187,7 +187,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 700,
       "resourceId": 228789,
       "assetId": 228789
     },
@@ -459,7 +459,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 248695,
       "assetId": 248695
     },
@@ -766,7 +766,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 266032,
       "assetId": 266032
     },
@@ -998,7 +998,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 2100,
       "resourceId": 50403645,
       "assetId": 71997
     },
@@ -1099,7 +1099,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 220000,
+      "price": 200000,
       "resourceId": 50570264,
       "assetId": 238616
     },
@@ -1154,7 +1154,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 380000,
+      "price": 363000,
       "resourceId": 50578738,
       "assetId": 247090
     },
@@ -1188,7 +1188,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 5100,
       "resourceId": 50588774,
       "assetId": 257126
     },
@@ -1229,7 +1229,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 50500,
+      "price": 51500,
       "resourceId": 50590955,
       "assetId": 259307
     },
@@ -1374,7 +1374,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 450,
       "resourceId": 50610461,
       "assetId": 278813
     },
@@ -1424,7 +1424,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 2180000,
+      "price": 2031000,
       "resourceId": 67185551,
       "assetId": 76687
     },
@@ -1523,7 +1523,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 449000,
+      "price": 441000,
       "resourceId": 67360906,
       "assetId": 252042
     },
@@ -1576,57 +1576,6 @@
       "resourceId": 67364943,
       "assetId": 256079
     },
-    "67366398": {
-      "name": "Cole Palmer",
-      "cardName": "Palmer",
-      "originalVersionId": "96",
-      "clubId": 5,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "96",
-      "rating": 89,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 5,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        13,
-        20,
-        22,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        6
-      ],
-      "rolesPlus": [
-        23,
-        33,
-        34,
-        126,
-        131,
-        132,
-        141
-      ],
-      "attributes": [
-        82,
-        87,
-        89,
-        89,
-        52,
-        70
-      ],
-      "hasDynamicImage": true,
-      "price": 91000,
-      "resourceId": 67366398,
-      "assetId": 257534
-    },
     "67377302": {
       "name": "Alejandro Garnacho",
       "cardName": "Garnacho",
@@ -1674,7 +1623,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 298000,
+      "price": 285000,
       "resourceId": 67377302,
       "assetId": 268438
     },
@@ -1709,9 +1658,63 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 2800,
+      "price": 350,
       "resourceId": 67384371,
       "assetId": 275507
+    },
+    "84143614": {
+      "name": "Cole Palmer",
+      "cardName": "Palmer",
+      "originalVersionId": "111",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "111",
+      "rating": 92,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        13,
+        22,
+        7,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        6
+      ],
+      "rolesPlus": [
+        23,
+        34,
+        42,
+        126,
+        131,
+        132,
+        133,
+        143
+      ],
+      "attributes": [
+        90,
+        90,
+        92,
+        93,
+        55,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 5550000,
+      "resourceId": 84143614,
+      "assetId": 257534
     }
   }
 }

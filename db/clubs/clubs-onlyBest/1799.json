@@ -68,7 +68,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 200,
       "resourceId": 73896,
       "assetId": 73896
     },
@@ -139,7 +139,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 650,
       "resourceId": 203824,
       "assetId": 203824
     },
@@ -331,7 +331,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 233306,
       "assetId": 233306
     },
@@ -445,7 +445,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 237646,
       "assetId": 237646
     },
@@ -526,7 +526,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1100,
       "resourceId": 241159,
       "assetId": 241159
     },
@@ -711,7 +711,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 4700,
       "resourceId": 259205,
       "assetId": 259205
     },
@@ -747,7 +747,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 8800,
       "resourceId": 264035,
       "assetId": 264035
     },
@@ -827,7 +827,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 2600,
       "resourceId": 273616,
       "assetId": 273616
     },
@@ -979,7 +979,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 5100,
       "resourceId": 50407986,
       "assetId": 76338
     },
@@ -1103,40 +1103,6 @@
       "resourceId": 50568109,
       "assetId": 236461
     },
-    "50570404": {
-      "name": "Jørgen Strand Larsen",
-      "cardName": "Larsen",
-      "originalVersionId": "0",
-      "clubId": 1799,
-      "leagueId": 13,
-      "countryId": 36,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "attributes": [
-        75,
-        79,
-        62,
-        70,
-        32,
-        83
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50570404,
-      "assetId": 238756
-    },
     "50575715": {
       "name": "Maxence Lacroix",
       "cardName": "Lacroix",
@@ -1179,7 +1145,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 360000,
+      "price": 345000,
       "resourceId": 50575715,
       "assetId": 244067
     },
@@ -1219,7 +1185,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 50583069,
       "assetId": 251421
     },
@@ -1261,7 +1227,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 50590092,
       "assetId": 258444
     },
@@ -1312,7 +1278,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 71500,
+      "price": 69000,
       "resourceId": 50590888,
       "assetId": 259240
     },
@@ -1351,9 +1317,56 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 850,
       "resourceId": 50599124,
       "assetId": 267476
+    },
+    "67347620": {
+      "name": "Jørgen Strand Larsen",
+      "cardName": "Larsen",
+      "originalVersionId": "111",
+      "clubId": 1799,
+      "leagueId": 13,
+      "countryId": 36,
+      "versionId": "111",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        2,
+        20,
+        29,
+        4,
+        7
+      ],
+      "playStylesPlus": [
+        6
+      ],
+      "rolesPlus": [
+        43,
+        141,
+        142,
+        144
+      ],
+      "attributes": [
+        87,
+        90,
+        80,
+        87,
+        40,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 24500,
+      "resourceId": 67347620,
+      "assetId": 238756
     },
     "84145457": {
       "name": "Yeremy Pino",
