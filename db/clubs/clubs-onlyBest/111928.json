@@ -209,7 +209,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 850,
       "resourceId": 207877,
       "assetId": 207877
     },
@@ -248,7 +248,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 350,
       "resourceId": 217998,
       "assetId": 217998
     },
@@ -327,7 +327,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 226385,
       "assetId": 226385
     },
@@ -512,7 +512,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 236924,
       "assetId": 236924
     },
@@ -549,7 +549,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 250,
       "resourceId": 236993,
       "assetId": 236993
     },
@@ -658,7 +658,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 238922,
       "assetId": 238922
     },
@@ -1004,39 +1004,49 @@
       "resourceId": 268483,
       "assetId": 268483
     },
-    "274533": {
+    "50606181": {
       "name": "Daniel Munie",
       "cardName": "Munie",
-      "originalVersionId": "0",
+      "originalVersionId": "3",
       "clubId": 111928,
       "leagueId": 39,
       "countryId": 95,
-      "versionId": "2000",
-      "rating": 61,
+      "versionId": "3",
+      "rating": 84,
       "preferredFoot": "Right",
       "weakFoot": 3,
-      "skillMoves": 2,
+      "skillMoves": 3,
       "preferredPosition": "CB",
       "possiblePositions": [
         "CB"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        12,
+        16,
+        17,
+        18,
+        4
+      ],
+      "playStylesPlus": [
+        15
+      ],
       "rolesPlus": [
-        11,
-        12
+        12,
+        111,
+        113,
+        148
       ],
       "attributes": [
-        66,
-        24,
+        84,
         47,
-        45,
-        64,
-        65
+        75,
+        70,
+        86,
+        86
       ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 274533,
+      "hasDynamicImage": true,
+      "price": 19250,
+      "resourceId": 50606181,
       "assetId": 274533
     }
   }

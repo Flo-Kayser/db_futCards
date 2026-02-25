@@ -32,7 +32,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 450,
       "resourceId": 71177,
       "assetId": 71177
     },
@@ -102,7 +102,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 74043,
       "assetId": 74043
     },
@@ -136,7 +136,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 800,
       "resourceId": 76536,
       "assetId": 76536
     },
@@ -171,7 +171,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 1500,
       "resourceId": 76801,
       "assetId": 76801
     },
@@ -288,7 +288,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 3500,
       "resourceId": 206198,
       "assetId": 206198
     },
@@ -484,46 +484,6 @@
       "price": 350,
       "resourceId": 234727,
       "assetId": 234727
-    },
-    "235360": {
-      "name": "Ragnar Ache",
-      "cardName": "Ache",
-      "originalVersionId": "0",
-      "clubId": 31,
-      "leagueId": 19,
-      "countryId": 21,
-      "versionId": "2001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        19,
-        4,
-        5,
-        6
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42,
-        44
-      ],
-      "attributes": [
-        81,
-        70,
-        52,
-        69,
-        29,
-        76
-      ],
-      "hasDynamicImage": false,
-      "price": 250,
-      "resourceId": 235360,
-      "assetId": 235360
     },
     "238957": {
       "name": "Florian Dietz",
@@ -1076,7 +1036,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1300,
       "resourceId": 259101,
       "assetId": 259101
     },
@@ -1351,7 +1311,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50408449,
       "assetId": 76801
     },
@@ -1398,6 +1358,51 @@
       "resourceId": 50565613,
       "assetId": 233965
     },
+    "50567008": {
+      "name": "Ragnar Ache",
+      "cardName": "Ache",
+      "originalVersionId": "3",
+      "clubId": 31,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        19,
+        21,
+        24,
+        4,
+        6
+      ],
+      "playStylesPlus": [
+        5
+      ],
+      "rolesPlus": [
+        43,
+        141,
+        142,
+        144
+      ],
+      "attributes": [
+        91,
+        82,
+        65,
+        82,
+        40,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 14750,
+      "resourceId": 50567008,
+      "assetId": 235360
+    },
     "50584143": {
       "name": "Jakub Kamiński",
       "cardName": "Kamiński",
@@ -1438,7 +1443,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 36250,
+      "price": 41000,
       "resourceId": 50584143,
       "assetId": 252495
     }

@@ -32,7 +32,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 70192,
       "assetId": 70192
     },
@@ -73,7 +73,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 9000,
+      "price": 950,
       "resourceId": 71106,
       "assetId": 71106
     },
@@ -109,7 +109,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1400,
       "resourceId": 72969,
       "assetId": 72969
     },
@@ -144,7 +144,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 4700,
       "resourceId": 74522,
       "assetId": 74522
     },
@@ -901,7 +901,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 262316,
       "assetId": 262316
     },
@@ -1092,46 +1092,6 @@
       "resourceId": 273082,
       "assetId": 273082
     },
-    "276070": {
-      "name": "Terry Devlin",
-      "cardName": "Devlin",
-      "originalVersionId": "0",
-      "clubId": 1790,
-      "leagueId": 14,
-      "countryId": 35,
-      "versionId": "2001",
-      "rating": 67,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "CM",
-        "RB",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5,
-        18,
-        23,
-        46
-      ],
-      "attributes": [
-        72,
-        55,
-        60,
-        63,
-        64,
-        72
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 276070,
-      "assetId": 276070
-    },
     "276677": {
       "name": "Ibane Bowat",
       "cardName": "Bowat",
@@ -1201,7 +1161,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 278134,
       "assetId": 278134
     },
@@ -1478,6 +1438,61 @@
       "resourceId": 50572515,
       "assetId": 240867
     },
+    "50607718": {
+      "name": "Terry Devlin",
+      "cardName": "Devlin",
+      "originalVersionId": "3",
+      "clubId": 1790,
+      "leagueId": 14,
+      "countryId": 35,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CM",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        15,
+        18,
+        28,
+        8
+      ],
+      "playStylesPlus": [
+        14
+      ],
+      "rolesPlus": [
+        3,
+        19,
+        22,
+        24,
+        25,
+        35,
+        37,
+        46,
+        105,
+        118,
+        123
+      ],
+      "attributes": [
+        91,
+        75,
+        80,
+        83,
+        84,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 17000,
+      "resourceId": 50607718,
+      "assetId": 276070
+    },
     "50609782": {
       "name": "Harvey Blair",
       "cardName": "Blair",
@@ -1546,7 +1561,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1400,
       "resourceId": 50610471,
       "assetId": 278823
     }

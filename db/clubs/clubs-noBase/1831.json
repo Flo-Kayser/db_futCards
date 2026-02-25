@@ -1,6 +1,55 @@
 {
   "clubName": "Union Berlin",
   "players": {
+    "50543647": {
+      "name": "Rani Khedira",
+      "cardName": "Khedira",
+      "originalVersionId": "3",
+      "clubId": 1831,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        1,
+        17,
+        19,
+        24,
+        26
+      ],
+      "playStylesPlus": [
+        28
+      ],
+      "rolesPlus": [
+        15,
+        17,
+        18,
+        20,
+        114,
+        119,
+        149
+      ],
+      "attributes": [
+        78,
+        55,
+        72,
+        75,
+        87,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 20000,
+      "resourceId": 50543647,
+      "assetId": 211999
+    },
     "50557280": {
       "name": "Oliver Burke",
       "cardName": "Burke",
@@ -39,7 +88,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 40750,
+      "price": 41500,
       "resourceId": 50557280,
       "assetId": 225632
     },
@@ -80,7 +129,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 23500,
       "resourceId": 50564306,
       "assetId": 232658
     }
