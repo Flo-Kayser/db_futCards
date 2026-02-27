@@ -66,7 +66,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 9000,
+      "price": 750,
       "resourceId": 80731,
       "assetId": 80731
     },
@@ -237,7 +237,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1100,
       "resourceId": 225403,
       "assetId": 225403
     },
@@ -393,7 +393,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 232363,
       "assetId": 232363
     },
@@ -429,7 +429,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 5900,
+      "price": 1000,
       "resourceId": 234341,
       "assetId": 234341
     },
@@ -470,7 +470,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 235410,
       "assetId": 235410
     },
@@ -553,7 +553,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 650,
       "resourceId": 235973,
       "assetId": 235973
     },
@@ -931,7 +931,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 400,
       "resourceId": 260638,
       "assetId": 260638
     },
@@ -1098,7 +1098,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 15750,
+      "price": 17000,
       "resourceId": 50524639,
       "assetId": 192991
     },
@@ -1192,7 +1192,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 29250,
+      "price": 37500,
       "resourceId": 50544171,
       "assetId": 212523
     },
@@ -1237,54 +1237,9 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 92500,
+      "price": 92000,
       "resourceId": 50567492,
       "assetId": 235844
-    },
-    "50568144": {
-      "name": "Mattéo Guendouzi",
-      "cardName": "Guendouzi",
-      "originalVersionId": "1",
-      "clubId": 326,
-      "leagueId": 68,
-      "countryId": 18,
-      "versionId": "3002",
-      "rating": 82,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        11,
-        14,
-        15,
-        17,
-        22,
-        26,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        18,
-        117
-      ],
-      "attributes": [
-        72,
-        73,
-        80,
-        80,
-        77,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 50568144,
-      "assetId": 236496
     },
     "50589813": {
       "name": "Anthony Musaba",
@@ -1409,7 +1364,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 33500,
+      "price": 43500,
       "resourceId": 50592114,
       "assetId": 260466
     },
@@ -1457,7 +1412,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 49000,
+      "price": 44000,
       "resourceId": 50594616,
       "assetId": 262968
     },
@@ -1501,7 +1456,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 33250,
+      "price": 31500,
       "resourceId": 67319121,
       "assetId": 210257
     },
@@ -1562,9 +1517,62 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 22000,
+      "price": 22500,
       "resourceId": 67329698,
       "assetId": 220834
+    },
+    "67345360": {
+      "name": "Mattéo Guendouzi",
+      "cardName": "Guendouzi",
+      "originalVersionId": "111",
+      "clubId": 326,
+      "leagueId": 68,
+      "countryId": 18,
+      "versionId": "111",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        14,
+        15,
+        16,
+        22,
+        26,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        17,
+        20
+      ],
+      "rolesPlus": [
+        14,
+        18,
+        22,
+        49,
+        116,
+        117,
+        119,
+        120
+      ],
+      "attributes": [
+        85,
+        82,
+        90,
+        90,
+        88,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 170000,
+      "resourceId": 67345360,
+      "assetId": 236496
     }
   }
 }

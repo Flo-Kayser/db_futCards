@@ -87,7 +87,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 14500,
     "resourceId": 50402999,
     "assetId": 71351
   },
@@ -271,9 +271,61 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 13000,
     "resourceId": 50535134,
     "assetId": 203486
+  },
+  "50539069": {
+    "name": "Leandro Trossard",
+    "cardName": "Trossard",
+    "originalVersionId": "113",
+    "clubId": 1,
+    "leagueId": 13,
+    "countryId": 7,
+    "versionId": "113",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      12,
+      22,
+      26
+    ],
+    "playStylesPlus": [
+      20
+    ],
+    "rolesPlus": [
+      29,
+      40,
+      41,
+      42,
+      127,
+      130,
+      138,
+      139,
+      143
+    ],
+    "attributes": [
+      85,
+      84,
+      83,
+      87,
+      32,
+      72
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50539069,
+    "assetId": 207421
   },
   "50540066": {
     "name": "Yannick Carrasco",
@@ -361,7 +413,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 19250,
+    "price": 20750,
     "resourceId": 50547982,
     "assetId": 216334
   },
@@ -404,7 +456,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 15250,
+    "price": 16500,
     "resourceId": 50560631,
     "assetId": 228983
   },
@@ -492,7 +544,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 42500,
+    "price": 40000,
     "resourceId": 50571458,
     "assetId": 239810
   },
@@ -535,7 +587,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 29750,
+    "price": 30000,
     "resourceId": 50574312,
     "assetId": 242664
   },
@@ -586,7 +638,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 43000,
+    "price": 40500,
     "resourceId": 50583118,
     "assetId": 251470
   },
@@ -635,46 +687,6 @@
     "price": 0,
     "resourceId": 50583131,
     "assetId": 251483
-  },
-  "50590026": {
-    "name": "Mika Godts",
-    "cardName": "Godts",
-    "originalVersionId": "3",
-    "clubId": 245,
-    "leagueId": 10,
-    "countryId": 7,
-    "versionId": "3",
-    "rating": 80,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 4,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "LM",
-      "LW"
-    ],
-    "playStyles": [
-      0,
-      20,
-      22
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      40,
-      138
-    ],
-    "attributes": [
-      87,
-      75,
-      80,
-      87,
-      45,
-      70
-    ],
-    "hasDynamicImage": true,
-    "price": 0,
-    "resourceId": 50590026,
-    "assetId": 258378
   },
   "50593753": {
     "name": "Julien Duranville",
@@ -824,7 +836,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 12750,
     "resourceId": 50601687,
     "assetId": 270039
   },
@@ -875,7 +887,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 3499000,
+    "price": 4002000,
     "resourceId": 67292141,
     "assetId": 183277
   },
@@ -976,7 +988,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 13000,
     "resourceId": 67317282,
     "assetId": 208418
   },
@@ -1025,7 +1037,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 910000,
+    "price": 959000,
     "resourceId": 67355284,
     "assetId": 246420
   },
@@ -1122,9 +1134,60 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 19000,
     "resourceId": 67363667,
     "assetId": 254803
+  },
+  "67367242": {
+    "name": "Mika Godts",
+    "cardName": "Godts",
+    "originalVersionId": "111",
+    "clubId": 245,
+    "leagueId": 10,
+    "countryId": 7,
+    "versionId": "111",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      12,
+      13,
+      20,
+      21,
+      22,
+      25
+    ],
+    "playStylesPlus": [
+      7
+    ],
+    "rolesPlus": [
+      28,
+      29,
+      40,
+      127,
+      130,
+      138,
+      139
+    ],
+    "attributes": [
+      91,
+      86,
+      87,
+      91,
+      52,
+      77
+    ],
+    "hasDynamicImage": true,
+    "price": 45500,
+    "resourceId": 67367242,
+    "assetId": 258378
   },
   "84079065": {
     "name": "Kevin De Bruyne",
@@ -1174,7 +1237,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 91500,
+    "price": 84500,
     "resourceId": 84079065,
     "assetId": 192985
   }

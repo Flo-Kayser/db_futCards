@@ -44,7 +44,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 24750,
+      "price": 25500,
       "resourceId": 50558773,
       "assetId": 227125
     },
@@ -136,7 +136,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 20500,
+      "price": 18750,
       "resourceId": 50571678,
       "assetId": 240030
     },
@@ -328,7 +328,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 46000,
+      "price": 48250,
       "resourceId": 50599030,
       "assetId": 267382
     },
@@ -381,7 +381,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 62500,
+      "price": 53000,
       "resourceId": 50602055,
       "assetId": 270407
     },
@@ -429,7 +429,7 @@
         62
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 15250,
       "resourceId": 50605168,
       "assetId": 273520
     },
@@ -476,7 +476,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 414000,
+      "price": 370000,
       "resourceId": 67347121,
       "assetId": 238257
     },
@@ -528,7 +528,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 23250,
+      "price": 23500,
       "resourceId": 67351694,
       "assetId": 242830
     },
@@ -584,57 +584,6 @@
       "resourceId": 67370597,
       "assetId": 261733
     },
-    "67374113": {
-      "name": "Lauren James",
-      "cardName": "James",
-      "originalVersionId": "117",
-      "clubId": 116010,
-      "leagueId": 2216,
-      "countryId": 14,
-      "versionId": "117",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        11,
-        12,
-        21,
-        22,
-        23,
-        29,
-        6
-      ],
-      "playStylesPlus": [
-        25
-      ],
-      "rolesPlus": [
-        25,
-        31,
-        37,
-        126,
-        132,
-        136
-      ],
-      "attributes": [
-        93,
-        84,
-        85,
-        90,
-        45,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 69500,
-      "resourceId": 67374113,
-      "assetId": 265249
-    },
     "84113326": {
       "name": "Lucy Bronze",
       "cardName": "Bronze",
@@ -685,59 +634,9 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 629000,
+      "price": 599000,
       "resourceId": 84113326,
       "assetId": 227246
-    },
-    "84151329": {
-      "name": "Lauren James",
-      "cardName": "James",
-      "originalVersionId": "117",
-      "clubId": 116010,
-      "leagueId": 2216,
-      "countryId": 14,
-      "versionId": "117",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        12,
-        21,
-        22,
-        23,
-        25,
-        29,
-        6
-      ],
-      "playStylesPlus": [
-        0
-      ],
-      "rolesPlus": [
-        32,
-        42,
-        44,
-        133,
-        141,
-        143
-      ],
-      "attributes": [
-        91,
-        86,
-        82,
-        91,
-        44,
-        86
-      ],
-      "hasDynamicImage": true,
-      "price": 66500,
-      "resourceId": 84151329,
-      "assetId": 265249
     },
     "84159546": {
       "name": "Alyssa Thompson",
@@ -788,9 +687,65 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 720000,
+      "price": 809000,
       "resourceId": 84159546,
       "assetId": 273466
+    },
+    "100928545": {
+      "name": "Lauren James",
+      "cardName": "James",
+      "originalVersionId": "111",
+      "clubId": 116010,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "111",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        11,
+        12,
+        22,
+        23,
+        29,
+        6
+      ],
+      "playStylesPlus": [
+        21,
+        25
+      ],
+      "rolesPlus": [
+        24,
+        25,
+        32,
+        34,
+        37,
+        123,
+        126,
+        133,
+        135,
+        136
+      ],
+      "attributes": [
+        95,
+        87,
+        88,
+        93,
+        50,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 1800000,
+      "resourceId": 100928545,
+      "assetId": 265249
     }
   }
 }

@@ -70,7 +70,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 600,
       "resourceId": 74735,
       "assetId": 74735
     },
@@ -470,7 +470,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 200,
       "resourceId": 264066,
       "assetId": 264066
     },
@@ -661,7 +661,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 4900,
       "resourceId": 275258,
       "assetId": 275258
     },
@@ -814,48 +814,6 @@
       "resourceId": 50406629,
       "assetId": 74981
     },
-    "50544030": {
-      "name": "Paul Onuachu",
-      "cardName": "Onuachu",
-      "originalVersionId": "3",
-      "clubId": 436,
-      "leagueId": 68,
-      "countryId": 133,
-      "versionId": "3",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        19,
-        2,
-        29,
-        4,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42,
-        44,
-        141
-      ],
-      "attributes": [
-        82,
-        83,
-        71,
-        77,
-        53,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 58500,
-      "resourceId": 50544030,
-      "assetId": 212382
-    },
     "50558401": {
       "name": "André Onana",
       "cardName": "Onana",
@@ -888,7 +846,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 50558401,
       "assetId": 226753
     },
@@ -982,7 +940,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 20500,
+      "price": 19000,
       "resourceId": 50573419,
       "assetId": 241771
     },
@@ -1101,6 +1059,53 @@
       "price": 350,
       "resourceId": 50603100,
       "assetId": 271452
+    },
+    "67321246": {
+      "name": "Paul Onuachu",
+      "cardName": "Onuachu",
+      "originalVersionId": "111",
+      "clubId": 436,
+      "leagueId": 68,
+      "countryId": 133,
+      "versionId": "111",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        19,
+        22,
+        29,
+        6,
+        7,
+        9
+      ],
+      "playStylesPlus": [
+        4
+      ],
+      "rolesPlus": [
+        43,
+        141,
+        142,
+        144
+      ],
+      "attributes": [
+        89,
+        91,
+        75,
+        85,
+        57,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 19750,
+      "resourceId": 67321246,
+      "assetId": 212382
     }
   }
 }

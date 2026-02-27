@@ -32,7 +32,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 200,
       "resourceId": 70230,
       "assetId": 70230
     },
@@ -71,7 +71,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 2500,
       "resourceId": 72754,
       "assetId": 72754
     },
@@ -365,7 +365,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 600,
       "resourceId": 225659,
       "assetId": 225659
     },
@@ -447,7 +447,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 229880,
       "assetId": 229880
     },
@@ -520,7 +520,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 6500,
+      "price": 800,
       "resourceId": 242271,
       "assetId": 242271
     },
@@ -822,7 +822,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 2000,
       "resourceId": 278097,
       "assetId": 278097
     },
@@ -859,7 +859,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 4500,
       "resourceId": 278101,
       "assetId": 278101
     },
@@ -910,45 +910,6 @@
       "price": 0,
       "resourceId": 50537217,
       "assetId": 205569
-    },
-    "50545604": {
-      "name": "Adama Traoré",
-      "cardName": "Adama Traoré",
-      "originalVersionId": "1",
-      "clubId": 19,
-      "leagueId": 13,
-      "countryId": 45,
-      "versionId": "3002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        21,
-        25,
-        29
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23
-      ],
-      "attributes": [
-        94,
-        65,
-        67,
-        81,
-        37,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 50545604,
-      "assetId": 213956
     },
     "50556019": {
       "name": "Jarrod Bowen",
@@ -1156,7 +1117,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1400,
       "resourceId": 50573233,
       "assetId": 241585
     },
@@ -1202,7 +1163,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 43250,
+      "price": 46500,
       "resourceId": 50583602,
       "assetId": 251954
     },
@@ -1327,6 +1288,58 @@
       "price": 350,
       "resourceId": 50606750,
       "assetId": 275102
+    },
+    "67322820": {
+      "name": "Adama Traoré",
+      "cardName": "Adama Traoré",
+      "originalVersionId": "111",
+      "clubId": 19,
+      "leagueId": 13,
+      "countryId": 45,
+      "versionId": "111",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        2,
+        20,
+        25,
+        28,
+        29,
+        9
+      ],
+      "playStylesPlus": [
+        21,
+        6
+      ],
+      "rolesPlus": [
+        24,
+        25,
+        37,
+        123,
+        126,
+        135,
+        136
+      ],
+      "attributes": [
+        96,
+        86,
+        85,
+        89,
+        50,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 380000,
+      "resourceId": 67322820,
+      "assetId": 213956
     },
     "67342791": {
       "name": "Lucas Paquetá",

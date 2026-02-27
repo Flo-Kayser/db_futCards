@@ -521,7 +521,7 @@
       }
     },
     "86": {
-      "count": 5,
+      "count": 6,
       "file": "db/versions/86.json",
       "details": {
         "name": "POTM LALIGA EA SPORTS",
@@ -625,7 +625,7 @@
       }
     },
     "111": {
-      "count": 42,
+      "count": 76,
       "file": "db/versions/111.json",
       "details": {
         "name": "Fantasy FC",
@@ -648,6 +648,19 @@
         "primaryColor": "#54462c",
         "secondaryColor": "#dbdbdb",
         "tertiaryColor": "#94792e"
+      }
+    },
+    "113": {
+      "count": 10,
+      "file": "db/versions/113.json",
+      "details": {
+        "name": "Fantasy FC Live",
+        "hasStrip": true,
+        "createdAt": "2026-02-27T14:30:00.566Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_113_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#9545b4",
+        "tertiaryColor": "#ffb9ef"
       }
     },
     "114": {
@@ -677,7 +690,7 @@
       }
     },
     "135": {
-      "count": 12,
+      "count": 23,
       "file": "db/versions/135.json",
       "details": {
         "name": "Fantasy FC Hero",
@@ -886,8 +899,8 @@
     }
   },
   "meta": {
-    "totalVersions": 68,
-    "totalVersionsWithoutBase": 62,
-    "updatedAt": "2026-02-26T19:09:31.074Z"
+    "totalVersions": 69,
+    "totalVersionsWithoutBase": 63,
+    "updatedAt": "2026-02-27T19:02:34.909Z"
   }
 }

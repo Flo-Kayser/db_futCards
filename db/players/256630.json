@@ -39,7 +39,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 13500,
+    "price": 14000,
     "resourceId": 256630,
     "assetId": 256630,
     "originalVersionId": 1
@@ -86,7 +86,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 118000,
+    "price": 133000,
     "resourceId": 50588278,
     "assetId": 256630,
     "originalVersionId": 150
@@ -133,10 +133,65 @@
       69
     ],
     "hasDynamicImage": true,
-    "price": 138000,
+    "price": 175000,
     "resourceId": 67365494,
     "assetId": 256630,
     "originalVersionId": 3
+  },
+  "84142710": {
+    "clubId": 9,
+    "leagueId": 13,
+    "countryId": 21,
+    "versionId": "111",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      11,
+      13,
+      22,
+      6,
+      9
+    ],
+    "playStylesPlus": [
+      20,
+      8
+    ],
+    "rolesPlus": [
+      18,
+      22,
+      33,
+      34,
+      41,
+      42,
+      120,
+      121,
+      131,
+      132,
+      143
+    ],
+    "attributes": [
+      90,
+      90,
+      92,
+      94,
+      60,
+      73
+    ],
+    "hasDynamicImage": true,
+    "price": 5000000,
+    "resourceId": 84142710,
+    "assetId": 256630,
+    "originalVersionId": 111
   },
   "cardName": "Wirtz",
   "name": "Florian Wirtz"

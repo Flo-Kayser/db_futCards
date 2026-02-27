@@ -1,6 +1,58 @@
 {
   "clubName": "Arsenal",
   "players": {
+    "50539069": {
+      "name": "Leandro Trossard",
+      "cardName": "Trossard",
+      "originalVersionId": "113",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 7,
+      "versionId": "113",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        12,
+        22,
+        26
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        29,
+        40,
+        41,
+        42,
+        127,
+        130,
+        138,
+        139,
+        143
+      ],
+      "attributes": [
+        85,
+        84,
+        83,
+        87,
+        32,
+        72
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50539069,
+      "assetId": 207421
+    },
     "50552549": {
       "name": "David Raya",
       "cardName": "David Raya",
@@ -41,57 +93,9 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 38750,
+      "price": 43000,
       "resourceId": 50552549,
       "assetId": 220901
-    },
-    "50573299": {
-      "name": "Viktor Gyökeres",
-      "cardName": "Gyökeres",
-      "originalVersionId": "51",
-      "clubId": 1,
-      "leagueId": 13,
-      "countryId": 46,
-      "versionId": "51",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        2,
-        24,
-        25,
-        29,
-        5,
-        6
-      ],
-      "playStylesPlus": [
-        21
-      ],
-      "rolesPlus": [
-        42,
-        43,
-        141,
-        144
-      ],
-      "attributes": [
-        91,
-        87,
-        75,
-        83,
-        37,
-        92
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 224250,
-      "price": 350350,
-      "resourceId": 50573299,
-      "assetId": 241651
     },
     "50578317": {
       "name": "Bukayo Saka",
@@ -138,7 +142,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 825000,
+      "price": 790000,
       "resourceId": 50578317,
       "assetId": 246669
     },
@@ -289,7 +293,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 87000,
+      "price": 78500,
       "resourceId": 50583453,
       "assetId": 251805
     },
@@ -339,7 +343,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 56000,
+      "price": 64000,
       "resourceId": 50586444,
       "assetId": 254796
     },
@@ -482,7 +486,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 43500,
+      "price": 40500,
       "resourceId": 67331529,
       "assetId": 222665
     },
@@ -584,9 +588,57 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 536000,
+      "price": 512000,
       "resourceId": 67344654,
       "assetId": 235790
+    },
+    "67350515": {
+      "name": "Viktor Gyökeres",
+      "cardName": "Gyökeres",
+      "originalVersionId": "111",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 46,
+      "versionId": "111",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        2,
+        22,
+        24,
+        29,
+        5
+      ],
+      "playStylesPlus": [
+        25,
+        6
+      ],
+      "rolesPlus": [
+        43,
+        141,
+        142,
+        144
+      ],
+      "attributes": [
+        95,
+        92,
+        82,
+        89,
+        42,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 5700000,
+      "resourceId": 67350515,
+      "assetId": 241651
     },
     "67352579": {
       "name": "William Saliba",
@@ -631,7 +683,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 4773000,
+      "price": 3799000,
       "resourceId": 67352579,
       "assetId": 243715
     },
@@ -677,7 +729,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 68500,
+      "price": 68000,
       "resourceId": 67360430,
       "assetId": 251566
     },
@@ -726,7 +778,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 89000,
+      "price": 75000,
       "resourceId": 67363660,
       "assetId": 254796
     },
@@ -778,7 +830,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 955000,
+      "price": 1000000,
       "resourceId": 67366575,
       "assetId": 257711
     },
@@ -831,7 +883,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 49000,
+      "price": 33500,
       "resourceId": 84121874,
       "assetId": 235794
     },
@@ -883,7 +935,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 2050000,
+      "price": 2000000,
       "resourceId": 100897674,
       "assetId": 234378
     }

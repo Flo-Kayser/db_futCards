@@ -268,7 +268,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 272121,
       "assetId": 272121
     },
@@ -469,7 +469,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 272129,
       "assetId": 272129
     },
@@ -592,7 +592,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 272137,
       "assetId": 272137
     },
@@ -632,7 +632,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 272138,
       "assetId": 272138
     },
@@ -669,7 +669,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 272203,
       "assetId": 272203
     },
@@ -776,7 +776,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 4100,
       "resourceId": 272262,
       "assetId": 272262
     },
@@ -940,9 +940,61 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 21250,
+      "price": 21000,
       "resourceId": 50603590,
       "assetId": 271942
+    },
+    "50603771": {
+      "name": "Nerea Nevado",
+      "cardName": "Nerea Nevado",
+      "originalVersionId": "111",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "111",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        11,
+        12,
+        15,
+        20,
+        25,
+        27,
+        8
+      ],
+      "playStylesPlus": [
+        14
+      ],
+      "rolesPlus": [
+        8,
+        27,
+        30,
+        47,
+        109,
+        110,
+        128,
+        129
+      ],
+      "attributes": [
+        89,
+        70,
+        85,
+        88,
+        86,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 13750,
+      "resourceId": 50603771,
+      "assetId": 272123
     }
   }
 }

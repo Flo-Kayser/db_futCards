@@ -36,7 +36,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 18500,
+    "price": 19000,
     "resourceId": 330,
     "assetId": 330
   },
@@ -87,7 +87,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 202000,
+    "price": 177000,
     "resourceId": 50331888,
     "assetId": 240
   },
@@ -129,7 +129,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 28250,
+    "price": 25000,
     "resourceId": 50521456,
     "assetId": 189808
   },
@@ -181,7 +181,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 16250,
     "resourceId": 50530137,
     "assetId": 198489
   },
@@ -267,7 +267,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 32000,
     "resourceId": 50580132,
     "assetId": 248484
   },
@@ -353,53 +353,9 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 20750,
     "resourceId": 50597477,
     "assetId": 265829
-  },
-  "50598886": {
-    "name": "Denise O'Sullivan",
-    "cardName": "O'Sullivan",
-    "originalVersionId": "150",
-    "clubId": 116303,
-    "leagueId": 2221,
-    "countryId": 25,
-    "versionId": "150",
-    "rating": 85,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      14,
-      15,
-      16,
-      17,
-      18
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      15,
-      21,
-      114,
-      119
-    ],
-    "attributes": [
-      85,
-      75,
-      75,
-      80,
-      81,
-      83
-    ],
-    "hasDynamicImage": true,
-    "price": 14500,
-    "resourceId": 50598886,
-    "assetId": 267238
   },
   "67325328": {
     "name": "Alan Browne",
@@ -444,7 +400,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 15500,
     "resourceId": 67325328,
     "assetId": 216464
   },
@@ -489,8 +445,61 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 27000,
+    "price": 22000,
     "resourceId": 67360930,
     "assetId": 252066
+  },
+  "84153318": {
+    "name": "Denise O'Sullivan",
+    "cardName": "O'Sullivan",
+    "originalVersionId": "111",
+    "clubId": 116343,
+    "leagueId": 2216,
+    "countryId": 25,
+    "versionId": "111",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      14,
+      15,
+      16,
+      18,
+      25,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      10,
+      17
+    ],
+    "rolesPlus": [
+      15,
+      18,
+      21,
+      49,
+      114,
+      116,
+      119,
+      120
+    ],
+    "attributes": [
+      88,
+      81,
+      90,
+      86,
+      90,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 80000,
+    "resourceId": 84153318,
+    "assetId": 267238
   }
 }

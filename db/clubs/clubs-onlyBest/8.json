@@ -70,7 +70,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 200,
       "resourceId": 203215,
       "assetId": 203215
     },
@@ -143,7 +143,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 9600,
+      "price": 200,
       "resourceId": 208892,
       "assetId": 208892
     },
@@ -289,7 +289,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1000,
       "resourceId": 232080,
       "assetId": 232080
     },
@@ -770,44 +770,6 @@
       "resourceId": 247249,
       "assetId": 247249
     },
-    "247361": {
-      "name": "Brenden Aaronson",
-      "cardName": "Aaronson",
-      "originalVersionId": "1",
-      "clubId": 8,
-      "leagueId": 13,
-      "countryId": 95,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        31,
-        33
-      ],
-      "attributes": [
-        80,
-        66,
-        70,
-        78,
-        57,
-        61
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 247361,
-      "assetId": 247361
-    },
     "248384": {
       "name": "Ilia Gruev",
       "cardName": "Gruev",
@@ -996,7 +958,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 400,
       "resourceId": 50403462,
       "assetId": 71814
     },
@@ -1036,7 +998,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 350,
       "resourceId": 50563202,
       "assetId": 231554
     },
@@ -1081,9 +1043,58 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 290000,
+      "price": 195000,
       "resourceId": 50563752,
       "assetId": 232104
+    },
+    "50579009": {
+      "name": "Brenden Aaronson",
+      "cardName": "Aaronson",
+      "originalVersionId": "113",
+      "clubId": 8,
+      "leagueId": 13,
+      "countryId": 95,
+      "versionId": "113",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        20,
+        21,
+        26,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        8
+      ],
+      "rolesPlus": [
+        18,
+        22,
+        32,
+        33,
+        121,
+        131,
+        134
+      ],
+      "attributes": [
+        88,
+        83,
+        84,
+        87,
+        70,
+        72
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50579009,
+      "assetId": 247361
     },
     "50588839": {
       "name": "Anton Stach",

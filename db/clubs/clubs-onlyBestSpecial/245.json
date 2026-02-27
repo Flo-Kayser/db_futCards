@@ -52,7 +52,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 14500,
       "resourceId": 50402999,
       "assetId": 71351
     },
@@ -104,7 +104,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 65000,
+      "price": 50500,
       "resourceId": 50531908,
       "assetId": 200260
     },
@@ -150,7 +150,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 41750,
+      "price": 48750,
       "resourceId": 50555337,
       "assetId": 223689
     },
@@ -194,7 +194,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 24000,
+      "price": 22750,
       "resourceId": 50586657,
       "assetId": 255009
     },
@@ -252,46 +252,6 @@
       "resourceId": 50589787,
       "assetId": 258139
     },
-    "50590026": {
-      "name": "Mika Godts",
-      "cardName": "Godts",
-      "originalVersionId": "3",
-      "clubId": 245,
-      "leagueId": 10,
-      "countryId": 7,
-      "versionId": "3",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        0,
-        20,
-        22
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        40,
-        138
-      ],
-      "attributes": [
-        87,
-        75,
-        80,
-        87,
-        45,
-        70
-      ],
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 50590026,
-      "assetId": 258378
-    },
     "50595868": {
       "name": "Youri Baas",
       "cardName": "Baas",
@@ -333,9 +293,60 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 23500,
+      "price": 15000,
       "resourceId": 50595868,
       "assetId": 264220
+    },
+    "67367242": {
+      "name": "Mika Godts",
+      "cardName": "Godts",
+      "originalVersionId": "111",
+      "clubId": 245,
+      "leagueId": 10,
+      "countryId": 7,
+      "versionId": "111",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        13,
+        20,
+        21,
+        22,
+        25
+      ],
+      "playStylesPlus": [
+        7
+      ],
+      "rolesPlus": [
+        28,
+        29,
+        40,
+        127,
+        130,
+        138,
+        139
+      ],
+      "attributes": [
+        91,
+        86,
+        87,
+        91,
+        52,
+        77
+      ],
+      "hasDynamicImage": true,
+      "price": 45500,
+      "resourceId": 67367242,
+      "assetId": 258378
     }
   }
 }

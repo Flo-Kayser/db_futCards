@@ -107,7 +107,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 195202,
       "assetId": 195202
     },
@@ -305,7 +305,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 3000,
       "resourceId": 213956,
       "assetId": 213956
     },
@@ -501,7 +501,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 229348,
       "assetId": 229348
     },
@@ -923,7 +923,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 37750,
+      "price": 31750,
       "resourceId": 50552358,
       "assetId": 220710
     },
@@ -1033,7 +1033,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 3600,
+      "price": 200,
       "resourceId": 50609868,
       "assetId": 278220
     },
@@ -1067,7 +1067,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 350,
       "resourceId": 50610226,
       "assetId": 278578
     },
@@ -1102,21 +1102,21 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 200,
       "resourceId": 50610655,
       "assetId": 279007
     },
-    "67386159": {
+    "84163375": {
       "name": "Oscar Bobb",
       "cardName": "Bobb",
-      "originalVersionId": "0",
+      "originalVersionId": "111",
       "clubId": 144,
       "leagueId": 13,
       "countryId": 36,
-      "versionId": "2001",
-      "rating": 72,
+      "versionId": "111",
+      "rating": 87,
       "preferredFoot": "Left",
-      "weakFoot": 3,
+      "weakFoot": 4,
       "skillMoves": 4,
       "preferredPosition": "RW",
       "possiblePositions": [
@@ -1125,23 +1125,40 @@
         "RW"
       ],
       "playStyles": [
-        20
+        11,
+        12,
+        13,
+        20,
+        25,
+        6,
+        8
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        21
+      ],
       "rolesPlus": [
-        35
+        24,
+        25,
+        37,
+        39,
+        40,
+        123,
+        126,
+        135,
+        136,
+        138
       ],
       "attributes": [
-        79,
-        65,
-        71,
-        77,
-        33,
-        41
+        92,
+        86,
+        87,
+        92,
+        47,
+        68
       ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 67386159,
+      "hasDynamicImage": true,
+      "price": 25000,
+      "resourceId": 84163375,
       "assetId": 277295
     }
   }
