@@ -41,7 +41,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 77500,
+      "price": 88000,
       "resourceId": 50532037,
       "assetId": 200389
     },
@@ -86,54 +86,9 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 77000,
+      "price": 65500,
       "resourceId": 50548108,
       "assetId": 216460
-    },
-    "50548197": {
-      "name": "Alexander Sørloth",
-      "cardName": "Sørloth",
-      "originalVersionId": "57",
-      "clubId": 240,
-      "leagueId": 53,
-      "countryId": 36,
-      "versionId": "57",
-      "rating": 87,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        2,
-        29,
-        4,
-        6,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        35,
-        41,
-        144
-      ],
-      "attributes": [
-        87,
-        90,
-        80,
-        84,
-        40,
-        90
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 19750,
-      "resourceId": 50548197,
-      "assetId": 216549
     },
     "50562547": {
       "name": "Ademola Lookman",
@@ -429,47 +384,6 @@
       "resourceId": 50588927,
       "assetId": 257279
     },
-    "50591232": {
-      "name": "Matteo Ruggeri",
-      "cardName": "Ruggeri",
-      "originalVersionId": "87",
-      "clubId": 240,
-      "leagueId": 53,
-      "countryId": 27,
-      "versionId": "87",
-      "rating": 84,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        12,
-        19,
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9,
-        29,
-        128
-      ],
-      "attributes": [
-        86,
-        69,
-        81,
-        81,
-        79,
-        81
-      ],
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 50591232,
-      "assetId": 259584
-    },
     "67302611": {
       "name": "Koke",
       "cardName": "Koke",
@@ -518,7 +432,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 76500,
+      "price": 80000,
       "resourceId": 67302611,
       "assetId": 193747
     },
@@ -573,7 +487,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 924000,
+      "price": 895000,
       "resourceId": 67303629,
       "assetId": 194765
     },
@@ -677,7 +591,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 272000,
+      "price": 264000,
       "resourceId": 67355055,
       "assetId": 246191
     },
@@ -721,9 +635,115 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 60000,
+      "price": 58500,
       "resourceId": 67355967,
       "assetId": 247103
+    },
+    "67368448": {
+      "name": "Matteo Ruggeri",
+      "cardName": "Ruggeri",
+      "originalVersionId": "111",
+      "clubId": 240,
+      "leagueId": 53,
+      "countryId": 27,
+      "versionId": "111",
+      "rating": 89,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12,
+        16,
+        17,
+        19,
+        20,
+        21,
+        28
+      ],
+      "playStylesPlus": [
+        11,
+        14
+      ],
+      "rolesPlus": [
+        8,
+        27,
+        29,
+        107,
+        109,
+        110,
+        128
+      ],
+      "attributes": [
+        91,
+        74,
+        88,
+        88,
+        86,
+        86
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 168500,
+      "resourceId": 67368448,
+      "assetId": 259584
+    },
+    "84102629": {
+      "name": "Alexander Sørloth",
+      "cardName": "Sørloth",
+      "originalVersionId": "8",
+      "clubId": 240,
+      "leagueId": 53,
+      "countryId": 36,
+      "versionId": "8",
+      "rating": 89,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        20,
+        24,
+        29,
+        4,
+        7
+      ],
+      "playStylesPlus": [
+        22,
+        6
+      ],
+      "rolesPlus": [
+        26,
+        36,
+        43,
+        123,
+        135,
+        141,
+        142,
+        144
+      ],
+      "attributes": [
+        89,
+        92,
+        83,
+        87,
+        42,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 495000,
+      "resourceId": 84102629,
+      "assetId": 216549
     }
   }
 }

@@ -855,7 +855,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 1500,
       "resourceId": 279882,
       "assetId": 279882
     },
@@ -949,7 +949,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 69500,
+      "price": 57000,
       "resourceId": 50544459,
       "assetId": 212811
     },
@@ -1075,67 +1075,6 @@
       "price": 750,
       "resourceId": 50584450,
       "assetId": 252802
-    },
-    "50594853": {
-      "name": "Barış Alper Yılmaz",
-      "cardName": "Yılmaz",
-      "originalVersionId": "33",
-      "clubId": 325,
-      "leagueId": 68,
-      "countryId": 48,
-      "versionId": "33",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        19,
-        25,
-        26,
-        28,
-        29,
-        6
-      ],
-      "playStylesPlus": [
-        21
-      ],
-      "rolesPlus": [
-        123,
-        124,
-        125,
-        126,
-        127,
-        128,
-        129,
-        130,
-        138,
-        139,
-        140,
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        95,
-        83,
-        80,
-        86,
-        76,
-        92
-      ],
-      "hasDynamicImage": true,
-      "price": 101000,
-      "resourceId": 50594853,
-      "assetId": 263205
     },
     "50603112": {
       "name": "Yáser Asprilla",
@@ -1318,7 +1257,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 53000,
+      "price": 59500,
       "resourceId": 67348244,
       "assetId": 239380
     },
@@ -1377,7 +1316,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 160000,
+      "price": 189000,
       "resourceId": 67379435,
       "assetId": 270571
     },
@@ -1425,9 +1364,63 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 378000,
+      "price": 405000,
       "resourceId": 84118373,
       "assetId": 232293
+    },
+    "84149285": {
+      "name": "Barış Alper Yılmaz",
+      "cardName": "Yılmaz",
+      "originalVersionId": "8",
+      "clubId": 325,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "8",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        19,
+        21,
+        22,
+        25,
+        26,
+        28,
+        29
+      ],
+      "playStylesPlus": [
+        11,
+        6
+      ],
+      "rolesPlus": [
+        26,
+        30,
+        39,
+        123,
+        124,
+        127,
+        128,
+        138
+      ],
+      "attributes": [
+        96,
+        85,
+        82,
+        88,
+        80,
+        94
+      ],
+      "hasDynamicImage": true,
+      "price": 690000,
+      "resourceId": 84149285,
+      "assetId": 263205
     }
   }
 }
