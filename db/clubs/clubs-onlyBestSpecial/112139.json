@@ -1,45 +1,6 @@
 {
   "clubName": "Al Nassr",
   "players": {
-    "50536173": {
-      "name": "Iñigo Martínez",
-      "cardName": "Iñigo Martínez",
-      "originalVersionId": "3",
-      "clubId": 112139,
-      "leagueId": 350,
-      "countryId": 45,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10,
-        16,
-        19
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        113
-      ],
-      "attributes": [
-        73,
-        58,
-        73,
-        70,
-        86,
-        82
-      ],
-      "hasDynamicImage": true,
-      "price": 42500,
-      "resourceId": 50536173,
-      "assetId": 204525
-    },
     "50540370": {
       "name": "Sadio Mané",
       "cardName": "Mané",
@@ -88,7 +49,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 53500,
+      "price": 57500,
       "resourceId": 50540370,
       "assetId": 208722
     },
@@ -138,7 +99,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 49000,
+      "price": 49500,
       "resourceId": 50544993,
       "assetId": 213345
     },
@@ -190,6 +151,55 @@
       "hasDynamicImage": true,
       "resourceId": 50575502,
       "assetId": 243854
+    },
+    "67313389": {
+      "name": "Iñigo Martínez",
+      "cardName": "Iñigo Martínez",
+      "originalVersionId": "3",
+      "clubId": 112139,
+      "leagueId": 350,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        16,
+        17,
+        18
+      ],
+      "playStylesPlus": [
+        19
+      ],
+      "rolesPlus": [
+        8,
+        9,
+        12,
+        48,
+        107,
+        111,
+        113
+      ],
+      "attributes": [
+        80,
+        60,
+        74,
+        72,
+        87,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 14750,
+      "resourceId": 67313389,
+      "assetId": 204525
     },
     "84128524": {
       "name": "João Félix",
@@ -251,7 +261,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 4055000,
+      "price": 4100000,
       "resourceId": 84128524,
       "assetId": 242444
     },
@@ -304,7 +314,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 4960000,
+      "price": 4880000,
       "resourceId": 100684097,
       "assetId": 20801
     },

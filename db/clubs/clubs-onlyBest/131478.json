@@ -204,7 +204,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 200,
       "resourceId": 76481,
       "assetId": 76481
     },
@@ -280,7 +280,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 233155,
       "assetId": 233155
     },
@@ -513,7 +513,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 4200,
+      "price": 2900,
       "resourceId": 267277,
       "assetId": 267277
     },
@@ -932,9 +932,46 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 1900,
       "resourceId": 279867,
       "assetId": 279867
+    },
+    "50403207": {
+      "name": "Courtney Brown",
+      "cardName": "Brown",
+      "originalVersionId": "1",
+      "clubId": 131478,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "3001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        31
+      ],
+      "attributes": [
+        63,
+        60,
+        65,
+        69,
+        68,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50403207,
+      "assetId": 71559
     },
     "50577481": {
       "name": "Narumi Miura",
@@ -1012,9 +1049,86 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 50596587,
       "assetId": 264939
+    },
+    "50598850": {
+      "name": "Madison Hammond",
+      "cardName": "Hammond",
+      "originalVersionId": "1",
+      "clubId": 131478,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "3001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        18
+      ],
+      "attributes": [
+        69,
+        51,
+        68,
+        67,
+        74,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50598850,
+      "assetId": 267202
+    },
+    "50607570": {
+      "name": "Miyabi Moriya",
+      "cardName": "Moriya",
+      "originalVersionId": "0",
+      "clubId": 131478,
+      "leagueId": 2221,
+      "countryId": 163,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        9
+      ],
+      "attributes": [
+        77,
+        59,
+        69,
+        72,
+        64,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50607570,
+      "assetId": 275922
     }
   }
 }

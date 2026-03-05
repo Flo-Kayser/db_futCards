@@ -1,6 +1,55 @@
 {
   "clubName": "Millwall",
   "players": {
+    "50594216": {
+      "name": "Tristan Crama",
+      "cardName": "Crama",
+      "originalVersionId": "3",
+      "clubId": 97,
+      "leagueId": 14,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        17,
+        18,
+        4
+      ],
+      "playStylesPlus": [
+        28
+      ],
+      "rolesPlus": [
+        3,
+        6,
+        12,
+        48,
+        104,
+        111,
+        113
+      ],
+      "attributes": [
+        84,
+        63,
+        76,
+        82,
+        86,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 13000,
+      "resourceId": 50594216,
+      "assetId": 262568
+    },
     "67372549": {
       "name": "Caleb Taylor",
       "cardName": "Taylor",
@@ -40,7 +89,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 29250,
+      "price": 22250,
       "resourceId": 67372549,
       "assetId": 263685
     }

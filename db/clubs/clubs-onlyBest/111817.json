@@ -103,7 +103,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 188943,
       "assetId": 188943
     },
@@ -259,7 +259,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 216820,
       "assetId": 216820
     },
@@ -340,7 +340,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 550,
       "resourceId": 228774,
       "assetId": 228774
     },
@@ -494,7 +494,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 237331,
       "assetId": 237331
     },
@@ -533,7 +533,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 241266,
       "assetId": 241266
     },
@@ -611,7 +611,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 2500,
       "resourceId": 248477,
       "assetId": 248477
     },
@@ -682,7 +682,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 256689,
       "assetId": 256689
     },
@@ -760,7 +760,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 5100,
       "resourceId": 258843,
       "assetId": 258843
     },
@@ -837,7 +837,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 270355,
       "assetId": 270355
     },
@@ -994,7 +994,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 276398,
       "assetId": 276398
     },
@@ -1097,7 +1097,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 950,
       "resourceId": 50409718,
       "assetId": 78070
     },
@@ -1137,7 +1137,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 1700,
       "resourceId": 50524035,
       "assetId": 192387
     },
@@ -1199,46 +1199,6 @@
       "resourceId": 50565806,
       "assetId": 234158
     },
-    "50567080": {
-      "name": "Marshall Munetsi",
-      "cardName": "Munetsi",
-      "originalVersionId": "0",
-      "clubId": 111817,
-      "leagueId": 16,
-      "countryId": 148,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "RW"
-      ],
-      "playStyles": [
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        31,
-        35
-      ],
-      "attributes": [
-        67,
-        69,
-        71,
-        72,
-        74,
-        79
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50567080,
-      "assetId": 235432
-    },
     "50580125": {
       "name": "Samir Chergui",
       "cardName": "Chergui",
@@ -1274,7 +1234,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 450,
       "resourceId": 50580125,
       "assetId": 248477
     },
@@ -1402,7 +1362,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 11750,
       "resourceId": 67328653,
       "assetId": 219789
     },
@@ -1448,9 +1408,64 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 15250,
       "resourceId": 67343476,
       "assetId": 234612
+    },
+    "67344296": {
+      "name": "Marshall Munetsi",
+      "cardName": "Munetsi",
+      "originalVersionId": "3",
+      "clubId": 111817,
+      "leagueId": 16,
+      "countryId": 148,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "RW"
+      ],
+      "playStyles": [
+        10,
+        11,
+        16,
+        26,
+        28
+      ],
+      "playStylesPlus": [
+        24
+      ],
+      "rolesPlus": [
+        14,
+        15,
+        19,
+        21,
+        33,
+        34,
+        35,
+        37,
+        118,
+        131,
+        149
+      ],
+      "attributes": [
+        80,
+        78,
+        80,
+        83,
+        84,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 12500,
+      "resourceId": 67344296,
+      "assetId": 235432
     },
     "67365982": {
       "name": "Ilan Kebbal",
@@ -1498,7 +1513,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 21500,
       "resourceId": 67365982,
       "assetId": 257118
     },
@@ -1546,7 +1561,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 27750,
+      "price": 26500,
       "resourceId": 84116100,
       "assetId": 230020
     }

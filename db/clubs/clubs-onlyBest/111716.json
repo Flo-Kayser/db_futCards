@@ -227,7 +227,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 5900,
+      "price": 200,
       "resourceId": 226765,
       "assetId": 226765
     },
@@ -677,7 +677,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 271025,
       "assetId": 271025
     },
@@ -833,44 +833,6 @@
       "price": 200,
       "resourceId": 273079,
       "assetId": 273079
-    },
-    "277181": {
-      "name": "Rafael Profini",
-      "cardName": "Profini",
-      "originalVersionId": "1",
-      "clubId": 111716,
-      "leagueId": 353,
-      "countryId": 52,
-      "versionId": "3000",
-      "rating": 64,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CB",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        13,
-        14,
-        16
-      ],
-      "attributes": [
-        66,
-        31,
-        50,
-        49,
-        64,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 277181,
-      "assetId": 277181
     },
     "277836": {
       "name": "Lucas Meuli",
@@ -1049,6 +1011,58 @@
       "price": 350,
       "resourceId": 50594852,
       "assetId": 263204
+    },
+    "50608829": {
+      "name": "Rafael Profini",
+      "cardName": "Profini",
+      "originalVersionId": "3",
+      "clubId": 111716,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        24,
+        26,
+        28,
+        8
+      ],
+      "playStylesPlus": [
+        9
+      ],
+      "rolesPlus": [
+        11,
+        13,
+        15,
+        16,
+        20,
+        21,
+        112,
+        114,
+        119
+      ],
+      "attributes": [
+        84,
+        52,
+        74,
+        78,
+        84,
+        88
+      ],
+      "hasDynamicImage": false,
+      "price": 13000,
+      "resourceId": 50608829,
+      "assetId": 277181
     }
   }
 }

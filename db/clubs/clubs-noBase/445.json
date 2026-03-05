@@ -1,6 +1,58 @@
 {
   "clubName": "Derry City",
   "players": {
+    "50541911": {
+      "name": "Michael Duffy",
+      "cardName": "Duffy",
+      "originalVersionId": "3",
+      "clubId": 445,
+      "leagueId": 65,
+      "countryId": 25,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        20,
+        22,
+        3
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        27,
+        29,
+        31,
+        32,
+        38,
+        40,
+        130,
+        134,
+        139
+      ],
+      "attributes": [
+        93,
+        80,
+        81,
+        85,
+        57,
+        74
+      ],
+      "hasDynamicImage": true,
+      "price": 13000,
+      "resourceId": 50541911,
+      "assetId": 210263
+    },
     "50606284": {
       "name": "Alex Bannon",
       "cardName": "Bannon",
@@ -46,7 +98,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 50606284,
       "assetId": 274636
     }

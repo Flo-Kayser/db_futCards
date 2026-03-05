@@ -224,46 +224,6 @@
       "resourceId": 241628,
       "assetId": 241628
     },
-    "242725": {
-      "name": "Kristian Thorstvedt",
-      "cardName": "Thorstvedt",
-      "originalVersionId": "0",
-      "clubId": 111974,
-      "leagueId": 31,
-      "countryId": 36,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        0,
-        18
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        22,
-        33
-      ],
-      "attributes": [
-        61,
-        71,
-        74,
-        73,
-        67,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 242725,
-      "assetId": 242725
-    },
     "243200": {
       "name": "Samuele Mulattieri",
       "cardName": "Mulattieri",
@@ -662,7 +622,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 4100,
       "resourceId": 257324,
       "assetId": 257324
     },
@@ -1065,7 +1025,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 271006,
       "assetId": 271006
     },
@@ -1261,6 +1221,55 @@
       "resourceId": 50572100,
       "assetId": 240452
     },
+    "50574373": {
+      "name": "Kristian Thorstvedt",
+      "cardName": "Thorstvedt",
+      "originalVersionId": "3",
+      "clubId": 111974,
+      "leagueId": 31,
+      "countryId": 36,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        16,
+        24,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        20,
+        22,
+        33,
+        34,
+        118,
+        121,
+        131
+      ],
+      "attributes": [
+        83,
+        83,
+        86,
+        84,
+        78,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 13000,
+      "resourceId": 50574373,
+      "assetId": 242725
+    },
     "50575241": {
       "name": "Armand Laurienté",
       "cardName": "Laurienté",
@@ -1318,7 +1327,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 54500,
+      "price": 57000,
       "resourceId": 50575241,
       "assetId": 243593
     },
@@ -1355,7 +1364,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 9500,
+      "price": 7900,
       "resourceId": 50582983,
       "assetId": 251335
     },
@@ -1398,7 +1407,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 20500,
+      "price": 29250,
       "resourceId": 50593675,
       "assetId": 262027
     },
@@ -1432,7 +1441,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 50600159,
       "assetId": 268511
     },
@@ -1561,7 +1570,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 7500,
       "resourceId": 67360199,
       "assetId": 251335
     }

@@ -39,7 +39,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 445000,
+    "price": 530000,
     "resourceId": 183277,
     "assetId": 183277
   },
@@ -83,7 +83,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 175000,
+    "price": 178000,
     "resourceId": 251483,
     "assetId": 251483
   },
@@ -175,7 +175,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14000,
     "resourceId": 50402999,
     "assetId": 71351
   },
@@ -259,7 +259,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 995000,
+    "price": 1019000,
     "resourceId": 50514925,
     "assetId": 183277
   },
@@ -399,7 +399,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 70000,
+    "price": 74500,
     "resourceId": 50524633,
     "assetId": 192985
   },
@@ -454,7 +454,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 13500,
     "resourceId": 50535134,
     "assetId": 203486
   },
@@ -596,7 +596,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 23000,
+    "price": 20500,
     "resourceId": 50547982,
     "assetId": 216334
   },
@@ -639,7 +639,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14000,
     "resourceId": 50560631,
     "assetId": 228983
   },
@@ -679,7 +679,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 46750,
+    "price": 29750,
     "resourceId": 50565815,
     "assetId": 234167
   },
@@ -727,7 +727,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 37500,
+    "price": 28750,
     "resourceId": 50571458,
     "assetId": 239810
   },
@@ -770,7 +770,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 0,
     "resourceId": 50574312,
     "assetId": 242664
   },
@@ -866,7 +866,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 46500,
+    "price": 45500,
     "resourceId": 50583118,
     "assetId": 251470
   },
@@ -952,9 +952,58 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 23000,
     "resourceId": 50590026,
     "assetId": 258378
+  },
+  "50593719": {
+    "name": "Nathan Ngoy",
+    "cardName": "Ngoy",
+    "originalVersionId": "3",
+    "clubId": 65,
+    "leagueId": 16,
+    "countryId": 7,
+    "versionId": "3",
+    "rating": 84,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "RB"
+    ],
+    "playStyles": [
+      14,
+      16,
+      17,
+      18,
+      22
+    ],
+    "playStylesPlus": [
+      15
+    ],
+    "rolesPlus": [
+      4,
+      6,
+      11,
+      12,
+      103,
+      113,
+      148
+    ],
+    "attributes": [
+      86,
+      61,
+      66,
+      84,
+      83,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 13000,
+    "resourceId": 50593719,
+    "assetId": 262071
   },
   "50593753": {
     "name": "Julien Duranville",
@@ -1104,7 +1153,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 13000,
     "resourceId": 50601687,
     "assetId": 270039
   },
@@ -1159,7 +1208,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 13000,
     "resourceId": 67180215,
     "assetId": 71351
   },
@@ -1210,9 +1259,54 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 4002000,
+    "price": 3236000,
     "resourceId": 67292141,
     "assetId": 183277
+  },
+  "67301369": {
+    "name": "Romelu Lukaku",
+    "cardName": "Lukaku",
+    "originalVersionId": "3",
+    "clubId": 48,
+    "leagueId": 31,
+    "countryId": 7,
+    "versionId": "3",
+    "rating": 86,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      24,
+      25,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      29
+    ],
+    "rolesPlus": [
+      43,
+      141,
+      142,
+      144
+    ],
+    "attributes": [
+      86,
+      87,
+      78,
+      84,
+      43,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 13000,
+    "resourceId": 67301369,
+    "assetId": 192505
   },
   "67301849": {
     "name": "Kevin De Bruyne",
@@ -1262,7 +1356,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 79500,
+    "price": 84000,
     "resourceId": 67301849,
     "assetId": 192985
   },
@@ -1311,7 +1405,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 13000,
     "resourceId": 67317282,
     "assetId": 208418
   },
@@ -1360,7 +1454,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 1032000,
+    "price": 1159000,
     "resourceId": 67355284,
     "assetId": 246420
   },
@@ -1560,7 +1654,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 80000,
+    "price": 81000,
     "resourceId": 84079065,
     "assetId": 192985
   }

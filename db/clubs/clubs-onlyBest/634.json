@@ -36,7 +36,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 2100,
       "resourceId": 72891,
       "assetId": 72891
     },
@@ -73,7 +73,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 4000,
       "resourceId": 72972,
       "assetId": 72972
     },
@@ -108,7 +108,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 73547,
       "assetId": 73547
     },
@@ -217,7 +217,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 197860,
       "assetId": 197860
     },
@@ -327,7 +327,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 210832,
       "assetId": 210832
     },
@@ -484,7 +484,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 1000,
       "resourceId": 223115,
       "assetId": 223115
     },
@@ -557,7 +557,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 8000,
+      "price": 1000,
       "resourceId": 234856,
       "assetId": 234856
     },
@@ -591,7 +591,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 239378,
       "assetId": 239378
     },
@@ -632,44 +632,6 @@
       "price": 200,
       "resourceId": 240271,
       "assetId": 240271
-    },
-    "246960": {
-      "name": "Mohamed Ihattaren",
-      "cardName": "Ihattaren",
-      "originalVersionId": "1",
-      "clubId": 634,
-      "leagueId": 10,
-      "countryId": 129,
-      "versionId": "3001",
-      "rating": 71,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "RW"
-      ],
-      "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        31
-      ],
-      "attributes": [
-        56,
-        66,
-        72,
-        75,
-        41,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 246960,
-      "assetId": 246960
     },
     "251629": {
       "name": "Justin Lonwijk",
@@ -815,7 +777,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 258926,
       "assetId": 258926
     },
@@ -898,6 +860,61 @@
       "price": 200,
       "resourceId": 261249,
       "assetId": 261249
+    },
+    "50578608": {
+      "name": "Mohamed Ihattaren",
+      "cardName": "Ihattaren",
+      "originalVersionId": "3",
+      "clubId": 634,
+      "leagueId": 10,
+      "countryId": 129,
+      "versionId": "3",
+      "rating": 84,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20,
+        22,
+        3,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        12
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        23,
+        25,
+        31,
+        33,
+        35,
+        37,
+        126,
+        132,
+        136
+      ],
+      "attributes": [
+        83,
+        81,
+        86,
+        88,
+        54,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 13000,
+      "resourceId": 50578608,
+      "assetId": 246960
     },
     "50586328": {
       "name": "Yassin Oukili",

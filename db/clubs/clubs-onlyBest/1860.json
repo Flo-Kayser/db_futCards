@@ -32,7 +32,7 @@
         46
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 71977,
       "assetId": 71977
     },
@@ -217,7 +217,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 79393,
       "assetId": 79393
     },
@@ -529,7 +529,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 232665,
       "assetId": 232665
     },
@@ -605,7 +605,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 237626,
       "assetId": 237626
     },
@@ -951,7 +951,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 277825,
       "assetId": 277825
     },
@@ -1195,40 +1195,59 @@
       "resourceId": 50605498,
       "assetId": 273850
     },
-    "67373189": {
+    "84150405": {
       "name": "Martín Satriano",
       "cardName": "Satriano",
-      "originalVersionId": "1",
+      "originalVersionId": "3",
       "clubId": 1860,
       "leagueId": 53,
       "countryId": 60,
-      "versionId": "3001",
-      "rating": 74,
+      "versionId": "3",
+      "rating": 86,
       "preferredFoot": "Right",
-      "weakFoot": 3,
+      "weakFoot": 4,
       "skillMoves": 3,
-      "preferredPosition": "ST",
+      "preferredPosition": "LM",
       "possiblePositions": [
         "CAM",
+        "LM",
+        "LW",
         "ST"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        20,
+        22,
+        24,
+        25,
+        5
+      ],
+      "playStylesPlus": [
+        2
+      ],
       "rolesPlus": [
-        43,
-        44
+        28,
+        29,
+        31,
+        34,
+        38,
+        39,
+        41,
+        44,
+        130,
+        132,
+        143
       ],
       "attributes": [
-        63,
-        74,
-        62,
-        72,
-        34,
-        69
+        87,
+        86,
+        75,
+        86,
+        46,
+        84
       ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 67373189,
+      "hasDynamicImage": true,
+      "price": 12750,
+      "resourceId": 84150405,
       "assetId": 264325
     }
   }
