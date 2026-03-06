@@ -102,7 +102,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 5000,
       "resourceId": 75498,
       "assetId": 75498
     },
@@ -372,49 +372,6 @@
       "price": 350,
       "resourceId": 224251,
       "assetId": 224251
-    },
-    "225309": {
-      "name": "Nadiem Amiri",
-      "cardName": "Amiri",
-      "originalVersionId": "1",
-      "clubId": 169,
-      "leagueId": 19,
-      "countryId": 21,
-      "versionId": "3002",
-      "rating": 81,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        0,
-        20,
-        3,
-        7,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        22,
-        31
-      ],
-      "attributes": [
-        65,
-        79,
-        82,
-        82,
-        62,
-        72
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 225309,
-      "assetId": 225309
     },
     "228518": {
       "name": "Andreas Hanche-Olsen",
@@ -988,7 +945,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 27250,
+      "price": 24000,
       "resourceId": 50404726,
       "assetId": 73078
     },
@@ -1045,9 +1002,51 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 16250,
+      "price": 15750,
       "resourceId": 50534077,
       "assetId": 202429
+    },
+    "50556957": {
+      "name": "Nadiem Amiri",
+      "cardName": "Amiri",
+      "originalVersionId": "30",
+      "clubId": 169,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "30",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31,
+        32,
+        34,
+        118,
+        120,
+        122,
+        133
+      ],
+      "attributes": [
+        84,
+        86,
+        88,
+        88,
+        70,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50556957,
+      "assetId": 225309
     },
     "50587775": {
       "name": "William Bøving",
@@ -1137,7 +1136,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 20750,
+      "price": 20500,
       "resourceId": 50590363,
       "assetId": 258715
     },
@@ -1320,7 +1319,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 16000,
       "resourceId": 84132020,
       "assetId": 245940
     }

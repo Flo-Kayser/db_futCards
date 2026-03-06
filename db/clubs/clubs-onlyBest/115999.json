@@ -741,51 +741,6 @@
       "resourceId": 50596636,
       "assetId": 264988
     },
-    "50596673": {
-      "name": "Selina Cerci",
-      "cardName": "Cerci",
-      "originalVersionId": "33",
-      "clubId": 115999,
-      "leagueId": 2215,
-      "countryId": 21,
-      "versionId": "33",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        2,
-        20,
-        22,
-        25,
-        6
-      ],
-      "playStylesPlus": [
-        7
-      ],
-      "rolesPlus": [
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        87,
-        87,
-        80,
-        87,
-        56,
-        83
-      ],
-      "hasDynamicImage": true,
-      "price": 24750,
-      "resourceId": 50596673,
-      "assetId": 265025
-    },
     "50606495": {
       "name": "Vanessa Diehm",
       "cardName": "Diehm",
@@ -831,9 +786,46 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 13000,
       "resourceId": 50606495,
       "assetId": 274847
+    },
+    "67373889": {
+      "name": "Selina Cerci",
+      "cardName": "Cerci",
+      "originalVersionId": "30",
+      "clubId": 115999,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "30",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        43,
+        141,
+        142,
+        144
+      ],
+      "attributes": [
+        90,
+        89,
+        82,
+        90,
+        59,
+        85
+      ],
+      "hasDynamicImage": false,
+      "price": 40250,
+      "resourceId": 67373889,
+      "assetId": 265025
     }
   }
 }

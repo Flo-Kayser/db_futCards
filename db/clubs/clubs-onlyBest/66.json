@@ -31,7 +31,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 5100,
       "resourceId": 74883,
       "assetId": 74883
     },
@@ -65,7 +65,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 77093,
       "assetId": 77093
     },
@@ -101,7 +101,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 5500,
+      "price": 5200,
       "resourceId": 77631,
       "assetId": 77631
     },
@@ -135,7 +135,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 5000,
       "resourceId": 78145,
       "assetId": 78145
     },
@@ -204,7 +204,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 550,
       "resourceId": 80690,
       "assetId": 80690
     },
@@ -286,7 +286,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 210372,
       "assetId": 210372
     },
@@ -435,7 +435,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 550,
       "resourceId": 234371,
       "assetId": 234371
     },
@@ -851,7 +851,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 276747,
       "assetId": 276747
     },
@@ -955,7 +955,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 50409864,
       "assetId": 78216
     },
@@ -1050,7 +1050,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 16000,
       "resourceId": 50551331,
       "assetId": 219683
     },
@@ -1128,7 +1128,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 50572350,
       "assetId": 240702
     },
@@ -1177,7 +1177,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 24250,
+      "price": 24750,
       "resourceId": 50578698,
       "assetId": 247050
     },
@@ -1224,7 +1224,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 29750,
       "resourceId": 50593750,
       "assetId": 262102
     },
@@ -1260,54 +1260,9 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1400,
       "resourceId": 50595973,
       "assetId": 264325
-    },
-    "50597107": {
-      "name": "Tyler Morton",
-      "cardName": "Morton",
-      "originalVersionId": "22",
-      "clubId": 66,
-      "leagueId": 16,
-      "countryId": 14,
-      "versionId": "22",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        16,
-        20,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        17,
-        18,
-        19,
-        21,
-        114,
-        149
-      ],
-      "attributes": [
-        80,
-        70,
-        87,
-        84,
-        81,
-        76
-      ],
-      "hasDynamicImage": true,
-      "price": 16750,
-      "resourceId": 50597107,
-      "assetId": 265459
     },
     "50608549": {
       "name": "Afonso Moreira",
@@ -1351,9 +1306,51 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 16750,
+      "price": 16000,
       "resourceId": 50608549,
       "assetId": 276901
+    },
+    "67374323": {
+      "name": "Tyler Morton",
+      "cardName": "Morton",
+      "originalVersionId": "30",
+      "clubId": 66,
+      "leagueId": 16,
+      "countryId": 14,
+      "versionId": "30",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        16,
+        19,
+        20,
+        117,
+        118,
+        121,
+        149
+      ],
+      "attributes": [
+        87,
+        80,
+        89,
+        87,
+        87,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 13250,
+      "resourceId": 67374323,
+      "assetId": 265459
     },
     "100935801": {
       "name": "Endrick",

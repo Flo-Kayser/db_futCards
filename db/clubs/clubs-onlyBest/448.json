@@ -340,7 +340,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 750,
       "resourceId": 244675,
       "assetId": 244675
     },
@@ -415,7 +415,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1000,
       "resourceId": 248550,
       "assetId": 248550
     },
@@ -770,99 +770,9 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 12750,
       "resourceId": 50536805,
       "assetId": 205157
-    },
-    "50543866": {
-      "name": "Aymeric Laporte",
-      "cardName": "Laporte",
-      "originalVersionId": "1",
-      "clubId": 448,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "3002",
-      "rating": 82,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10,
-        14,
-        19,
-        4,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        13
-      ],
-      "attributes": [
-        51,
-        50,
-        74,
-        70,
-        83,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 50543866,
-      "assetId": 212218
-    },
-    "50547849": {
-      "name": "Iñaki Williams",
-      "cardName": "Iñaki Williams",
-      "originalVersionId": "82",
-      "clubId": 448,
-      "leagueId": 53,
-      "countryId": 117,
-      "versionId": "82",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        2,
-        20,
-        21,
-        25
-      ],
-      "playStylesPlus": [
-        6
-      ],
-      "rolesPlus": [
-        23,
-        35,
-        43,
-        126,
-        136,
-        142
-      ],
-      "attributes": [
-        95,
-        87,
-        81,
-        85,
-        50,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 289000,
-      "resourceId": 50547849,
-      "assetId": 216201
     },
     "50556849": {
       "name": "Álex Berenguer",
@@ -917,7 +827,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 14000,
       "resourceId": 50556849,
       "assetId": 225201
     },
@@ -962,7 +872,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 30000,
       "resourceId": 50562517,
       "assetId": 230869
     },
@@ -1009,7 +919,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 15750,
+      "price": 12500,
       "resourceId": 50562832,
       "assetId": 231184
     },
@@ -1059,9 +969,91 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 20000,
       "resourceId": 50611252,
       "assetId": 279604
+    },
+    "67321082": {
+      "name": "Aymeric Laporte",
+      "cardName": "Laporte",
+      "originalVersionId": "30",
+      "clubId": 448,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "30",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        111,
+        113
+      ],
+      "attributes": [
+        85,
+        60,
+        87,
+        84,
+        91,
+        90
+      ],
+      "hasDynamicImage": false,
+      "price": 33750,
+      "resourceId": 67321082,
+      "assetId": 212218
+    },
+    "67325065": {
+      "name": "Iñaki Williams",
+      "cardName": "Iñaki Williams",
+      "originalVersionId": "30",
+      "clubId": 448,
+      "leagueId": 53,
+      "countryId": 117,
+      "versionId": "30",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        29,
+        37,
+        40,
+        41,
+        127,
+        130,
+        135,
+        136,
+        139,
+        143
+      ],
+      "attributes": [
+        96,
+        89,
+        84,
+        87,
+        52,
+        89
+      ],
+      "hasDynamicImage": false,
+      "price": 170000,
+      "resourceId": 67325065,
+      "assetId": 216201
     },
     "67365380": {
       "name": "Nico Williams",
@@ -1112,7 +1104,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 358000,
+      "price": 290000,
       "resourceId": 67365380,
       "assetId": 256516
     },
@@ -1164,7 +1156,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 300000,
+      "price": 275000,
       "resourceId": 84142596,
       "assetId": 256516
     }

@@ -146,7 +146,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 10000,
       "resourceId": 205402,
       "assetId": 205402
     },
@@ -386,49 +386,6 @@
       "resourceId": 238068,
       "assetId": 238068
     },
-    "240156": {
-      "name": "Luca Marseiler",
-      "cardName": "Marseiler",
-      "originalVersionId": "1",
-      "clubId": 110502,
-      "leagueId": 20,
-      "countryId": 21,
-      "versionId": "3001",
-      "rating": 68,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "ST"
-      ],
-      "playStyles": [
-        20,
-        6,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        30,
-        33,
-        41,
-        43
-      ],
-      "attributes": [
-        90,
-        67,
-        61,
-        73,
-        36,
-        60
-      ],
-      "hasDynamicImage": false,
-      "price": 1700,
-      "resourceId": 240156,
-      "assetId": 240156
-    },
     "241590": {
       "name": "Patric Pfeiffer",
       "cardName": "Pfeiffer",
@@ -577,7 +534,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1200,
       "resourceId": 244181,
       "assetId": 244181
     },
@@ -657,7 +614,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 10000,
       "resourceId": 246127,
       "assetId": 246127
     },
@@ -1033,7 +990,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 4600,
+      "price": 5100,
       "resourceId": 276205,
       "assetId": 276205
     },
@@ -1150,6 +1107,49 @@
       "price": 350,
       "resourceId": 50569290,
       "assetId": 237642
+    },
+    "50571804": {
+      "name": "Luca Marseiler",
+      "cardName": "Marseiler",
+      "originalVersionId": "30",
+      "clubId": 110502,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "30",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        29,
+        31,
+        32,
+        42,
+        130,
+        133,
+        141,
+        143
+      ],
+      "attributes": [
+        91,
+        91,
+        86,
+        89,
+        46,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 61500,
+      "resourceId": 50571804,
+      "assetId": 240156
     }
   }
 }

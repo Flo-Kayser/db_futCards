@@ -37,7 +37,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 70500,
+    "price": 70000,
     "resourceId": 247703,
     "assetId": 247703
   },
@@ -79,7 +79,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 33250,
+    "price": 34250,
     "resourceId": 50537571,
     "assetId": 205923
   },
@@ -118,7 +118,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 35000,
+    "price": 42250,
     "resourceId": 50548275,
     "assetId": 216627
   },
@@ -170,48 +170,6 @@
     "resourceId": 50551844,
     "assetId": 220196
   },
-  "50552358": {
-    "name": "Harry Wilson",
-    "cardName": "Wilson",
-    "originalVersionId": "3",
-    "clubId": 144,
-    "leagueId": 13,
-    "countryId": 50,
-    "versionId": "3",
-    "rating": 83,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "RM",
-    "possiblePositions": [
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      10,
-      12,
-      20,
-      25,
-      7
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      23,
-      126
-    ],
-    "attributes": [
-      86,
-      85,
-      83,
-      86,
-      53,
-      66
-    ],
-    "hasDynamicImage": true,
-    "price": 27000,
-    "resourceId": 50552358,
-    "assetId": 220710
-  },
   "50563752": {
     "name": "Daniel James",
     "cardName": "James",
@@ -253,7 +211,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 122000,
+    "price": 125000,
     "resourceId": 50563752,
     "assetId": 232104
   },
@@ -364,8 +322,49 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 10820000,
+    "price": 11500000,
     "resourceId": 67180421,
     "assetId": 71557
+  },
+  "67329574": {
+    "name": "Harry Wilson",
+    "cardName": "Wilson",
+    "originalVersionId": "30",
+    "clubId": 144,
+    "leagueId": 13,
+    "countryId": 50,
+    "versionId": "30",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      24,
+      25,
+      37,
+      123,
+      126,
+      135,
+      136
+    ],
+    "attributes": [
+      92,
+      88,
+      88,
+      88,
+      60,
+      72
+    ],
+    "hasDynamicImage": true,
+    "price": 19000,
+    "resourceId": 67329574,
+    "assetId": 220710
   }
 }

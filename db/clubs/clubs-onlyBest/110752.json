@@ -104,7 +104,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 550,
       "resourceId": 73460,
       "assetId": 73460
     },
@@ -138,7 +138,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 79168,
       "assetId": 79168
     },
@@ -176,7 +176,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 213702,
       "assetId": 213702
     },
@@ -286,7 +286,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 650,
       "resourceId": 242358,
       "assetId": 242358
     },
@@ -322,7 +322,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 244154,
       "assetId": 244154
     },
@@ -360,7 +360,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 500,
       "resourceId": 244474,
       "assetId": 244474
     },
@@ -394,7 +394,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 247680,
       "assetId": 247680
     },
@@ -429,7 +429,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 248002,
       "assetId": 248002
     },
@@ -538,7 +538,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 800,
       "resourceId": 251235,
       "assetId": 251235
     },
@@ -576,7 +576,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 251635,
       "assetId": 251635
     },
@@ -616,7 +616,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 251770,
       "assetId": 251770
     },
@@ -690,7 +690,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 262470,
       "assetId": 262470
     },
@@ -725,7 +725,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 263207,
       "assetId": 263207
     },
@@ -761,7 +761,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 268452,
       "assetId": 268452
     },
@@ -795,7 +795,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 750,
       "resourceId": 274458,
       "assetId": 274458
     },
@@ -834,7 +834,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 500,
       "resourceId": 274734,
       "assetId": 274734
     },
@@ -872,47 +872,9 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 275227,
       "assetId": 275227
-    },
-    "275374": {
-      "name": "Narcis Ilaș",
-      "cardName": "Ilaș",
-      "originalVersionId": "1",
-      "clubId": 110752,
-      "leagueId": 330,
-      "countryId": 39,
-      "versionId": "3000",
-      "rating": 61,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "LB",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5,
-        9,
-        24
-      ],
-      "attributes": [
-        72,
-        41,
-        53,
-        56,
-        57,
-        54
-      ],
-      "hasDynamicImage": false,
-      "price": 250,
-      "resourceId": 275374,
-      "assetId": 275374
     },
     "275901": {
       "name": "Zoran Mitrov",
@@ -984,7 +946,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 276132,
       "assetId": 276132
     },
@@ -1028,6 +990,49 @@
       "price": 350,
       "resourceId": 277618,
       "assetId": 277618
+    },
+    "50607022": {
+      "name": "Narcis Ilaș",
+      "cardName": "Ilaș",
+      "originalVersionId": "30",
+      "clubId": 110752,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "30",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        10,
+        23,
+        103,
+        105,
+        107,
+        109,
+        124
+      ],
+      "attributes": [
+        90,
+        64,
+        80,
+        84,
+        85,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 10000,
+      "resourceId": 50607022,
+      "assetId": 275374
     }
   }
 }

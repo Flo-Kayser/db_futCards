@@ -1,42 +1,4 @@
 {
-  "48940": {
-    "name": "Petr Čech",
-    "cardName": "Čech",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 12,
-    "versionId": "12",
-    "rating": 88,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 1,
-    "preferredPosition": "GK",
-    "possiblePositions": [
-      "GK"
-    ],
-    "playStyles": [
-      30
-    ],
-    "playStylesPlus": [
-      35
-    ],
-    "rolesPlus": [
-      101
-    ],
-    "attributes": [
-      86,
-      85,
-      76,
-      88,
-      54,
-      90
-    ],
-    "hasDynamicImage": false,
-    "price": 195000,
-    "resourceId": 48940,
-    "assetId": 48940
-  },
   "71259": {
     "name": "Lukáš Červ",
     "cardName": "Červ",
@@ -777,7 +739,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 81231,
     "assetId": 81231
   },
@@ -847,7 +809,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 199244,
     "assetId": 199244
   },
@@ -1905,7 +1867,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 350,
     "resourceId": 246919,
     "assetId": 246919
   },
@@ -2234,7 +2196,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 300,
     "resourceId": 253428,
     "assetId": 253428
   },
@@ -2427,7 +2389,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 450,
     "resourceId": 257533,
     "assetId": 257533
   },
@@ -3019,7 +2981,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 1400,
     "resourceId": 269510,
     "assetId": 269510
   },
@@ -3210,7 +3172,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 650,
     "resourceId": 270046,
     "assetId": 270046
   },
@@ -3978,9 +3940,55 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 11500,
     "resourceId": 50340121,
     "assetId": 8473
+  },
+  "50380588": {
+    "name": "Petr Čech",
+    "cardName": "Čech",
+    "originalVersionId": "149",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 12,
+    "versionId": "149",
+    "rating": 89,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      10,
+      30,
+      31,
+      32,
+      33,
+      9
+    ],
+    "playStylesPlus": [
+      34,
+      35
+    ],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      88,
+      87,
+      80,
+      90,
+      65,
+      91
+    ],
+    "hasDynamicImage": false,
+    "price": 240000,
+    "resourceId": 50380588,
+    "assetId": 48940
   },
   "50548508": {
     "name": "Václav Černý",
@@ -4152,7 +4160,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 13000,
     "resourceId": 50576118,
     "assetId": 244470
   },
@@ -4238,7 +4246,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 24250,
+    "price": 24750,
     "resourceId": 50578698,
     "assetId": 247050
   },
@@ -4448,7 +4456,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 20500,
+    "price": 18250,
     "resourceId": 84120316,
     "assetId": 234236
   }

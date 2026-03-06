@@ -41,58 +41,9 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 180000,
+      "price": 175000,
       "resourceId": 50524096,
       "assetId": 192448
-    },
-    "50560350": {
-      "name": "Frenkie de Jong",
-      "cardName": "de Jong",
-      "originalVersionId": "96",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 34,
-      "versionId": "96",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 5,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        11,
-        13,
-        17,
-        20,
-        24,
-        9
-      ],
-      "playStylesPlus": [
-        8
-      ],
-      "rolesPlus": [
-        18,
-        22,
-        116,
-        120,
-        121
-      ],
-      "attributes": [
-        84,
-        73,
-        87,
-        89,
-        85,
-        83
-      ],
-      "hasDynamicImage": true,
-      "price": 300000,
-      "resourceId": 50560350,
-      "assetId": 228702
     },
     "50573109": {
       "name": "Ferran Torres",
@@ -233,7 +184,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 126000,
+      "price": 120000,
       "resourceId": 50595226,
       "assetId": 263578
     },
@@ -275,7 +226,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 145000,
+      "price": 146000,
       "resourceId": 50597248,
       "assetId": 265600
     },
@@ -368,9 +319,63 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 258000,
+      "price": 254000,
       "resourceId": 50609694,
       "assetId": 278046
+    },
+    "67337566": {
+      "name": "Frenkie de Jong",
+      "cardName": "de Jong",
+      "originalVersionId": "51",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 34,
+      "versionId": "51",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        13,
+        20,
+        24,
+        28,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        11,
+        17
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        22,
+        49,
+        114,
+        116,
+        119,
+        120
+      ],
+      "attributes": [
+        88,
+        84,
+        90,
+        91,
+        87,
+        85
+      ],
+      "hasDynamicImage": false,
+      "sbcPrice": 789500,
+      "price": 826750,
+      "resourceId": 67337566,
+      "assetId": 228702
     },
     "67350350": {
       "name": "Jules Koundé",
@@ -420,7 +425,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 1080000,
+      "price": 947000,
       "resourceId": 67350350,
       "assetId": 241486
     },
@@ -472,7 +477,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 4025000,
+      "price": 3880000,
       "resourceId": 67360718,
       "assetId": 251854
     },
@@ -522,7 +527,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 770000,
+      "price": 623000,
       "resourceId": 84074625,
       "assetId": 188545
     },
@@ -584,7 +589,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 232750,
+      "sbcPrice": 232500,
       "resourceId": 84096594,
       "assetId": 210514
     },
@@ -634,7 +639,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 1050000,
+      "price": 927000,
       "resourceId": 84117757,
       "assetId": 231677
     },
@@ -692,7 +697,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 8070000,
+      "price": 7949000,
       "resourceId": 84119499,
       "assetId": 233419
     },
@@ -747,7 +752,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 448000,
+      "price": 393000,
       "resourceId": 100940475,
       "assetId": 277179
     },
@@ -798,8 +803,52 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 1040000,
+      "price": 980000,
       "resourceId": 100940939,
+      "assetId": 277643
+    },
+    "117718155": {
+      "name": "Lamine Yamal",
+      "cardName": "Lamine Yamal",
+      "originalVersionId": "30",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "30",
+      "rating": 92,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        31,
+        33,
+        37,
+        123,
+        126,
+        132,
+        135,
+        136
+      ],
+      "attributes": [
+        90,
+        88,
+        91,
+        94,
+        27,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 2900000,
+      "resourceId": 117718155,
       "assetId": 277643
     }
   }

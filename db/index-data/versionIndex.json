@@ -182,6 +182,19 @@
         "tertiaryColor": "#43e7b3"
       }
     },
+    "30": {
+      "count": 51,
+      "file": "db/versions/30.json",
+      "details": {
+        "name": "FUT Birthday",
+        "hasStrip": true,
+        "createdAt": "2026-03-05T23:15:00.439Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_30_0.png",
+        "primaryColor": "#fff6fb",
+        "secondaryColor": "#3b0673",
+        "tertiaryColor": "#ffa4ce"
+      }
+    },
     "31": {
       "count": 5,
       "file": "db/versions/31.json",
@@ -313,7 +326,7 @@
       }
     },
     "51": {
-      "count": 16,
+      "count": 17,
       "file": "db/versions/51.json",
       "details": {
         "name": "Flashback",
@@ -702,6 +715,32 @@
         "tertiaryColor": "#cf009b"
       }
     },
+    "148": {
+      "count": 7,
+      "file": "db/versions/148.json",
+      "details": {
+        "name": "FUT Birthday Hero",
+        "hasStrip": true,
+        "createdAt": "2026-03-05T23:15:00.439Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_148_0.png",
+        "primaryColor": "#fff6fb",
+        "secondaryColor": "#7e0742",
+        "tertiaryColor": "#a60b58"
+      }
+    },
+    "149": {
+      "count": 6,
+      "file": "db/versions/149.json",
+      "details": {
+        "name": "FUT Birthday ICON",
+        "hasStrip": true,
+        "createdAt": "2026-03-05T23:15:00.438Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_149_0.png",
+        "primaryColor": "#54462b",
+        "secondaryColor": "#dbdbdb",
+        "tertiaryColor": "#94792e"
+      }
+    },
     "150": {
       "count": 53,
       "file": "db/versions/150.json",
@@ -899,8 +938,8 @@
     }
   },
   "meta": {
-    "totalVersions": 69,
-    "totalVersionsWithoutBase": 63,
-    "updatedAt": "2026-03-06T17:50:48.143Z"
+    "totalVersions": 72,
+    "totalVersionsWithoutBase": 66,
+    "updatedAt": "2026-03-06T19:22:29.205Z"
   }
 }

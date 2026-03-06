@@ -215,58 +215,6 @@
       "resourceId": 50585121,
       "assetId": 253473
     },
-    "67285867": {
-      "name": "Luka Modrić",
-      "cardName": "Modrić",
-      "originalVersionId": "82",
-      "clubId": 131681,
-      "leagueId": 31,
-      "countryId": 10,
-      "versionId": "82",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        12,
-        13,
-        20,
-        25,
-        6,
-        8
-      ],
-      "playStylesPlus": [
-        11
-      ],
-      "rolesPlus": [
-        15,
-        22,
-        33,
-        116,
-        120,
-        121,
-        131
-      ],
-      "attributes": [
-        83,
-        81,
-        92,
-        91,
-        75,
-        81
-      ],
-      "hasDynamicImage": true,
-      "price": 175000,
-      "resourceId": 67285867,
-      "assetId": 177003
-    },
     "67314295": {
       "name": "Niclas Füllkrug",
       "cardName": "Füllkrug",
@@ -311,7 +259,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 75750,
+      "sbcPrice": 65250,
       "resourceId": 67314295,
       "assetId": 205431
     },
@@ -357,7 +305,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 18750,
+      "price": 21000,
       "resourceId": 67318872,
       "assetId": 210008
     },
@@ -424,6 +372,51 @@
       "resourceId": 67341275,
       "assetId": 232411
     },
+    "84063083": {
+      "name": "Luka Modrić",
+      "cardName": "Modrić",
+      "originalVersionId": "30",
+      "clubId": 131681,
+      "leagueId": 31,
+      "countryId": 10,
+      "versionId": "30",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        19,
+        22,
+        33,
+        116,
+        120,
+        121,
+        131,
+        132
+      ],
+      "attributes": [
+        85,
+        82,
+        93,
+        92,
+        80,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 130000,
+      "resourceId": 84063083,
+      "assetId": 177003
+    },
     "84127801": {
       "name": "Rafael Leão",
       "cardName": "Rafael Leão",
@@ -476,7 +469,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 5100000,
+      "price": 4700000,
       "resourceId": 84127801,
       "assetId": 241721
     },

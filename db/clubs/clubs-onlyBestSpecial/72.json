@@ -1,52 +1,6 @@
 {
   "clubName": "OGC Nice",
   "players": {
-    "50490273": {
-      "name": "Dante",
-      "cardName": "Dante",
-      "originalVersionId": "108",
-      "clubId": 72,
-      "leagueId": 16,
-      "countryId": 54,
-      "versionId": "108",
-      "rating": 85,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        15,
-        17,
-        18,
-        19,
-        28
-      ],
-      "playStylesPlus": [
-        16
-      ],
-      "rolesPlus": [
-        12,
-        48,
-        111,
-        113
-      ],
-      "attributes": [
-        82,
-        60,
-        76,
-        81,
-        86,
-        84
-      ],
-      "isObjective": true,
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 50490273,
-      "assetId": 158625
-    },
     "50567217": {
       "name": "Tanguy Ndombele",
       "cardName": "Ndombele",
@@ -93,7 +47,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 26000,
+      "price": 26750,
       "resourceId": 50567217,
       "assetId": 235569
     },
@@ -144,6 +98,43 @@
       "sbcPrice": 71500,
       "resourceId": 50606184,
       "assetId": 274536
+    },
+    "67267489": {
+      "name": "Dante",
+      "cardName": "Dante",
+      "originalVersionId": "30",
+      "clubId": 72,
+      "leagueId": 16,
+      "countryId": 54,
+      "versionId": "30",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        48,
+        111,
+        112,
+        113
+      ],
+      "attributes": [
+        88,
+        63,
+        79,
+        84,
+        89,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 31000,
+      "resourceId": 67267489,
+      "assetId": 158625
     }
   }
 }

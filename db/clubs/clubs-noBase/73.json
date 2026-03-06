@@ -38,7 +38,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 59500,
+      "price": 59000,
       "resourceId": 50401652,
       "assetId": 70004
     },
@@ -84,7 +84,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 44000,
+      "price": 41000,
       "resourceId": 50557919,
       "assetId": 226271
     },
@@ -144,7 +144,7 @@
         69
       ],
       "hasDynamicImage": true,
-      "price": 1535000,
+      "price": 1327000,
       "resourceId": 50563091,
       "assetId": 231443
     },
@@ -238,7 +238,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 200000,
+      "price": 189000,
       "resourceId": 50579283,
       "assetId": 247635
     },
@@ -289,7 +289,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 7099000,
+      "price": 7999000,
       "resourceId": 50583793,
       "assetId": 252145
     },
@@ -336,7 +336,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 79000,
+      "price": 76500,
       "resourceId": 50586901,
       "assetId": 255253
     },
@@ -432,7 +432,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 357000,
+      "price": 300000,
       "resourceId": 50596300,
       "assetId": 264652
     },
@@ -489,7 +489,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 1170000,
+      "price": 1169000,
       "resourceId": 50602321,
       "assetId": 270673
     },
@@ -543,7 +543,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 82000,
+      "price": 77500,
       "resourceId": 50603069,
       "assetId": 271421
     },
@@ -588,7 +588,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 49000,
+      "price": 56500,
       "resourceId": 50604482,
       "assetId": 272834
     },
@@ -682,7 +682,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 64500,
+      "price": 64000,
       "resourceId": 67316729,
       "assetId": 207865
     },
@@ -732,7 +732,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 1620000,
+      "price": 1519000,
       "resourceId": 67340307,
       "assetId": 231443
     },
@@ -787,7 +787,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 639000,
+      "price": 635000,
       "resourceId": 67356499,
       "assetId": 247635
     },
@@ -884,9 +884,53 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 288000,
+      "price": 275000,
       "resourceId": 67365060,
       "assetId": 256196
+    },
+    "67373516": {
+      "name": "Bradley Barcola",
+      "cardName": "Barcola",
+      "originalVersionId": "30",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "30",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        29,
+        37,
+        40,
+        127,
+        130,
+        135,
+        136,
+        138,
+        139
+      ],
+      "attributes": [
+        94,
+        86,
+        87,
+        91,
+        45,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 193000,
+      "resourceId": 67373516,
+      "assetId": 264652
     },
     "67380285": {
       "name": "Désiré Doué",
@@ -933,7 +977,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 320000,
+      "price": 325000,
       "resourceId": 67380285,
       "assetId": 271421
     },
@@ -1029,7 +1073,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 1699000,
+      "price": 1640000,
       "resourceId": 84117523,
       "assetId": 231443
     },
@@ -1080,9 +1124,46 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 210000,
+      "price": 205000,
       "resourceId": 84141333,
       "assetId": 255253
+    },
+    "84142276": {
+      "name": "Willian Pacho",
+      "cardName": "Pacho",
+      "originalVersionId": "30",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 57,
+      "versionId": "30",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        48,
+        111,
+        112,
+        113
+      ],
+      "attributes": [
+        86,
+        40,
+        73,
+        73,
+        90,
+        91
+      ],
+      "hasDynamicImage": false,
+      "price": 159000,
+      "resourceId": 84142276,
+      "assetId": 256196
     },
     "84157501": {
       "name": "Désiré Doué",
@@ -1134,7 +1215,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 1380000,
+      "price": 1139000,
       "resourceId": 84157501,
       "assetId": 271421
     },
@@ -1182,7 +1263,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 56500,
+      "price": 67000,
       "resourceId": 84158914,
       "assetId": 272834
     },
@@ -1234,7 +1315,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 8589000,
+      "price": 9199000,
       "resourceId": 100894739,
       "assetId": 231443
     },
@@ -1287,7 +1368,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 4600000,
+      "price": 4400000,
       "resourceId": 100918549,
       "assetId": 255253
     },
@@ -1346,7 +1427,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 731000,
+      "price": 703000,
       "resourceId": 100934717,
       "assetId": 271421
     },
@@ -1393,7 +1474,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 67500,
+      "price": 65500,
       "resourceId": 100936130,
       "assetId": 272834
     },
@@ -1443,7 +1524,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 759000,
+      "price": 751000,
       "resourceId": 117671955,
       "assetId": 231443
     }

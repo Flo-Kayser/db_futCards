@@ -42,7 +42,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 1025000,
+    "price": 1020000,
     "resourceId": 50472249,
     "assetId": 140601
   },
@@ -142,7 +142,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 28000,
+    "price": 26750,
     "resourceId": 50540222,
     "assetId": 208574
   },
@@ -190,7 +190,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 39250,
+    "price": 38250,
     "resourceId": 50555496,
     "assetId": 223848
   },
@@ -239,54 +239,9 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 42500,
+    "price": 45500,
     "resourceId": 50578078,
     "assetId": 246430
-  },
-  "50603852": {
-    "name": "Allegra Poljak",
-    "cardName": "Poljak",
-    "originalVersionId": "3",
-    "clubId": 116334,
-    "leagueId": 2222,
-    "countryId": 51,
-    "versionId": "3",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "LB",
-      "LM",
-      "LW",
-      "RB"
-    ],
-    "playStyles": [
-      12,
-      20,
-      22,
-      25,
-      6
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      5,
-      9,
-      128
-    ],
-    "attributes": [
-      86,
-      72,
-      84,
-      84,
-      83,
-      82
-    ],
-    "hasDynamicImage": true,
-    "price": 17750,
-    "resourceId": 50603852,
-    "assetId": 272204
   },
   "50609966": {
     "name": "Aleksandar Stanković",
@@ -337,7 +292,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 38750,
+    "price": 34500,
     "resourceId": 50609966,
     "assetId": 278318
   },
@@ -389,8 +344,51 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 11500,
     "resourceId": 67373754,
     "assetId": 264890
+  },
+  "67381068": {
+    "name": "Allegra Poljak",
+    "cardName": "Poljak",
+    "originalVersionId": "30",
+    "clubId": 116334,
+    "leagueId": 2222,
+    "countryId": 51,
+    "versionId": "30",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      10,
+      24,
+      25,
+      105,
+      106,
+      109,
+      123,
+      126
+    ],
+    "attributes": [
+      87,
+      74,
+      86,
+      86,
+      84,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 22750,
+    "resourceId": 67381068,
+    "assetId": 272204
   }
 }

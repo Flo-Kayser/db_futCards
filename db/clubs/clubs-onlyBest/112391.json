@@ -34,7 +34,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2000,
       "resourceId": 74436,
       "assetId": 74436
     },
@@ -72,7 +72,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 74699,
       "assetId": 74699
     },
@@ -147,7 +147,7 @@
         38
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 2900,
       "resourceId": 74921,
       "assetId": 74921
     },
@@ -185,7 +185,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 192984,
       "assetId": 192984
     },
@@ -228,7 +228,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 200724,
       "assetId": 200724
     },
@@ -262,7 +262,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 550,
       "resourceId": 209027,
       "assetId": 209027
     },
@@ -302,7 +302,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 210603,
       "assetId": 210603
     },
@@ -341,7 +341,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 450,
       "resourceId": 211395,
       "assetId": 211395
     },
@@ -376,7 +376,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 950,
       "resourceId": 214923,
       "assetId": 214923
     },
@@ -413,7 +413,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 2500,
       "resourceId": 228784,
       "assetId": 228784
     },
@@ -454,7 +454,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 230801,
       "assetId": 230801
     },
@@ -535,7 +535,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1400,
       "resourceId": 239042,
       "assetId": 239042
     },
@@ -611,7 +611,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 242114,
       "assetId": 242114
     },
@@ -716,7 +716,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 1000,
       "resourceId": 253015,
       "assetId": 253015
     },
@@ -793,7 +793,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 400,
       "resourceId": 257842,
       "assetId": 257842
     },
@@ -838,44 +838,6 @@
       "price": 0,
       "resourceId": 262151,
       "assetId": 262151
-    },
-    "263824": {
-      "name": "Musab Al Juwair",
-      "cardName": "Al Juwair",
-      "originalVersionId": "0",
-      "clubId": 112391,
-      "leagueId": 350,
-      "countryId": 183,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        15,
-        20,
-        21
-      ],
-      "attributes": [
-        68,
-        67,
-        79,
-        74,
-        56,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 263824,
-      "assetId": 263824
     },
     "266797": {
       "name": "Gastón Álvarez",
@@ -954,7 +916,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1000,
       "resourceId": 274913,
       "assetId": 274913
     },
@@ -1039,7 +1001,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 50542059,
       "assetId": 210411
     },
@@ -1163,9 +1125,52 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 50580484,
       "assetId": 248836
+    },
+    "50595472": {
+      "name": "Musab Al Juwair",
+      "cardName": "Al Juwair",
+      "originalVersionId": "30",
+      "clubId": 112391,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "30",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        18,
+        22,
+        33,
+        116,
+        120,
+        121,
+        131
+      ],
+      "attributes": [
+        84,
+        81,
+        88,
+        87,
+        83,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50595472,
+      "assetId": 263824
     },
     "67343443": {
       "name": "Julian Quiñones",
@@ -1209,7 +1214,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 34000,
+      "price": 34250,
       "resourceId": 67343443,
       "assetId": 234579
     }
