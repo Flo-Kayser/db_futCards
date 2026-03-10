@@ -7,7 +7,7 @@
     "leagueId": 13,
     "countryId": 7,
     "versionId": "113",
-    "rating": 85,
+    "rating": 86,
     "preferredFoot": "Right",
     "weakFoot": 5,
     "skillMoves": 4,
@@ -33,18 +33,19 @@
       41,
       42,
       127,
+      128,
       130,
       138,
       139,
       143
     ],
     "attributes": [
+      86,
       85,
       84,
-      83,
-      87,
-      32,
-      72
+      88,
+      33,
+      73
     ],
     "isObjective": true,
     "hasDynamicImage": true,
@@ -59,7 +60,7 @@
     "leagueId": 13,
     "countryId": 45,
     "versionId": "113",
-    "rating": 85,
+    "rating": 86,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 2,
@@ -78,17 +79,17 @@
       32
     ],
     "rolesPlus": [
-      2,
       101,
+      102,
       145
     ],
     "attributes": [
-      86,
+      87,
+      85,
       84,
-      83,
-      86,
-      70,
-      84
+      87,
+      71,
+      85
     ],
     "isObjective": true,
     "hasDynamicImage": true,
@@ -103,10 +104,10 @@
     "leagueId": 13,
     "countryId": 14,
     "versionId": "113",
-    "rating": 85,
+    "rating": 90,
     "preferredFoot": "Left",
     "weakFoot": 4,
-    "skillMoves": 3,
+    "skillMoves": 5,
     "preferredPosition": "CM",
     "possiblePositions": [
       "CAM",
@@ -115,32 +116,40 @@
     ],
     "playStyles": [
       10,
+      11,
       16,
       20,
+      21,
       24,
       8
     ],
     "playStylesPlus": [
+      17,
       9
     ],
     "rolesPlus": [
-      21,
-      22,
-      31,
-      33,
-      49,
+      114,
+      115,
       116,
+      117,
       118,
+      119,
       120,
-      134
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
     ],
     "attributes": [
-      83,
-      81,
-      85,
+      88,
       86,
-      80,
-      80
+      90,
+      91,
+      85,
+      85
     ],
     "isObjective": true,
     "hasDynamicImage": true,
@@ -155,7 +164,7 @@
     "leagueId": 13,
     "countryId": 95,
     "versionId": "113",
-    "rating": 85,
+    "rating": 87,
     "preferredFoot": "Right",
     "weakFoot": 3,
     "skillMoves": 4,
@@ -177,19 +186,19 @@
     "rolesPlus": [
       18,
       22,
-      32,
-      33,
       121,
       131,
+      132,
+      133,
       134
     ],
     "attributes": [
-      88,
-      83,
-      84,
-      87,
-      70,
-      72
+      90,
+      85,
+      86,
+      89,
+      72,
+      74
     ],
     "isObjective": true,
     "hasDynamicImage": true,
@@ -204,7 +213,7 @@
     "leagueId": 13,
     "countryId": 38,
     "versionId": "113",
-    "rating": 85,
+    "rating": 86,
     "preferredFoot": "Right",
     "weakFoot": 3,
     "skillMoves": 4,
@@ -231,16 +240,17 @@
       23,
       104,
       106,
+      118,
       122,
       125
     ],
     "attributes": [
-      89,
-      75,
-      82,
-      84,
+      90,
+      76,
       83,
-      82
+      85,
+      84,
+      83
     ],
     "isObjective": true,
     "hasDynamicImage": true,
@@ -255,7 +265,7 @@
     "leagueId": 13,
     "countryId": 108,
     "versionId": "113",
-    "rating": 85,
+    "rating": 86,
     "preferredFoot": "Left",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -284,17 +294,18 @@
       36,
       122,
       123,
+      125,
       132,
       133,
       135
     ],
     "attributes": [
+      89,
+      83,
+      83,
       88,
-      82,
-      82,
-      87,
-      60,
-      70
+      61,
+      71
     ],
     "isObjective": true,
     "hasDynamicImage": true,
@@ -309,7 +320,7 @@
     "leagueId": 13,
     "countryId": 23,
     "versionId": "113",
-    "rating": 85,
+    "rating": 89,
     "preferredFoot": "Left",
     "weakFoot": 4,
     "skillMoves": 3,
@@ -322,28 +333,33 @@
       10,
       12,
       16,
+      17,
       18,
-      21
+      21,
+      8
     ],
     "playStylesPlus": [
-      14
+      14,
+      25
     ],
     "rolesPlus": [
-      8,
-      27,
-      30,
       107,
+      108,
       109,
       110,
-      128
+      127,
+      128,
+      129,
+      130,
+      147
     ],
     "attributes": [
-      88,
-      62,
-      80,
-      81,
-      82,
-      83
+      92,
+      66,
+      84,
+      85,
+      86,
+      87
     ],
     "isObjective": true,
     "hasDynamicImage": true,
@@ -358,7 +374,7 @@
     "leagueId": 13,
     "countryId": 18,
     "versionId": "113",
-    "rating": 85,
+    "rating": 87,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -381,20 +397,20 @@
     "rolesPlus": [
       31,
       38,
-      42,
-      44,
       132,
       139,
       141,
-      143
+      142,
+      143,
+      144
     ],
     "attributes": [
-      90,
-      86,
-      80,
-      85,
-      37,
-      75
+      92,
+      88,
+      82,
+      87,
+      39,
+      77
     ],
     "isObjective": true,
     "hasDynamicImage": true,
@@ -409,7 +425,7 @@
     "leagueId": 13,
     "countryId": 83,
     "versionId": "113",
-    "rating": 85,
+    "rating": 86,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -428,18 +444,18 @@
       0
     ],
     "rolesPlus": [
-      43,
       141,
       142,
+      143,
       144
     ],
     "attributes": [
-      85,
       86,
-      83,
-      83,
-      53,
-      86
+      87,
+      84,
+      84,
+      54,
+      87
     ],
     "isObjective": true,
     "hasDynamicImage": true,
@@ -454,10 +470,10 @@
     "leagueId": 13,
     "countryId": 45,
     "versionId": "113",
-    "rating": 85,
+    "rating": 90,
     "preferredFoot": "Right",
     "weakFoot": 4,
-    "skillMoves": 3,
+    "skillMoves": 5,
     "preferredPosition": "RB",
     "possiblePositions": [
       "LB",
@@ -466,32 +482,40 @@
     ],
     "playStyles": [
       10,
+      11,
       12,
       14,
       17,
+      20,
       26
     ],
     "playStylesPlus": [
+      16,
       25
     ],
     "rolesPlus": [
-      4,
-      8,
-      24,
-      25,
       103,
+      104,
       105,
+      106,
       107,
+      108,
       109,
-      123
+      110,
+      123,
+      124,
+      125,
+      126,
+      146,
+      147
     ],
     "attributes": [
-      90,
-      60,
-      80,
-      84,
-      82,
-      75
+      95,
+      65,
+      85,
+      89,
+      87,
+      80
     ],
     "isObjective": true,
     "hasDynamicImage": true,

@@ -31,7 +31,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 0,
       "resourceId": 72026,
       "assetId": 72026
     },
@@ -521,7 +521,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 300,
       "resourceId": 243048,
       "assetId": 243048
     },
@@ -1011,7 +1011,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 13000,
       "resourceId": 50551844,
       "assetId": 220196
     },
@@ -1048,7 +1048,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 14750,
       "resourceId": 50568154,
       "assetId": 236506
     },
@@ -1195,7 +1195,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 13750,
       "resourceId": 50586871,
       "assetId": 255223
     },
@@ -1246,7 +1246,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 59000,
+      "price": 58500,
       "resourceId": 50609557,
       "assetId": 277909
     },
@@ -1336,10 +1336,10 @@
       "leagueId": 13,
       "countryId": 45,
       "versionId": "113",
-      "rating": 85,
+      "rating": 90,
       "preferredFoot": "Right",
       "weakFoot": 4,
-      "skillMoves": 3,
+      "skillMoves": 5,
       "preferredPosition": "RB",
       "possiblePositions": [
         "LB",
@@ -1348,32 +1348,40 @@
       ],
       "playStyles": [
         10,
+        11,
         12,
         14,
         17,
+        20,
         26
       ],
       "playStylesPlus": [
+        16,
         25
       ],
       "rolesPlus": [
-        4,
-        8,
-        24,
-        25,
         103,
+        104,
         105,
+        106,
         107,
+        108,
         109,
-        123
+        110,
+        123,
+        124,
+        125,
+        126,
+        146,
+        147
       ],
       "attributes": [
-        90,
-        60,
-        80,
-        84,
-        82,
-        75
+        95,
+        65,
+        85,
+        89,
+        87,
+        80
       ],
       "isObjective": true,
       "hasDynamicImage": true,
