@@ -38,7 +38,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 12750,
+      "price": 14500,
       "resourceId": 330,
       "assetId": 330
     },
@@ -80,7 +80,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 20500,
+      "price": 21500,
       "resourceId": 5454,
       "assetId": 5454
     },
@@ -123,7 +123,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 17000,
+      "price": 14250,
       "resourceId": 5467,
       "assetId": 5467
     },
@@ -164,53 +164,9 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 18000,
+      "price": 17500,
       "resourceId": 5661,
       "assetId": 5661
-    },
-    "7743": {
-      "name": "Landon Donovan",
-      "cardName": "Donovan",
-      "originalVersionId": "72",
-      "clubId": 114605,
-      "leagueId": 39,
-      "countryId": 95,
-      "versionId": "72",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "ST"
-      ],
-      "playStyles": [
-        1,
-        21,
-        7
-      ],
-      "playStylesPlus": [
-        22
-      ],
-      "rolesPlus": [
-        25,
-        43,
-        132
-      ],
-      "attributes": [
-        89,
-        86,
-        81,
-        85,
-        46,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 11500,
-      "resourceId": 7743,
-      "assetId": 7743
     },
     "168886": {
       "name": "Sami Al Jaber",
@@ -247,7 +203,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 12250,
+      "price": 13000,
       "resourceId": 168886,
       "assetId": 168886
     },
@@ -289,7 +245,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 12000,
+      "price": 12750,
       "resourceId": 262271,
       "assetId": 262271
     },
@@ -330,7 +286,7 @@
         89
       ],
       "hasDynamicImage": false,
-      "sbcPrice": 412250,
+      "sbcPrice": 386250,
       "price": 394000,
       "resourceId": 266690,
       "assetId": 266690
@@ -373,7 +329,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 21000,
+      "price": 20500,
       "resourceId": 269603,
       "assetId": 269603
     },
@@ -419,7 +375,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 13500,
+      "price": 13250,
       "resourceId": 275049,
       "assetId": 275049
     },
@@ -469,7 +425,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 112000,
+      "price": 104000,
       "resourceId": 50331675,
       "assetId": 27
     },
@@ -518,7 +474,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 260000,
+      "price": 237000,
       "resourceId": 50332218,
       "assetId": 570
     },
@@ -612,7 +568,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 17250,
       "resourceId": 50333493,
       "assetId": 1845
     },
@@ -658,7 +614,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 53000,
+      "price": 56000,
       "resourceId": 50335270,
       "assetId": 3622
     },
@@ -706,7 +662,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 42750,
+      "price": 42500,
       "resourceId": 50337321,
       "assetId": 5673
     },
@@ -753,7 +709,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 19500,
       "resourceId": 50337327,
       "assetId": 5679
     },
@@ -810,9 +766,64 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 15500,
       "resourceId": 50338623,
       "assetId": 6975
+    },
+    "50339391": {
+      "name": "Landon Donovan",
+      "cardName": "Donovan",
+      "originalVersionId": "148",
+      "clubId": 114605,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "148",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        11,
+        12,
+        22,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        21,
+        6
+      ],
+      "rolesPlus": [
+        25,
+        26,
+        34,
+        42,
+        123,
+        131,
+        132,
+        141,
+        143
+      ],
+      "attributes": [
+        92,
+        91,
+        87,
+        90,
+        52,
+        80
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50339391,
+      "assetId": 7743
     },
     "50339996": {
       "name": "Míchel Salgado",
@@ -855,7 +866,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 68000,
+      "price": 70000,
       "resourceId": 50339996,
       "assetId": 8348
     },
@@ -909,7 +920,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 11500,
       "resourceId": 50340121,
       "assetId": 8473
     },
@@ -956,7 +967,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 46750,
+      "price": 45000,
       "resourceId": 50342352,
       "assetId": 10704
     },
@@ -1009,7 +1020,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 13750,
+      "price": 15000,
       "resourceId": 50347371,
       "assetId": 15723
     },
@@ -1101,7 +1112,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 146000,
+      "price": 158000,
       "resourceId": 50348267,
       "assetId": 16619
     },
@@ -1201,7 +1212,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 23000,
       "resourceId": 50357572,
       "assetId": 25924
     },
@@ -1255,7 +1266,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 1084000,
+      "price": 1300000,
       "resourceId": 50358357,
       "assetId": 26709
     },
@@ -1354,7 +1365,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 27750,
+      "price": 27250,
       "resourceId": 50371034,
       "assetId": 39386
     },
@@ -1404,7 +1415,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 43250,
+      "price": 45500,
       "resourceId": 50372546,
       "assetId": 40898
     },
@@ -1447,7 +1458,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 22750,
+      "price": 29500,
       "resourceId": 50376545,
       "assetId": 44897
     },
@@ -1602,7 +1613,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 14500,
       "resourceId": 50383060,
       "assetId": 51412
     },
@@ -1655,7 +1666,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 27000,
+      "price": 26000,
       "resourceId": 50413292,
       "assetId": 81644
     },
@@ -1703,7 +1714,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 55500,
+      "price": 59000,
       "resourceId": 50468834,
       "assetId": 137186
     },
@@ -1753,7 +1764,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 74000,
+      "price": 78500,
       "resourceId": 50474402,
       "assetId": 142754
     },
@@ -1853,7 +1864,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 550000,
+      "price": 489000,
       "resourceId": 50494543,
       "assetId": 162895
     },
@@ -1998,7 +2009,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 13250,
       "resourceId": 50500528,
       "assetId": 168880
     },
@@ -2100,7 +2111,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 69500,
+      "price": 85500,
       "resourceId": 50503525,
       "assetId": 171877
     },
@@ -2153,7 +2164,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 131500,
+      "sbcPrice": 136050,
       "price": 121250,
       "resourceId": 50513431,
       "assetId": 181783
@@ -2202,7 +2213,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 349000,
+      "price": 375000,
       "resourceId": 50516591,
       "assetId": 184943
     },
@@ -2300,7 +2311,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 12750,
       "resourceId": 50523342,
       "assetId": 191694
     },
@@ -2351,7 +2362,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 2189000,
+      "price": 2099000,
       "resourceId": 50523620,
       "assetId": 191972
     },
@@ -2454,7 +2465,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 12750,
       "resourceId": 50547380,
       "assetId": 215732
     },
@@ -2502,7 +2513,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 49500,
+      "price": 51000,
       "resourceId": 50557954,
       "assetId": 226306
     },
@@ -2552,7 +2563,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 29500,
+      "price": 30250,
       "resourceId": 50557955,
       "assetId": 226307
     },
@@ -2600,7 +2611,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 88500,
+      "price": 98000,
       "resourceId": 50558909,
       "assetId": 227261
     },
@@ -2651,7 +2662,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 26000,
+      "price": 28000,
       "resourceId": 50558919,
       "assetId": 227271
     },
@@ -2891,7 +2902,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 38750,
+      "price": 40000,
       "resourceId": 50598343,
       "assetId": 266695
     },
@@ -2949,7 +2960,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 55500,
+      "price": 57500,
       "resourceId": 50605460,
       "assetId": 273812
     },
@@ -2999,7 +3010,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 180000,
+      "price": 185000,
       "resourceId": 50606614,
       "assetId": 274966
     },
@@ -3052,7 +3063,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 19750,
+      "price": 20000,
       "resourceId": 50606615,
       "assetId": 274967
     },
@@ -3108,7 +3119,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 28500,
+      "price": 29500,
       "resourceId": 50606740,
       "assetId": 275092
     },
@@ -3213,7 +3224,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 42000,
+      "price": 48000,
       "resourceId": 67119823,
       "assetId": 10959
     },
@@ -3261,7 +3272,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 217000,
+      "price": 215000,
       "resourceId": 67125483,
       "assetId": 16619
     },
@@ -3321,7 +3332,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 5150000,
+      "price": 5200000,
       "resourceId": 67129153,
       "assetId": 20289
     },
@@ -3381,7 +3392,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 240000,
+      "price": 248000,
       "resourceId": 67129639,
       "assetId": 20775
     },
@@ -3443,7 +3454,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 839250,
+      "sbcPrice": 880750,
       "resourceId": 67137629,
       "assetId": 28765
     },
@@ -3494,7 +3505,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 23750,
+      "price": 24750,
       "resourceId": 67153761,
       "assetId": 44897
     },
@@ -3542,7 +3553,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 136000,
+      "sbcPrice": 140250,
       "price": 108350,
       "resourceId": 67160121,
       "assetId": 51257
@@ -3642,7 +3653,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 107000,
+      "price": 108000,
       "resourceId": 67186651,
       "assetId": 77787
     },
@@ -3694,7 +3705,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 1850000,
+      "price": 1805000,
       "resourceId": 67229138,
       "assetId": 120274
     },
@@ -3748,7 +3759,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 271000,
+      "price": 290000,
       "resourceId": 67244319,
       "assetId": 135455
     },
@@ -3855,7 +3866,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 496000,
+      "price": 444000,
       "resourceId": 67276289,
       "assetId": 167425
     },
@@ -3916,7 +3927,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 386500,
+      "sbcPrice": 390000,
       "resourceId": 67279597,
       "assetId": 170733
     },
@@ -4066,7 +4077,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 2550000,
+      "price": 2491000,
       "resourceId": 67292141,
       "assetId": 183277
     },
@@ -4120,7 +4131,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 267000,
+      "price": 275000,
       "resourceId": 67293807,
       "assetId": 184943
     },
@@ -4176,7 +4187,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 197000,
+      "price": 191000,
       "resourceId": 67322965,
       "assetId": 214101
     },
@@ -4227,7 +4238,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 47000,
+      "price": 49250,
       "resourceId": 67335226,
       "assetId": 226362
     },
@@ -4280,7 +4291,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 16750,
       "resourceId": 67335237,
       "assetId": 226373
     },
@@ -4334,7 +4345,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 135000,
+      "price": 110000,
       "resourceId": 67336126,
       "assetId": 227262
     },
@@ -4501,7 +4512,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 87500,
+      "price": 93500,
       "resourceId": 67375337,
       "assetId": 266473
     },
@@ -4553,7 +4564,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 355000,
+      "sbcPrice": 357750,
       "resourceId": 67375555,
       "assetId": 266691
     },
@@ -4610,7 +4621,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 315000,
+      "price": 291000,
       "resourceId": 67375558,
       "assetId": 266694
     },
@@ -4665,7 +4676,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 980000,
+      "price": 901000,
       "resourceId": 67375665,
       "assetId": 266801
     },
@@ -4721,7 +4732,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 1725000,
+      "price": 1694000,
       "resourceId": 67383614,
       "assetId": 274750
     },
@@ -4768,7 +4779,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 2648000,
+      "price": 2829000,
       "resourceId": 83891820,
       "assetId": 5740
     }

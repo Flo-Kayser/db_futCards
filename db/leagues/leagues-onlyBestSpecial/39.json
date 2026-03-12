@@ -1,48 +1,4 @@
 {
-  "7743": {
-    "name": "Landon Donovan",
-    "cardName": "Donovan",
-    "originalVersionId": "72",
-    "clubId": 114605,
-    "leagueId": 39,
-    "countryId": 95,
-    "versionId": "72",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "RM",
-      "ST"
-    ],
-    "playStyles": [
-      1,
-      21,
-      7
-    ],
-    "playStylesPlus": [
-      22
-    ],
-    "rolesPlus": [
-      25,
-      43,
-      132
-    ],
-    "attributes": [
-      89,
-      86,
-      81,
-      85,
-      46,
-      70
-    ],
-    "hasDynamicImage": false,
-    "price": 11500,
-    "resourceId": 7743,
-    "assetId": 7743
-  },
   "155897": {
     "name": "Clint Dempsey",
     "cardName": "Dempsey",
@@ -80,9 +36,64 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 11750,
+    "price": 13000,
     "resourceId": 155897,
     "assetId": 155897
+  },
+  "50339391": {
+    "name": "Landon Donovan",
+    "cardName": "Donovan",
+    "originalVersionId": "148",
+    "clubId": 114605,
+    "leagueId": 39,
+    "countryId": 95,
+    "versionId": "148",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      11,
+      12,
+      22,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      21,
+      6
+    ],
+    "rolesPlus": [
+      25,
+      26,
+      34,
+      42,
+      123,
+      131,
+      132,
+      141,
+      143
+    ],
+    "attributes": [
+      92,
+      91,
+      87,
+      90,
+      52,
+      80
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50339391,
+    "assetId": 7743
   },
   "50371034": {
     "name": "DaMarcus Beasley",
@@ -133,7 +144,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 27750,
+    "price": 27250,
     "resourceId": 50371034,
     "assetId": 39386
   },
@@ -353,7 +364,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 542000,
+    "price": 557000,
     "resourceId": 50508228,
     "assetId": 176580
   },
@@ -399,7 +410,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 12250,
     "resourceId": 50515217,
     "assetId": 183569
   },
@@ -455,7 +466,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 262000,
+    "price": 259000,
     "resourceId": 50519998,
     "assetId": 188350
   },
@@ -545,7 +556,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 12750,
     "resourceId": 50523342,
     "assetId": 191694
   },
@@ -590,7 +601,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 50000,
+    "price": 56500,
     "resourceId": 50529909,
     "assetId": 198261
   },
@@ -641,54 +652,6 @@
     "price": 0,
     "resourceId": 50530365,
     "assetId": 198717
-  },
-  "50531752": {
-    "name": "Heung Min Son",
-    "cardName": "Son",
-    "originalVersionId": "22",
-    "clubId": 112996,
-    "leagueId": 39,
-    "countryId": 167,
-    "versionId": "22",
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "ST"
-    ],
-    "playStyles": [
-      12,
-      22,
-      6,
-      7
-    ],
-    "playStylesPlus": [
-      0
-    ],
-    "rolesPlus": [
-      29,
-      40,
-      41,
-      127,
-      138,
-      143
-    ],
-    "attributes": [
-      87,
-      88,
-      85,
-      86,
-      45,
-      76
-    ],
-    "hasDynamicImage": true,
-    "price": 265000,
-    "resourceId": 50531752,
-    "assetId": 200104
   },
   "50533726": {
     "name": "Darlington Nagbe",
@@ -819,7 +782,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 12250,
     "resourceId": 50542578,
     "assetId": 210930
   },
@@ -1007,7 +970,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 27250,
+    "price": 27750,
     "resourceId": 50557599,
     "assetId": 225951
   },
@@ -1049,7 +1012,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 13000,
     "resourceId": 50565438,
     "assetId": 233790
   },
@@ -1177,7 +1140,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 18500,
     "resourceId": 50568566,
     "assetId": 236918
   },
@@ -1226,7 +1189,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 19000,
     "resourceId": 50572392,
     "assetId": 240744
   },
@@ -1269,7 +1232,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 27750,
+    "price": 22000,
     "resourceId": 50572810,
     "assetId": 241162
   },
@@ -1315,7 +1278,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 22500,
+    "price": 22250,
     "resourceId": 50584944,
     "assetId": 253296
   },
@@ -1421,7 +1384,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11000,
     "resourceId": 50592127,
     "assetId": 260479
   },
@@ -1509,7 +1472,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 33000,
+    "price": 25000,
     "resourceId": 50598272,
     "assetId": 266624
   },
@@ -1614,7 +1577,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 12250,
     "resourceId": 50606181,
     "assetId": 274533
   },
@@ -1717,6 +1680,62 @@
     "resourceId": 67298196,
     "assetId": 189332
   },
+  "67308968": {
+    "name": "Heung Min Son",
+    "cardName": "Son",
+    "originalVersionId": "68",
+    "clubId": 112996,
+    "leagueId": 39,
+    "countryId": 167,
+    "versionId": "68",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      12,
+      13,
+      20,
+      22,
+      25
+    ],
+    "playStylesPlus": [
+      6,
+      7
+    ],
+    "rolesPlus": [
+      28,
+      29,
+      40,
+      42,
+      43,
+      127,
+      130,
+      138,
+      139,
+      141
+    ],
+    "attributes": [
+      91,
+      92,
+      90,
+      90,
+      50,
+      82
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67308968,
+    "assetId": 200104
+  },
   "67321586": {
     "name": "DeAndre Yedlin",
     "cardName": "Yedlin",
@@ -1765,7 +1784,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 41750,
+    "price": 37500,
     "resourceId": 67321586,
     "assetId": 212722
   },
@@ -1928,7 +1947,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 19500,
     "resourceId": 67379381,
     "assetId": 270517
   },
@@ -1982,7 +2001,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 210000,
+    "price": 194000,
     "resourceId": 84075676,
     "assetId": 189596
   },
@@ -2038,7 +2057,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 2884000,
+    "price": 2880000,
     "resourceId": 117598535,
     "assetId": 158023
   },

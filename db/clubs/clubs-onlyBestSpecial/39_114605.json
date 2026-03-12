@@ -3,11 +3,11 @@
     "clubId": 114605,
     "leagueId": 39,
     "countryId": 95,
-    "versionId": "72",
-    "rating": 86,
+    "versionId": "148",
+    "rating": 92,
     "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
+    "weakFoot": 5,
+    "skillMoves": 5,
     "preferredPosition": "CAM",
     "possiblePositions": [
       "CAM",
@@ -15,29 +15,40 @@
       "ST"
     ],
     "playStyles": [
+      0,
       1,
-      21,
-      7
+      11,
+      12,
+      22,
+      7,
+      8
     ],
     "playStylesPlus": [
-      22
+      21,
+      6
     ],
     "rolesPlus": [
       25,
-      43,
-      132
+      26,
+      34,
+      42,
+      123,
+      131,
+      132,
+      141,
+      143
     ],
     "attributes": [
-      89,
-      86,
-      81,
-      85,
-      46,
-      70
+      92,
+      91,
+      87,
+      90,
+      52,
+      80
     ],
-    "hasDynamicImage": false,
-    "price": 11500,
-    "resourceId": 7743,
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50339391,
     "assetId": 7743,
     "name": "Landon Donovan",
     "cardName": "Donovan"
@@ -88,7 +99,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 27750,
+    "price": 27250,
     "resourceId": 50371034,
     "assetId": 39386,
     "name": "DaMarcus Beasley",
@@ -128,7 +139,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 11750,
+    "price": 13000,
     "resourceId": 155897,
     "assetId": 155897,
     "name": "Clint Dempsey",
@@ -171,7 +182,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 12750,
     "resourceId": 50523342,
     "assetId": 191694,
     "name": "Jorge Campos",

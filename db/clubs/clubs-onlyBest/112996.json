@@ -368,7 +368,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 350,
       "resourceId": 229217,
       "assetId": 229217
     },
@@ -593,7 +593,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 246860,
       "assetId": 246860
     },
@@ -627,7 +627,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 2700,
       "resourceId": 247428,
       "assetId": 247428
     },
@@ -667,7 +667,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 350,
       "resourceId": 247582,
       "assetId": 247582
     },
@@ -816,7 +816,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 5100,
       "resourceId": 260616,
       "assetId": 260616
     },
@@ -976,54 +976,6 @@
       "resourceId": 50499596,
       "assetId": 167948
     },
-    "50531752": {
-      "name": "Heung Min Son",
-      "cardName": "Son",
-      "originalVersionId": "22",
-      "clubId": 112996,
-      "leagueId": 39,
-      "countryId": 167,
-      "versionId": "22",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        12,
-        22,
-        6,
-        7
-      ],
-      "playStylesPlus": [
-        0
-      ],
-      "rolesPlus": [
-        29,
-        40,
-        41,
-        127,
-        138,
-        143
-      ],
-      "attributes": [
-        87,
-        88,
-        85,
-        86,
-        45,
-        76
-      ],
-      "hasDynamicImage": true,
-      "price": 265000,
-      "resourceId": 50531752,
-      "assetId": 200104
-    },
     "50543320": {
       "name": "Tyler Boyd",
       "cardName": "Boyd",
@@ -1105,7 +1057,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 27250,
+      "price": 27750,
       "resourceId": 50557599,
       "assetId": 225951
     },
@@ -1187,9 +1139,65 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 1800,
       "resourceId": 50595768,
       "assetId": 264120
+    },
+    "67308968": {
+      "name": "Heung Min Son",
+      "cardName": "Son",
+      "originalVersionId": "68",
+      "clubId": 112996,
+      "leagueId": 39,
+      "countryId": 167,
+      "versionId": "68",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        12,
+        13,
+        20,
+        22,
+        25
+      ],
+      "playStylesPlus": [
+        6,
+        7
+      ],
+      "rolesPlus": [
+        28,
+        29,
+        40,
+        42,
+        43,
+        127,
+        130,
+        138,
+        139,
+        141
+      ],
+      "attributes": [
+        91,
+        92,
+        90,
+        90,
+        50,
+        82
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 67308968,
+      "assetId": 200104
     }
   }
 }

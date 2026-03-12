@@ -38,7 +38,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 140000,
+    "price": 137000,
     "resourceId": 4231,
     "assetId": 4231,
     "originalVersionId": 12
@@ -92,10 +92,108 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 165000,
+    "price": 150000,
     "resourceId": 50335879,
     "assetId": 4231,
     "originalVersionId": 157
+  },
+  "67113095": {
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 54,
+    "versionId": "69",
+    "rating": 74,
+    "preferredFoot": "Left",
+    "weakFoot": 2,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      13,
+      20,
+      22,
+      3
+    ],
+    "playStylesPlus": [
+      2
+    ],
+    "rolesPlus": [
+      44,
+      132,
+      143
+    ],
+    "attributes": [
+      80,
+      84,
+      75,
+      82,
+      30,
+      65
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67113095,
+    "assetId": 4231,
+    "originalVersionId": 69
+  },
+  "83890311": {
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 54,
+    "versionId": "149",
+    "rating": 93,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      13,
+      20,
+      22,
+      25,
+      3,
+      5,
+      6
+    ],
+    "playStylesPlus": [
+      0,
+      21,
+      23
+    ],
+    "rolesPlus": [
+      29,
+      31,
+      34,
+      40,
+      127,
+      130,
+      132,
+      138,
+      139
+    ],
+    "attributes": [
+      90,
+      91,
+      91,
+      93,
+      47,
+      80
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 83890311,
+    "assetId": 4231,
+    "originalVersionId": 149
   },
   "cardName": "Rivaldo",
   "name": "Rivaldo"

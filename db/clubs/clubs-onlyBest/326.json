@@ -429,7 +429,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 1300,
       "resourceId": 234341,
       "assetId": 234341
     },
@@ -470,7 +470,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 235410,
       "assetId": 235410
     },
@@ -553,7 +553,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 7400,
       "resourceId": 235973,
       "assetId": 235973
     },
@@ -592,7 +592,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 550,
       "resourceId": 238621,
       "assetId": 238621
     },
@@ -892,7 +892,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 200,
       "resourceId": 260638,
       "assetId": 260638
     },
@@ -1010,7 +1010,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 50521761,
       "assetId": 190113
     },
@@ -1059,7 +1059,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 17750,
+      "price": 16000,
       "resourceId": 50524639,
       "assetId": 192991
     },
@@ -1153,7 +1153,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 37000,
+      "price": 42250,
       "resourceId": 50544171,
       "assetId": 212523
     },
@@ -1280,7 +1280,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 20000,
       "resourceId": 50589816,
       "assetId": 258168
     },
@@ -1366,7 +1366,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 38250,
+      "price": 37000,
       "resourceId": 50592114,
       "assetId": 260466
     },
@@ -1414,53 +1414,9 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 56500,
+      "price": 62500,
       "resourceId": 50594616,
       "assetId": 262968
-    },
-    "67319121": {
-      "name": "Ederson",
-      "cardName": "Ederson",
-      "originalVersionId": "96",
-      "clubId": 326,
-      "leagueId": 68,
-      "countryId": 54,
-      "versionId": "96",
-      "rating": 87,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 5,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        10,
-        31,
-        32,
-        34,
-        35
-      ],
-      "playStylesPlus": [
-        9
-      ],
-      "rolesPlus": [
-        2,
-        101,
-        145
-      ],
-      "attributes": [
-        85,
-        85,
-        93,
-        85,
-        70,
-        85
-      ],
-      "hasDynamicImage": true,
-      "price": 55000,
-      "resourceId": 67319121,
-      "assetId": 210257
     },
     "67329698": {
       "name": "Marco Asensio",
@@ -1519,7 +1475,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 20750,
+      "price": 21500,
       "resourceId": 67329698,
       "assetId": 220834
     },
@@ -1572,9 +1528,54 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 75000,
+      "price": 74000,
       "resourceId": 67345360,
       "assetId": 236496
+    },
+    "84096337": {
+      "name": "Ederson",
+      "cardName": "Ederson",
+      "originalVersionId": "68",
+      "clubId": 326,
+      "leagueId": 68,
+      "countryId": 54,
+      "versionId": "68",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        32,
+        33,
+        34,
+        35,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        31
+      ],
+      "rolesPlus": [
+        2,
+        101,
+        145
+      ],
+      "attributes": [
+        91,
+        88,
+        95,
+        91,
+        80,
+        91
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 84096337,
+      "assetId": 210257
     }
   }
 }

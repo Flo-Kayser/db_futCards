@@ -1,6 +1,54 @@
 {
   "clubName": "Aston Villa",
   "players": {
+    "50570070": {
+      "name": "Gabi Nunes",
+      "cardName": "Gabi Nunes",
+      "originalVersionId": "68",
+      "clubId": 116015,
+      "leagueId": 2216,
+      "countryId": 54,
+      "versionId": "68",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        21,
+        22,
+        25,
+        5,
+        7
+      ],
+      "playStylesPlus": [
+        2,
+        6
+      ],
+      "rolesPlus": [
+        44,
+        141,
+        142,
+        143
+      ],
+      "attributes": [
+        94,
+        90,
+        85,
+        90,
+        50,
+        91
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50570070,
+      "assetId": 238422
+    },
     "50579444": {
       "name": "Ellie Roebuck",
       "cardName": "Roebuck",
@@ -38,7 +86,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 15750,
+      "price": 15000,
       "resourceId": 50579444,
       "assetId": 247796
     },
