@@ -176,7 +176,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 4200,
+      "price": 200,
       "resourceId": 195427,
       "assetId": 195427
     },
@@ -556,7 +556,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 2200,
       "resourceId": 240604,
       "assetId": 240604
     },
@@ -631,46 +631,9 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 245070,
       "assetId": 245070
-    },
-    "245539": {
-      "name": "Ben Waine",
-      "cardName": "Waine",
-      "originalVersionId": "0",
-      "clubId": 1928,
-      "leagueId": 60,
-      "countryId": 198,
-      "versionId": "2000",
-      "rating": 62,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41,
-        42
-      ],
-      "attributes": [
-        77,
-        61,
-        54,
-        60,
-        44,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 245539,
-      "assetId": 245539
     },
     "247764": {
       "name": "Kyle John",
@@ -931,7 +894,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1600,
       "resourceId": 275006,
       "assetId": 275006
     },
@@ -1003,7 +966,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 277413,
       "assetId": 277413
     },
@@ -1039,7 +1002,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 1400,
       "resourceId": 279092,
       "assetId": 279092
     },
@@ -1113,6 +1076,51 @@
       "price": 350,
       "resourceId": 50537782,
       "assetId": 206134
+    },
+    "50577187": {
+      "name": "Ben Waine",
+      "cardName": "Waine",
+      "originalVersionId": "3",
+      "clubId": 1928,
+      "leagueId": 60,
+      "countryId": 198,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        19,
+        21,
+        24,
+        4
+      ],
+      "playStylesPlus": [
+        29
+      ],
+      "rolesPlus": [
+        43,
+        141,
+        142,
+        144
+      ],
+      "attributes": [
+        91,
+        85,
+        80,
+        84,
+        67,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 12000,
+      "resourceId": 50577187,
+      "assetId": 245539
     },
     "50597803": {
       "name": "George Hall",

@@ -1,6 +1,63 @@
 {
   "clubName": "SV Waldhof",
   "players": {
+    "50543896": {
+      "name": "Felix Lohkemper",
+      "cardName": "Lohkemper",
+      "originalVersionId": "3",
+      "clubId": 110532,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        22,
+        24,
+        4,
+        6
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        23,
+        24,
+        27,
+        29,
+        39,
+        40,
+        41,
+        44,
+        126,
+        130,
+        138,
+        142,
+        143
+      ],
+      "attributes": [
+        90,
+        83,
+        77,
+        85,
+        52,
+        75
+      ],
+      "hasDynamicImage": true,
+      "price": 12000,
+      "resourceId": 50543896,
+      "assetId": 212248
+    },
     "50566549": {
       "name": "Nicklas Shipnoski",
       "cardName": "Shipnoski",
@@ -41,7 +98,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 24500,
       "resourceId": 50566549,
       "assetId": 234901
     }

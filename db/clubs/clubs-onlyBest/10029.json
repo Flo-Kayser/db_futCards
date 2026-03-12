@@ -141,7 +141,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 2400,
       "resourceId": 74871,
       "assetId": 74871
     },
@@ -175,7 +175,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 2300,
       "resourceId": 76133,
       "assetId": 76133
     },
@@ -210,7 +210,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 3000,
       "resourceId": 76922,
       "assetId": 76922
     },
@@ -247,7 +247,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 800,
       "resourceId": 193698,
       "assetId": 193698
     },
@@ -566,7 +566,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 10000,
       "resourceId": 237321,
       "assetId": 237321
     },
@@ -798,49 +798,6 @@
       "resourceId": 257638,
       "assetId": 257638
     },
-    "263041": {
-      "name": "Alexander Prass",
-      "cardName": "Prass",
-      "originalVersionId": "1",
-      "clubId": 10029,
-      "leagueId": 19,
-      "countryId": 4,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "CM",
-        "LB",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        2,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        8,
-        22,
-        29,
-        47
-      ],
-      "attributes": [
-        74,
-        65,
-        74,
-        75,
-        69,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 263041,
-      "assetId": 263041
-    },
     "269084": {
       "name": "Umut Tohumcu",
       "cardName": "Tohumcu",
@@ -874,7 +831,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1000,
       "resourceId": 269084,
       "assetId": 269084
     },
@@ -1285,7 +1242,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 900,
       "resourceId": 50410084,
       "assetId": 78436
     },
@@ -1327,7 +1284,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 27000,
+      "price": 30750,
       "resourceId": 50575698,
       "assetId": 244050
     },
@@ -1376,7 +1333,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 12250,
+      "price": 12500,
       "resourceId": 50576118,
       "assetId": 244470
     },
@@ -1421,6 +1378,63 @@
       "price": 8900,
       "resourceId": 50590722,
       "assetId": 259074
+    },
+    "50594689": {
+      "name": "Alexander Prass",
+      "cardName": "Prass",
+      "originalVersionId": "3",
+      "clubId": 10029,
+      "leagueId": 19,
+      "countryId": 4,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LB",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        10,
+        14,
+        2,
+        24,
+        8
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        8,
+        25,
+        26,
+        36,
+        37,
+        38,
+        39,
+        47,
+        107,
+        123,
+        124,
+        135,
+        140
+      ],
+      "attributes": [
+        87,
+        78,
+        85,
+        86,
+        80,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 12000,
+      "resourceId": 50594689,
+      "assetId": 263041
     },
     "50608617": {
       "name": "Leon Avdullahu",
@@ -1556,7 +1570,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 67325218,
       "assetId": 216354
     },
@@ -1598,7 +1612,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 6500,
       "resourceId": 67367938,
       "assetId": 259074
     },
@@ -1648,7 +1662,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 19250,
+      "price": 17750,
       "resourceId": 67374441,
       "assetId": 265577
     }

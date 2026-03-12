@@ -34,47 +34,9 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 200,
       "resourceId": 70725,
       "assetId": 70725
-    },
-    "73355": {
-      "name": "Başar Önal",
-      "cardName": "Önal",
-      "originalVersionId": "0",
-      "clubId": 1910,
-      "leagueId": 10,
-      "countryId": 48,
-      "versionId": "2001",
-      "rating": 67,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        27,
-        29
-      ],
-      "attributes": [
-        81,
-        63,
-        59,
-        69,
-        30,
-        63
-      ],
-      "hasDynamicImage": false,
-      "price": 250,
-      "resourceId": 73355,
-      "assetId": 73355
     },
     "73356": {
       "name": "Luc Nieuwenhuijs",
@@ -108,7 +70,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 3900,
       "resourceId": 73356,
       "assetId": 73356
     },
@@ -147,7 +109,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 5100,
       "resourceId": 74409,
       "assetId": 74409
     },
@@ -182,7 +144,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 4100,
+      "price": 0,
       "resourceId": 77561,
       "assetId": 77561
     },
@@ -217,7 +179,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 80556,
       "assetId": 80556
     },
@@ -251,7 +213,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 200,
       "resourceId": 80557,
       "assetId": 80557
     },
@@ -289,7 +251,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 250,
       "resourceId": 193091,
       "assetId": 193091
     },
@@ -327,7 +289,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 350,
       "resourceId": 199386,
       "assetId": 199386
     },
@@ -403,7 +365,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 205995,
       "assetId": 205995
     },
@@ -520,7 +482,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 232829,
       "assetId": 232829
     },
@@ -559,7 +521,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 234679,
       "assetId": 234679
     },
@@ -602,7 +564,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 10000,
       "resourceId": 237895,
       "assetId": 237895
     },
@@ -643,7 +605,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 5000,
       "resourceId": 245894,
       "assetId": 245894
     },
@@ -679,7 +641,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 8100,
+      "price": 200,
       "resourceId": 253211,
       "assetId": 253211
     },
@@ -713,7 +675,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 350,
       "resourceId": 255579,
       "assetId": 255579
     },
@@ -753,7 +715,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 350,
       "resourceId": 262334,
       "assetId": 262334
     },
@@ -899,9 +861,62 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 277809,
       "assetId": 277809
+    },
+    "50405003": {
+      "name": "Başar Önal",
+      "cardName": "Önal",
+      "originalVersionId": "3",
+      "clubId": 1910,
+      "leagueId": 10,
+      "countryId": 48,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        21,
+        23,
+        24,
+        25
+      ],
+      "playStylesPlus": [
+        20
+      ],
+      "rolesPlus": [
+        25,
+        26,
+        28,
+        30,
+        38,
+        40,
+        123,
+        127,
+        129,
+        139
+      ],
+      "attributes": [
+        93,
+        83,
+        80,
+        87,
+        48,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 12000,
+      "resourceId": 50405003,
+      "assetId": 73355
     },
     "50406527": {
       "name": "Kento Shiogai",
@@ -940,7 +955,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 24750,
+      "price": 27000,
       "resourceId": 50406527,
       "assetId": 74879
     },
@@ -1032,7 +1047,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 12750,
       "resourceId": 50535708,
       "assetId": 204060
     },
@@ -1069,7 +1084,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50571529,
       "assetId": 239881
     },

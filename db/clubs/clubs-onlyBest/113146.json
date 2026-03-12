@@ -149,44 +149,6 @@
       "resourceId": 202208,
       "assetId": 202208
     },
-    "212232": {
-      "name": "Jamie Maclaren",
-      "cardName": "Maclaren",
-      "originalVersionId": "0",
-      "clubId": 113146,
-      "leagueId": 2149,
-      "countryId": 195,
-      "versionId": "2001",
-      "rating": 69,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        24,
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42
-      ],
-      "attributes": [
-        77,
-        69,
-        61,
-        67,
-        38,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 212232,
-      "assetId": 212232
-    },
     "219948": {
       "name": "Jason Cummings",
       "cardName": "Cummings",
@@ -965,6 +927,51 @@
       "price": 200,
       "resourceId": 277479,
       "assetId": 277479
+    },
+    "50543880": {
+      "name": "Jamie Maclaren",
+      "cardName": "Maclaren",
+      "originalVersionId": "3",
+      "clubId": 113146,
+      "leagueId": 2149,
+      "countryId": 195,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        24,
+        26,
+        29
+      ],
+      "playStylesPlus": [
+        4
+      ],
+      "rolesPlus": [
+        43,
+        141,
+        142,
+        144
+      ],
+      "attributes": [
+        90,
+        86,
+        80,
+        85,
+        54,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 12000,
+      "resourceId": 50543880,
+      "assetId": 212232
     }
   }
 }
