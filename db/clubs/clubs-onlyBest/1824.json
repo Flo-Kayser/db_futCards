@@ -33,7 +33,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4300,
       "resourceId": 75248,
       "assetId": 75248
     },
@@ -368,7 +368,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 800,
       "resourceId": 234573,
       "assetId": 234573
     },
@@ -647,7 +647,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 2000,
       "resourceId": 260407,
       "assetId": 260407
     },
@@ -949,7 +949,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 278228,
       "assetId": 278228
     },
@@ -1022,7 +1022,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 950,
       "resourceId": 50408167,
       "assetId": 76519
     },
@@ -1112,7 +1112,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 28250,
+      "price": 28500,
       "resourceId": 50523966,
       "assetId": 192318
     },
@@ -1161,7 +1161,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 17750,
       "resourceId": 50564287,
       "assetId": 232639
     },
@@ -1346,7 +1346,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 13250,
       "resourceId": 50602318,
       "assetId": 270670
     },
@@ -1385,55 +1385,51 @@
       "resourceId": 67185146,
       "assetId": 76282
     },
-    "67378592": {
+    "84155808": {
       "name": "Jean-Mattéo Bahoya",
       "cardName": "Bahoya",
-      "originalVersionId": "151",
+      "originalVersionId": "30",
       "clubId": 1824,
       "leagueId": 19,
       "countryId": 18,
-      "versionId": "151",
-      "rating": 85,
+      "versionId": "30",
+      "rating": 89,
       "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
       "possiblePositions": [
         "CAM",
         "LM",
-        "LW"
+        "LW",
+        "ST"
       ],
-      "playStyles": [
-        1,
-        12,
-        20,
-        23
-      ],
+      "playStyles": [],
       "playStylesPlus": [],
       "rolesPlus": [
+        28,
+        30,
+        31,
+        39,
+        41,
         127,
-        128,
         129,
-        130,
-        131,
-        132,
         133,
-        134,
         138,
-        139,
-        140
+        140,
+        143
       ],
       "attributes": [
-        96,
-        80,
-        81,
-        83,
-        60,
-        70
+        98,
+        84,
+        86,
+        89,
+        63,
+        75
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 29250,
-      "resourceId": 67378592,
+      "price": 55000,
+      "resourceId": 84155808,
       "assetId": 269728
     },
     "84161408": {
@@ -1485,7 +1481,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 66000,
+      "price": 60000,
       "resourceId": 84161408,
       "assetId": 275328
     }

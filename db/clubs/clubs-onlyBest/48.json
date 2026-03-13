@@ -254,7 +254,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 225116,
       "assetId": 225116
     },
@@ -296,7 +296,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 900,
       "resourceId": 239380,
       "assetId": 239380
     },
@@ -673,7 +673,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 2400,
       "resourceId": 278319,
       "assetId": 278319
     },
@@ -762,7 +762,7 @@
         60
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 19250,
       "resourceId": 50548057,
       "assetId": 216409
     },
@@ -1086,7 +1086,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 67301369,
       "assetId": 192505
     },
@@ -1138,7 +1138,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 59500,
+      "price": 54000,
       "resourceId": 67301849,
       "assetId": 192985
     },
@@ -1185,7 +1185,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 74000,
+      "price": 78000,
       "resourceId": 67326734,
       "assetId": 217870
     },
@@ -1280,7 +1280,7 @@
         69
       ],
       "hasDynamicImage": true,
-      "price": 86000,
+      "price": 97500,
       "resourceId": 67345496,
       "assetId": 236632
     },
@@ -1326,7 +1326,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 29500,
+      "price": 33250,
       "resourceId": 67368263,
       "assetId": 259399
     },
@@ -1383,7 +1383,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 13000,
       "resourceId": 83965350,
       "assetId": 79270
     },
@@ -1435,59 +1435,56 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 49750,
+      "price": 53000,
       "resourceId": 84079065,
       "assetId": 192985
     },
-    "84123318": {
+    "100900534": {
       "name": "Scott McTominay",
       "cardName": "McTominay",
-      "originalVersionId": "64",
+      "originalVersionId": "30",
       "clubId": 48,
       "leagueId": 31,
       "countryId": 42,
-      "versionId": "64",
-      "rating": 90,
+      "versionId": "30",
+      "rating": 91,
       "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
+      "weakFoot": 5,
+      "skillMoves": 5,
       "preferredPosition": "CM",
       "possiblePositions": [
         "CAM",
-        "CM"
+        "CDM",
+        "CM",
+        "LM",
+        "LW"
       ],
-      "playStyles": [
-        19,
-        20,
-        29,
-        4,
-        8,
-        9
-      ],
-      "playStylesPlus": [
-        6
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
-        19,
-        20,
-        34,
+        21,
+        30,
+        31,
+        39,
+        49,
+        116,
         118,
-        121,
-        131,
-        132
+        120,
+        127,
+        132,
+        138
       ],
       "attributes": [
-        83,
-        89,
         85,
-        86,
-        85,
-        90
+        91,
+        87,
+        88,
+        87,
+        91
       ],
-      "isObjective": true,
       "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 84123318,
+      "price": 200000,
+      "resourceId": 100900534,
       "assetId": 237238
     },
     "100922695": {
@@ -1531,7 +1528,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 18500,
+      "price": 24250,
       "resourceId": 100922695,
       "assetId": 259399
     }

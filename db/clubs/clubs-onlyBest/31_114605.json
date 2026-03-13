@@ -39,7 +39,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 19500,
+    "price": 18750,
     "resourceId": 50332673,
     "assetId": 1025,
     "name": "Rui Costa",
@@ -86,7 +86,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 226000,
+    "price": 218000,
     "resourceId": 67125483,
     "assetId": 16619,
     "name": "Iván Córdoba",
@@ -96,11 +96,11 @@
     "clubId": 114605,
     "leagueId": 31,
     "countryId": 27,
-    "versionId": "80",
-    "rating": 90,
+    "versionId": "148",
+    "rating": 91,
     "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
+    "weakFoot": 5,
+    "skillMoves": 5,
     "preferredPosition": "CDM",
     "possiblePositions": [
       "CDM",
@@ -109,35 +109,37 @@
     "playStyles": [
       15,
       16,
-      17,
       18,
       19,
-      4
+      26,
+      4,
+      9
     ],
     "playStylesPlus": [
-      26,
-      9
+      17,
+      8
     ],
     "rolesPlus": [
       15,
       16,
       20,
+      21,
       114,
       118,
-      119
+      119,
+      149
     ],
     "attributes": [
-      82,
       85,
-      84,
-      83,
-      91,
-      90
+      86,
+      86,
+      85,
+      92,
+      91
     ],
-    "isObjective": true,
     "hasDynamicImage": true,
-    "price": 0,
-    "resourceId": 67162166,
+    "price": 790000,
+    "resourceId": 83939382,
     "assetId": 53302,
     "name": "Daniele De Rossi",
     "cardName": "De Rossi"
@@ -187,7 +189,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 1521000,
+    "price": 1599000,
     "resourceId": 67229138,
     "assetId": 120274,
     "name": "Antonio Di Natale",
@@ -240,7 +242,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 303000,
+    "price": 312000,
     "resourceId": 67244319,
     "assetId": 135455,
     "name": "Maicon",
@@ -287,11 +289,64 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 65500,
+    "price": 61500,
     "resourceId": 50468834,
     "assetId": 137186,
     "name": "Andrea Barzagli",
     "cardName": "Barzagli"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 31,
+    "countryId": 52,
+    "versionId": "148",
+    "rating": 89,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      14,
+      17,
+      22,
+      26,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      11,
+      16
+    ],
+    "rolesPlus": [
+      15,
+      16,
+      20,
+      21,
+      114,
+      118,
+      119,
+      149
+    ],
+    "attributes": [
+      85,
+      84,
+      88,
+      88,
+      89,
+      86
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 224500,
+    "price": 222400,
+    "resourceId": 50469771,
+    "assetId": 138123,
+    "name": "Esteban Cambiasso",
+    "cardName": "Cambiasso"
   },
   {
     "clubId": 114605,
@@ -378,7 +433,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 93500,
+    "price": 88000,
     "resourceId": 50502381,
     "assetId": 170733,
     "name": "Gervinho",
@@ -388,47 +443,51 @@
     "clubId": 114605,
     "leagueId": 31,
     "countryId": 43,
-    "versionId": "168",
-    "rating": 88,
+    "versionId": "148",
+    "rating": 89,
     "preferredFoot": "Right",
     "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
     "possiblePositions": [
       "CAM",
       "CM"
     ],
     "playStyles": [
       10,
-      2,
+      11,
+      16,
+      23,
       24,
-      26
+      26,
+      9
     ],
     "playStylesPlus": [
+      2,
       8
     ],
     "rolesPlus": [
+      19,
+      20,
+      32,
       118,
-      119,
-      120,
       121,
       122,
       131,
-      132,
       133,
       134
     ],
     "attributes": [
-      84,
-      88,
-      88,
       87,
-      80,
-      84
+      90,
+      90,
+      90,
+      83,
+      85
     ],
     "hasDynamicImage": true,
-    "price": 79000,
-    "resourceId": 50503525,
+    "price": 150000,
+    "resourceId": 67280741,
     "assetId": 171877,
     "name": "Marek Hamšík",
     "cardName": "Hamšík"
@@ -528,7 +587,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 148750,
+    "sbcPrice": 145850,
     "price": 121250,
     "resourceId": 50513431,
     "assetId": 181783,
@@ -683,7 +742,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 12750,
     "resourceId": 50547380,
     "assetId": 215732,
     "name": "Oliver Bierhoff",
@@ -779,7 +838,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 13750,
     "resourceId": 67351489,
     "assetId": 242625,
     "name": "Hidetoshi Nakata",
@@ -820,7 +879,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 13000,
     "resourceId": 262271,
     "assetId": 262271,
     "name": "Diego Milito",
@@ -904,7 +963,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 12500,
+    "price": 12750,
     "resourceId": 266695,
     "assetId": 266695,
     "name": "Tomas Brolin",
@@ -959,7 +1018,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 1499000,
+    "price": 1700000,
     "resourceId": 67383614,
     "assetId": 274750,
     "name": "Wesley Sneijder",

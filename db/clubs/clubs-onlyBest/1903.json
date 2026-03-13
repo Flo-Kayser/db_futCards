@@ -31,7 +31,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 4300,
       "resourceId": 70460,
       "assetId": 70460
     },
@@ -105,7 +105,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 4100,
+      "price": 200,
       "resourceId": 79113,
       "assetId": 79113
     },
@@ -142,7 +142,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 193440,
       "assetId": 193440
     },
@@ -215,7 +215,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 400,
       "resourceId": 215546,
       "assetId": 215546
     },
@@ -294,7 +294,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1100,
       "resourceId": 239272,
       "assetId": 239272
     },
@@ -375,7 +375,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 239379,
       "assetId": 239379
     },
@@ -411,7 +411,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 4500,
       "resourceId": 245270,
       "assetId": 245270
     },
@@ -446,7 +446,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 10000,
       "resourceId": 247330,
       "assetId": 247330
     },
@@ -557,7 +557,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 5400,
       "resourceId": 260264,
       "assetId": 260264
     },
@@ -710,7 +710,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 265788,
       "assetId": 265788
     },
@@ -817,7 +817,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 600,
       "resourceId": 269246,
       "assetId": 269246
     },
@@ -854,7 +854,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 1000,
       "resourceId": 269248,
       "assetId": 269248
     },
@@ -1084,47 +1084,6 @@
       "resourceId": 50537341,
       "assetId": 205693
     },
-    "50588538": {
-      "name": "Can Bozdoğan",
-      "cardName": "Bozdoğan",
-      "originalVersionId": "87",
-      "clubId": 1903,
-      "leagueId": 10,
-      "countryId": 21,
-      "versionId": "87",
-      "rating": 83,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        16,
-        22,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        14,
-        15,
-        119
-      ],
-      "attributes": [
-        76,
-        78,
-        82,
-        84,
-        76,
-        78
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 2100,
-      "resourceId": 50588538,
-      "assetId": 256890
-    },
     "50590378": {
       "name": "Miguel Rodríguez",
       "cardName": "Miguel Rodríguez",
@@ -1273,7 +1232,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 67183613,
       "assetId": 74749
     },
@@ -1316,6 +1275,48 @@
       "price": 350,
       "resourceId": 67340700,
       "assetId": 231836
+    },
+    "67365754": {
+      "name": "Can Bozdoğan",
+      "cardName": "Bozdoğan",
+      "originalVersionId": "30",
+      "clubId": 1903,
+      "leagueId": 10,
+      "countryId": 21,
+      "versionId": "30",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        17,
+        18,
+        20,
+        114,
+        115,
+        119,
+        122
+      ],
+      "attributes": [
+        84,
+        82,
+        86,
+        87,
+        80,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 12000,
+      "resourceId": 67365754,
+      "assetId": 256890
     }
   }
 }

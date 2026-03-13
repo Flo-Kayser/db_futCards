@@ -1,6 +1,52 @@
 {
   "clubName": "Toulouse FC",
   "players": {
+    "50569584": {
+      "name": "Aron Dønnum",
+      "cardName": "Dønnum",
+      "originalVersionId": "30",
+      "clubId": 1809,
+      "leagueId": 16,
+      "countryId": 36,
+      "versionId": "30",
+      "rating": 87,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        33,
+        35,
+        124,
+        125,
+        128,
+        129,
+        131,
+        137
+      ],
+      "attributes": [
+        92,
+        80,
+        82,
+        87,
+        65,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50569584,
+      "assetId": 237936
+    },
     "50584585": {
       "name": "Yann Gboho",
       "cardName": "Gboho",
@@ -44,7 +90,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 28500,
       "resourceId": 50584585,
       "assetId": 252937
     },
@@ -90,7 +136,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 15250,
       "resourceId": 50585769,
       "assetId": 254121
     },
@@ -179,7 +225,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 23000,
+      "price": 21250,
       "resourceId": 67185667,
       "assetId": 76803
     }

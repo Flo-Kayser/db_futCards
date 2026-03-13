@@ -48,7 +48,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 11000,
       "resourceId": 50596570,
       "assetId": 264922
     },
@@ -105,52 +105,6 @@
       "resourceId": 50596682,
       "assetId": 265034
     },
-    "50597025": {
-      "name": "Vanessa Fudalla",
-      "cardName": "Fudalla",
-      "originalVersionId": "3",
-      "clubId": 115996,
-      "leagueId": 2215,
-      "countryId": 21,
-      "versionId": "3",
-      "rating": 87,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        2,
-        20,
-        21,
-        8
-      ],
-      "playStylesPlus": [
-        3
-      ],
-      "rolesPlus": [
-        33,
-        131,
-        143
-      ],
-      "attributes": [
-        90,
-        88,
-        80,
-        86,
-        60,
-        78
-      ],
-      "hasDynamicImage": true,
-      "price": 19500,
-      "resourceId": 50597025,
-      "assetId": 265377
-    },
     "50608155": {
       "name": "Loreen Bender",
       "cardName": "Bender",
@@ -200,6 +154,50 @@
       "price": 10750,
       "resourceId": 50608155,
       "assetId": 276507
+    },
+    "67374241": {
+      "name": "Vanessa Fudalla",
+      "cardName": "Fudalla",
+      "originalVersionId": "30",
+      "clubId": 115996,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "30",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        19,
+        22,
+        33,
+        41,
+        118,
+        121,
+        131,
+        132,
+        143
+      ],
+      "attributes": [
+        91,
+        89,
+        84,
+        88,
+        61,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 11750,
+      "resourceId": 67374241,
+      "assetId": 265377
     }
   }
 }

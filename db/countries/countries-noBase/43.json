@@ -39,7 +39,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 42500,
+    "price": 43500,
     "resourceId": 171877,
     "assetId": 171877
   },
@@ -89,7 +89,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 79000,
+    "price": 72000,
     "resourceId": 50503525,
     "assetId": 171877
   },
@@ -133,7 +133,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 19000,
     "resourceId": 50552055,
     "assetId": 220407
   },
@@ -188,7 +188,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 19750,
+    "price": 18500,
     "resourceId": 50559210,
     "assetId": 227562
   },
@@ -237,6 +237,60 @@
     "resourceId": 50578751,
     "assetId": 247103
   },
+  "67280741": {
+    "name": "Marek Hamšík",
+    "cardName": "Hamšík",
+    "originalVersionId": "148",
+    "clubId": 114605,
+    "leagueId": 31,
+    "countryId": 43,
+    "versionId": "148",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      11,
+      16,
+      23,
+      24,
+      26,
+      9
+    ],
+    "playStylesPlus": [
+      2,
+      8
+    ],
+    "rolesPlus": [
+      19,
+      20,
+      32,
+      118,
+      121,
+      122,
+      131,
+      133,
+      134
+    ],
+    "attributes": [
+      87,
+      90,
+      90,
+      90,
+      83,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 150000,
+    "resourceId": 67280741,
+    "assetId": 171877
+  },
   "67355967": {
     "name": "Dávid Hancko",
     "cardName": "Hancko",
@@ -277,8 +331,51 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 17500,
     "resourceId": 67355967,
+    "assetId": 247103
+  },
+  "84133183": {
+    "name": "Dávid Hancko",
+    "cardName": "Hancko",
+    "originalVersionId": "30",
+    "clubId": 240,
+    "leagueId": 53,
+    "countryId": 43,
+    "versionId": "30",
+    "rating": 89,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "LB",
+      "LM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      8,
+      9,
+      12,
+      28,
+      107,
+      111,
+      113,
+      129
+    ],
+    "attributes": [
+      87,
+      72,
+      81,
+      85,
+      90,
+      89
+    ],
+    "hasDynamicImage": true,
+    "price": 25000,
+    "resourceId": 84133183,
     "assetId": 247103
   }
 }

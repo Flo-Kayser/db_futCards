@@ -586,57 +586,6 @@
       "resourceId": 276772,
       "assetId": 276772
     },
-    "50405325": {
-      "name": "Nadia Krezyman",
-      "cardName": "Krezyman",
-      "originalVersionId": "3",
-      "clubId": 116039,
-      "leagueId": 2218,
-      "countryId": 37,
-      "versionId": "3",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        11,
-        2,
-        21,
-        22,
-        7
-      ],
-      "playStylesPlus": [
-        25
-      ],
-      "rolesPlus": [
-        24,
-        30,
-        37,
-        38,
-        123,
-        127,
-        136
-      ],
-      "attributes": [
-        92,
-        75,
-        84,
-        81,
-        52,
-        73
-      ],
-      "hasDynamicImage": true,
-      "price": 15000,
-      "resourceId": 50405325,
-      "assetId": 73677
-    },
     "50407038": {
       "name": "Emmi Siren",
       "cardName": "Siren",
@@ -673,6 +622,49 @@
       "hasDynamicImage": false,
       "resourceId": 50407038,
       "assetId": 75390
+    },
+    "67182541": {
+      "name": "Nadia Krezyman",
+      "cardName": "Krezyman",
+      "originalVersionId": "30",
+      "clubId": 116039,
+      "leagueId": 2218,
+      "countryId": 37,
+      "versionId": "30",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        30,
+        36,
+        123,
+        124,
+        127,
+        128,
+        135
+      ],
+      "attributes": [
+        96,
+        81,
+        90,
+        87,
+        56,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 14500,
+      "resourceId": 67182541,
+      "assetId": 73677
     }
   }
 }

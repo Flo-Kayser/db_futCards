@@ -1,54 +1,6 @@
 {
   "clubName": "Athletic Club",
   "players": {
-    "50603590": {
-      "name": "Ane Azkona",
-      "cardName": "Ane Azkona",
-      "originalVersionId": "3",
-      "clubId": 116328,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        1,
-        20,
-        24,
-        4,
-        6
-      ],
-      "playStylesPlus": [
-        25
-      ],
-      "rolesPlus": [
-        23,
-        26,
-        36,
-        41,
-        142
-      ],
-      "attributes": [
-        90,
-        84,
-        82,
-        87,
-        64,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 15500,
-      "resourceId": 50603590,
-      "assetId": 271942
-    },
     "50603771": {
       "name": "Nerea Nevado",
       "cardName": "Nerea Nevado",
@@ -97,9 +49,53 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 11500,
       "resourceId": 50603771,
       "assetId": 272123
+    },
+    "67380806": {
+      "name": "Ane Azkona",
+      "cardName": "Ane Azkona",
+      "originalVersionId": "30",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "30",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        24,
+        25,
+        37,
+        41,
+        123,
+        126,
+        135,
+        136,
+        142
+      ],
+      "attributes": [
+        92,
+        86,
+        85,
+        89,
+        66,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 11500,
+      "resourceId": 67380806,
+      "assetId": 271942
     }
   }
 }

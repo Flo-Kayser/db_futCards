@@ -301,41 +301,6 @@
       "resourceId": 269208,
       "assetId": 269208
     },
-    "269811": {
-      "name": "Anaële Le Moguédec",
-      "cardName": "Le Moguédec",
-      "originalVersionId": "0",
-      "clubId": 116035,
-      "leagueId": 2218,
-      "countryId": 18,
-      "versionId": "2001",
-      "rating": 72,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CM",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18
-      ],
-      "attributes": [
-        66,
-        63,
-        68,
-        71,
-        63,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 269811,
-      "assetId": 269811
-    },
     "269943": {
       "name": "Inès Marques",
       "cardName": "Marques",
@@ -670,9 +635,52 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 12250,
+      "price": 11250,
       "resourceId": 50597509,
       "assetId": 265861
+    },
+    "50601459": {
+      "name": "Anaële Le Moguédec",
+      "cardName": "Le Moguédec",
+      "originalVersionId": "30",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "30",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        19,
+        20,
+        34,
+        44,
+        118,
+        121,
+        131,
+        143
+      ],
+      "attributes": [
+        85,
+        80,
+        87,
+        88,
+        80,
+        84
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 50601459,
+      "assetId": 269811
     },
     "50601620": {
       "name": "Lou Bogaert",
@@ -841,7 +849,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 6900,
+      "price": 350,
       "resourceId": 50608819,
       "assetId": 277171
     },

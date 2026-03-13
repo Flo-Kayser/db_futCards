@@ -39,7 +39,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 79000,
+    "price": 87500,
     "resourceId": 50402138,
     "assetId": 70490
   },
@@ -179,7 +179,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 23500,
+    "price": 22500,
     "resourceId": 50407974,
     "assetId": 76326
   },
@@ -259,7 +259,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 12000,
     "resourceId": 50409317,
     "assetId": 77669
   },
@@ -398,7 +398,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 12250,
     "resourceId": 50557983,
     "assetId": 226335
   },
@@ -438,7 +438,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 14000,
     "resourceId": 50558545,
     "assetId": 226897
   },
@@ -637,7 +637,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 33250,
+    "price": 32750,
     "resourceId": 50563721,
     "assetId": 232073
   },
@@ -920,7 +920,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 42750,
+    "price": 38500,
     "resourceId": 50572872,
     "assetId": 241224
   },
@@ -1221,6 +1221,49 @@
     "resourceId": 50597739,
     "assetId": 266091
   },
+  "50598049": {
+    "name": "Jaelin Howell",
+    "cardName": "Howell",
+    "originalVersionId": "30",
+    "clubId": 116310,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "30",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      16,
+      17,
+      20,
+      21,
+      114,
+      115,
+      118,
+      119,
+      149
+    ],
+    "attributes": [
+      86,
+      75,
+      84,
+      84,
+      90,
+      88
+    ],
+    "hasDynamicImage": true,
+    "price": 11250,
+    "resourceId": 50598049,
+    "assetId": 266401
+  },
   "50598849": {
     "name": "Jess Fishlock",
     "cardName": "Fishlock",
@@ -1270,7 +1313,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 22750,
+    "price": 21500,
     "resourceId": 50598849,
     "assetId": 267201
   },
@@ -1333,7 +1376,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 12250,
     "resourceId": 50598871,
     "assetId": 267223
   },
@@ -1420,7 +1463,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 12000,
     "resourceId": 50598886,
     "assetId": 267238
   },
@@ -1467,9 +1510,46 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 16500,
     "resourceId": 50598888,
     "assetId": 267240
+  },
+  "50598909": {
+    "name": "Tara McKeown",
+    "cardName": "McKeown",
+    "originalVersionId": "30",
+    "clubId": 116304,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "30",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      12,
+      111,
+      113,
+      148
+    ],
+    "attributes": [
+      87,
+      80,
+      85,
+      84,
+      90,
+      89
+    ],
+    "hasDynamicImage": true,
+    "price": 11250,
+    "resourceId": 50598909,
+    "assetId": 267261
   },
   "50599023": {
     "name": "Mary Alice Vignola",
@@ -1510,57 +1590,9 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 11750,
     "resourceId": 50599023,
     "assetId": 267375
-  },
-  "50599032": {
-    "name": "Taylor Flint",
-    "cardName": "Flint",
-    "originalVersionId": "45",
-    "clubId": 116308,
-    "leagueId": 2221,
-    "countryId": 95,
-    "versionId": "45",
-    "rating": 85,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 3,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      16,
-      17,
-      19,
-      4,
-      8
-    ],
-    "playStylesPlus": [
-      26
-    ],
-    "rolesPlus": [
-      15,
-      17,
-      19,
-      114,
-      118,
-      149
-    ],
-    "attributes": [
-      80,
-      80,
-      83,
-      84,
-      85,
-      89
-    ],
-    "isObjective": true,
-    "hasDynamicImage": true,
-    "resourceId": 50599032,
-    "assetId": 267384
   },
   "50599910": {
     "name": "Rosemonde Kouassi",
@@ -1694,7 +1726,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 15500,
     "resourceId": 50603865,
     "assetId": 272217
   },
@@ -1748,6 +1780,44 @@
     "resourceId": 50605115,
     "assetId": 273467
   },
+  "50606461": {
+    "name": "Gisele Thompson",
+    "cardName": "Thompson",
+    "originalVersionId": "30",
+    "clubId": 116311,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "30",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      3,
+      4,
+      105,
+      106,
+      146
+    ],
+    "attributes": [
+      94,
+      70,
+      85,
+      91,
+      90,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 20500,
+    "resourceId": 50606461,
+    "assetId": 274813
+  },
   "50608007": {
     "name": "Barbra Banda",
     "cardName": "Banda",
@@ -1790,7 +1860,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 22500,
+    "price": 27250,
     "resourceId": 50608007,
     "assetId": 276359
   },
@@ -1847,6 +1917,51 @@
     "resourceId": 50611447,
     "assetId": 279799
   },
+  "67336187": {
+    "name": "Guro Reiten",
+    "cardName": "Reiten",
+    "originalVersionId": "30",
+    "clubId": 116310,
+    "leagueId": 2221,
+    "countryId": 36,
+    "versionId": "30",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      28,
+      29,
+      32,
+      33,
+      40,
+      127,
+      130,
+      131,
+      138,
+      139
+    ],
+    "attributes": [
+      90,
+      87,
+      88,
+      90,
+      62,
+      75
+    ],
+    "hasDynamicImage": false,
+    "price": 20250,
+    "resourceId": 67336187,
+    "assetId": 227323
+  },
   "67354703": {
     "name": "Hina Sugita",
     "cardName": "Sugita",
@@ -1896,7 +2011,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 37400,
+    "sbcPrice": 36800,
     "resourceId": 67354703,
     "assetId": 245839
   },
@@ -1939,7 +2054,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 19000,
     "resourceId": 67367174,
     "assetId": 258310
   },
@@ -2045,6 +2160,49 @@
     "resourceId": 67375792,
     "assetId": 266928
   },
+  "67376248": {
+    "name": "Taylor Flint",
+    "cardName": "Flint",
+    "originalVersionId": "30",
+    "clubId": 116308,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "30",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      14,
+      15,
+      17,
+      19,
+      116,
+      118,
+      120,
+      121,
+      149
+    ],
+    "attributes": [
+      84,
+      85,
+      88,
+      87,
+      87,
+      91
+    ],
+    "hasDynamicImage": true,
+    "price": 18250,
+    "resourceId": 67376248,
+    "assetId": 267384
+  },
   "67380757": {
     "name": "Bruninha",
     "cardName": "Bruninha",
@@ -2136,7 +2294,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 49000,
+    "price": 48000,
     "resourceId": 84112970,
     "assetId": 226890
   },
@@ -2244,7 +2402,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 105000,
+    "price": 97000,
     "resourceId": 84153008,
     "assetId": 266928
   },
@@ -2298,7 +2456,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 14750,
     "resourceId": 84164006,
     "assetId": 277926
   },

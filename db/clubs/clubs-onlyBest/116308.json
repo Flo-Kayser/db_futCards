@@ -73,7 +73,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 71612,
       "assetId": 71612
     },
@@ -210,7 +210,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 3300,
+      "price": 1400,
       "resourceId": 76619,
       "assetId": 76619
     },
@@ -358,7 +358,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 3400,
       "resourceId": 266094,
       "assetId": 266094
     },
@@ -539,7 +539,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 950,
       "resourceId": 267317,
       "assetId": 267317
     },
@@ -834,7 +834,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1600,
       "resourceId": 273271,
       "assetId": 273271
     },
@@ -904,7 +904,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 700,
       "resourceId": 274808,
       "assetId": 274808
     },
@@ -940,7 +940,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1000,
       "resourceId": 277766,
       "assetId": 277766
     },
@@ -1085,54 +1085,6 @@
       "resourceId": 50598917,
       "assetId": 267269
     },
-    "50599032": {
-      "name": "Taylor Flint",
-      "cardName": "Flint",
-      "originalVersionId": "45",
-      "clubId": 116308,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "45",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        16,
-        17,
-        19,
-        4,
-        8
-      ],
-      "playStylesPlus": [
-        26
-      ],
-      "rolesPlus": [
-        15,
-        17,
-        19,
-        114,
-        118,
-        149
-      ],
-      "attributes": [
-        80,
-        80,
-        83,
-        84,
-        85,
-        89
-      ],
-      "isObjective": true,
-      "hasDynamicImage": true,
-      "resourceId": 50599032,
-      "assetId": 267384
-    },
     "50611556": {
       "name": "Makenna Morris",
       "cardName": "Morris",
@@ -1168,6 +1120,49 @@
       "price": 350,
       "resourceId": 50611556,
       "assetId": 279908
+    },
+    "67376248": {
+      "name": "Taylor Flint",
+      "cardName": "Flint",
+      "originalVersionId": "30",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "30",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        17,
+        19,
+        116,
+        118,
+        120,
+        121,
+        149
+      ],
+      "attributes": [
+        84,
+        85,
+        88,
+        87,
+        87,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 18250,
+      "resourceId": 67376248,
+      "assetId": 267384
     }
   }
 }

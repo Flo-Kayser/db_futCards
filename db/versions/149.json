@@ -1,4 +1,52 @@
 {
+  "50339160": {
+    "name": "Hernán Crespo",
+    "cardName": "Crespo",
+    "originalVersionId": "149",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 52,
+    "versionId": "149",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      23,
+      24,
+      4,
+      5,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      25,
+      6
+    ],
+    "rolesPlus": [
+      43,
+      141,
+      142,
+      144
+    ],
+    "attributes": [
+      88,
+      88,
+      80,
+      87,
+      38,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 50500,
+    "resourceId": 50339160,
+    "assetId": 7512
+  },
   "50380588": {
     "name": "Petr Čech",
     "cardName": "Čech",
@@ -41,7 +89,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 149000,
+    "price": 141000,
     "resourceId": 50380588,
     "assetId": 48940
   },
@@ -99,6 +147,54 @@
     "resourceId": 50552810,
     "assetId": 221162
   },
+  "67118540": {
+    "name": "Samuel Eto'o",
+    "cardName": "Eto'o",
+    "originalVersionId": "149",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 103,
+    "versionId": "149",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      11,
+      2,
+      20,
+      22,
+      23,
+      6
+    ],
+    "playStylesPlus": [
+      0,
+      21
+    ],
+    "rolesPlus": [
+      44,
+      141,
+      142,
+      143
+    ],
+    "attributes": [
+      94,
+      92,
+      82,
+      91,
+      48,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 3057000,
+    "resourceId": 67118540,
+    "assetId": 9676
+  },
   "67158233": {
     "name": "Fernando Torres",
     "cardName": "Fernando Torres",
@@ -143,7 +239,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 585000,
+    "price": 540000,
     "resourceId": 67158233,
     "assetId": 49369
   },
@@ -200,9 +296,110 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 850000,
+    "price": 800000,
     "resourceId": 67291385,
     "assetId": 182521
+  },
+  "67338889": {
+    "name": "Bobby Charlton",
+    "cardName": "Charlton",
+    "originalVersionId": "149",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 14,
+    "versionId": "149",
+    "rating": 93,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      10,
+      13,
+      2,
+      20,
+      22,
+      23,
+      25
+    ],
+    "playStylesPlus": [
+      0,
+      8
+    ],
+    "rolesPlus": [
+      33,
+      42,
+      44,
+      131,
+      132,
+      134,
+      141,
+      143
+    ],
+    "attributes": [
+      91,
+      92,
+      90,
+      92,
+      51,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 4005000,
+    "resourceId": 67338889,
+    "assetId": 230025
+  },
+  "67363506": {
+    "name": "Ferenc Puskás",
+    "cardName": "Puskás",
+    "originalVersionId": "149",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 23,
+    "versionId": "149",
+    "rating": 94,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      2,
+      21,
+      22,
+      23,
+      25,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      6
+    ],
+    "rolesPlus": [
+      43,
+      141,
+      142,
+      144
+    ],
+    "attributes": [
+      92,
+      96,
+      91,
+      93,
+      48,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 8499000,
+    "resourceId": 67363506,
+    "assetId": 254642
   },
   "83886568": {
     "name": "Oliver Kahn",
@@ -305,6 +502,58 @@
     "resourceId": 83890311,
     "assetId": 4231
   },
+  "83957688": {
+    "name": "Julie Foudy",
+    "cardName": "Foudy",
+    "originalVersionId": "149",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 95,
+    "versionId": "149",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      11,
+      16,
+      20,
+      24,
+      26,
+      28
+    ],
+    "playStylesPlus": [
+      8,
+      9
+    ],
+    "rolesPlus": [
+      14,
+      19,
+      49,
+      116,
+      118,
+      120,
+      121
+    ],
+    "attributes": [
+      89,
+      88,
+      92,
+      90,
+      86,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 155000,
+    "resourceId": 83957688,
+    "assetId": 71608
+  },
   "84053760": {
     "name": "Ronald Koeman",
     "cardName": "Koeman",
@@ -353,9 +602,64 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 799000,
+    "price": 379000,
     "resourceId": 84053760,
     "assetId": 167680
+  },
+  "84113082": {
+    "name": "Aya Miyama",
+    "cardName": "Miyama",
+    "originalVersionId": "149",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 163,
+    "versionId": "149",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      11,
+      22,
+      23,
+      3,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      20,
+      21
+    ],
+    "rolesPlus": [
+      20,
+      21,
+      29,
+      40,
+      118,
+      127,
+      130,
+      138,
+      139
+    ],
+    "attributes": [
+      90,
+      90,
+      90,
+      92,
+      62,
+      74
+    ],
+    "hasDynamicImage": true,
+    "price": 99500,
+    "resourceId": 84113082,
+    "assetId": 227002
   },
   "151036180": {
     "name": "Zlatan Ibrahimović",
@@ -402,7 +706,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 7400000,
+    "price": 7250000,
     "resourceId": 151036180,
     "assetId": 41236
   }

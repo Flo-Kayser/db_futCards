@@ -52,7 +52,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 13250,
       "resourceId": 50601687,
       "assetId": 270039
     },
@@ -109,7 +109,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 14250,
       "resourceId": 50606856,
       "assetId": 275208
     },
@@ -161,57 +161,9 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 14000,
       "resourceId": 67338848,
       "assetId": 229984
-    },
-    "67364298": {
-      "name": "Julio César Enciso",
-      "cardName": "Enciso",
-      "originalVersionId": "3",
-      "clubId": 76,
-      "leagueId": 16,
-      "countryId": 58,
-      "versionId": "3",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "RM",
-        "ST"
-      ],
-      "playStyles": [
-        11,
-        12,
-        2,
-        20,
-        24
-      ],
-      "playStylesPlus": [
-        1
-      ],
-      "rolesPlus": [
-        30,
-        33,
-        126,
-        132
-      ],
-      "attributes": [
-        85,
-        85,
-        85,
-        89,
-        45,
-        67
-      ],
-      "hasDynamicImage": true,
-      "price": 12750,
-      "resourceId": 67364298,
-      "assetId": 255434
     },
     "67372234": {
       "name": "Valentín Barco",
@@ -263,6 +215,51 @@
       "price": 16750,
       "resourceId": 67372234,
       "assetId": 263370
+    },
+    "84141514": {
+      "name": "Julio César Enciso",
+      "cardName": "Enciso",
+      "originalVersionId": "30",
+      "clubId": 76,
+      "leagueId": 16,
+      "countryId": 58,
+      "versionId": "30",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        34,
+        42,
+        126,
+        130,
+        132,
+        133,
+        143
+      ],
+      "attributes": [
+        87,
+        87,
+        87,
+        91,
+        50,
+        70
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 84141514,
+      "assetId": 255434
     }
   }
 }
