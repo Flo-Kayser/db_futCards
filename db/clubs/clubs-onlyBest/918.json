@@ -103,7 +103,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 9900,
       "resourceId": 212938,
       "assetId": 212938
     },
@@ -225,43 +225,6 @@
       "resourceId": 222389,
       "assetId": 222389
     },
-    "225077": {
-      "name": "Sondre Fet",
-      "cardName": "Fet",
-      "originalVersionId": "0",
-      "clubId": 918,
-      "leagueId": 41,
-      "countryId": 36,
-      "versionId": "2001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CM"
-      ],
-      "playStyles": [
-        19
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        22
-      ],
-      "attributes": [
-        69,
-        60,
-        67,
-        69,
-        66,
-        72
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 225077,
-      "assetId": 225077
-    },
     "228212": {
       "name": "Andreas Helmersen",
       "cardName": "Helmersen",
@@ -295,47 +258,6 @@
       "price": 200,
       "resourceId": 228212,
       "assetId": 228212
-    },
-    "228238": {
-      "name": "Jostein Gundersen",
-      "cardName": "Gundersen",
-      "originalVersionId": "0",
-      "clubId": 918,
-      "leagueId": 41,
-      "countryId": 36,
-      "versionId": "2001",
-      "rating": 71,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        15,
-        16,
-        17,
-        19,
-        28
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        13,
-        48
-      ],
-      "attributes": [
-        54,
-        45,
-        55,
-        61,
-        70,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 228238,
-      "assetId": 228238
     },
     "230787": {
       "name": "Julian Faye Lund",
@@ -522,7 +444,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 243371,
       "assetId": 243371
     },
@@ -728,46 +650,6 @@
       "resourceId": 261295,
       "assetId": 261295
     },
-    "268375": {
-      "name": "Fredrik Sjøvold",
-      "cardName": "Sjøvold",
-      "originalVersionId": "0",
-      "clubId": 918,
-      "leagueId": 41,
-      "countryId": 36,
-      "versionId": "2001",
-      "rating": 69,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        10
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5,
-        6,
-        37
-      ],
-      "attributes": [
-        80,
-        52,
-        63,
-        68,
-        62,
-        62
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 268375,
-      "assetId": 268375
-    },
     "268740": {
       "name": "Daniel Bassi",
       "cardName": "Bassi",
@@ -871,7 +753,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 5100,
       "resourceId": 273044,
       "assetId": 273044
     },
@@ -944,6 +826,106 @@
       "resourceId": 50404685,
       "assetId": 73037
     },
+    "50556725": {
+      "name": "Sondre Fet",
+      "cardName": "Fet",
+      "originalVersionId": "8",
+      "clubId": 918,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "8",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        10,
+        13,
+        16,
+        19,
+        20,
+        22
+      ],
+      "playStylesPlus": [
+        11,
+        6
+      ],
+      "rolesPlus": [
+        16,
+        20,
+        22,
+        114,
+        118,
+        119,
+        121
+      ],
+      "attributes": [
+        88,
+        85,
+        86,
+        87,
+        85,
+        87
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 51000,
+      "resourceId": 50556725,
+      "assetId": 225077
+    },
+    "50559886": {
+      "name": "Jostein Gundersen",
+      "cardName": "Gundersen",
+      "originalVersionId": "8",
+      "clubId": 918,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "8",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        15,
+        16,
+        19,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        17,
+        4
+      ],
+      "rolesPlus": [
+        12,
+        111,
+        113,
+        148
+      ],
+      "attributes": [
+        83,
+        62,
+        80,
+        77,
+        87,
+        91
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 20000,
+      "resourceId": 50559886,
+      "assetId": 228238
+    },
     "50565496": {
       "name": "Jens Petter Hauge",
       "cardName": "Hauge",
@@ -996,7 +978,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 53000,
+      "price": 80000,
       "resourceId": 50565496,
       "assetId": 233848
     },
@@ -1033,7 +1015,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 7900,
       "resourceId": 50569884,
       "assetId": 238236
     },
@@ -1079,7 +1061,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 88500,
+      "price": 110000,
       "resourceId": 50574851,
       "assetId": 243203
     },
@@ -1124,6 +1106,60 @@
       "price": 200,
       "resourceId": 50578981,
       "assetId": 247333
+    },
+    "50600023": {
+      "name": "Fredrik Sjøvold",
+      "cardName": "Sjøvold",
+      "originalVersionId": "8",
+      "clubId": 918,
+      "leagueId": 41,
+      "countryId": 36,
+      "versionId": "8",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        10,
+        11,
+        12,
+        17,
+        18,
+        20,
+        28
+      ],
+      "playStylesPlus": [
+        14,
+        25
+      ],
+      "rolesPlus": [
+        4,
+        5,
+        23,
+        35,
+        103,
+        106,
+        125,
+        137
+      ],
+      "attributes": [
+        90,
+        70,
+        84,
+        88,
+        85,
+        82
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 14250,
+      "resourceId": 50600023,
+      "assetId": 268375
     }
   }
 }
