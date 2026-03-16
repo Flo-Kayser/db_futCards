@@ -1,52 +1,6 @@
 {
   "clubName": "Everton",
   "players": {
-    "50538165": {
-      "name": "Jack Grealish",
-      "cardName": "Grealish",
-      "originalVersionId": "91",
-      "clubId": 7,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "91",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        0,
-        13,
-        22,
-        8
-      ],
-      "playStylesPlus": [
-        24
-      ],
-      "rolesPlus": [
-        33,
-        38,
-        130,
-        139
-      ],
-      "attributes": [
-        83,
-        85,
-        86,
-        88,
-        58,
-        75
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 45200,
-      "resourceId": 50538165,
-      "assetId": 206517
-    },
     "50569034": {
       "name": "Kiernan Dewsbury-Hall",
       "cardName": "Dewsbury-Hall",
@@ -252,9 +206,49 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 28000,
       "resourceId": 67313799,
       "assetId": 204935
+    },
+    "67315381": {
+      "name": "Jack Grealish",
+      "cardName": "Grealish",
+      "originalVersionId": "30",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "30",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        28,
+        29,
+        40,
+        127,
+        130,
+        138,
+        139
+      ],
+      "attributes": [
+        88,
+        87,
+        88,
+        91,
+        60,
+        80
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67315381,
+      "assetId": 206517
     }
   }
 }
