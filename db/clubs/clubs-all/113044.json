@@ -31,7 +31,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 71260,
       "assetId": 71260
     },
@@ -65,7 +65,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 5100,
       "resourceId": 72973,
       "assetId": 72973
     },
@@ -320,7 +320,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 900,
       "resourceId": 225858,
       "assetId": 225858
     },
@@ -398,7 +398,7 @@
         46
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 1100,
       "resourceId": 237994,
       "assetId": 237994
     },
@@ -432,7 +432,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 200,
       "resourceId": 238298,
       "assetId": 238298
     },
@@ -589,7 +589,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 10000,
       "resourceId": 261438,
       "assetId": 261438
     },
@@ -706,7 +706,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 10000,
       "resourceId": 267902,
       "assetId": 267902
     },
@@ -744,7 +744,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 5100,
       "resourceId": 269690,
       "assetId": 269690
     },
@@ -783,7 +783,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4500,
       "resourceId": 271277,
       "assetId": 271277
     },
@@ -817,7 +817,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 271933,
       "assetId": 271933
     },
@@ -1004,7 +1004,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 1500,
       "resourceId": 279777,
       "assetId": 279777
     },
@@ -1081,6 +1081,41 @@
       "price": 200,
       "resourceId": 279831,
       "assetId": 279831
+    },
+    "50408664": {
+      "name": "Enzo Taborda",
+      "cardName": "Taborda",
+      "originalVersionId": "0",
+      "clubId": 113044,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        38
+      ],
+      "attributes": [
+        72,
+        48,
+        56,
+        67,
+        37,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50408664,
+      "assetId": 77016
     },
     "50552077": {
       "name": "Gastón Campi",
@@ -1191,6 +1226,48 @@
       "price": 350,
       "resourceId": 50586362,
       "assetId": 254714
+    },
+    "67342972": {
+      "name": "Gonzalo Maroni",
+      "cardName": "Maroni",
+      "originalVersionId": "1",
+      "clubId": 113044,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "3001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31,
+        33,
+        43
+      ],
+      "attributes": [
+        70,
+        57,
+        69,
+        76,
+        43,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 6900,
+      "resourceId": 67342972,
+      "assetId": 234108
     }
   }
 }

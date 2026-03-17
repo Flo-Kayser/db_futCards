@@ -31,7 +31,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 74425,
       "assetId": 74425
     },
@@ -65,7 +65,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 300,
       "resourceId": 74884,
       "assetId": 74884
     },
@@ -100,7 +100,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 1800,
       "resourceId": 76730,
       "assetId": 76730
     },
@@ -135,7 +135,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 550,
       "resourceId": 77829,
       "assetId": 77829
     },
@@ -292,7 +292,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 8800,
+      "price": 1000,
       "resourceId": 237960,
       "assetId": 237960
     },
@@ -326,7 +326,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 239203,
       "assetId": 239203
     },
@@ -442,7 +442,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 252541,
       "assetId": 252541
     },
@@ -477,7 +477,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 8500,
+      "price": 1200,
       "resourceId": 262344,
       "assetId": 262344
     },
@@ -661,7 +661,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 550,
       "resourceId": 279573,
       "assetId": 279573
     },
@@ -710,7 +710,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 51500,
       "resourceId": 50535753,
       "assetId": 204105
     },
@@ -754,47 +754,6 @@
       "price": 0,
       "resourceId": 50547058,
       "assetId": 215410
-    },
-    "50551381": {
-      "name": "Ludovic Ajorque",
-      "cardName": "Ajorque",
-      "originalVersionId": "3",
-      "clubId": 378,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "3",
-      "rating": 81,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        19,
-        29,
-        4,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41,
-        144
-      ],
-      "attributes": [
-        75,
-        81,
-        70,
-        76,
-        50,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 23750,
-      "resourceId": 50551381,
-      "assetId": 219733
     },
     "50558882": {
       "name": "Lucas Tousart",
@@ -876,7 +835,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 350,
       "resourceId": 50580221,
       "assetId": 248573
     },
@@ -995,6 +954,54 @@
       "price": 250,
       "resourceId": 50606340,
       "assetId": 274692
+    },
+    "67328597": {
+      "name": "Ludovic Ajorque",
+      "cardName": "Ajorque",
+      "originalVersionId": "79",
+      "clubId": 378,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "79",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        19,
+        2,
+        22,
+        28,
+        29
+      ],
+      "playStylesPlus": [
+        4,
+        6
+      ],
+      "rolesPlus": [
+        43,
+        141,
+        142,
+        144
+      ],
+      "attributes": [
+        88,
+        90,
+        82,
+        86,
+        57,
+        94
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 34000,
+      "resourceId": 67328597,
+      "assetId": 219733
     }
   }
 }

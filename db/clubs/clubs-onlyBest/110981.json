@@ -178,7 +178,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 200,
       "resourceId": 220429,
       "assetId": 220429
     },
@@ -215,7 +215,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 200,
       "resourceId": 223685,
       "assetId": 223685
     },
@@ -360,7 +360,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 236943,
       "assetId": 236943
     },
@@ -433,7 +433,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 2400,
       "resourceId": 246406,
       "assetId": 246406
     },
@@ -516,7 +516,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 1000,
       "resourceId": 253327,
       "assetId": 253327
     },
@@ -776,7 +776,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 350,
       "resourceId": 259872,
       "assetId": 259872
     },
@@ -930,6 +930,122 @@
       "price": 350,
       "resourceId": 273577,
       "assetId": 273577
+    },
+    "50544395": {
+      "name": "Tomás Martínez",
+      "cardName": "Martínez",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        20,
+        22,
+        23,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31
+      ],
+      "attributes": [
+        73,
+        63,
+        71,
+        74,
+        53,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50544395,
+      "assetId": 212747
+    },
+    "50546709": {
+      "name": "Darío Benedetto",
+      "cardName": "Benedetto",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        59,
+        74,
+        69,
+        72,
+        34,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 4400,
+      "resourceId": 50546709,
+      "assetId": 215061
+    },
+    "50558034": {
+      "name": "Luca Sosa",
+      "cardName": "Sosa",
+      "originalVersionId": "0",
+      "clubId": 110981,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        69,
+        37,
+        58,
+        59,
+        70,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 50558034,
+      "assetId": 226386
     }
   }
 }
