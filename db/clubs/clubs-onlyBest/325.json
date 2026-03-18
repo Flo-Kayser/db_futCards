@@ -32,7 +32,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 70253,
       "assetId": 70253
     },
@@ -513,7 +513,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 10000,
       "resourceId": 259675,
       "assetId": 259675
     },
@@ -854,7 +854,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 15500,
       "resourceId": 50533047,
       "assetId": 201399
     },
@@ -989,7 +989,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 61250,
+      "sbcPrice": 63250,
       "resourceId": 50561553,
       "assetId": 229905
     },
@@ -1031,49 +1031,6 @@
       "price": 750,
       "resourceId": 50579914,
       "assetId": 248266
-    },
-    "50584450": {
-      "name": "Wilfried Singo",
-      "cardName": "Singo",
-      "originalVersionId": "1",
-      "clubId": 325,
-      "leagueId": 68,
-      "countryId": 108,
-      "versionId": "3002",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "RB"
-      ],
-      "playStyles": [
-        16,
-        19,
-        21,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        3,
-        11,
-        12,
-        13
-      ],
-      "attributes": [
-        80,
-        59,
-        70,
-        73,
-        79,
-        84
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 50584450,
-      "assetId": 252802
     },
     "50603112": {
       "name": "Yáser Asprilla",
@@ -1212,7 +1169,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 70500,
+      "price": 70000,
       "resourceId": 67321675,
       "assetId": 212811
     },
@@ -1312,9 +1269,57 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 65000,
+      "price": 64500,
       "resourceId": 67348244,
       "assetId": 239380
+    },
+    "67361666": {
+      "name": "Wilfried Singo",
+      "cardName": "Singo",
+      "originalVersionId": "3",
+      "clubId": 325,
+      "leagueId": 68,
+      "countryId": 108,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        14,
+        16,
+        19,
+        21,
+        4
+      ],
+      "playStylesPlus": [
+        28
+      ],
+      "rolesPlus": [
+        5,
+        6,
+        12,
+        48,
+        103,
+        111,
+        113
+      ],
+      "attributes": [
+        86,
+        66,
+        78,
+        81,
+        86,
+        90
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67361666,
+      "assetId": 252802
     },
     "67379435": {
       "name": "Gabriel Sara",
@@ -1371,7 +1376,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 187000,
+      "price": 200000,
       "resourceId": 67379435,
       "assetId": 270571
     },
@@ -1419,7 +1424,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 299000,
+      "price": 300000,
       "resourceId": 84118373,
       "assetId": 232293
     },
@@ -1462,7 +1467,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 480000,
+      "price": 463000,
       "resourceId": 100926501,
       "assetId": 263205
     }

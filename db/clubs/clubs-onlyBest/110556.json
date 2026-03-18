@@ -242,7 +242,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 225432,
       "assetId": 225432
     },
@@ -396,7 +396,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 200,
       "resourceId": 238516,
       "assetId": 238516
     },
@@ -583,7 +583,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 350,
       "resourceId": 256949,
       "assetId": 256949
     },
@@ -659,40 +659,6 @@
       "price": 0,
       "resourceId": 260789,
       "assetId": 260789
-    },
-    "263829": {
-      "name": "Vitinha",
-      "cardName": "Vitinha",
-      "originalVersionId": "0",
-      "clubId": 110556,
-      "leagueId": 31,
-      "countryId": 38,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42
-      ],
-      "attributes": [
-        73,
-        75,
-        63,
-        75,
-        32,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 263829,
-      "assetId": 263829
     },
     "264436": {
       "name": "Mikael Egill Ellertsson",
@@ -804,7 +770,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 600,
       "resourceId": 272602,
       "assetId": 272602
     },
@@ -912,7 +878,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 200,
       "resourceId": 278350,
       "assetId": 278350
     },
@@ -947,7 +913,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50403201,
       "assetId": 71553
     },
@@ -992,7 +958,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 19000,
+      "price": 20000,
       "resourceId": 50543855,
       "assetId": 212207
     },
@@ -1117,7 +1083,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 15000,
+      "price": 14250,
       "resourceId": 50572586,
       "assetId": 240938
     },
@@ -1203,6 +1169,50 @@
       "price": 350,
       "resourceId": 50587582,
       "assetId": 255934
+    },
+    "50595477": {
+      "name": "Vitinha",
+      "cardName": "Vitinha",
+      "originalVersionId": "3",
+      "clubId": 110556,
+      "leagueId": 31,
+      "countryId": 38,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        20,
+        22,
+        7
+      ],
+      "playStylesPlus": [
+        2
+      ],
+      "rolesPlus": [
+        44,
+        141,
+        142,
+        143
+      ],
+      "attributes": [
+        85,
+        85,
+        75,
+        86,
+        42,
+        84
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50595477,
+      "assetId": 263829
     },
     "50600960": {
       "name": "Tommaso Baldanzi",

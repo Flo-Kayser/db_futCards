@@ -103,7 +103,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 2000,
       "resourceId": 74172,
       "assetId": 74172
     },
@@ -247,7 +247,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1300,
       "resourceId": 243775,
       "assetId": 243775
     },
@@ -399,7 +399,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 3300,
+      "price": 3400,
       "resourceId": 267235,
       "assetId": 267235
     },
@@ -436,7 +436,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1000,
       "resourceId": 267242,
       "assetId": 267242
     },
@@ -622,7 +622,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 6000,
       "resourceId": 267521,
       "assetId": 267521
     },
@@ -849,58 +849,6 @@
       "resourceId": 50569321,
       "assetId": 237673
     },
-    "50597739": {
-      "name": "Ashley Sanchez",
-      "cardName": "Sanchez",
-      "originalVersionId": "96",
-      "clubId": 116303,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "96",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 5,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "CAM",
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        10,
-        12,
-        14,
-        17,
-        20,
-        24
-      ],
-      "playStylesPlus": [
-        23
-      ],
-      "rolesPlus": [
-        25,
-        33,
-        37,
-        40,
-        126,
-        136,
-        139
-      ],
-      "attributes": [
-        88,
-        84,
-        86,
-        89,
-        45,
-        81
-      ],
-      "hasDynamicImage": true,
-      "price": 18250,
-      "resourceId": 50597739,
-      "assetId": 266091
-    },
     "50598886": {
       "name": "Denise O'Sullivan",
       "cardName": "O'Sullivan",
@@ -941,7 +889,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 12500,
       "resourceId": 50598886,
       "assetId": 267238
     },
@@ -1016,6 +964,63 @@
       "price": 200,
       "resourceId": 50605136,
       "assetId": 273488
+    },
+    "67374955": {
+      "name": "Ashley Sanchez",
+      "cardName": "Sanchez",
+      "originalVersionId": "3",
+      "clubId": 116303,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "3",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [
+        10,
+        12,
+        21,
+        25,
+        6
+      ],
+      "playStylesPlus": [
+        1,
+        20
+      ],
+      "rolesPlus": [
+        28,
+        29,
+        31,
+        33,
+        36,
+        37,
+        38,
+        39,
+        127,
+        130,
+        132,
+        135,
+        140
+      ],
+      "attributes": [
+        90,
+        85,
+        88,
+        90,
+        45,
+        82
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67374955,
+      "assetId": 266091
     },
     "84164006": {
       "name": "Manaka Matsukubo",

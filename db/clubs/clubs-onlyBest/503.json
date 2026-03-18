@@ -34,7 +34,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 3500,
       "resourceId": 74984,
       "assetId": 74984
     },
@@ -144,7 +144,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 200,
       "resourceId": 222484,
       "assetId": 222484
     },
@@ -188,48 +188,6 @@
       "price": 200,
       "resourceId": 225636,
       "assetId": 225636
-    },
-    "234385": {
-      "name": "Niklas Hauptmann",
-      "cardName": "Hauptmann",
-      "originalVersionId": "0",
-      "clubId": 503,
-      "leagueId": 20,
-      "countryId": 21,
-      "versionId": "2001",
-      "rating": 70,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        11,
-        13,
-        18,
-        20,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        22,
-        33
-      ],
-      "attributes": [
-        67,
-        58,
-        69,
-        74,
-        58,
-        55
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 234385,
-      "assetId": 234385
     },
     "235157": {
       "name": "Christoph Daferner",
@@ -461,7 +419,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 1600,
       "resourceId": 248575,
       "assetId": 248575
     },
@@ -500,7 +458,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 250909,
       "assetId": 250909
     },
@@ -544,7 +502,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 2000,
       "resourceId": 251662,
       "assetId": 251662
     },
@@ -822,7 +780,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4900,
       "resourceId": 264168,
       "assetId": 264168
     },
@@ -976,7 +934,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 200,
       "resourceId": 279490,
       "assetId": 279490
     },
@@ -1050,6 +1008,54 @@
       "price": 200,
       "resourceId": 50405604,
       "assetId": 73956
+    },
+    "50566033": {
+      "name": "Niklas Hauptmann",
+      "cardName": "Hauptmann",
+      "originalVersionId": "3",
+      "clubId": 503,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        18,
+        20,
+        8
+      ],
+      "playStylesPlus": [
+        9
+      ],
+      "rolesPlus": [
+        20,
+        22,
+        32,
+        33,
+        121,
+        131,
+        134
+      ],
+      "attributes": [
+        84,
+        77,
+        86,
+        89,
+        75,
+        70
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50566033,
+      "assetId": 234385
     },
     "50582937": {
       "name": "Thomas Keller",
