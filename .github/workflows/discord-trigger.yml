@@ -3,7 +3,7 @@ name: Discrod Trigger
 on: 
   workflow_dispatch:
     inputs:
-      enviroment:
+      environment:
         description: "Target Environment"
         required: true
         default: "staging"
