@@ -1,0 +1,22 @@
+name: Discrod Trigger
+
+on: 
+  workflow_dispatch:
+    inputs:
+      enviroment:
+        description: "Target Environment"
+        required: true
+        default: "staging"
+      requested_by:
+        description: "Triggerd By"
+        required: false
+        default: "discord"
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Show inputs
+        run: |
+          echo "environment=${{ inputs.environment }}"
+          echo "requested_by=${{ inputs.requested_by }}"
+          
