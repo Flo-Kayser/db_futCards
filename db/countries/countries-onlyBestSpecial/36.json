@@ -86,7 +86,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 26000,
     "resourceId": 50536862,
     "assetId": 205214
   },
@@ -138,7 +138,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 53500,
+    "sbcPrice": 54000,
     "resourceId": 50556725,
     "assetId": 225077
   },
@@ -188,7 +188,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 17750,
     "resourceId": 50558749,
     "assetId": 227101
   },
@@ -338,62 +338,6 @@
     "resourceId": 50563561,
     "assetId": 231913
   },
-  "50565496": {
-    "name": "Jens Petter Hauge",
-    "cardName": "Hauge",
-    "originalVersionId": "8",
-    "clubId": 918,
-    "leagueId": 41,
-    "countryId": 36,
-    "versionId": "8",
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "RW"
-    ],
-    "playStyles": [
-      0,
-      11,
-      12,
-      20,
-      21,
-      7,
-      8
-    ],
-    "playStylesPlus": [
-      2,
-      22
-    ],
-    "rolesPlus": [
-      28,
-      30,
-      36,
-      39,
-      127,
-      129,
-      135,
-      137,
-      138,
-      140
-    ],
-    "attributes": [
-      90,
-      87,
-      85,
-      89,
-      55,
-      80
-    ],
-    "hasDynamicImage": true,
-    "price": 79000,
-    "resourceId": 50565496,
-    "assetId": 233848
-  },
   "50569584": {
     "name": "Aron Dønnum",
     "cardName": "Dønnum",
@@ -485,7 +429,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 12250,
     "resourceId": 50574373,
     "assetId": 242725
   },
@@ -530,9 +474,62 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 19250,
     "resourceId": 50574544,
     "assetId": 242896
+  },
+  "50575129": {
+    "name": "Marcus Pedersen",
+    "cardName": "Pedersen",
+    "originalVersionId": "20",
+    "clubId": 54,
+    "leagueId": 31,
+    "countryId": 36,
+    "versionId": "20",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      14,
+      15,
+      16,
+      20,
+      25,
+      8
+    ],
+    "playStylesPlus": [
+      18,
+      21
+    ],
+    "rolesPlus": [
+      3,
+      4,
+      25,
+      26,
+      105,
+      106,
+      123,
+      146
+    ],
+    "attributes": [
+      94,
+      75,
+      85,
+      88,
+      85,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 14000,
+    "resourceId": 50575129,
+    "assetId": 243481
   },
   "50577939": {
     "name": "Leo Cornic",
@@ -570,7 +567,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 21750,
+    "price": 24250,
     "resourceId": 50577939,
     "assetId": 246291
   },
@@ -615,7 +612,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 11500,
     "resourceId": 50579178,
     "assetId": 247530
   },
@@ -736,7 +733,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 14000,
     "resourceId": 50597902,
     "assetId": 266254
   },
@@ -843,7 +840,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 19000,
     "resourceId": 50606615,
     "assetId": 274967
   },
@@ -939,7 +936,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 11750,
     "resourceId": 67294286,
     "assetId": 185422
   },
@@ -984,7 +981,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 47500,
+    "price": 47250,
     "resourceId": 67331529,
     "assetId": 222665
   },
@@ -1036,7 +1033,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 3750000,
+    "price": 3744000,
     "resourceId": 67335966,
     "assetId": 227102
   },
@@ -1176,9 +1173,65 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 13000,
     "resourceId": 67338755,
     "assetId": 229891
+  },
+  "67342712": {
+    "name": "Jens Petter Hauge",
+    "cardName": "Hauge",
+    "originalVersionId": "20",
+    "clubId": 918,
+    "leagueId": 41,
+    "countryId": 36,
+    "versionId": "20",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RW"
+    ],
+    "playStyles": [
+      11,
+      12,
+      20,
+      21,
+      22,
+      23,
+      7
+    ],
+    "playStylesPlus": [
+      0,
+      8
+    ],
+    "rolesPlus": [
+      28,
+      29,
+      37,
+      127,
+      130,
+      135,
+      136,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      92,
+      89,
+      87,
+      91,
+      58,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 290000,
+    "resourceId": 67342712,
+    "assetId": 233848
   },
   "67347620": {
     "name": "Jørgen Strand Larsen",
@@ -1224,7 +1277,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 14250,
     "resourceId": 67347620,
     "assetId": 238756
   },
@@ -1278,7 +1331,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 120000,
+    "price": 128000,
     "resourceId": 84102629,
     "assetId": 216549
   },
@@ -1333,7 +1386,7 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 12500,
     "resourceId": 84163375,
     "assetId": 277295
   },
@@ -1380,7 +1433,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 1590000,
+    "price": 1500000,
     "resourceId": 100902381,
     "assetId": 239085
   },
@@ -1433,7 +1486,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 53500,
+    "price": 54000,
     "resourceId": 100926159,
     "assetId": 262863
   }

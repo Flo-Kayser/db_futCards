@@ -37,7 +37,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 10750,
+    "price": 12000,
     "resourceId": 168880,
     "assetId": 168880
   },
@@ -76,7 +76,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 11750,
     "resourceId": 168886,
     "assetId": 168886
   },
@@ -118,7 +118,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 71000,
+    "price": 78000,
     "resourceId": 266694,
     "assetId": 266694
   },
@@ -209,9 +209,69 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 29750,
+    "price": 29000,
     "resourceId": 50567162,
     "assetId": 235514
+  },
+  "50570193": {
+    "name": "Firas Al Birekan",
+    "cardName": "Al Birekan",
+    "originalVersionId": "20",
+    "clubId": 112387,
+    "leagueId": 350,
+    "countryId": 183,
+    "versionId": "20",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      19,
+      4,
+      5,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      24,
+      6
+    ],
+    "rolesPlus": [
+      30,
+      32,
+      34,
+      39,
+      41,
+      43,
+      127,
+      128,
+      129,
+      131,
+      138,
+      140,
+      142
+    ],
+    "attributes": [
+      92,
+      88,
+      85,
+      88,
+      50,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 13000,
+    "resourceId": 50570193,
+    "assetId": 238545
   },
   "50580146": {
     "name": "Khalid Al Ghannam",
@@ -250,7 +310,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 39750,
+    "price": 28750,
     "resourceId": 50580146,
     "assetId": 248498
   },
@@ -293,7 +353,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 13250,
     "resourceId": 50595472,
     "assetId": 263824
   },
@@ -346,7 +406,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 131000,
+    "price": 145000,
     "resourceId": 50598342,
     "assetId": 266694
   },
@@ -461,6 +521,59 @@
     "resourceId": 67183565,
     "assetId": 74701
   },
+  "67319466": {
+    "name": "Salem Al Dawsari",
+    "cardName": "Al Dawsari",
+    "originalVersionId": "20",
+    "clubId": 605,
+    "leagueId": 350,
+    "countryId": 183,
+    "versionId": "20",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      11,
+      12,
+      13,
+      21,
+      22,
+      5,
+      6
+    ],
+    "playStylesPlus": [
+      20,
+      25
+    ],
+    "rolesPlus": [
+      29,
+      40,
+      127,
+      128,
+      130,
+      138,
+      139
+    ],
+    "attributes": [
+      92,
+      87,
+      87,
+      90,
+      65,
+      88
+    ],
+    "hasDynamicImage": true,
+    "price": 56000,
+    "resourceId": 67319466,
+    "assetId": 210602
+  },
   "67375558": {
     "name": "Saeed Al Owairan",
     "cardName": "Al Owairan",
@@ -514,7 +627,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 289000,
+    "price": 265000,
     "resourceId": 67375558,
     "assetId": 266694
   }

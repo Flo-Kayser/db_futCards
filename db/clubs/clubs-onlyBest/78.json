@@ -31,7 +31,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 2300,
       "resourceId": 75577,
       "assetId": 75577
     },
@@ -100,7 +100,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 4500,
       "resourceId": 79781,
       "assetId": 79781
     },
@@ -907,7 +907,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 5500,
+      "price": 1700,
       "resourceId": 269842,
       "assetId": 269842
     },
@@ -1034,7 +1034,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 127000,
+      "price": 147000,
       "resourceId": 50542741,
       "assetId": 211093
     },
@@ -1235,7 +1235,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 6000,
+      "price": 8900,
       "resourceId": 50588856,
       "assetId": 257208
     },
@@ -1314,7 +1314,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 11750,
       "resourceId": 67334583,
       "assetId": 225719
     },
@@ -1403,44 +1403,6 @@
       "resourceId": 67355783,
       "assetId": 246919
     },
-    "67356542": {
-      "name": "Julian Araujo",
-      "cardName": "Araujo",
-      "originalVersionId": "1",
-      "clubId": 78,
-      "leagueId": 50,
-      "countryId": 83,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        18,
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        3
-      ],
-      "attributes": [
-        83,
-        35,
-        64,
-        70,
-        71,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 67356542,
-      "assetId": 247678
-    },
     "67366072": {
       "name": "Michel Ange Balikwisha",
       "cardName": "Balikwisha",
@@ -1480,9 +1442,64 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1000,
       "resourceId": 67366072,
       "assetId": 257208
+    },
+    "84133758": {
+      "name": "Julian Araujo",
+      "cardName": "Araujo",
+      "originalVersionId": "20",
+      "clubId": 78,
+      "leagueId": 50,
+      "countryId": 83,
+      "versionId": "20",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        14,
+        15,
+        16,
+        17,
+        21,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        11,
+        25
+      ],
+      "rolesPlus": [
+        5,
+        6,
+        24,
+        25,
+        103,
+        104,
+        123,
+        126,
+        146
+      ],
+      "attributes": [
+        92,
+        50,
+        86,
+        87,
+        87,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 75500,
+      "resourceId": 84133758,
+      "assetId": 247678
     }
   }
 }

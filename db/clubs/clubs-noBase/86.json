@@ -1,6 +1,51 @@
 {
   "clubName": "Rangers",
   "players": {
+    "50556851": {
+      "name": "Liam Kelly",
+      "cardName": "Kelly",
+      "originalVersionId": "20",
+      "clubId": 86,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "20",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        31,
+        34,
+        35,
+        9
+      ],
+      "playStylesPlus": [
+        30,
+        32
+      ],
+      "rolesPlus": [
+        2,
+        101,
+        145
+      ],
+      "attributes": [
+        90,
+        88,
+        89,
+        91,
+        72,
+        88
+      ],
+      "hasDynamicImage": false,
+      "price": 21000,
+      "resourceId": 50556851,
+      "assetId": 225203
+    },
     "50571458": {
       "name": "Nicolas Raskin",
       "cardName": "Raskin",
@@ -181,7 +226,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 14500,
       "resourceId": 67379730,
       "assetId": 270866
     },
@@ -226,7 +271,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 12500,
       "resourceId": 84156946,
       "assetId": 270866
     }

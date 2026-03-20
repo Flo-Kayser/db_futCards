@@ -52,7 +52,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 16250,
+    "price": 15750,
     "resourceId": 50338623,
     "assetId": 6975
   },
@@ -91,7 +91,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 26500,
+    "price": 32500,
     "resourceId": 50403375,
     "assetId": 71727
   },
@@ -133,7 +133,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 19500,
     "resourceId": 50405823,
     "assetId": 74175
   },
@@ -178,7 +178,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 18000,
     "resourceId": 50538274,
     "assetId": 206626
   },
@@ -217,7 +217,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 32000,
+    "price": 36500,
     "resourceId": 50540080,
     "assetId": 208432
   },
@@ -314,7 +314,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 11250,
     "resourceId": 50558635,
     "assetId": 226987
   },
@@ -351,7 +351,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 19000,
     "resourceId": 50565012,
     "assetId": 233364
   },
@@ -397,7 +397,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 145000,
+    "price": 138000,
     "resourceId": 50570909,
     "assetId": 239261
   },
@@ -441,7 +441,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 15000,
     "resourceId": 50579125,
     "assetId": 247477
   },
@@ -552,7 +552,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 14750,
     "resourceId": 50591364,
     "assetId": 259716
   },
@@ -596,7 +596,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 13250,
     "resourceId": 50591569,
     "assetId": 259921
   },
@@ -643,51 +643,9 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 17000,
     "resourceId": 50594875,
     "assetId": 263227
-  },
-  "50597248": {
-    "name": "Roony Bardghji",
-    "cardName": "Bardghji",
-    "originalVersionId": "3",
-    "clubId": 241,
-    "leagueId": 53,
-    "countryId": 46,
-    "versionId": "3",
-    "rating": 83,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "RM",
-    "possiblePositions": [
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      2,
-      20,
-      23,
-      7,
-      8
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      26,
-      124
-    ],
-    "attributes": [
-      87,
-      83,
-      79,
-      88,
-      40,
-      70
-    ],
-    "hasDynamicImage": true,
-    "price": 240000,
-    "resourceId": 50597248,
-    "assetId": 265600
   },
   "50598343": {
     "name": "Tomas Brolin",
@@ -738,7 +696,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 43250,
+    "price": 43500,
     "resourceId": 50598343,
     "assetId": 266695
   },
@@ -835,7 +793,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 1217000,
+    "price": 1182000,
     "resourceId": 67335233,
     "assetId": 226369
   },
@@ -887,7 +845,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 240000,
+    "price": 200000,
     "resourceId": 67335839,
     "assetId": 226975
   },
@@ -934,7 +892,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 55500,
+    "price": 57000,
     "resourceId": 67335877,
     "assetId": 227013
   },
@@ -1030,9 +988,61 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 3100000,
+    "price": 3079000,
     "resourceId": 67350515,
     "assetId": 241651
+  },
+  "67374464": {
+    "name": "Roony Bardghji",
+    "cardName": "Bardghji",
+    "originalVersionId": "20",
+    "clubId": 241,
+    "leagueId": 53,
+    "countryId": 46,
+    "versionId": "20",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      12,
+      21,
+      22,
+      23,
+      25,
+      9
+    ],
+    "playStylesPlus": [
+      20,
+      7
+    ],
+    "rolesPlus": [
+      25,
+      37,
+      123,
+      124,
+      126,
+      135,
+      136
+    ],
+    "attributes": [
+      90,
+      89,
+      87,
+      91,
+      50,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 150000,
+    "resourceId": 67374464,
+    "assetId": 265600
   },
   "67380978": {
     "name": "Hanna Lundkvist",
@@ -1079,7 +1089,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 22500,
     "resourceId": 67380978,
     "assetId": 272114
   },
@@ -1127,7 +1137,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 6935000,
+    "price": 6205000,
     "resourceId": 134258964,
     "assetId": 41236
   }

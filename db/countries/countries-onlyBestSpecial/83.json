@@ -37,7 +37,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 72000,
+    "price": 71000,
     "resourceId": 156353,
     "assetId": 156353
   },
@@ -80,7 +80,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 77500,
+    "price": 84500,
     "resourceId": 166149,
     "assetId": 166149
   },
@@ -138,6 +138,59 @@
     "resourceId": 50358357,
     "assetId": 26709
   },
+  "50410432": {
+    "name": "Mateo Chávez",
+    "cardName": "Chávez",
+    "originalVersionId": "20",
+    "clubId": 1906,
+    "leagueId": 10,
+    "countryId": 83,
+    "versionId": "20",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      16,
+      17,
+      18,
+      20,
+      21,
+      25,
+      9
+    ],
+    "playStylesPlus": [
+      12,
+      14
+    ],
+    "rolesPlus": [
+      9,
+      10,
+      29,
+      30,
+      107,
+      108,
+      127,
+      147
+    ],
+    "attributes": [
+      91,
+      61,
+      86,
+      88,
+      86,
+      87
+    ],
+    "hasDynamicImage": false,
+    "price": 21000,
+    "resourceId": 50410432,
+    "assetId": 78784
+  },
   "50523342": {
     "name": "Jorge Campos",
     "cardName": "Campos",
@@ -178,7 +231,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 15000,
     "resourceId": 50523342,
     "assetId": 191694
   },
@@ -224,7 +277,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 54500,
+    "price": 54000,
     "resourceId": 50536486,
     "assetId": 204838
   },
@@ -318,7 +371,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 86000,
+    "price": 98000,
     "resourceId": 50567492,
     "assetId": 235844
   },
@@ -362,7 +415,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 43000,
+    "price": 41250,
     "resourceId": 50572872,
     "assetId": 241224
   },
@@ -504,50 +557,6 @@
     "resourceId": 50577707,
     "assetId": 246059
   },
-  "50579326": {
-    "name": "Julian Araujo",
-    "cardName": "Araujo",
-    "originalVersionId": "91",
-    "clubId": 1943,
-    "leagueId": 13,
-    "countryId": 83,
-    "versionId": "91",
-    "rating": 85,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "RB",
-    "possiblePositions": [
-      "RB",
-      "RM"
-    ],
-    "playStyles": [
-      16,
-      18,
-      26,
-      9
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      4,
-      23,
-      103,
-      106
-    ],
-    "attributes": [
-      88,
-      46,
-      78,
-      82,
-      82,
-      84
-    ],
-    "isObjective": true,
-    "hasDynamicImage": true,
-    "price": 0,
-    "resourceId": 50579326,
-    "assetId": 247678
-  },
   "50595349": {
     "name": "Obed Vargas",
     "cardName": "Vargas",
@@ -676,8 +685,63 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 22250,
+    "price": 25500,
     "resourceId": 67343443,
     "assetId": 234579
+  },
+  "84133758": {
+    "name": "Julian Araujo",
+    "cardName": "Araujo",
+    "originalVersionId": "20",
+    "clubId": 78,
+    "leagueId": 50,
+    "countryId": 83,
+    "versionId": "20",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      14,
+      15,
+      16,
+      17,
+      21,
+      26,
+      9
+    ],
+    "playStylesPlus": [
+      11,
+      25
+    ],
+    "rolesPlus": [
+      5,
+      6,
+      24,
+      25,
+      103,
+      104,
+      123,
+      126,
+      146
+    ],
+    "attributes": [
+      92,
+      50,
+      86,
+      87,
+      87,
+      89
+    ],
+    "hasDynamicImage": true,
+    "price": 75500,
+    "resourceId": 84133758,
+    "assetId": 247678
   }
 }
