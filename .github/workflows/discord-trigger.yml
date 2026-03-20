@@ -1,22 +1,69 @@
-name: Discrod Trigger
+name: Discord Trigger
 
-on: 
+on:
   workflow_dispatch:
     inputs:
       environment:
-        description: "Target Environment"
-        required: true
+        description: "Target environment"
+        required: false
         default: "staging"
       requested_by:
-        description: "Triggerd By"
+        description: "Triggered by"
         required: false
         default: "discord"
+
 jobs:
-  run:
+  build-all:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Show inputs
+      - name: Workflow gestartet (Discord)
         run: |
-          echo "environment=${{ inputs.environment }}"
-          echo "requested_by=${{ inputs.requested_by }}"
-          
+          curl -H "Content-Type: application/json" \
+               -X POST \
+               -d '{"content":"🚀 Manuelles Update gestartet – FUT-Sammelheft wird aktualisiert …"}' \
+               ${{ secrets.DISCORD_WEBHOOK }}
+
+      - name: Repository klonen
+        uses: actions/checkout@v4
+
+      - name: Node.js einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Abhängigkeiten installieren
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm i --no-fund --no-audit
+          fi
+
+      - name: Fetch + Build (npm run all)
+        run: npm run all
+
+      - name: Änderungen committen & pushen
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || \
+            git commit -m "chore(db): auto-update $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push
+
+      - name: Update erfolgreich beendet (Discord)
+        if: success()
+        run: |
+          curl -H "Content-Type: application/json" \
+               -X POST \
+               -d '{"content":"✅ FUT-Sammelheft-Karten erfolgreich aktualisiert."}' \
+               ${{ secrets.DISCORD_WEBHOOK }}
+
+      - name: Fehler beim Update (Discord)
+        if: failure()
+        run: |
+          curl -H "Content-Type: application/json" \
+               -X POST \
+               -d '{"content":"❌ Fehler beim Update der FUT-Sammelheft-Karten – bitte prüfen!"}' \
+               ${{ secrets.DISCORD_WEBHOOK }}
