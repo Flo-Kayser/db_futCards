@@ -34,7 +34,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 3800,
     "resourceId": 70229,
     "assetId": 70229
   },
@@ -208,7 +208,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 1100,
+    "price": 1200,
     "resourceId": 75655,
     "assetId": 75655
   },
@@ -277,7 +277,7 @@
       51
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 200,
     "resourceId": 77438,
     "assetId": 77438
   },
@@ -349,7 +349,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 0,
     "resourceId": 166764,
     "assetId": 166764
   },
@@ -465,7 +465,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 5100,
     "resourceId": 192624,
     "assetId": 192624
   },
@@ -851,7 +851,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 350,
     "resourceId": 210392,
     "assetId": 210392
   },
@@ -924,7 +924,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 4300,
+    "price": 5500,
     "resourceId": 213697,
     "assetId": 213697
   },
@@ -1299,7 +1299,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 238410,
     "assetId": 238410
   },
@@ -1601,7 +1601,7 @@
       50
     ],
     "hasDynamicImage": false,
-    "price": 2200,
+    "price": 3000,
     "resourceId": 243688,
     "assetId": 243688
   },
@@ -1796,7 +1796,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 900,
     "resourceId": 251262,
     "assetId": 251262
   },
@@ -1908,7 +1908,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 263030,
     "assetId": 263030
   },
@@ -1949,43 +1949,6 @@
     "price": 200,
     "resourceId": 264269,
     "assetId": 264269
-  },
-  "264298": {
-    "name": "Conor Bradley",
-    "cardName": "Bradley",
-    "originalVersionId": "0",
-    "clubId": 9,
-    "leagueId": 13,
-    "countryId": 35,
-    "versionId": "2002",
-    "rating": 78,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "RB",
-    "possiblePositions": [
-      "RB",
-      "RM"
-    ],
-    "playStyles": [
-      26
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      6
-    ],
-    "attributes": [
-      80,
-      61,
-      70,
-      75,
-      75,
-      74
-    ],
-    "hasDynamicImage": false,
-    "price": 350,
-    "resourceId": 264298,
-    "assetId": 264298
   },
   "264644": {
     "name": "Paddy Lane",
@@ -2062,7 +2025,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 4600,
     "resourceId": 264677,
     "assetId": 264677
   },
@@ -2400,7 +2363,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 2500,
     "resourceId": 273692,
     "assetId": 273692
   },
@@ -2620,7 +2583,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 950,
+    "price": 800,
     "resourceId": 278101,
     "assetId": 278101
   },
@@ -2657,7 +2620,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 2500,
     "resourceId": 278557,
     "assetId": 278557
   },
@@ -2817,7 +2780,7 @@
       69
     ],
     "hasDynamicImage": true,
-    "price": 291000,
+    "price": 315000,
     "resourceId": 50558412,
     "assetId": 226764
   },
@@ -2900,6 +2863,59 @@
     "resourceId": 50594678,
     "assetId": 263030
   },
+  "50595946": {
+    "name": "Conor Bradley",
+    "cardName": "Bradley",
+    "originalVersionId": "58",
+    "clubId": 9,
+    "leagueId": 13,
+    "countryId": 35,
+    "versionId": "58",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      12,
+      17,
+      20,
+      25,
+      26
+    ],
+    "playStylesPlus": [
+      14,
+      8
+    ],
+    "rolesPlus": [
+      4,
+      24,
+      25,
+      46,
+      103,
+      105,
+      106,
+      123
+    ],
+    "attributes": [
+      90,
+      75,
+      81,
+      88,
+      90,
+      88
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 76250,
+    "resourceId": 50595946,
+    "assetId": 264298
+  },
   "50598048": {
     "name": "Trai Hume",
     "cardName": "Hume",
@@ -2941,7 +2957,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 19000,
     "resourceId": 50598048,
     "assetId": 266400
   },
@@ -3071,7 +3087,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 11750,
     "resourceId": 50607718,
     "assetId": 276070
   },
