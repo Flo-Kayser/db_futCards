@@ -98,7 +98,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 729000,
+    "price": 689000,
     "resourceId": 67375554,
     "assetId": 266690,
     "name": "Lúcio",
@@ -143,7 +143,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 10750,
+    "price": 13000,
     "resourceId": 181783,
     "assetId": 181783,
     "name": "Mario Mandžukić",
@@ -248,7 +248,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 771500,
+    "sbcPrice": 651500,
     "resourceId": 67137629,
     "assetId": 28765,
     "name": "Zé Roberto",
@@ -291,7 +291,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 13500,
+    "price": 12500,
     "resourceId": 81644,
     "assetId": 81644,
     "name": "Uli Hoeneß",
@@ -332,7 +332,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 17000,
+    "price": 13500,
     "resourceId": 10704,
     "assetId": 10704,
     "name": "Roy Makaay",
@@ -430,7 +430,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 29000,
+    "price": 29250,
     "resourceId": 50413292,
     "assetId": 81644,
     "name": "Uli Hoeneß",
@@ -658,7 +658,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 59000,
+    "price": 53000,
     "resourceId": 50593241,
     "assetId": 261593,
     "name": "Jürgen Kohler",
@@ -705,7 +705,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13750,
     "resourceId": 50357068,
     "assetId": 25420,
     "name": "Claudio Pizarro",
@@ -749,7 +749,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 12250,
+    "price": 11500,
     "resourceId": 25420,
     "assetId": 25420,
     "name": "Claudio Pizarro",
@@ -758,43 +758,41 @@
   {
     "clubId": 114605,
     "leagueId": 19,
-    "countryId": 18,
+    "countryId": 21,
     "versionId": "72",
     "rating": 88,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
     "skillMoves": 3,
-    "preferredPosition": "LB",
+    "preferredPosition": "ST",
     "possiblePositions": [
-      "LB"
+      "ST"
     ],
     "playStyles": [
-      10,
-      12,
-      15,
-      17,
-      25
+      0,
+      22,
+      4
     ],
     "playStylesPlus": [
-      18
+      29
     ],
     "rolesPlus": [
-      107
+      144
     ],
     "attributes": [
-      87,
-      59,
-      80,
-      82,
       83,
-      82
+      90,
+      73,
+      82,
+      43,
+      83
     ],
     "hasDynamicImage": false,
-    "price": 25500,
-    "resourceId": 5454,
-    "assetId": 5454,
-    "name": "Bixente Lizarazu",
-    "cardName": "Lizarazu"
+    "price": 12500,
+    "resourceId": 150418,
+    "assetId": 150418,
+    "name": "Mario Gomez",
+    "cardName": "Gomez"
   },
   {
     "clubId": 114605,
@@ -836,7 +834,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 117000,
+    "price": 110000,
     "resourceId": 28765,
     "assetId": 28765,
     "name": "Zé Roberto",
@@ -845,41 +843,43 @@
   {
     "clubId": 114605,
     "leagueId": 19,
-    "countryId": 21,
+    "countryId": 18,
     "versionId": "72",
     "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
     "skillMoves": 3,
-    "preferredPosition": "ST",
+    "preferredPosition": "LB",
     "possiblePositions": [
-      "ST"
+      "LB"
     ],
     "playStyles": [
-      0,
-      22,
-      4
+      10,
+      12,
+      15,
+      17,
+      25
     ],
     "playStylesPlus": [
-      29
+      18
     ],
     "rolesPlus": [
-      144
+      107
     ],
     "attributes": [
-      83,
-      90,
-      73,
+      87,
+      59,
+      80,
       82,
-      43,
-      83
+      83,
+      82
     ],
     "hasDynamicImage": false,
-    "price": 12750,
-    "resourceId": 150418,
-    "assetId": 150418,
-    "name": "Mario Gomez",
-    "cardName": "Gomez"
+    "price": 24750,
+    "resourceId": 5454,
+    "assetId": 5454,
+    "name": "Bixente Lizarazu",
+    "cardName": "Lizarazu"
   },
   {
     "clubId": 114605,
@@ -916,53 +916,11 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 20750,
+    "price": 19750,
     "resourceId": 269603,
     "assetId": 269603,
     "name": "Włodzimierz Smolarek",
     "cardName": "Smolarek"
-  },
-  {
-    "clubId": 114605,
-    "leagueId": 19,
-    "countryId": 21,
-    "versionId": "72",
-    "rating": 89,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [
-      14,
-      17,
-      18,
-      28,
-      4
-    ],
-    "playStylesPlus": [
-      15
-    ],
-    "rolesPlus": [
-      48,
-      112
-    ],
-    "attributes": [
-      71,
-      51,
-      63,
-      62,
-      91,
-      90
-    ],
-    "hasDynamicImage": false,
-    "price": 16750,
-    "resourceId": 261593,
-    "assetId": 261593,
-    "name": "Jürgen Kohler",
-    "cardName": "Kohler"
   },
   {
     "clubId": 114605,
@@ -1001,10 +959,52 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 29000,
+    "price": 27750,
     "resourceId": 166676,
     "assetId": 166676,
     "name": "Rudi Völler",
     "cardName": "Völler"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "72",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      17,
+      18,
+      28,
+      4
+    ],
+    "playStylesPlus": [
+      15
+    ],
+    "rolesPlus": [
+      48,
+      112
+    ],
+    "attributes": [
+      71,
+      51,
+      63,
+      62,
+      91,
+      90
+    ],
+    "hasDynamicImage": false,
+    "price": 18000,
+    "resourceId": 261593,
+    "assetId": 261593,
+    "name": "Jürgen Kohler",
+    "cardName": "Kohler"
   }
 ]
