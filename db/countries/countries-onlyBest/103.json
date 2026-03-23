@@ -30,7 +30,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 10000,
     "resourceId": 69997,
     "assetId": 69997
   },
@@ -138,7 +138,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 1000,
     "resourceId": 72622,
     "assetId": 72622
   },
@@ -174,7 +174,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 3100,
     "resourceId": 73081,
     "assetId": 73081
   },
@@ -212,7 +212,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 1400,
     "resourceId": 73330,
     "assetId": 73330
   },
@@ -323,7 +323,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 2500,
     "resourceId": 74322,
     "assetId": 74322
   },
@@ -358,7 +358,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 3000,
+    "price": 2700,
     "resourceId": 76034,
     "assetId": 76034
   },
@@ -533,7 +533,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 850,
     "resourceId": 80035,
     "assetId": 80035
   },
@@ -773,7 +773,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 2000,
+    "price": 1800,
     "resourceId": 224069,
     "assetId": 224069
   },
@@ -809,7 +809,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 1900,
+    "price": 1600,
     "resourceId": 226753,
     "assetId": 226753
   },
@@ -927,7 +927,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 5000,
+    "price": 400,
     "resourceId": 234710,
     "assetId": 234710
   },
@@ -970,7 +970,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 1100,
+    "price": 1300,
     "resourceId": 236556,
     "assetId": 236556
   },
@@ -1350,7 +1350,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 6000,
+    "price": 350,
     "resourceId": 241130,
     "assetId": 241130
   },
@@ -1925,7 +1925,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 4200,
+    "price": 4700,
     "resourceId": 257138,
     "assetId": 257138
   },
@@ -2221,7 +2221,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 800,
     "resourceId": 266299,
     "assetId": 266299
   },
@@ -2444,7 +2444,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 1600,
+    "price": 850,
     "resourceId": 272930,
     "assetId": 272930
   },
@@ -2887,7 +2887,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 12500,
     "resourceId": 50515217,
     "assetId": 183569
   },
@@ -3088,7 +3088,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 34750,
+    "price": 34000,
     "resourceId": 50574662,
     "assetId": 243014
   },
@@ -3231,7 +3231,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 5100,
     "resourceId": 50592987,
     "assetId": 261339
   },
@@ -3316,7 +3316,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 1239000,
+    "price": 1119000,
     "resourceId": 67118540,
     "assetId": 9676
   },
@@ -3365,6 +3365,83 @@
     "price": 75150,
     "resourceId": 67336100,
     "assetId": 227236
+  },
+  "67357437": {
+    "name": "Junior Dina Ebimbe",
+    "cardName": "Dina Ebimbe",
+    "originalVersionId": "1",
+    "clubId": 378,
+    "leagueId": 16,
+    "countryId": 103,
+    "versionId": "3001",
+    "rating": 72,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "CM",
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      19
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      6,
+      22,
+      24,
+      26
+    ],
+    "attributes": [
+      79,
+      64,
+      69,
+      73,
+      69,
+      74
+    ],
+    "hasDynamicImage": false,
+    "price": 300,
+    "resourceId": 67357437,
+    "assetId": 248573
+  },
+  "67361001": {
+    "name": "Marco Essimi",
+    "cardName": "Essimi",
+    "originalVersionId": "1",
+    "clubId": 111276,
+    "leagueId": 17,
+    "countryId": 103,
+    "versionId": "3000",
+    "rating": 62,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      27
+    ],
+    "attributes": [
+      75,
+      60,
+      55,
+      63,
+      30,
+      49
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 67361001,
+    "assetId": 252137
   },
   "67380278": {
     "name": "Karl Edouard Etta Eyong",
@@ -3461,7 +3538,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 121000,
+    "price": 138000,
     "resourceId": 67381364,
     "assetId": 272500
   }

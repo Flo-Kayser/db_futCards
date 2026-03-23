@@ -1,6 +1,53 @@
 {
   "clubName": "West Ham",
   "players": {
+    "50528626": {
+      "name": "Callum Wilson",
+      "cardName": "Wilson",
+      "originalVersionId": "51",
+      "clubId": 19,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "51",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        21,
+        22,
+        26,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        2,
+        6
+      ],
+      "rolesPlus": [
+        44,
+        141,
+        142,
+        143
+      ],
+      "attributes": [
+        87,
+        90,
+        80,
+        88,
+        52,
+        87
+      ],
+      "sbcPrice": 33300,
+      "resourceId": 50528626,
+      "assetId": 196978
+    },
     "50537217": {
       "name": "James Ward-Prowse",
       "cardName": "Ward-Prowse",
@@ -131,7 +178,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 32250,
+      "price": 33000,
       "resourceId": 50561528,
       "assetId": 229880
     },
@@ -222,7 +269,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 44000,
+      "price": 36500,
       "resourceId": 50583602,
       "assetId": 251954
     },

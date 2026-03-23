@@ -1142,7 +1142,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 4400,
+      "price": 4800,
       "resourceId": 279203,
       "assetId": 279203
     },
@@ -1233,7 +1233,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 40500,
+      "price": 30000,
       "resourceId": 50557280,
       "assetId": 225632
     },
@@ -1274,7 +1274,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 16500,
       "resourceId": 50564306,
       "assetId": 232658
     },
@@ -1317,6 +1317,85 @@
       "price": 0,
       "resourceId": 50570786,
       "assetId": 239138
+    },
+    "50582589": {
+      "name": "Derrick Köhn",
+      "cardName": "Köhn",
+      "originalVersionId": "1",
+      "clubId": 1831,
+      "leagueId": 19,
+      "countryId": 117,
+      "versionId": "3002",
+      "rating": 75,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10,
+        27
+      ],
+      "attributes": [
+        87,
+        69,
+        71,
+        77,
+        68,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 50582589,
+      "assetId": 250941
+    },
+    "67320863": {
+      "name": "Rani Khedira",
+      "cardName": "Khedira",
+      "originalVersionId": "0",
+      "clubId": 1831,
+      "leagueId": 19,
+      "countryId": 145,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        19,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        17,
+        18
+      ],
+      "attributes": [
+        57,
+        43,
+        57,
+        62,
+        79,
+        83
+      ],
+      "hasDynamicImage": false,
+      "price": 9900,
+      "resourceId": 67320863,
+      "assetId": 211999
     }
   }
 }

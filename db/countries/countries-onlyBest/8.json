@@ -34,7 +34,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 350,
     "resourceId": 72360,
     "assetId": 72360
   },
@@ -321,7 +321,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 250,
     "resourceId": 77056,
     "assetId": 77056
   },
@@ -462,7 +462,7 @@
       47
     ],
     "hasDynamicImage": false,
-    "price": 1600,
+    "price": 2900,
     "resourceId": 80305,
     "assetId": 80305
   },
@@ -606,7 +606,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 850,
     "resourceId": 192840,
     "assetId": 192840
   },
@@ -960,7 +960,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 4700,
+    "price": 5100,
     "resourceId": 235751,
     "assetId": 235751
   },
@@ -1406,7 +1406,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 400,
     "resourceId": 251168,
     "assetId": 251168
   },
@@ -1524,7 +1524,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 450,
     "resourceId": 257345,
     "assetId": 257345
   },
@@ -1564,7 +1564,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 950,
     "resourceId": 259101,
     "assetId": 259101
   },
@@ -1931,9 +1931,44 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 7900,
+    "price": 10000,
     "resourceId": 277627,
     "assetId": 277627
+  },
+  "50401751": {
+    "name": "Anes Cardaklija",
+    "cardName": "Cardaklija",
+    "originalVersionId": "1",
+    "clubId": 111594,
+    "leagueId": 56,
+    "countryId": 8,
+    "versionId": "3000",
+    "rating": 62,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      11,
+      12
+    ],
+    "attributes": [
+      55,
+      25,
+      40,
+      54,
+      60,
+      71
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50401751,
+    "assetId": 70103
   },
   "50404008": {
     "name": "Samed Baždar",
@@ -2011,7 +2046,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 20000,
     "resourceId": 50406857,
     "assetId": 75209
   },
@@ -2046,7 +2081,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 3900,
+    "price": 2300,
     "resourceId": 50408449,
     "assetId": 76801
   },
@@ -2168,6 +2203,42 @@
     "resourceId": 50564701,
     "assetId": 233053
   },
+  "50571610": {
+    "name": "Ivan Jukić",
+    "cardName": "Jukić",
+    "originalVersionId": "1",
+    "clubId": 112555,
+    "leagueId": 83,
+    "countryId": 8,
+    "versionId": "3000",
+    "rating": 64,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      27
+    ],
+    "attributes": [
+      76,
+      59,
+      59,
+      64,
+      29,
+      53
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50571610,
+    "assetId": 239962
+  },
   "50572276": {
     "name": "Dario Šarić",
     "cardName": "Šarić",
@@ -2250,9 +2321,45 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 25000,
+    "price": 23250,
     "resourceId": 50576165,
     "assetId": 244517
+  },
+  "50576588": {
+    "name": "Emir Karić",
+    "cardName": "Karić",
+    "originalVersionId": "0",
+    "clubId": 209,
+    "leagueId": 80,
+    "countryId": 8,
+    "versionId": "2001",
+    "rating": 66,
+    "preferredFoot": "Left",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      9,
+      29
+    ],
+    "attributes": [
+      68,
+      44,
+      59,
+      63,
+      62,
+      74
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50576588,
+    "assetId": 244940
   },
   "50582816": {
     "name": "Nihad Mujakić",
@@ -2370,7 +2477,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 16250,
     "resourceId": 50593675,
     "assetId": 262027
   },
@@ -2603,9 +2710,45 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 12250,
     "resourceId": 67319932,
     "assetId": 211068
+  },
+  "67372738": {
+    "name": "Mladen Cvjetinović",
+    "cardName": "Cvjetinović",
+    "originalVersionId": "1",
+    "clubId": 162,
+    "leagueId": 2076,
+    "countryId": 8,
+    "versionId": "3001",
+    "rating": 65,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      11
+    ],
+    "attributes": [
+      73,
+      25,
+      40,
+      45,
+      65,
+      71
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 67372738,
+    "assetId": 263874
   },
   "67385599": {
     "name": "Imad Rondić",
@@ -2686,7 +2829,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 16750,
     "resourceId": 84098082,
     "assetId": 212002
   }

@@ -105,7 +105,7 @@
       }
     },
     "20": {
-      "count": 45,
+      "count": 46,
       "file": "db/versions/20.json",
       "details": {
         "name": "FoF: Answer the Call",
@@ -260,6 +260,19 @@
         "tertiaryColor": "#94792e"
       }
     },
+    "38": {
+      "count": 3,
+      "file": "db/versions/38.json",
+      "details": {
+        "name": "FC Pro Leagues Live",
+        "hasStrip": true,
+        "createdAt": "2026-03-20T14:15:00.482Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_38_0.png",
+        "primaryColor": "#fcfcf7",
+        "secondaryColor": "#384361",
+        "tertiaryColor": "#8aa8ff"
+      }
+    },
     "42": {
       "count": 6,
       "file": "db/versions/42.json",
@@ -339,7 +352,7 @@
       }
     },
     "51": {
-      "count": 18,
+      "count": 19,
       "file": "db/versions/51.json",
       "details": {
         "name": "Flashback",
@@ -391,7 +404,7 @@
       }
     },
     "57": {
-      "count": 14,
+      "count": 15,
       "file": "db/versions/57.json",
       "details": {
         "name": "Showdown Upgrade",
@@ -404,7 +417,7 @@
       }
     },
     "58": {
-      "count": 16,
+      "count": 17,
       "file": "db/versions/58.json",
       "details": {
         "name": "Showdown",
@@ -872,7 +885,7 @@
       }
     },
     "2000": {
-      "count": 4997,
+      "count": 5012,
       "file": "db/versions/2000.json",
       "details": {
         "name": "Bronze Common",
@@ -885,7 +898,7 @@
       }
     },
     "2001": {
-      "count": 7031,
+      "count": 7052,
       "file": "db/versions/2001.json",
       "details": {
         "name": "Silver Common",
@@ -898,7 +911,7 @@
       }
     },
     "2002": {
-      "count": 1768,
+      "count": 1771,
       "file": "db/versions/2002.json",
       "details": {
         "name": "Gold Common",
@@ -911,7 +924,7 @@
       }
     },
     "3000": {
-      "count": 2684,
+      "count": 2695,
       "file": "db/versions/3000.json",
       "details": {
         "name": "Bronze Rare",
@@ -924,7 +937,7 @@
       }
     },
     "3001": {
-      "count": 3641,
+      "count": 3652,
       "file": "db/versions/3001.json",
       "details": {
         "name": "Silver Rare",
@@ -937,7 +950,7 @@
       }
     },
     "3002": {
-      "count": 959,
+      "count": 960,
       "file": "db/versions/3002.json",
       "details": {
         "name": "Gold Rare",
@@ -951,8 +964,8 @@
     }
   },
   "meta": {
-    "totalVersions": 73,
-    "totalVersionsWithoutBase": 67,
-    "updatedAt": "2026-03-22T17:37:51.094Z"
+    "totalVersions": 74,
+    "totalVersionsWithoutBase": 68,
+    "updatedAt": "2026-03-23T18:00:58.046Z"
   }
 }

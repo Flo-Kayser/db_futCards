@@ -143,7 +143,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 350,
       "resourceId": 212491,
       "assetId": 212491
     },
@@ -339,7 +339,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 240867,
       "assetId": 240867
     },
@@ -557,7 +557,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 450,
       "resourceId": 253969,
       "assetId": 253969
     },
@@ -596,7 +596,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 4300,
+      "price": 5800,
       "resourceId": 256442,
       "assetId": 256442
     },
@@ -665,7 +665,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 4200,
+      "price": 4700,
       "resourceId": 257138,
       "assetId": 257138
     },
@@ -741,7 +741,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 1200,
       "resourceId": 258483,
       "assetId": 258483
     },
@@ -892,7 +892,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 4500,
       "resourceId": 266424,
       "assetId": 266424
     },
@@ -1161,7 +1161,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 2900,
       "resourceId": 273898,
       "assetId": 273898
     },
@@ -1198,47 +1198,6 @@
       "price": 200,
       "resourceId": 274219,
       "assetId": 274219
-    },
-    "275048": {
-      "name": "Chemsdine Talbi",
-      "cardName": "Talbi",
-      "originalVersionId": "1",
-      "clubId": 106,
-      "leagueId": 13,
-      "countryId": 7,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "LM",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        26,
-        27,
-        37
-      ],
-      "attributes": [
-        90,
-        59,
-        64,
-        79,
-        47,
-        57
-      ],
-      "hasDynamicImage": false,
-      "price": 0,
-      "resourceId": 275048,
-      "assetId": 275048
     },
     "278813": {
       "name": "Marc Guiu",
@@ -1320,7 +1279,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 92000,
+      "price": 91500,
       "resourceId": 50531151,
       "assetId": 199503
     },
@@ -1450,7 +1409,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 26000,
+      "price": 30000,
       "resourceId": 50572007,
       "assetId": 240359
     },
@@ -1535,7 +1494,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 21250,
+      "price": 21000,
       "resourceId": 50575556,
       "assetId": 243908
     },
@@ -1700,7 +1659,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 29750,
+      "price": 24000,
       "resourceId": 50595446,
       "assetId": 263798
     },
@@ -1745,22 +1704,22 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 19000,
+      "price": 21000,
       "resourceId": 50598048,
       "assetId": 266400
     },
-    "50606696": {
+    "67383912": {
       "name": "Chemsdine Talbi",
       "cardName": "Talbi",
-      "originalVersionId": "1",
+      "originalVersionId": "38",
       "clubId": 106,
       "leagueId": 13,
       "countryId": 129,
-      "versionId": "3001",
-      "rating": 73,
+      "versionId": "38",
+      "rating": 88,
       "preferredFoot": "Right",
       "weakFoot": 4,
-      "skillMoves": 3,
+      "skillMoves": 5,
       "preferredPosition": "RM",
       "possiblePositions": [
         "LM",
@@ -1768,26 +1727,39 @@
         "RW"
       ],
       "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
+        0,
+        10,
+        12,
         23,
+        24,
         26,
+        8
+      ],
+      "playStylesPlus": [
+        20,
+        6
+      ],
+      "rolesPlus": [
         27,
-        37
+        30,
+        37,
+        123,
+        125,
+        126,
+        129,
+        135,
+        136
       ],
       "attributes": [
-        90,
-        59,
-        64,
-        79,
-        47,
-        57
+        92,
+        85,
+        86,
+        88,
+        65,
+        75
       ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50606696,
+      "sbcPrice": 41800,
+      "resourceId": 67383912,
       "assetId": 275048
     }
   }

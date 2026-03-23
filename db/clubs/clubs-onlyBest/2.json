@@ -161,40 +161,6 @@
       "resourceId": 216393,
       "assetId": 216393
     },
-    "221660": {
-      "name": "Victor Lindelöf",
-      "cardName": "Lindelöf",
-      "originalVersionId": "0",
-      "clubId": 2,
-      "leagueId": 13,
-      "countryId": 46,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11
-      ],
-      "attributes": [
-        52,
-        51,
-        72,
-        69,
-        78,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 221660,
-      "assetId": 221660
-    },
     "231447": {
       "name": "Donyell Malen",
       "cardName": "Malen",
@@ -233,7 +199,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 231447,
       "assetId": 231447
     },
@@ -638,7 +604,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 38750,
+      "price": 37500,
       "resourceId": 50534459,
       "assetId": 202811
     },
@@ -685,9 +651,57 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 31250,
       "resourceId": 50542529,
       "assetId": 210881
+    },
+    "50553308": {
+      "name": "Victor Lindelöf",
+      "cardName": "Lindelöf",
+      "originalVersionId": "58",
+      "clubId": 2,
+      "leagueId": 13,
+      "countryId": 46,
+      "versionId": "58",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        15,
+        16,
+        25,
+        26,
+        28
+      ],
+      "playStylesPlus": [
+        17,
+        9
+      ],
+      "rolesPlus": [
+        48,
+        111,
+        112,
+        113
+      ],
+      "attributes": [
+        83,
+        63,
+        84,
+        83,
+        90,
+        87
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 45000,
+      "resourceId": 50553308,
+      "assetId": 221660
     },
     "50557810": {
       "name": "Emiliano Buendía",
@@ -729,7 +743,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 26500,
+      "price": 33750,
       "resourceId": 50557810,
       "assetId": 226162
     },
@@ -769,7 +783,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 35000,
       "resourceId": 50558822,
       "assetId": 227174
     },
@@ -811,7 +825,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 14750,
+      "price": 13750,
       "resourceId": 50559326,
       "assetId": 227678
     },
@@ -1013,7 +1027,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 56000,
+      "price": 57000,
       "resourceId": 50580113,
       "assetId": 248465
     },
@@ -1056,7 +1070,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 4400,
       "resourceId": 50590580,
       "assetId": 258932
     },
@@ -1090,7 +1104,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 4600,
+      "price": 3100,
       "resourceId": 50591777,
       "assetId": 260129
     },
@@ -1127,7 +1141,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 20000,
       "resourceId": 67330561,
       "assetId": 221697
     },
@@ -1180,7 +1194,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 91000,
+      "price": 94500,
       "resourceId": 67345363,
       "assetId": 236499
     },
@@ -1233,7 +1247,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 37000,
+      "price": 37500,
       "resourceId": 67369111,
       "assetId": 260247
     }

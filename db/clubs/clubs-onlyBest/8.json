@@ -289,7 +289,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 1000,
       "resourceId": 232080,
       "assetId": 232080
     },
@@ -492,50 +492,6 @@
       "price": 350,
       "resourceId": 239360,
       "assetId": 239360
-    },
-    "242530": {
-      "name": "Noah Okafor",
-      "cardName": "Okafor",
-      "originalVersionId": "1",
-      "clubId": 8,
-      "leagueId": 13,
-      "countryId": 47,
-      "versionId": "3002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        22,
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        29,
-        39,
-        41,
-        42,
-        43
-      ],
-      "attributes": [
-        86,
-        76,
-        71,
-        80,
-        31,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 242530,
-      "assetId": 242530
     },
     "242656": {
       "name": "Illan Meslier",
@@ -1043,9 +999,99 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 116000,
+      "price": 123000,
       "resourceId": 50563752,
       "assetId": 232104
+    },
+    "50574178": {
+      "name": "Noah Okafor",
+      "cardName": "Okafor",
+      "originalVersionId": "38",
+      "clubId": 8,
+      "leagueId": 13,
+      "countryId": 47,
+      "versionId": "38",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        20,
+        24,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        22,
+        25
+      ],
+      "rolesPlus": [
+        30,
+        33,
+        39,
+        129,
+        132,
+        140,
+        141,
+        142,
+        143
+      ],
+      "attributes": [
+        91,
+        88,
+        83,
+        89,
+        45,
+        81
+      ],
+      "sbcPrice": 50350,
+      "resourceId": 50574178,
+      "assetId": 242530
+    },
+    "50578897": {
+      "name": "Joël Piroe",
+      "cardName": "Piroe",
+      "originalVersionId": "0",
+      "clubId": 8,
+      "leagueId": 13,
+      "countryId": 92,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        64,
+        78,
+        65,
+        72,
+        29,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50578897,
+      "assetId": 247249
     },
     "50579009": {
       "name": "Brenden Aaronson",
