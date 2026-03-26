@@ -35,7 +35,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 600,
       "resourceId": 72093,
       "assetId": 72093
     },
@@ -149,7 +149,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 550,
       "resourceId": 77692,
       "assetId": 77692
     },
@@ -416,7 +416,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 234577,
       "assetId": 234577
     },
@@ -504,7 +504,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 242380,
       "assetId": 242380
     },
@@ -673,7 +673,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 5700,
+      "price": 350,
       "resourceId": 251615,
       "assetId": 251615
     },
@@ -945,7 +945,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 1400,
       "resourceId": 274357,
       "assetId": 274357
     },
@@ -1016,7 +1016,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 250,
       "resourceId": 278587,
       "assetId": 278587
     },
@@ -1179,7 +1179,7 @@
         52
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 13750,
       "resourceId": 50404645,
       "assetId": 72997
     },
@@ -1214,7 +1214,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 2600,
       "resourceId": 50404697,
       "assetId": 73049
     },
@@ -1250,7 +1250,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 2900,
       "resourceId": 50407402,
       "assetId": 75754
     },
@@ -1305,7 +1305,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 12000,
       "resourceId": 50408681,
       "assetId": 77033
     },
@@ -1389,7 +1389,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 24250,
+      "price": 29750,
       "resourceId": 50552218,
       "assetId": 220570
     },
@@ -1483,7 +1483,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 15500,
       "resourceId": 50583263,
       "assetId": 251615
     },
@@ -1526,7 +1526,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 20500,
+      "price": 30000,
       "resourceId": 50584577,
       "assetId": 252929
     },
@@ -1567,7 +1567,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 350,
       "resourceId": 50586648,
       "assetId": 255000
     },
@@ -1611,7 +1611,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 0,
       "resourceId": 50590377,
       "assetId": 258729
     },
@@ -1703,7 +1703,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 19000,
       "resourceId": 67181861,
       "assetId": 72997
     },
@@ -1752,9 +1752,62 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 23500,
       "resourceId": 67184618,
       "assetId": 75754
+    },
+    "67325184": {
+      "name": "Seko Fofana",
+      "cardName": "Fofana",
+      "originalVersionId": "3",
+      "clubId": 236,
+      "leagueId": 308,
+      "countryId": 108,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        2,
+        24,
+        28,
+        29,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        11,
+        26
+      ],
+      "rolesPlus": [
+        15,
+        19,
+        21,
+        31,
+        33,
+        49,
+        114,
+        116
+      ],
+      "attributes": [
+        84,
+        85,
+        85,
+        87,
+        84,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 11500,
+      "resourceId": 67325184,
+      "assetId": 216320
     }
   }
 }

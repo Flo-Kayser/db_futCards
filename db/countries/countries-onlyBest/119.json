@@ -30,7 +30,7 @@
       46
     ],
     "hasDynamicImage": false,
-    "price": 3900,
+    "price": 1800,
     "resourceId": 76710,
     "assetId": 76710
   },
@@ -422,40 +422,6 @@
     "resourceId": 244559,
     "assetId": 244559
   },
-  "251892": {
-    "name": "Beto",
-    "cardName": "Beto",
-    "originalVersionId": "0",
-    "clubId": 7,
-    "leagueId": 13,
-    "countryId": 119,
-    "versionId": "2002",
-    "rating": 76,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      44
-    ],
-    "attributes": [
-      74,
-      77,
-      58,
-      68,
-      25,
-      82
-    ],
-    "hasDynamicImage": false,
-    "price": 350,
-    "resourceId": 251892,
-    "assetId": 251892
-  },
   "252970": {
     "name": "Armando Quitirna",
     "cardName": "Armando Quitirna",
@@ -563,7 +529,7 @@
       49
     ],
     "hasDynamicImage": false,
-    "price": 4400,
+    "price": 4500,
     "resourceId": 254683,
     "assetId": 254683
   },
@@ -676,7 +642,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 500,
     "resourceId": 258925,
     "assetId": 258925
   },
@@ -752,7 +718,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 2200,
+    "price": 2000,
     "resourceId": 274977,
     "assetId": 274977
   },
@@ -789,7 +755,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 250,
     "resourceId": 276442,
     "assetId": 276442
   },
@@ -941,5 +907,52 @@
     "price": 200,
     "resourceId": 50576207,
     "assetId": 244559
+  },
+  "50583540": {
+    "name": "Beto",
+    "cardName": "Beto",
+    "originalVersionId": "3",
+    "clubId": 7,
+    "leagueId": 13,
+    "countryId": 119,
+    "versionId": "3",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      21,
+      22,
+      29,
+      4
+    ],
+    "playStylesPlus": [
+      2,
+      24
+    ],
+    "rolesPlus": [
+      42,
+      43,
+      141,
+      144
+    ],
+    "attributes": [
+      87,
+      88,
+      75,
+      82,
+      36,
+      93
+    ],
+    "hasDynamicImage": true,
+    "price": 11250,
+    "resourceId": 50583540,
+    "assetId": 251892
   }
 }

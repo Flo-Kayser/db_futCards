@@ -31,7 +31,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 70966,
       "assetId": 70966
     },
@@ -214,7 +214,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 2200,
       "resourceId": 196889,
       "assetId": 196889
     },
@@ -433,7 +433,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 3000,
       "resourceId": 213829,
       "assetId": 213829
     },
@@ -582,7 +582,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 8000,
       "resourceId": 237586,
       "assetId": 237586
     },
@@ -1144,48 +1144,6 @@
       "resourceId": 273875,
       "assetId": 273875
     },
-    "275324": {
-      "name": "Assane Diao",
-      "cardName": "Diao",
-      "originalVersionId": "0",
-      "clubId": 1745,
-      "leagueId": 31,
-      "countryId": 136,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM"
-      ],
-      "playStyles": [
-        0,
-        21,
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        27,
-        30
-      ],
-      "attributes": [
-        90,
-        74,
-        67,
-        77,
-        36,
-        60
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 275324,
-      "assetId": 275324
-    },
     "279239": {
       "name": "Jayden Addai",
       "cardName": "Addai",
@@ -1272,7 +1230,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 11750,
       "resourceId": 50406703,
       "assetId": 75055
     },
@@ -1351,7 +1309,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 19750,
       "resourceId": 50532801,
       "assetId": 201153
     },
@@ -1466,6 +1424,63 @@
       "resourceId": 50602111,
       "assetId": 270463
     },
+    "50606972": {
+      "name": "Assane Diao",
+      "cardName": "Diao",
+      "originalVersionId": "3",
+      "clubId": 1745,
+      "leagueId": 31,
+      "countryId": 136,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        20,
+        22,
+        25,
+        9
+      ],
+      "playStylesPlus": [
+        21
+      ],
+      "rolesPlus": [
+        24,
+        25,
+        28,
+        30,
+        35,
+        37,
+        38,
+        40,
+        123,
+        126,
+        127,
+        136,
+        139
+      ],
+      "attributes": [
+        94,
+        85,
+        80,
+        87,
+        45,
+        72
+      ],
+      "hasDynamicImage": true,
+      "price": 11250,
+      "resourceId": 50606972,
+      "assetId": 275324
+    },
     "67332535": {
       "name": "Stefan Posch",
       "cardName": "Posch",
@@ -1501,7 +1516,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 22000,
+      "price": 19750,
       "resourceId": 67332535,
       "assetId": 223671
     },
@@ -1556,7 +1571,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 18750,
+      "price": 0,
       "resourceId": 67371706,
       "assetId": 262842
     },
@@ -1608,7 +1623,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 127000,
+      "price": 137000,
       "resourceId": 100941142,
       "assetId": 277846
     }

@@ -133,7 +133,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 5100,
       "resourceId": 77556,
       "assetId": 77556
     },
@@ -171,7 +171,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 500,
       "resourceId": 197716,
       "assetId": 197716
     },
@@ -247,7 +247,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 850,
       "resourceId": 202215,
       "assetId": 202215
     },
@@ -330,7 +330,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 210021,
       "assetId": 210021
     },
@@ -371,7 +371,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 10000,
       "resourceId": 211672,
       "assetId": 211672
     },
@@ -410,7 +410,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 7500,
+      "price": 5000,
       "resourceId": 212591,
       "assetId": 212591
     },
@@ -565,7 +565,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 4600,
       "resourceId": 231987,
       "assetId": 231987
     },
@@ -603,7 +603,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 2000,
       "resourceId": 239782,
       "assetId": 239782
     },
@@ -646,7 +646,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 5000,
       "resourceId": 251352,
       "assetId": 251352
     },
@@ -943,7 +943,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 900,
       "resourceId": 264366,
       "assetId": 264366
     },
@@ -1055,46 +1055,6 @@
       "resourceId": 50558033,
       "assetId": 226385
     },
-    "50565897": {
-      "name": "Sam Surridge",
-      "cardName": "Surridge",
-      "originalVersionId": "87",
-      "clubId": 114162,
-      "leagueId": 39,
-      "countryId": 14,
-      "versionId": "87",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        20,
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42,
-        44,
-        141
-      ],
-      "attributes": [
-        84,
-        84,
-        73,
-        81,
-        37,
-        82
-      ],
-      "isObjective": true,
-      "hasDynamicImage": true,
-      "resourceId": 50565897,
-      "assetId": 234249
-    },
     "50594885": {
       "name": "Thomas Williams",
       "cardName": "Williams",
@@ -1167,6 +1127,51 @@
       "price": 200,
       "resourceId": 50606313,
       "assetId": 274665
+    },
+    "67343113": {
+      "name": "Sam Surridge",
+      "cardName": "Surridge",
+      "originalVersionId": "3",
+      "clubId": 114162,
+      "leagueId": 39,
+      "countryId": 14,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        21,
+        22,
+        24,
+        5
+      ],
+      "playStylesPlus": [
+        2
+      ],
+      "rolesPlus": [
+        42,
+        43,
+        141,
+        144
+      ],
+      "attributes": [
+        85,
+        87,
+        75,
+        84,
+        40,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 11250,
+      "resourceId": 67343113,
+      "assetId": 234249
     }
   }
 }

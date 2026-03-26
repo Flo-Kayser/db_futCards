@@ -216,7 +216,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1400,
       "resourceId": 219985,
       "assetId": 219985
     },
@@ -417,7 +417,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 236496,
       "assetId": 236496
     },
@@ -455,7 +455,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1000,
       "resourceId": 237712,
       "assetId": 237712
     },
@@ -874,7 +874,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 6500,
       "resourceId": 278032,
       "assetId": 278032
     },
@@ -1057,7 +1057,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 21500,
+      "price": 23500,
       "resourceId": 50552150,
       "assetId": 220502
     },
@@ -1105,7 +1105,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 12500,
       "resourceId": 50580377,
       "assetId": 248729
     },
@@ -1224,7 +1224,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 31000,
+      "price": 30250,
       "resourceId": 50600452,
       "assetId": 268804
     },
@@ -1388,19 +1388,19 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 108000,
+      "price": 132000,
       "resourceId": 67360394,
       "assetId": 251530
     },
-    "67363873": {
+    "84141089": {
       "name": "Kenneth Taylor",
       "cardName": "Taylor",
-      "originalVersionId": "1",
+      "originalVersionId": "3",
       "clubId": 115841,
       "leagueId": 31,
       "countryId": 34,
-      "versionId": "3002",
-      "rating": 78,
+      "versionId": "3",
+      "rating": 85,
       "preferredFoot": "Left",
       "weakFoot": 5,
       "skillMoves": 3,
@@ -1411,26 +1411,33 @@
       ],
       "playStyles": [
         11,
+        26,
+        6,
         8,
         9
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        22
+      ],
       "rolesPlus": [
-        18,
-        22,
-        33
+        20,
+        21,
+        31,
+        33,
+        118,
+        122
       ],
       "attributes": [
-        73,
-        77,
-        78,
-        78,
-        67,
-        74
+        84,
+        85,
+        86,
+        86,
+        75,
+        84
       ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 67363873,
+      "hasDynamicImage": true,
+      "price": 11250,
+      "resourceId": 84141089,
       "assetId": 255009
     }
   }

@@ -101,7 +101,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 13000,
     "resourceId": 50534532,
     "assetId": 202884
   },
@@ -156,7 +156,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 34000,
+    "price": 38750,
     "resourceId": 50539058,
     "assetId": 207410
   },
@@ -211,7 +211,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 12250,
     "resourceId": 50545532,
     "assetId": 213884
   },
@@ -323,7 +323,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 12750,
     "resourceId": 50555982,
     "assetId": 224334
   },
@@ -473,7 +473,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 24750,
+    "price": 30750,
     "resourceId": 50557874,
     "assetId": 226226
   },
@@ -581,7 +581,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 16000,
     "resourceId": 50573843,
     "assetId": 242195
   },
@@ -848,7 +848,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 144000,
+    "price": 150000,
     "resourceId": 67312127,
     "assetId": 203263
   },
@@ -901,7 +901,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 15000,
     "resourceId": 67319466,
     "assetId": 210602
   },
@@ -994,7 +994,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 108000,
+    "price": 115000,
     "resourceId": 67329765,
     "assetId": 220901
   },
@@ -1052,7 +1052,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 33250,
+    "price": 36750,
     "resourceId": 67333022,
     "assetId": 224158
   },
@@ -1105,7 +1105,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 136250,
+    "sbcPrice": 139250,
     "resourceId": 67340145,
     "assetId": 231281
   },
@@ -1161,7 +1161,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 14500,
     "resourceId": 67342712,
     "assetId": 233848
   },
@@ -1220,7 +1220,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 122000,
+    "price": 129000,
     "resourceId": 67347608,
     "assetId": 238744
   },
@@ -1328,9 +1328,69 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 12250,
+    "price": 13000,
     "resourceId": 67351282,
     "assetId": 242418
+  },
+  "67353642": {
+    "name": "Trincão",
+    "cardName": "Trincão",
+    "originalVersionId": "20",
+    "clubId": 237,
+    "leagueId": 308,
+    "countryId": 38,
+    "versionId": "20",
+    "rating": 89,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      13,
+      20,
+      21,
+      22,
+      23,
+      8
+    ],
+    "playStylesPlus": [
+      11,
+      6
+    ],
+    "rolesPlus": [
+      23,
+      26,
+      34,
+      35,
+      36,
+      41,
+      43,
+      125,
+      131,
+      132,
+      133,
+      137,
+      142
+    ],
+    "attributes": [
+      90,
+      90,
+      88,
+      93,
+      48,
+      84
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 53000,
+    "resourceId": 67353642,
+    "assetId": 244778
   },
   "67360394": {
     "name": "Nuno Tavares",
@@ -1383,7 +1443,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 108000,
+    "price": 132000,
     "resourceId": 67360394,
     "assetId": 251530
   },
@@ -1443,6 +1503,58 @@
     "price": 11000,
     "resourceId": 67360497,
     "assetId": 251633
+  },
+  "67360818": {
+    "name": "Crysencio Summerville",
+    "cardName": "Summerville",
+    "originalVersionId": "20",
+    "clubId": 19,
+    "leagueId": 13,
+    "countryId": 34,
+    "versionId": "20",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      20,
+      21,
+      25,
+      26,
+      6,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      22
+    ],
+    "rolesPlus": [
+      27,
+      38,
+      128,
+      129,
+      130,
+      139,
+      140
+    ],
+    "attributes": [
+      97,
+      85,
+      85,
+      92,
+      47,
+      73
+    ],
+    "hasDynamicImage": false,
+    "sbcPrice": 99250,
+    "resourceId": 67360818,
+    "assetId": 251954
   },
   "67374442": {
     "name": "Ilias Akhomach",
@@ -1604,7 +1716,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 75000,
+    "price": 90000,
     "resourceId": 84096115,
     "assetId": 210035
   },
@@ -1661,7 +1773,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 50000,
+    "price": 59000,
     "resourceId": 84108572,
     "assetId": 222492
   },
@@ -1710,7 +1822,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 81500,
+    "price": 97000,
     "resourceId": 84122541,
     "assetId": 236461
   },
@@ -1764,7 +1876,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 199000,
+    "price": 218000,
     "resourceId": 84127176,
     "assetId": 241096
   },
@@ -1819,7 +1931,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 11750,
     "resourceId": 84133758,
     "assetId": 247678
   },
@@ -1873,7 +1985,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 30500,
+    "price": 33500,
     "resourceId": 84137039,
     "assetId": 250959
   },
@@ -1930,7 +2042,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 152000,
+    "sbcPrice": 151750,
     "resourceId": 84137650,
     "assetId": 251570
   },
@@ -1995,7 +2107,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 310000,
+    "price": 305000,
     "resourceId": 84137932,
     "assetId": 251852
   },
@@ -2052,7 +2164,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11000,
     "resourceId": 84138146,
     "assetId": 252066
   },
@@ -2108,7 +2220,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 2832000,
+    "price": 2683000,
     "resourceId": 84138451,
     "assetId": 252371
   },
@@ -2162,7 +2274,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 510000,
+    "price": 525000,
     "resourceId": 100879210,
     "assetId": 215914
   },
@@ -2219,7 +2331,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 201000,
+    "price": 228000,
     "resourceId": 100908663,
     "assetId": 245367
   },
@@ -2273,7 +2385,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 515000,
+    "price": 569000,
     "resourceId": 100909400,
     "assetId": 246104
   },
@@ -2327,7 +2439,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 1360000,
+    "price": 1392000,
     "resourceId": 100909487,
     "assetId": 246191
   },
@@ -2384,7 +2496,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 1150000,
+    "price": 1178000,
     "resourceId": 100919812,
     "assetId": 256516
   },
@@ -2432,7 +2544,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 54250,
+    "sbcPrice": 54750,
     "resourceId": 117699911,
     "assetId": 259399
   },
@@ -2487,7 +2599,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 408000,
+    "price": 440000,
     "resourceId": 117713346,
     "assetId": 272834
   }

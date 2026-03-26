@@ -143,7 +143,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 400,
       "resourceId": 212491,
       "assetId": 212491
     },
@@ -339,7 +339,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 3600,
+      "price": 3500,
       "resourceId": 240867,
       "assetId": 240867
     },
@@ -449,7 +449,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 2400,
       "resourceId": 246417,
       "assetId": 246417
     },
@@ -557,7 +557,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 600,
       "resourceId": 253969,
       "assetId": 253969
     },
@@ -596,7 +596,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 9000,
       "resourceId": 256442,
       "assetId": 256442
     },
@@ -741,7 +741,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 10000,
       "resourceId": 258483,
       "assetId": 258483
     },
@@ -892,7 +892,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 5400,
       "resourceId": 266424,
       "assetId": 266424
     },
@@ -1161,7 +1161,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 3300,
       "resourceId": 273898,
       "assetId": 273898
     },
@@ -1279,7 +1279,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 110000,
+      "price": 97500,
       "resourceId": 50531151,
       "assetId": 199503
     },
@@ -1409,7 +1409,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 29500,
+      "price": 30000,
       "resourceId": 50572007,
       "assetId": 240359
     },
@@ -1494,7 +1494,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 22750,
+      "price": 22000,
       "resourceId": 50575556,
       "assetId": 243908
     },
@@ -1548,42 +1548,6 @@
       "hasDynamicImage": true,
       "resourceId": 50577998,
       "assetId": 246350
-    },
-    "50583458": {
-      "name": "Brian Brobbey",
-      "cardName": "Brobbey",
-      "originalVersionId": "1",
-      "clubId": 106,
-      "leagueId": 13,
-      "countryId": 34,
-      "versionId": "3002",
-      "rating": 77,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        29
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        144
-      ],
-      "attributes": [
-        84,
-        73,
-        56,
-        72,
-        30,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 850,
-      "resourceId": 50583458,
-      "assetId": 251810
     },
     "50591635": {
       "name": "Melker Ellborg",
@@ -1659,7 +1623,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 27000,
+      "price": 35000,
       "resourceId": 50595446,
       "assetId": 263798
     },
@@ -1704,9 +1668,54 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 20250,
+      "price": 22500,
       "resourceId": 50598048,
       "assetId": 266400
+    },
+    "67360674": {
+      "name": "Brian Brobbey",
+      "cardName": "Brobbey",
+      "originalVersionId": "3",
+      "clubId": 106,
+      "leagueId": 13,
+      "countryId": 34,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        2,
+        24,
+        25,
+        7
+      ],
+      "playStylesPlus": [
+        29
+      ],
+      "rolesPlus": [
+        42,
+        43,
+        141,
+        144
+      ],
+      "attributes": [
+        92,
+        84,
+        70,
+        83,
+        40,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 11250,
+      "resourceId": 67360674,
+      "assetId": 251810
     },
     "67383912": {
       "name": "Chemsdine Talbi",
@@ -1759,7 +1768,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 43500,
+      "sbcPrice": 45000,
       "resourceId": 67383912,
       "assetId": 275048
     }

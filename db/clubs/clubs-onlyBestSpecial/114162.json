@@ -1,44 +1,49 @@
 {
   "clubName": "Nashville SC",
   "players": {
-    "50565897": {
+    "67343113": {
       "name": "Sam Surridge",
       "cardName": "Surridge",
-      "originalVersionId": "87",
+      "originalVersionId": "3",
       "clubId": 114162,
       "leagueId": 39,
       "countryId": 14,
-      "versionId": "87",
-      "rating": 83,
+      "versionId": "3",
+      "rating": 85,
       "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
+      "weakFoot": 4,
+      "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
         "ST"
       ],
       "playStyles": [
         0,
-        20,
-        25
+        21,
+        22,
+        24,
+        5
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        2
+      ],
       "rolesPlus": [
         42,
-        44,
-        141
+        43,
+        141,
+        144
       ],
       "attributes": [
+        85,
+        87,
+        75,
         84,
-        84,
-        73,
-        81,
-        37,
-        82
+        40,
+        86
       ],
-      "isObjective": true,
       "hasDynamicImage": true,
-      "resourceId": 50565897,
+      "price": 11250,
+      "resourceId": 67343113,
       "assetId": 234249
     }
   }

@@ -69,7 +69,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2800,
+      "price": 2500,
       "resourceId": 76250,
       "assetId": 76250
     },
@@ -182,7 +182,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 0,
       "resourceId": 233048,
       "assetId": 233048
     },
@@ -646,7 +646,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 2600,
       "resourceId": 266605,
       "assetId": 266605
     },
@@ -683,7 +683,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1300,
       "resourceId": 268530,
       "assetId": 268530
     },
@@ -1097,7 +1097,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 115000,
+      "price": 153000,
       "resourceId": 50515042,
       "assetId": 183394
     },
@@ -1146,7 +1146,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 14000,
       "resourceId": 50532169,
       "assetId": 200521
     },
@@ -1192,7 +1192,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 29500,
       "resourceId": 50574442,
       "assetId": 242794
     },
@@ -1233,43 +1233,6 @@
       "resourceId": 50590863,
       "assetId": 259215
     },
-    "50593819": {
-      "name": "Edoardo Bove",
-      "cardName": "Bove",
-      "originalVersionId": "1",
-      "clubId": 1795,
-      "leagueId": 14,
-      "countryId": 27,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CM"
-      ],
-      "playStyles": [
-        18,
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18
-      ],
-      "attributes": [
-        66,
-        69,
-        68,
-        75,
-        76,
-        66
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50593819,
-      "assetId": 262171
-    },
     "50610726": {
       "name": "Othmane Maamma",
       "cardName": "Maamma",
@@ -1305,6 +1268,52 @@
       "price": 0,
       "resourceId": 50610726,
       "assetId": 279078
+    },
+    "67371035": {
+      "name": "Edoardo Bove",
+      "cardName": "Bove",
+      "originalVersionId": "3",
+      "clubId": 1795,
+      "leagueId": 14,
+      "countryId": 27,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        18,
+        20,
+        22,
+        26
+      ],
+      "playStylesPlus": [
+        16,
+        9
+      ],
+      "rolesPlus": [
+        19,
+        20,
+        118,
+        121
+      ],
+      "attributes": [
+        84,
+        83,
+        82,
+        88,
+        89,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 11500,
+      "resourceId": 67371035,
+      "assetId": 262171
     }
   }
 }

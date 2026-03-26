@@ -453,40 +453,6 @@
       "resourceId": 247649,
       "assetId": 247649
     },
-    "251892": {
-      "name": "Beto",
-      "cardName": "Beto",
-      "originalVersionId": "0",
-      "clubId": 7,
-      "leagueId": 13,
-      "countryId": 119,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        44
-      ],
-      "attributes": [
-        74,
-        77,
-        58,
-        68,
-        25,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 251892,
-      "assetId": 251892
-    },
     "253510": {
       "name": "Jake O'Brien",
       "cardName": "O'Brien",
@@ -669,7 +635,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1200,
       "resourceId": 268631,
       "assetId": 268631
     },
@@ -803,6 +769,53 @@
       "resourceId": 50569034,
       "assetId": 237386
     },
+    "50583540": {
+      "name": "Beto",
+      "cardName": "Beto",
+      "originalVersionId": "3",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 119,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        21,
+        22,
+        29,
+        4
+      ],
+      "playStylesPlus": [
+        2,
+        24
+      ],
+      "rolesPlus": [
+        42,
+        43,
+        141,
+        144
+      ],
+      "attributes": [
+        87,
+        88,
+        75,
+        82,
+        36,
+        93
+      ],
+      "hasDynamicImage": true,
+      "price": 11250,
+      "resourceId": 50583540,
+      "assetId": 251892
+    },
     "50591362": {
       "name": "Merlin Röhl",
       "cardName": "Röhl",
@@ -932,7 +945,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 50611145,
       "assetId": 279497
     },
@@ -1033,7 +1046,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 36750,
       "resourceId": 67313799,
       "assetId": 204935
     },

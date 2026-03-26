@@ -529,7 +529,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1000,
       "resourceId": 203026,
       "assetId": 203026
     },
@@ -609,43 +609,6 @@
       "price": 200,
       "resourceId": 239393,
       "assetId": 239393
-    },
-    "241552": {
-      "name": "Jacob Italiano",
-      "cardName": "Italiano",
-      "originalVersionId": "0",
-      "clubId": 113616,
-      "leagueId": 80,
-      "countryId": 195,
-      "versionId": "2000",
-      "rating": 63,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM",
-        "RM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9,
-        29
-      ],
-      "attributes": [
-        76,
-        56,
-        59,
-        69,
-        58,
-        56
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 241552,
-      "assetId": 241552
     },
     "244522": {
       "name": "Murat Şatin",
@@ -825,7 +788,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 850,
       "resourceId": 263949,
       "assetId": 263949
     },
@@ -865,7 +828,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 273652,
       "assetId": 273652
     },
@@ -939,6 +902,63 @@
       "price": 200,
       "resourceId": 50410441,
       "assetId": 78793
+    },
+    "50573200": {
+      "name": "Jacob Italiano",
+      "cardName": "Italiano",
+      "originalVersionId": "3",
+      "clubId": 113616,
+      "leagueId": 80,
+      "countryId": 195,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        12,
+        20,
+        22,
+        24,
+        25
+      ],
+      "playStylesPlus": [
+        5
+      ],
+      "rolesPlus": [
+        9,
+        10,
+        24,
+        26,
+        28,
+        29,
+        36,
+        37,
+        107,
+        123,
+        125,
+        127,
+        135
+      ],
+      "attributes": [
+        93,
+        80,
+        81,
+        91,
+        80,
+        78
+      ],
+      "hasDynamicImage": true,
+      "price": 11250,
+      "resourceId": 50573200,
+      "assetId": 241552
     },
     "50575829": {
       "name": "Leon Klassen",

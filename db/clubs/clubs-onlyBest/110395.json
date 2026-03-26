@@ -176,7 +176,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 1100,
       "resourceId": 74825,
       "assetId": 74825
     },
@@ -246,7 +246,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 4200,
+      "price": 1800,
       "resourceId": 77022,
       "assetId": 77022
     },
@@ -280,7 +280,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 3800,
       "resourceId": 78077,
       "assetId": 78077
     },
@@ -317,7 +317,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 5400,
+      "price": 1000,
       "resourceId": 186695,
       "assetId": 186695
     },
@@ -357,7 +357,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 4900,
       "resourceId": 188268,
       "assetId": 188268
     },
@@ -684,7 +684,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 235467,
       "assetId": 235467
     },
@@ -986,7 +986,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 5000,
       "resourceId": 262283,
       "assetId": 262283
     },
@@ -1098,7 +1098,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 250,
       "resourceId": 268749,
       "assetId": 268749
     },
@@ -1136,7 +1136,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 2400,
       "resourceId": 270036,
       "assetId": 270036
     },
@@ -1215,42 +1215,6 @@
       "resourceId": 273080,
       "assetId": 273080
     },
-    "278454": {
-      "name": "Dylan Aquino",
-      "cardName": "Aquino",
-      "originalVersionId": "0",
-      "clubId": 110395,
-      "leagueId": 353,
-      "countryId": 52,
-      "versionId": "2000",
-      "rating": 62,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        27,
-        40
-      ],
-      "attributes": [
-        83,
-        45,
-        57,
-        65,
-        35,
-        42
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 278454,
-      "assetId": 278454
-    },
     "50552272": {
       "name": "Lucas Acosta",
       "cardName": "Acosta",
@@ -1320,7 +1284,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 31500,
+      "price": 39750,
       "resourceId": 50554066,
       "assetId": 222418
     },
@@ -1514,6 +1478,55 @@
       "price": 200,
       "resourceId": 50599501,
       "assetId": 267853
+    },
+    "50610102": {
+      "name": "Dylan Aquino",
+      "cardName": "Aquino",
+      "originalVersionId": "3",
+      "clubId": 110395,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20,
+        21,
+        22,
+        23,
+        8
+      ],
+      "playStylesPlus": [
+        0
+      ],
+      "rolesPlus": [
+        28,
+        29,
+        39,
+        40,
+        127,
+        130,
+        138
+      ],
+      "attributes": [
+        92,
+        80,
+        82,
+        88,
+        58,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 11250,
+      "resourceId": 50610102,
+      "assetId": 278454
     }
   }
 }
