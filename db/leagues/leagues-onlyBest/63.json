@@ -279,7 +279,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1100,
     "resourceId": 77338,
     "assetId": 77338
   },
@@ -314,7 +314,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 4800,
+    "price": 4300,
     "resourceId": 78127,
     "assetId": 78127
   },
@@ -386,7 +386,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 3900,
+    "price": 5100,
     "resourceId": 79110,
     "assetId": 79110
   },
@@ -595,7 +595,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 4400,
+    "price": 4200,
     "resourceId": 80285,
     "assetId": 80285
   },
@@ -712,7 +712,7 @@
       49
     ],
     "hasDynamicImage": false,
-    "price": 3500,
+    "price": 3400,
     "resourceId": 193476,
     "assetId": 193476
   },
@@ -1133,7 +1133,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 750,
     "resourceId": 209620,
     "assetId": 209620
   },
@@ -1248,7 +1248,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 10000,
     "resourceId": 211300,
     "assetId": 211300
   },
@@ -1362,7 +1362,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 7800,
+    "price": 10000,
     "resourceId": 212187,
     "assetId": 212187
   },
@@ -1435,7 +1435,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 400,
     "resourceId": 215502,
     "assetId": 215502
   },
@@ -1694,7 +1694,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 3000,
+    "price": 1200,
     "resourceId": 221605,
     "assetId": 221605
   },
@@ -2601,7 +2601,7 @@
       49
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 400,
     "resourceId": 235949,
     "assetId": 235949
   },
@@ -2892,7 +2892,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 850,
     "resourceId": 240702,
     "assetId": 240702
   },
@@ -3192,7 +3192,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 800,
     "resourceId": 247641,
     "assetId": 247641
   },
@@ -3795,7 +3795,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 2400,
+    "price": 4200,
     "resourceId": 262822,
     "assetId": 262822
   },
@@ -4011,7 +4011,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 1400,
+    "price": 1000,
     "resourceId": 278137,
     "assetId": 278137
   },
@@ -4171,7 +4171,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 36500,
+    "price": 38500,
     "resourceId": 50526734,
     "assetId": 195086
   },
@@ -4209,7 +4209,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 39250,
+    "price": 41500,
     "resourceId": 50543799,
     "assetId": 212151
   },
@@ -4659,7 +4659,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 25000,
     "resourceId": 50592491,
     "assetId": 260843
   },
@@ -4738,7 +4738,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 1100,
+    "price": 750,
     "resourceId": 50595978,
     "assetId": 264330
   },
@@ -4818,6 +4818,45 @@
     "resourceId": 50603125,
     "assetId": 271477
   },
+  "50609673": {
+    "name": "André Luiz",
+    "cardName": "André Luiz",
+    "originalVersionId": "1",
+    "clubId": 280,
+    "leagueId": 63,
+    "countryId": 54,
+    "versionId": "3001",
+    "rating": 69,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      23,
+      26,
+      36,
+      39
+    ],
+    "attributes": [
+      86,
+      66,
+      56,
+      73,
+      20,
+      64
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50609673,
+    "assetId": 278025
+  },
   "50611157": {
     "name": "Hakim Sahabo",
     "cardName": "Sahabo",
@@ -4853,5 +4892,44 @@
     "price": 200,
     "resourceId": 50611157,
     "assetId": 279509
+  },
+  "67292258": {
+    "name": "Moussa Sissoko",
+    "cardName": "Sissoko",
+    "originalVersionId": "1",
+    "clubId": 1884,
+    "leagueId": 63,
+    "countryId": 18,
+    "versionId": "3001",
+    "rating": 72,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      19
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      18,
+      23
+    ],
+    "attributes": [
+      51,
+      64,
+      72,
+      70,
+      70,
+      80
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 67292258,
+    "assetId": 183394
   }
 }

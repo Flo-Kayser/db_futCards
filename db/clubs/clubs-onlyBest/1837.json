@@ -106,7 +106,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 10000,
       "resourceId": 198857,
       "assetId": 198857
     },
@@ -220,7 +220,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 10000,
       "resourceId": 213685,
       "assetId": 213685
     },
@@ -557,7 +557,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 200,
       "resourceId": 244672,
       "assetId": 244672
     },
@@ -591,7 +591,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 4300,
       "resourceId": 257777,
       "assetId": 257777
     },
@@ -632,7 +632,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 700,
       "resourceId": 263647,
       "assetId": 263647
     },
@@ -666,7 +666,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 750,
       "resourceId": 264467,
       "assetId": 264467
     },
@@ -706,7 +706,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1000,
       "resourceId": 266158,
       "assetId": 266158
     },
@@ -1079,6 +1079,90 @@
       "price": 350,
       "resourceId": 50568439,
       "assetId": 236791
+    },
+    "50573276": {
+      "name": "Nicholas Pierini",
+      "cardName": "Pierini",
+      "originalVersionId": "1",
+      "clubId": 1837,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "3001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        36,
+        39,
+        41,
+        43
+      ],
+      "attributes": [
+        87,
+        70,
+        65,
+        75,
+        39,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50573276,
+      "assetId": 241628
+    },
+    "50583599": {
+      "name": "Manuel Cicconi",
+      "cardName": "Cicconi",
+      "originalVersionId": "0",
+      "clubId": 1837,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        27,
+        29
+      ],
+      "attributes": [
+        71,
+        63,
+        69,
+        69,
+        47,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50583599,
+      "assetId": 251951
     },
     "50583938": {
       "name": "Salvatore Esposito",
