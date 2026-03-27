@@ -523,51 +523,6 @@
       "resourceId": 265054,
       "assetId": 265054
     },
-    "265063": {
-      "name": "Janina Minge",
-      "cardName": "Minge",
-      "originalVersionId": "1",
-      "clubId": 115998,
-      "leagueId": 2215,
-      "countryId": 21,
-      "versionId": "3002",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CB",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        16,
-        19,
-        26,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        15,
-        20,
-        48,
-        119
-      ],
-      "attributes": [
-        70,
-        79,
-        80,
-        81,
-        77,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 800,
-      "resourceId": 265063,
-      "assetId": 265063
-    },
     "265408": {
       "name": "Caitlin Dijkstra",
       "cardName": "Dijkstra",
@@ -833,7 +788,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 11500,
       "resourceId": 50573495,
       "assetId": 241847
     },
@@ -872,9 +827,65 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 13750,
+      "price": 15000,
       "resourceId": 50596703,
       "assetId": 265055
+    },
+    "50596711": {
+      "name": "Janina Minge",
+      "cardName": "Minge",
+      "originalVersionId": "32",
+      "clubId": 115998,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "32",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        14,
+        16,
+        19,
+        20,
+        22,
+        26,
+        28,
+        8
+      ],
+      "playStylesPlus": [
+        10,
+        9
+      ],
+      "rolesPlus": [
+        11,
+        15,
+        18,
+        21,
+        48,
+        112,
+        114,
+        116,
+        119,
+        120
+      ],
+      "attributes": [
+        88,
+        85,
+        87,
+        88,
+        86,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50596711,
+      "assetId": 265063
     },
     "50597057": {
       "name": "Janou Levels",

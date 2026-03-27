@@ -478,7 +478,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 279000,
+      "price": 301000,
       "resourceId": 67344654,
       "assetId": 235790
     },
@@ -625,7 +625,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 483500,
+      "sbcPrice": 490500,
       "price": 615950,
       "resourceId": 67355533,
       "assetId": 246669
@@ -672,7 +672,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 79500,
+      "price": 81000,
       "resourceId": 67360430,
       "assetId": 251566
     },
@@ -778,9 +778,65 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 50500,
+      "price": 54500,
       "resourceId": 67363660,
       "assetId": 254796
+    },
+    "67365061": {
+      "name": "Piero Hincapié",
+      "cardName": "Hincapié",
+      "originalVersionId": "124",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 57,
+      "versionId": "124",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        10,
+        12,
+        14,
+        15,
+        17,
+        18,
+        21
+      ],
+      "playStylesPlus": [
+        25,
+        28
+      ],
+      "rolesPlus": [
+        10,
+        13,
+        27,
+        28,
+        47,
+        48,
+        107,
+        108,
+        109,
+        111,
+        129
+      ],
+      "attributes": [
+        92,
+        50,
+        83,
+        86,
+        92,
+        90
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67365061,
+      "assetId": 256197
     },
     "67366575": {
       "name": "Riccardo Calafiori",
@@ -881,59 +937,6 @@
       "resourceId": 84111273,
       "assetId": 225193
     },
-    "84121874": {
-      "name": "Eberechi Eze",
-      "cardName": "Eze",
-      "originalVersionId": "3",
-      "clubId": 1,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "3",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        2,
-        3,
-        5,
-        7
-      ],
-      "playStylesPlus": [
-        20,
-        22
-      ],
-      "rolesPlus": [
-        31,
-        33,
-        38,
-        40,
-        41,
-        42,
-        132,
-        139,
-        143
-      ],
-      "attributes": [
-        86,
-        86,
-        88,
-        91,
-        55,
-        75
-      ],
-      "hasDynamicImage": true,
-      "price": 34750,
-      "resourceId": 84121874,
-      "assetId": 235794
-    },
     "100897674": {
       "name": "Declan Rice",
       "cardName": "Rice",
@@ -982,9 +985,65 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 825000,
+      "price": 819000,
       "resourceId": 100897674,
       "assetId": 234378
+    },
+    "100899090": {
+      "name": "Eberechi Eze",
+      "cardName": "Eze",
+      "originalVersionId": "124",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "124",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        13,
+        2,
+        21,
+        22,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        20
+      ],
+      "rolesPlus": [
+        33,
+        40,
+        42,
+        43,
+        131,
+        132,
+        134,
+        138,
+        139,
+        141
+      ],
+      "attributes": [
+        90,
+        91,
+        91,
+        92,
+        57,
+        80
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 325000,
+      "resourceId": 100899090,
+      "assetId": 235794
     }
   }
 }

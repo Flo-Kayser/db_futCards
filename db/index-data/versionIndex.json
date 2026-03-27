@@ -221,6 +221,19 @@
         "tertiaryColor": "#ff6d4f"
       }
     },
+    "32": {
+      "count": 10,
+      "file": "db/versions/32.json",
+      "details": {
+        "name": "UEFA Women's Champions League Road to the Final",
+        "hasStrip": true,
+        "createdAt": "2026-03-26T19:45:00.432Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_32_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#003469",
+        "tertiaryColor": "#00eeff"
+      }
+    },
     "33": {
       "count": 54,
       "file": "db/versions/33.json",
@@ -728,6 +741,45 @@
         "tertiaryColor": "#99f4ef"
       }
     },
+    "124": {
+      "count": 15,
+      "file": "db/versions/124.json",
+      "details": {
+        "name": "UEFA Champions League Road to the Final",
+        "hasStrip": true,
+        "createdAt": "2026-03-26T19:45:00.432Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_124_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#010056",
+        "tertiaryColor": "#00eeff"
+      }
+    },
+    "125": {
+      "count": 10,
+      "file": "db/versions/125.json",
+      "details": {
+        "name": "UEFA Europa League Road to the Final",
+        "hasStrip": true,
+        "createdAt": "2025-09-17T17:01:45.964Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_125_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#3b1904",
+        "tertiaryColor": "#ff6900"
+      }
+    },
+    "126": {
+      "count": 11,
+      "file": "db/versions/126.json",
+      "details": {
+        "name": "UEFA Conference League Road to the Final",
+        "hasStrip": true,
+        "createdAt": "2025-09-17T17:01:45.964Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_126_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#002d08",
+        "tertiaryColor": "#00be14"
+      }
+    },
     "135": {
       "count": 23,
       "file": "db/versions/135.json",
@@ -964,8 +1016,8 @@
     }
   },
   "meta": {
-    "totalVersions": 74,
-    "totalVersionsWithoutBase": 68,
-    "updatedAt": "2026-03-27T18:00:11.465Z"
+    "totalVersions": 78,
+    "totalVersionsWithoutBase": 72,
+    "updatedAt": "2026-03-27T18:42:55.435Z"
   }
 }

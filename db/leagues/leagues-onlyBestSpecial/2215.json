@@ -309,7 +309,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 11500,
     "resourceId": 50573495,
     "assetId": 241847
   },
@@ -356,7 +356,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 12250,
     "resourceId": 50579161,
     "assetId": 247513
   },
@@ -401,7 +401,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 26000,
     "resourceId": 50580363,
     "assetId": 248715
   },
@@ -446,7 +446,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 19500,
+    "price": 19000,
     "resourceId": 50580365,
     "assetId": 248717
   },
@@ -697,7 +697,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 36750,
+    "price": 37250,
     "resourceId": 50596595,
     "assetId": 264947
   },
@@ -894,7 +894,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 15000,
     "resourceId": 50596703,
     "assetId": 265055
   },
@@ -948,6 +948,62 @@
     "price": 13500,
     "resourceId": 50596706,
     "assetId": 265058
+  },
+  "50596711": {
+    "name": "Janina Minge",
+    "cardName": "Minge",
+    "originalVersionId": "32",
+    "clubId": 115998,
+    "leagueId": 2215,
+    "countryId": 21,
+    "versionId": "32",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      14,
+      16,
+      19,
+      20,
+      22,
+      26,
+      28,
+      8
+    ],
+    "playStylesPlus": [
+      10,
+      9
+    ],
+    "rolesPlus": [
+      11,
+      15,
+      18,
+      21,
+      48,
+      112,
+      114,
+      116,
+      119,
+      120
+    ],
+    "attributes": [
+      88,
+      85,
+      87,
+      88,
+      86,
+      85
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50596711,
+    "assetId": 265063
   },
   "50596717": {
     "name": "Lisa Karl",
@@ -1312,7 +1368,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 13500,
     "resourceId": 50608155,
     "assetId": 276507
   },
@@ -1602,7 +1658,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 25750,
     "resourceId": 67335237,
     "assetId": 226373
   },
@@ -1980,7 +2036,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 21250,
+    "price": 20750,
     "resourceId": 67373889,
     "assetId": 265025
   },
@@ -2172,72 +2228,9 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 14000,
+    "price": 15000,
     "resourceId": 84129484,
     "assetId": 243404
-  },
-  "84134902": {
-    "name": "Klara Bühl",
-    "cardName": "Bühl",
-    "originalVersionId": "117",
-    "clubId": 115995,
-    "leagueId": 2215,
-    "countryId": 21,
-    "versionId": "117",
-    "rating": 89,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "CAM",
-      "LB",
-      "LM",
-      "LW",
-      "RM",
-      "RW",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      12,
-      14,
-      21,
-      24,
-      3,
-      6
-    ],
-    "playStylesPlus": [
-      8
-    ],
-    "rolesPlus": [
-      10,
-      23,
-      27,
-      32,
-      35,
-      38,
-      41,
-      109,
-      126,
-      130,
-      133,
-      136,
-      139,
-      143
-    ],
-    "attributes": [
-      88,
-      87,
-      86,
-      89,
-      70,
-      80
-    ],
-    "hasDynamicImage": true,
-    "price": 20250,
-    "resourceId": 84134902,
-    "assetId": 248822
   },
   "84145367": {
     "name": "Pernille Harder",
@@ -2282,5 +2275,57 @@
     "price": 12750,
     "resourceId": 84145367,
     "assetId": 259287
+  },
+  "100912118": {
+    "name": "Klara Bühl",
+    "cardName": "Bühl",
+    "originalVersionId": "32",
+    "clubId": 115995,
+    "leagueId": 2215,
+    "countryId": 21,
+    "versionId": "32",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      11,
+      12,
+      20,
+      21,
+      24,
+      25,
+      3,
+      6
+    ],
+    "playStylesPlus": [
+      0,
+      8
+    ],
+    "rolesPlus": [
+      28,
+      29,
+      40,
+      127,
+      130,
+      138,
+      139
+    ],
+    "attributes": [
+      91,
+      91,
+      90,
+      92,
+      75,
+      85
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 100912118,
+    "assetId": 248822
   }
 }

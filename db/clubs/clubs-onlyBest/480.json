@@ -504,48 +504,6 @@
       "resourceId": 243558,
       "assetId": 243558
     },
-    "248165": {
-      "name": "Andrei Rațiu",
-      "cardName": "Rațiu",
-      "originalVersionId": "1",
-      "clubId": 480,
-      "leagueId": 53,
-      "countryId": 39,
-      "versionId": "3002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        15,
-        21,
-        25,
-        27
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5,
-        6,
-        23
-      ],
-      "attributes": [
-        92,
-        60,
-        74,
-        79,
-        74,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 750,
-      "resourceId": 248165,
-      "assetId": 248165
-    },
     "248805": {
       "name": "Sergio Camello",
       "cardName": "Sergio Camello",
@@ -811,45 +769,6 @@
       "resourceId": 272486,
       "assetId": 272486
     },
-    "276895": {
-      "name": "Alemão",
-      "cardName": "Alemão",
-      "originalVersionId": "1",
-      "clubId": 480,
-      "leagueId": 53,
-      "countryId": 54,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        2,
-        24,
-        29,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        44
-      ],
-      "attributes": [
-        73,
-        74,
-        63,
-        70,
-        26,
-        83
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 276895,
-      "assetId": 276895
-    },
     "50504678": {
       "name": "Óscar Trejo",
       "cardName": "Trejo",
@@ -937,7 +856,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 22250,
+      "price": 22750,
       "resourceId": 50554038,
       "assetId": 222390
     },
@@ -1090,6 +1009,58 @@
       "resourceId": 50578779,
       "assetId": 247131
     },
+    "50579813": {
+      "name": "Andrei Rațiu",
+      "cardName": "Rațiu",
+      "originalVersionId": "126",
+      "clubId": 480,
+      "leagueId": 53,
+      "countryId": 39,
+      "versionId": "126",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        14,
+        15,
+        16,
+        21,
+        25,
+        28
+      ],
+      "playStylesPlus": [
+        12,
+        17
+      ],
+      "rolesPlus": [
+        4,
+        24,
+        26,
+        46,
+        103,
+        105,
+        106,
+        123
+      ],
+      "attributes": [
+        94,
+        75,
+        85,
+        90,
+        88,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50579813,
+      "assetId": 248165
+    },
     "50583404": {
       "name": "Randy Nteka",
       "cardName": "Nteka",
@@ -1164,6 +1135,54 @@
       "price": 200,
       "resourceId": 50597044,
       "assetId": 265396
+    },
+    "50608543": {
+      "name": "Alemão",
+      "cardName": "Alemão",
+      "originalVersionId": "126",
+      "clubId": 480,
+      "leagueId": 53,
+      "countryId": 54,
+      "versionId": "126",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        21,
+        22,
+        24,
+        4,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        2,
+        29
+      ],
+      "rolesPlus": [
+        43,
+        141,
+        142,
+        144
+      ],
+      "attributes": [
+        87,
+        88,
+        84,
+        87,
+        40,
+        90
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50608543,
+      "assetId": 276895
     },
     "67374442": {
       "name": "Ilias Akhomach",

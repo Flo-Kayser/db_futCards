@@ -223,7 +223,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 9800,
+      "price": 8800,
       "resourceId": 265396,
       "assetId": 265396
     },
@@ -426,7 +426,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 34000,
+      "price": 36500,
       "resourceId": 50548108,
       "assetId": 216460
     },
@@ -480,55 +480,6 @@
       "sbcPrice": 56250,
       "resourceId": 50562547,
       "assetId": 230899
-    },
-    "50564732": {
-      "name": "Nahuel Molina",
-      "cardName": "Molina",
-      "originalVersionId": "3",
-      "clubId": 240,
-      "leagueId": 53,
-      "countryId": 52,
-      "versionId": "3",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        12,
-        15,
-        16,
-        17,
-        25
-      ],
-      "playStylesPlus": [
-        7
-      ],
-      "rolesPlus": [
-        3,
-        4,
-        25,
-        26,
-        105,
-        106,
-        123
-      ],
-      "attributes": [
-        90,
-        79,
-        81,
-        85,
-        84,
-        82
-      ],
-      "hasDynamicImage": true,
-      "price": 12250,
-      "resourceId": 50564732,
-      "assetId": 233084
     },
     "50565134": {
       "name": "Robin Le Normand",
@@ -807,7 +758,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 200,
       "resourceId": 50610171,
       "assetId": 278523
     },
@@ -859,7 +810,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 54500,
+      "price": 63500,
       "resourceId": 67302611,
       "assetId": 193747
     },
@@ -914,9 +865,61 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 395000,
+      "price": 410000,
       "resourceId": 67303629,
       "assetId": 194765
+    },
+    "67341948": {
+      "name": "Nahuel Molina",
+      "cardName": "Molina",
+      "originalVersionId": "124",
+      "clubId": 240,
+      "leagueId": 53,
+      "countryId": 52,
+      "versionId": "124",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        15,
+        17,
+        20,
+        25,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        14,
+        16
+      ],
+      "rolesPlus": [
+        4,
+        24,
+        25,
+        46,
+        103,
+        105,
+        106,
+        123
+      ],
+      "attributes": [
+        93,
+        82,
+        87,
+        88,
+        90,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67341948,
+      "assetId": 233084
     },
     "67349554": {
       "name": "Nico Gonzalez",
@@ -971,7 +974,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 13250,
       "resourceId": 67349554,
       "assetId": 240690
     },
@@ -1069,60 +1072,6 @@
       "resourceId": 67372565,
       "assetId": 263701
     },
-    "84102629": {
-      "name": "Alexander Sørloth",
-      "cardName": "Sørloth",
-      "originalVersionId": "8",
-      "clubId": 240,
-      "leagueId": 53,
-      "countryId": 36,
-      "versionId": "8",
-      "rating": 89,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        2,
-        20,
-        24,
-        29,
-        4,
-        7
-      ],
-      "playStylesPlus": [
-        22,
-        6
-      ],
-      "rolesPlus": [
-        26,
-        36,
-        43,
-        123,
-        135,
-        141,
-        142,
-        144
-      ],
-      "attributes": [
-        89,
-        92,
-        83,
-        87,
-        42,
-        92
-      ],
-      "hasDynamicImage": true,
-      "price": 96000,
-      "resourceId": 84102629,
-      "assetId": 216549
-    },
     "84133183": {
       "name": "Dávid Hancko",
       "cardName": "Hancko",
@@ -1165,6 +1114,61 @@
       "price": 27000,
       "resourceId": 84133183,
       "assetId": 247103
+    },
+    "100879845": {
+      "name": "Alexander Sørloth",
+      "cardName": "Sørloth",
+      "originalVersionId": "124",
+      "clubId": 240,
+      "leagueId": 53,
+      "countryId": 36,
+      "versionId": "124",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        20,
+        22,
+        29,
+        4,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        0,
+        2
+      ],
+      "rolesPlus": [
+        25,
+        26,
+        36,
+        37,
+        43,
+        123,
+        135,
+        141,
+        142,
+        144
+      ],
+      "attributes": [
+        92,
+        93,
+        86,
+        90,
+        44,
+        93
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 100879845,
+      "assetId": 216549
     },
     "100909487": {
       "name": "Julián Alvarez",
@@ -1216,7 +1220,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 1400000,
+      "price": 1485000,
       "resourceId": 100909487,
       "assetId": 246191
     },

@@ -1194,7 +1194,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 1100,
+    "price": 200,
     "resourceId": 74980,
     "assetId": 74980
   },
@@ -2384,7 +2384,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 650,
     "resourceId": 79734,
     "assetId": 79734
   },
@@ -4842,7 +4842,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 8200,
     "resourceId": 232843,
     "assetId": 232843
   },
@@ -5026,7 +5026,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 235995,
     "assetId": 235995
   },
@@ -5905,7 +5905,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 300,
     "resourceId": 243661,
     "assetId": 243661
   },
@@ -5945,7 +5945,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 1200,
+    "price": 200,
     "resourceId": 243664,
     "assetId": 243664
   },
@@ -6285,7 +6285,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 400,
     "resourceId": 244810,
     "assetId": 244810
   },
@@ -6780,7 +6780,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 1000,
     "resourceId": 251547,
     "assetId": 251547
   },
@@ -8250,7 +8250,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 3400,
+    "price": 200,
     "resourceId": 263444,
     "assetId": 263444
   },
@@ -9667,7 +9667,7 @@
       50
     ],
     "hasDynamicImage": false,
-    "price": 4900,
+    "price": 5000,
     "resourceId": 271002,
     "assetId": 271002
   },
@@ -10697,7 +10697,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 2000,
     "resourceId": 50405600,
     "assetId": 73952
   },
@@ -11023,50 +11023,6 @@
     "resourceId": 50547170,
     "assetId": 215522
   },
-  "50557023": {
-    "name": "Konrad Laimer",
-    "cardName": "Laimer",
-    "originalVersionId": "3",
-    "clubId": 21,
-    "leagueId": 19,
-    "countryId": 4,
-    "versionId": "3",
-    "rating": 84,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "LB",
-    "possiblePositions": [
-      "CDM",
-      "CM",
-      "LB",
-      "RB"
-    ],
-    "playStyles": [
-      17,
-      26,
-      28
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      6,
-      15,
-      18,
-      110
-    ],
-    "attributes": [
-      84,
-      73,
-      79,
-      78,
-      83,
-      79
-    ],
-    "hasDynamicImage": true,
-    "price": 31250,
-    "resourceId": 50557023,
-    "assetId": 225375
-  },
   "50571549": {
     "name": "Saša Kalajdžić",
     "cardName": "Kalajdžić",
@@ -11187,7 +11143,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 13000,
     "resourceId": 50573835,
     "assetId": 242187
   },
@@ -11941,7 +11897,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 15250,
+    "price": 13000,
     "resourceId": 67308303,
     "assetId": 199439
   },
@@ -11980,9 +11936,72 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 24500,
+    "price": 24750,
     "resourceId": 67332535,
     "assetId": 223671
+  },
+  "67334239": {
+    "name": "Konrad Laimer",
+    "cardName": "Laimer",
+    "originalVersionId": "124",
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 4,
+    "versionId": "124",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CDM",
+      "CM",
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      14,
+      15,
+      16,
+      21,
+      26,
+      8
+    ],
+    "playStylesPlus": [
+      17,
+      28
+    ],
+    "rolesPlus": [
+      4,
+      8,
+      9,
+      15,
+      16,
+      20,
+      23,
+      103,
+      105,
+      106,
+      107,
+      110,
+      118,
+      124,
+      125
+    ],
+    "attributes": [
+      90,
+      81,
+      85,
+      85,
+      90,
+      90
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67334239,
+    "assetId": 225375
   },
   "67337200": {
     "name": "Florian Grillitsch",

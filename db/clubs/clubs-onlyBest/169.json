@@ -215,7 +215,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 212212,
       "assetId": 212212
     },
@@ -651,43 +651,6 @@
       "price": 350,
       "resourceId": 257075,
       "assetId": 257075
-    },
-    "259162": {
-      "name": "Armindo Sieb",
-      "cardName": "Sieb",
-      "originalVersionId": "1",
-      "clubId": 169,
-      "leagueId": 19,
-      "countryId": 21,
-      "versionId": "3001",
-      "rating": 71,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        32,
-        42,
-        43
-      ],
-      "attributes": [
-        83,
-        70,
-        57,
-        76,
-        27,
-        66
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 259162,
-      "assetId": 259162
     },
     "263116": {
       "name": "Lasse Rieß",
@@ -1179,9 +1142,61 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 20500,
+      "price": 21500,
       "resourceId": 50590363,
       "assetId": 258715
+    },
+    "50590810": {
+      "name": "Armindo Sieb",
+      "cardName": "Sieb",
+      "originalVersionId": "126",
+      "clubId": 169,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "126",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        20,
+        21,
+        22,
+        24,
+        6
+      ],
+      "playStylesPlus": [
+        2,
+        8
+      ],
+      "rolesPlus": [
+        31,
+        33,
+        34,
+        44,
+        132,
+        141,
+        142,
+        143
+      ],
+      "attributes": [
+        90,
+        88,
+        80,
+        91,
+        45,
+        83
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50590810,
+      "assetId": 259162
     },
     "67342080": {
       "name": "Phillip Tietz",
@@ -1365,7 +1380,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 15750,
+      "price": 30000,
       "resourceId": 84132020,
       "assetId": 245940
     }

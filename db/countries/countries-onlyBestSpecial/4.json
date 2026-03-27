@@ -135,50 +135,6 @@
     "resourceId": 50547170,
     "assetId": 215522
   },
-  "50557023": {
-    "name": "Konrad Laimer",
-    "cardName": "Laimer",
-    "originalVersionId": "3",
-    "clubId": 21,
-    "leagueId": 19,
-    "countryId": 4,
-    "versionId": "3",
-    "rating": 84,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "LB",
-    "possiblePositions": [
-      "CDM",
-      "CM",
-      "LB",
-      "RB"
-    ],
-    "playStyles": [
-      17,
-      26,
-      28
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      6,
-      15,
-      18,
-      110
-    ],
-    "attributes": [
-      84,
-      73,
-      79,
-      78,
-      83,
-      79
-    ],
-    "hasDynamicImage": true,
-    "price": 31250,
-    "resourceId": 50557023,
-    "assetId": 225375
-  },
   "50573835": {
     "name": "Christoph Baumgartner",
     "cardName": "Baumgartner",
@@ -224,7 +180,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 13000,
     "resourceId": 50573835,
     "assetId": 242187
   },
@@ -516,7 +472,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 15250,
+    "price": 13000,
     "resourceId": 67308303,
     "assetId": 199439
   },
@@ -555,9 +511,72 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 24500,
+    "price": 24750,
     "resourceId": 67332535,
     "assetId": 223671
+  },
+  "67334239": {
+    "name": "Konrad Laimer",
+    "cardName": "Laimer",
+    "originalVersionId": "124",
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 4,
+    "versionId": "124",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CDM",
+      "CM",
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      14,
+      15,
+      16,
+      21,
+      26,
+      8
+    ],
+    "playStylesPlus": [
+      17,
+      28
+    ],
+    "rolesPlus": [
+      4,
+      8,
+      9,
+      15,
+      16,
+      20,
+      23,
+      103,
+      105,
+      106,
+      107,
+      110,
+      118,
+      124,
+      125
+    ],
+    "attributes": [
+      90,
+      81,
+      85,
+      85,
+      90,
+      90
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67334239,
+    "assetId": 225375
   },
   "67337200": {
     "name": "Florian Grillitsch",

@@ -324,47 +324,6 @@
       "resourceId": 250789,
       "assetId": 250789
     },
-    "256782": {
-      "name": "Sebastian Nanasi",
-      "cardName": "Nanasi",
-      "originalVersionId": "0",
-      "clubId": 76,
-      "leagueId": 16,
-      "countryId": 46,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LM"
-      ],
-      "playStyles": [
-        13,
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        30,
-        31,
-        33
-      ],
-      "attributes": [
-        70,
-        65,
-        74,
-        80,
-        32,
-        64
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 256782,
-      "assetId": 256782
-    },
     "257090": {
       "name": "Ismaël Doukouré",
       "cardName": "Doukouré",
@@ -544,7 +503,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 10000,
       "resourceId": 261495,
       "assetId": 261495
     },
@@ -984,7 +943,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 8600,
+      "price": 10000,
       "resourceId": 275507,
       "assetId": 275507
     },
@@ -1096,6 +1055,61 @@
       "price": 200,
       "resourceId": 279702,
       "assetId": 279702
+    },
+    "50588430": {
+      "name": "Sebastian Nanasi",
+      "cardName": "Nanasi",
+      "originalVersionId": "126",
+      "clubId": 76,
+      "leagueId": 16,
+      "countryId": 46,
+      "versionId": "126",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        12,
+        13,
+        21,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        8
+      ],
+      "rolesPlus": [
+        18,
+        22,
+        28,
+        32,
+        33,
+        121,
+        127,
+        129,
+        130,
+        131
+      ],
+      "attributes": [
+        89,
+        87,
+        89,
+        91,
+        45,
+        80
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50588430,
+      "assetId": 256782
     },
     "50601687": {
       "name": "Diego Moreira",
@@ -1243,7 +1257,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 50606856,
       "assetId": 275208
     },
@@ -1278,7 +1292,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 8500,
       "resourceId": 50607155,
       "assetId": 275507
     },
@@ -1407,7 +1421,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 2800,
       "resourceId": 67369806,
       "assetId": 260942
     },
@@ -1458,7 +1472,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 18500,
+      "price": 18750,
       "resourceId": 67372234,
       "assetId": 263370
     },
@@ -1538,7 +1552,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 11500,
       "resourceId": 84141514,
       "assetId": 255434
     }

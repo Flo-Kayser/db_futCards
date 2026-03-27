@@ -178,47 +178,6 @@
       "resourceId": 227110,
       "assetId": 227110
     },
-    "239761": {
-      "name": "Frida Maanum",
-      "cardName": "Maanum",
-      "originalVersionId": "1",
-      "clubId": 116009,
-      "leagueId": 2216,
-      "countryId": 36,
-      "versionId": "3002",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        2,
-        24,
-        26,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        32,
-        33
-      ],
-      "attributes": [
-        72,
-        82,
-        83,
-        83,
-        72,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 800,
-      "resourceId": 239761,
-      "assetId": 239761
-    },
     "244064": {
       "name": "Victoria Pelova",
       "cardName": "Pelova",
@@ -292,7 +251,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 258680,
       "assetId": 258680
     },
@@ -522,7 +481,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 3600,
       "resourceId": 273469,
       "assetId": 273469
     },
@@ -590,7 +549,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 700,
       "resourceId": 279129,
       "assetId": 279129
     },
@@ -677,7 +636,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 36000,
+      "price": 35750,
       "resourceId": 50558767,
       "assetId": 227119
     },
@@ -714,9 +673,64 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 15750,
       "resourceId": 50565012,
       "assetId": 233364
+    },
+    "50571409": {
+      "name": "Frida Maanum",
+      "cardName": "Maanum",
+      "originalVersionId": "32",
+      "clubId": 116009,
+      "leagueId": 2216,
+      "countryId": 36,
+      "versionId": "32",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        13,
+        2,
+        24,
+        26,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        8
+      ],
+      "rolesPlus": [
+        22,
+        33,
+        34,
+        42,
+        121,
+        131,
+        132,
+        141,
+        143
+      ],
+      "attributes": [
+        87,
+        88,
+        89,
+        89,
+        80,
+        78
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50571409,
+      "assetId": 239761
     },
     "50577520": {
       "name": "Kim Little",
@@ -900,7 +914,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 22000,
+      "price": 23500,
       "resourceId": 50594661,
       "assetId": 263013
     },
@@ -1139,7 +1153,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 515000,
+      "price": 538000,
       "resourceId": 67355290,
       "assetId": 246426
     },
@@ -1193,7 +1207,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 670000,
+      "price": 685000,
       "resourceId": 67367844,
       "assetId": 258980
     },
@@ -1237,7 +1251,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 12250,
+      "price": 12000,
       "resourceId": 67374103,
       "assetId": 265239
     },
@@ -1284,7 +1298,7 @@
         90
       ],
       "hasDynamicImage": false,
-      "price": 29500,
+      "price": 27500,
       "resourceId": 67385163,
       "assetId": 276299
     },
@@ -1349,7 +1363,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 283000,
+      "price": 290000,
       "resourceId": 67385416,
       "assetId": 276552
     }

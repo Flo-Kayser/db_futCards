@@ -46,7 +46,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 42500,
+      "price": 42250,
       "resourceId": 50493995,
       "assetId": 162347
     },
@@ -113,50 +113,6 @@
       "price": 20250,
       "resourceId": 50545164,
       "assetId": 213516
-    },
-    "50577245": {
-      "name": "Víctor Gómez",
-      "cardName": "Víctor Gómez",
-      "originalVersionId": "3",
-      "clubId": 1896,
-      "leagueId": 308,
-      "countryId": 45,
-      "versionId": "3",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RB",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        10,
-        12,
-        15,
-        17,
-        28
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5,
-        25,
-        123
-      ],
-      "attributes": [
-        89,
-        60,
-        82,
-        83,
-        78,
-        82
-      ],
-      "hasDynamicImage": true,
-      "price": 25000,
-      "resourceId": 50577245,
-      "assetId": 245597
     },
     "50583025": {
       "name": "Rodrigo Zalazar",
@@ -256,6 +212,59 @@
       "price": 12250,
       "resourceId": 67337200,
       "assetId": 228336
+    },
+    "67354461": {
+      "name": "Víctor Gómez",
+      "cardName": "Víctor Gómez",
+      "originalVersionId": "125",
+      "clubId": 1896,
+      "leagueId": 308,
+      "countryId": 45,
+      "versionId": "125",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        12,
+        14,
+        15,
+        17,
+        26,
+        28
+      ],
+      "playStylesPlus": [
+        16,
+        18
+      ],
+      "rolesPlus": [
+        4,
+        23,
+        24,
+        46,
+        103,
+        105,
+        106,
+        125
+      ],
+      "attributes": [
+        91,
+        75,
+        90,
+        90,
+        86,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 23000,
+      "resourceId": 67354461,
+      "assetId": 245597
     }
   }
 }

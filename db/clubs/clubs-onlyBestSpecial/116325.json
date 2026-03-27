@@ -1,49 +1,6 @@
 {
   "clubName": "FC Barcelona",
   "players": {
-    "50558838": {
-      "name": "Irene Paredes",
-      "cardName": "Irene Paredes",
-      "originalVersionId": "28",
-      "clubId": 116325,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "28",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10,
-        14,
-        18,
-        19
-      ],
-      "playStylesPlus": [
-        28
-      ],
-      "rolesPlus": [
-        11,
-        48,
-        113
-      ],
-      "attributes": [
-        81,
-        52,
-        76,
-        77,
-        88,
-        86
-      ],
-      "hasDynamicImage": true,
-      "price": 20500,
-      "resourceId": 50558838,
-      "assetId": 227190
-    },
     "50558839": {
       "name": "Marta Torrejón",
       "cardName": "Marta Torrejón",
@@ -130,7 +87,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 36500,
+      "price": 35750,
       "resourceId": 50568127,
       "assetId": 236479
     },
@@ -177,7 +134,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 15000,
+      "price": 13250,
       "resourceId": 50585083,
       "assetId": 253435
     },
@@ -235,58 +192,6 @@
       "resourceId": 50593503,
       "assetId": 261855
     },
-    "50603094": {
-      "name": "Vicky López",
-      "cardName": "Vicky López",
-      "originalVersionId": "3",
-      "clubId": 116325,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "3",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        13,
-        20,
-        23,
-        6
-      ],
-      "playStylesPlus": [
-        21
-      ],
-      "rolesPlus": [
-        21,
-        31,
-        33,
-        37,
-        43,
-        122,
-        132,
-        135
-      ],
-      "attributes": [
-        90,
-        83,
-        85,
-        88,
-        54,
-        65
-      ],
-      "hasDynamicImage": true,
-      "price": 13500,
-      "resourceId": 50603094,
-      "assetId": 271446
-    },
     "50609347": {
       "name": "Sydney Schertenleib",
       "cardName": "Schertenleib",
@@ -331,7 +236,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 16250,
       "resourceId": 50609347,
       "assetId": 277699
     },
@@ -383,9 +288,57 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 3049000,
+      "price": 3053000,
       "resourceId": 67335966,
       "assetId": 227102
+    },
+    "67336054": {
+      "name": "Irene Paredes",
+      "cardName": "Irene Paredes",
+      "originalVersionId": "32",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "32",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        15,
+        18,
+        19,
+        22,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        16,
+        17
+      ],
+      "rolesPlus": [
+        48,
+        111,
+        112,
+        113
+      ],
+      "attributes": [
+        85,
+        55,
+        81,
+        81,
+        92,
+        90
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67336054,
+      "assetId": 227190
     },
     "67350531": {
       "name": "Aitana Bonmatí",
@@ -490,7 +443,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 81000,
+      "price": 86500,
       "resourceId": 67362300,
       "assetId": 253436
     },
@@ -545,7 +498,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 16500,
       "resourceId": 67376394,
       "assetId": 267530
     },
@@ -607,9 +560,68 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 1700000,
+      "price": 1645000,
       "resourceId": 67378268,
       "assetId": 269404
+    },
+    "67380310": {
+      "name": "Vicky López",
+      "cardName": "Vicky López",
+      "originalVersionId": "32",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "32",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        13,
+        21,
+        22,
+        23,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        8
+      ],
+      "rolesPlus": [
+        22,
+        33,
+        34,
+        36,
+        37,
+        41,
+        42,
+        121,
+        131,
+        132,
+        135,
+        143
+      ],
+      "attributes": [
+        93,
+        88,
+        89,
+        91,
+        57,
+        75
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67380310,
+      "assetId": 271446
     },
     "84113283": {
       "name": "Alexia Putellas",
@@ -711,7 +723,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 156000,
+      "price": 160000,
       "resourceId": 84123369,
       "assetId": 237289
     },
@@ -820,7 +832,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 3290000,
+      "price": 3411000,
       "resourceId": 117703043,
       "assetId": 262531
     }

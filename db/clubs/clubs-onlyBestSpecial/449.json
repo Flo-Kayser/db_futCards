@@ -1,6 +1,62 @@
 {
   "clubName": "Real Betis",
   "players": {
+    "50525000": {
+      "name": "Ricardo Rodríguez",
+      "cardName": "Rodríguez",
+      "originalVersionId": "125",
+      "clubId": 449,
+      "leagueId": 53,
+      "countryId": 47,
+      "versionId": "125",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12,
+        16,
+        17,
+        18,
+        20,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        11,
+        14
+      ],
+      "rolesPlus": [
+        10,
+        12,
+        13,
+        27,
+        30,
+        47,
+        107,
+        108,
+        109,
+        129,
+        148
+      ],
+      "attributes": [
+        88,
+        80,
+        90,
+        89,
+        88,
+        87
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50525000,
+      "assetId": 193352
+    },
     "50529429": {
       "name": "Isco",
       "cardName": "Isco",
@@ -48,7 +104,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 43750,
+      "price": 44500,
       "resourceId": 50529429,
       "assetId": 197781
     },
@@ -406,7 +462,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 49750,
+      "price": 45250,
       "resourceId": 50596080,
       "assetId": 264432
     },
