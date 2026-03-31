@@ -242,6 +242,62 @@
     "resourceId": 50563561,
     "assetId": 231913
   },
+  "50577977": {
+    "name": "Mounaïm El Idrissy",
+    "cardName": "El Idrissy",
+    "originalVersionId": "58",
+    "clubId": 294,
+    "leagueId": 17,
+    "countryId": 18,
+    "versionId": "58",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "ST"
+    ],
+    "playStyles": [
+      19,
+      2,
+      22,
+      24,
+      26,
+      4,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      21
+    ],
+    "rolesPlus": [
+      24,
+      25,
+      33,
+      34,
+      123,
+      132,
+      141,
+      143,
+      144
+    ],
+    "attributes": [
+      92,
+      89,
+      85,
+      88,
+      62,
+      89
+    ],
+    "hasDynamicImage": false,
+    "sbcPrice": 40250,
+    "price": 0,
+    "resourceId": 50577977,
+    "assetId": 246329
+  },
   "50586853": {
     "name": "Sebastian Berhalter",
     "cardName": "Berhalter",
@@ -444,7 +500,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 35750,
+    "sbcPrice": 36250,
     "price": 33950,
     "resourceId": 50596512,
     "assetId": 264864
@@ -498,7 +554,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 36250,
+    "sbcPrice": 36750,
     "price": 35850,
     "resourceId": 50596628,
     "assetId": 264980
@@ -848,5 +904,53 @@
     "price": 92150,
     "resourceId": 67368171,
     "assetId": 259307
+  },
+  "84130995": {
+    "name": "Mohammed Salisu",
+    "cardName": "Salisu",
+    "originalVersionId": "58",
+    "clubId": 69,
+    "leagueId": 16,
+    "countryId": 117,
+    "versionId": "58",
+    "rating": 88,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      11,
+      16,
+      17,
+      18,
+      19,
+      27,
+      9
+    ],
+    "playStylesPlus": [
+      15,
+      28
+    ],
+    "rolesPlus": [
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      86,
+      48,
+      77,
+      78,
+      89,
+      91
+    ],
+    "hasDynamicImage": false,
+    "sbcPrice": 39250,
+    "price": 0,
+    "resourceId": 84130995,
+    "assetId": 244915
   }
 }
