@@ -214,7 +214,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 3300,
       "resourceId": 196889,
       "assetId": 196889
     },
@@ -433,7 +433,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 500,
       "resourceId": 213829,
       "assetId": 213829
     },
@@ -511,43 +511,6 @@
       "resourceId": 225149,
       "assetId": 225149
     },
-    "228349": {
-      "name": "Mërgim Vojvoda",
-      "cardName": "Vojvoda",
-      "originalVersionId": "0",
-      "clubId": 1745,
-      "leagueId": 31,
-      "countryId": 219,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "CB",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5,
-        48
-      ],
-      "attributes": [
-        68,
-        54,
-        73,
-        73,
-        73,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 228349,
-      "assetId": 228349
-    },
     "237586": {
       "name": "Alberto Dossena",
       "cardName": "Dossena",
@@ -582,7 +545,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 5000,
       "resourceId": 237586,
       "assetId": 237586
     },
@@ -655,7 +618,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 239977,
       "assetId": 239977
     },
@@ -1230,7 +1193,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 14000,
       "resourceId": 50406703,
       "assetId": 75055
     },
@@ -1309,7 +1272,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 23250,
+      "price": 23500,
       "resourceId": 50532801,
       "assetId": 201153
     },
@@ -1350,6 +1313,60 @@
       "price": 350,
       "resourceId": 50551341,
       "assetId": 219693
+    },
+    "50559997": {
+      "name": "Mërgim Vojvoda",
+      "cardName": "Vojvoda",
+      "originalVersionId": "3",
+      "clubId": 1745,
+      "leagueId": 31,
+      "countryId": 219,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        14,
+        15,
+        16,
+        25,
+        26
+      ],
+      "playStylesPlus": [
+        12,
+        9
+      ],
+      "rolesPlus": [
+        3,
+        4,
+        11,
+        13,
+        25,
+        26,
+        105,
+        106,
+        123,
+        148
+      ],
+      "attributes": [
+        84,
+        66,
+        87,
+        85,
+        85,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50559997,
+      "assetId": 228349
     },
     "50587548": {
       "name": "Noel Törnqvist",
@@ -1477,7 +1494,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13750,
       "resourceId": 50606972,
       "assetId": 275324
     },
@@ -1516,7 +1533,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 27000,
+      "price": 28250,
       "resourceId": 67332535,
       "assetId": 223671
     },
@@ -1623,7 +1640,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 173000,
+      "price": 178000,
       "resourceId": 100941142,
       "assetId": 277846
     }

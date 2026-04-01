@@ -1,6 +1,50 @@
 {
   "clubName": "Strasbourg",
   "players": {
+    "50403339": {
+      "name": "Manon Wahl",
+      "cardName": "Wahl",
+      "originalVersionId": "3",
+      "clubId": 131724,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        31,
+        33,
+        34
+      ],
+      "playStylesPlus": [
+        35
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        85,
+        87,
+        82,
+        84,
+        34,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 16750,
+      "resourceId": 50403339,
+      "assetId": 71691
+    },
     "50593489": {
       "name": "Fátima Pinto",
       "cardName": "Fátima Pinto",
@@ -38,7 +82,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 27000,
+      "price": 26000,
       "resourceId": 50593489,
       "assetId": 261841
     },
@@ -102,7 +146,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13250,
       "resourceId": 50596635,
       "assetId": 264987
     },

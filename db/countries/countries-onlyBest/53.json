@@ -29,7 +29,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 1400,
+    "price": 1900,
     "resourceId": 71091,
     "assetId": 71091
   },
@@ -279,7 +279,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 2000,
     "resourceId": 75730,
     "assetId": 75730
   },
@@ -416,7 +416,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 2300,
     "resourceId": 76699,
     "assetId": 76699
   },
@@ -736,7 +736,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 3400,
     "resourceId": 220539,
     "assetId": 220539
   },
@@ -880,7 +880,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 8000,
     "resourceId": 231335,
     "assetId": 231335
   },
@@ -1065,7 +1065,7 @@
       48
     ],
     "hasDynamicImage": false,
-    "price": 3300,
+    "price": 3400,
     "resourceId": 246068,
     "assetId": 246068
   },
@@ -1139,7 +1139,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 10000,
     "resourceId": 247883,
     "assetId": 247883
   },
@@ -1431,7 +1431,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 8800,
     "resourceId": 253651,
     "assetId": 253651
   },
@@ -1821,7 +1821,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 3800,
+    "price": 950,
     "resourceId": 255896,
     "assetId": 255896
   },
@@ -1859,7 +1859,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 2100,
+    "price": 5000,
     "resourceId": 259617,
     "assetId": 259617
   },
@@ -1937,40 +1937,6 @@
     "price": 200,
     "resourceId": 259930,
     "assetId": 259930
-  },
-  "259934": {
-    "name": "Efraín Morales",
-    "cardName": "Morales",
-    "originalVersionId": "0",
-    "clubId": 111139,
-    "leagueId": 39,
-    "countryId": 53,
-    "versionId": "2000",
-    "rating": 59,
-    "preferredFoot": "Right",
-    "weakFoot": 2,
-    "skillMoves": 2,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      11
-    ],
-    "attributes": [
-      53,
-      23,
-      38,
-      34,
-      62,
-      63
-    ],
-    "hasDynamicImage": false,
-    "price": 200,
-    "resourceId": 259934,
-    "assetId": 259934
   },
   "260267": {
     "name": "Diego Hoyos",
@@ -2114,7 +2080,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 1600,
+    "price": 5100,
     "resourceId": 260770,
     "assetId": 260770
   },
@@ -2257,7 +2223,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 1600,
     "resourceId": 269137,
     "assetId": 269137
   },
@@ -2372,7 +2338,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 5000,
+    "price": 3100,
     "resourceId": 274342,
     "assetId": 274342
   },
@@ -2523,9 +2489,54 @@
       68
     ],
     "hasDynamicImage": true,
-    "price": 26000,
+    "price": 23500,
     "resourceId": 50591482,
     "assetId": 259834
+  },
+  "50591582": {
+    "name": "Efraín Morales",
+    "cardName": "Morales",
+    "originalVersionId": "3",
+    "clubId": 111139,
+    "leagueId": 39,
+    "countryId": 53,
+    "versionId": "3",
+    "rating": 85,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      16,
+      17,
+      18,
+      28
+    ],
+    "playStylesPlus": [
+      15
+    ],
+    "rolesPlus": [
+      13,
+      111,
+      112,
+      148
+    ],
+    "attributes": [
+      82,
+      50,
+      70,
+      65,
+      88,
+      89
+    ],
+    "hasDynamicImage": false,
+    "price": 14750,
+    "resourceId": 50591582,
+    "assetId": 259934
   },
   "50597866": {
     "name": "Saulo Guerra",

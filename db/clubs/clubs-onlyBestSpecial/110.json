@@ -84,7 +84,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 13750,
+      "price": 14000,
       "resourceId": 50605111,
       "assetId": 273463
     },
@@ -136,56 +136,58 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 55000,
+      "price": 46500,
       "resourceId": 67186457,
       "assetId": 77593
     },
-    "67360928": {
+    "84138144": {
       "name": "Ladislav Krejčí",
       "cardName": "Krejčí",
-      "originalVersionId": "151",
+      "originalVersionId": "3",
       "clubId": 110,
       "leagueId": 13,
       "countryId": 12,
-      "versionId": "151",
-      "rating": 85,
+      "versionId": "3",
+      "rating": 87,
       "preferredFoot": "Left",
       "weakFoot": 3,
       "skillMoves": 3,
-      "preferredPosition": "CDM",
+      "preferredPosition": "CB",
       "possiblePositions": [
         "CB",
         "CDM"
       ],
       "playStyles": [
+        15,
         17,
-        19,
-        28,
+        18,
+        4,
         9
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        19,
+        28
+      ],
       "rolesPlus": [
+        13,
+        15,
+        17,
+        48,
         111,
         112,
-        113,
-        114,
-        115,
-        116,
-        117,
-        148,
-        149
+        114
       ],
       "attributes": [
+        82,
+        77,
         78,
-        76,
         81,
         85,
-        83,
-        87
+        92
       ],
-      "hasDynamicImage": true,
-      "sbcPrice": 17500,
-      "resourceId": 67360928,
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 84138144,
       "assetId": 252064
     }
   }
