@@ -1,61 +1,6 @@
 {
   "clubName": "FC Porto",
   "players": {
-    "50408681": {
-      "name": "William Gomes",
-      "cardName": "William Gomes",
-      "originalVersionId": "3",
-      "clubId": 236,
-      "leagueId": 308,
-      "countryId": 54,
-      "versionId": "3",
-      "rating": 84,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        20,
-        21,
-        22,
-        7,
-        9
-      ],
-      "playStylesPlus": [
-        13
-      ],
-      "rolesPlus": [
-        24,
-        26,
-        27,
-        28,
-        35,
-        37,
-        39,
-        40,
-        123,
-        136,
-        138
-      ],
-      "attributes": [
-        94,
-        82,
-        75,
-        89,
-        43,
-        70
-      ],
-      "hasDynamicImage": true,
-      "price": 14000,
-      "resourceId": 50408681,
-      "assetId": 77033
-    },
     "50552218": {
       "name": "Jan Bednarek",
       "cardName": "Bednarek",
@@ -141,7 +86,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 37250,
+      "price": 35750,
       "resourceId": 50566225,
       "assetId": 234577
     },
@@ -194,7 +139,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 17000,
       "resourceId": 50583263,
       "assetId": 251615
     },
@@ -237,7 +182,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 29500,
       "resourceId": 50584577,
       "assetId": 252929
     },
@@ -281,7 +226,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 29750,
+      "price": 30000,
       "resourceId": 50590377,
       "assetId": 258729
     },
@@ -333,7 +278,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 23250,
+      "price": 27750,
       "resourceId": 67181861,
       "assetId": 72997
     },
@@ -385,6 +330,62 @@
       "price": 32500,
       "resourceId": 67184618,
       "assetId": 75754
+    },
+    "67185897": {
+      "name": "William Gomes",
+      "cardName": "William Gomes",
+      "originalVersionId": "125",
+      "clubId": 236,
+      "leagueId": 308,
+      "countryId": 54,
+      "versionId": "125",
+      "rating": 88,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        13,
+        22,
+        25,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        21
+      ],
+      "rolesPlus": [
+        28,
+        127,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        95,
+        86,
+        84,
+        90,
+        48,
+        76
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 21750,
+      "resourceId": 67185897,
+      "assetId": 77033
     },
     "67325184": {
       "name": "Seko Fofana",
