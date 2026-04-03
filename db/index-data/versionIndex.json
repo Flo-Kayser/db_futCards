@@ -40,7 +40,7 @@
       }
     },
     "8": {
-      "count": 44,
+      "count": 47,
       "file": "db/versions/8.json",
       "details": {
         "name": "Star Performer",
@@ -300,7 +300,7 @@
       }
     },
     "43": {
-      "count": 6,
+      "count": 7,
       "file": "db/versions/43.json",
       "details": {
         "name": "POTM Premier League",
@@ -417,7 +417,7 @@
       }
     },
     "57": {
-      "count": 17,
+      "count": 18,
       "file": "db/versions/57.json",
       "details": {
         "name": "Showdown Upgrade",
@@ -430,7 +430,7 @@
       }
     },
     "58": {
-      "count": 19,
+      "count": 20,
       "file": "db/versions/58.json",
       "details": {
         "name": "Showdown",
@@ -505,6 +505,32 @@
         "primaryColor": "#ffd44f",
         "secondaryColor": "#493881",
         "tertiaryColor": "#d1ad41"
+      }
+    },
+    "76": {
+      "count": 27,
+      "file": "db/versions/76.json",
+      "details": {
+        "name": "Trophy Titans ICON",
+        "hasStrip": true,
+        "createdAt": "2026-04-01T22:45:00.586Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_76_0.png",
+        "primaryColor": "#ffe69b",
+        "secondaryColor": "#363636",
+        "tertiaryColor": "#c6bdaa"
+      }
+    },
+    "77": {
+      "count": 10,
+      "file": "db/versions/77.json",
+      "details": {
+        "name": "Trophy Titans Hero",
+        "hasStrip": true,
+        "createdAt": "2026-04-01T22:45:00.586Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_77_0.png",
+        "primaryColor": "#ffe69b",
+        "secondaryColor": "#363636",
+        "tertiaryColor": "#c6bdaa"
       }
     },
     "79": {
@@ -1016,8 +1042,8 @@
     }
   },
   "meta": {
-    "totalVersions": 78,
-    "totalVersionsWithoutBase": 72,
-    "updatedAt": "2026-04-02T17:58:44.743Z"
+    "totalVersions": 80,
+    "totalVersionsWithoutBase": 74,
+    "updatedAt": "2026-04-03T17:35:07.345Z"
   }
 }

@@ -2,6 +2,104 @@
   {
     "clubId": 114605,
     "leagueId": 19,
+    "countryId": 59,
+    "versionId": "77",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      11,
+      2,
+      21,
+      22,
+      29,
+      7
+    ],
+    "playStylesPlus": [
+      0,
+      6
+    ],
+    "rolesPlus": [
+      33,
+      34,
+      44,
+      131,
+      132,
+      141,
+      142,
+      143
+    ],
+    "attributes": [
+      88,
+      93,
+      88,
+      90,
+      47,
+      87
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67134284,
+    "assetId": 25420,
+    "name": "Claudio Pizarro",
+    "cardName": "Pizarro"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "77",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      15,
+      16,
+      18,
+      19,
+      28,
+      4,
+      9
+    ],
+    "playStylesPlus": [
+      14,
+      17
+    ],
+    "rolesPlus": [
+      13,
+      111,
+      112,
+      148
+    ],
+    "attributes": [
+      84,
+      54,
+      85,
+      80,
+      93,
+      92
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 84147673,
+    "assetId": 261593,
+    "name": "Jürgen Kohler",
+    "cardName": "Kohler"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 19,
     "countryId": 12,
     "versionId": "135",
     "rating": 89,
@@ -51,7 +149,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 15000,
     "resourceId": 50340121,
     "assetId": 8473,
     "name": "Tomáš Rosický",
@@ -98,7 +196,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 869000,
+    "price": 750000,
     "resourceId": 67375554,
     "assetId": 266690,
     "name": "Lúcio",
@@ -143,7 +241,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 12250,
+    "price": 13750,
     "resourceId": 181783,
     "assetId": 181783,
     "name": "Mario Mandžukić",
@@ -332,7 +430,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 12750,
+    "price": 14500,
     "resourceId": 10704,
     "assetId": 10704,
     "name": "Roy Makaay",
@@ -378,7 +476,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 65000,
+    "price": 70000,
     "resourceId": 50342352,
     "assetId": 10704,
     "name": "Roy Makaay",
@@ -430,7 +528,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 45000,
+    "price": 43250,
     "resourceId": 50413292,
     "assetId": 81644,
     "name": "Uli Hoeneß",
@@ -658,7 +756,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 80500,
+    "price": 78500,
     "resourceId": 50593241,
     "assetId": 261593,
     "name": "Jürgen Kohler",
@@ -705,7 +803,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 24750,
+    "price": 23750,
     "resourceId": 50357068,
     "assetId": 25420,
     "name": "Claudio Pizarro",
@@ -749,7 +847,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 11250,
     "resourceId": 25420,
     "assetId": 25420,
     "name": "Claudio Pizarro",
@@ -788,7 +886,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 12250,
+    "price": 15000,
     "resourceId": 150418,
     "assetId": 150418,
     "name": "Mario Gomez",
@@ -834,7 +932,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 135000,
+    "price": 185000,
     "resourceId": 28765,
     "assetId": 28765,
     "name": "Zé Roberto",
@@ -875,7 +973,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 25250,
+    "price": 27750,
     "resourceId": 5454,
     "assetId": 5454,
     "name": "Bixente Lizarazu",
@@ -916,7 +1014,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 20500,
+    "price": 21500,
     "resourceId": 269603,
     "assetId": 269603,
     "name": "Włodzimierz Smolarek",
@@ -959,7 +1057,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 32000,
+    "price": 29250,
     "resourceId": 166676,
     "assetId": 166676,
     "name": "Rudi Völler",
@@ -1001,7 +1099,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 18500,
+    "price": 25500,
     "resourceId": 261593,
     "assetId": 261593,
     "name": "Jürgen Kohler",

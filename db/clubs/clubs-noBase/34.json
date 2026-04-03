@@ -1,6 +1,54 @@
 {
   "clubName": "FC Schalke 04",
   "players": {
+    "50575852": {
+      "name": "Nikola Katić",
+      "cardName": "Katić",
+      "originalVersionId": "8",
+      "clubId": 34,
+      "leagueId": 20,
+      "countryId": 8,
+      "versionId": "8",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        15,
+        17,
+        18,
+        19,
+        4,
+        9
+      ],
+      "playStylesPlus": [
+        16,
+        28
+      ],
+      "rolesPlus": [
+        48,
+        111,
+        112,
+        113
+      ],
+      "attributes": [
+        86,
+        45,
+        80,
+        82,
+        89,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50575852,
+      "assetId": 244204
+    },
     "84067010": {
       "name": "Edin Džeko",
       "cardName": "Džeko",
@@ -43,7 +91,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 13750,
+      "price": 14250,
       "resourceId": 84067010,
       "assetId": 180930
     }
