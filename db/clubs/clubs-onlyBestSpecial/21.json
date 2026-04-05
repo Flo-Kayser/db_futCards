@@ -1,50 +1,6 @@
 {
   "clubName": "FC Bayern München",
   "players": {
-    "50499143": {
-      "name": "Manuel Neuer",
-      "cardName": "Neuer",
-      "originalVersionId": "82",
-      "clubId": 21,
-      "leagueId": 19,
-      "countryId": 21,
-      "versionId": "82",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        10,
-        30,
-        31,
-        34,
-        9
-      ],
-      "playStylesPlus": [
-        33
-      ],
-      "rolesPlus": [
-        101,
-        102,
-        145
-      ],
-      "attributes": [
-        84,
-        83,
-        92,
-        83,
-        33,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 135000,
-      "resourceId": 50499143,
-      "assetId": 167495
-    },
     "50518217": {
       "name": "Sven Ulreich",
       "cardName": "Ulreich",
@@ -84,7 +40,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 48250,
+      "price": 59000,
       "resourceId": 50518217,
       "assetId": 186569
     },
@@ -229,7 +185,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 40250,
+      "price": 36000,
       "resourceId": 50544979,
       "assetId": 213331
     },
@@ -368,7 +324,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 67000,
+      "price": 70000,
       "resourceId": 50566044,
       "assetId": 234396
     },
@@ -468,7 +424,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 94500,
+      "price": 88000,
       "resourceId": 50606946,
       "assetId": 275298
     },
@@ -524,9 +480,55 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 1366000,
+      "price": 1389000,
       "resourceId": 67186927,
       "assetId": 78063
+    },
+    "67276359": {
+      "name": "Manuel Neuer",
+      "cardName": "Neuer",
+      "originalVersionId": "90",
+      "clubId": 21,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "90",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        31,
+        35,
+        4,
+        9
+      ],
+      "playStylesPlus": [
+        33,
+        34
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        90,
+        90,
+        96,
+        90,
+        40,
+        93
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 67276359,
+      "assetId": 167495
     },
     "67321486": {
       "name": "Joshua Kimmich",
@@ -577,7 +579,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 46000,
+      "price": 46250,
       "resourceId": 67321486,
       "assetId": 212622
     },
@@ -747,7 +749,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 988000,
+      "price": 940000,
       "resourceId": 67365654,
       "assetId": 256790
     },
@@ -806,7 +808,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 349000,
+      "price": 422000,
       "resourceId": 84092193,
       "assetId": 206113
     },
@@ -865,7 +867,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 59000,
+      "sbcPrice": 58250,
       "resourceId": 84137035,
       "assetId": 250955
     },
@@ -961,7 +963,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 348000,
+      "price": 380000,
       "resourceId": 134458812,
       "assetId": 241084
     },
@@ -1008,7 +1010,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 280000,
+      "price": 260000,
       "resourceId": 151197070,
       "assetId": 202126
     },
@@ -1056,7 +1058,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 142750,
+      "sbcPrice": 135250,
       "price": 202350,
       "resourceId": 167974286,
       "assetId": 202126
@@ -1105,7 +1107,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 318000,
+      "price": 330000,
       "resourceId": 184751502,
       "assetId": 202126
     }
