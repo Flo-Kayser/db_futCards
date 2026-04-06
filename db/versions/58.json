@@ -86,62 +86,6 @@
     "resourceId": 50515160,
     "assetId": 183512
   },
-  "50546705": {
-    "name": "Iván Marcone",
-    "cardName": "Marcone",
-    "originalVersionId": "58",
-    "clubId": 110093,
-    "leagueId": 353,
-    "countryId": 52,
-    "versionId": "58",
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CB",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      10,
-      14,
-      16,
-      17,
-      19,
-      9
-    ],
-    "playStylesPlus": [
-      24,
-      28
-    ],
-    "rolesPlus": [
-      12,
-      17,
-      18,
-      22,
-      49,
-      111,
-      114,
-      115,
-      116,
-      119,
-      120
-    ],
-    "attributes": [
-      86,
-      75,
-      88,
-      86,
-      87,
-      89
-    ],
-    "hasDynamicImage": true,
-    "sbcPrice": 13000,
-    "resourceId": 50546705,
-    "assetId": 215057
-  },
   "50553725": {
     "name": "Manuel Locatelli",
     "cardName": "Locatelli",
@@ -342,7 +286,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 116250,
+    "sbcPrice": 124500,
     "resourceId": 50569326,
     "assetId": 237678
   },
@@ -847,7 +791,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 49000,
+    "sbcPrice": 54750,
     "resourceId": 67189538,
     "assetId": 80674
   },
@@ -1103,9 +1047,65 @@
       88
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 73000,
+    "sbcPrice": 79250,
     "resourceId": 67387263,
     "assetId": 278399
+  },
+  "84102400": {
+    "name": "Seko Fofana",
+    "cardName": "Fofana",
+    "originalVersionId": "58",
+    "clubId": 236,
+    "leagueId": 308,
+    "countryId": 108,
+    "versionId": "58",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      16,
+      2,
+      20,
+      26,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      24,
+      28
+    ],
+    "rolesPlus": [
+      15,
+      18,
+      33,
+      49,
+      114,
+      116,
+      119,
+      120,
+      121,
+      131
+    ],
+    "attributes": [
+      85,
+      86,
+      86,
+      89,
+      86,
+      91
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 45250,
+    "resourceId": 84102400,
+    "assetId": 216320
   },
   "84130995": {
     "name": "Mohammed Salisu",
@@ -1210,8 +1210,64 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 58250,
+    "sbcPrice": 62000,
     "resourceId": 84137035,
     "assetId": 250955
+  },
+  "84144060": {
+    "name": "Dan Ndoye",
+    "cardName": "Ndoye",
+    "originalVersionId": "58",
+    "clubId": 14,
+    "leagueId": 13,
+    "countryId": 47,
+    "versionId": "58",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM"
+    ],
+    "playStyles": [
+      0,
+      12,
+      20,
+      21,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      22,
+      25
+    ],
+    "rolesPlus": [
+      24,
+      25,
+      29,
+      40,
+      123,
+      126,
+      127,
+      128,
+      130,
+      138,
+      139
+    ],
+    "attributes": [
+      95,
+      86,
+      86,
+      89,
+      71,
+      80
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 44750,
+    "resourceId": 84144060,
+    "assetId": 257980
   }
 }

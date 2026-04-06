@@ -43,7 +43,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 971000,
+    "price": 831000,
     "resourceId": 50363080,
     "assetId": 31432
   },
@@ -242,7 +242,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 15500,
+    "price": 14000,
     "resourceId": 50565378,
     "assetId": 233730
   },
@@ -287,7 +287,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 65000,
+    "price": 64000,
     "resourceId": 50566821,
     "assetId": 235173
   },
@@ -331,7 +331,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 14500,
     "resourceId": 50571237,
     "assetId": 239589
   },
@@ -432,7 +432,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 20000,
     "resourceId": 50599910,
     "assetId": 268262
   },
@@ -478,7 +478,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 41000,
+    "price": 65000,
     "resourceId": 50602179,
     "assetId": 270531
   },
@@ -535,7 +535,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 22750,
     "resourceId": 50606856,
     "assetId": 275208
   },
@@ -630,7 +630,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 3295000,
+    "price": 3225000,
     "resourceId": 67129153,
     "assetId": 20289
   },
@@ -695,59 +695,6 @@
     "resourceId": 67279597,
     "assetId": 170733
   },
-  "67325184": {
-    "name": "Seko Fofana",
-    "cardName": "Fofana",
-    "originalVersionId": "3",
-    "clubId": 236,
-    "leagueId": 308,
-    "countryId": 108,
-    "versionId": "3",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      2,
-      24,
-      28,
-      29,
-      8,
-      9
-    ],
-    "playStylesPlus": [
-      11,
-      26
-    ],
-    "rolesPlus": [
-      15,
-      19,
-      21,
-      31,
-      33,
-      49,
-      114,
-      116
-    ],
-    "attributes": [
-      84,
-      85,
-      85,
-      87,
-      84,
-      90
-    ],
-    "hasDynamicImage": true,
-    "price": 13000,
-    "resourceId": 67325184,
-    "assetId": 216320
-  },
   "67333286": {
     "name": "Jérémie Boga",
     "cardName": "Boga",
@@ -799,7 +746,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 32750,
+    "sbcPrice": 33000,
     "resourceId": 67333286,
     "assetId": 224422
   },
@@ -842,7 +789,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 23500,
+    "price": 22500,
     "resourceId": 67334974,
     "assetId": 226110
   },
@@ -889,7 +836,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 16000,
     "resourceId": 67349651,
     "assetId": 240787
   },
@@ -938,7 +885,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 14000,
     "resourceId": 67361666,
     "assetId": 252802
   },
@@ -994,7 +941,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 12250,
     "resourceId": 67380804,
     "assetId": 271940
   },
@@ -1051,5 +998,61 @@
     "sbcPrice": 89000,
     "resourceId": 83964092,
     "assetId": 78012
+  },
+  "84102400": {
+    "name": "Seko Fofana",
+    "cardName": "Fofana",
+    "originalVersionId": "58",
+    "clubId": 236,
+    "leagueId": 308,
+    "countryId": 108,
+    "versionId": "58",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      16,
+      2,
+      20,
+      26,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      24,
+      28
+    ],
+    "rolesPlus": [
+      15,
+      18,
+      33,
+      49,
+      114,
+      116,
+      119,
+      120,
+      121,
+      131
+    ],
+    "attributes": [
+      85,
+      86,
+      86,
+      89,
+      86,
+      91
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 45250,
+    "resourceId": 84102400,
+    "assetId": 216320
   }
 }

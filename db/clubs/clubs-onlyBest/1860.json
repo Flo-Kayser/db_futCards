@@ -32,7 +32,7 @@
         46
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 71977,
       "assetId": 71977
     },
@@ -182,7 +182,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 74403,
       "assetId": 74403
     },
@@ -217,7 +217,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 79393,
       "assetId": 79393
     },
@@ -493,45 +493,6 @@
       "price": 350,
       "resourceId": 228635,
       "assetId": 228635
-    },
-    "232665": {
-      "name": "Mauro Arambarri",
-      "cardName": "Arambarri",
-      "originalVersionId": "1",
-      "clubId": 1860,
-      "leagueId": 53,
-      "countryId": 60,
-      "versionId": "3002",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        19,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        14,
-        18
-      ],
-      "attributes": [
-        65,
-        79,
-        76,
-        77,
-        79,
-        79
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 232665,
-      "assetId": 232665
     },
     "234835": {
       "name": "Domingos Duarte",
@@ -951,7 +912,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 277825,
       "assetId": 277825
     },
@@ -995,7 +956,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 13750,
+      "price": 14500,
       "resourceId": 50555600,
       "assetId": 223952
     },
@@ -1195,6 +1156,59 @@
       "resourceId": 50605498,
       "assetId": 273850
     },
+    "67341529": {
+      "name": "Mauro Arambarri",
+      "cardName": "Arambarri",
+      "originalVersionId": "38",
+      "clubId": 1860,
+      "leagueId": 53,
+      "countryId": 60,
+      "versionId": "38",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        19,
+        2,
+        24,
+        28,
+        4,
+        8
+      ],
+      "playStylesPlus": [
+        17,
+        9
+      ],
+      "rolesPlus": [
+        14,
+        19,
+        22,
+        116,
+        118,
+        120,
+        121,
+        149
+      ],
+      "attributes": [
+        83,
+        89,
+        86,
+        86,
+        88,
+        88
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 33500,
+      "resourceId": 67341529,
+      "assetId": 232665
+    },
     "84150405": {
       "name": "Martín Satriano",
       "cardName": "Satriano",
@@ -1246,7 +1260,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 13750,
       "resourceId": 84150405,
       "assetId": 264325
     }

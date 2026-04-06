@@ -281,7 +281,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 700,
       "resourceId": 272084,
       "assetId": 272084
     },
@@ -402,7 +402,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 700,
       "resourceId": 272112,
       "assetId": 272112
     },
@@ -485,7 +485,7 @@
         89
       ],
       "hasDynamicImage": false,
-      "price": 3700,
+      "price": 1500,
       "resourceId": 272201,
       "assetId": 272201
     },
@@ -556,7 +556,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 950,
       "resourceId": 274754,
       "assetId": 274754
     },
@@ -643,7 +643,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 12900,
+      "sbcPrice": 12700,
       "resourceId": 50559017,
       "assetId": 227369
     },
@@ -766,67 +766,9 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 350,
       "resourceId": 50604658,
       "assetId": 273010
-    },
-    "67371409": {
-      "name": "Amaiur Sarriegi",
-      "cardName": "Amaiur Sarriegi",
-      "originalVersionId": "3",
-      "clubId": 116327,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "3",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "LW",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        20,
-        22,
-        26,
-        6,
-        7
-      ],
-      "playStylesPlus": [
-        0,
-        25
-      ],
-      "rolesPlus": [
-        23,
-        25,
-        35,
-        37,
-        38,
-        40,
-        41,
-        44,
-        124,
-        136,
-        139,
-        142,
-        143
-      ],
-      "attributes": [
-        93,
-        86,
-        84,
-        91,
-        55,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 19250,
-      "resourceId": 67371409,
-      "assetId": 262545
     },
     "67380958": {
       "name": "Fiamma Benítez",
@@ -876,7 +818,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 15250,
       "resourceId": 67380958,
       "assetId": 272094
     },
@@ -928,9 +870,69 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 13750,
       "resourceId": 67383644,
       "assetId": 274780
+    },
+    "84148625": {
+      "name": "Amaiur Sarriegi",
+      "cardName": "Amaiur Sarriegi",
+      "originalVersionId": "177",
+      "clubId": 116327,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "177",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        20,
+        22,
+        25,
+        26,
+        7
+      ],
+      "playStylesPlus": [
+        21,
+        6
+      ],
+      "rolesPlus": [
+        23,
+        25,
+        35,
+        37,
+        38,
+        40,
+        44,
+        126,
+        136,
+        139,
+        141,
+        142,
+        143
+      ],
+      "attributes": [
+        94,
+        88,
+        86,
+        92,
+        56,
+        89
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 60050,
+      "resourceId": 84148625,
+      "assetId": 262545
     }
   }
 }
