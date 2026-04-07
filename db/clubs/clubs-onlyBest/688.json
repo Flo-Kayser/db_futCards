@@ -254,7 +254,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 10000,
       "resourceId": 184111,
       "assetId": 184111
     },
@@ -294,7 +294,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 650,
       "resourceId": 227911,
       "assetId": 227911
     },
@@ -517,7 +517,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 5000,
       "resourceId": 247121,
       "assetId": 247121
     },
@@ -558,7 +558,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 400,
       "resourceId": 251547,
       "assetId": 251547
     },
@@ -630,7 +630,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 2000,
       "resourceId": 260390,
       "assetId": 260390
     },
@@ -665,7 +665,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 950,
       "resourceId": 262087,
       "assetId": 262087
     },
@@ -702,7 +702,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 850,
       "resourceId": 266323,
       "assetId": 266323
     },
@@ -737,7 +737,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1000,
       "resourceId": 266717,
       "assetId": 266717
     },
@@ -851,49 +851,6 @@
       "price": 5100,
       "resourceId": 271986,
       "assetId": 271986
-    },
-    "277301": {
-      "name": "Gabriel Pirani",
-      "cardName": "Gabriel Pirani",
-      "originalVersionId": "0",
-      "clubId": 688,
-      "leagueId": 39,
-      "countryId": 54,
-      "versionId": "2001",
-      "rating": 68,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LM",
-        "ST"
-      ],
-      "playStyles": [
-        11,
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        22,
-        30,
-        32,
-        33
-      ],
-      "attributes": [
-        73,
-        58,
-        68,
-        71,
-        39,
-        54
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 277301,
-      "assetId": 277301
     },
     "279787": {
       "name": "Garrison Tubbs",
@@ -1112,6 +1069,66 @@
       "price": 350,
       "resourceId": 50594828,
       "assetId": 263180
+    },
+    "50608949": {
+      "name": "Gabriel Pirani",
+      "cardName": "Gabriel Pirani",
+      "originalVersionId": "38",
+      "clubId": 688,
+      "leagueId": 39,
+      "countryId": 54,
+      "versionId": "38",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        20,
+        23,
+        24,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        25,
+        6
+      ],
+      "rolesPlus": [
+        21,
+        28,
+        29,
+        31,
+        122,
+        130,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143
+      ],
+      "attributes": [
+        92,
+        85,
+        86,
+        89,
+        59,
+        80
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 39000,
+      "price": 0,
+      "resourceId": 50608949,
+      "assetId": 277301
     }
   }
 }

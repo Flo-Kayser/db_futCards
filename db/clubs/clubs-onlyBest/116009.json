@@ -65,7 +65,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 5000,
       "resourceId": 71364,
       "assetId": 71364
     },
@@ -136,47 +136,6 @@
       "price": 0,
       "resourceId": 79431,
       "assetId": 79431
-    },
-    "227110": {
-      "name": "Caitlin Foord",
-      "cardName": "Foord",
-      "originalVersionId": "1",
-      "clubId": 116009,
-      "leagueId": 2216,
-      "countryId": 195,
-      "versionId": "3002",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        21,
-        25,
-        29
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        27,
-        30,
-        39
-      ],
-      "attributes": [
-        87,
-        77,
-        81,
-        82,
-        45,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 1900,
-      "resourceId": 227110,
-      "assetId": 227110
     },
     "244064": {
       "name": "Victoria Pelova",
@@ -251,7 +210,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1000,
       "resourceId": 258680,
       "assetId": 258680
     },
@@ -481,7 +440,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 4600,
+      "price": 3000,
       "resourceId": 273469,
       "assetId": 273469
     },
@@ -587,6 +546,59 @@
       "resourceId": 50402779,
       "assetId": 71131
     },
+    "50558758": {
+      "name": "Caitlin Foord",
+      "cardName": "Foord",
+      "originalVersionId": "90",
+      "clubId": 116009,
+      "leagueId": 2216,
+      "countryId": 195,
+      "versionId": "90",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        20,
+        22,
+        25,
+        29,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        21,
+        6
+      ],
+      "rolesPlus": [
+        28,
+        127,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        91,
+        90,
+        87,
+        89,
+        50,
+        80
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 21500,
+      "price": 20250,
+      "resourceId": 50558758,
+      "assetId": 227110
+    },
     "50558767": {
       "name": "Steph Catley",
       "cardName": "Catley",
@@ -636,7 +648,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 44250,
+      "price": 46750,
       "resourceId": 50558767,
       "assetId": 227119
     },
@@ -673,7 +685,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 19250,
+      "price": 45000,
       "resourceId": 50565012,
       "assetId": 233364
     },
@@ -688,7 +700,7 @@
       "rating": 89,
       "preferredFoot": "Right",
       "weakFoot": 4,
-      "skillMoves": 4,
+      "skillMoves": 5,
       "preferredPosition": "CAM",
       "possiblePositions": [
         "CAM",
@@ -710,15 +722,19 @@
         8
       ],
       "rolesPlus": [
-        22,
-        33,
-        34,
-        42,
+        118,
+        119,
+        120,
         121,
+        122,
         131,
         132,
+        133,
+        134,
         141,
-        143
+        142,
+        143,
+        144
       ],
       "attributes": [
         87,
@@ -729,7 +745,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 11250,
+      "price": 12000,
       "resourceId": 50571409,
       "assetId": 239761
     },
@@ -773,7 +789,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 20500,
+      "price": 22250,
       "resourceId": 50577520,
       "assetId": 245872
     },
@@ -874,7 +890,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 42000,
+      "price": 46250,
       "resourceId": 50588649,
       "assetId": 257001
     },
@@ -1007,7 +1023,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 1300000,
+      "price": 1234000,
       "resourceId": 67346152,
       "assetId": 237288
     },
@@ -1113,7 +1129,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 497000,
+      "price": 544000,
       "resourceId": 67355290,
       "assetId": 246426
     },
@@ -1167,7 +1183,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 735000,
+      "price": 769000,
       "resourceId": 67367844,
       "assetId": 258980
     },
@@ -1181,7 +1197,7 @@
       "versionId": "32",
       "rating": 88,
       "preferredFoot": "Right",
-      "weakFoot": 4,
+      "weakFoot": 5,
       "skillMoves": 3,
       "preferredPosition": "CB",
       "possiblePositions": [
@@ -1202,10 +1218,10 @@
         19
       ],
       "rolesPlus": [
-        48,
         111,
         112,
-        113
+        113,
+        148
       ],
       "attributes": [
         83,
@@ -1261,7 +1277,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 13750,
       "resourceId": 67374103,
       "assetId": 265239
     },
@@ -1373,7 +1389,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 292000,
+      "price": 284000,
       "resourceId": 67385416,
       "assetId": 276552
     }

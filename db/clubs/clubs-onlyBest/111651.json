@@ -105,7 +105,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 3400,
       "resourceId": 75539,
       "assetId": 75539
     },
@@ -325,7 +325,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1500,
       "resourceId": 227362,
       "assetId": 227362
     },
@@ -368,51 +368,9 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 10000,
       "resourceId": 230690,
       "assetId": 230690
-    },
-    "232081": {
-      "name": "Richie Laryea",
-      "cardName": "Laryea",
-      "originalVersionId": "0",
-      "clubId": 111651,
-      "leagueId": 39,
-      "countryId": 70,
-      "versionId": "2001",
-      "rating": 72,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "LM",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        15,
-        21,
-        27
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        6,
-        24,
-        28
-      ],
-      "attributes": [
-        81,
-        61,
-        65,
-        74,
-        64,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 232081,
-      "assetId": 232081
     },
     "237307": {
       "name": "Henry Wingo",
@@ -527,7 +485,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 9000,
       "resourceId": 237642,
       "assetId": 237642
     },
@@ -1086,6 +1044,68 @@
       "price": 650,
       "resourceId": 50544239,
       "assetId": 212591
+    },
+    "50563729": {
+      "name": "Richie Laryea",
+      "cardName": "Laryea",
+      "originalVersionId": "38",
+      "clubId": 111651,
+      "leagueId": 39,
+      "countryId": 70,
+      "versionId": "38",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CDM",
+        "LB",
+        "LM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        15,
+        16,
+        17,
+        20,
+        26,
+        27,
+        9
+      ],
+      "playStylesPlus": [
+        14,
+        21
+      ],
+      "rolesPlus": [
+        3,
+        7,
+        14,
+        23,
+        27,
+        105,
+        106,
+        109,
+        110,
+        116,
+        124,
+        128,
+        149
+      ],
+      "attributes": [
+        92,
+        80,
+        82,
+        88,
+        87,
+        88
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 40250,
+      "price": 38450,
+      "resourceId": 50563729,
+      "assetId": 232081
     }
   }
 }
