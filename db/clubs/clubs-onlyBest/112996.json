@@ -69,7 +69,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 4900,
       "resourceId": 75237,
       "assetId": 75237
     },
@@ -368,7 +368,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 10000,
       "resourceId": 229217,
       "assetId": 229217
     },
@@ -442,7 +442,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 10000,
       "resourceId": 237256,
       "assetId": 237256
     },
@@ -627,7 +627,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 5000,
       "resourceId": 247428,
       "assetId": 247428
     },
@@ -667,7 +667,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 2000,
       "resourceId": 247582,
       "assetId": 247582
     },
@@ -743,7 +743,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 255772,
       "assetId": 255772
     },
@@ -816,7 +816,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 600,
       "resourceId": 260616,
       "assetId": 260616
     },
@@ -1052,50 +1052,6 @@
       "resourceId": 50543320,
       "assetId": 211672
     },
-    "50557599": {
-      "name": "Denis Bouanga",
-      "cardName": "Bouanga",
-      "originalVersionId": "3",
-      "clubId": 112996,
-      "leagueId": 39,
-      "countryId": 115,
-      "versionId": "3",
-      "rating": 82,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        1,
-        20,
-        25,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        38,
-        43,
-        139
-      ],
-      "attributes": [
-        88,
-        84,
-        75,
-        82,
-        42,
-        82
-      ],
-      "hasDynamicImage": true,
-      "price": 32250,
-      "resourceId": 50557599,
-      "assetId": 225951
-    },
     "50568904": {
       "name": "Jeremy Ebobisse",
       "cardName": "Ebobisse",
@@ -1211,7 +1167,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 6000,
+      "price": 5000,
       "resourceId": 50595768,
       "assetId": 264120
     },
@@ -1270,6 +1226,58 @@
       "hasDynamicImage": true,
       "resourceId": 67308968,
       "assetId": 200104
+    },
+    "84112031": {
+      "name": "Denis Bouanga",
+      "cardName": "Bouanga",
+      "originalVersionId": "3",
+      "clubId": 112996,
+      "leagueId": 39,
+      "countryId": 115,
+      "versionId": "3",
+      "rating": 86,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        20,
+        22,
+        25
+      ],
+      "playStylesPlus": [
+        7
+      ],
+      "rolesPlus": [
+        27,
+        29,
+        38,
+        41,
+        42,
+        128,
+        139,
+        140,
+        143
+      ],
+      "attributes": [
+        92,
+        88,
+        80,
+        86,
+        46,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 14250,
+      "resourceId": 84112031,
+      "assetId": 225951
     }
   }
 }

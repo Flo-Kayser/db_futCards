@@ -40,7 +40,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 74500,
+    "price": 70500,
     "resourceId": 570,
     "assetId": 570
   },
@@ -81,7 +81,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 11000,
+    "price": 10750,
     "resourceId": 5679,
     "assetId": 5679
   },
@@ -130,7 +130,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 220000,
+    "price": 219000,
     "resourceId": 50332218,
     "assetId": 570
   },
@@ -177,7 +177,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 16750,
+    "price": 19500,
     "resourceId": 50337327,
     "assetId": 5679
   },
@@ -256,7 +256,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 37750,
+    "price": 38000,
     "resourceId": 50544030,
     "assetId": 212382
   },
@@ -352,7 +352,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 262000,
+    "price": 258000,
     "resourceId": 50563941,
     "assetId": 232293
   },
@@ -409,7 +409,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 20000,
     "resourceId": 50568976,
     "assetId": 237328
   },
@@ -458,7 +458,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 35500,
+    "price": 34750,
     "resourceId": 50573419,
     "assetId": 241771
   },
@@ -513,7 +513,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 29250,
     "resourceId": 50578278,
     "assetId": 246630
   },
@@ -603,7 +603,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 18000,
     "resourceId": 50600747,
     "assetId": 269099
   },
@@ -645,7 +645,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 19500,
+    "price": 20000,
     "resourceId": 50603865,
     "assetId": 272217
   },
@@ -744,6 +744,56 @@
     "resourceId": 50609100,
     "assetId": 277452
   },
+  "67114543": {
+    "name": "Nwankwo Kanu",
+    "cardName": "Kanu",
+    "originalVersionId": "77",
+    "clubId": 114605,
+    "leagueId": 13,
+    "countryId": 133,
+    "versionId": "77",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      13,
+      2,
+      20,
+      21,
+      22,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      29,
+      4
+    ],
+    "rolesPlus": [
+      41,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      90,
+      91,
+      88,
+      92,
+      45,
+      88
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 68000,
+    "price": 66100,
+    "resourceId": 67114543,
+    "assetId": 5679
+  },
   "67183845": {
     "name": "Chibuike Nwaiwu",
     "cardName": "Nwaiwu",
@@ -789,7 +839,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 14750,
     "resourceId": 67183845,
     "assetId": 74981
   },
@@ -837,7 +887,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 23500,
+    "price": 28000,
     "resourceId": 67321246,
     "assetId": 212382
   },
@@ -879,7 +929,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 13500,
     "resourceId": 67334583,
     "assetId": 225719
   },
@@ -920,7 +970,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 69000,
+    "price": 63000,
     "resourceId": 67341157,
     "assetId": 232293
   },
@@ -1010,9 +1060,59 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 29250,
     "resourceId": 67386316,
     "assetId": 277452
+  },
+  "83961061": {
+    "name": "Chibuike Nwaiwu",
+    "cardName": "Nwaiwu",
+    "originalVersionId": "3",
+    "clubId": 436,
+    "leagueId": 68,
+    "countryId": 133,
+    "versionId": "3",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM"
+    ],
+    "playStyles": [
+      10,
+      15,
+      16,
+      18,
+      28
+    ],
+    "playStylesPlus": [
+      17,
+      19
+    ],
+    "rolesPlus": [
+      13,
+      15,
+      17,
+      48,
+      111,
+      112,
+      114
+    ],
+    "attributes": [
+      84,
+      50,
+      71,
+      74,
+      87,
+      94
+    ],
+    "hasDynamicImage": true,
+    "price": 16000,
+    "resourceId": 83961061,
+    "assetId": 74981
   },
   "84118373": {
     "name": "Victor Osimhen",
@@ -1058,7 +1158,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 250000,
+    "price": 270000,
     "resourceId": 84118373,
     "assetId": 232293
   }

@@ -1,40 +1,6 @@
 {
   "clubName": "SV Oberbank Ried",
   "players": {
-    "70049": {
-      "name": "Kingstone Mutandwa",
-      "cardName": "Mutandwa",
-      "originalVersionId": "0",
-      "clubId": 780,
-      "leagueId": 80,
-      "countryId": 147,
-      "versionId": "2000",
-      "rating": 63,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "attributes": [
-        73,
-        62,
-        51,
-        65,
-        32,
-        61
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 70049,
-      "assetId": 70049
-    },
     "78786": {
       "name": "Felix Wimmer",
       "cardName": "Wimmer",
@@ -171,7 +137,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 8900,
       "resourceId": 78793,
       "assetId": 78793
     },
@@ -277,7 +243,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 0,
       "resourceId": 78799,
       "assetId": 78799
     },
@@ -884,6 +850,51 @@
       "price": 200,
       "resourceId": 275446,
       "assetId": 275446
+    },
+    "50401697": {
+      "name": "Kingstone Mutandwa",
+      "cardName": "Mutandwa",
+      "originalVersionId": "3",
+      "clubId": 780,
+      "leagueId": 80,
+      "countryId": 147,
+      "versionId": "3",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        24,
+        25,
+        29,
+        7
+      ],
+      "playStylesPlus": [
+        4
+      ],
+      "rolesPlus": [
+        42,
+        43,
+        141,
+        144
+      ],
+      "attributes": [
+        92,
+        85,
+        75,
+        87,
+        55,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 14500,
+      "resourceId": 50401697,
+      "assetId": 70049
     }
   }
 }

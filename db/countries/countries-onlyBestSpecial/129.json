@@ -38,7 +38,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 36750,
+    "price": 35500,
     "resourceId": 50404840,
     "assetId": 73192
   },
@@ -82,7 +82,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 14750,
     "resourceId": 50541629,
     "assetId": 209981
   },
@@ -129,7 +129,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 68000,
+    "price": 64500,
     "resourceId": 50563058,
     "assetId": 231410
   },
@@ -171,7 +171,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 24000,
+    "price": 25000,
     "resourceId": 50567538,
     "assetId": 235890
   },
@@ -217,7 +217,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 30000,
     "resourceId": 50574442,
     "assetId": 242794
   },
@@ -368,7 +368,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 19750,
+    "price": 16750,
     "resourceId": 50586871,
     "assetId": 255223
   },
@@ -416,51 +416,9 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 85000,
+    "price": 90500,
     "resourceId": 50590401,
     "assetId": 258753
-  },
-  "50591128": {
-    "name": "Ismael Saibari",
-    "cardName": "Saibari",
-    "originalVersionId": "3",
-    "clubId": 247,
-    "leagueId": 10,
-    "countryId": 129,
-    "versionId": "3",
-    "rating": 84,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [
-      20,
-      24,
-      7
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      18,
-      31,
-      33,
-      132
-    ],
-    "attributes": [
-      84,
-      81,
-      80,
-      87,
-      56,
-      83
-    ],
-    "hasDynamicImage": true,
-    "price": 28000,
-    "resourceId": 50591128,
-    "assetId": 259480
   },
   "50592491": {
     "name": "Anass Zaroury",
@@ -507,7 +465,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 45000,
+    "price": 44750,
     "resourceId": 50592491,
     "assetId": 260843
   },
@@ -558,7 +516,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 15750,
     "resourceId": 50593948,
     "assetId": 262300
   },
@@ -609,7 +567,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 56500,
+    "price": 44750,
     "resourceId": 50596080,
     "assetId": 264432
   },
@@ -753,7 +711,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 67500,
+    "price": 70500,
     "resourceId": 67333022,
     "assetId": 224158
   },
@@ -790,7 +748,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 12750,
+    "price": 13500,
     "resourceId": 67350639,
     "assetId": 241775
   },
@@ -887,7 +845,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 14250,
     "resourceId": 67374442,
     "assetId": 265578
   },
@@ -945,5 +903,55 @@
     "sbcPrice": 55000,
     "resourceId": 67383912,
     "assetId": 275048
+  },
+  "84145560": {
+    "name": "Ismael Saibari",
+    "cardName": "Saibari",
+    "originalVersionId": "3",
+    "clubId": 247,
+    "leagueId": 10,
+    "countryId": 129,
+    "versionId": "3",
+    "rating": 87,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      20,
+      25,
+      26,
+      6,
+      7
+    ],
+    "playStylesPlus": [
+      11,
+      24
+    ],
+    "rolesPlus": [
+      20,
+      22,
+      32,
+      33,
+      118,
+      121,
+      131
+    ],
+    "attributes": [
+      87,
+      85,
+      84,
+      90,
+      60,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 15000,
+    "resourceId": 84145560,
+    "assetId": 259480
   }
 }

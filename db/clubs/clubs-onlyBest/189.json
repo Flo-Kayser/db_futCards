@@ -102,7 +102,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 400,
       "resourceId": 189908,
       "assetId": 189908
     },
@@ -142,7 +142,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 3300,
+      "price": 2000,
       "resourceId": 192387,
       "assetId": 192387
     },
@@ -476,7 +476,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 350,
       "resourceId": 240657,
       "assetId": 240657
     },
@@ -934,7 +934,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 25000,
+      "price": 19000,
       "resourceId": 50562855,
       "assetId": 231207
     },
@@ -979,7 +979,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 25750,
+      "price": 25000,
       "resourceId": 50565204,
       "assetId": 233556
     },
@@ -1118,7 +1118,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 11250,
       "resourceId": 50583669,
       "assetId": 252021
     },
@@ -1161,49 +1161,9 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 36750,
+      "price": 27000,
       "resourceId": 50583708,
       "assetId": 252060
-    },
-    "50588938": {
-      "name": "João Mário",
-      "cardName": "João Mário",
-      "originalVersionId": "0",
-      "clubId": 189,
-      "leagueId": 31,
-      "countryId": 38,
-      "versionId": "2002",
-      "rating": 77,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        12,
-        21
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5,
-        6,
-        26
-      ],
-      "attributes": [
-        84,
-        63,
-        71,
-        77,
-        69,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50588938,
-      "assetId": 257290
     },
     "50599509": {
       "name": "Santiago Castro",
@@ -1247,7 +1207,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 13250,
       "resourceId": 50599509,
       "assetId": 267861
     },
@@ -1287,7 +1247,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 37250,
+      "price": 27500,
       "resourceId": 50600351,
       "assetId": 268703
     },
@@ -1323,7 +1283,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 950,
       "resourceId": 50603225,
       "assetId": 271577
     },
@@ -1414,9 +1374,59 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 73000,
+      "price": 74000,
       "resourceId": 67321268,
       "assetId": 212404
+    },
+    "67366154": {
+      "name": "João Mário",
+      "cardName": "João Mário",
+      "originalVersionId": "3",
+      "clubId": 189,
+      "leagueId": 31,
+      "countryId": 38,
+      "versionId": "3",
+      "rating": 87,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        14,
+        16,
+        20,
+        5
+      ],
+      "playStylesPlus": [
+        21,
+        9
+      ],
+      "rolesPlus": [
+        3,
+        4,
+        24,
+        26,
+        105,
+        106,
+        123
+      ],
+      "attributes": [
+        93,
+        75,
+        81,
+        87,
+        82,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 14500,
+      "resourceId": 67366154,
+      "assetId": 257290
     }
   }
 }

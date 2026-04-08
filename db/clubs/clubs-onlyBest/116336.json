@@ -156,7 +156,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1100,
       "resourceId": 259334,
       "assetId": 259334
     },
@@ -198,7 +198,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 200,
       "resourceId": 268995,
       "assetId": 268995
     },
@@ -240,49 +240,6 @@
       "resourceId": 271443,
       "assetId": 271443
     },
-    "272007": {
-      "name": "Paula Fernández",
-      "cardName": "Paula Fernández",
-      "originalVersionId": "1",
-      "clubId": 116336,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "3002",
-      "rating": 81,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        11,
-        16,
-        17,
-        22,
-        24,
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        15,
-        19
-      ],
-      "attributes": [
-        77,
-        70,
-        78,
-        79,
-        78,
-        78
-      ],
-      "hasDynamicImage": false,
-      "price": 1100,
-      "resourceId": 272007,
-      "assetId": 272007
-    },
     "272025": {
       "name": "Violeta Quiles",
       "cardName": "Violeta Quiles",
@@ -316,7 +273,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 2300,
       "resourceId": 272025,
       "assetId": 272025
     },
@@ -641,7 +598,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 11250,
       "resourceId": 50559007,
       "assetId": 227359
     },
@@ -691,7 +648,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 12500,
       "resourceId": 50593491,
       "assetId": 261843
     },
@@ -730,7 +687,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 18500,
+      "price": 20000,
       "resourceId": 50600596,
       "assetId": 268948
     },
@@ -776,6 +733,57 @@
       "resourceId": 50600641,
       "assetId": 268993
     },
+    "50603655": {
+      "name": "Paula Fernández",
+      "cardName": "Paula Fernández",
+      "originalVersionId": "3",
+      "clubId": 116336,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        11,
+        16,
+        17,
+        22,
+        24,
+        26
+      ],
+      "playStylesPlus": [
+        10,
+        9
+      ],
+      "rolesPlus": [
+        14,
+        16,
+        18,
+        21,
+        115,
+        119,
+        120
+      ],
+      "attributes": [
+        85,
+        80,
+        87,
+        88,
+        85,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 15250,
+      "resourceId": 50603655,
+      "assetId": 272007
+    },
     "67386316": {
       "name": "Edna Imade",
       "cardName": "Imade",
@@ -818,7 +826,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 29250,
       "resourceId": 67386316,
       "assetId": 277452
     }
