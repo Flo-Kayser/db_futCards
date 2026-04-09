@@ -31,7 +31,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 4700,
+      "price": 3700,
       "resourceId": 71081,
       "assetId": 71081
     },
@@ -65,7 +65,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 75713,
       "assetId": 75713
     },
@@ -99,7 +99,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 4200,
+      "price": 3300,
       "resourceId": 78886,
       "assetId": 78886
     },
@@ -589,7 +589,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 200,
       "resourceId": 245499,
       "assetId": 245499
     },
@@ -657,7 +657,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 800,
       "resourceId": 253079,
       "assetId": 253079
     },
@@ -726,7 +726,7 @@
         41
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 3500,
       "resourceId": 277317,
       "assetId": 277317
     },
@@ -766,60 +766,9 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 9900,
       "resourceId": 278567,
       "assetId": 278567
-    },
-    "50512939": {
-      "name": "Georginio Wijnaldum",
-      "cardName": "Wijnaldum",
-      "originalVersionId": "34",
-      "clubId": 112096,
-      "leagueId": 350,
-      "countryId": 34,
-      "versionId": "34",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [
-        19,
-        22,
-        24,
-        4
-      ],
-      "playStylesPlus": [
-        11,
-        8
-      ],
-      "rolesPlus": [
-        14,
-        20,
-        21,
-        31,
-        116,
-        118,
-        142
-      ],
-      "attributes": [
-        82,
-        82,
-        86,
-        88,
-        83,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 27000,
-      "resourceId": 50512939,
-      "assetId": 181291
     },
     "50544712": {
       "name": "Francisco Calvo",
@@ -862,7 +811,7 @@
         89
       ],
       "hasDynamicImage": false,
-      "price": 19500,
+      "price": 17000,
       "resourceId": 50544712,
       "assetId": 213064
     },
@@ -943,7 +892,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 30750,
+      "price": 31000,
       "resourceId": 50580146,
       "assetId": 248498
     },
@@ -986,6 +935,63 @@
       "price": 250,
       "resourceId": 50610215,
       "assetId": 278567
+    },
+    "84067371": {
+      "name": "Georginio Wijnaldum",
+      "cardName": "Wijnaldum",
+      "originalVersionId": "90",
+      "clubId": 112096,
+      "leagueId": 350,
+      "countryId": 34,
+      "versionId": "90",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        19,
+        20,
+        22,
+        4,
+        6,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        11
+      ],
+      "rolesPlus": [
+        18,
+        19,
+        34,
+        41,
+        121,
+        122,
+        131,
+        132,
+        133,
+        142
+      ],
+      "attributes": [
+        87,
+        87,
+        89,
+        90,
+        85,
+        84
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 20250,
+      "price": 19150,
+      "resourceId": 84067371,
+      "assetId": 181291
     }
   }
 }
