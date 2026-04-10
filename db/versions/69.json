@@ -746,7 +746,8 @@
       30,
       74
     ],
-    "hasDynamicImage": false,
+    "isObjective": true,
+    "hasDynamicImage": true,
     "price": 0,
     "resourceId": 50574158,
     "assetId": 242510
@@ -1370,6 +1371,52 @@
     "hasDynamicImage": true,
     "resourceId": 67114283,
     "assetId": 5419
+  },
+  "67116607": {
+    "name": "Landon Donovan",
+    "cardName": "Donovan",
+    "originalVersionId": "69",
+    "clubId": 114605,
+    "leagueId": 39,
+    "countryId": 95,
+    "versionId": "69",
+    "rating": 72,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      21,
+      22,
+      6,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      12
+    ],
+    "rolesPlus": [
+      24,
+      125,
+      143
+    ],
+    "attributes": [
+      78,
+      83,
+      85,
+      78,
+      40,
+      65
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67116607,
+    "assetId": 7743
   },
   "67156254": {
     "name": "Gilberto Silva",

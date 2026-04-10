@@ -2,6 +2,103 @@
   {
     "clubId": 114605,
     "leagueId": 19,
+    "countryId": 18,
+    "versionId": "77",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB"
+    ],
+    "playStyles": [
+      10,
+      12,
+      14,
+      15,
+      17,
+      18,
+      20,
+      25
+    ],
+    "playStylesPlus": [
+      16,
+      28
+    ],
+    "rolesPlus": [
+      47,
+      107,
+      108,
+      109,
+      110
+    ],
+    "attributes": [
+      90,
+      61,
+      87,
+      89,
+      90,
+      88
+    ],
+    "hasDynamicImage": true,
+    "price": 53500,
+    "resourceId": 67114318,
+    "assetId": 5454,
+    "name": "Bixente Lizarazu",
+    "cardName": "Lizarazu"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "77",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      11,
+      2,
+      22,
+      24,
+      29,
+      4,
+      6
+    ],
+    "playStylesPlus": [
+      0,
+      21
+    ],
+    "rolesPlus": [
+      43,
+      141,
+      142,
+      144
+    ],
+    "attributes": [
+      92,
+      93,
+      80,
+      90,
+      47,
+      88
+    ],
+    "hasDynamicImage": true,
+    "price": 66500,
+    "resourceId": 67259282,
+    "assetId": 150418,
+    "name": "Mario Gomez",
+    "cardName": "Gomez"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 19,
     "countryId": 59,
     "versionId": "77",
     "rating": 92,
@@ -45,7 +142,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 69500,
+    "price": 67500,
     "resourceId": 67134284,
     "assetId": 25420,
     "name": "Claudio Pizarro",
@@ -93,7 +190,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 45750,
+    "price": 44250,
     "resourceId": 84147673,
     "assetId": 261593,
     "name": "Jürgen Kohler",
@@ -151,7 +248,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 13500,
     "resourceId": 50340121,
     "assetId": 8473,
     "name": "Tomáš Rosický",
@@ -198,7 +295,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 534000,
+    "price": 514000,
     "resourceId": 67375554,
     "assetId": 266690,
     "name": "Lúcio",
@@ -243,7 +340,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 12250,
+    "price": 21750,
     "resourceId": 181783,
     "assetId": 181783,
     "name": "Mario Mandžukić",
@@ -391,7 +488,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 21750,
+    "price": 18750,
     "resourceId": 81644,
     "assetId": 81644,
     "name": "Uli Hoeneß",
@@ -432,7 +529,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 13250,
+    "price": 14500,
     "resourceId": 10704,
     "assetId": 10704,
     "name": "Roy Makaay",
@@ -478,7 +575,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 34500,
+    "price": 32250,
     "resourceId": 50342352,
     "assetId": 10704,
     "name": "Roy Makaay",
@@ -530,7 +627,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 48000,
+    "price": 47500,
     "resourceId": 50413292,
     "assetId": 81644,
     "name": "Uli Hoeneß",
@@ -758,7 +855,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 27250,
     "resourceId": 50593241,
     "assetId": 261593,
     "name": "Jürgen Kohler",
@@ -805,7 +902,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 17750,
     "resourceId": 50357068,
     "assetId": 25420,
     "name": "Claudio Pizarro",
@@ -849,7 +946,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 13750,
+    "price": 15250,
     "resourceId": 25420,
     "assetId": 25420,
     "name": "Claudio Pizarro",
@@ -888,7 +985,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 15500,
+    "price": 15250,
     "resourceId": 150418,
     "assetId": 150418,
     "name": "Mario Gomez",
@@ -934,7 +1031,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 143000,
+    "price": 154000,
     "resourceId": 28765,
     "assetId": 28765,
     "name": "Zé Roberto",
@@ -975,7 +1072,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 16000,
+    "price": 18500,
     "resourceId": 5454,
     "assetId": 5454,
     "name": "Bixente Lizarazu",
@@ -1016,7 +1113,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 18250,
+    "price": 24250,
     "resourceId": 269603,
     "assetId": 269603,
     "name": "Włodzimierz Smolarek",
@@ -1059,7 +1156,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 25250,
+    "price": 17750,
     "resourceId": 166676,
     "assetId": 166676,
     "name": "Rudi Völler",
@@ -1101,7 +1198,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 16750,
+    "price": 17000,
     "resourceId": 261593,
     "assetId": 261593,
     "name": "Jürgen Kohler",
