@@ -491,6 +491,60 @@
     "resourceId": 50591436,
     "assetId": 259788
   },
+  "50595888": {
+    "name": "Gavi",
+    "cardName": "Gavi",
+    "originalVersionId": "58",
+    "clubId": 241,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "58",
+    "rating": 89,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      16,
+      18,
+      20,
+      21,
+      24,
+      26,
+      8
+    ],
+    "playStylesPlus": [
+      11,
+      9
+    ],
+    "rolesPlus": [
+      20,
+      22,
+      33,
+      34,
+      118,
+      119,
+      121,
+      131,
+      132
+    ],
+    "attributes": [
+      87,
+      80,
+      88,
+      91,
+      87,
+      86
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 50750,
+    "resourceId": 50595888,
+    "assetId": 264240
+  },
   "50595946": {
     "name": "Conor Bradley",
     "cardName": "Bradley",
@@ -994,5 +1048,66 @@
     "sbcPrice": 88250,
     "resourceId": 67387263,
     "assetId": 278399
+  },
+  "84126770": {
+    "name": "Nico Gonzalez",
+    "cardName": "Gonzalez",
+    "originalVersionId": "58",
+    "clubId": 240,
+    "leagueId": 53,
+    "countryId": 52,
+    "versionId": "58",
+    "rating": 89,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      19,
+      22,
+      4,
+      6,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      20,
+      21
+    ],
+    "rolesPlus": [
+      25,
+      29,
+      37,
+      40,
+      123,
+      124,
+      126,
+      127,
+      128,
+      130,
+      135,
+      136,
+      138,
+      139
+    ],
+    "attributes": [
+      93,
+      88,
+      88,
+      90,
+      57,
+      85
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 53000,
+    "resourceId": 84126770,
+    "assetId": 240690
   }
 }

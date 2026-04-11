@@ -70,7 +70,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1100,
       "resourceId": 74463,
       "assetId": 74463
     },
@@ -106,7 +106,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 0,
       "resourceId": 80674,
       "assetId": 80674
     },
@@ -142,7 +142,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1000,
       "resourceId": 186153,
       "assetId": 186153
     },
@@ -336,52 +336,9 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1800,
       "resourceId": 259532,
       "assetId": 259532
-    },
-    "264240": {
-      "name": "Gavi",
-      "cardName": "Gavi",
-      "originalVersionId": "1",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "3002",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        11,
-        18,
-        24,
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        19,
-        22,
-        31
-      ],
-      "attributes": [
-        76,
-        66,
-        78,
-        85,
-        68,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 800,
-      "resourceId": 264240,
-      "assetId": 264240
     },
     "278923": {
       "name": "Héctor Fort",
@@ -461,7 +418,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 99500,
+      "price": 92500,
       "resourceId": 50524096,
       "assetId": 192448
     },
@@ -508,7 +465,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 48750,
+      "price": 65000,
       "resourceId": 50573109,
       "assetId": 241461
     },
@@ -617,6 +574,60 @@
       "sbcPrice": 129250,
       "resourceId": 50584811,
       "assetId": 253163
+    },
+    "50595888": {
+      "name": "Gavi",
+      "cardName": "Gavi",
+      "originalVersionId": "58",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "58",
+      "rating": 89,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        18,
+        20,
+        21,
+        24,
+        26,
+        8
+      ],
+      "playStylesPlus": [
+        11,
+        9
+      ],
+      "rolesPlus": [
+        20,
+        22,
+        33,
+        34,
+        118,
+        119,
+        121,
+        131,
+        132
+      ],
+      "attributes": [
+        87,
+        80,
+        88,
+        91,
+        87,
+        86
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 50750,
+      "resourceId": 50595888,
+      "assetId": 264240
     },
     "50604248": {
       "name": "Marc Casadó",
@@ -770,7 +781,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 1099000,
+      "price": 767000,
       "resourceId": 67350350,
       "assetId": 241486
     },
@@ -822,7 +833,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 2250000,
+      "price": 2251000,
       "resourceId": 67360718,
       "assetId": 251854
     },
@@ -865,7 +876,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 158000,
+      "price": 137000,
       "resourceId": 67372442,
       "assetId": 263578
     },
@@ -917,7 +928,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 37000,
+      "price": 36250,
       "resourceId": 67374464,
       "assetId": 265600
     },
@@ -965,7 +976,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 180250,
+      "sbcPrice": 161250,
       "resourceId": 67386910,
       "assetId": 278046
     },
@@ -1015,7 +1026,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 383000,
+      "price": 377000,
       "resourceId": 84074625,
       "assetId": 188545
     },
@@ -1135,7 +1146,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 5000000,
+      "price": 4379000,
       "resourceId": 84119499,
       "assetId": 233419
     },
@@ -1191,7 +1202,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 1999000,
+      "price": 1986000,
       "resourceId": 100894973,
       "assetId": 231677
     },
@@ -1246,7 +1257,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 200000,
+      "price": 202000,
       "resourceId": 100940475,
       "assetId": 277179
     },
@@ -1297,7 +1308,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 910000,
+      "price": 900000,
       "resourceId": 100940939,
       "assetId": 277643
     },
@@ -1341,7 +1352,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 2150000,
+      "price": 1991000,
       "resourceId": 117718155,
       "assetId": 277643
     }
