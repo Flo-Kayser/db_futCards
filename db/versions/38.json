@@ -106,6 +106,62 @@
     "resourceId": 50540568,
     "assetId": 208920
   },
+  "50561241": {
+    "name": "Marko Pjaca",
+    "cardName": "Pjaca",
+    "originalVersionId": "38",
+    "clubId": 1908,
+    "leagueId": 10,
+    "countryId": 10,
+    "versionId": "38",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      21,
+      22,
+      23,
+      24,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      20
+    ],
+    "rolesPlus": [
+      28,
+      37,
+      127,
+      129,
+      130,
+      135,
+      136,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      91,
+      87,
+      86,
+      92,
+      60,
+      84
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 26250,
+    "resourceId": 50561241,
+    "assetId": 229593
+  },
   "50563729": {
     "name": "Richie Laryea",
     "cardName": "Laryea",
@@ -274,7 +330,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 32250,
+    "sbcPrice": 26500,
     "resourceId": 50571015,
     "assetId": 239367
   },
@@ -437,7 +493,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 32000,
+    "sbcPrice": 26500,
     "resourceId": 50593786,
     "assetId": 262138
   },
@@ -491,6 +547,114 @@
     "sbcPrice": 32000,
     "resourceId": 50594050,
     "assetId": 262402
+  },
+  "50595936": {
+    "name": "Alexandre Penetra",
+    "cardName": "Alexandre Penetra",
+    "originalVersionId": "38",
+    "clubId": 1906,
+    "leagueId": 10,
+    "countryId": 38,
+    "versionId": "38",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "RB"
+    ],
+    "playStyles": [
+      14,
+      15,
+      18,
+      19,
+      26,
+      28,
+      9
+    ],
+    "playStylesPlus": [
+      16,
+      17
+    ],
+    "rolesPlus": [
+      5,
+      48,
+      103,
+      104,
+      111,
+      112,
+      113
+    ],
+    "attributes": [
+      86,
+      61,
+      81,
+      83,
+      89,
+      88
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 18000,
+    "resourceId": 50595936,
+    "assetId": 264288
+  },
+  "50604005": {
+    "name": "Lucas Rosa",
+    "cardName": "Lucas Rosa",
+    "originalVersionId": "38",
+    "clubId": 245,
+    "leagueId": 10,
+    "countryId": 54,
+    "versionId": "38",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      12,
+      15,
+      16,
+      17,
+      20,
+      22,
+      9
+    ],
+    "playStylesPlus": [
+      14,
+      25
+    ],
+    "rolesPlus": [
+      4,
+      8,
+      23,
+      103,
+      105,
+      106,
+      107,
+      109,
+      110,
+      124
+    ],
+    "attributes": [
+      91,
+      68,
+      83,
+      88,
+      88,
+      88
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 32750,
+    "resourceId": 50604005,
+    "assetId": 272357
   },
   "50608949": {
     "name": "Gabriel Pirani",
@@ -652,6 +816,54 @@
     "resourceId": 67341529,
     "assetId": 232665
   },
+  "67348820": {
+    "name": "Myron Boadu",
+    "cardName": "Boadu",
+    "originalVersionId": "38",
+    "clubId": 247,
+    "leagueId": 10,
+    "countryId": 34,
+    "versionId": "38",
+    "rating": 88,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      2,
+      20,
+      22,
+      24,
+      4,
+      9
+    ],
+    "playStylesPlus": [
+      25,
+      6
+    ],
+    "rolesPlus": [
+      44,
+      141,
+      142,
+      143
+    ],
+    "attributes": [
+      92,
+      88,
+      84,
+      89,
+      44,
+      83
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 26250,
+    "resourceId": 67348820,
+    "assetId": 239956
+  },
   "67350792": {
     "name": "Albert Sambi Lokonga",
     "cardName": "Sambi Lokonga",
@@ -701,7 +913,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 42750,
+    "sbcPrice": 41000,
     "resourceId": 67350792,
     "assetId": 241928
   },
@@ -753,7 +965,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 32250,
+    "sbcPrice": 26250,
     "resourceId": 67360901,
     "assetId": 252037
   },

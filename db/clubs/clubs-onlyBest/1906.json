@@ -34,7 +34,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 250,
       "resourceId": 75516,
       "assetId": 75516
     },
@@ -418,7 +418,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 6400,
+      "price": 1000,
       "resourceId": 263099,
       "assetId": 263099
     },
@@ -458,46 +458,6 @@
       "price": 350,
       "resourceId": 264263,
       "assetId": 264263
-    },
-    "264288": {
-      "name": "Alexandre Penetra",
-      "cardName": "Alexandre Penetra",
-      "originalVersionId": "1",
-      "clubId": 1906,
-      "leagueId": 10,
-      "countryId": 38,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "RB"
-      ],
-      "playStyles": [
-        15,
-        17
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        4,
-        11,
-        13
-      ],
-      "attributes": [
-        67,
-        36,
-        56,
-        59,
-        75,
-        75
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 264288,
-      "assetId": 264288
     },
     "265741": {
       "name": "Zico Buurmeester",
@@ -722,7 +682,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 6900,
       "resourceId": 269159,
       "assetId": 269159
     },
@@ -756,7 +716,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 5100,
       "resourceId": 269259,
       "assetId": 269259
     },
@@ -791,7 +751,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 700,
       "resourceId": 271147,
       "assetId": 271147
     },
@@ -997,7 +957,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 15000,
       "resourceId": 50403180,
       "assetId": 71532
     },
@@ -1120,7 +1080,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 12750,
+      "price": 18500,
       "resourceId": 50410432,
       "assetId": 78784
     },
@@ -1174,9 +1134,61 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 19750,
       "resourceId": 50591724,
       "assetId": 260076
+    },
+    "50595936": {
+      "name": "Alexandre Penetra",
+      "cardName": "Alexandre Penetra",
+      "originalVersionId": "38",
+      "clubId": 1906,
+      "leagueId": 10,
+      "countryId": 38,
+      "versionId": "38",
+      "rating": 88,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        14,
+        15,
+        18,
+        19,
+        26,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        16,
+        17
+      ],
+      "rolesPlus": [
+        5,
+        48,
+        103,
+        104,
+        111,
+        112,
+        113
+      ],
+      "attributes": [
+        86,
+        61,
+        81,
+        83,
+        89,
+        88
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 18000,
+      "resourceId": 50595936,
+      "assetId": 264288
     },
     "67350699": {
       "name": "Jizz Hornkamp",
@@ -1258,7 +1270,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 18500,
+      "price": 20000,
       "resourceId": 84131982,
       "assetId": 245902
     }
