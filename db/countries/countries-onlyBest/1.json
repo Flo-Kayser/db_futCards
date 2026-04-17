@@ -169,7 +169,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 1000,
     "resourceId": 73838,
     "assetId": 73838
   },
@@ -238,7 +238,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 5000,
     "resourceId": 77338,
     "assetId": 77338
   },
@@ -726,7 +726,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 1700,
+    "price": 1000,
     "resourceId": 235194,
     "assetId": 235194
   },
@@ -1197,7 +1197,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 3700,
+    "price": 800,
     "resourceId": 250816,
     "assetId": 250816
   },
@@ -1615,7 +1615,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 5400,
     "resourceId": 264467,
     "assetId": 264467
   },
@@ -1689,7 +1689,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 2000,
     "resourceId": 268466,
     "assetId": 268466
   },
@@ -1906,7 +1906,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 400,
     "resourceId": 272787,
     "assetId": 272787
   },
@@ -2011,7 +2011,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 200,
     "resourceId": 277030,
     "assetId": 277030
   },
@@ -2117,7 +2117,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 3500,
     "resourceId": 279896,
     "assetId": 279896
   },
@@ -2262,44 +2262,6 @@
     "price": 200,
     "resourceId": 50411039,
     "assetId": 79391
-  },
-  "50543799": {
-    "name": "Thomas Strakosha",
-    "cardName": "Strakosha",
-    "originalVersionId": "3",
-    "clubId": 278,
-    "leagueId": 63,
-    "countryId": 1,
-    "versionId": "3",
-    "rating": 80,
-    "preferredFoot": "Right",
-    "weakFoot": 1,
-    "skillMoves": 1,
-    "preferredPosition": "GK",
-    "possiblePositions": [
-      "GK"
-    ],
-    "playStyles": [
-      30,
-      34,
-      35
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      101
-    ],
-    "attributes": [
-      82,
-      78,
-      75,
-      83,
-      50,
-      80
-    ],
-    "hasDynamicImage": false,
-    "price": 0,
-    "resourceId": 50543799,
-    "assetId": 212151
   },
   "50566842": {
     "name": "Giacomo Vrioni",
@@ -2493,7 +2455,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 2900,
+    "price": 10000,
     "resourceId": 50596347,
     "assetId": 264699
   },
@@ -2533,7 +2495,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 2500,
     "resourceId": 50602867,
     "assetId": 271219
   },
@@ -2572,6 +2534,52 @@
     "price": 200,
     "resourceId": 50608678,
     "assetId": 277030
+  },
+  "67321015": {
+    "name": "Thomas Strakosha",
+    "cardName": "Strakosha",
+    "originalVersionId": "11",
+    "clubId": 278,
+    "leagueId": 63,
+    "countryId": 1,
+    "versionId": "11",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      30,
+      31,
+      32,
+      33,
+      9
+    ],
+    "playStylesPlus": [
+      10,
+      34,
+      35
+    ],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      93,
+      90,
+      86,
+      94,
+      80,
+      91
+    ],
+    "hasDynamicImage": true,
+    "price": 25000,
+    "resourceId": 67321015,
+    "assetId": 212151
   },
   "67373563": {
     "name": "Kristjan Asllani",

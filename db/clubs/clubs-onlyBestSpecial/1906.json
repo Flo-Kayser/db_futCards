@@ -51,7 +51,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 15000,
+      "price": 14500,
       "resourceId": 50403180,
       "assetId": 71532
     },
@@ -104,7 +104,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 18500,
+      "price": 15000,
       "resourceId": 50410432,
       "assetId": 78784
     },
@@ -127,6 +127,7 @@
       ],
       "playStyles": [
         11,
+        15,
         17,
         20,
         24,
@@ -158,7 +159,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 19750,
+      "price": 14750,
       "resourceId": 50591724,
       "assetId": 260076
     },
@@ -233,6 +234,7 @@
       "playStyles": [
         0,
         1,
+        2,
         20,
         22,
         25,
@@ -258,8 +260,58 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 17500,
       "resourceId": 84131982,
+      "assetId": 245902
+    },
+    "100909198": {
+      "name": "Troy Parrott",
+      "cardName": "Parrott",
+      "originalVersionId": "65",
+      "clubId": 1906,
+      "leagueId": 10,
+      "countryId": 25,
+      "versionId": "65",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        24,
+        4,
+        6,
+        7,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        22,
+        25
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        93,
+        88,
+        91,
+        63,
+        85
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 100909198,
       "assetId": 245902
     }
   }

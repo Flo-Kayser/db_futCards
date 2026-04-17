@@ -279,7 +279,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 5000,
     "resourceId": 77338,
     "assetId": 77338
   },
@@ -314,7 +314,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 2800,
+    "price": 1500,
     "resourceId": 78127,
     "assetId": 78127
   },
@@ -386,7 +386,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 2900,
+    "price": 5100,
     "resourceId": 79110,
     "assetId": 79110
   },
@@ -454,7 +454,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 5800,
     "resourceId": 79381,
     "assetId": 79381
   },
@@ -595,7 +595,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 4500,
     "resourceId": 80285,
     "assetId": 80285
   },
@@ -712,7 +712,7 @@
       49
     ],
     "hasDynamicImage": false,
-    "price": 4800,
+    "price": 9000,
     "resourceId": 193476,
     "assetId": 193476
   },
@@ -866,7 +866,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 7800,
+    "price": 8900,
     "resourceId": 202113,
     "assetId": 202113
   },
@@ -1362,7 +1362,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 2400,
+    "price": 10000,
     "resourceId": 212187,
     "assetId": 212187
   },
@@ -2059,7 +2059,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 200,
     "resourceId": 229575,
     "assetId": 229575
   },
@@ -2479,7 +2479,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 9400,
+    "price": 350,
     "resourceId": 235029,
     "assetId": 235029
   },
@@ -2562,7 +2562,7 @@
       49
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 800,
     "resourceId": 235949,
     "assetId": 235949
   },
@@ -2853,7 +2853,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 350,
     "resourceId": 240702,
     "assetId": 240702
   },
@@ -3043,7 +3043,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 350,
     "resourceId": 244949,
     "assetId": 244949
   },
@@ -3153,7 +3153,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 6200,
+    "price": 6400,
     "resourceId": 247641,
     "assetId": 247641
   },
@@ -3381,7 +3381,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1000,
     "resourceId": 253213,
     "assetId": 253213
   },
@@ -3756,7 +3756,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 10000,
     "resourceId": 262822,
     "assetId": 262822
   },
@@ -4132,47 +4132,9 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 46750,
+    "price": 40500,
     "resourceId": 50526734,
     "assetId": 195086
-  },
-  "50543799": {
-    "name": "Thomas Strakosha",
-    "cardName": "Strakosha",
-    "originalVersionId": "3",
-    "clubId": 278,
-    "leagueId": 63,
-    "countryId": 1,
-    "versionId": "3",
-    "rating": 80,
-    "preferredFoot": "Right",
-    "weakFoot": 1,
-    "skillMoves": 1,
-    "preferredPosition": "GK",
-    "possiblePositions": [
-      "GK"
-    ],
-    "playStyles": [
-      30,
-      34,
-      35
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      101
-    ],
-    "attributes": [
-      82,
-      78,
-      75,
-      83,
-      50,
-      80
-    ],
-    "hasDynamicImage": false,
-    "price": 0,
-    "resourceId": 50543799,
-    "assetId": 212151
   },
   "50544462": {
     "name": "João Mário",
@@ -4315,6 +4277,7 @@
       21,
       25,
       26,
+      6,
       8,
       9
     ],
@@ -4343,7 +4306,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 11250,
     "resourceId": 50556222,
     "assetId": 224574
   },
@@ -4676,7 +4639,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 44000,
+    "price": 60000,
     "resourceId": 50592491,
     "assetId": 260843
   },
@@ -4948,5 +4911,51 @@
     "price": 350,
     "resourceId": 67292258,
     "assetId": 183394
+  },
+  "67321015": {
+    "name": "Thomas Strakosha",
+    "cardName": "Strakosha",
+    "originalVersionId": "11",
+    "clubId": 278,
+    "leagueId": 63,
+    "countryId": 1,
+    "versionId": "11",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      30,
+      31,
+      32,
+      33,
+      9
+    ],
+    "playStylesPlus": [
+      10,
+      34,
+      35
+    ],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      93,
+      90,
+      86,
+      94,
+      80,
+      91
+    ],
+    "hasDynamicImage": true,
+    "price": 25000,
+    "resourceId": 67321015,
+    "assetId": 212151
   }
 }

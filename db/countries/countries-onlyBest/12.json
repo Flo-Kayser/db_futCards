@@ -556,7 +556,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 6500,
+    "price": 10000,
     "resourceId": 77379,
     "assetId": 77379
   },
@@ -809,7 +809,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 1800,
     "resourceId": 199244,
     "assetId": 199244
   },
@@ -996,7 +996,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 3000,
+    "price": 5000,
     "resourceId": 204111,
     "assetId": 204111
   },
@@ -1032,7 +1032,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 10000,
     "resourceId": 204121,
     "assetId": 204121
   },
@@ -1289,7 +1289,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 8500,
+    "price": 700,
     "resourceId": 238940,
     "assetId": 238940
   },
@@ -1406,7 +1406,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 6300,
+    "price": 0,
     "resourceId": 240283,
     "assetId": 240283
   },
@@ -1553,7 +1553,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 200,
     "resourceId": 244787,
     "assetId": 244787
   },
@@ -1597,45 +1597,6 @@
     "price": 350,
     "resourceId": 244788,
     "assetId": 244788
-  },
-  "244793": {
-    "name": "Tomáš Chorý",
-    "cardName": "Chorý",
-    "originalVersionId": "0",
-    "clubId": 266,
-    "leagueId": 319,
-    "countryId": 12,
-    "versionId": "2002",
-    "rating": 75,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      24,
-      4
-    ],
-    "playStylesPlus": [
-      19
-    ],
-    "rolesPlus": [
-      41
-    ],
-    "attributes": [
-      57,
-      75,
-      60,
-      64,
-      32,
-      88
-    ],
-    "hasDynamicImage": false,
-    "price": 350,
-    "resourceId": 244793,
-    "assetId": 244793
   },
   "244796": {
     "name": "Matěj Valenta",
@@ -1827,7 +1788,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 200,
     "resourceId": 246919,
     "assetId": 246919
   },
@@ -2312,7 +2273,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 950,
     "resourceId": 256970,
     "assetId": 256970
   },
@@ -2349,7 +2310,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 750,
     "resourceId": 257533,
     "assetId": 257533
   },
@@ -2460,7 +2421,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 550,
     "resourceId": 258936,
     "assetId": 258936
   },
@@ -2785,7 +2746,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 2400,
+    "price": 4700,
     "resourceId": 267593,
     "assetId": 267593
   },
@@ -2827,7 +2788,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 1900,
+    "price": 2400,
     "resourceId": 267594,
     "assetId": 267594
   },
@@ -3324,7 +3285,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 550,
     "resourceId": 272872,
     "assetId": 272872
   },
@@ -3364,7 +3325,7 @@
       55
     ],
     "hasDynamicImage": false,
-    "price": 9100,
+    "price": 2500,
     "resourceId": 274452,
     "assetId": 274452
   },
@@ -3846,7 +3807,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 85500,
+    "price": 95500,
     "resourceId": 50337883,
     "assetId": 6235
   },
@@ -3905,7 +3866,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 12750,
     "resourceId": 50340121,
     "assetId": 8473
   },
@@ -4089,6 +4050,55 @@
     "resourceId": 50576118,
     "assetId": 244470
   },
+  "50576441": {
+    "name": "Tomáš Chorý",
+    "cardName": "Chorý",
+    "originalVersionId": "11",
+    "clubId": 266,
+    "leagueId": 319,
+    "countryId": 12,
+    "versionId": "11",
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      19,
+      2,
+      21,
+      24,
+      7
+    ],
+    "playStylesPlus": [
+      29,
+      4,
+      6
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      90,
+      94,
+      80,
+      93,
+      55,
+      95
+    ],
+    "hasDynamicImage": true,
+    "price": 118000,
+    "resourceId": 50576441,
+    "assetId": 244793
+  },
   "50578567": {
     "name": "Tomáš Čvančara",
     "cardName": "Čvančara",
@@ -4122,7 +4132,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 1700,
     "resourceId": 50578567,
     "assetId": 246919
   },
@@ -4171,7 +4181,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 35000,
+    "price": 38250,
     "resourceId": 50578698,
     "assetId": 247050
   },
@@ -4364,7 +4374,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 13250,
     "resourceId": 67325724,
     "assetId": 216860
   },
@@ -4446,7 +4456,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 20750,
+    "price": 20000,
     "resourceId": 84120316,
     "assetId": 234236
   },
@@ -4496,7 +4506,7 @@
       92
     ],
     "hasDynamicImage": false,
-    "price": 18000,
+    "price": 17500,
     "resourceId": 84138144,
     "assetId": 252064
   }

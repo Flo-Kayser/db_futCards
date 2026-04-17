@@ -67,7 +67,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 79420,
       "assetId": 79420
     },
@@ -104,7 +104,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 2000,
       "resourceId": 176048,
       "assetId": 176048
     },
@@ -222,7 +222,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 6700,
+      "price": 10000,
       "resourceId": 213719,
       "assetId": 213719
     },
@@ -339,7 +339,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 950,
       "resourceId": 217242,
       "assetId": 217242
     },
@@ -832,7 +832,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 350,
       "resourceId": 260842,
       "assetId": 260842
     },
@@ -1126,7 +1126,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 6500,
       "resourceId": 50571980,
       "assetId": 240332
     },
@@ -1273,9 +1273,69 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 2000,
       "resourceId": 50607714,
       "assetId": 276066
+    },
+    "67343369": {
+      "name": "Evander",
+      "cardName": "Evander",
+      "originalVersionId": "11",
+      "clubId": 113149,
+      "leagueId": 39,
+      "countryId": 54,
+      "versionId": "11",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        13,
+        24,
+        7,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        20,
+        6
+      ],
+      "rolesPlus": [
+        18,
+        19,
+        20,
+        41,
+        44,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        142,
+        143
+      ],
+      "attributes": [
+        92,
+        92,
+        95,
+        94,
+        82,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67343369,
+      "assetId": 234505
     }
   }
 }

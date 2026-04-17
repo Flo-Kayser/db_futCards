@@ -77,7 +77,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 75516,
       "assetId": 75516
     },
@@ -576,7 +576,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 850,
       "resourceId": 263099,
       "assetId": 263099
     },
@@ -880,7 +880,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 6900,
+      "price": 4000,
       "resourceId": 269159,
       "assetId": 269159
     },
@@ -914,7 +914,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4600,
       "resourceId": 269259,
       "assetId": 269259
     },
@@ -949,7 +949,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 200,
       "resourceId": 271147,
       "assetId": 271147
     },
@@ -1101,7 +1101,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 3600,
       "resourceId": 277864,
       "assetId": 277864
     },
@@ -1155,7 +1155,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 15000,
+      "price": 14500,
       "resourceId": 50403180,
       "assetId": 71532
     },
@@ -1278,7 +1278,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 18500,
+      "price": 15000,
       "resourceId": 50410432,
       "assetId": 78784
     },
@@ -1346,6 +1346,7 @@
       ],
       "playStyles": [
         11,
+        15,
         17,
         20,
         24,
@@ -1377,7 +1378,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 19750,
+      "price": 14750,
       "resourceId": 50591724,
       "assetId": 260076
     },
@@ -1508,7 +1509,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 23750,
+      "price": 21000,
       "resourceId": 67354766,
       "assetId": 245902
     },
@@ -1531,6 +1532,7 @@
       "playStyles": [
         0,
         1,
+        2,
         20,
         22,
         25,
@@ -1556,8 +1558,58 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 17500,
       "resourceId": 84131982,
+      "assetId": 245902
+    },
+    "100909198": {
+      "name": "Troy Parrott",
+      "cardName": "Parrott",
+      "originalVersionId": "65",
+      "clubId": 1906,
+      "leagueId": 10,
+      "countryId": 25,
+      "versionId": "65",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        24,
+        4,
+        6,
+        7,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        22,
+        25
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        93,
+        88,
+        91,
+        63,
+        85
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 100909198,
       "assetId": 245902
     }
   }

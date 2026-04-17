@@ -65,7 +65,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 73873,
       "assetId": 73873
     },
@@ -133,7 +133,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 3800,
       "resourceId": 80611,
       "assetId": 80611
     },
@@ -248,7 +248,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 10000,
       "resourceId": 201940,
       "assetId": 201940
     },
@@ -476,7 +476,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 700,
       "resourceId": 246300,
       "assetId": 246300
     },
@@ -704,7 +704,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 6000,
+      "price": 350,
       "resourceId": 261140,
       "assetId": 261140
     },
@@ -738,7 +738,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 8500,
       "resourceId": 270652,
       "assetId": 270652
     },
@@ -1006,7 +1006,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 34000,
+      "price": 35000,
       "resourceId": 67321586,
       "assetId": 212722
     },
@@ -1047,57 +1047,62 @@
       "resourceId": 67369706,
       "assetId": 260842
     },
-    "67379381": {
+    "84156597": {
       "name": "Diego Luna",
       "cardName": "Luna",
-      "originalVersionId": "71",
+      "originalVersionId": "120",
       "clubId": 111065,
       "leagueId": 39,
       "countryId": 95,
-      "versionId": "71",
-      "rating": 89,
+      "versionId": "120",
+      "rating": 93,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 4,
-      "preferredPosition": "LM",
+      "preferredPosition": "CAM",
       "possiblePositions": [
         "CAM",
         "LM",
         "LW"
       ],
       "playStyles": [
-        0,
+        10,
+        11,
         12,
+        13,
         21,
         22,
         24
       ],
       "playStylesPlus": [
+        0,
         20,
         8
       ],
       "rolesPlus": [
-        30,
-        32,
-        33,
-        39,
-        128,
-        129,
+        28,
+        29,
+        40,
+        127,
+        130,
         131,
+        132,
+        133,
         134,
-        140
+        138,
+        139
       ],
       "attributes": [
-        89,
-        87,
         90,
-        90,
-        60,
-        85
+        88,
+        93,
+        91,
+        62,
+        86
       ],
       "hasDynamicImage": true,
-      "price": 24500,
-      "resourceId": 67379381,
+      "price": 0,
+      "resourceId": 84156597,
       "assetId": 270517
     }
   }

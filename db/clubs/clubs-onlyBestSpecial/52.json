@@ -44,7 +44,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 280000,
+      "price": 340000,
       "resourceId": 50522461,
       "assetId": 190813
     },
@@ -94,7 +94,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 18000,
       "resourceId": 50539916,
       "assetId": 208268
     },
@@ -136,7 +136,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 65000,
+      "price": 70000,
       "resourceId": 50559899,
       "assetId": 228251
     },
@@ -178,9 +178,102 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 30750,
+      "price": 27750,
       "resourceId": 50561230,
       "assetId": 229582
+    },
+    "50562520": {
+      "name": "Mile Svilar",
+      "cardName": "Svilar",
+      "originalVersionId": "11",
+      "clubId": 52,
+      "leagueId": 31,
+      "countryId": 51,
+      "versionId": "11",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        31,
+        35
+      ],
+      "playStylesPlus": [
+        32,
+        33,
+        34
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        90,
+        90,
+        87,
+        93,
+        70,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50562520,
+      "assetId": 230872
+    },
+    "50568051": {
+      "name": "Evan Ndicka",
+      "cardName": "Ndicka",
+      "originalVersionId": "11",
+      "clubId": 52,
+      "leagueId": 31,
+      "countryId": 108,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        16,
+        18,
+        19,
+        25,
+        9
+      ],
+      "playStylesPlus": [
+        15,
+        17,
+        28
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        88,
+        64,
+        82,
+        85,
+        93,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 300000,
+      "resourceId": 50568051,
+      "assetId": 236403
     },
     "50582371": {
       "name": "Kouadio Manu Koné",
@@ -224,58 +317,9 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 113000,
+      "price": 157000,
       "resourceId": 50582371,
       "assetId": 250723
-    },
-    "67189034": {
-      "name": "Wesley",
-      "cardName": "Wesley",
-      "originalVersionId": "71",
-      "clubId": 52,
-      "leagueId": 31,
-      "countryId": 54,
-      "versionId": "71",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        12,
-        14,
-        17,
-        18,
-        20,
-        26
-      ],
-      "playStylesPlus": [
-        25
-      ],
-      "rolesPlus": [
-        3,
-        4,
-        23,
-        105,
-        106,
-        124
-      ],
-      "attributes": [
-        92,
-        75,
-        84,
-        88,
-        85,
-        84
-      ],
-      "hasDynamicImage": true,
-      "price": 75500,
-      "resourceId": 67189034,
-      "assetId": 80170
     },
     "67340311": {
       "name": "Donyell Malen",
@@ -332,9 +376,73 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 54500,
+      "price": 39000,
       "resourceId": 67340311,
       "assetId": 231447
+    },
+    "83966250": {
+      "name": "Wesley",
+      "cardName": "Wesley",
+      "originalVersionId": "120",
+      "clubId": 52,
+      "leagueId": 31,
+      "countryId": 54,
+      "versionId": "120",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        12,
+        14,
+        18,
+        20,
+        21,
+        26
+      ],
+      "playStylesPlus": [
+        16,
+        25,
+        8
+      ],
+      "rolesPlus": [
+        3,
+        4,
+        105,
+        106,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        146
+      ],
+      "attributes": [
+        95,
+        80,
+        87,
+        91,
+        90,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 83966250,
+      "assetId": 80170
     },
     "84097190": {
       "name": "Paulo Dybala",
@@ -377,7 +485,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 287000,
+      "price": 228000,
       "resourceId": 84097190,
       "assetId": 211110
     },
@@ -428,7 +536,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 22750,
+      "price": 25000,
       "resourceId": 84151775,
       "assetId": 265695
     }

@@ -40,7 +40,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 211000,
+    "price": 161000,
     "resourceId": 240,
     "assetId": 240
   },
@@ -81,7 +81,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 14000,
+    "price": 13000,
     "resourceId": 330,
     "assetId": 330
   },
@@ -132,7 +132,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 304000,
+    "price": 417000,
     "resourceId": 50331888,
     "assetId": 240
   },
@@ -181,7 +181,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17500,
     "resourceId": 50512466,
     "assetId": 180818
   },
@@ -223,7 +223,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 44500,
+    "price": 32750,
     "resourceId": 50521456,
     "assetId": 189808
   },
@@ -275,7 +275,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 23500,
+    "price": 19750,
     "resourceId": 50530137,
     "assetId": 198489
   },
@@ -327,7 +327,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17500,
     "resourceId": 50541911,
     "assetId": 210263
   },
@@ -413,7 +413,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 26750,
+    "price": 29000,
     "resourceId": 50580132,
     "assetId": 248484
   },
@@ -458,7 +458,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 21250,
+    "price": 21500,
     "resourceId": 50596887,
     "assetId": 265239
   },
@@ -499,7 +499,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 42750,
+    "price": 36750,
     "resourceId": 50597477,
     "assetId": 265829
   },
@@ -543,7 +543,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 14500,
     "resourceId": 50598886,
     "assetId": 267238
   },
@@ -590,7 +590,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 21250,
+    "price": 20000,
     "resourceId": 67325328,
     "assetId": 216464
   },
@@ -633,7 +633,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 23750,
+    "price": 21000,
     "resourceId": 67354766,
     "assetId": 245902
   },
@@ -678,7 +678,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 22000,
+    "price": 22250,
     "resourceId": 67360930,
     "assetId": 252066
   },
@@ -722,7 +722,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 12500,
     "resourceId": 67374103,
     "assetId": 265239
   },
@@ -745,6 +745,7 @@
     "playStyles": [
       0,
       1,
+      2,
       20,
       22,
       25,
@@ -770,7 +771,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 17500,
     "resourceId": 84131982,
     "assetId": 245902
   },
@@ -884,8 +885,58 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 99000,
+    "price": 114000,
     "resourceId": 84153318,
     "assetId": 267238
+  },
+  "100909198": {
+    "name": "Troy Parrott",
+    "cardName": "Parrott",
+    "originalVersionId": "65",
+    "clubId": 1906,
+    "leagueId": 10,
+    "countryId": 25,
+    "versionId": "65",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      20,
+      24,
+      4,
+      6,
+      7,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      22,
+      25
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      93,
+      93,
+      88,
+      91,
+      63,
+      85
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100909198,
+    "assetId": 245902
   }
 }

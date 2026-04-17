@@ -38,7 +38,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 32000,
+    "price": 39500,
     "resourceId": 50404840,
     "assetId": 73192
   },
@@ -82,7 +82,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17500,
     "resourceId": 50541629,
     "assetId": 209981
   },
@@ -129,7 +129,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 67500,
+    "price": 60500,
     "resourceId": 50563058,
     "assetId": 231410
   },
@@ -171,7 +171,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 26750,
+    "price": 25500,
     "resourceId": 50567538,
     "assetId": 235890
   },
@@ -217,7 +217,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 24500,
+    "price": 21000,
     "resourceId": 50574442,
     "assetId": 242794
   },
@@ -265,64 +265,9 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 18000,
     "resourceId": 50574817,
     "assetId": 243169
-  },
-  "50578608": {
-    "name": "Mohamed Ihattaren",
-    "cardName": "Ihattaren",
-    "originalVersionId": "3",
-    "clubId": 634,
-    "leagueId": 10,
-    "countryId": 129,
-    "versionId": "3",
-    "rating": 84,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 4,
-    "preferredPosition": "RM",
-    "possiblePositions": [
-      "CAM",
-      "CM",
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      20,
-      22,
-      3,
-      6,
-      9
-    ],
-    "playStylesPlus": [
-      12
-    ],
-    "rolesPlus": [
-      18,
-      21,
-      23,
-      25,
-      31,
-      33,
-      35,
-      37,
-      126,
-      132,
-      136
-    ],
-    "attributes": [
-      83,
-      81,
-      86,
-      88,
-      54,
-      84
-    ],
-    "hasDynamicImage": true,
-    "price": 18000,
-    "resourceId": 50578608,
-    "assetId": 246960
   },
   "50586871": {
     "name": "Amine Adli",
@@ -368,7 +313,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 24750,
+    "price": 26750,
     "resourceId": 50586871,
     "assetId": 255223
   },
@@ -416,7 +361,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 166000,
+    "price": 137000,
     "resourceId": 50590401,
     "assetId": 258753
   },
@@ -465,7 +410,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 44000,
+    "price": 60000,
     "resourceId": 50592491,
     "assetId": 260843
   },
@@ -516,9 +461,65 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 19500,
+    "price": 18500,
     "resourceId": 50593948,
     "assetId": 262300
+  },
+  "50594121": {
+    "name": "Souffian El Karouani",
+    "cardName": "El Karouani",
+    "originalVersionId": "65",
+    "clubId": 1903,
+    "leagueId": 10,
+    "countryId": 129,
+    "versionId": "65",
+    "rating": 91,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      12,
+      14,
+      15,
+      16,
+      20,
+      25,
+      28
+    ],
+    "playStylesPlus": [
+      18,
+      3,
+      8
+    ],
+    "rolesPlus": [
+      27,
+      30,
+      107,
+      108,
+      109,
+      110,
+      128,
+      129,
+      147
+    ],
+    "attributes": [
+      92,
+      68,
+      91,
+      90,
+      88,
+      90
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50594121,
+    "assetId": 262473
   },
   "50596080": {
     "name": "Abdessamad Ezzalzouli",
@@ -567,7 +568,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 109000,
+    "price": 95500,
     "resourceId": 50596080,
     "assetId": 264432
   },
@@ -711,7 +712,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 72000,
+    "price": 71500,
     "resourceId": 67333022,
     "assetId": 224158
   },
@@ -793,6 +794,120 @@
     "resourceId": 67353613,
     "assetId": 244749
   },
+  "67355824": {
+    "name": "Mohamed Ihattaren",
+    "cardName": "Ihattaren",
+    "originalVersionId": "120",
+    "clubId": 634,
+    "leagueId": 10,
+    "countryId": 129,
+    "versionId": "120",
+    "rating": 91,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      12,
+      20,
+      24,
+      26,
+      3,
+      9
+    ],
+    "playStylesPlus": [
+      22,
+      6,
+      8
+    ],
+    "rolesPlus": [
+      18,
+      19,
+      20,
+      37,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136
+    ],
+    "attributes": [
+      90,
+      88,
+      93,
+      95,
+      61,
+      91
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67355824,
+    "assetId": 246960
+  },
+  "67368344": {
+    "name": "Ismael Saibari",
+    "cardName": "Saibari",
+    "originalVersionId": "11",
+    "clubId": 247,
+    "leagueId": 10,
+    "countryId": 129,
+    "versionId": "11",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      20,
+      22,
+      25,
+      26,
+      6,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      11,
+      24
+    ],
+    "rolesPlus": [
+      19,
+      20,
+      118,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134
+    ],
+    "attributes": [
+      94,
+      92,
+      91,
+      94,
+      67,
+      93
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67368344,
+    "assetId": 259480
+  },
   "67374442": {
     "name": "Ilias Akhomach",
     "cardName": "Akhomach",
@@ -845,7 +960,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 14000,
     "resourceId": 67374442,
     "assetId": 265578
   },
@@ -903,55 +1018,5 @@
     "sbcPrice": 55000,
     "resourceId": 67383912,
     "assetId": 275048
-  },
-  "84145560": {
-    "name": "Ismael Saibari",
-    "cardName": "Saibari",
-    "originalVersionId": "3",
-    "clubId": 247,
-    "leagueId": 10,
-    "countryId": 129,
-    "versionId": "3",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [
-      20,
-      25,
-      26,
-      6,
-      7
-    ],
-    "playStylesPlus": [
-      11,
-      24
-    ],
-    "rolesPlus": [
-      20,
-      22,
-      32,
-      33,
-      118,
-      121,
-      131
-    ],
-    "attributes": [
-      87,
-      85,
-      84,
-      90,
-      60,
-      86
-    ],
-    "hasDynamicImage": true,
-    "price": 17500,
-    "resourceId": 84145560,
-    "assetId": 259480
   }
 }

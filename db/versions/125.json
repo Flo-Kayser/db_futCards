@@ -53,7 +53,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 11000,
     "resourceId": 50525000,
     "assetId": 193352
   },
@@ -68,7 +68,7 @@
     "rating": 90,
     "preferredFoot": "Right",
     "weakFoot": 5,
-    "skillMoves": 4,
+    "skillMoves": 5,
     "preferredPosition": "CM",
     "possiblePositions": [
       "CAM",
@@ -78,6 +78,7 @@
     "playStyles": [
       0,
       16,
+      17,
       2,
       20,
       24,
@@ -89,15 +90,20 @@
       9
     ],
     "rolesPlus": [
-      14,
-      19,
-      34,
-      49,
+      114,
+      115,
       116,
+      117,
       118,
+      119,
       120,
       121,
-      131
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
     ],
     "attributes": [
       87,
@@ -157,7 +163,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 11250,
     "resourceId": 50552469,
     "assetId": 220821
   },
@@ -204,7 +210,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 44750,
+    "price": 21250,
     "resourceId": 50566225,
     "assetId": 234577
   },
@@ -218,7 +224,7 @@
     "versionId": "125",
     "rating": 90,
     "preferredFoot": "Right",
-    "weakFoot": 4,
+    "weakFoot": 5,
     "skillMoves": 4,
     "preferredPosition": "CAM",
     "possiblePositions": [
@@ -232,6 +238,7 @@
       20,
       21,
       22,
+      25,
       26,
       7
     ],
@@ -240,13 +247,14 @@
       8
     ],
     "rolesPlus": [
-      34,
-      41,
-      43,
       131,
       132,
       133,
-      142
+      134,
+      141,
+      142,
+      143,
+      144
     ],
     "attributes": [
       88,
@@ -257,7 +265,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 47250,
+    "price": 43750,
     "resourceId": 50567663,
     "assetId": 236015
   },
@@ -272,7 +280,7 @@
     "rating": 89,
     "preferredFoot": "Left",
     "weakFoot": 5,
-    "skillMoves": 4,
+    "skillMoves": 5,
     "preferredPosition": "LM",
     "possiblePositions": [
       "LB",
@@ -285,6 +293,7 @@
       20,
       21,
       22,
+      24,
       3,
       6,
       8
@@ -294,16 +303,18 @@
       2
     ],
     "rolesPlus": [
-      9,
-      29,
-      40,
-      47,
+      107,
+      108,
+      109,
       110,
       127,
       128,
+      129,
       130,
       138,
-      139
+      139,
+      140,
+      147
     ],
     "attributes": [
       90,
@@ -363,7 +374,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 11500,
     "resourceId": 50583669,
     "assetId": 252021
   },
@@ -377,7 +388,7 @@
     "versionId": "125",
     "rating": 88,
     "preferredFoot": "Right",
-    "weakFoot": 4,
+    "weakFoot": 5,
     "skillMoves": 4,
     "preferredPosition": "CAM",
     "possiblePositions": [
@@ -389,6 +400,7 @@
       10,
       11,
       20,
+      21,
       22,
       24,
       3,
@@ -399,14 +411,14 @@
       8
     ],
     "rolesPlus": [
-      34,
-      41,
-      42,
-      44,
       131,
       132,
       133,
-      143
+      134,
+      141,
+      142,
+      143,
+      144
     ],
     "attributes": [
       92,
@@ -530,7 +542,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 73000,
+    "price": 57500,
     "resourceId": 67321268,
     "assetId": 212404
   },
@@ -544,7 +556,7 @@
     "versionId": "125",
     "rating": 90,
     "preferredFoot": "Right",
-    "weakFoot": 4,
+    "weakFoot": 5,
     "skillMoves": 5,
     "preferredPosition": "LW",
     "possiblePositions": [
@@ -554,6 +566,7 @@
     ],
     "playStyles": [
       12,
+      13,
       20,
       22,
       23,
@@ -567,16 +580,16 @@
       21
     ],
     "rolesPlus": [
-      28,
-      29,
-      37,
-      40,
       127,
+      128,
+      129,
       130,
       135,
       136,
+      137,
       138,
-      139
+      139,
+      140
     ],
     "attributes": [
       93,
@@ -587,7 +600,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 329000,
+    "price": 236000,
     "resourceId": 67341913,
     "assetId": 233049
   },
@@ -601,7 +614,7 @@
     "versionId": "125",
     "rating": 91,
     "preferredFoot": "Right",
-    "weakFoot": 4,
+    "weakFoot": 5,
     "skillMoves": 4,
     "preferredPosition": "CDM",
     "possiblePositions": [
@@ -616,6 +629,7 @@
       17,
       19,
       20,
+      24,
       29
     ],
     "playStylesPlus": [
@@ -623,15 +637,16 @@
       9
     ],
     "rolesPlus": [
-      15,
-      18,
-      21,
-      49,
       114,
+      115,
       116,
       117,
+      118,
       119,
-      120
+      120,
+      121,
+      122,
+      149
     ],
     "attributes": [
       88,
@@ -642,7 +657,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 229000,
+    "price": 217000,
     "resourceId": 67344506,
     "assetId": 235642
   },
@@ -657,7 +672,7 @@
     "rating": 90,
     "preferredFoot": "Right",
     "weakFoot": 4,
-    "skillMoves": 3,
+    "skillMoves": 4,
     "preferredPosition": "RB",
     "possiblePositions": [
       "RB",
@@ -671,21 +686,23 @@
       17,
       25,
       26,
-      28
+      28,
+      8
     ],
     "playStylesPlus": [
       16,
       18
     ],
     "rolesPlus": [
-      4,
-      23,
-      24,
-      46,
       103,
+      104,
       105,
       106,
-      125
+      123,
+      124,
+      125,
+      126,
+      146
     ],
     "attributes": [
       91,
@@ -696,7 +713,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 40000,
+    "price": 35750,
     "resourceId": 67354461,
     "assetId": 245597
   }

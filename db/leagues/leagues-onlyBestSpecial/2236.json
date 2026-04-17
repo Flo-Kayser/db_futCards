@@ -47,59 +47,9 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 24500,
+    "price": 22000,
     "resourceId": 50558720,
     "assetId": 227072
-  },
-  "50558743": {
-    "name": "Manuela Giugliano",
-    "cardName": "Giugliano",
-    "originalVersionId": "91",
-    "clubId": 116282,
-    "leagueId": 2236,
-    "countryId": 27,
-    "versionId": "91",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      10,
-      11,
-      16,
-      20,
-      8
-    ],
-    "playStylesPlus": [
-      9
-    ],
-    "rolesPlus": [
-      16,
-      20,
-      34,
-      118,
-      121,
-      131
-    ],
-    "attributes": [
-      85,
-      82,
-      87,
-      88,
-      80,
-      77
-    ],
-    "isObjective": true,
-    "hasDynamicImage": true,
-    "price": 0,
-    "resourceId": 50558743,
-    "assetId": 227095
   },
   "50558749": {
     "name": "Emilie Haavi",
@@ -147,7 +97,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 19750,
+    "price": 21000,
     "resourceId": 50558749,
     "assetId": 227101
   },
@@ -199,7 +149,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17750,
     "resourceId": 50598621,
     "assetId": 266973
   },
@@ -249,5 +199,66 @@
     "price": 0,
     "resourceId": 50603770,
     "assetId": 272122
+  },
+  "67335959": {
+    "name": "Manuela Giugliano",
+    "cardName": "Giugliano",
+    "originalVersionId": "11",
+    "clubId": 116282,
+    "leagueId": 2236,
+    "countryId": 27,
+    "versionId": "11",
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      17,
+      22,
+      25,
+      6,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      11,
+      16,
+      20
+    ],
+    "rolesPlus": [
+      15,
+      17,
+      32,
+      114,
+      116,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      91,
+      90,
+      94,
+      95,
+      88,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 100000,
+    "resourceId": 67335959,
+    "assetId": 227095
   }
 }

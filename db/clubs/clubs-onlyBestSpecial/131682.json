@@ -53,49 +53,6 @@
       "resourceId": 50524531,
       "assetId": 192883
     },
-    "50542054": {
-      "name": "Piotr Zieliński",
-      "cardName": "Zieliński",
-      "originalVersionId": "28",
-      "clubId": 131682,
-      "leagueId": 31,
-      "countryId": 37,
-      "versionId": "28",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CM"
-      ],
-      "playStyles": [
-        11,
-        13,
-        20,
-        24,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        20,
-        21,
-        118,
-        122
-      ],
-      "attributes": [
-        84,
-        81,
-        86,
-        87,
-        77,
-        74
-      ],
-      "hasDynamicImage": true,
-      "price": 156000,
-      "resourceId": 50542054,
-      "assetId": 210406
-    },
     "50555880": {
       "name": "Nicolò Barella",
       "cardName": "Barella",
@@ -224,7 +181,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 80000,
+      "price": 71000,
       "resourceId": 50569031,
       "assetId": 237383
     },
@@ -322,7 +279,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 17750,
       "resourceId": 50573384,
       "assetId": 241736
     },
@@ -529,102 +486,70 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 96500,
+      "price": 106000,
       "resourceId": 67316992,
       "assetId": 208128
     },
-    "67335132": {
-      "name": "Federico Dimarco",
-      "cardName": "Dimarco",
-      "originalVersionId": "114",
+    "67319270": {
+      "name": "Piotr Zieliński",
+      "cardName": "Zieliński",
+      "originalVersionId": "11",
       "clubId": 131682,
       "leagueId": 31,
-      "countryId": 27,
-      "versionId": "114",
-      "rating": 88,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
+      "countryId": 37,
+      "versionId": "11",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
       "possiblePositions": [
-        "LB",
-        "LM"
+        "CAM",
+        "CDM",
+        "CM"
       ],
       "playStyles": [
         0,
-        2,
-        22,
-        3,
-        6
+        10,
+        20,
+        24,
+        25,
+        26,
+        9
       ],
       "playStylesPlus": [
-        10,
-        12
-      ],
-      "rolesPlus": [
-        7,
-        28,
-        29,
-        109,
-        110,
-        130,
-        147
-      ],
-      "attributes": [
-        87,
-        82,
-        89,
-        87,
-        85,
-        84
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 54750,
-      "resourceId": 67335132,
-      "assetId": 226268
-    },
-    "67338101": {
-      "name": "Manuel Akanji",
-      "cardName": "Akanji",
-      "originalVersionId": "3",
-      "clubId": 131682,
-      "leagueId": 31,
-      "countryId": 47,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10,
         11,
-        15,
-        17,
-        28
-      ],
-      "playStylesPlus": [
-        14
+        16,
+        8
       ],
       "rolesPlus": [
-        113,
-        148
+        21,
+        22,
+        31,
+        33,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        132,
+        134,
+        149
       ],
       "attributes": [
-        80,
-        52,
-        75,
-        77,
+        90,
+        90,
+        93,
+        93,
         87,
-        86
+        85
       ],
       "hasDynamicImage": true,
-      "price": 19250,
-      "resourceId": 67338101,
-      "assetId": 229237
+      "price": 0,
+      "resourceId": 67319270,
+      "assetId": 210406
     },
     "67341960": {
       "name": "Denzel Dumfries",
@@ -672,7 +597,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 46750,
+      "price": 45000,
       "resourceId": 67341960,
       "assetId": 233096
     },
@@ -721,7 +646,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 77500,
+      "price": 135000,
       "resourceId": 67368429,
       "assetId": 259565
     },
@@ -772,55 +697,161 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 19750,
+      "price": 18000,
       "resourceId": 84094208,
       "assetId": 208128
     },
-    "100894774": {
-      "name": "Lautaro Martínez",
-      "cardName": "Martínez",
-      "originalVersionId": "64",
+    "84112348": {
+      "name": "Federico Dimarco",
+      "cardName": "Dimarco",
+      "originalVersionId": "11",
       "clubId": 131682,
       "leagueId": 31,
-      "countryId": 52,
-      "versionId": "64",
+      "countryId": 27,
+      "versionId": "11",
+      "rating": 96,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        0,
+        10,
+        2,
+        22,
+        3,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        12,
+        25,
+        28
+      ],
+      "rolesPlus": [
+        27,
+        28,
+        107,
+        108,
+        109,
+        110,
+        129,
+        130,
+        147
+      ],
+      "attributes": [
+        93,
+        87,
+        96,
+        94,
+        95,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84112348,
+      "assetId": 226268
+    },
+    "84115317": {
+      "name": "Manuel Akanji",
+      "cardName": "Akanji",
+      "originalVersionId": "11",
+      "clubId": 131682,
+      "leagueId": 31,
+      "countryId": 47,
+      "versionId": "11",
       "rating": 91,
       "preferredFoot": "Right",
       "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        16,
+        18,
+        19,
+        28,
+        29
+      ],
+      "playStylesPlus": [
+        14,
+        17,
+        9
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        88,
+        57,
+        81,
+        84,
+        91,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84115317,
+      "assetId": 229237
+    },
+    "117671990": {
+      "name": "Lautaro Martínez",
+      "cardName": "Martínez",
+      "originalVersionId": "11",
+      "clubId": 131682,
+      "leagueId": 31,
+      "countryId": 52,
+      "versionId": "11",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
       "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
         "ST"
       ],
       "playStyles": [
+        0,
         2,
         20,
+        22,
         26,
         29,
-        4,
-        7,
         8
       ],
       "playStylesPlus": [
-        6
+        11,
+        6,
+        7
       ],
       "rolesPlus": [
-        43,
         141,
         142,
+        143,
         144
       ],
       "attributes": [
-        86,
-        92,
-        80,
-        88,
-        55,
-        88
+        91,
+        95,
+        85,
+        91,
+        60,
+        90
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 315150,
-      "resourceId": 100894774,
+      "price": 0,
+      "resourceId": 117671990,
       "assetId": 231478
     }
   }

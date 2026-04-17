@@ -214,7 +214,7 @@
       50
     ],
     "hasDynamicImage": false,
-    "price": 1400,
+    "price": 1100,
     "resourceId": 251191,
     "assetId": 251191
   },
@@ -287,7 +287,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 200,
     "resourceId": 271061,
     "assetId": 271061
   },
@@ -324,7 +324,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 5100,
     "resourceId": 277912,
     "assetId": 277912
   },
@@ -417,9 +417,67 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 95000,
+    "price": 100000,
     "resourceId": 67321675,
     "assetId": 212811
+  },
+  "67334815": {
+    "name": "Denis Bouanga",
+    "cardName": "Bouanga",
+    "originalVersionId": "11",
+    "clubId": 112996,
+    "leagueId": 39,
+    "countryId": 115,
+    "versionId": "11",
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      10,
+      12,
+      2,
+      20,
+      22,
+      6,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      25,
+      7
+    ],
+    "rolesPlus": [
+      28,
+      41,
+      42,
+      127,
+      129,
+      130,
+      138,
+      139,
+      140,
+      143,
+      144
+    ],
+    "attributes": [
+      95,
+      94,
+      90,
+      93,
+      55,
+      91
+    ],
+    "hasDynamicImage": true,
+    "price": 350000,
+    "resourceId": 67334815,
+    "assetId": 225951
   },
   "84074647": {
     "name": "Pierre-Emerick Aubameyang",
@@ -454,60 +512,8 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 46500,
+    "price": 38000,
     "resourceId": 84074647,
     "assetId": 188567
-  },
-  "84112031": {
-    "name": "Denis Bouanga",
-    "cardName": "Bouanga",
-    "originalVersionId": "3",
-    "clubId": 112996,
-    "leagueId": 39,
-    "countryId": 115,
-    "versionId": "3",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      2,
-      20,
-      22,
-      25
-    ],
-    "playStylesPlus": [
-      7
-    ],
-    "rolesPlus": [
-      27,
-      29,
-      38,
-      41,
-      42,
-      128,
-      139,
-      140,
-      143
-    ],
-    "attributes": [
-      92,
-      88,
-      80,
-      86,
-      46,
-      86
-    ],
-    "hasDynamicImage": true,
-    "price": 17500,
-    "resourceId": 84112031,
-    "assetId": 225951
   }
 }

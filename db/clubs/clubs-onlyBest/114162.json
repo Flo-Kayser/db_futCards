@@ -133,7 +133,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 700,
       "resourceId": 77556,
       "assetId": 77556
     },
@@ -171,48 +171,9 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 2800,
       "resourceId": 197716,
       "assetId": 197716
-    },
-    "198705": {
-      "name": "Andy Najar",
-      "cardName": "Najar",
-      "originalVersionId": "0",
-      "clubId": 114162,
-      "leagueId": 39,
-      "countryId": 81,
-      "versionId": "2001",
-      "rating": 72,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "CB",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        4,
-        5,
-        13,
-        25
-      ],
-      "attributes": [
-        71,
-        63,
-        69,
-        74,
-        71,
-        66
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 198705,
-      "assetId": 198705
     },
     "202215": {
       "name": "Joe Willis",
@@ -247,7 +208,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 8900,
       "resourceId": 202215,
       "assetId": 202215
     },
@@ -371,7 +332,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 300,
       "resourceId": 211672,
       "assetId": 211672
     },
@@ -410,7 +371,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 7800,
       "resourceId": 212591,
       "assetId": 212591
     },
@@ -565,7 +526,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 5100,
       "resourceId": 231987,
       "assetId": 231987
     },
@@ -646,7 +607,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 4900,
       "resourceId": 251352,
       "assetId": 251352
     },
@@ -943,7 +904,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4500,
       "resourceId": 264366,
       "assetId": 264366
     },
@@ -1015,6 +976,66 @@
       "price": 200,
       "resourceId": 50401788,
       "assetId": 70140
+    },
+    "50530353": {
+      "name": "Andy Najar",
+      "cardName": "Najar",
+      "originalVersionId": "11",
+      "clubId": 114162,
+      "leagueId": 39,
+      "countryId": 81,
+      "versionId": "11",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        15,
+        16,
+        18,
+        24,
+        26,
+        27,
+        9
+      ],
+      "playStylesPlus": [
+        12,
+        14,
+        22
+      ],
+      "rolesPlus": [
+        13,
+        24,
+        26,
+        48,
+        103,
+        104,
+        105,
+        106,
+        111,
+        112,
+        123,
+        125,
+        146
+      ],
+      "attributes": [
+        91,
+        82,
+        88,
+        92,
+        91,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50530353,
+      "assetId": 198705
     },
     "50558033": {
       "name": "Cristian Espinoza",
@@ -1128,15 +1149,15 @@
       "resourceId": 50606313,
       "assetId": 274665
     },
-    "67343113": {
+    "84120329": {
       "name": "Sam Surridge",
       "cardName": "Surridge",
-      "originalVersionId": "3",
+      "originalVersionId": "11",
       "clubId": 114162,
       "leagueId": 39,
       "countryId": 14,
-      "versionId": "3",
-      "rating": 85,
+      "versionId": "11",
+      "rating": 91,
       "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 4,
@@ -1145,32 +1166,36 @@
         "ST"
       ],
       "playStyles": [
-        0,
-        21,
+        1,
+        11,
+        20,
         22,
         24,
-        5
+        8,
+        9
       ],
       "playStylesPlus": [
-        2
+        0,
+        2,
+        21
       ],
       "rolesPlus": [
-        42,
-        43,
         141,
+        142,
+        143,
         144
       ],
       "attributes": [
-        85,
-        87,
-        75,
-        84,
-        40,
-        86
+        91,
+        91,
+        81,
+        91,
+        45,
+        91
       ],
       "hasDynamicImage": true,
-      "price": 18000,
-      "resourceId": 67343113,
+      "price": 0,
+      "resourceId": 84120329,
       "assetId": 234249
     }
   }

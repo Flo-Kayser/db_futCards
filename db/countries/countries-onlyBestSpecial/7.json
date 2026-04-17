@@ -87,7 +87,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 17250,
     "resourceId": 50402999,
     "assetId": 71351
   },
@@ -217,7 +217,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 17500,
     "resourceId": 50534019,
     "assetId": 202371
   },
@@ -272,7 +272,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 18250,
     "resourceId": 50535134,
     "assetId": 203486
   },
@@ -415,7 +415,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 32000,
+    "price": 34750,
     "resourceId": 50547982,
     "assetId": 216334
   },
@@ -430,7 +430,7 @@
     "rating": 90,
     "preferredFoot": "Right",
     "weakFoot": 5,
-    "skillMoves": 4,
+    "skillMoves": 5,
     "preferredPosition": "CM",
     "possiblePositions": [
       "CAM",
@@ -440,6 +440,7 @@
     "playStyles": [
       0,
       16,
+      17,
       2,
       20,
       24,
@@ -451,15 +452,20 @@
       9
     ],
     "rolesPlus": [
-      14,
-      19,
-      34,
-      49,
+      114,
+      115,
       116,
+      117,
       118,
+      119,
       120,
       121,
-      131
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
     ],
     "attributes": [
       87,
@@ -514,7 +520,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 15000,
     "resourceId": 50560631,
     "assetId": 228983
   },
@@ -554,7 +560,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 30500,
+    "price": 45500,
     "resourceId": 50565815,
     "assetId": 234167
   },
@@ -602,52 +608,9 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 80000,
+    "price": 78500,
     "resourceId": 50571458,
     "assetId": 239810
-  },
-  "50574312": {
-    "name": "Alexis Saelemaekers",
-    "cardName": "Saelemaekers",
-    "originalVersionId": "3",
-    "clubId": 131681,
-    "leagueId": 31,
-    "countryId": 7,
-    "versionId": "3",
-    "rating": 82,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "RB",
-    "possiblePositions": [
-      "LM",
-      "RB",
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      16,
-      25,
-      26
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      25,
-      29,
-      105
-    ],
-    "attributes": [
-      84,
-      73,
-      78,
-      84,
-      71,
-      70
-    ],
-    "hasDynamicImage": true,
-    "price": 30000,
-    "resourceId": 50574312,
-    "assetId": 242664
   },
   "50593719": {
     "name": "Nathan Ngoy",
@@ -694,7 +657,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17500,
     "resourceId": 50593719,
     "assetId": 262071
   },
@@ -802,7 +765,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 17500,
     "resourceId": 50601687,
     "assetId": 270039
   },
@@ -847,7 +810,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 19750,
+    "price": 18250,
     "resourceId": 67301369,
     "assetId": 192505
   },
@@ -899,7 +862,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 98000,
+    "price": 96000,
     "resourceId": 67301849,
     "assetId": 192985
   },
@@ -948,7 +911,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17750,
     "resourceId": 67317282,
     "assetId": 208418
   },
@@ -1001,7 +964,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 17750,
+    "price": 17500,
     "resourceId": 67340280,
     "assetId": 231416
   },
@@ -1054,9 +1017,74 @@
       88
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 41000,
+    "sbcPrice": 41500,
     "resourceId": 67350792,
     "assetId": 241928
+  },
+  "67351528": {
+    "name": "Alexis Saelemaekers",
+    "cardName": "Saelemaekers",
+    "originalVersionId": "65",
+    "clubId": 131681,
+    "leagueId": 31,
+    "countryId": 7,
+    "versionId": "65",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "LM",
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      13,
+      14,
+      16,
+      17,
+      21,
+      26,
+      8
+    ],
+    "playStylesPlus": [
+      12,
+      15,
+      25
+    ],
+    "rolesPlus": [
+      23,
+      26,
+      27,
+      30,
+      35,
+      103,
+      104,
+      105,
+      106,
+      124,
+      125,
+      128,
+      129,
+      136,
+      137,
+      146
+    ],
+    "attributes": [
+      92,
+      83,
+      88,
+      90,
+      87,
+      88
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67351528,
+    "assetId": 242664
   },
   "67360347": {
     "name": "Vincent Kompany",
@@ -1102,7 +1130,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 124000,
+    "price": 112000,
     "resourceId": 67360347,
     "assetId": 251483
   },
@@ -1146,61 +1174,9 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 32000,
+    "price": 31000,
     "resourceId": 67363667,
     "assetId": 254803
-  },
-  "67367242": {
-    "name": "Mika Godts",
-    "cardName": "Godts",
-    "originalVersionId": "111",
-    "clubId": 245,
-    "leagueId": 10,
-    "countryId": 7,
-    "versionId": "111",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "LM",
-      "LW"
-    ],
-    "playStyles": [
-      0,
-      11,
-      12,
-      13,
-      20,
-      22,
-      25
-    ],
-    "playStylesPlus": [
-      21,
-      7
-    ],
-    "rolesPlus": [
-      28,
-      29,
-      40,
-      127,
-      130,
-      138,
-      139
-    ],
-    "attributes": [
-      91,
-      86,
-      87,
-      91,
-      52,
-      77
-    ],
-    "hasDynamicImage": true,
-    "price": 17750,
-    "resourceId": 67367242,
-    "assetId": 258378
   },
   "67374314": {
     "name": "Johan Bakayoko",
@@ -1239,7 +1215,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 17500,
     "resourceId": 67374314,
     "assetId": 265450
   },
@@ -1291,7 +1267,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 110000,
+    "price": 100000,
     "resourceId": 84079065,
     "assetId": 192985
   },
@@ -1336,7 +1312,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 573000,
+    "price": 475000,
     "resourceId": 84132500,
     "assetId": 246420
   },
@@ -1379,9 +1355,62 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 14250,
     "resourceId": 84137550,
     "assetId": 251470
+  },
+  "84144458": {
+    "name": "Mika Godts",
+    "cardName": "Godts",
+    "originalVersionId": "11",
+    "clubId": 245,
+    "leagueId": 10,
+    "countryId": 7,
+    "versionId": "11",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      11,
+      12,
+      13,
+      21,
+      22,
+      7
+    ],
+    "playStylesPlus": [
+      20,
+      25,
+      6
+    ],
+    "rolesPlus": [
+      28,
+      127,
+      129,
+      130,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      92,
+      91,
+      93,
+      93,
+      58,
+      83
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84144458,
+    "assetId": 258378
   },
   "100846573": {
     "name": "Eden Hazard",
@@ -1443,7 +1472,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 2800000,
+    "price": 2550000,
     "resourceId": 100846573,
     "assetId": 183277
   }

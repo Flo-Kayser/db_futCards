@@ -356,7 +356,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 0,
       "resourceId": 246935,
       "assetId": 246935
     },
@@ -542,7 +542,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 3000,
       "resourceId": 255900,
       "assetId": 255900
     },
@@ -729,49 +729,6 @@
       "resourceId": 267473,
       "assetId": 267473
     },
-    "272712": {
-      "name": "Elliot Stroud",
-      "cardName": "Stroud",
-      "originalVersionId": "0",
-      "clubId": 112072,
-      "leagueId": 56,
-      "countryId": 46,
-      "versionId": "2001",
-      "rating": 71,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        12,
-        2,
-        24,
-        3,
-        6
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9,
-        10,
-        30
-      ],
-      "attributes": [
-        79,
-        65,
-        64,
-        67,
-        65,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 272712,
-      "assetId": 272712
-    },
     "272920": {
       "name": "Ludwig Małachowski Thorell",
       "cardName": "Małachowski Thorell",
@@ -952,9 +909,64 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 46250,
+      "price": 45000,
       "resourceId": 50540080,
       "assetId": 208432
+    },
+    "50604360": {
+      "name": "Elliot Stroud",
+      "cardName": "Stroud",
+      "originalVersionId": "11",
+      "clubId": 112072,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "11",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12,
+        2,
+        24,
+        28,
+        29,
+        3,
+        6
+      ],
+      "playStylesPlus": [
+        14,
+        16,
+        25
+      ],
+      "rolesPlus": [
+        28,
+        29,
+        107,
+        108,
+        109,
+        110,
+        127,
+        130,
+        147
+      ],
+      "attributes": [
+        94,
+        88,
+        90,
+        92,
+        88,
+        94
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50604360,
+      "assetId": 272712
     },
     "50604607": {
       "name": "Villiam Granath",

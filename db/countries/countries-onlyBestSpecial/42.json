@@ -128,7 +128,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 46500,
+    "price": 27000,
     "resourceId": 50538213,
     "assetId": 206565
   },
@@ -175,7 +175,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 80000,
+    "price": 71000,
     "resourceId": 50542529,
     "assetId": 210881
   },
@@ -221,7 +221,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 169000,
+    "price": 155000,
     "resourceId": 50542741,
     "assetId": 211093
   },
@@ -276,7 +276,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 38000,
+    "price": 38250,
     "resourceId": 50545532,
     "assetId": 213884
   },
@@ -322,48 +322,9 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 356000,
+    "price": 499000,
     "resourceId": 50547915,
     "assetId": 216267
-  },
-  "50553693": {
-    "name": "Craig Halkett",
-    "cardName": "Halkett",
-    "originalVersionId": "3",
-    "clubId": 80,
-    "leagueId": 50,
-    "countryId": 42,
-    "versionId": "3",
-    "rating": 80,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [
-      14,
-      18,
-      28
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      12,
-      113
-    ],
-    "attributes": [
-      73,
-      62,
-      69,
-      72,
-      80,
-      85
-    ],
-    "hasDynamicImage": true,
-    "price": 50000,
-    "resourceId": 50553693,
-    "assetId": 222045
   },
   "50556851": {
     "name": "Liam Kelly",
@@ -406,7 +367,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 15000,
+    "price": 16500,
     "resourceId": 50556851,
     "assetId": 225203
   },
@@ -536,7 +497,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 11000,
     "resourceId": 50557741,
     "assetId": 226093
   },
@@ -577,7 +538,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 40000,
+    "price": 40250,
     "resourceId": 50559593,
     "assetId": 227945
   },
@@ -673,7 +634,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 23750,
     "resourceId": 50577520,
     "assetId": 245872
   },
@@ -722,7 +683,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 12500,
     "resourceId": 50577539,
     "assetId": 245891
   },
@@ -773,7 +734,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 49750,
+    "price": 49000,
     "resourceId": 50577640,
     "assetId": 245992
   },
@@ -822,7 +783,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17500,
     "resourceId": 50606284,
     "assetId": 274636
   },
@@ -859,6 +820,55 @@
     "hasDynamicImage": false,
     "resourceId": 50610544,
     "assetId": 278896
+  },
+  "67330909": {
+    "name": "Craig Halkett",
+    "cardName": "Halkett",
+    "originalVersionId": "11",
+    "clubId": 80,
+    "leagueId": 50,
+    "countryId": 42,
+    "versionId": "11",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      14,
+      15,
+      16,
+      17,
+      18,
+      9
+    ],
+    "playStylesPlus": [
+      19,
+      26,
+      28
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      86,
+      73,
+      80,
+      84,
+      91,
+      91
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67330909,
+    "assetId": 222045
   },
   "67335355": {
     "name": "Kieran Tierney",
@@ -948,56 +958,69 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 11750,
     "resourceId": 84131959,
     "assetId": 245879
   },
-  "100900534": {
+  "117677750": {
     "name": "Scott McTominay",
     "cardName": "McTominay",
-    "originalVersionId": "30",
+    "originalVersionId": "11",
     "clubId": 48,
     "leagueId": 31,
     "countryId": 42,
-    "versionId": "30",
-    "rating": 91,
+    "versionId": "11",
+    "rating": 94,
     "preferredFoot": "Right",
     "weakFoot": 5,
-    "skillMoves": 5,
+    "skillMoves": 4,
     "preferredPosition": "CM",
     "possiblePositions": [
       "CAM",
       "CDM",
-      "CM",
-      "LM",
-      "LW"
+      "CM"
     ],
-    "playStyles": [],
-    "playStylesPlus": [],
+    "playStyles": [
+      0,
+      11,
+      16,
+      19,
+      20,
+      29,
+      8
+    ],
+    "playStylesPlus": [
+      28,
+      6,
+      9
+    ],
     "rolesPlus": [
-      21,
-      30,
-      31,
-      39,
+      15,
+      17,
+      32,
+      34,
       49,
+      114,
       116,
       118,
+      119,
       120,
-      127,
-      132,
-      138
+      121,
+      122,
+      131,
+      133
     ],
     "attributes": [
-      85,
+      90,
+      94,
+      93,
       91,
-      87,
-      88,
-      87,
-      91
+      89,
+      94
     ],
     "hasDynamicImage": true,
-    "price": 195000,
-    "resourceId": 100900534,
+    "price": 0,
+    "resourceId": 117677750,
     "assetId": 237238
   }
 }

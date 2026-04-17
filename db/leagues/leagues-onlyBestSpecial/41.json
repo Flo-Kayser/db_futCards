@@ -37,53 +37,65 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 19750,
+    "price": 27500,
     "resourceId": 50405823,
     "assetId": 74175
   },
-  "50536862": {
-    "name": "Zlatko Tripić",
-    "cardName": "Tripić",
-    "originalVersionId": "3",
-    "clubId": 300,
+  "50553875": {
+    "name": "Patrick Berg",
+    "cardName": "Berg",
+    "originalVersionId": "11",
+    "clubId": 918,
     "leagueId": 41,
     "countryId": 36,
-    "versionId": "3",
-    "rating": 83,
+    "versionId": "11",
+    "rating": 95,
     "preferredFoot": "Right",
     "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "RW",
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
     "possiblePositions": [
-      "LW",
-      "RM",
-      "RW"
+      "CDM",
+      "CM"
     ],
     "playStyles": [
       10,
-      12,
-      2,
-      21,
-      3
+      13,
+      14,
+      16,
+      17,
+      20,
+      26
     ],
-    "playStylesPlus": [],
+    "playStylesPlus": [
+      24,
+      28,
+      9
+    ],
     "rolesPlus": [
-      37,
-      40,
-      136
+      18,
+      22,
+      114,
+      115,
+      116,
+      117,
+      119,
+      120,
+      121,
+      149
     ],
     "attributes": [
+      88,
+      85,
+      94,
       91,
-      83,
-      81,
-      83,
-      64,
-      89
+      90,
+      95
     ],
     "hasDynamicImage": true,
-    "price": 39500,
-    "resourceId": 50536862,
-    "assetId": 205214
+    "price": 0,
+    "resourceId": 50553875,
+    "assetId": 222227
   },
   "50556725": {
     "name": "Sondre Fet",
@@ -227,7 +239,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 86500,
+    "price": 95000,
     "resourceId": 50574851,
     "assetId": 243203
   },
@@ -267,7 +279,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 35250,
+    "price": 47500,
     "resourceId": 50577939,
     "assetId": 246291
   },
@@ -367,9 +379,66 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 18000,
+    "price": 18250,
     "resourceId": 50606627,
     "assetId": 274979
+  },
+  "67314078": {
+    "name": "Zlatko Tripić",
+    "cardName": "Tripić",
+    "originalVersionId": "11",
+    "clubId": 300,
+    "leagueId": 41,
+    "countryId": 36,
+    "versionId": "11",
+    "rating": 96,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      10,
+      12,
+      2,
+      23,
+      25,
+      3,
+      6
+    ],
+    "playStylesPlus": [
+      0,
+      21,
+      22
+    ],
+    "rolesPlus": [
+      24,
+      123,
+      125,
+      126,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      96,
+      93,
+      91,
+      93,
+      80,
+      95
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67314078,
+    "assetId": 205214
   },
   "67342712": {
     "name": "Jens Petter Hauge",
@@ -423,7 +492,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 34750,
+    "price": 28250,
     "resourceId": 67342712,
     "assetId": 233848
   }

@@ -82,7 +82,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 17500,
     "resourceId": 50554188,
     "assetId": 222540
   },
@@ -131,7 +131,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17500,
     "resourceId": 50554190,
     "assetId": 222542
   },
@@ -173,19 +173,68 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 37500,
+    "price": 70000,
     "resourceId": 50568105,
     "assetId": 236457
   },
-  "50588596": {
+  "50593126": {
+    "name": "Tasos Douvikas",
+    "cardName": "Douvikas",
+    "originalVersionId": "11",
+    "clubId": 1745,
+    "leagueId": 31,
+    "countryId": 22,
+    "versionId": "11",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      20,
+      21,
+      24,
+      25,
+      5,
+      7
+    ],
+    "playStylesPlus": [
+      0,
+      22,
+      6
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      91,
+      90,
+      87,
+      90,
+      47,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50593126,
+    "assetId": 261478
+  },
+  "67365812": {
     "name": "Christos Tzolis",
     "cardName": "Tzolis",
-    "originalVersionId": "3",
+    "originalVersionId": "11",
     "clubId": 231,
     "leagueId": 4,
     "countryId": 22,
-    "versionId": "3",
-    "rating": 85,
+    "versionId": "11",
+    "rating": 92,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -195,32 +244,39 @@
       "LW"
     ],
     "playStyles": [
-      0,
-      21,
+      2,
+      20,
+      23,
       25,
       6,
-      8
+      7,
+      9
     ],
     "playStylesPlus": [
-      13
+      0,
+      21,
+      8
     ],
     "rolesPlus": [
-      29,
-      40,
+      127,
+      128,
+      129,
       130,
-      139
+      138,
+      139,
+      140
     ],
     "attributes": [
-      85,
-      83,
-      81,
+      92,
+      90,
       88,
-      43,
-      78
+      93,
+      50,
+      87
     ],
     "hasDynamicImage": true,
-    "price": 19000,
-    "resourceId": 50588596,
+    "price": 50000,
+    "resourceId": 67365812,
     "assetId": 256948
   },
   "84115268": {
@@ -274,7 +330,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 29000,
+    "price": 27750,
     "resourceId": 84115268,
     "assetId": 229188
   }

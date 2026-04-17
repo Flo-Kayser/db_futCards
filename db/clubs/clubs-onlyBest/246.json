@@ -34,7 +34,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 10000,
       "resourceId": 72071,
       "assetId": 72071
     },
@@ -184,7 +184,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 9400,
       "resourceId": 74636,
       "assetId": 74636
     },
@@ -258,7 +258,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 200,
       "resourceId": 77664,
       "assetId": 77664
     },
@@ -297,7 +297,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 300,
       "resourceId": 79338,
       "assetId": 79338
     },
@@ -524,7 +524,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 8400,
+      "price": 10000,
       "resourceId": 232229,
       "assetId": 232229
     },
@@ -793,51 +793,9 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 0,
       "resourceId": 246237,
       "assetId": 246237
-    },
-    "246826": {
-      "name": "Tsuyoshi Watanabe",
-      "cardName": "Watanabe",
-      "originalVersionId": "0",
-      "clubId": 246,
-      "leagueId": 10,
-      "countryId": 163,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10,
-        14,
-        15,
-        19,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        12,
-        13
-      ],
-      "attributes": [
-        76,
-        39,
-        52,
-        59,
-        76,
-        78
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 246826,
-      "assetId": 246826
     },
     "257502": {
       "name": "Gijs Smal",
@@ -1029,7 +987,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 400,
       "resourceId": 263603,
       "assetId": 263603
     },
@@ -1228,7 +1186,7 @@
         62
       ],
       "hasDynamicImage": true,
-      "price": 160000,
+      "price": 168000,
       "resourceId": 50402374,
       "assetId": 70726
     },
@@ -1411,6 +1369,55 @@
       "resourceId": 50559658,
       "assetId": 228010
     },
+    "50578474": {
+      "name": "Tsuyoshi Watanabe",
+      "cardName": "Watanabe",
+      "originalVersionId": "11",
+      "clubId": 246,
+      "leagueId": 10,
+      "countryId": 163,
+      "versionId": "11",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        16,
+        17,
+        18,
+        20,
+        26,
+        4
+      ],
+      "playStylesPlus": [
+        14,
+        15,
+        19
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        91,
+        55,
+        70,
+        75,
+        90,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50578474,
+      "assetId": 246826
+    },
     "50583454": {
       "name": "Quinten Timber",
       "cardName": "Timber",
@@ -1463,51 +1470,9 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 70000,
+      "price": 66000,
       "resourceId": 50583454,
       "assetId": 251806
-    },
-    "50593869": {
-      "name": "Luciano Valente",
-      "cardName": "Valente",
-      "originalVersionId": "30",
-      "clubId": 246,
-      "leagueId": 10,
-      "countryId": 34,
-      "versionId": "30",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        19,
-        20,
-        32,
-        34,
-        121,
-        122,
-        131,
-        133
-      ],
-      "attributes": [
-        85,
-        80,
-        86,
-        87,
-        62,
-        85
-      ],
-      "hasDynamicImage": true,
-      "price": 13000,
-      "resourceId": 50593869,
-      "assetId": 262221
     },
     "50602914": {
       "name": "Givairo Read",
@@ -1554,7 +1519,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 18750,
+      "price": 17000,
       "resourceId": 50602914,
       "assetId": 271266
     },
@@ -1668,46 +1633,60 @@
       "resourceId": 67349940,
       "assetId": 241076
     },
-    "67361026": {
-      "name": "Ayase Ueda",
-      "cardName": "Ueda",
-      "originalVersionId": "3",
+    "67371085": {
+      "name": "Luciano Valente",
+      "cardName": "Valente",
+      "originalVersionId": "120",
       "clubId": 246,
       "leagueId": 10,
-      "countryId": 163,
-      "versionId": "3",
-      "rating": 84,
+      "countryId": 34,
+      "versionId": "120",
+      "rating": 92,
       "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
       "possiblePositions": [
-        "ST"
+        "CAM",
+        "CM"
       ],
       "playStyles": [
-        11,
+        10,
+        16,
         22,
-        25,
-        4,
-        6
+        24,
+        26,
+        8,
+        9
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        11,
+        13,
+        2
+      ],
       "rolesPlus": [
-        44,
-        142
+        32,
+        34,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        133
       ],
       "attributes": [
-        86,
-        87,
-        74,
-        84,
-        38,
-        84
+        90,
+        85,
+        91,
+        92,
+        67,
+        90
       ],
       "hasDynamicImage": true,
-      "price": 50000,
-      "resourceId": 67361026,
-      "assetId": 252162
+      "price": 15000,
+      "resourceId": 67371085,
+      "assetId": 262221
     },
     "67371654": {
       "name": "Mats Deijl",
@@ -1753,9 +1732,58 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13750,
       "resourceId": 67371654,
       "assetId": 262790
+    },
+    "84138242": {
+      "name": "Ayase Ueda",
+      "cardName": "Ueda",
+      "originalVersionId": "11",
+      "clubId": 246,
+      "leagueId": 10,
+      "countryId": 163,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        1,
+        11,
+        13,
+        22,
+        4,
+        9
+      ],
+      "playStylesPlus": [
+        25,
+        29,
+        6
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        92,
+        92,
+        82,
+        92,
+        46,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84138242,
+      "assetId": 252162
     }
   }
 }

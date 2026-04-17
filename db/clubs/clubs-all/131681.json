@@ -75,7 +75,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 900,
       "resourceId": 177003,
       "assetId": 177003
     },
@@ -194,7 +194,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 2300,
       "resourceId": 215698,
       "assetId": 215698
     },
@@ -280,7 +280,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1100,
       "resourceId": 227796,
       "assetId": 227796
     },
@@ -436,7 +436,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1200,
       "resourceId": 241721,
       "assetId": 241721
     },
@@ -514,7 +514,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 6300,
+      "price": 4300,
       "resourceId": 243627,
       "assetId": 243627
     },
@@ -1017,7 +1017,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 100000,
+      "price": 94000,
       "resourceId": 50508651,
       "assetId": 177003
     },
@@ -1094,7 +1094,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 750,
       "resourceId": 50541656,
       "assetId": 210008
     },
@@ -1134,7 +1134,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 29500,
+      "price": 26000,
       "resourceId": 50547346,
       "assetId": 215698
     },
@@ -1181,7 +1181,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 46500,
+      "price": 39250,
       "resourceId": 50559444,
       "assetId": 227796
     },
@@ -1317,7 +1317,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 19000,
+      "price": 19750,
       "resourceId": 50569590,
       "assetId": 237942
     },
@@ -1415,7 +1415,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 29750,
       "resourceId": 50574312,
       "assetId": 242664
     },
@@ -1507,6 +1507,56 @@
       "resourceId": 50585121,
       "assetId": 253473
     },
+    "50586488": {
+      "name": "Strahinja Pavlović",
+      "cardName": "Pavlović",
+      "originalVersionId": "65",
+      "clubId": 131681,
+      "leagueId": 31,
+      "countryId": 51,
+      "versionId": "65",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        17,
+        18,
+        28,
+        4,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        15,
+        16,
+        19
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        84,
+        60,
+        82,
+        85,
+        91,
+        92
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50586488,
+      "assetId": 254840
+    },
     "67285867": {
       "name": "Luka Modrić",
       "cardName": "Modrić",
@@ -1555,7 +1605,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 95000,
+      "price": 160000,
       "resourceId": 67285867,
       "assetId": 177003
     },
@@ -1649,9 +1699,54 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 27500,
+      "price": 26750,
       "resourceId": 67318872,
       "assetId": 210008
+    },
+    "67324562": {
+      "name": "Mike Maignan",
+      "cardName": "Maignan",
+      "originalVersionId": "11",
+      "clubId": 131681,
+      "leagueId": 31,
+      "countryId": 18,
+      "versionId": "11",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        32,
+        33,
+        35
+      ],
+      "playStylesPlus": [
+        30,
+        31,
+        34
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        92,
+        91,
+        91,
+        94,
+        72,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 74500,
+      "resourceId": 67324562,
+      "assetId": 215698
     },
     "67336660": {
       "name": "Christian Pulisic",
@@ -1809,9 +1904,74 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 1130000,
+      "price": 1300000,
       "resourceId": 67350585,
       "assetId": 241721
+    },
+    "67351528": {
+      "name": "Alexis Saelemaekers",
+      "cardName": "Saelemaekers",
+      "originalVersionId": "65",
+      "clubId": 131681,
+      "leagueId": 31,
+      "countryId": 7,
+      "versionId": "65",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LM",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        13,
+        14,
+        16,
+        17,
+        21,
+        26,
+        8
+      ],
+      "playStylesPlus": [
+        12,
+        15,
+        25
+      ],
+      "rolesPlus": [
+        23,
+        26,
+        27,
+        30,
+        35,
+        103,
+        104,
+        105,
+        106,
+        124,
+        125,
+        128,
+        129,
+        136,
+        137,
+        146
+      ],
+      "attributes": [
+        92,
+        83,
+        88,
+        90,
+        87,
+        88
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67351528,
+      "assetId": 242664
     },
     "84063083": {
       "name": "Luka Modrić",
@@ -1854,9 +2014,70 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 139000,
+      "price": 127000,
       "resourceId": 84063083,
       "assetId": 177003
+    },
+    "84096088": {
+      "name": "Adrien Rabiot",
+      "cardName": "Rabiot",
+      "originalVersionId": "11",
+      "clubId": 131681,
+      "leagueId": 31,
+      "countryId": 18,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        17,
+        22,
+        28,
+        4,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        11,
+        24,
+        9
+      ],
+      "rolesPlus": [
+        15,
+        17,
+        34,
+        49,
+        114,
+        116,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133
+      ],
+      "attributes": [
+        90,
+        88,
+        90,
+        92,
+        88,
+        93
+      ],
+      "hasDynamicImage": true,
+      "price": 151000,
+      "resourceId": 84096088,
+      "assetId": 210008
     },
     "84113876": {
       "name": "Christian Pulisic",
@@ -1910,7 +2131,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 26250,
+      "price": 25000,
       "resourceId": 84113876,
       "assetId": 227796
     },
@@ -1969,9 +2190,70 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 2139000,
+      "price": 2100000,
       "resourceId": 84127801,
       "assetId": 241721
+    },
+    "100840299": {
+      "name": "Luka Modrić",
+      "cardName": "Modrić",
+      "originalVersionId": "11",
+      "clubId": 131681,
+      "leagueId": 31,
+      "countryId": 10,
+      "versionId": "11",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        13,
+        17,
+        24,
+        25,
+        6
+      ],
+      "playStylesPlus": [
+        11,
+        16,
+        20,
+        8
+      ],
+      "rolesPlus": [
+        18,
+        22,
+        32,
+        33,
+        114,
+        115,
+        116,
+        117,
+        119,
+        120,
+        121,
+        131,
+        134,
+        149
+      ],
+      "attributes": [
+        91,
+        91,
+        97,
+        96,
+        87,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 100840299,
+      "assetId": 177003
     },
     "100891092": {
       "name": "Christian Pulisic",

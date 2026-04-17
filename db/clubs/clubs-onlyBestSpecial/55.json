@@ -1,6 +1,55 @@
 {
   "clubName": "Udinese",
   "players": {
+    "50563391": {
+      "name": "Keinan Davis",
+      "cardName": "Davis",
+      "originalVersionId": "120",
+      "clubId": 55,
+      "leagueId": 31,
+      "countryId": 14,
+      "versionId": "120",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        11,
+        2,
+        21,
+        22,
+        24,
+        4
+      ],
+      "playStylesPlus": [
+        0,
+        6,
+        7
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        91,
+        91,
+        85,
+        88,
+        45,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50563391,
+      "assetId": 231743
+    },
     "50574897": {
       "name": "Jurgen Ekkelenkamp",
       "cardName": "Ekkelenkamp",
@@ -42,7 +91,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 35500,
+      "price": 25500,
       "resourceId": 50574897,
       "assetId": 243249
     },
@@ -91,7 +140,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 100000,
+      "price": 86000,
       "resourceId": 50604431,
       "assetId": 272783
     },
@@ -144,7 +193,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 20250,
+      "price": 18000,
       "resourceId": 67346931,
       "assetId": 238067
     }

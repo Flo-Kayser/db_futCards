@@ -209,7 +209,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 2500,
       "resourceId": 79800,
       "assetId": 79800
     },
@@ -441,7 +441,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1000,
       "resourceId": 229379,
       "assetId": 229379
     },
@@ -511,7 +511,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 300,
       "resourceId": 236281,
       "assetId": 236281
     },
@@ -1083,51 +1083,6 @@
       "resourceId": 50556522,
       "assetId": 224874
     },
-    "50568566": {
-      "name": "Anders Dreyer",
-      "cardName": "Dreyer",
-      "originalVersionId": "22",
-      "clubId": 131439,
-      "leagueId": 39,
-      "countryId": 13,
-      "versionId": "22",
-      "rating": 84,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        10,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        35,
-        37,
-        38,
-        126,
-        136,
-        139
-      ],
-      "attributes": [
-        85,
-        86,
-        82,
-        85,
-        48,
-        72
-      ],
-      "hasDynamicImage": true,
-      "price": 23750,
-      "resourceId": 50568566,
-      "assetId": 236918
-    },
     "50603259": {
       "name": "Heine Gikling Bruseth",
       "cardName": "Bruseth",
@@ -1161,6 +1116,63 @@
       "price": 0,
       "resourceId": 50603259,
       "assetId": 271611
+    },
+    "67345782": {
+      "name": "Anders Dreyer",
+      "cardName": "Dreyer",
+      "originalVersionId": "11",
+      "clubId": 131439,
+      "leagueId": 39,
+      "countryId": 13,
+      "versionId": "11",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        11,
+        12,
+        21,
+        22,
+        24,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        10,
+        7
+      ],
+      "rolesPlus": [
+        24,
+        123,
+        125,
+        126,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        94,
+        94,
+        92,
+        94,
+        58,
+        83
+      ],
+      "hasDynamicImage": true,
+      "price": 73500,
+      "resourceId": 67345782,
+      "assetId": 236918
     }
   }
 }

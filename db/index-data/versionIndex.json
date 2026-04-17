@@ -65,6 +65,19 @@
         "tertiaryColor": "#94792e"
       }
     },
+    "11": {
+      "count": 54,
+      "file": "db/versions/11.json",
+      "details": {
+        "name": "Team of the Season",
+        "hasStrip": true,
+        "createdAt": "2026-04-15T19:15:00.471Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_11_0.png",
+        "primaryColor": "#f8e9b3",
+        "secondaryColor": "#104f74",
+        "tertiaryColor": "#1edeec"
+      }
+    },
     "12": {
       "count": 127,
       "file": "db/versions/12.json",
@@ -417,7 +430,7 @@
       }
     },
     "57": {
-      "count": 27,
+      "count": 28,
       "file": "db/versions/57.json",
       "details": {
         "name": "Showdown Upgrade",
@@ -430,7 +443,7 @@
       }
     },
     "58": {
-      "count": 23,
+      "count": 22,
       "file": "db/versions/58.json",
       "details": {
         "name": "Showdown",
@@ -453,6 +466,19 @@
         "primaryColor": "#f6f8f8",
         "secondaryColor": "#161a4f",
         "tertiaryColor": "#6f7980"
+      }
+    },
+    "65": {
+      "count": 7,
+      "file": "db/versions/65.json",
+      "details": {
+        "name": "TOTS Honourable Mentions",
+        "hasStrip": true,
+        "createdAt": "2026-04-16T18:00:00.478Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_65_0.png",
+        "primaryColor": "#d0fafb",
+        "secondaryColor": "#0b3258",
+        "tertiaryColor": "#369ae9"
       }
     },
     "68": {
@@ -767,6 +793,19 @@
         "tertiaryColor": "#99f4ef"
       }
     },
+    "120": {
+      "count": 12,
+      "file": "db/versions/120.json",
+      "details": {
+        "name": "TOTS Breakthrough",
+        "hasStrip": true,
+        "createdAt": "2026-04-15T19:15:00.472Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_120_0.png",
+        "primaryColor": "#f8e9b3",
+        "secondaryColor": "#4b2161",
+        "tertiaryColor": "#c68fc1"
+      }
+    },
     "124": {
       "count": 16,
       "file": "db/versions/124.json",
@@ -1042,8 +1081,8 @@
     }
   },
   "meta": {
-    "totalVersions": 80,
-    "totalVersionsWithoutBase": 74,
-    "updatedAt": "2026-04-16T18:16:50.546Z"
+    "totalVersions": 83,
+    "totalVersionsWithoutBase": 77,
+    "updatedAt": "2026-04-17T17:35:00.195Z"
   }
 }

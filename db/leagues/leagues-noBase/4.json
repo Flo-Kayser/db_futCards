@@ -116,6 +116,55 @@
     "resourceId": 50407263,
     "assetId": 75615
   },
+  "50408218": {
+    "name": "Keisuke Goto",
+    "cardName": "Goto",
+    "originalVersionId": "120",
+    "clubId": 680,
+    "leagueId": 4,
+    "countryId": 163,
+    "versionId": "120",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      20,
+      21,
+      22,
+      4,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      25,
+      6
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      88,
+      90,
+      80,
+      85,
+      65,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 11250,
+    "resourceId": 50408218,
+    "assetId": 76570
+  },
   "50535134": {
     "name": "Thorgan Hazard",
     "cardName": "Hazard",
@@ -167,7 +216,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 18250,
     "resourceId": 50535134,
     "assetId": 203486
   },
@@ -211,9 +260,58 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 32000,
+    "price": 34750,
     "resourceId": 50547982,
     "assetId": 216334
+  },
+  "50564878": {
+    "name": "Kevin Mac Allister",
+    "cardName": "Mac Allister",
+    "originalVersionId": "11",
+    "clubId": 2014,
+    "leagueId": 4,
+    "countryId": 52,
+    "versionId": "11",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      17,
+      18,
+      22,
+      25,
+      27,
+      9
+    ],
+    "playStylesPlus": [
+      15,
+      16,
+      28
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      90,
+      70,
+      75,
+      87,
+      93,
+      94
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50564878,
+    "assetId": 233230
   },
   "50565815": {
     "name": "Siebe Van der Heyden",
@@ -251,7 +349,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 30500,
+    "price": 45500,
     "resourceId": 50565815,
     "assetId": 234167
   },
@@ -295,7 +393,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 18750,
+    "price": 20500,
     "resourceId": 50571237,
     "assetId": 239589
   },
@@ -341,7 +439,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 20500,
     "resourceId": 50588596,
     "assetId": 256948
   },
@@ -421,7 +519,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 19500,
+    "price": 18000,
     "resourceId": 50595837,
     "assetId": 264189
   },
@@ -504,7 +602,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 36750,
+    "price": 30500,
     "resourceId": 50604217,
     "assetId": 272569
   },
@@ -557,7 +655,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 85000,
+    "price": 80000,
     "resourceId": 50609966,
     "assetId": 278318
   },
@@ -702,8 +800,61 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 11500,
     "resourceId": 67360497,
     "assetId": 251633
+  },
+  "67365812": {
+    "name": "Christos Tzolis",
+    "cardName": "Tzolis",
+    "originalVersionId": "11",
+    "clubId": 231,
+    "leagueId": 4,
+    "countryId": 22,
+    "versionId": "11",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      2,
+      20,
+      23,
+      25,
+      6,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      21,
+      8
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      92,
+      90,
+      88,
+      93,
+      50,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 50000,
+    "resourceId": 67365812,
+    "assetId": 256948
   }
 }

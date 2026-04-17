@@ -1,40 +1,6 @@
 {
   "clubName": "Telstar",
   "players": {
-    "79027": {
-      "name": "Ronald Koeman Jr.",
-      "cardName": "Koeman Jr.",
-      "originalVersionId": "0",
-      "clubId": 100638,
-      "leagueId": 10,
-      "countryId": 34,
-      "versionId": "2001",
-      "rating": 67,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        1
-      ],
-      "attributes": [
-        65,
-        69,
-        76,
-        66,
-        29,
-        66
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 79027,
-      "assetId": 79027
-    },
     "79028": {
       "name": "Tyrick Bodak",
       "cardName": "Bodak",
@@ -65,7 +31,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 200,
       "resourceId": 79028,
       "assetId": 79028
     },
@@ -171,7 +137,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 250,
       "resourceId": 79032,
       "assetId": 79032
     },
@@ -205,7 +171,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 79042,
       "assetId": 79042
     },
@@ -240,7 +206,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 79043,
       "assetId": 79043
     },
@@ -309,7 +275,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 79319,
       "assetId": 79319
     },
@@ -343,7 +309,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 8000,
+      "price": 3100,
       "resourceId": 79708,
       "assetId": 79708
     },
@@ -379,7 +345,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 79868,
       "assetId": 79868
     },
@@ -413,7 +379,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 250,
       "resourceId": 80585,
       "assetId": 80585
     },
@@ -447,7 +413,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 80586,
       "assetId": 80586
     },
@@ -481,7 +447,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 6600,
       "resourceId": 80587,
       "assetId": 80587
     },
@@ -515,7 +481,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 80588,
       "assetId": 80588
     },
@@ -586,7 +552,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 200,
       "resourceId": 80670,
       "assetId": 80670
     },
@@ -734,7 +700,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 3600,
       "resourceId": 223696,
       "assetId": 223696
     },
@@ -839,7 +805,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 250,
       "resourceId": 270475,
       "assetId": 270475
     },
@@ -912,7 +878,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 200,
       "resourceId": 50401717,
       "assetId": 70069
     },
@@ -948,9 +914,54 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 200,
       "resourceId": 50408491,
       "assetId": 76843
+    },
+    "50410675": {
+      "name": "Ronald Koeman Jr.",
+      "cardName": "Koeman Jr.",
+      "originalVersionId": "11",
+      "clubId": 100638,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "11",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31,
+        33,
+        35
+      ],
+      "playStylesPlus": [
+        10,
+        32,
+        34
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        90,
+        93,
+        91,
+        90,
+        80,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50410675,
+      "assetId": 79027
     },
     "50410678": {
       "name": "Devon Koswal",

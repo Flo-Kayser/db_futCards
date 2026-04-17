@@ -179,42 +179,6 @@
       "resourceId": 75501,
       "assetId": 75501
     },
-    "75533": {
-      "name": "Kerim Alajbegović",
-      "cardName": "Alajbegović",
-      "originalVersionId": "1",
-      "clubId": 191,
-      "leagueId": 80,
-      "countryId": 8,
-      "versionId": "3000",
-      "rating": 61,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        27
-      ],
-      "attributes": [
-        70,
-        58,
-        55,
-        64,
-        36,
-        53
-      ],
-      "hasDynamicImage": false,
-      "price": 550,
-      "resourceId": 75533,
-      "assetId": 75533
-    },
     "75825": {
       "name": "Christian Zawieschitzky",
       "cardName": "Zawieschitzky",
@@ -689,7 +653,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1900,
       "resourceId": 257271,
       "assetId": 257271
     },
@@ -1109,6 +1073,64 @@
       "resourceId": 277668,
       "assetId": 277668
     },
+    "50407181": {
+      "name": "Kerim Alajbegović",
+      "cardName": "Alajbegović",
+      "originalVersionId": "120",
+      "clubId": 191,
+      "leagueId": 80,
+      "countryId": 8,
+      "versionId": "120",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        21,
+        23,
+        26,
+        6,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        25,
+        7
+      ],
+      "rolesPlus": [
+        31,
+        34,
+        127,
+        128,
+        129,
+        130,
+        132,
+        133,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        94,
+        91,
+        90,
+        93,
+        75,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50407181,
+      "assetId": 75533
+    },
     "50547170": {
       "name": "Alexander Schlager",
       "cardName": "Schlager",
@@ -1143,7 +1165,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 47500,
       "resourceId": 50547170,
       "assetId": 215522
     },

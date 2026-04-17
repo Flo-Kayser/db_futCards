@@ -1,18 +1,18 @@
 {
   "clubName": "Viking FK",
   "players": {
-    "50536862": {
+    "67314078": {
       "name": "Zlatko Tripić",
       "cardName": "Tripić",
-      "originalVersionId": "3",
+      "originalVersionId": "11",
       "clubId": 300,
       "leagueId": 41,
       "countryId": 36,
-      "versionId": "3",
-      "rating": 83,
+      "versionId": "11",
+      "rating": 96,
       "preferredFoot": "Right",
       "weakFoot": 4,
-      "skillMoves": 3,
+      "skillMoves": 5,
       "preferredPosition": "RW",
       "possiblePositions": [
         "LW",
@@ -23,26 +23,39 @@
         10,
         12,
         2,
-        21,
-        3
+        23,
+        25,
+        3,
+        6
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        0,
+        21,
+        22
+      ],
       "rolesPlus": [
-        37,
-        40,
-        136
+        24,
+        123,
+        125,
+        126,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
       ],
       "attributes": [
+        96,
+        93,
         91,
-        83,
-        81,
-        83,
-        64,
-        89
+        93,
+        80,
+        95
       ],
       "hasDynamicImage": true,
-      "price": 39500,
-      "resourceId": 50536862,
+      "price": 0,
+      "resourceId": 67314078,
       "assetId": 205214
     }
   }

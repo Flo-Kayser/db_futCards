@@ -29,7 +29,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 4500,
+    "price": 10000,
     "resourceId": 72950,
     "assetId": 72950
   },
@@ -97,7 +97,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 2400,
+    "price": 7400,
     "resourceId": 76320,
     "assetId": 76320
   },
@@ -131,7 +131,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 900,
     "resourceId": 76854,
     "assetId": 76854
   },
@@ -344,7 +344,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 1600,
+    "price": 2500,
     "resourceId": 227073,
     "assetId": 227073
   },
@@ -464,7 +464,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 1500,
     "resourceId": 246178,
     "assetId": 246178
   },
@@ -570,7 +570,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 2100,
+    "price": 4200,
     "resourceId": 256094,
     "assetId": 256094
   },
@@ -1050,7 +1050,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 350,
     "resourceId": 271347,
     "assetId": 271347
   },
@@ -1167,7 +1167,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 4000,
+    "price": 10000,
     "resourceId": 272071,
     "assetId": 272071
   },
@@ -1313,7 +1313,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 3000,
+    "price": 750,
     "resourceId": 273010,
     "assetId": 273010
   },
@@ -1586,59 +1586,9 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 24500,
+    "price": 22000,
     "resourceId": 50558720,
     "assetId": 227072
-  },
-  "50558743": {
-    "name": "Manuela Giugliano",
-    "cardName": "Giugliano",
-    "originalVersionId": "91",
-    "clubId": 116282,
-    "leagueId": 2236,
-    "countryId": 27,
-    "versionId": "91",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      10,
-      11,
-      16,
-      20,
-      8
-    ],
-    "playStylesPlus": [
-      9
-    ],
-    "rolesPlus": [
-      16,
-      20,
-      34,
-      118,
-      121,
-      131
-    ],
-    "attributes": [
-      85,
-      82,
-      87,
-      88,
-      80,
-      77
-    ],
-    "isObjective": true,
-    "hasDynamicImage": true,
-    "price": 0,
-    "resourceId": 50558743,
-    "assetId": 227095
   },
   "50558749": {
     "name": "Emilie Haavi",
@@ -1686,7 +1636,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 19750,
+    "price": 21000,
     "resourceId": 50558749,
     "assetId": 227101
   },
@@ -1770,7 +1720,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 1100,
     "resourceId": 50596888,
     "assetId": 265240
   },
@@ -1822,7 +1772,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 17750,
     "resourceId": 50598621,
     "assetId": 266973
   },
@@ -1943,5 +1893,66 @@
     "price": 200,
     "resourceId": 67184050,
     "assetId": 75186
+  },
+  "67335959": {
+    "name": "Manuela Giugliano",
+    "cardName": "Giugliano",
+    "originalVersionId": "11",
+    "clubId": 116282,
+    "leagueId": 2236,
+    "countryId": 27,
+    "versionId": "11",
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      17,
+      22,
+      25,
+      6,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      11,
+      16,
+      20
+    ],
+    "rolesPlus": [
+      15,
+      17,
+      32,
+      114,
+      116,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      91,
+      90,
+      94,
+      95,
+      88,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 100000,
+    "resourceId": 67335959,
+    "assetId": 227095
   }
 }
