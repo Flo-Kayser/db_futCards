@@ -35,7 +35,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 72695,
       "assetId": 72695
     },
@@ -69,7 +69,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4400,
       "resourceId": 73959,
       "assetId": 73959
     },
@@ -514,7 +514,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 4900,
       "resourceId": 243924,
       "assetId": 243924
     },
@@ -736,7 +736,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 262717,
       "assetId": 262717
     },
@@ -850,7 +850,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 750,
       "resourceId": 276710,
       "assetId": 276710
     },
@@ -963,47 +963,6 @@
       "price": 200,
       "resourceId": 277976,
       "assetId": 277976
-    },
-    "50406857": {
-      "name": "Jovo Lukić",
-      "cardName": "Lukić",
-      "originalVersionId": "3",
-      "clubId": 110751,
-      "leagueId": 330,
-      "countryId": 8,
-      "versionId": "3",
-      "rating": 83,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        1,
-        24,
-        29,
-        4,
-        6
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42,
-        144
-      ],
-      "attributes": [
-        83,
-        85,
-        72,
-        82,
-        46,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 32500,
-      "resourceId": 50406857,
-      "assetId": 75209
     },
     "50575572": {
       "name": "Mouhamadou Drammeh",
@@ -1152,6 +1111,55 @@
       "price": 200,
       "resourceId": 50607387,
       "assetId": 275739
+    },
+    "67184073": {
+      "name": "Jovo Lukić",
+      "cardName": "Lukić",
+      "originalVersionId": "65",
+      "clubId": 110751,
+      "leagueId": 330,
+      "countryId": 8,
+      "versionId": "65",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        21,
+        22,
+        24,
+        4,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        2,
+        29
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        90,
+        92,
+        83,
+        88,
+        55,
+        95
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 67184073,
+      "assetId": 75209
     }
   }
 }

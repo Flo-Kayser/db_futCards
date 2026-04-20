@@ -1,4 +1,53 @@
 {
+  "50533662": {
+    "name": "Roberto Lopes",
+    "cardName": "Lopes",
+    "originalVersionId": "65",
+    "clubId": 306,
+    "leagueId": 65,
+    "countryId": 104,
+    "versionId": "65",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      15,
+      17,
+      18,
+      19,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      10,
+      16,
+      28
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      84,
+      55,
+      82,
+      85,
+      90,
+      93
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50533662,
+    "assetId": 202014
+  },
   "50548083": {
     "name": "Stanislav Lobotka",
     "cardName": "Lobotka",
@@ -50,10 +99,70 @@
       89,
       88
     ],
+    "isObjective": true,
     "hasDynamicImage": true,
     "price": 0,
     "resourceId": 50548083,
     "assetId": 216435
+  },
+  "50585057": {
+    "name": "Gift Links",
+    "cardName": "Links",
+    "originalVersionId": "65",
+    "clubId": 271,
+    "leagueId": 1,
+    "countryId": 140,
+    "versionId": "65",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      12,
+      13,
+      14,
+      15,
+      20,
+      25,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      21,
+      3
+    ],
+    "rolesPlus": [
+      7,
+      8,
+      9,
+      38,
+      110,
+      127,
+      128,
+      129,
+      130,
+      139,
+      140,
+      147
+    ],
+    "attributes": [
+      93,
+      88,
+      87,
+      89,
+      85,
+      86
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50585057,
+    "assetId": 253409
   },
   "50586488": {
     "name": "Strahinja Pavlović",
@@ -207,6 +316,55 @@
     "resourceId": 50594121,
     "assetId": 262473
   },
+  "67184073": {
+    "name": "Jovo Lukić",
+    "cardName": "Lukić",
+    "originalVersionId": "65",
+    "clubId": 110751,
+    "leagueId": 330,
+    "countryId": 8,
+    "versionId": "65",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      21,
+      22,
+      24,
+      4,
+      6,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      2,
+      29
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      90,
+      92,
+      83,
+      88,
+      55,
+      95
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67184073,
+    "assetId": 75209
+  },
   "67297214": {
     "name": "Marco Reus",
     "cardName": "Reus",
@@ -263,7 +421,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 388750,
+    "sbcPrice": 381500,
     "price": 334300,
     "resourceId": 67297214,
     "assetId": 188350
@@ -332,6 +490,67 @@
     "price": 0,
     "resourceId": 67351528,
     "assetId": 242664
+  },
+  "67360668": {
+    "name": "Sergiño Dest",
+    "cardName": "Dest",
+    "originalVersionId": "65",
+    "clubId": 247,
+    "leagueId": 10,
+    "countryId": 95,
+    "versionId": "65",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      15,
+      16,
+      17,
+      20,
+      26,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      13,
+      14,
+      25
+    ],
+    "rolesPlus": [
+      7,
+      8,
+      9,
+      23,
+      26,
+      46,
+      103,
+      104,
+      105,
+      106,
+      110,
+      124,
+      125,
+      147
+    ],
+    "attributes": [
+      95,
+      80,
+      91,
+      92,
+      89,
+      88
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 123750,
+    "resourceId": 67360668,
+    "assetId": 251804
   },
   "67386191": {
     "name": "Francesco Pio Esposito",
@@ -431,7 +650,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 577750,
+    "sbcPrice": 559500,
     "price": 0,
     "resourceId": 84086184,
     "assetId": 200104
@@ -485,7 +704,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 124250,
+    "sbcPrice": 125750,
     "resourceId": 84097015,
     "assetId": 210935
   },
@@ -540,7 +759,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 265250,
+    "sbcPrice": 261500,
     "price": 0,
     "resourceId": 100885373,
     "assetId": 222077

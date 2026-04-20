@@ -443,7 +443,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 200,
       "resourceId": 243158,
       "assetId": 243158
     },
@@ -630,48 +630,6 @@
       "resourceId": 251201,
       "assetId": 251201
     },
-    "253409": {
-      "name": "Gift Links",
-      "cardName": "Links",
-      "originalVersionId": "1",
-      "clubId": 271,
-      "leagueId": 1,
-      "countryId": 140,
-      "versionId": "3001",
-      "rating": 72,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        12,
-        13,
-        20,
-        23,
-        3
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9,
-        10
-      ],
-      "attributes": [
-        87,
-        56,
-        67,
-        74,
-        64,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 253409,
-      "assetId": 253409
-    },
     "253472": {
       "name": "Eric Kahl",
       "cardName": "Kahl",
@@ -746,7 +704,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 200,
       "resourceId": 254849,
       "assetId": 254849
     },
@@ -935,6 +893,65 @@
       "price": 200,
       "resourceId": 50579823,
       "assetId": 248175
+    },
+    "50585057": {
+      "name": "Gift Links",
+      "cardName": "Links",
+      "originalVersionId": "65",
+      "clubId": 271,
+      "leagueId": 1,
+      "countryId": 140,
+      "versionId": "65",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        12,
+        13,
+        14,
+        15,
+        20,
+        25,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        21,
+        3
+      ],
+      "rolesPlus": [
+        7,
+        8,
+        9,
+        38,
+        110,
+        127,
+        128,
+        129,
+        130,
+        139,
+        140,
+        147
+      ],
+      "attributes": [
+        93,
+        88,
+        87,
+        89,
+        85,
+        86
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50585057,
+      "assetId": 253409
     },
     "50591797": {
       "name": "Markus Solbakken",
