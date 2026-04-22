@@ -43,7 +43,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 22500,
+    "price": 27250,
     "resourceId": 50337321,
     "assetId": 5673
   },
@@ -169,47 +169,6 @@
     "resourceId": 50522589,
     "assetId": 190941
   },
-  "50551813": {
-    "name": "Joel Pohjanpalo",
-    "cardName": "Pohjanpalo",
-    "originalVersionId": "3",
-    "clubId": 1843,
-    "leagueId": 32,
-    "countryId": 17,
-    "versionId": "3",
-    "rating": 83,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      19,
-      24,
-      29,
-      4,
-      6
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      41,
-      144
-    ],
-    "attributes": [
-      81,
-      86,
-      77,
-      82,
-      45,
-      85
-    ],
-    "hasDynamicImage": true,
-    "price": 29000,
-    "resourceId": 50551813,
-    "assetId": 220165
-  },
   "50594991": {
     "name": "Naatan Skyttä",
     "cardName": "Skyttä",
@@ -249,8 +208,57 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 23000,
+    "price": 24000,
     "resourceId": 50594991,
     "assetId": 263343
+  },
+  "67329029": {
+    "name": "Joel Pohjanpalo",
+    "cardName": "Pohjanpalo",
+    "originalVersionId": "65",
+    "clubId": 1843,
+    "leagueId": 32,
+    "countryId": 17,
+    "versionId": "65",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      19,
+      2,
+      20,
+      25,
+      29,
+      9
+    ],
+    "playStylesPlus": [
+      24,
+      4,
+      6
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      90,
+      93,
+      87,
+      91,
+      55,
+      92
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 143000,
+    "resourceId": 67329029,
+    "assetId": 220165
   }
 }

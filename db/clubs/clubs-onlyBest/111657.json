@@ -31,7 +31,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 8000,
+      "price": 800,
       "resourceId": 73838,
       "assetId": 73838
     },
@@ -67,7 +67,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 350,
       "resourceId": 74304,
       "assetId": 74304
     },
@@ -104,7 +104,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 800,
       "resourceId": 74520,
       "assetId": 74520
     },
@@ -141,7 +141,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 200,
       "resourceId": 74533,
       "assetId": 74533
     },
@@ -178,7 +178,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 850,
       "resourceId": 74536,
       "assetId": 74536
     },
@@ -212,7 +212,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 650,
       "resourceId": 75448,
       "assetId": 75448
     },
@@ -246,7 +246,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 300,
       "resourceId": 75449,
       "assetId": 75449
     },
@@ -281,7 +281,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 2000,
       "resourceId": 213938,
       "assetId": 213938
     },
@@ -356,48 +356,6 @@
       "resourceId": 244780,
       "assetId": 244780
     },
-    "251769": {
-      "name": "Giacomo Calò",
-      "cardName": "Calò",
-      "originalVersionId": "0",
-      "clubId": 111657,
-      "leagueId": 32,
-      "countryId": 27,
-      "versionId": "2001",
-      "rating": 69,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        0,
-        10,
-        3,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        14,
-        17,
-        18
-      ],
-      "attributes": [
-        64,
-        52,
-        67,
-        68,
-        63,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 251769,
-      "assetId": 251769
-    },
     "268466": {
       "name": "Sergio Kalaj",
       "cardName": "Kalaj",
@@ -428,7 +386,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 2800,
       "resourceId": 268466,
       "assetId": 268466
     },
@@ -717,7 +675,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 700,
       "resourceId": 276725,
       "assetId": 276725
     },
@@ -753,7 +711,7 @@
         38
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 800,
       "resourceId": 279877,
       "assetId": 279877
     },
@@ -792,6 +750,62 @@
       "price": 200,
       "resourceId": 50404509,
       "assetId": 72861
+    },
+    "50583417": {
+      "name": "Giacomo Calò",
+      "cardName": "Calò",
+      "originalVersionId": "65",
+      "clubId": 111657,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "65",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        14,
+        15,
+        20,
+        3,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        16,
+        17
+      ],
+      "rolesPlus": [
+        20,
+        21,
+        22,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        149
+      ],
+      "attributes": [
+        88,
+        82,
+        90,
+        92,
+        87,
+        89
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 40250,
+      "resourceId": 50583417,
+      "assetId": 251769
     },
     "50584768": {
       "name": "Ben Lhassine Kone",
@@ -902,7 +916,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 21500,
+      "price": 20000,
       "resourceId": 50601712,
       "assetId": 270064
     },
