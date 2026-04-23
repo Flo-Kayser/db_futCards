@@ -31,7 +31,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 0,
       "resourceId": 72026,
       "assetId": 72026
     },
@@ -332,46 +332,6 @@
       "resourceId": 233201,
       "assetId": 233201
     },
-    "236920": {
-      "name": "Justin Kluivert",
-      "cardName": "Kluivert",
-      "originalVersionId": "1",
-      "clubId": 1943,
-      "leagueId": 13,
-      "countryId": 34,
-      "versionId": "3002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LM"
-      ],
-      "playStyles": [
-        21
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        29,
-        31,
-        33
-      ],
-      "attributes": [
-        87,
-        78,
-        76,
-        81,
-        38,
-        62
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 236920,
-      "assetId": 236920
-    },
     "240787": {
       "name": "Hamed Junior Traoré",
       "cardName": "Traoré",
@@ -481,7 +441,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 3300,
       "resourceId": 243048,
       "assetId": 243048
     },
@@ -978,7 +938,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 23000,
       "resourceId": 50545532,
       "assetId": 213884
     },
@@ -1026,7 +986,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 19500,
       "resourceId": 50551844,
       "assetId": 220196
     },
@@ -1063,9 +1023,69 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 13500,
       "resourceId": 50568154,
       "assetId": 236506
+    },
+    "50568568": {
+      "name": "Justin Kluivert",
+      "cardName": "Kluivert",
+      "originalVersionId": "68",
+      "clubId": 1943,
+      "leagueId": 13,
+      "countryId": 34,
+      "versionId": "68",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [
+        0,
+        10,
+        12,
+        13,
+        2,
+        20,
+        22
+      ],
+      "playStylesPlus": [
+        11,
+        21,
+        8
+      ],
+      "rolesPlus": [
+        18,
+        19,
+        20,
+        28,
+        29,
+        121,
+        122,
+        127,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "attributes": [
+        93,
+        91,
+        92,
+        94,
+        65,
+        77
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50568568,
+      "assetId": 236920
     },
     "50569125": {
       "name": "Marcus Tavernier",
@@ -1210,7 +1230,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 22750,
+      "price": 23000,
       "resourceId": 50586871,
       "assetId": 255223
     },
@@ -1261,7 +1281,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 32000,
+      "price": 39000,
       "resourceId": 50609557,
       "assetId": 277909
     },

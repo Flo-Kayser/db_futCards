@@ -1,43 +1,6 @@
 {
   "clubName": "FC Barcelona",
   "players": {
-    "78357": {
-      "name": "Clara Serrajordi",
-      "cardName": "Clara Serrajordi",
-      "originalVersionId": "0",
-      "clubId": 116325,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "2001",
-      "rating": 65,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        20,
-        31
-      ],
-      "attributes": [
-        69,
-        58,
-        64,
-        67,
-        49,
-        57
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 78357,
-      "assetId": 78357
-    },
     "268942": {
       "name": "Cata Coll",
       "cardName": "Cata Coll",
@@ -70,7 +33,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1100,
       "resourceId": 268942,
       "assetId": 268942
     },
@@ -138,7 +101,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 5100,
       "resourceId": 272665,
       "assetId": 272665
     },
@@ -255,6 +218,67 @@
       "resourceId": 50406711,
       "assetId": 75063
     },
+    "50410005": {
+      "name": "Clara Serrajordi",
+      "cardName": "Clara Serrajordi",
+      "originalVersionId": "120",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "120",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        20,
+        22,
+        28,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        11,
+        21,
+        9
+      ],
+      "rolesPlus": [
+        15,
+        17,
+        32,
+        34,
+        49,
+        114,
+        116,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        133
+      ],
+      "attributes": [
+        94,
+        85,
+        92,
+        93,
+        88,
+        88
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50410005,
+      "assetId": 78357
+    },
     "50558839": {
       "name": "Marta Torrejón",
       "cardName": "Marta Torrejón",
@@ -347,7 +371,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 20250,
+      "price": 19000,
       "resourceId": 50585083,
       "assetId": 253435
     },
@@ -501,7 +525,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 2950000,
+      "price": 3425000,
       "resourceId": 67335966,
       "assetId": 227102
     },
@@ -551,7 +575,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 65000,
+      "price": 62500,
       "resourceId": 67336054,
       "assetId": 227190
     },
@@ -599,7 +623,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 22000,
+      "price": 26250,
       "resourceId": 67345343,
       "assetId": 236479
     },
@@ -650,7 +674,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 3300000,
+      "price": 3397000,
       "resourceId": 67350531,
       "assetId": 241667
     },
@@ -706,7 +730,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 33750,
+      "price": 35250,
       "resourceId": 67362300,
       "assetId": 253436
     },
@@ -761,7 +785,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 15750,
       "resourceId": 67376394,
       "assetId": 267530
     },
@@ -823,7 +847,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 1270000,
+      "price": 1650000,
       "resourceId": 67378268,
       "assetId": 269404
     },
@@ -888,7 +912,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 196000,
+      "price": 205000,
       "resourceId": 67380310,
       "assetId": 271446
     },
@@ -941,7 +965,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 3046000,
+      "price": 3150000,
       "resourceId": 84113283,
       "assetId": 227203
     },
@@ -992,7 +1016,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 95500,
+      "price": 82500,
       "resourceId": 84123369,
       "assetId": 237289
     },
@@ -1045,7 +1069,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 750000,
+      "price": 704000,
       "resourceId": 84127926,
       "assetId": 241846
     },
@@ -1101,7 +1125,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 2699000,
+      "price": 2793000,
       "resourceId": 117703043,
       "assetId": 262531
     }

@@ -31,7 +31,7 @@
       51
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 650,
     "resourceId": 77170,
     "assetId": 77170
   },
@@ -67,7 +67,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 77951,
     "assetId": 77951
   },
@@ -103,7 +103,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 78797,
     "assetId": 78797
   },
@@ -172,7 +172,7 @@
       46
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 3400,
     "resourceId": 79632,
     "assetId": 79632
   },
@@ -207,7 +207,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 1100,
     "resourceId": 235442,
     "assetId": 235442
   },
@@ -245,44 +245,6 @@
     "resourceId": 238086,
     "assetId": 238086
   },
-  "241173": {
-    "name": "Lyle Foster",
-    "cardName": "Foster",
-    "originalVersionId": "0",
-    "clubId": 1796,
-    "leagueId": 13,
-    "countryId": 140,
-    "versionId": "2001",
-    "rating": 72,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "CAM",
-      "LM",
-      "ST"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      30,
-      43,
-      44
-    ],
-    "attributes": [
-      81,
-      72,
-      61,
-      69,
-      36,
-      73
-    ],
-    "hasDynamicImage": false,
-    "price": 200,
-    "resourceId": 241173,
-    "assetId": 241173
-  },
   "246899": {
     "name": "Linda Motlhalo",
     "cardName": "Motlhalo",
@@ -315,7 +277,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 10000,
     "resourceId": 246899,
     "assetId": 246899
   },
@@ -354,44 +316,9 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 255703,
     "assetId": 255703
-  },
-  "257293": {
-    "name": "Sphephelo Sithole",
-    "cardName": "Sithole",
-    "originalVersionId": "0",
-    "clubId": 112516,
-    "leagueId": 308,
-    "countryId": 140,
-    "versionId": "2001",
-    "rating": 65,
-    "preferredFoot": "Right",
-    "weakFoot": 2,
-    "skillMoves": 2,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      14
-    ],
-    "attributes": [
-      64,
-      53,
-      59,
-      61,
-      64,
-      74
-    ],
-    "hasDynamicImage": false,
-    "price": 400,
-    "resourceId": 257293,
-    "assetId": 257293
   },
   "260927": {
     "name": "Kegs Chauke",
@@ -426,7 +353,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 260927,
     "assetId": 260927
   },
@@ -461,7 +388,7 @@
       47
     ],
     "hasDynamicImage": false,
-    "price": 5900,
+    "price": 9300,
     "resourceId": 264304,
     "assetId": 264304
   },
@@ -608,9 +535,68 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 278688,
     "assetId": 278688
+  },
+  "50572821": {
+    "name": "Lyle Foster",
+    "cardName": "Foster",
+    "originalVersionId": "91",
+    "clubId": 1796,
+    "leagueId": 13,
+    "countryId": 140,
+    "versionId": "91",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      20,
+      22,
+      24,
+      25,
+      4,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      2,
+      6
+    ],
+    "rolesPlus": [
+      27,
+      28,
+      29,
+      31,
+      33,
+      34,
+      130,
+      132,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      92,
+      92,
+      80,
+      90,
+      55,
+      91
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50572821,
+    "assetId": 241173
   },
   "50585057": {
     "name": "Gift Links",
@@ -670,5 +656,61 @@
     "hasDynamicImage": true,
     "resourceId": 50585057,
     "assetId": 253409
+  },
+  "50588941": {
+    "name": "Sphephelo Sithole",
+    "cardName": "Sithole",
+    "originalVersionId": "91",
+    "clubId": 112516,
+    "leagueId": 308,
+    "countryId": 140,
+    "versionId": "91",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      11,
+      2,
+      20,
+      22,
+      29,
+      8
+    ],
+    "playStylesPlus": [
+      17,
+      28,
+      9
+    ],
+    "rolesPlus": [
+      18,
+      21,
+      22,
+      114,
+      115,
+      116,
+      117,
+      119,
+      120,
+      149
+    ],
+    "attributes": [
+      90,
+      80,
+      87,
+      87,
+      90,
+      92
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50588941,
+    "assetId": 257293
   }
 }

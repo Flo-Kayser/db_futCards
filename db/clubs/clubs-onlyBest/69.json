@@ -32,7 +32,7 @@
         37
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 5100,
       "resourceId": 70458,
       "assetId": 70458
     },
@@ -638,7 +638,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 1500,
       "resourceId": 273546,
       "assetId": 273546
     },
@@ -827,7 +827,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 200,
       "resourceId": 279700,
       "assetId": 279700
     },
@@ -903,7 +903,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 16500,
+      "price": 21500,
       "resourceId": 50522589,
       "assetId": 190941
     },
@@ -949,7 +949,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 16250,
+      "price": 13250,
       "resourceId": 50533983,
       "assetId": 202335
     },
@@ -1026,7 +1026,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 50566684,
       "assetId": 235036
     },
@@ -1074,50 +1074,9 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 13750,
+      "price": 12500,
       "resourceId": 50576859,
       "assetId": 245211
-    },
-    "50584652": {
-      "name": "Ansu Fati",
-      "cardName": "Ansu Fati",
-      "originalVersionId": "3",
-      "clubId": 69,
-      "leagueId": 16,
-      "countryId": 45,
-      "versionId": "3",
-      "rating": 81,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        25,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        27,
-        143
-      ],
-      "attributes": [
-        87,
-        81,
-        80,
-        84,
-        37,
-        60
-      ],
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 50584652,
-      "assetId": 253004
     },
     "50592427": {
       "name": "Simon Adingra",
@@ -1255,9 +1214,62 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 19000,
       "resourceId": 67356327,
       "assetId": 247463
+    },
+    "67361868": {
+      "name": "Ansu Fati",
+      "cardName": "Ansu Fati",
+      "originalVersionId": "91",
+      "clubId": 69,
+      "leagueId": 16,
+      "countryId": 45,
+      "versionId": "91",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        11,
+        12,
+        23,
+        25,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        20,
+        21,
+        8
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        94,
+        93,
+        92,
+        94,
+        50,
+        77
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 67361868,
+      "assetId": 253004
     },
     "67373726": {
       "name": "Maghnes Akliouche",
@@ -1307,7 +1319,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 13250,
       "resourceId": 67373726,
       "assetId": 264862
     },
@@ -1399,7 +1411,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 1100000,
+      "price": 1094000,
       "resourceId": 100859160,
       "assetId": 195864
     }

@@ -2,6 +2,73 @@
   {
     "clubId": 114605,
     "leagueId": 10,
+    "countryId": 34,
+    "versionId": "68",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM",
+      "LW",
+      "RW"
+    ],
+    "playStyles": [
+      12,
+      14,
+      15,
+      20,
+      29,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      11,
+      21
+    ],
+    "rolesPlus": [
+      18,
+      19,
+      20,
+      28,
+      32,
+      34,
+      121,
+      122,
+      127,
+      129,
+      130,
+      131,
+      133,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      93,
+      95,
+      90,
+      93,
+      80,
+      90
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67124587,
+    "assetId": 15723,
+    "name": "Dirk Kuyt",
+    "cardName": "Kuyt"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 10,
     "countryId": 167,
     "versionId": "69",
     "rating": 72,
@@ -108,7 +175,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 47500,
+    "price": 52000,
     "resourceId": 67375337,
     "assetId": 266473,
     "name": "Park Ji Sung",
@@ -154,7 +221,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 1365000,
+    "price": 1400000,
     "resourceId": 83891820,
     "assetId": 5740,
     "name": "Jaap Stam",
@@ -206,7 +273,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 14250,
     "resourceId": 50347371,
     "assetId": 15723,
     "name": "Dirk Kuyt",
@@ -253,7 +320,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 27250,
+    "price": 31250,
     "resourceId": 50337321,
     "assetId": 5673,
     "name": "Jari Litmanen",
@@ -295,7 +362,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 11750,
+    "price": 15250,
     "resourceId": 5673,
     "assetId": 5673,
     "name": "Jari Litmanen",
@@ -340,7 +407,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 12250,
+    "price": 14000,
     "resourceId": 15723,
     "assetId": 15723,
     "name": "Dirk Kuyt",
