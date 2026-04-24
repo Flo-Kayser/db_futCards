@@ -33,7 +33,7 @@
         36
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 0,
       "resourceId": 70626,
       "assetId": 70626
     },
@@ -281,7 +281,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 5100,
       "resourceId": 253607,
       "assetId": 253607
     },
@@ -319,7 +319,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 7600,
+      "price": 8000,
       "resourceId": 253895,
       "assetId": 253895
     },
@@ -465,7 +465,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 260299,
       "assetId": 260299
     },
@@ -536,7 +536,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 1900,
       "resourceId": 266725,
       "assetId": 266725
     },
@@ -572,7 +572,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1800,
       "resourceId": 272328,
       "assetId": 272328
     },
@@ -607,7 +607,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1600,
       "resourceId": 272329,
       "assetId": 272329
     },
@@ -781,9 +781,366 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1600,
       "resourceId": 279805,
       "assetId": 279805
+    },
+    "50409733": {
+      "name": "Matías Núñez",
+      "cardName": "Núñez",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        71,
+        52,
+        61,
+        59,
+        62,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50409733,
+      "assetId": 78085
+    },
+    "50409734": {
+      "name": "Joshuan Berríos",
+      "cardName": "Berríos",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 56,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        35
+      ],
+      "attributes": [
+        67,
+        66,
+        56,
+        66,
+        22,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50409734,
+      "assetId": 78086
+    },
+    "50409735": {
+      "name": "Ezequiel Neira",
+      "cardName": "Neira",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        51,
+        27,
+        36,
+        40,
+        66,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50409735,
+      "assetId": 78087
+    },
+    "50409769": {
+      "name": "Sebastián Mendoza",
+      "cardName": "Mendoza",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 61,
+      "versionId": "2000",
+      "rating": 54,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        65,
+        42,
+        53,
+        55,
+        46,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50409769,
+      "assetId": 78121
+    },
+    "50411666": {
+      "name": "Juan David Obando",
+      "cardName": "Obando",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 56,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31
+      ],
+      "attributes": [
+        78,
+        49,
+        59,
+        60,
+        34,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50411666,
+      "assetId": 80018
+    },
+    "50568256": {
+      "name": "Lucas Bruera",
+      "cardName": "Bruera",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        69,
+        68,
+        66,
+        68,
+        33,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50568256,
+      "assetId": 236608
+    },
+    "50585227": {
+      "name": "Edson Tortolero",
+      "cardName": "Tortolero",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 61,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        26,
+        32,
+        36
+      ],
+      "attributes": [
+        76,
+        69,
+        66,
+        65,
+        36,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50585227,
+      "assetId": 253579
+    },
+    "50586320": {
+      "name": "Marcel Guaramato",
+      "cardName": "Guaramato",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 61,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        5,
+        46,
+        48
+      ],
+      "attributes": [
+        78,
+        47,
+        59,
+        62,
+        63,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50586320,
+      "assetId": 254672
+    },
+    "50586474": {
+      "name": "Leonardo Aponte",
+      "cardName": "Aponte",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 61,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        70,
+        30,
+        52,
+        62,
+        69,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50586474,
+      "assetId": 254826
+    },
+    "50590900": {
+      "name": "Eric Ramírez",
+      "cardName": "Ramírez",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1003,
+      "countryId": 61,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        66,
+        68,
+        54,
+        62,
+        41,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50590900,
+      "assetId": 259252
     },
     "50593296": {
       "name": "Maurice Cova",
@@ -827,6 +1184,259 @@
       "hasDynamicImage": false,
       "price": 350,
       "resourceId": 50593296,
+      "assetId": 261648
+    },
+    "50596195": {
+      "name": "José Riasco",
+      "cardName": "Riasco",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 61,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        60,
+        63,
+        56,
+        56,
+        27,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50596195,
+      "assetId": 264547
+    },
+    "50604347": {
+      "name": "Juan Camilo Pérez",
+      "cardName": "Pérez",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 61,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM",
+        "LB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        69,
+        64,
+        67,
+        68,
+        58,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50604347,
+      "assetId": 272699
+    },
+    "50606170": {
+      "name": "Franner López",
+      "cardName": "López",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 61,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        62,
+        61,
+        62,
+        65,
+        59,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50606170,
+      "assetId": 274522
+    },
+    "50606171": {
+      "name": "Loureins Martínez",
+      "cardName": "Martínez",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 61,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        79,
+        61,
+        43,
+        57,
+        22,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50606171,
+      "assetId": 274523
+    },
+    "50606173": {
+      "name": "Franyer Oliveros",
+      "cardName": "Oliveros",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 61,
+      "versionId": "2000",
+      "rating": 58,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        58,
+        23,
+        47,
+        32,
+        58,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50606173,
+      "assetId": 274525
+    },
+    "67368116": {
+      "name": "Eric Ramírez",
+      "cardName": "Ramírez",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 61,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        66,
+        68,
+        54,
+        62,
+        41,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 67368116,
+      "assetId": 259252
+    },
+    "67370512": {
+      "name": "Maurice Cova",
+      "cardName": "Cova",
+      "originalVersionId": "0",
+      "clubId": 110991,
+      "leagueId": 1014,
+      "countryId": 61,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        2,
+        24,
+        3,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        20,
+        21,
+        31
+      ],
+      "attributes": [
+        70,
+        71,
+        74,
+        70,
+        45,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 67370512,
       "assetId": 261648
     }
   }

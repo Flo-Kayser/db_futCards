@@ -471,7 +471,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 8000,
       "resourceId": 226675,
       "assetId": 226675
     },
@@ -557,7 +557,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 4000,
       "resourceId": 231667,
       "assetId": 231667
     },
@@ -1124,9 +1124,87 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 14750,
       "resourceId": 50546940,
       "assetId": 215292
+    },
+    "50578054": {
+      "name": "Xavier Arreaga",
+      "cardName": "Arreaga",
+      "originalVersionId": "0",
+      "clubId": 110968,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        62,
+        28,
+        49,
+        59,
+        69,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50578054,
+      "assetId": 246406
+    },
+    "50604638": {
+      "name": "Braian Oyola",
+      "cardName": "Oyola",
+      "originalVersionId": "0",
+      "clubId": 110968,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        20,
+        25,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        27,
+        31
+      ],
+      "attributes": [
+        79,
+        62,
+        64,
+        70,
+        40,
+        51
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50604638,
+      "assetId": 272990
     }
   }
 }

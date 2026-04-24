@@ -31,7 +31,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 700,
       "resourceId": 71091,
       "assetId": 71091
     },
@@ -311,7 +311,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1400,
       "resourceId": 231167,
       "assetId": 231167
     },
@@ -347,7 +347,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1700,
       "resourceId": 231335,
       "assetId": 231335
     },
@@ -418,7 +418,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 4300,
       "resourceId": 234061,
       "assetId": 234061
     },
@@ -598,7 +598,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 7500,
+      "price": 9800,
       "resourceId": 254961,
       "assetId": 254961
     },
@@ -633,7 +633,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 4100,
       "resourceId": 255896,
       "assetId": 255896
     },
@@ -785,6 +785,44 @@
       "resourceId": 267989,
       "assetId": 267989
     },
+    "50591265": {
+      "name": "Jaime Villamil",
+      "cardName": "Villamil",
+      "originalVersionId": "0",
+      "clubId": 131795,
+      "leagueId": 1003,
+      "countryId": 53,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        9,
+        11
+      ],
+      "attributes": [
+        73,
+        26,
+        52,
+        62,
+        57,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50591265,
+      "assetId": 259617
+    },
     "50597866": {
       "name": "Saulo Guerra",
       "cardName": "Guerra",
@@ -823,6 +861,43 @@
       "price": 200,
       "resourceId": 50597866,
       "assetId": 266218
+    },
+    "67330854": {
+      "name": "Yonathan Cabral",
+      "cardName": "Cabral",
+      "originalVersionId": "0",
+      "clubId": 131795,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        48
+      ],
+      "attributes": [
+        44,
+        29,
+        50,
+        48,
+        66,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67330854,
+      "assetId": 221990
     }
   }
 }

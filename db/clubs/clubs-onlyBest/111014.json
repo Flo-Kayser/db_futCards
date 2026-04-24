@@ -156,7 +156,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 8000,
       "resourceId": 214414,
       "assetId": 214414
     },
@@ -199,7 +199,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 700,
       "resourceId": 222065,
       "assetId": 222065
     },
@@ -236,7 +236,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 2800,
       "resourceId": 223099,
       "assetId": 223099
     },
@@ -312,7 +312,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 3900,
       "resourceId": 227154,
       "assetId": 227154
     },
@@ -495,7 +495,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 8000,
+      "price": 6600,
       "resourceId": 247423,
       "assetId": 247423
     },
@@ -529,7 +529,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 3500,
       "resourceId": 253837,
       "assetId": 253837
     },
@@ -762,7 +762,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 650,
       "resourceId": 264796,
       "assetId": 264796
     },
@@ -911,6 +911,122 @@
       "price": 200,
       "resourceId": 279076,
       "assetId": 279076
+    },
+    "50554341": {
+      "name": "Héctor Fertoli",
+      "cardName": "Fertoli",
+      "originalVersionId": "0",
+      "clubId": 111014,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        27,
+        29
+      ],
+      "attributes": [
+        78,
+        62,
+        63,
+        71,
+        44,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50554341,
+      "assetId": 222693
+    },
+    "50577005": {
+      "name": "Lisandro Alzugaray",
+      "cardName": "Alzugaray",
+      "originalVersionId": "0",
+      "clubId": 111014,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        2,
+        6,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        36,
+        37
+      ],
+      "attributes": [
+        70,
+        71,
+        68,
+        68,
+        55,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50577005,
+      "assetId": 245357
+    },
+    "50591254": {
+      "name": "Diego Romero",
+      "cardName": "Romero",
+      "originalVersionId": "0",
+      "clubId": 111014,
+      "leagueId": 1003,
+      "countryId": 59,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        65,
+        67,
+        67,
+        67,
+        25,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50591254,
+      "assetId": 259606
     }
   }
 }

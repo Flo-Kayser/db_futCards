@@ -105,7 +105,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4000,
       "resourceId": 75539,
       "assetId": 75539
     },
@@ -178,7 +178,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 2300,
       "resourceId": 166539,
       "assetId": 166539
     },
@@ -212,7 +212,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 10000,
       "resourceId": 190780,
       "assetId": 190780
     },
@@ -249,7 +249,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 4800,
       "resourceId": 194146,
       "assetId": 194146
     },
@@ -325,7 +325,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 1800,
       "resourceId": 227362,
       "assetId": 227362
     },
@@ -485,7 +485,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1300,
       "resourceId": 237642,
       "assetId": 237642
     },
@@ -1107,6 +1107,119 @@
       "price": 38450,
       "resourceId": 50563729,
       "assetId": 232081
+    },
+    "50563796": {
+      "name": "Dániel Sallói",
+      "cardName": "Sallói",
+      "originalVersionId": "0",
+      "clubId": 111651,
+      "leagueId": 39,
+      "countryId": 23,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        38
+      ],
+      "attributes": [
+        75,
+        71,
+        68,
+        71,
+        35,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50563796,
+      "assetId": 232148
+    },
+    "50566575": {
+      "name": "Raheem Edwards",
+      "cardName": "Edwards",
+      "originalVersionId": "0",
+      "clubId": 111651,
+      "leagueId": 39,
+      "countryId": 70,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        28
+      ],
+      "attributes": [
+        77,
+        52,
+        61,
+        70,
+        61,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50566575,
+      "assetId": 234927
+    },
+    "67350939": {
+      "name": "Josh Sargent",
+      "cardName": "Sargent",
+      "originalVersionId": "0",
+      "clubId": 111651,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        26,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        74,
+        76,
+        62,
+        69,
+        48,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67350939,
+      "assetId": 242075
     }
   }
 }

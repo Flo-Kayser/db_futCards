@@ -34,7 +34,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 4300,
+      "price": 4600,
       "resourceId": 71005,
       "assetId": 71005
     },
@@ -217,7 +217,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 3200,
       "resourceId": 164505,
       "assetId": 164505
     },
@@ -254,7 +254,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 10000,
       "resourceId": 212790,
       "assetId": 212790
     },
@@ -563,7 +563,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 3600,
       "resourceId": 237662,
       "assetId": 237662
     },
@@ -719,7 +719,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 10000,
       "resourceId": 243222,
       "assetId": 243222
     },
@@ -903,9 +903,45 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 7900,
       "resourceId": 279705,
       "assetId": 279705
+    },
+    "50406432": {
+      "name": "Elías Báez",
+      "cardName": "Báez",
+      "originalVersionId": "0",
+      "clubId": 112885,
+      "leagueId": 39,
+      "countryId": 52,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        27
+      ],
+      "attributes": [
+        68,
+        48,
+        55,
+        59,
+        60,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 5100,
+      "resourceId": 50406432,
+      "assetId": 74784
     },
     "50496153": {
       "name": "Brad Guzan",
@@ -943,9 +979,87 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 42250,
+      "price": 45500,
       "resourceId": 50496153,
       "assetId": 164505
+    },
+    "50562639": {
+      "name": "Fafà Picault",
+      "cardName": "Fafà Picault",
+      "originalVersionId": "1",
+      "clubId": 112885,
+      "leagueId": 39,
+      "countryId": 80,
+      "versionId": "3001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        38,
+        42
+      ],
+      "attributes": [
+        87,
+        66,
+        62,
+        71,
+        38,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 50562639,
+      "assetId": 230991
+    },
+    "67335359": {
+      "name": "Sergio Santos",
+      "cardName": "Sergio Santos",
+      "originalVersionId": "1",
+      "clubId": 112885,
+      "leagueId": 39,
+      "countryId": 54,
+      "versionId": "3001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        43
+      ],
+      "attributes": [
+        88,
+        62,
+        55,
+        68,
+        28,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67335359,
+      "assetId": 226495
     }
   }
 }
