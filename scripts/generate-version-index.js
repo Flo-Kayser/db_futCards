@@ -141,6 +141,14 @@ async function main() {
     })
   );
 
+  if (detailsMap.has("127")) {
+    entries.push(["127", {
+      count: 0,
+      file: null,
+      details: detailsMap.get("127"),
+    }]);
+  }
+
   const versions              = Object.fromEntries(entries);
   const totalCards            = entries.reduce((sum, [, v]) => sum + v.count, 0);
   const totalVersions         = Object.keys(versions).length;
