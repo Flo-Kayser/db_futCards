@@ -37,7 +37,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 28250,
+    "price": 29750,
     "resourceId": 50537571,
     "assetId": 205923
   },
@@ -85,7 +85,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 24000,
     "resourceId": 50551844,
     "assetId": 220196
   },
@@ -130,7 +130,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 420000,
+    "price": 219000,
     "resourceId": 50563752,
     "assetId": 232104
   },
@@ -178,7 +178,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 39000,
+    "price": 40000,
     "resourceId": 50579351,
     "assetId": 247703
   },
@@ -231,7 +231,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 29250,
     "resourceId": 50598849,
     "assetId": 267201
   },
@@ -341,45 +341,58 @@
     "resourceId": 67325491,
     "assetId": 216627
   },
-  "67329574": {
+  "84106790": {
     "name": "Harry Wilson",
     "cardName": "Wilson",
-    "originalVersionId": "30",
+    "originalVersionId": "65",
     "clubId": 144,
     "leagueId": 13,
     "countryId": 50,
-    "versionId": "30",
-    "rating": 88,
+    "versionId": "65",
+    "rating": 91,
     "preferredFoot": "Left",
-    "weakFoot": 5,
-    "skillMoves": 5,
-    "preferredPosition": "RM",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
     "possiblePositions": [
       "RM",
       "RW"
     ],
-    "playStyles": [],
-    "playStylesPlus": [],
+    "playStyles": [
+      11,
+      2,
+      20,
+      22,
+      24,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      21,
+      7
+    ],
     "rolesPlus": [
       24,
       25,
-      37,
       123,
       126,
       135,
-      136
+      136,
+      137
     ],
     "attributes": [
-      92,
-      88,
-      88,
-      88,
-      60,
-      72
+      94,
+      91,
+      91,
+      91,
+      65,
+      78
     ],
+    "isObjective": true,
     "hasDynamicImage": true,
-    "price": 34750,
-    "resourceId": 67329574,
+    "price": 0,
+    "resourceId": 84106790,
     "assetId": 220710
   }
 }

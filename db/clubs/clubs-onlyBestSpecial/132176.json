@@ -183,7 +183,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 33750,
+      "price": 32000,
       "resourceId": 50598152,
       "assetId": 266504
     },
@@ -239,47 +239,6 @@
       "resourceId": 50600589,
       "assetId": 268941
     },
-    "50607945": {
-      "name": "Freya Godfrey",
-      "cardName": "Godfrey",
-      "originalVersionId": "3",
-      "clubId": 132176,
-      "leagueId": 2216,
-      "countryId": 14,
-      "versionId": "3",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        20,
-        24,
-        6
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41,
-        126
-      ],
-      "attributes": [
-        85,
-        84,
-        75,
-        83,
-        41,
-        79
-      ],
-      "hasDynamicImage": true,
-      "price": 95000,
-      "resourceId": 50607945,
-      "assetId": 276297
-    },
     "67335861": {
       "name": "Saki Kumagai",
       "cardName": "Kumagai",
@@ -332,7 +291,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13750,
       "resourceId": 67335861,
       "assetId": 226997
     },
@@ -385,6 +344,64 @@
       "sbcPrice": 74000,
       "resourceId": 67346061,
       "assetId": 237197
+    },
+    "67385161": {
+      "name": "Freya Godfrey",
+      "cardName": "Godfrey",
+      "originalVersionId": "120",
+      "clubId": 132176,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "120",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        12,
+        21,
+        22,
+        25,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        20,
+        24,
+        6
+      ],
+      "rolesPlus": [
+        42,
+        44,
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        141,
+        143
+      ],
+      "attributes": [
+        92,
+        90,
+        90,
+        91,
+        45,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 13000,
+      "resourceId": 67385161,
+      "assetId": 276297
     }
   }
 }

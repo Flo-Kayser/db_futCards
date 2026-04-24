@@ -43,7 +43,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 169000,
+      "price": 92500,
       "resourceId": 50536486,
       "assetId": 204838
     },
@@ -92,45 +92,58 @@
       "resourceId": 67313702,
       "assetId": 204838
     },
-    "67329574": {
+    "84106790": {
       "name": "Harry Wilson",
       "cardName": "Wilson",
-      "originalVersionId": "30",
+      "originalVersionId": "65",
       "clubId": 144,
       "leagueId": 13,
       "countryId": 50,
-      "versionId": "30",
-      "rating": 88,
+      "versionId": "65",
+      "rating": 91,
       "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "RM",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
       "possiblePositions": [
         "RM",
         "RW"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        11,
+        2,
+        20,
+        22,
+        24,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        21,
+        7
+      ],
       "rolesPlus": [
         24,
         25,
-        37,
         123,
         126,
         135,
-        136
+        136,
+        137
       ],
       "attributes": [
-        92,
-        88,
-        88,
-        88,
-        60,
-        72
+        94,
+        91,
+        91,
+        91,
+        65,
+        78
       ],
+      "isObjective": true,
       "hasDynamicImage": true,
-      "price": 34750,
-      "resourceId": 67329574,
+      "price": 0,
+      "resourceId": 84106790,
       "assetId": 220710
     },
     "84163375": {
@@ -184,7 +197,7 @@
         69
       ],
       "hasDynamicImage": true,
-      "price": 41250,
+      "price": 44500,
       "resourceId": 84163375,
       "assetId": 277295
     }

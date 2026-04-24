@@ -33,7 +33,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 2800,
       "resourceId": 74759,
       "assetId": 74759
     },
@@ -339,7 +339,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 1400,
       "resourceId": 239529,
       "assetId": 239529
     },
@@ -412,7 +412,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 5600,
+      "price": 10000,
       "resourceId": 243849,
       "assetId": 243849
     },
@@ -481,7 +481,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 4600,
+      "price": 1700,
       "resourceId": 256488,
       "assetId": 256488
     },
@@ -709,7 +709,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4100,
       "resourceId": 277705,
       "assetId": 277705
     },
@@ -861,7 +861,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 115000,
+      "price": 116000,
       "resourceId": 50515359,
       "assetId": 183711
     },
@@ -899,7 +899,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 8200,
+      "price": 650,
       "resourceId": 50556142,
       "assetId": 224494
     },
@@ -994,7 +994,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 16000,
       "resourceId": 50574101,
       "assetId": 242453
     },
@@ -1135,7 +1135,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 73500,
+      "price": 64000,
       "resourceId": 50592574,
       "assetId": 260926
     },
@@ -1186,7 +1186,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 20750,
+      "price": 21000,
       "resourceId": 50597200,
       "assetId": 265552
     },
@@ -1244,45 +1244,57 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 23250,
+      "price": 20750,
       "resourceId": 67350372,
       "assetId": 241508
     },
-    "117716283": {
+    "134493499": {
       "name": "Igor Thiago",
       "cardName": "Igor Thiago",
-      "originalVersionId": "30",
+      "originalVersionId": "11",
       "clubId": 1925,
       "leagueId": 13,
       "countryId": 54,
-      "versionId": "30",
-      "rating": 89,
+      "versionId": "11",
+      "rating": 92,
       "preferredFoot": "Right",
       "weakFoot": 5,
-      "skillMoves": 5,
+      "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
         "ST"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        0,
+        11,
+        20,
+        22,
+        25,
+        29,
+        7
+      ],
+      "playStylesPlus": [
+        2,
+        24,
+        6
+      ],
       "rolesPlus": [
-        43,
         141,
         142,
+        143,
         144
       ],
       "attributes": [
-        88,
-        90,
-        80,
-        87,
-        51,
-        92
+        92,
+        93,
+        85,
+        91,
+        54,
+        95
       ],
       "hasDynamicImage": true,
-      "price": 55000,
-      "resourceId": 117716283,
+      "price": 33000,
+      "resourceId": 134493499,
       "assetId": 275771
     }
   }

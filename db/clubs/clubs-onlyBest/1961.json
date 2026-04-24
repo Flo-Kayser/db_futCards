@@ -102,7 +102,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 4100,
       "resourceId": 72210,
       "assetId": 72210
     },
@@ -173,7 +173,7 @@
         41
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 2900,
       "resourceId": 78391,
       "assetId": 78391
     },
@@ -209,7 +209,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 5100,
       "resourceId": 204354,
       "assetId": 204354
     },
@@ -364,43 +364,6 @@
       "resourceId": 225785,
       "assetId": 225785
     },
-    "227929": {
-      "name": "Ryan Wintle",
-      "cardName": "Wintle",
-      "originalVersionId": "0",
-      "clubId": 1961,
-      "leagueId": 60,
-      "countryId": 14,
-      "versionId": "2001",
-      "rating": 69,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        14,
-        17,
-        18
-      ],
-      "attributes": [
-        67,
-        57,
-        66,
-        66,
-        65,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 227929,
-      "assetId": 227929
-    },
     "234111": {
       "name": "David Turnbull",
       "cardName": "Turnbull",
@@ -438,7 +401,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 350,
       "resourceId": 234111,
       "assetId": 234111
     },
@@ -925,9 +888,65 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 10000,
       "resourceId": 50551384,
       "assetId": 219736
+    },
+    "50559577": {
+      "name": "Ryan Wintle",
+      "cardName": "Wintle",
+      "originalVersionId": "11",
+      "clubId": 1961,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "11",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        15,
+        16,
+        26,
+        28,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        11,
+        14,
+        24
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        22,
+        114,
+        115,
+        116,
+        117,
+        119,
+        120,
+        149
+      ],
+      "attributes": [
+        92,
+        81,
+        90,
+        87,
+        90,
+        94
+      ],
+      "hasDynamicImage": true,
+      "price": 34000,
+      "resourceId": 50559577,
+      "assetId": 227929
     },
     "50562833": {
       "name": "Gabriel Osho",

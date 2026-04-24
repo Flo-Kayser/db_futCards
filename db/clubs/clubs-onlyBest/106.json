@@ -339,7 +339,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1000,
       "resourceId": 240867,
       "assetId": 240867
     },
@@ -449,7 +449,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 1300,
       "resourceId": 246417,
       "assetId": 246417
     },
@@ -557,7 +557,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 6300,
+      "price": 1600,
       "resourceId": 253969,
       "assetId": 253969
     },
@@ -596,7 +596,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 6500,
       "resourceId": 256442,
       "assetId": 256442
     },
@@ -702,7 +702,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 850,
       "resourceId": 257270,
       "assetId": 257270
     },
@@ -741,7 +741,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 2500,
       "resourceId": 258483,
       "assetId": 258483
     },
@@ -781,7 +781,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 260779,
       "assetId": 260779
     },
@@ -892,7 +892,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 8900,
+      "price": 9800,
       "resourceId": 266424,
       "assetId": 266424
     },
@@ -1161,7 +1161,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 6000,
+      "price": 4900,
       "resourceId": 273898,
       "assetId": 273898
     },
@@ -1232,56 +1232,6 @@
       "price": 0,
       "resourceId": 278813,
       "assetId": 278813
-    },
-    "50531151": {
-      "name": "Granit Xhaka",
-      "cardName": "Xhaka",
-      "originalVersionId": "108",
-      "clubId": 106,
-      "leagueId": 13,
-      "countryId": 47,
-      "versionId": "108",
-      "rating": 89,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        0,
-        10,
-        17,
-        19,
-        2,
-        28,
-        8
-      ],
-      "playStylesPlus": [
-        11
-      ],
-      "rolesPlus": [
-        14,
-        19,
-        49,
-        116,
-        120,
-        121
-      ],
-      "attributes": [
-        82,
-        80,
-        89,
-        85,
-        85,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 83500,
-      "resourceId": 50531151,
-      "assetId": 199503
     },
     "50539596": {
       "name": "Bertrand Traoré",
@@ -1409,7 +1359,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 29750,
+      "price": 25000,
       "resourceId": 50572007,
       "assetId": 240359
     },
@@ -1494,7 +1444,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 28000,
+      "price": 29000,
       "resourceId": 50575556,
       "assetId": 243908
     },
@@ -1623,7 +1573,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 19000,
+      "price": 19750,
       "resourceId": 50595446,
       "assetId": 263798
     },
@@ -1711,6 +1661,62 @@
       "resourceId": 50598048,
       "assetId": 266400
     },
+    "67308367": {
+      "name": "Granit Xhaka",
+      "cardName": "Xhaka",
+      "originalVersionId": "11",
+      "clubId": 106,
+      "leagueId": 13,
+      "countryId": 47,
+      "versionId": "11",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        17,
+        2,
+        20,
+        22,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        28,
+        8
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        22,
+        114,
+        115,
+        116,
+        117,
+        119,
+        120,
+        149
+      ],
+      "attributes": [
+        88,
+        82,
+        91,
+        90,
+        90,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 18500,
+      "resourceId": 67308367,
+      "assetId": 199503
+    },
     "67360674": {
       "name": "Brian Brobbey",
       "cardName": "Brobbey",
@@ -1752,7 +1758,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 21500,
+      "price": 22250,
       "resourceId": 67360674,
       "assetId": 251810
     },

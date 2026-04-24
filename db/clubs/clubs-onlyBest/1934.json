@@ -209,7 +209,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2000,
       "resourceId": 80062,
       "assetId": 80062
     },
@@ -252,7 +252,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 193608,
       "assetId": 193608
     },
@@ -444,7 +444,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 230590,
       "assetId": 230590
     },
@@ -481,7 +481,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 5100,
       "resourceId": 231284,
       "assetId": 231284
     },
@@ -600,43 +600,6 @@
       "price": 200,
       "resourceId": 241646,
       "assetId": 241646
-    },
-    "242286": {
-      "name": "Aaron Drinan",
-      "cardName": "Drinan",
-      "originalVersionId": "1",
-      "clubId": 1934,
-      "leagueId": 61,
-      "countryId": 25,
-      "versionId": "3000",
-      "rating": 60,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        36,
-        42
-      ],
-      "attributes": [
-        76,
-        58,
-        49,
-        61,
-        32,
-        64
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 242286,
-      "assetId": 242286
     },
     "243575": {
       "name": "James Ball",
@@ -885,7 +848,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 278993,
       "assetId": 278993
     },
@@ -1045,6 +1008,64 @@
       "resourceId": 50551198,
       "assetId": 219550
     },
+    "50573934": {
+      "name": "Aaron Drinan",
+      "cardName": "Drinan",
+      "originalVersionId": "11",
+      "clubId": 1934,
+      "leagueId": 61,
+      "countryId": 25,
+      "versionId": "11",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        11,
+        20,
+        21,
+        25,
+        29,
+        7
+      ],
+      "playStylesPlus": [
+        0,
+        2,
+        6
+      ],
+      "rolesPlus": [
+        24,
+        25,
+        37,
+        123,
+        126,
+        135,
+        136,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        93,
+        83,
+        91,
+        70,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 56000,
+      "resourceId": 50573934,
+      "assetId": 242286
+    },
     "50596159": {
       "name": "Adam Murphy",
       "cardName": "Murphy",
@@ -1075,7 +1096,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 2700,
       "resourceId": 50596159,
       "assetId": 264511
     },

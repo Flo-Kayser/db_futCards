@@ -410,7 +410,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 6400,
+      "price": 10000,
       "resourceId": 242436,
       "assetId": 242436
     },
@@ -527,7 +527,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1300,
       "resourceId": 248121,
       "assetId": 248121
     },
@@ -674,7 +674,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 3200,
       "resourceId": 268544,
       "assetId": 268544
     },
@@ -716,40 +716,6 @@
       "price": 200,
       "resourceId": 270363,
       "assetId": 270363
-    },
-    "271560": {
-      "name": "Reyes Cleary",
-      "cardName": "Cleary",
-      "originalVersionId": "0",
-      "clubId": 1932,
-      "leagueId": 60,
-      "countryId": 14,
-      "versionId": "2000",
-      "rating": 59,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "attributes": [
-        74,
-        57,
-        44,
-        58,
-        29,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 271560,
-      "assetId": 271560
     },
     "272446": {
       "name": "Fábio Jaló",
@@ -821,7 +787,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 3300,
       "resourceId": 277512,
       "assetId": 277512
     },
@@ -941,7 +907,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 21250,
       "resourceId": 50512466,
       "assetId": 180818
     },
@@ -1088,9 +1054,67 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 5100,
       "resourceId": 50596015,
       "assetId": 264367
+    },
+    "50603208": {
+      "name": "Reyes Cleary",
+      "cardName": "Cleary",
+      "originalVersionId": "120",
+      "clubId": 1932,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "120",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        11,
+        2,
+        20,
+        21,
+        29,
+        6
+      ],
+      "playStylesPlus": [
+        0,
+        25,
+        7
+      ],
+      "rolesPlus": [
+        28,
+        29,
+        42,
+        44,
+        127,
+        130,
+        138,
+        139,
+        140,
+        141,
+        143
+      ],
+      "attributes": [
+        91,
+        88,
+        75,
+        90,
+        61,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 11250,
+      "resourceId": 50603208,
+      "assetId": 271560
     },
     "50603214": {
       "name": "Jake Rooney",
@@ -1123,7 +1147,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 4300,
       "resourceId": 50603214,
       "assetId": 271566
     },

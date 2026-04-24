@@ -137,7 +137,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 39500,
       "resourceId": 50558767,
       "assetId": 227119
     },
@@ -174,7 +174,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 17500,
       "resourceId": 50565012,
       "assetId": 233364
     },
@@ -234,7 +234,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 12250,
       "resourceId": 50571409,
       "assetId": 239761
     },
@@ -278,7 +278,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 26750,
+      "price": 22000,
       "resourceId": 50577520,
       "assetId": 245872
     },
@@ -379,7 +379,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 34500,
+      "price": 35250,
       "resourceId": 50588649,
       "assetId": 257001
     },
@@ -476,7 +476,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 700000,
+      "price": 635000,
       "resourceId": 67346152,
       "assetId": 237288
     },
@@ -582,7 +582,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 363000,
+      "price": 392000,
       "resourceId": 67355290,
       "assetId": 246426
     },
@@ -636,7 +636,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 637000,
+      "price": 599000,
       "resourceId": 67367844,
       "assetId": 258980
     },
@@ -690,50 +690,6 @@
       "resourceId": 67371877,
       "assetId": 263013
     },
-    "67374103": {
-      "name": "Katie McCabe",
-      "cardName": "McCabe",
-      "originalVersionId": "30",
-      "clubId": 116009,
-      "leagueId": 2216,
-      "countryId": 25,
-      "versionId": "30",
-      "rating": 89,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        7,
-        27,
-        30,
-        38,
-        39,
-        109,
-        110,
-        129,
-        140
-      ],
-      "attributes": [
-        88,
-        85,
-        86,
-        86,
-        88,
-        89
-      ],
-      "hasDynamicImage": true,
-      "price": 14000,
-      "resourceId": 67374103,
-      "assetId": 265239
-    },
     "67385163": {
       "name": "Michelle Agyemang",
       "cardName": "Agyemang",
@@ -777,7 +733,7 @@
         90
       ],
       "hasDynamicImage": false,
-      "price": 15000,
+      "price": 17500,
       "resourceId": 67385163,
       "assetId": 276299
     },
@@ -842,9 +798,133 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 209000,
+      "price": 215000,
       "resourceId": 67385416,
       "assetId": 276552
+    },
+    "84151319": {
+      "name": "Katie McCabe",
+      "cardName": "McCabe",
+      "originalVersionId": "11",
+      "clubId": 116009,
+      "leagueId": 2216,
+      "countryId": 25,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        14,
+        16,
+        17,
+        18,
+        20,
+        27,
+        8
+      ],
+      "playStylesPlus": [
+        12,
+        21,
+        28
+      ],
+      "rolesPlus": [
+        30,
+        39,
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        138,
+        140,
+        147
+      ],
+      "attributes": [
+        90,
+        87,
+        88,
+        88,
+        92,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 60000,
+      "resourceId": 84151319,
+      "assetId": 265239
+    },
+    "100900584": {
+      "name": "Mariona",
+      "cardName": "Mariona",
+      "originalVersionId": "11",
+      "clubId": 116009,
+      "leagueId": 2216,
+      "countryId": 45,
+      "versionId": "11",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "RW"
+      ],
+      "playStyles": [
+        10,
+        13,
+        16,
+        22,
+        24,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        11,
+        20
+      ],
+      "rolesPlus": [
+        15,
+        17,
+        32,
+        34,
+        35,
+        49,
+        114,
+        116,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        133,
+        136,
+        137
+      ],
+      "attributes": [
+        88,
+        92,
+        96,
+        94,
+        90,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 100900584,
+      "assetId": 237288
     }
   }
 }

@@ -30,7 +30,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 1800,
+    "price": 850,
     "resourceId": 70903,
     "assetId": 70903
   },
@@ -140,7 +140,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 3000,
+    "price": 5000,
     "resourceId": 73007,
     "assetId": 73007
   },
@@ -351,7 +351,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1300,
     "resourceId": 75027,
     "assetId": 75027
   },
@@ -421,7 +421,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 2700,
+    "price": 3700,
     "resourceId": 75248,
     "assetId": 75248
   },
@@ -455,7 +455,7 @@
       43
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 75279,
     "assetId": 75279
   },
@@ -489,7 +489,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 5100,
     "resourceId": 78701,
     "assetId": 78701
   },
@@ -593,7 +593,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 1400,
+    "price": 200,
     "resourceId": 79125,
     "assetId": 79125
   },
@@ -632,7 +632,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 79180,
     "assetId": 79180
   },
@@ -775,7 +775,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 1900,
+    "price": 2200,
     "resourceId": 185122,
     "assetId": 185122
   },
@@ -813,7 +813,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 850,
     "resourceId": 188537,
     "assetId": 188537
   },
@@ -1190,7 +1190,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 2000,
     "resourceId": 236510,
     "assetId": 236510
   },
@@ -1343,7 +1343,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 244324,
     "assetId": 244324
   },
@@ -1532,7 +1532,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 950,
     "resourceId": 253170,
     "assetId": 253170
   },
@@ -1611,7 +1611,7 @@
       49
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 258453,
     "assetId": 258453
   },
@@ -2161,7 +2161,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 0,
     "resourceId": 274104,
     "assetId": 274104
   },
@@ -2305,7 +2305,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 3500,
+    "price": 9500,
     "resourceId": 276220,
     "assetId": 276220
   },
@@ -2516,7 +2516,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 1900,
+    "price": 1300,
     "resourceId": 50406834,
     "assetId": 75186
   },
@@ -2559,7 +2559,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 18500,
     "resourceId": 50536286,
     "assetId": 204638
   },
@@ -2839,7 +2839,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 650,
     "resourceId": 50607807,
     "assetId": 276159
   },
@@ -2921,53 +2921,80 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 1972000,
+    "price": 1840000,
     "resourceId": 67363506,
     "assetId": 254642
   },
-  "84122852": {
+  "100900068": {
     "name": "Dominik Szoboszlai",
     "cardName": "Szoboszlai",
-    "originalVersionId": "30",
+    "originalVersionId": "11",
     "clubId": 9,
     "leagueId": 13,
     "countryId": 23,
-    "versionId": "30",
-    "rating": 90,
+    "versionId": "11",
+    "rating": 94,
     "preferredFoot": "Right",
     "weakFoot": 5,
     "skillMoves": 5,
     "preferredPosition": "CAM",
     "possiblePositions": [
       "CAM",
+      "CDM",
       "CM",
-      "RB"
+      "RB",
+      "RM"
     ],
-    "playStyles": [],
-    "playStylesPlus": [],
+    "playStyles": [
+      17,
+      20,
+      21,
+      22,
+      3,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      16,
+      2,
+      9
+    ],
     "rolesPlus": [
+      3,
       4,
+      6,
+      14,
+      16,
+      17,
+      18,
       19,
       20,
-      22,
-      33,
-      103,
-      118,
+      23,
+      24,
+      26,
+      46,
+      105,
+      115,
       121,
+      122,
+      125,
       131,
-      132
+      132,
+      133,
+      134,
+      149
     ],
     "attributes": [
-      87,
-      90,
-      90,
-      92,
-      80,
-      85
+      91,
+      94,
+      94,
+      96,
+      85,
+      90
     ],
     "hasDynamicImage": true,
-    "price": 139000,
-    "resourceId": 84122852,
+    "price": 535000,
+    "resourceId": 100900068,
     "assetId": 236772
   }
 }

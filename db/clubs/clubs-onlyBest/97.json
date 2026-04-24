@@ -445,7 +445,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 950,
       "resourceId": 228225,
       "assetId": 228225
     },
@@ -595,7 +595,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 3500,
       "resourceId": 241076,
       "assetId": 241076
     },
@@ -714,46 +714,6 @@
       "resourceId": 252483,
       "assetId": 252483
     },
-    "253433": {
-      "name": "Femi Azeez",
-      "cardName": "Azeez",
-      "originalVersionId": "0",
-      "clubId": 97,
-      "leagueId": 14,
-      "countryId": 14,
-      "versionId": "2001",
-      "rating": 70,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM"
-      ],
-      "playStyles": [
-        2
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        27,
-        30
-      ],
-      "attributes": [
-        79,
-        66,
-        62,
-        72,
-        35,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 253433,
-      "assetId": 253433
-    },
     "253461": {
       "name": "Luke Cundle",
       "cardName": "Cundle",
@@ -859,7 +819,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 4100,
+      "price": 4500,
       "resourceId": 263271,
       "assetId": 263271
     },
@@ -1120,7 +1080,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 5100,
       "resourceId": 278987,
       "assetId": 278987
     },
@@ -1282,54 +1242,68 @@
       "resourceId": 50580004,
       "assetId": 248356
     },
-    "50594216": {
-      "name": "Tristan Crama",
-      "cardName": "Crama",
-      "originalVersionId": "3",
+    "50585081": {
+      "name": "Femi Azeez",
+      "cardName": "Azeez",
+      "originalVersionId": "65",
       "clubId": 97,
       "leagueId": 14,
-      "countryId": 18,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
+      "countryId": 14,
+      "versionId": "65",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
       "possiblePositions": [
-        "CB",
-        "RB"
+        "LM",
+        "LW",
+        "RM",
+        "RW"
       ],
       "playStyles": [
-        10,
-        14,
-        17,
-        18,
-        4
+        0,
+        11,
+        2,
+        20,
+        22,
+        25,
+        9
       ],
       "playStylesPlus": [
-        28
+        21,
+        6,
+        7
       ],
       "rolesPlus": [
-        3,
-        6,
-        12,
-        48,
-        104,
-        111,
-        113
+        24,
+        25,
+        28,
+        29,
+        40,
+        123,
+        126,
+        127,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139
       ],
       "attributes": [
-        84,
-        63,
-        76,
-        82,
-        86,
-        92
+        95,
+        89,
+        88,
+        90,
+        55,
+        87
       ],
+      "isObjective": true,
       "hasDynamicImage": true,
-      "price": 21750,
-      "resourceId": 50594216,
-      "assetId": 262568
+      "price": 0,
+      "resourceId": 50585081,
+      "assetId": 253433
     },
     "50596434": {
       "name": "Derek Mazou-Sacko",
@@ -1405,47 +1379,108 @@
       "resourceId": 50606894,
       "assetId": 275246
     },
-    "67372549": {
+    "67371432": {
+      "name": "Tristan Crama",
+      "cardName": "Crama",
+      "originalVersionId": "11",
+      "clubId": 97,
+      "leagueId": 14,
+      "countryId": 18,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        10,
+        12,
+        14,
+        16,
+        18,
+        21,
+        9
+      ],
+      "playStylesPlus": [
+        15,
+        17,
+        28
+      ],
+      "rolesPlus": [
+        11,
+        12,
+        103,
+        104,
+        105,
+        106,
+        113,
+        146,
+        148
+      ],
+      "attributes": [
+        90,
+        70,
+        88,
+        90,
+        92,
+        94
+      ],
+      "hasDynamicImage": true,
+      "price": 29250,
+      "resourceId": 67371432,
+      "assetId": 262568
+    },
+    "84149765": {
       "name": "Caleb Taylor",
       "cardName": "Taylor",
-      "originalVersionId": "3",
+      "originalVersionId": "120",
       "clubId": 97,
       "leagueId": 14,
       "countryId": 14,
-      "versionId": "3",
-      "rating": 84,
+      "versionId": "120",
+      "rating": 92,
       "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
+      "weakFoot": 4,
+      "skillMoves": 3,
       "preferredPosition": "CB",
       "possiblePositions": [
         "CB"
       ],
       "playStyles": [
-        15,
+        14,
         17,
-        19,
-        8
+        18,
+        26,
+        28,
+        8,
+        9
       ],
       "playStylesPlus": [
-        4
+        15,
+        16,
+        19
       ],
       "rolesPlus": [
-        13,
         111,
-        112
+        112,
+        113,
+        148
       ],
       "attributes": [
-        77,
-        55,
-        67,
-        70,
-        85,
-        89
+        86,
+        65,
+        80,
+        82,
+        91,
+        92
       ],
       "hasDynamicImage": true,
-      "price": 33250,
-      "resourceId": 67372549,
+      "price": 15000,
+      "resourceId": 84149765,
       "assetId": 263685
     }
   }

@@ -108,7 +108,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 80000,
+      "price": 84500,
       "resourceId": 50566222,
       "assetId": 234574
     },
@@ -207,60 +207,6 @@
       "price": 152000,
       "resourceId": 50571891,
       "assetId": 240243
-    },
-    "50574662": {
-      "name": "Bryan Mbeumo",
-      "cardName": "Mbeumo",
-      "originalVersionId": "151",
-      "clubId": 11,
-      "leagueId": 13,
-      "countryId": 103,
-      "versionId": "151",
-      "rating": 87,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        13,
-        21,
-        22,
-        25,
-        7
-      ],
-      "playStylesPlus": [
-        2
-      ],
-      "rolesPlus": [
-        123,
-        124,
-        125,
-        126,
-        135,
-        136,
-        137,
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        89,
-        87,
-        81,
-        86,
-        51,
-        78
-      ],
-      "hasDynamicImage": true,
-      "price": 65000,
-      "resourceId": 50574662,
-      "assetId": 243014
     },
     "50585736": {
       "name": "Amad",
@@ -398,7 +344,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 115000,
+      "price": 125000,
       "resourceId": 50600735,
       "assetId": 269087
     },
@@ -446,7 +392,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 114000,
+      "price": 125000,
       "resourceId": 67312127,
       "assetId": 203263
     },
@@ -495,7 +441,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 141000,
+      "price": 147000,
       "resourceId": 67349107,
       "assetId": 240243
     },
@@ -593,7 +539,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 23750,
       "resourceId": 67363667,
       "assetId": 254803
     },
@@ -635,7 +581,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 144000,
+      "price": 140000,
       "resourceId": 67378000,
       "assetId": 269136
     },
@@ -693,15 +639,131 @@
       "resourceId": 67386296,
       "assetId": 277432
     },
-    "84098278": {
+    "84129094": {
+      "name": "Bryan Mbeumo",
+      "cardName": "Mbeumo",
+      "originalVersionId": "65",
+      "clubId": 11,
+      "leagueId": 13,
+      "countryId": 103,
+      "versionId": "65",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        13,
+        2,
+        20,
+        22,
+        6,
+        7
+      ],
+      "playStylesPlus": [
+        0,
+        21,
+        25
+      ],
+      "rolesPlus": [
+        24,
+        25,
+        41,
+        43,
+        123,
+        126,
+        135,
+        136,
+        137,
+        142,
+        144
+      ],
+      "attributes": [
+        94,
+        94,
+        90,
+        92,
+        60,
+        85
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 654000,
+      "price": 598400,
+      "resourceId": 84129094,
+      "assetId": 243014
+    },
+    "134417873": {
+      "name": "Casemiro",
+      "cardName": "Casemiro",
+      "originalVersionId": "65",
+      "clubId": 11,
+      "leagueId": 13,
+      "countryId": 54,
+      "versionId": "65",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        15,
+        17,
+        18,
+        2,
+        21,
+        4
+      ],
+      "playStylesPlus": [
+        16,
+        28,
+        9
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        22,
+        114,
+        115,
+        116,
+        117,
+        119,
+        120,
+        149
+      ],
+      "attributes": [
+        87,
+        88,
+        89,
+        90,
+        92,
+        94
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 654000,
+      "price": 0,
+      "resourceId": 134417873,
+      "assetId": 200145
+    },
+    "134429926": {
       "name": "Bruno Fernandes",
       "cardName": "Bruno Fernandes",
-      "originalVersionId": "111",
+      "originalVersionId": "11",
       "clubId": 11,
       "leagueId": 13,
       "countryId": 38,
-      "versionId": "111",
-      "rating": 93,
+      "versionId": "11",
+      "rating": 97,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 4,
@@ -711,24 +773,23 @@
         "CM"
       ],
       "playStyles": [
-        0,
-        10,
-        11,
         13,
-        16,
+        20,
         26,
         3,
         6,
-        7
-      ],
-      "playStylesPlus": [
-        8,
         9
       ],
+      "playStylesPlus": [
+        0,
+        10,
+        11,
+        8
+      ],
       "rolesPlus": [
-        118,
-        119,
-        120,
+        18,
+        19,
+        20,
         121,
         122,
         131,
@@ -737,70 +798,17 @@
         134
       ],
       "attributes": [
-        89,
-        91,
-        95,
         92,
-        75,
-        81
+        95,
+        97,
+        95,
+        80,
+        87
       ],
       "hasDynamicImage": true,
-      "price": 520000,
-      "resourceId": 84098278,
+      "price": 9000000,
+      "resourceId": 134429926,
       "assetId": 212198
-    },
-    "117640657": {
-      "name": "Casemiro",
-      "cardName": "Casemiro",
-      "originalVersionId": "68",
-      "clubId": 11,
-      "leagueId": 13,
-      "countryId": 54,
-      "versionId": "68",
-      "rating": 91,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        11,
-        15,
-        16,
-        18,
-        19,
-        26,
-        28
-      ],
-      "playStylesPlus": [
-        10,
-        17
-      ],
-      "rolesPlus": [
-        15,
-        18,
-        21,
-        49,
-        114,
-        116,
-        119,
-        120
-      ],
-      "attributes": [
-        86,
-        86,
-        87,
-        88,
-        90,
-        92
-      ],
-      "isObjective": true,
-      "hasDynamicImage": true,
-      "resourceId": 117640657,
-      "assetId": 200145
     }
   }
 }

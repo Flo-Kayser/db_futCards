@@ -1,6 +1,69 @@
 {
   "clubName": "Millwall",
   "players": {
+    "50585081": {
+      "name": "Femi Azeez",
+      "cardName": "Azeez",
+      "originalVersionId": "65",
+      "clubId": 97,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "65",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        11,
+        2,
+        20,
+        22,
+        25,
+        9
+      ],
+      "playStylesPlus": [
+        21,
+        6,
+        7
+      ],
+      "rolesPlus": [
+        24,
+        25,
+        28,
+        29,
+        40,
+        123,
+        126,
+        127,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139
+      ],
+      "attributes": [
+        95,
+        89,
+        88,
+        90,
+        55,
+        87
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50585081,
+      "assetId": 253433
+    },
     "50594216": {
       "name": "Tristan Crama",
       "cardName": "Crama",
@@ -46,8 +109,63 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 21750,
+      "price": 21500,
       "resourceId": 50594216,
+      "assetId": 262568
+    },
+    "67371432": {
+      "name": "Tristan Crama",
+      "cardName": "Crama",
+      "originalVersionId": "11",
+      "clubId": 97,
+      "leagueId": 14,
+      "countryId": 18,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        10,
+        12,
+        14,
+        16,
+        18,
+        21,
+        9
+      ],
+      "playStylesPlus": [
+        15,
+        17,
+        28
+      ],
+      "rolesPlus": [
+        11,
+        12,
+        103,
+        104,
+        105,
+        106,
+        113,
+        146,
+        148
+      ],
+      "attributes": [
+        90,
+        70,
+        88,
+        90,
+        92,
+        94
+      ],
+      "hasDynamicImage": true,
+      "price": 29250,
+      "resourceId": 67371432,
       "assetId": 262568
     },
     "67372549": {
@@ -89,8 +207,57 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 33250,
+      "price": 23250,
       "resourceId": 67372549,
+      "assetId": 263685
+    },
+    "84149765": {
+      "name": "Caleb Taylor",
+      "cardName": "Taylor",
+      "originalVersionId": "120",
+      "clubId": 97,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "120",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        17,
+        18,
+        26,
+        28,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        15,
+        16,
+        19
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        86,
+        65,
+        80,
+        82,
+        91,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 15000,
+      "resourceId": 84149765,
       "assetId": 263685
     }
   }

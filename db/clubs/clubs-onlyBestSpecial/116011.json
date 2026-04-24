@@ -1,6 +1,109 @@
 {
   "clubName": "Spurs",
   "players": {
+    "50411058": {
+      "name": "Tōko Koga",
+      "cardName": "Koga",
+      "originalVersionId": "11",
+      "clubId": 116011,
+      "leagueId": 2216,
+      "countryId": 163,
+      "versionId": "11",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        17,
+        18,
+        19,
+        25,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        14,
+        15,
+        16
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        87,
+        43,
+        83,
+        86,
+        93,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 24000,
+      "resourceId": 50411058,
+      "assetId": 79410
+    },
+    "50588137": {
+      "name": "Bethany England",
+      "cardName": "England",
+      "originalVersionId": "58",
+      "clubId": 116011,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "58",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        21,
+        22,
+        24,
+        25,
+        29,
+        4,
+        6
+      ],
+      "playStylesPlus": [
+        0,
+        8
+      ],
+      "rolesPlus": [
+        33,
+        42,
+        43,
+        131,
+        132,
+        134,
+        141,
+        144
+      ],
+      "attributes": [
+        89,
+        92,
+        94,
+        88,
+        48,
+        85
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 43250,
+      "price": 36550,
+      "resourceId": 50588137,
+      "assetId": 256489
+    },
     "50596906": {
       "name": "Jessica Naz",
       "cardName": "Naz",
@@ -45,15 +148,15 @@
       "resourceId": 50596906,
       "assetId": 265258
     },
-    "50604825": {
+    "67382041": {
       "name": "Olivia Holdt",
       "cardName": "Holdt",
-      "originalVersionId": "111",
+      "originalVersionId": "120",
       "clubId": 116011,
       "leagueId": 2216,
       "countryId": 13,
-      "versionId": "111",
-      "rating": 87,
+      "versionId": "120",
+      "rating": 90,
       "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 4,
@@ -65,41 +168,49 @@
         "ST"
       ],
       "playStyles": [
-        0,
         1,
         11,
+        20,
         21,
         25,
-        6,
+        8,
         9
       ],
       "playStylesPlus": [
-        20,
-        8
+        0,
+        6,
+        7
       ],
       "rolesPlus": [
-        22,
+        18,
+        19,
+        20,
+        23,
+        24,
+        25,
         26,
-        33,
-        34,
         42,
+        44,
         121,
-        123,
+        122,
         131,
         132,
+        133,
+        134,
+        141,
         143
       ],
       "attributes": [
-        88,
-        85,
-        86,
-        87,
-        70,
-        80
+        90,
+        90,
+        90,
+        90,
+        72,
+        83
       ],
       "hasDynamicImage": true,
-      "price": 12250,
-      "resourceId": 50604825,
+      "price": 13000,
+      "resourceId": 67382041,
       "assetId": 273177
     },
     "84159600": {
@@ -153,7 +264,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 21500,
+      "price": 21750,
       "resourceId": 84159600,
       "assetId": 273520
     }
