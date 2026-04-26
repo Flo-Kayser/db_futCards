@@ -34,7 +34,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 5000,
+    "price": 10000,
     "resourceId": 70229,
     "assetId": 70229
   },
@@ -208,7 +208,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 200,
     "resourceId": 75655,
     "assetId": 75655
   },
@@ -277,7 +277,7 @@
       51
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 5000,
     "resourceId": 77438,
     "assetId": 77438
   },
@@ -465,7 +465,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 950,
     "resourceId": 192624,
     "assetId": 192624
   },
@@ -851,7 +851,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 4500,
+    "price": 5100,
     "resourceId": 210392,
     "assetId": 210392
   },
@@ -924,7 +924,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 3000,
+    "price": 2400,
     "resourceId": 213697,
     "assetId": 213697
   },
@@ -1601,7 +1601,7 @@
       50
     ],
     "hasDynamicImage": false,
-    "price": 5000,
+    "price": 4000,
     "resourceId": 243688,
     "assetId": 243688
   },
@@ -1908,7 +1908,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 3300,
     "resourceId": 263030,
     "assetId": 263030
   },
@@ -2025,7 +2025,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 0,
     "resourceId": 264677,
     "assetId": 264677
   },
@@ -2214,7 +2214,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 3000,
+    "price": 4000,
     "resourceId": 270593,
     "assetId": 270593
   },
@@ -2363,7 +2363,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 1600,
     "resourceId": 273692,
     "assetId": 273692
   },
@@ -2541,7 +2541,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 3900,
+    "price": 8800,
     "resourceId": 278101,
     "assetId": 278101
   },
@@ -2578,7 +2578,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 6400,
+    "price": 1200,
     "resourceId": 278557,
     "assetId": 278557
   },
@@ -2779,7 +2779,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 28000,
+    "price": 29000,
     "resourceId": 50575556,
     "assetId": 243908
   },
@@ -2915,7 +2915,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 30750,
+    "price": 29000,
     "resourceId": 50598048,
     "assetId": 266400
   },
@@ -3045,58 +3045,9 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 20500,
+    "price": 20750,
     "resourceId": 50607718,
     "assetId": 276070
-  },
-  "50608343": {
-    "name": "Shea Charles",
-    "cardName": "Charles",
-    "originalVersionId": "3",
-    "clubId": 17,
-    "leagueId": 14,
-    "countryId": 35,
-    "versionId": "3",
-    "rating": 85,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      0,
-      14,
-      16,
-      24,
-      3
-    ],
-    "playStylesPlus": [
-      26
-    ],
-    "rolesPlus": [
-      14,
-      18,
-      20,
-      49,
-      115,
-      116,
-      119
-    ],
-    "attributes": [
-      84,
-      75,
-      86,
-      84,
-      85,
-      88
-    ],
-    "hasDynamicImage": true,
-    "price": 20000,
-    "resourceId": 50608343,
-    "assetId": 276695
   },
   "50609749": {
     "name": "Callum Marshall",
@@ -3171,5 +3122,60 @@
     "price": 200,
     "resourceId": 50610205,
     "assetId": 278557
+  },
+  "67385559": {
+    "name": "Shea Charles",
+    "cardName": "Charles",
+    "originalVersionId": "58",
+    "clubId": 17,
+    "leagueId": 14,
+    "countryId": 35,
+    "versionId": "58",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      14,
+      16,
+      19,
+      24,
+      3,
+      8
+    ],
+    "playStylesPlus": [
+      17,
+      9
+    ],
+    "rolesPlus": [
+      18,
+      21,
+      22,
+      114,
+      115,
+      116,
+      117,
+      119,
+      120,
+      149
+    ],
+    "attributes": [
+      87,
+      80,
+      90,
+      88,
+      89,
+      91
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 13250,
+    "resourceId": 67385559,
+    "assetId": 276695
   }
 }

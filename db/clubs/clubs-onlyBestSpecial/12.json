@@ -1,6 +1,54 @@
 {
   "clubName": "Middlesbrough",
   "players": {
+    "50517804": {
+      "name": "Luke Ayling",
+      "cardName": "Ayling",
+      "originalVersionId": "65",
+      "clubId": 12,
+      "leagueId": 14,
+      "countryId": 14,
+      "versionId": "65",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        11,
+        15,
+        16,
+        21,
+        8
+      ],
+      "playStylesPlus": [
+        14
+      ],
+      "rolesPlus": [
+        6,
+        24,
+        48,
+        105,
+        113
+      ],
+      "attributes": [
+        76,
+        61,
+        68,
+        73,
+        76,
+        74
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50517804,
+      "assetId": 186156
+    },
     "50561330": {
       "name": "Dael Fry",
       "cardName": "Fry",
@@ -84,7 +132,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 30000,
       "resourceId": 67325328,
       "assetId": 216464
     },
@@ -145,7 +193,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 355000,
+      "price": 346000,
       "resourceId": 67361918,
       "assetId": 253054
     }
