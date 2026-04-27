@@ -154,7 +154,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 3500,
       "resourceId": 231447,
       "assetId": 231447
     },
@@ -192,7 +192,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 900,
       "resourceId": 236987,
       "assetId": 236987
     },
@@ -312,7 +312,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 2300,
       "resourceId": 258444,
       "assetId": 258444
     },
@@ -463,7 +463,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 5100,
       "resourceId": 50407251,
       "assetId": 75603
     },
@@ -559,7 +559,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 22000,
       "resourceId": 50534459,
       "assetId": 202811
     },
@@ -606,7 +606,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 34500,
+      "price": 30000,
       "resourceId": 50542529,
       "assetId": 210881
     },
@@ -720,50 +720,6 @@
       "resourceId": 50553308,
       "assetId": 221660
     },
-    "50557810": {
-      "name": "Emiliano Buendía",
-      "cardName": "Buendía",
-      "originalVersionId": "3",
-      "clubId": 2,
-      "leagueId": 13,
-      "countryId": 52,
-      "versionId": "3",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LM",
-        "RM"
-      ],
-      "playStyles": [
-        0,
-        13,
-        18,
-        20,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        31,
-        134
-      ],
-      "attributes": [
-        80,
-        81,
-        84,
-        87,
-        73,
-        75
-      ],
-      "hasDynamicImage": true,
-      "price": 40000,
-      "resourceId": 50557810,
-      "assetId": 226162
-    },
     "50558822": {
       "name": "Matty Cash",
       "cardName": "Cash",
@@ -800,7 +756,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 0,
       "resourceId": 50558822,
       "assetId": 227174
     },
@@ -1003,7 +959,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 35750,
+      "price": 31500,
       "resourceId": 50580113,
       "assetId": 248465
     },
@@ -1046,7 +1002,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 9200,
       "resourceId": 50590580,
       "assetId": 258932
     },
@@ -1080,7 +1036,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 50591777,
       "assetId": 260129
     },
@@ -1117,7 +1073,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 29500,
       "resourceId": 67330561,
       "assetId": 221697
     },
@@ -1175,7 +1131,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 255000,
+      "price": 270000,
       "resourceId": 67341913,
       "assetId": 233049
     },
@@ -1281,9 +1237,73 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 48500,
+      "price": 39000,
       "resourceId": 67369111,
       "assetId": 260247
+    },
+    "84112242": {
+      "name": "Emiliano Buendía",
+      "cardName": "Buendía",
+      "originalVersionId": "58",
+      "clubId": 2,
+      "leagueId": 13,
+      "countryId": 52,
+      "versionId": "58",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        13,
+        18,
+        20,
+        25,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        8
+      ],
+      "rolesPlus": [
+        18,
+        19,
+        20,
+        24,
+        26,
+        28,
+        30,
+        121,
+        122,
+        123,
+        125,
+        127,
+        129,
+        131,
+        132,
+        133,
+        134
+      ],
+      "attributes": [
+        88,
+        89,
+        93,
+        94,
+        81,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84112242,
+      "assetId": 226162
     }
   }
 }
