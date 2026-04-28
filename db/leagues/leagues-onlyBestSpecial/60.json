@@ -44,7 +44,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 24500,
+    "price": 24000,
     "resourceId": 50410571,
     "assetId": 78923
   },
@@ -139,7 +139,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 26750,
+    "price": 22000,
     "resourceId": 50531957,
     "assetId": 200309
   },
@@ -198,7 +198,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 37000,
+    "price": 32750,
     "resourceId": 50535863,
     "assetId": 204215
   },
@@ -250,7 +250,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 22750,
     "resourceId": 50554125,
     "assetId": 222477
   },
@@ -306,7 +306,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 32750,
+    "price": 32000,
     "resourceId": 50559577,
     "assetId": 227929
   },
@@ -353,7 +353,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 23000,
+    "price": 25750,
     "resourceId": 50570487,
     "assetId": 238839
   },
@@ -398,7 +398,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 23000,
     "resourceId": 50577187,
     "assetId": 245539
   },
@@ -584,7 +584,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 30250,
+    "price": 28500,
     "resourceId": 50603391,
     "assetId": 271743
   },
@@ -622,47 +622,53 @@
     "resourceId": 50610544,
     "assetId": 278896
   },
-  "67380394": {
+  "84157610": {
     "name": "Dom Ballard",
     "cardName": "Ballard",
-    "originalVersionId": "3",
+    "originalVersionId": "65",
     "clubId": 1958,
     "leagueId": 60,
     "countryId": 14,
-    "versionId": "3",
-    "rating": 84,
+    "versionId": "65",
+    "rating": 92,
     "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
+    "weakFoot": 4,
+    "skillMoves": 4,
     "preferredPosition": "ST",
     "possiblePositions": [
       "ST"
     ],
     "playStyles": [
+      2,
+      20,
       21,
-      24,
       4,
       5,
-      6
+      6,
+      7
     ],
     "playStylesPlus": [
-      22
+      0,
+      24,
+      25
     ],
     "rolesPlus": [
+      141,
       142,
-      143
+      143,
+      144
     ],
     "attributes": [
-      90,
+      93,
+      92,
       83,
-      73,
-      84,
-      44,
-      76
+      91,
+      50,
+      86
     ],
     "hasDynamicImage": true,
-    "price": 22500,
-    "resourceId": 67380394,
+    "sbcPrice": 29500,
+    "resourceId": 84157610,
     "assetId": 271530
   }
 }
