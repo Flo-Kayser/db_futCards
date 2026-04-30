@@ -172,7 +172,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 1300,
       "resourceId": 74894,
       "assetId": 74894
     },
@@ -608,7 +608,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 800,
       "resourceId": 267269,
       "assetId": 267269
     },
@@ -802,7 +802,7 @@
         88
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1300,
       "resourceId": 272076,
       "assetId": 272076
     },
@@ -954,7 +954,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 240000,
+      "price": 314000,
       "resourceId": 50402138,
       "assetId": 70490
     },
@@ -988,9 +988,122 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 3500,
       "resourceId": 50407865,
       "assetId": 76217
+    },
+    "50558721": {
+      "name": "Cristiana Girelli",
+      "cardName": "Girelli",
+      "originalVersionId": "1",
+      "clubId": 131477,
+      "leagueId": 2221,
+      "countryId": 27,
+      "versionId": "3002",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        19,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        77,
+        84,
+        70,
+        80,
+        46,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50558721,
+      "assetId": 227073
+    },
+    "50605335": {
+      "name": "Anouk Denton",
+      "cardName": "Denton",
+      "originalVersionId": "0",
+      "clubId": 131477,
+      "leagueId": 2221,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        71,
+        47,
+        59,
+        60,
+        68,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50605335,
+      "assetId": 273687
+    },
+    "50611347": {
+      "name": "Claire Hutton",
+      "cardName": "Hutton",
+      "originalVersionId": "1",
+      "clubId": 131477,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        21
+      ],
+      "attributes": [
+        64,
+        65,
+        70,
+        75,
+        68,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 50611347,
+      "assetId": 279699
     },
     "67185081": {
       "name": "Brooklyn Courtnall",
@@ -1025,6 +1138,47 @@
       "price": 200,
       "resourceId": 67185081,
       "assetId": 76217
+    },
+    "84132444": {
+      "name": "Aldana Cometti",
+      "cardName": "Cometti",
+      "originalVersionId": "1",
+      "clubId": 131477,
+      "leagueId": 2221,
+      "countryId": 52,
+      "versionId": "3002",
+      "rating": 79,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        16,
+        17,
+        18,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        48
+      ],
+      "attributes": [
+        62,
+        30,
+        56,
+        63,
+        80,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 750,
+      "resourceId": 84132444,
+      "assetId": 246364
     }
   }
 }

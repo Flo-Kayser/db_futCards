@@ -415,7 +415,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 7700,
+      "price": 5000,
       "resourceId": 241026,
       "assetId": 241026
     },
@@ -452,7 +452,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 1000,
       "resourceId": 241130,
       "assetId": 241130
     },
@@ -488,7 +488,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 2700,
       "resourceId": 242554,
       "assetId": 242554
     },
@@ -523,7 +523,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 5100,
       "resourceId": 242734,
       "assetId": 242734
     },
@@ -600,7 +600,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 4800,
       "resourceId": 246958,
       "assetId": 246958
     },
@@ -941,9 +941,47 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 22000,
+      "price": 24500,
       "resourceId": 50542578,
       "assetId": 210930
+    },
+    "50579522": {
+      "name": "Griffin Yow",
+      "cardName": "Yow",
+      "originalVersionId": "0",
+      "clubId": 691,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        26,
+        43
+      ],
+      "attributes": [
+        64,
+        65,
+        66,
+        70,
+        33,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50579522,
+      "assetId": 247874
     },
     "50600653": {
       "name": "Brooklyn Raines",
@@ -984,6 +1022,42 @@
       "price": 200,
       "resourceId": 50600653,
       "assetId": 269005
+    },
+    "67384807": {
+      "name": "Ethan Kohler",
+      "cardName": "Kohler",
+      "originalVersionId": "0",
+      "clubId": 691,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        63,
+        42,
+        55,
+        57,
+        57,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67384807,
+      "assetId": 275943
     }
   }
 }
