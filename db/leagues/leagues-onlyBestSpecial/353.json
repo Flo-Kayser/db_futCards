@@ -42,95 +42,6 @@
     "resourceId": 50511461,
     "assetId": 179813
   },
-  "50514142": {
-    "name": "Fernando Muslera",
-    "cardName": "Muslera",
-    "originalVersionId": "3",
-    "clubId": 101083,
-    "leagueId": 353,
-    "countryId": 60,
-    "versionId": "3",
-    "rating": 84,
-    "preferredFoot": "Right",
-    "weakFoot": 2,
-    "skillMoves": 1,
-    "preferredPosition": "GK",
-    "possiblePositions": [
-      "GK"
-    ],
-    "playStyles": [
-      10,
-      30,
-      31,
-      32,
-      33
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      145
-    ],
-    "attributes": [
-      86,
-      85,
-      74,
-      83,
-      50,
-      84
-    ],
-    "hasDynamicImage": true,
-    "price": 29750,
-    "resourceId": 50514142,
-    "assetId": 182494
-  },
-  "50515546": {
-    "name": "Ángel Di María",
-    "cardName": "Di María",
-    "originalVersionId": "51",
-    "clubId": 110580,
-    "leagueId": 353,
-    "countryId": 52,
-    "versionId": "51",
-    "rating": 87,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 5,
-    "preferredPosition": "RW",
-    "possiblePositions": [
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      0,
-      1,
-      10,
-      13,
-      23,
-      8
-    ],
-    "playStylesPlus": [
-      20
-    ],
-    "rolesPlus": [
-      23,
-      25,
-      35,
-      37,
-      126,
-      136
-    ],
-    "attributes": [
-      87,
-      85,
-      88,
-      89,
-      50,
-      72
-    ],
-    "hasDynamicImage": true,
-    "sbcPrice": 67750,
-    "resourceId": 50515546,
-    "assetId": 183898
-  },
   "50539087": {
     "name": "Leandro Paredes",
     "cardName": "Paredes",
@@ -266,7 +177,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 31750,
+    "price": 28250,
     "resourceId": 50554066,
     "assetId": 222418
   },
@@ -320,9 +231,73 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 17250,
     "resourceId": 50555982,
     "assetId": 224334
+  },
+  "50567115": {
+    "name": "Marcelino Moreno",
+    "cardName": "Moreno",
+    "originalVersionId": "11",
+    "clubId": 110395,
+    "leagueId": 353,
+    "countryId": 52,
+    "versionId": "11",
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      13,
+      20,
+      21,
+      24,
+      8
+    ],
+    "playStylesPlus": [
+      25,
+      6,
+      7
+    ],
+    "rolesPlus": [
+      18,
+      19,
+      20,
+      28,
+      29,
+      42,
+      44,
+      121,
+      122,
+      127,
+      130,
+      131,
+      132,
+      133,
+      134,
+      141,
+      143
+    ],
+    "attributes": [
+      95,
+      93,
+      92,
+      95,
+      63,
+      84
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50567115,
+    "assetId": 235467
   },
   "50572311": {
     "name": "Miguel Ángel Merentiel",
@@ -363,9 +338,63 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 17750,
     "resourceId": 50572311,
     "assetId": 240663
+  },
+  "50577681": {
+    "name": "Santiago Sosa",
+    "cardName": "Sosa",
+    "originalVersionId": "11",
+    "clubId": 101085,
+    "leagueId": 353,
+    "countryId": 52,
+    "versionId": "11",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM"
+    ],
+    "playStyles": [
+      14,
+      15,
+      16,
+      18,
+      19,
+      26,
+      9
+    ],
+    "playStylesPlus": [
+      10,
+      17,
+      28
+    ],
+    "rolesPlus": [
+      14,
+      16,
+      17,
+      111,
+      112,
+      113,
+      115,
+      148,
+      149
+    ],
+    "attributes": [
+      88,
+      67,
+      85,
+      86,
+      93,
+      93
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50577681,
+    "assetId": 246033
   },
   "50579879": {
     "name": "Hernán López Muñoz",
@@ -454,7 +483,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 29750,
+    "price": 30000,
     "resourceId": 50583684,
     "assetId": 252036
   },
@@ -551,7 +580,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 23750,
     "resourceId": 50589730,
     "assetId": 258082
   },
@@ -651,7 +680,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 14750,
     "resourceId": 50606697,
     "assetId": 275049
   },
@@ -703,7 +732,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 24000,
+    "price": 24250,
     "resourceId": 50608829,
     "assetId": 277181
   },
@@ -752,9 +781,116 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 24000,
+    "price": 23750,
     "resourceId": 50610102,
     "assetId": 278454
+  },
+  "67291358": {
+    "name": "Fernando Muslera",
+    "cardName": "Muslera",
+    "originalVersionId": "11",
+    "clubId": 101083,
+    "leagueId": 353,
+    "countryId": 60,
+    "versionId": "11",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      30,
+      31,
+      32,
+      35
+    ],
+    "playStylesPlus": [
+      10,
+      33,
+      34
+    ],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      94,
+      94,
+      90,
+      92,
+      70,
+      92
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67291358,
+    "assetId": 182494
+  },
+  "67292762": {
+    "name": "Ángel Di María",
+    "cardName": "Di María",
+    "originalVersionId": "65",
+    "clubId": 110580,
+    "leagueId": 353,
+    "countryId": 52,
+    "versionId": "65",
+    "rating": 94,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      10,
+      13,
+      21,
+      23,
+      25,
+      6,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      20,
+      8
+    ],
+    "rolesPlus": [
+      24,
+      31,
+      32,
+      41,
+      44,
+      123,
+      125,
+      126,
+      133,
+      134,
+      135,
+      136,
+      137,
+      142,
+      143
+    ],
+    "attributes": [
+      94,
+      92,
+      94,
+      95,
+      60,
+      81
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 205750,
+    "resourceId": 67292762,
+    "assetId": 183898
   },
   "67369465": {
     "name": "Exequiel Zeballos",

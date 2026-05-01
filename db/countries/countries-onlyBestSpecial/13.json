@@ -38,7 +38,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 76500,
+    "price": 78500,
     "resourceId": 222000,
     "assetId": 222000
   },
@@ -78,7 +78,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 79000,
+    "price": 82000,
     "resourceId": 238428,
     "assetId": 238428
   },
@@ -163,7 +163,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 66000,
+    "price": 64000,
     "resourceId": 50522108,
     "assetId": 190460
   },
@@ -208,7 +208,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 305000,
+    "price": 285000,
     "resourceId": 50545296,
     "assetId": 213648
   },
@@ -296,7 +296,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 37000,
+    "price": 33000,
     "resourceId": 50573293,
     "assetId": 241645
   },
@@ -342,7 +342,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 113000,
+    "price": 121000,
     "resourceId": 50574851,
     "assetId": 243203
   },
@@ -391,7 +391,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 24500,
     "resourceId": 50574871,
     "assetId": 243223
   },
@@ -434,7 +434,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 29000,
+    "price": 27750,
     "resourceId": 50575944,
     "assetId": 244296
   },
@@ -542,7 +542,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 119000,
+    "price": 122000,
     "resourceId": 50576883,
     "assetId": 245235
   },
@@ -643,7 +643,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 23750,
+    "price": 27250,
     "resourceId": 50588448,
     "assetId": 256800
   },
@@ -688,7 +688,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 24750,
+    "price": 31500,
     "resourceId": 50589620,
     "assetId": 257972
   },
@@ -878,9 +878,57 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 19250,
+    "price": 19750,
     "resourceId": 50598589,
     "assetId": 266941
+  },
+  "50604816": {
+    "name": "Stine Ballisager",
+    "cardName": "Ballisager",
+    "originalVersionId": "11",
+    "clubId": 115995,
+    "leagueId": 2215,
+    "countryId": 13,
+    "versionId": "11",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      11,
+      15,
+      16,
+      17,
+      18,
+      24,
+      9
+    ],
+    "playStylesPlus": [
+      19,
+      25,
+      28
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      85,
+      70,
+      83,
+      88,
+      94,
+      90
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50604816,
+    "assetId": 273168
   },
   "50610010": {
     "name": "Lasse Flø",
@@ -1016,7 +1064,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 68500,
+    "price": 69500,
     "resourceId": 67345782,
     "assetId": 236918
   },
@@ -1074,7 +1122,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 24250,
+    "price": 25000,
     "resourceId": 67350372,
     "assetId": 241508
   },
@@ -1129,7 +1177,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 12000,
     "resourceId": 67373888,
     "assetId": 265024
   },
@@ -1194,7 +1242,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 15000,
     "resourceId": 67382041,
     "assetId": 273177
   },
@@ -1252,48 +1300,62 @@
     "resourceId": 67386296,
     "assetId": 277432
   },
-  "84145367": {
+  "100922583": {
     "name": "Pernille Harder",
     "cardName": "Harder",
-    "originalVersionId": "30",
+    "originalVersionId": "11",
     "clubId": 115995,
     "leagueId": 2215,
     "countryId": 13,
-    "versionId": "30",
-    "rating": 89,
+    "versionId": "11",
+    "rating": 96,
     "preferredFoot": "Right",
-    "weakFoot": 5,
+    "weakFoot": 4,
     "skillMoves": 5,
-    "preferredPosition": "CAM",
+    "preferredPosition": "ST",
     "possiblePositions": [
       "CAM",
       "RM",
       "ST"
     ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
+    "playStyles": [
+      0,
+      10,
+      11,
+      2,
       25,
+      4,
+      7
+    ],
+    "playStylesPlus": [
+      20,
+      6,
+      8
+    ],
+    "rolesPlus": [
+      24,
+      25,
+      31,
       33,
-      34,
-      42,
       123,
       126,
-      131,
       132,
-      143
+      134,
+      141,
+      142,
+      143,
+      144
     ],
     "attributes": [
+      96,
+      92,
       90,
-      87,
-      88,
-      91,
-      30,
-      82
+      95,
+      40,
+      88
     ],
     "hasDynamicImage": true,
-    "price": 15500,
-    "resourceId": 84145367,
+    "resourceId": 100922583,
     "assetId": 259287
   },
   "134477127": {
@@ -1341,7 +1403,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 38750,
+    "price": 41000,
     "resourceId": 134477127,
     "assetId": 259399
   }

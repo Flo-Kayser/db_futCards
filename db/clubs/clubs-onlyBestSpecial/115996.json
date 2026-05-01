@@ -48,7 +48,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 13750,
       "resourceId": 50596570,
       "assetId": 264922
     },
@@ -151,52 +151,67 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 12250,
       "resourceId": 50608155,
       "assetId": 276507
     },
-    "67374241": {
+    "84151457": {
       "name": "Vanessa Fudalla",
       "cardName": "Fudalla",
-      "originalVersionId": "30",
+      "originalVersionId": "11",
       "clubId": 115996,
       "leagueId": 2215,
       "countryId": 21,
-      "versionId": "30",
-      "rating": 88,
+      "versionId": "11",
+      "rating": 96,
       "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "CAM",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
       "possiblePositions": [
         "CAM",
         "CM",
         "ST"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        1,
+        2,
+        20,
+        3,
+        6,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        21,
+        25
+      ],
       "rolesPlus": [
+        18,
         19,
-        22,
-        33,
-        41,
-        118,
+        20,
+        32,
+        34,
         121,
+        122,
         131,
-        132,
-        143
+        133,
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
-        91,
-        89,
-        84,
-        88,
-        61,
-        80
+        96,
+        96,
+        90,
+        95,
+        70,
+        88
       ],
       "hasDynamicImage": true,
-      "price": 15000,
-      "resourceId": 67374241,
+      "resourceId": 84151457,
       "assetId": 265377
     }
   }

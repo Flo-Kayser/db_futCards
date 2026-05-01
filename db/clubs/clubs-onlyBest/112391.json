@@ -109,7 +109,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 0,
       "resourceId": 74701,
       "assetId": 74701
     },
@@ -147,7 +147,7 @@
         38
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 3500,
       "resourceId": 74921,
       "assetId": 74921
     },
@@ -185,7 +185,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 950,
       "resourceId": 192984,
       "assetId": 192984
     },
@@ -228,7 +228,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 3000,
       "resourceId": 200724,
       "assetId": 200724
     },
@@ -535,7 +535,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 9000,
+      "price": 10000,
       "resourceId": 239042,
       "assetId": 239042
     },
@@ -611,7 +611,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 242114,
       "assetId": 242114
     },
@@ -647,7 +647,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 2400,
       "resourceId": 245518,
       "assetId": 245518
     },
@@ -681,7 +681,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 200,
       "resourceId": 248256,
       "assetId": 248256
     },
@@ -716,7 +716,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 0,
       "resourceId": 253015,
       "assetId": 253015
     },
@@ -880,46 +880,6 @@
       "resourceId": 266797,
       "assetId": 266797
     },
-    "274913": {
-      "name": "Christopher Bonsu Baah",
-      "cardName": "Bonsu Baah",
-      "originalVersionId": "1",
-      "clubId": 112391,
-      "leagueId": 350,
-      "countryId": 117,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RM"
-      ],
-      "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        27,
-        30
-      ],
-      "attributes": [
-        87,
-        65,
-        64,
-        79,
-        34,
-        66
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 274913,
-      "assetId": 274913
-    },
     "278759": {
       "name": "Iker Almena",
       "cardName": "Iker Almena",
@@ -1001,7 +961,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1400,
       "resourceId": 50542059,
       "assetId": 210411
     },
@@ -1168,22 +1128,79 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 14000,
       "resourceId": 50595472,
       "assetId": 263824
     },
-    "67343443": {
+    "50606561": {
+      "name": "Christopher Bonsu Baah",
+      "cardName": "Bonsu Baah",
+      "originalVersionId": "120",
+      "clubId": 112391,
+      "leagueId": 350,
+      "countryId": 117,
+      "versionId": "120",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        12,
+        23,
+        24,
+        26,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        20,
+        21,
+        25
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        92,
+        87,
+        88,
+        90,
+        50,
+        86
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50606561,
+      "assetId": 274913
+    },
+    "84120659": {
       "name": "Julian Quiñones",
       "cardName": "Quiñones",
-      "originalVersionId": "3",
+      "originalVersionId": "11",
       "clubId": 112391,
       "leagueId": 350,
       "countryId": 83,
-      "versionId": "3",
-      "rating": 87,
+      "versionId": "11",
+      "rating": 94,
       "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
+      "weakFoot": 4,
+      "skillMoves": 5,
       "preferredPosition": "ST",
       "possiblePositions": [
         "LM",
@@ -1191,31 +1208,42 @@
         "ST"
       ],
       "playStyles": [
-        0,
-        1,
+        11,
+        2,
+        20,
         21,
         24,
+        29,
         4
       ],
       "playStylesPlus": [
-        29
+        0,
+        22,
+        6
       ],
       "rolesPlus": [
+        28,
+        29,
+        40,
+        127,
+        130,
         138,
+        139,
         141,
+        142,
+        143,
         144
       ],
       "attributes": [
-        93,
-        87,
-        80,
-        87,
-        43,
-        90
+        94,
+        94,
+        86,
+        92,
+        50,
+        93
       ],
       "hasDynamicImage": true,
-      "price": 45000,
-      "resourceId": 67343443,
+      "resourceId": 84120659,
       "assetId": 234579
     }
   }

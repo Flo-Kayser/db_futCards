@@ -49,58 +49,9 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 99000,
+      "price": 119000,
       "resourceId": 50540370,
       "assetId": 208722
-    },
-    "50575502": {
-      "name": "Mohamed Simakan",
-      "cardName": "Simakan",
-      "originalVersionId": "91",
-      "clubId": 112139,
-      "leagueId": 350,
-      "countryId": 18,
-      "versionId": "91",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "RB"
-      ],
-      "playStyles": [
-        14,
-        15,
-        16,
-        19,
-        28,
-        4
-      ],
-      "playStylesPlus": [
-        17
-      ],
-      "rolesPlus": [
-        4,
-        12,
-        48,
-        103,
-        111,
-        113
-      ],
-      "attributes": [
-        87,
-        51,
-        80,
-        82,
-        90,
-        89
-      ],
-      "isObjective": true,
-      "hasDynamicImage": true,
-      "resourceId": 50575502,
-      "assetId": 243854
     },
     "67313389": {
       "name": "Iñigo Martínez",
@@ -195,15 +146,69 @@
       "resourceId": 67322209,
       "assetId": 213345
     },
-    "84128524": {
+    "84129934": {
+      "name": "Mohamed Simakan",
+      "cardName": "Simakan",
+      "originalVersionId": "11",
+      "clubId": 112139,
+      "leagueId": 350,
+      "countryId": 18,
+      "versionId": "11",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        15,
+        18,
+        25,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        16,
+        17,
+        19
+      ],
+      "rolesPlus": [
+        4,
+        6,
+        46,
+        103,
+        105,
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        90,
+        57,
+        85,
+        86,
+        93,
+        92
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 84129934,
+      "assetId": 243854
+    },
+    "117682956": {
       "name": "João Félix",
       "cardName": "João Félix",
-      "originalVersionId": "111",
+      "originalVersionId": "11",
       "clubId": 112139,
       "leagueId": 350,
       "countryId": 38,
-      "versionId": "111",
-      "rating": 92,
+      "versionId": "11",
+      "rating": 96,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 5,
@@ -215,24 +220,26 @@
         "ST"
       ],
       "playStyles": [
-        0,
         11,
         13,
-        2,
-        21,
+        20,
+        22,
         23,
         24,
-        6,
-        8
+        6
       ],
       "playStylesPlus": [
-        20,
-        22
+        0,
+        21,
+        8
       ],
       "rolesPlus": [
+        28,
+        29,
+        40,
+        42,
+        44,
         127,
-        128,
-        129,
         130,
         131,
         132,
@@ -240,34 +247,30 @@
         134,
         138,
         139,
-        140,
         141,
-        142,
-        143,
-        144
+        143
       ],
       "attributes": [
-        91,
-        92,
-        91,
-        99,
-        61,
-        84
+        93,
+        96,
+        93,
+        96,
+        65,
+        86
       ],
       "hasDynamicImage": true,
-      "price": 1120000,
-      "resourceId": 84128524,
+      "resourceId": 117682956,
       "assetId": 242444
     },
-    "134238529": {
+    "151015745": {
       "name": "Cristiano Ronaldo",
       "cardName": "Cristiano Ronaldo",
-      "originalVersionId": "30",
+      "originalVersionId": "11",
       "clubId": 112139,
       "leagueId": 350,
       "countryId": 38,
-      "versionId": "30",
-      "rating": 92,
+      "versionId": "11",
+      "rating": 95,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 5,
@@ -275,25 +278,36 @@
       "possiblePositions": [
         "ST"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        2,
+        20,
+        21,
+        23,
+        4,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        25,
+        6
+      ],
       "rolesPlus": [
-        43,
         141,
         142,
+        143,
         144
       ],
       "attributes": [
-        91,
-        94,
-        84,
-        90,
-        42,
-        85
+        93,
+        96,
+        87,
+        93,
+        45,
+        88
       ],
       "hasDynamicImage": true,
-      "price": 5400000,
-      "resourceId": 134238529,
+      "resourceId": 151015745,
       "assetId": 20801
     }
   }

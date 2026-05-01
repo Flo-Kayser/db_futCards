@@ -760,7 +760,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 2500,
       "resourceId": 274511,
       "assetId": 274511
     },
@@ -900,60 +900,65 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 9500,
       "resourceId": 277451,
       "assetId": 277451
     },
-    "50410333": {
+    "67187549": {
       "name": "Lisa Baum",
       "cardName": "Baum",
-      "originalVersionId": "96",
+      "originalVersionId": "120",
       "clubId": 116021,
       "leagueId": 2215,
       "countryId": 21,
-      "versionId": "96",
-      "rating": 85,
+      "versionId": "120",
+      "rating": 90,
       "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 5,
+      "weakFoot": 4,
+      "skillMoves": 4,
       "preferredPosition": "RM",
       "possiblePositions": [
         "LM",
-        "RB",
-        "RM",
-        "RW"
+        "LW",
+        "RM"
       ],
       "playStyles": [
         0,
-        11,
-        14,
-        16,
-        21,
+        12,
+        20,
+        22,
         25,
+        26,
         7
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        11,
+        21,
+        6
+      ],
       "rolesPlus": [
-        4,
-        26,
-        30,
-        36,
-        105,
         123,
+        124,
+        125,
+        126,
         127,
-        135
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
       ],
       "attributes": [
+        92,
         88,
-        83,
-        84,
-        86,
-        53,
-        70
+        90,
+        91,
+        58,
+        84
       ],
       "hasDynamicImage": true,
-      "price": 21250,
-      "resourceId": 50410333,
+      "resourceId": 67187549,
       "assetId": 78685
     }
   }

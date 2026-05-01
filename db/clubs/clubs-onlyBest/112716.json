@@ -102,7 +102,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 300,
       "resourceId": 78998,
       "assetId": 78998
     },
@@ -221,7 +221,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 7100,
       "resourceId": 216055,
       "assetId": 216055
     },
@@ -417,7 +417,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 10000,
       "resourceId": 228729,
       "assetId": 228729
     },
@@ -499,45 +499,6 @@
       "price": 200,
       "resourceId": 232535,
       "assetId": 232535
-    },
-    "233476": {
-      "name": "Blás Riveros",
-      "cardName": "Riveros",
-      "originalVersionId": "0",
-      "clubId": 112716,
-      "leagueId": 1003,
-      "countryId": 58,
-      "versionId": "2001",
-      "rating": 68,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        17
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9,
-        10,
-        29
-      ],
-      "attributes": [
-        78,
-        36,
-        59,
-        70,
-        61,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 233476,
-      "assetId": 233476
     },
     "234037": {
       "name": "Robert Piris da Motta",
@@ -926,7 +887,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 274262,
       "assetId": 274262
     },
@@ -961,7 +922,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 0,
       "resourceId": 275431,
       "assetId": 275431
     },
@@ -1051,6 +1012,60 @@
       "price": 26750,
       "resourceId": 50530799,
       "assetId": 199151
+    },
+    "50565124": {
+      "name": "Blás Riveros",
+      "cardName": "Riveros",
+      "originalVersionId": "11",
+      "clubId": 112716,
+      "leagueId": 1003,
+      "countryId": 58,
+      "versionId": "11",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        14,
+        16,
+        18,
+        20,
+        28,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        12,
+        17,
+        25
+      ],
+      "rolesPlus": [
+        27,
+        30,
+        107,
+        108,
+        109,
+        110,
+        128,
+        129,
+        147
+      ],
+      "attributes": [
+        90,
+        76,
+        94,
+        90,
+        94,
+        90
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50565124,
+      "assetId": 233476
     },
     "50568851": {
       "name": "Cristhian Paredes",

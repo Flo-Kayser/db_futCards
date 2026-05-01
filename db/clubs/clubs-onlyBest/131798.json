@@ -31,7 +31,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 0,
       "resourceId": 70952,
       "assetId": 70952
     },
@@ -361,7 +361,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 0,
       "resourceId": 229922,
       "assetId": 229922
     },
@@ -399,7 +399,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 200,
       "resourceId": 231801,
       "assetId": 231801
     },
@@ -472,7 +472,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 0,
       "resourceId": 240600,
       "assetId": 240600
     },
@@ -506,7 +506,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 245438,
       "assetId": 245438
     },
@@ -541,7 +541,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 256130,
       "assetId": 256130
     },
@@ -617,7 +617,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 8100,
+      "price": 200,
       "resourceId": 260414,
       "assetId": 260414
     },
@@ -728,7 +728,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 269683,
       "assetId": 269683
     },
@@ -768,41 +768,6 @@
       "price": 200,
       "resourceId": 270460,
       "assetId": 270460
-    },
-    "273123": {
-      "name": "Nathan Zézé",
-      "cardName": "Zézé",
-      "originalVersionId": "1",
-      "clubId": 131798,
-      "leagueId": 350,
-      "countryId": 18,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        48
-      ],
-      "attributes": [
-        61,
-        36,
-        51,
-        60,
-        75,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 273123,
-      "assetId": 273123
     },
     "273604": {
       "name": "Luciano Rodríguez",
@@ -912,7 +877,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 3600,
+      "price": 2100,
       "resourceId": 279627,
       "assetId": 279627
     },
@@ -949,7 +914,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 16000,
+      "price": 21750,
       "resourceId": 50524949,
       "assetId": 193301
     },
@@ -998,7 +963,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 44750,
+      "price": 38250,
       "resourceId": 50539783,
       "assetId": 208135
     },
@@ -1042,7 +1007,7 @@
         89
       ],
       "hasDynamicImage": false,
-      "price": 29750,
+      "price": 31750,
       "resourceId": 50542296,
       "assetId": 210648
     },
@@ -1229,9 +1194,57 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 200,
       "resourceId": 50599475,
       "assetId": 267827
+    },
+    "50604771": {
+      "name": "Nathan Zézé",
+      "cardName": "Zézé",
+      "originalVersionId": "120",
+      "clubId": 131798,
+      "leagueId": 350,
+      "countryId": 18,
+      "versionId": "120",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        17,
+        18,
+        19,
+        25,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        14,
+        15,
+        16
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        86,
+        50,
+        80,
+        85,
+        91,
+        91
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50604771,
+      "assetId": 273123
     },
     "50609136": {
       "name": "Ayman Fallatah",
@@ -1343,7 +1356,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 27500,
+      "price": 30000,
       "resourceId": 67184285,
       "assetId": 75421
     }

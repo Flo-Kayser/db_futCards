@@ -1,44 +1,48 @@
 {
   "clubName": "Estudiantes",
   "players": {
-    "50514142": {
+    "67291358": {
       "name": "Fernando Muslera",
       "cardName": "Muslera",
-      "originalVersionId": "3",
+      "originalVersionId": "11",
       "clubId": 101083,
       "leagueId": 353,
       "countryId": 60,
-      "versionId": "3",
-      "rating": 84,
+      "versionId": "11",
+      "rating": 94,
       "preferredFoot": "Right",
-      "weakFoot": 2,
+      "weakFoot": 4,
       "skillMoves": 1,
       "preferredPosition": "GK",
       "possiblePositions": [
         "GK"
       ],
       "playStyles": [
-        10,
         30,
         31,
         32,
-        33
+        35
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        10,
+        33,
+        34
+      ],
       "rolesPlus": [
+        101,
+        102,
         145
       ],
       "attributes": [
-        86,
-        85,
-        74,
-        83,
-        50,
-        84
+        94,
+        94,
+        90,
+        92,
+        70,
+        92
       ],
       "hasDynamicImage": true,
-      "price": 29750,
-      "resourceId": 50514142,
+      "resourceId": 67291358,
       "assetId": 182494
     }
   }

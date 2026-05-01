@@ -141,7 +141,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 2500,
       "resourceId": 74871,
       "assetId": 74871
     },
@@ -175,7 +175,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 3700,
+      "price": 1900,
       "resourceId": 76133,
       "assetId": 76133
     },
@@ -210,7 +210,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4100,
       "resourceId": 76922,
       "assetId": 76922
     },
@@ -247,7 +247,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1400,
       "resourceId": 193698,
       "assetId": 193698
     },
@@ -374,7 +374,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1000,
       "resourceId": 216354,
       "assetId": 216354
     },
@@ -574,7 +574,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 1400,
       "resourceId": 235526,
       "assetId": 235526
     },
@@ -610,7 +610,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 10000,
       "resourceId": 237321,
       "assetId": 237321
     },
@@ -1034,7 +1034,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 6200,
+      "price": 1200,
       "resourceId": 269084,
       "assetId": 269084
     },
@@ -1445,9 +1445,55 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 250,
       "resourceId": 50410084,
       "assetId": 78436
+    },
+    "50525346": {
+      "name": "Oliver Baumann",
+      "cardName": "Baumann",
+      "originalVersionId": "11",
+      "clubId": 10029,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "11",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        32,
+        33,
+        34,
+        8
+      ],
+      "playStylesPlus": [
+        31,
+        35,
+        9
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        92,
+        91,
+        88,
+        92,
+        70,
+        90
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50525346,
+      "assetId": 193698
     },
     "50548002": {
       "name": "Andrej Kramarić",
@@ -1492,7 +1538,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 27000,
+      "price": 27250,
       "resourceId": 50548002,
       "assetId": 216354
     },
@@ -1534,7 +1580,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 32500,
+      "price": 32250,
       "resourceId": 50575698,
       "assetId": 244050
     },
@@ -1625,7 +1671,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 0,
       "resourceId": 50590722,
       "assetId": 259074
     },
@@ -1682,7 +1728,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 24750,
+      "price": 23750,
       "resourceId": 50594689,
       "assetId": 263041
     },
@@ -1820,7 +1866,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 14500,
       "resourceId": 67325218,
       "assetId": 216354
     },
@@ -1862,9 +1908,63 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 150000,
+      "price": 170000,
       "resourceId": 67352914,
       "assetId": 244050
+    },
+    "67353334": {
+      "name": "Vladimír Coufal",
+      "cardName": "Coufal",
+      "originalVersionId": "11",
+      "clubId": 10029,
+      "leagueId": 19,
+      "countryId": 12,
+      "versionId": "11",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        16,
+        17,
+        18,
+        25,
+        26,
+        28
+      ],
+      "playStylesPlus": [
+        14,
+        27,
+        9
+      ],
+      "rolesPlus": [
+        25,
+        26,
+        103,
+        104,
+        105,
+        106,
+        123,
+        124,
+        146
+      ],
+      "attributes": [
+        91,
+        75,
+        90,
+        88,
+        92,
+        90
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67353334,
+      "assetId": 244470
     },
     "67367938": {
       "name": "Albian Hajdari",
@@ -1954,8 +2054,167 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 30750,
+      "price": 37750,
       "resourceId": 67374441,
+      "assetId": 265577
+    },
+    "84102434": {
+      "name": "Andrej Kramarić",
+      "cardName": "Kramarić",
+      "originalVersionId": "65",
+      "clubId": 10029,
+      "leagueId": 19,
+      "countryId": 10,
+      "versionId": "65",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        1,
+        10,
+        11,
+        25,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        22,
+        8
+      ],
+      "rolesPlus": [
+        18,
+        19,
+        20,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134
+      ],
+      "attributes": [
+        90,
+        92,
+        91,
+        94,
+        44,
+        85
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 84102434,
+      "assetId": 216354
+    },
+    "84130130": {
+      "name": "Wouter Burger",
+      "cardName": "Burger",
+      "originalVersionId": "120",
+      "clubId": 10029,
+      "leagueId": 19,
+      "countryId": 34,
+      "versionId": "120",
+      "rating": 90,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        18,
+        19,
+        20,
+        22,
+        24,
+        6
+      ],
+      "playStylesPlus": [
+        16,
+        28,
+        8
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        22,
+        114,
+        115,
+        116,
+        117,
+        119,
+        120,
+        149
+      ],
+      "attributes": [
+        90,
+        85,
+        90,
+        88,
+        90,
+        91
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 84130130,
+      "assetId": 244050
+    },
+    "84151657": {
+      "name": "Fisnik Asllani",
+      "cardName": "Asllani",
+      "originalVersionId": "65",
+      "clubId": 10029,
+      "leagueId": 19,
+      "countryId": 219,
+      "versionId": "65",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        2,
+        20,
+        21,
+        23,
+        7
+      ],
+      "playStylesPlus": [
+        25,
+        29,
+        6
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        90,
+        92,
+        83,
+        91,
+        46,
+        91
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 84151657,
       "assetId": 265577
     }
   }

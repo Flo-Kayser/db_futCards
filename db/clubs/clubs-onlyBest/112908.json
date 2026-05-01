@@ -31,7 +31,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 350,
       "resourceId": 70176,
       "assetId": 70176
     },
@@ -289,7 +289,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 10000,
       "resourceId": 198628,
       "assetId": 198628
     },
@@ -331,7 +331,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 3600,
+      "price": 10000,
       "resourceId": 204738,
       "assetId": 204738
     },
@@ -453,7 +453,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 1800,
       "resourceId": 230118,
       "assetId": 230118
     },
@@ -524,7 +524,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 2400,
       "resourceId": 238180,
       "assetId": 238180
     },
@@ -825,7 +825,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 10000,
       "resourceId": 266310,
       "assetId": 266310
     },
@@ -935,43 +935,6 @@
       "resourceId": 268283,
       "assetId": 268283
     },
-    "271741": {
-      "name": "Patrik Mercado",
-      "cardName": "Mercado",
-      "originalVersionId": "0",
-      "clubId": 112908,
-      "leagueId": 1003,
-      "countryId": 57,
-      "versionId": "2001",
-      "rating": 68,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        20,
-        21
-      ],
-      "attributes": [
-        72,
-        58,
-        59,
-        67,
-        62,
-        61
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 271741,
-      "assetId": 271741
-    },
     "273984": {
       "name": "Eduardo Bores",
       "cardName": "Bores",
@@ -1002,7 +965,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 1600,
       "resourceId": 273984,
       "assetId": 273984
     },
@@ -1186,6 +1149,60 @@
       "price": 200,
       "resourceId": 50585859,
       "assetId": 254211
+    },
+    "50603389": {
+      "name": "Patrik Mercado",
+      "cardName": "Mercado",
+      "originalVersionId": "11",
+      "clubId": 112908,
+      "leagueId": 1003,
+      "countryId": 57,
+      "versionId": "11",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        13,
+        20,
+        22,
+        24,
+        9
+      ],
+      "playStylesPlus": [
+        21,
+        6,
+        8
+      ],
+      "rolesPlus": [
+        32,
+        34,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        133
+      ],
+      "attributes": [
+        92,
+        90,
+        90,
+        92,
+        88,
+        87
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50603389,
+      "assetId": 271741
     },
     "50605632": {
       "name": "Eduardo Bores",

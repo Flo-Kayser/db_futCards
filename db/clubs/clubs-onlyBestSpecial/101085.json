@@ -1,6 +1,60 @@
 {
   "clubName": "Racing Club",
   "players": {
+    "50577681": {
+      "name": "Santiago Sosa",
+      "cardName": "Sosa",
+      "originalVersionId": "11",
+      "clubId": 101085,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "11",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [
+        14,
+        15,
+        16,
+        18,
+        19,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        17,
+        28
+      ],
+      "rolesPlus": [
+        14,
+        16,
+        17,
+        111,
+        112,
+        113,
+        115,
+        148,
+        149
+      ],
+      "attributes": [
+        88,
+        67,
+        85,
+        86,
+        93,
+        93
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50577681,
+      "assetId": 246033
+    },
     "50583684": {
       "name": "Nazareno Colombo",
       "cardName": "Colombo",
@@ -38,7 +92,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 29750,
+      "price": 30000,
       "resourceId": 50583684,
       "assetId": 252036
     },

@@ -105,45 +105,6 @@
       "resourceId": 77115,
       "assetId": 77115
     },
-    "197655": {
-      "name": "Sebastián Coates",
-      "cardName": "Coates",
-      "originalVersionId": "1",
-      "clubId": 111325,
-      "leagueId": 1003,
-      "countryId": 60,
-      "versionId": "3002",
-      "rating": 79,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10,
-        18,
-        19
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        13
-      ],
-      "attributes": [
-        60,
-        49,
-        54,
-        61,
-        81,
-        84
-      ],
-      "hasDynamicImage": false,
-      "price": 700,
-      "resourceId": 197655,
-      "assetId": 197655
-    },
     "202089": {
       "name": "Luis Mejía",
       "cardName": "Mejía",
@@ -216,51 +177,9 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 2400,
       "resourceId": 204691,
       "assetId": 204691
-    },
-    "207715": {
-      "name": "Nicolas López",
-      "cardName": "López",
-      "originalVersionId": "0",
-      "clubId": 111325,
-      "leagueId": 1003,
-      "countryId": 60,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        1,
-        20,
-        22,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "attributes": [
-        71,
-        81,
-        75,
-        79,
-        25,
-        57
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 207715,
-      "assetId": 207715
     },
     "217097": {
       "name": "Romulo Otero",
@@ -304,7 +223,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 2400,
       "resourceId": 217097,
       "assetId": 217097
     },
@@ -670,9 +589,115 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 0,
       "resourceId": 267750,
       "assetId": 267750
+    },
+    "50529303": {
+      "name": "Sebastián Coates",
+      "cardName": "Coates",
+      "originalVersionId": "65",
+      "clubId": 111325,
+      "leagueId": 1003,
+      "countryId": 60,
+      "versionId": "65",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        11,
+        14,
+        15,
+        16,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        17,
+        18,
+        19
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        86,
+        70,
+        80,
+        80,
+        91,
+        93
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50529303,
+      "assetId": 197655
+    },
+    "50539363": {
+      "name": "Nicolas López",
+      "cardName": "López",
+      "originalVersionId": "11",
+      "clubId": 111325,
+      "leagueId": 1003,
+      "countryId": 60,
+      "versionId": "11",
+      "rating": 93,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        2,
+        20,
+        21,
+        22,
+        24,
+        7
+      ],
+      "playStylesPlus": [
+        0,
+        1,
+        6
+      ],
+      "rolesPlus": [
+        33,
+        34,
+        35,
+        131,
+        132,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        91,
+        93,
+        91,
+        93,
+        35,
+        82
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50539363,
+      "assetId": 207715
     },
     "50573983": {
       "name": "Camilo Cándido",

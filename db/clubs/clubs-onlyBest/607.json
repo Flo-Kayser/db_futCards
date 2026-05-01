@@ -75,7 +75,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1200,
       "resourceId": 200888,
       "assetId": 200888
     },
@@ -227,7 +227,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 200,
       "resourceId": 221772,
       "assetId": 221772
     },
@@ -267,7 +267,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 2100,
       "resourceId": 225087,
       "assetId": 225087
     },
@@ -728,7 +728,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 7300,
+      "price": 7900,
       "resourceId": 268874,
       "assetId": 268874
     },
@@ -762,7 +762,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 271569,
       "assetId": 271569
     },
@@ -797,7 +797,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 3300,
+      "price": 3900,
       "resourceId": 272830,
       "assetId": 272830
     },
@@ -832,7 +832,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 275128,
       "assetId": 275128
     },
@@ -943,7 +943,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 200,
       "resourceId": 279593,
       "assetId": 279593
     },
@@ -1034,7 +1034,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1400,
       "resourceId": 50567058,
       "assetId": 235410
     },
@@ -1085,7 +1085,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 65000,
+      "price": 64500,
       "resourceId": 50573500,
       "assetId": 241852
     },
@@ -1129,45 +1129,6 @@
       "price": 350,
       "resourceId": 50595476,
       "assetId": 263828
-    },
-    "50602261": {
-      "name": "Mahamadou Doumbia",
-      "cardName": "Doumbia",
-      "originalVersionId": "1",
-      "clubId": 607,
-      "leagueId": 350,
-      "countryId": 126,
-      "versionId": "3001",
-      "rating": 68,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        14,
-        17,
-        21,
-        33
-      ],
-      "attributes": [
-        76,
-        68,
-        68,
-        75,
-        61,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50602261,
-      "assetId": 270613
     },
     "50605194": {
       "name": "George Ilenikhena",
@@ -1281,7 +1242,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 36000,
       "resourceId": 67274017,
       "assetId": 165153
     },
@@ -1336,9 +1297,69 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 166000,
+      "price": 190000,
       "resourceId": 67324778,
       "assetId": 215914
+    },
+    "67379477": {
+      "name": "Mahamadou Doumbia",
+      "cardName": "Doumbia",
+      "originalVersionId": "120",
+      "clubId": 607,
+      "leagueId": 350,
+      "countryId": 126,
+      "versionId": "120",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        20,
+        24,
+        25,
+        28,
+        29
+      ],
+      "playStylesPlus": [
+        16,
+        8,
+        9
+      ],
+      "rolesPlus": [
+        15,
+        17,
+        32,
+        34,
+        49,
+        114,
+        116,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        133
+      ],
+      "attributes": [
+        90,
+        84,
+        90,
+        91,
+        89,
+        87
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67379477,
+      "assetId": 270613
     }
   }
 }

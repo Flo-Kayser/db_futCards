@@ -212,7 +212,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1400,
       "resourceId": 223885,
       "assetId": 223885
     },
@@ -253,7 +253,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1400,
       "resourceId": 227647,
       "assetId": 227647
     },
@@ -647,7 +647,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 2400,
       "resourceId": 245940,
       "assetId": 245940
     },
@@ -689,7 +689,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 3000,
       "resourceId": 247360,
       "assetId": 247360
     },
@@ -731,7 +731,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1100,
       "resourceId": 250959,
       "assetId": 250959
     },
@@ -887,7 +887,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 3400,
       "resourceId": 256118,
       "assetId": 256118
     },
@@ -1297,7 +1297,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 20000,
       "resourceId": 50559295,
       "assetId": 227647
     },
@@ -1344,7 +1344,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 39750,
+      "price": 41000,
       "resourceId": 50570124,
       "assetId": 238476
     },
@@ -1439,7 +1439,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 28250,
+      "price": 27750,
       "resourceId": 50575824,
       "assetId": 244176
     },
@@ -1484,7 +1484,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 23750,
+      "price": 23000,
       "resourceId": 50582607,
       "assetId": 250959
     },
@@ -1529,7 +1529,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 31250,
+      "price": 31500,
       "resourceId": 50584096,
       "assetId": 252448
     },
@@ -1667,7 +1667,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 106000,
+      "price": 105000,
       "resourceId": 67353040,
       "assetId": 244176
     },
@@ -1709,7 +1709,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 26000,
       "resourceId": 67359823,
       "assetId": 250959
     },
@@ -1755,7 +1755,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 26000,
+      "price": 27500,
       "resourceId": 67361312,
       "assetId": 252448
     },
@@ -1840,7 +1840,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 24000,
       "resourceId": 84130256,
       "assetId": 244176
     },
@@ -1894,7 +1894,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 28750,
+      "price": 35000,
       "resourceId": 84137039,
       "assetId": 250959
     },
@@ -1983,6 +1983,114 @@
       "hasDynamicImage": true,
       "sbcPrice": 57250,
       "resourceId": 100907472,
+      "assetId": 244176
+    },
+    "100914255": {
+      "name": "Angelo Stiller",
+      "cardName": "Stiller",
+      "originalVersionId": "11",
+      "clubId": 36,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "11",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        14,
+        17,
+        20,
+        22,
+        24,
+        8
+      ],
+      "playStylesPlus": [
+        11,
+        16,
+        9
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        22,
+        114,
+        115,
+        116,
+        117,
+        119,
+        120,
+        149
+      ],
+      "attributes": [
+        90,
+        80,
+        94,
+        95,
+        94,
+        90
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 100914255,
+      "assetId": 250959
+    },
+    "117684688": {
+      "name": "Deniz Undav",
+      "cardName": "Undav",
+      "originalVersionId": "11",
+      "clubId": 36,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        11,
+        20,
+        25,
+        6,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        2,
+        22
+      ],
+      "rolesPlus": [
+        33,
+        34,
+        131,
+        132,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        90,
+        95,
+        88,
+        93,
+        46,
+        92
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 117684688,
       "assetId": 244176
     }
   }

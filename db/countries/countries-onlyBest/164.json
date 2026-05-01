@@ -1,45 +1,4 @@
 {
-  "73466": {
-    "name": "Yazan Al Arab",
-    "cardName": "Al Arab",
-    "originalVersionId": "1",
-    "clubId": 982,
-    "leagueId": 83,
-    "countryId": 164,
-    "versionId": "3002",
-    "rating": 75,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 2,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [
-      14,
-      16,
-      17,
-      19,
-      28
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      11,
-      12
-    ],
-    "attributes": [
-      79,
-      29,
-      46,
-      52,
-      73,
-      83
-    ],
-    "hasDynamicImage": false,
-    "price": 650,
-    "resourceId": 73466,
-    "assetId": 73466
-  },
   "259191": {
     "name": "Musa Al Tamari",
     "cardName": "Al Tamari",
@@ -117,8 +76,56 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 50402508,
     "assetId": 70860
+  },
+  "50405114": {
+    "name": "Yazan Al Arab",
+    "cardName": "Al Arab",
+    "originalVersionId": "11",
+    "clubId": 982,
+    "leagueId": 83,
+    "countryId": 164,
+    "versionId": "11",
+    "rating": 95,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      14,
+      15,
+      18,
+      19,
+      25,
+      9
+    ],
+    "playStylesPlus": [
+      16,
+      17,
+      28
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      88,
+      38,
+      76,
+      85,
+      95,
+      93
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50405114,
+    "assetId": 73466
   }
 }

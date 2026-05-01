@@ -1,46 +1,6 @@
 {
   "clubName": "LDU Quito",
   "players": {
-    "50591482": {
-      "name": "Gabriel Villamíl",
-      "cardName": "Villamíl",
-      "originalVersionId": "3",
-      "clubId": 110986,
-      "leagueId": 1003,
-      "countryId": 53,
-      "versionId": "3",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        2,
-        26,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        33,
-        118
-      ],
-      "attributes": [
-        83,
-        76,
-        80,
-        81,
-        70,
-        68
-      ],
-      "hasDynamicImage": true,
-      "price": 39250,
-      "resourceId": 50591482,
-      "assetId": 259834
-    },
     "50591552": {
       "name": "Gonzalo Valle",
       "cardName": "Valle",
@@ -75,9 +35,63 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 38750,
+      "price": 40500,
       "resourceId": 50591552,
       "assetId": 259904
+    },
+    "67368698": {
+      "name": "Gabriel Villamíl",
+      "cardName": "Villamíl",
+      "originalVersionId": "120",
+      "clubId": 110986,
+      "leagueId": 1003,
+      "countryId": 53,
+      "versionId": "120",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        2,
+        20,
+        21,
+        26,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        11,
+        24,
+        9
+      ],
+      "rolesPlus": [
+        32,
+        34,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        133
+      ],
+      "attributes": [
+        89,
+        88,
+        92,
+        91,
+        86,
+        86
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67368698,
+      "assetId": 259834
     }
   }
 }

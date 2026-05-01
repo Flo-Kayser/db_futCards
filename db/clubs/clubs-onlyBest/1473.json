@@ -36,7 +36,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4500,
       "resourceId": 70631,
       "assetId": 70631
     },
@@ -302,7 +302,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 9400,
       "resourceId": 211003,
       "assetId": 211003
     },
@@ -500,7 +500,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 226651,
       "assetId": 226651
     },
@@ -809,7 +809,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 3700,
+      "price": 8900,
       "resourceId": 246937,
       "assetId": 246937
     },
@@ -886,7 +886,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1000,
       "resourceId": 252643,
       "assetId": 252643
     },
@@ -1004,7 +1004,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 10000,
       "resourceId": 256370,
       "assetId": 256370
     },
@@ -1044,7 +1044,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 260257,
       "assetId": 260257
     },
@@ -1190,50 +1190,6 @@
       "resourceId": 50553215,
       "assetId": 221567
     },
-    "50576702": {
-      "name": "Lee Dong Kyeong",
-      "cardName": "Lee Dong Kyeong",
-      "originalVersionId": "0",
-      "clubId": 1473,
-      "leagueId": 83,
-      "countryId": 167,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [
-        13,
-        6,
-        7,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        22,
-        31,
-        33,
-        43
-      ],
-      "attributes": [
-        77,
-        75,
-        73,
-        75,
-        59,
-        76
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50576702,
-      "assetId": 245054
-    },
     "50579002": {
       "name": "Benji Michel",
       "cardName": "Michel",
@@ -1307,6 +1263,65 @@
       "price": 200,
       "resourceId": 50601851,
       "assetId": 270203
+    },
+    "67353918": {
+      "name": "Lee Dong Kyeong",
+      "cardName": "Lee Dong Kyeong",
+      "originalVersionId": "11",
+      "clubId": 1473,
+      "leagueId": 83,
+      "countryId": 167,
+      "versionId": "11",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        13,
+        20,
+        21,
+        24,
+        7
+      ],
+      "playStylesPlus": [
+        6,
+        8,
+        9
+      ],
+      "rolesPlus": [
+        18,
+        19,
+        20,
+        42,
+        44,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        141,
+        143
+      ],
+      "attributes": [
+        91,
+        94,
+        94,
+        93,
+        70,
+        83
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67353918,
+      "assetId": 245054
     }
   }
 }

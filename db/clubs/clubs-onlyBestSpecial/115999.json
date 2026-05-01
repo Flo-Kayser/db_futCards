@@ -53,9 +53,53 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 13750,
       "resourceId": 50596636,
       "assetId": 264988
+    },
+    "50596643": {
+      "name": "Laura Dick",
+      "cardName": "Dick",
+      "originalVersionId": "11",
+      "clubId": 115999,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "11",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        32,
+        33,
+        35
+      ],
+      "playStylesPlus": [
+        10,
+        31,
+        34
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        92,
+        93,
+        88,
+        95,
+        70,
+        92
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50596643,
+      "assetId": 264995
     },
     "50606495": {
       "name": "Vanessa Diehm",
@@ -102,45 +146,56 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 25500,
+      "price": 24000,
       "resourceId": 50606495,
       "assetId": 274847
     },
-    "67373889": {
+    "84151105": {
       "name": "Selina Cerci",
       "cardName": "Cerci",
-      "originalVersionId": "30",
+      "originalVersionId": "11",
       "clubId": 115999,
       "leagueId": 2215,
       "countryId": 21,
-      "versionId": "30",
-      "rating": 90,
+      "versionId": "11",
+      "rating": 95,
       "preferredFoot": "Right",
       "weakFoot": 5,
-      "skillMoves": 5,
+      "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
         "ST"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        0,
+        2,
+        20,
+        22,
+        24,
+        26,
+        4
+      ],
+      "playStylesPlus": [
+        25,
+        6,
+        8
+      ],
       "rolesPlus": [
-        43,
         141,
         142,
+        143,
         144
       ],
       "attributes": [
-        90,
-        89,
-        82,
-        90,
-        59,
-        85
+        95,
+        94,
+        87,
+        95,
+        64,
+        90
       ],
       "hasDynamicImage": true,
-      "price": 26250,
-      "resourceId": 67373889,
+      "resourceId": 84151105,
       "assetId": 265025
     }
   }

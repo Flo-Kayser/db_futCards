@@ -44,7 +44,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 54500,
+    "price": 63000,
     "resourceId": 50529093,
     "assetId": 197445
   },
@@ -93,7 +93,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 23750,
     "resourceId": 50536145,
     "assetId": 204497
   },
@@ -150,7 +150,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 23250,
+    "price": 24000,
     "resourceId": 50536571,
     "assetId": 204923
   },
@@ -192,55 +192,6 @@
     "resourceId": 50547170,
     "assetId": 215522
   },
-  "50573835": {
-    "name": "Christoph Baumgartner",
-    "cardName": "Baumgartner",
-    "originalVersionId": "3",
-    "clubId": 112172,
-    "leagueId": 19,
-    "countryId": 4,
-    "versionId": "3",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CM",
-      "ST"
-    ],
-    "playStyles": [
-      2,
-      20,
-      4,
-      5,
-      6
-    ],
-    "playStylesPlus": [
-      22
-    ],
-    "rolesPlus": [
-      22,
-      33,
-      44,
-      118,
-      132,
-      143
-    ],
-    "attributes": [
-      85,
-      83,
-      82,
-      88,
-      56,
-      78
-    ],
-    "hasDynamicImage": true,
-    "price": 24750,
-    "resourceId": 50573835,
-    "assetId": 242187
-  },
   "50588586": {
     "name": "Niklas Hedl",
     "cardName": "Hedl",
@@ -281,7 +232,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 24750,
+    "price": 23000,
     "resourceId": 50588586,
     "assetId": 256938
   },
@@ -335,7 +286,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 13500,
     "resourceId": 50589524,
     "assetId": 257876
   },
@@ -392,7 +343,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 24750,
+    "price": 23750,
     "resourceId": 50594689,
     "assetId": 263041
   },
@@ -437,7 +388,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 29000,
     "resourceId": 50602645,
     "assetId": 270997
   },
@@ -484,7 +435,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 29500,
+    "price": 26750,
     "resourceId": 50611341,
     "assetId": 279693
   },
@@ -529,7 +480,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 27000,
     "resourceId": 67308303,
     "assetId": 199439
   },
@@ -692,8 +643,67 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 23500,
     "resourceId": 67337200,
     "assetId": 228336
+  },
+  "67351051": {
+    "name": "Christoph Baumgartner",
+    "cardName": "Baumgartner",
+    "originalVersionId": "11",
+    "clubId": 112172,
+    "leagueId": 19,
+    "countryId": 4,
+    "versionId": "11",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      16,
+      22,
+      25,
+      6,
+      9
+    ],
+    "playStylesPlus": [
+      20,
+      24,
+      8
+    ],
+    "rolesPlus": [
+      18,
+      19,
+      20,
+      41,
+      44,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      142,
+      143
+    ],
+    "attributes": [
+      92,
+      90,
+      90,
+      95,
+      75,
+      87
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67351051,
+    "assetId": 242187
   }
 }

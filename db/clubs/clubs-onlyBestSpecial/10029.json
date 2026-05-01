@@ -1,54 +1,51 @@
 {
   "clubName": "TSG Hoffenheim",
   "players": {
-    "50576118": {
-      "name": "Vladimír Coufal",
-      "cardName": "Coufal",
-      "originalVersionId": "3",
+    "50525346": {
+      "name": "Oliver Baumann",
+      "cardName": "Baumann",
+      "originalVersionId": "11",
       "clubId": 10029,
       "leagueId": 19,
-      "countryId": 12,
-      "versionId": "3",
-      "rating": 84,
+      "countryId": 21,
+      "versionId": "11",
+      "rating": 91,
       "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
       "possiblePositions": [
-        "RB",
-        "RM"
+        "GK"
       ],
       "playStyles": [
-        12,
-        14,
-        16,
-        17,
-        18
+        10,
+        30,
+        32,
+        33,
+        34,
+        8
       ],
       "playStylesPlus": [
+        31,
+        35,
         9
       ],
       "rolesPlus": [
-        4,
-        6,
-        23,
-        25,
-        103,
-        105,
-        124
+        101,
+        102,
+        145
       ],
       "attributes": [
-        84,
-        67,
-        82,
-        81,
-        85,
-        83
+        92,
+        91,
+        88,
+        92,
+        70,
+        90
       ],
       "hasDynamicImage": true,
-      "price": 25000,
-      "resourceId": 50576118,
-      "assetId": 244470
+      "resourceId": 50525346,
+      "assetId": 193698
     },
     "50594689": {
       "name": "Alexander Prass",
@@ -103,19 +100,73 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 24750,
+      "price": 23750,
       "resourceId": 50594689,
       "assetId": 263041
     },
-    "67325218": {
+    "67353334": {
+      "name": "Vladimír Coufal",
+      "cardName": "Coufal",
+      "originalVersionId": "11",
+      "clubId": 10029,
+      "leagueId": 19,
+      "countryId": 12,
+      "versionId": "11",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        16,
+        17,
+        18,
+        25,
+        26,
+        28
+      ],
+      "playStylesPlus": [
+        14,
+        27,
+        9
+      ],
+      "rolesPlus": [
+        25,
+        26,
+        103,
+        104,
+        105,
+        106,
+        123,
+        124,
+        146
+      ],
+      "attributes": [
+        91,
+        75,
+        90,
+        88,
+        92,
+        90
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67353334,
+      "assetId": 244470
+    },
+    "84102434": {
       "name": "Andrej Kramarić",
       "cardName": "Kramarić",
-      "originalVersionId": "111",
+      "originalVersionId": "65",
       "clubId": 10029,
       "leagueId": 19,
       "countryId": 10,
-      "versionId": "111",
-      "rating": 89,
+      "versionId": "65",
+      "rating": 91,
       "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 5,
@@ -126,132 +177,144 @@
       ],
       "playStyles": [
         0,
+        1,
+        10,
         11,
-        22,
-        24,
         25,
-        3,
         6,
-        7,
-        8
+        9
       ],
       "playStylesPlus": [
         20,
-        9
+        22,
+        8
       ],
       "rolesPlus": [
         18,
-        22,
-        32,
-        34,
-        120,
+        19,
+        20,
         121,
+        122,
         131,
-        133
+        132,
+        133,
+        134
       ],
       "attributes": [
-        87,
         90,
-        89,
         92,
-        41,
-        82
+        91,
+        94,
+        44,
+        85
       ],
+      "isObjective": true,
       "hasDynamicImage": true,
-      "price": 13500,
-      "resourceId": 67325218,
+      "resourceId": 84102434,
       "assetId": 216354
     },
-    "67352914": {
+    "84130130": {
       "name": "Wouter Burger",
       "cardName": "Burger",
-      "originalVersionId": "30",
+      "originalVersionId": "120",
       "clubId": 10029,
       "leagueId": 19,
       "countryId": 34,
-      "versionId": "30",
-      "rating": 87,
+      "versionId": "120",
+      "rating": 90,
       "preferredFoot": "Left",
       "weakFoot": 5,
-      "skillMoves": 5,
+      "skillMoves": 4,
       "preferredPosition": "CDM",
       "possiblePositions": [
         "CDM",
         "CM"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        14,
-        16,
+      "playStyles": [
+        10,
+        18,
         19,
         20,
+        22,
+        24,
+        6
+      ],
+      "playStylesPlus": [
+        16,
+        28,
+        8
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        22,
+        114,
         115,
+        116,
         117,
-        121,
-        122
+        119,
+        120,
+        149
       ],
       "attributes": [
-        87,
-        80,
-        86,
-        84,
-        86,
-        90
+        90,
+        85,
+        90,
+        88,
+        90,
+        91
       ],
       "hasDynamicImage": true,
-      "price": 150000,
-      "resourceId": 67352914,
+      "resourceId": 84130130,
       "assetId": 244050
     },
-    "67374441": {
+    "84151657": {
       "name": "Fisnik Asllani",
       "cardName": "Asllani",
-      "originalVersionId": "33",
+      "originalVersionId": "65",
       "clubId": 10029,
       "leagueId": 19,
       "countryId": 219,
-      "versionId": "33",
-      "rating": 85,
+      "versionId": "65",
+      "rating": 91,
       "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
-        "CAM",
         "ST"
       ],
       "playStyles": [
-        1,
+        0,
+        11,
+        2,
         20,
-        22,
+        21,
+        23,
+        7
+      ],
+      "playStylesPlus": [
+        25,
         29,
         6
       ],
-      "playStylesPlus": [
-        0
-      ],
       "rolesPlus": [
-        131,
-        132,
-        133,
-        134,
         141,
         142,
         143,
         144
       ],
       "attributes": [
+        90,
+        92,
         83,
-        86,
-        77,
-        85,
-        40,
-        85
+        91,
+        46,
+        91
       ],
+      "isObjective": true,
       "hasDynamicImage": true,
-      "price": 30750,
-      "resourceId": 67374441,
+      "resourceId": 84151657,
       "assetId": 265577
     }
   }

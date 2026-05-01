@@ -1,53 +1,67 @@
 {
   "clubName": "Rosario Central ",
   "players": {
-    "50515546": {
+    "67292762": {
       "name": "Ángel Di María",
       "cardName": "Di María",
-      "originalVersionId": "51",
+      "originalVersionId": "65",
       "clubId": 110580,
       "leagueId": 353,
       "countryId": 52,
-      "versionId": "51",
-      "rating": 87,
+      "versionId": "65",
+      "rating": 94,
       "preferredFoot": "Left",
-      "weakFoot": 3,
+      "weakFoot": 4,
       "skillMoves": 5,
       "preferredPosition": "RW",
       "possiblePositions": [
+        "CAM",
         "RM",
-        "RW"
+        "RW",
+        "ST"
       ],
       "playStyles": [
-        0,
-        1,
         10,
         13,
-        23,
-        8
-      ],
-      "playStylesPlus": [
-        20
-      ],
-      "rolesPlus": [
+        21,
         23,
         25,
-        35,
-        37,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        8
+      ],
+      "rolesPlus": [
+        24,
+        31,
+        32,
+        41,
+        44,
+        123,
+        125,
         126,
-        136
+        133,
+        134,
+        135,
+        136,
+        137,
+        142,
+        143
       ],
       "attributes": [
-        87,
-        85,
-        88,
-        89,
-        50,
-        72
+        94,
+        92,
+        94,
+        95,
+        60,
+        81
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 67750,
-      "resourceId": 50515546,
+      "sbcPrice": 205750,
+      "resourceId": 67292762,
       "assetId": 183898
     }
   }

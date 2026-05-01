@@ -212,7 +212,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1400,
       "resourceId": 223885,
       "assetId": 223885
     },
@@ -485,7 +485,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 2400,
       "resourceId": 245940,
       "assetId": 245940
     },
@@ -527,7 +527,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 3000,
       "resourceId": 247360,
       "assetId": 247360
     },
@@ -643,7 +643,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 3400,
       "resourceId": 256118,
       "assetId": 256118
     },
@@ -1053,7 +1053,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 20000,
       "resourceId": 50559295,
       "assetId": 227647
     },
@@ -1100,7 +1100,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 39750,
+      "price": 41000,
       "resourceId": 50570124,
       "assetId": 238476
     },
@@ -1239,61 +1239,6 @@
       "resourceId": 50602113,
       "assetId": 270465
     },
-    "67353040": {
-      "name": "Deniz Undav",
-      "cardName": "Undav",
-      "originalVersionId": "111",
-      "clubId": 36,
-      "leagueId": 19,
-      "countryId": 21,
-      "versionId": "111",
-      "rating": 91,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        1,
-        11,
-        2,
-        29,
-        4,
-        5,
-        6,
-        8
-      ],
-      "playStylesPlus": [
-        20,
-        7
-      ],
-      "rolesPlus": [
-        131,
-        132,
-        133,
-        134,
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        89,
-        99,
-        86,
-        92,
-        44,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 106000,
-      "resourceId": 67353040,
-      "assetId": 244176
-    },
     "67361312": {
       "name": "Jamie Leweling",
       "cardName": "Leweling",
@@ -1336,7 +1281,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 26000,
+      "price": 27500,
       "resourceId": 67361312,
       "assetId": 252448
     },
@@ -1375,60 +1320,6 @@
       "resourceId": 67386606,
       "assetId": 277742
     },
-    "84137039": {
-      "name": "Angelo Stiller",
-      "cardName": "Stiller",
-      "originalVersionId": "20",
-      "clubId": 36,
-      "leagueId": 19,
-      "countryId": 21,
-      "versionId": "20",
-      "rating": 90,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        11,
-        14,
-        16,
-        20,
-        24,
-        8
-      ],
-      "playStylesPlus": [
-        17,
-        9
-      ],
-      "rolesPlus": [
-        14,
-        18,
-        19,
-        49,
-        115,
-        116,
-        117,
-        120,
-        121
-      ],
-      "attributes": [
-        86,
-        74,
-        90,
-        91,
-        90,
-        85
-      ],
-      "hasDynamicImage": true,
-      "price": 28750,
-      "resourceId": 84137039,
-      "assetId": 250959
-    },
     "84163822": {
       "name": "Jeremy",
       "cardName": "Jeremy",
@@ -1463,6 +1354,114 @@
       "price": 0,
       "resourceId": 84163822,
       "assetId": 277742
+    },
+    "100914255": {
+      "name": "Angelo Stiller",
+      "cardName": "Stiller",
+      "originalVersionId": "11",
+      "clubId": 36,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "11",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        14,
+        17,
+        20,
+        22,
+        24,
+        8
+      ],
+      "playStylesPlus": [
+        11,
+        16,
+        9
+      ],
+      "rolesPlus": [
+        18,
+        21,
+        22,
+        114,
+        115,
+        116,
+        117,
+        119,
+        120,
+        149
+      ],
+      "attributes": [
+        90,
+        80,
+        94,
+        95,
+        94,
+        90
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 100914255,
+      "assetId": 250959
+    },
+    "117684688": {
+      "name": "Deniz Undav",
+      "cardName": "Undav",
+      "originalVersionId": "11",
+      "clubId": 36,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        11,
+        20,
+        25,
+        6,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        2,
+        22
+      ],
+      "rolesPlus": [
+        33,
+        34,
+        131,
+        132,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        90,
+        95,
+        88,
+        93,
+        46,
+        92
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 117684688,
+      "assetId": 244176
     }
   }
 }

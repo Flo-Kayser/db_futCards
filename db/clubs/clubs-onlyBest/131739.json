@@ -1,44 +1,6 @@
 {
   "clubName": "Auckland FC",
   "players": {
-    "73092": {
-      "name": "Jesse Randall",
-      "cardName": "Randall",
-      "originalVersionId": "1",
-      "clubId": 131739,
-      "leagueId": 351,
-      "countryId": 198,
-      "versionId": "3000",
-      "rating": 60,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        27,
-        39,
-        42
-      ],
-      "attributes": [
-        78,
-        58,
-        53,
-        61,
-        31,
-        59
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 73092,
-      "assetId": 73092
-    },
     "73102": {
       "name": "Liam Gillion",
       "cardName": "Gillion",
@@ -743,7 +705,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 246195,
       "assetId": 246195
     },
@@ -860,6 +822,63 @@
       "price": 200,
       "resourceId": 274006,
       "assetId": 274006
+    },
+    "50404740": {
+      "name": "Jesse Randall",
+      "cardName": "Randall",
+      "originalVersionId": "120",
+      "clubId": 131739,
+      "leagueId": 351,
+      "countryId": 198,
+      "versionId": "120",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        12,
+        13,
+        22,
+        23,
+        24,
+        25
+      ],
+      "playStylesPlus": [
+        20,
+        21,
+        8
+      ],
+      "rolesPlus": [
+        43,
+        44,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        141,
+        142
+      ],
+      "attributes": [
+        93,
+        90,
+        91,
+        92,
+        51,
+        88
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50404740,
+      "assetId": 73092
     },
     "50603972": {
       "name": "Jake Girdwood-Reich",
