@@ -1,44 +1,53 @@
 {
   "clubName": "1. FC Nürnberg",
   "players": {
-    "50607408": {
+    "67384624": {
       "name": "Nastassja Lein",
       "cardName": "Lein",
-      "originalVersionId": "3",
+      "originalVersionId": "65",
       "clubId": 131386,
       "leagueId": 2215,
       "countryId": 21,
-      "versionId": "3",
-      "rating": 83,
+      "versionId": "65",
+      "rating": 91,
       "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
+      "weakFoot": 4,
+      "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
         "ST"
       ],
       "playStyles": [
-        20,
+        1,
+        11,
+        2,
         21,
-        24,
-        5,
-        6
+        6,
+        7,
+        8
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        0,
+        20,
+        24
+      ],
       "rolesPlus": [
-        141
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
-        83,
-        84,
-        75,
-        83,
-        47,
-        70
+        91,
+        92,
+        85,
+        91,
+        56,
+        83
       ],
+      "isObjective": true,
       "hasDynamicImage": true,
-      "price": 29000,
-      "resourceId": 50607408,
+      "resourceId": 67384624,
       "assetId": 275760
     }
   }
