@@ -37,7 +37,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 5600,
+      "price": 3800,
       "resourceId": 70651,
       "assetId": 70651
     },
@@ -73,7 +73,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 900,
       "resourceId": 78872,
       "assetId": 78872
     },
@@ -153,7 +153,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 220075,
       "assetId": 220075
     },
@@ -234,7 +234,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 4300,
+      "price": 3900,
       "resourceId": 229851,
       "assetId": 229851
     },
@@ -273,7 +273,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 8500,
+      "price": 10000,
       "resourceId": 230713,
       "assetId": 230713
     },
@@ -611,7 +611,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 5100,
       "resourceId": 261357,
       "assetId": 261357
     },
@@ -721,7 +721,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 2700,
       "resourceId": 277063,
       "assetId": 277063
     },
@@ -877,7 +877,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 27000,
+      "price": 25000,
       "resourceId": 50541629,
       "assetId": 209981
     },
@@ -927,7 +927,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 78500,
+      "price": 77500,
       "resourceId": 50542162,
       "assetId": 210514
     },
@@ -977,7 +977,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 78500,
+      "price": 70000,
       "resourceId": 50554385,
       "assetId": 222737
     },
@@ -1025,7 +1025,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 135000,
+      "price": 172000,
       "resourceId": 50555496,
       "assetId": 223848
     },
@@ -1064,60 +1064,6 @@
       "price": 200,
       "resourceId": 50557624,
       "assetId": 225976
-    },
-    "50564304": {
-      "name": "Theo Hernández",
-      "cardName": "Hernández",
-      "originalVersionId": "33",
-      "clubId": 605,
-      "leagueId": 350,
-      "countryId": 18,
-      "versionId": "33",
-      "rating": 88,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        10,
-        14,
-        15,
-        16,
-        17,
-        21,
-        25,
-        3
-      ],
-      "playStylesPlus": [
-        28
-      ],
-      "rolesPlus": [
-        107,
-        108,
-        109,
-        110,
-        127,
-        128,
-        129,
-        130,
-        147
-      ],
-      "attributes": [
-        92,
-        81,
-        82,
-        87,
-        83,
-        86
-      ],
-      "hasDynamicImage": true,
-      "price": 453000,
-      "resourceId": 50564304,
-      "assetId": 232656
     },
     "50584720": {
       "name": "Darwin Núñez",
@@ -1163,7 +1109,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 69000,
+      "price": 60000,
       "resourceId": 50584720,
       "assetId": 253072
     },
@@ -1231,7 +1177,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1000,
       "resourceId": 50608927,
       "assetId": 277279
     },
@@ -1347,7 +1293,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 50611275,
       "assetId": 279627
     },
@@ -1433,9 +1379,64 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 28000,
+      "price": 30000,
       "resourceId": 67309888,
       "assetId": 201024
+    },
+    "67341520": {
+      "name": "Theo Hernández",
+      "cardName": "Hernández",
+      "originalVersionId": "65",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 18,
+      "versionId": "65",
+      "rating": 93,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        10,
+        15,
+        16,
+        17,
+        21,
+        3,
+        9
+      ],
+      "playStylesPlus": [
+        14,
+        25,
+        28
+      ],
+      "rolesPlus": [
+        29,
+        30,
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        147
+      ],
+      "attributes": [
+        94,
+        87,
+        87,
+        92,
+        90,
+        91
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 258000,
+      "resourceId": 67341520,
+      "assetId": 232656
     },
     "84051233": {
       "name": "Karim Benzema",
@@ -1481,7 +1482,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 36500,
+      "price": 35750,
       "resourceId": 84051233,
       "assetId": 165153
     },
@@ -1534,7 +1535,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 90000,
+      "price": 80500,
       "resourceId": 84096682,
       "assetId": 210602
     },
@@ -1590,7 +1591,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 190000,
+      "price": 174000,
       "resourceId": 100887589,
       "assetId": 224293
     }
