@@ -34,7 +34,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 1400,
+    "price": 1800,
     "resourceId": 206113,
     "assetId": 206113,
     "originalVersionId": 1
@@ -75,7 +75,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 29000,
+    "price": 27250,
     "resourceId": 50537761,
     "assetId": 206113,
     "originalVersionId": 3
@@ -190,10 +190,77 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 388000,
+    "price": 344000,
     "resourceId": 84092193,
     "assetId": 206113,
     "originalVersionId": 8
+  },
+  "100869409": {
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 21,
+    "versionId": "65",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "RM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      12,
+      21,
+      25,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      20,
+      6,
+      9
+    ],
+    "rolesPlus": [
+      24,
+      25,
+      28,
+      29,
+      40,
+      41,
+      44,
+      123,
+      126,
+      127,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      142,
+      143
+    ],
+    "attributes": [
+      93,
+      92,
+      91,
+      92,
+      54,
+      80
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100869409,
+    "assetId": 206113,
+    "originalVersionId": 65
   },
   "cardName": "Gnabry",
   "name": "Serge Gnabry"

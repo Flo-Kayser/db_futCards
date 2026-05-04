@@ -70,7 +70,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 5100,
       "resourceId": 73683,
       "assetId": 73683
     },
@@ -104,7 +104,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 5100,
       "resourceId": 74777,
       "assetId": 74777
     },
@@ -178,7 +178,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 5900,
+      "price": 6000,
       "resourceId": 173373,
       "assetId": 173373
     },
@@ -372,7 +372,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 8500,
+      "price": 10000,
       "resourceId": 214040,
       "assetId": 214040
     },
@@ -452,7 +452,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 1900,
       "resourceId": 215228,
       "assetId": 215228
     },
@@ -1049,7 +1049,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 10000,
       "resourceId": 261171,
       "assetId": 261171
     },
@@ -1158,7 +1158,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 800,
       "resourceId": 271512,
       "assetId": 271512
     },
@@ -1315,50 +1315,6 @@
       "resourceId": 50511461,
       "assetId": 179813
     },
-    "50539087": {
-      "name": "Leandro Paredes",
-      "cardName": "Paredes",
-      "originalVersionId": "22",
-      "clubId": 1877,
-      "leagueId": 353,
-      "countryId": 52,
-      "versionId": "22",
-      "rating": 83,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        11,
-        19,
-        2
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        15,
-        19,
-        118,
-        120
-      ],
-      "attributes": [
-        75,
-        75,
-        87,
-        84,
-        80,
-        81
-      ],
-      "isObjective": true,
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 50539087,
-      "assetId": 207439
-    },
     "50546313": {
       "name": "Juan Ramírez",
       "cardName": "Ramírez",
@@ -1474,7 +1430,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 4500,
       "resourceId": 50560377,
       "assetId": 228729
     },
@@ -1677,9 +1633,66 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 3100,
       "resourceId": 50603581,
       "assetId": 271933
+    },
+    "67316303": {
+      "name": "Leandro Paredes",
+      "cardName": "Paredes",
+      "originalVersionId": "65",
+      "clubId": 1877,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "65",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        17,
+        19,
+        20,
+        28,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        11,
+        16,
+        9
+      ],
+      "rolesPlus": [
+        15,
+        17,
+        49,
+        114,
+        116,
+        118,
+        119,
+        120,
+        121,
+        122
+      ],
+      "attributes": [
+        90,
+        88,
+        93,
+        92,
+        90,
+        91
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 72250,
+      "price": 65300,
+      "resourceId": 67316303,
+      "assetId": 207439
     },
     "67369465": {
       "name": "Exequiel Zeballos",

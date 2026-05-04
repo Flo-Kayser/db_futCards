@@ -34,7 +34,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 14000,
+    "price": 30000,
     "resourceId": 168886,
     "assetId": 168886
   },
@@ -86,7 +86,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 25750,
+    "price": 28250,
     "resourceId": 50500528,
     "assetId": 168880
   },
@@ -125,7 +125,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 29750,
+    "price": 35000,
     "resourceId": 50567162,
     "assetId": 235514
   },
@@ -185,7 +185,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 16250,
+    "price": 30000,
     "resourceId": 50570193,
     "assetId": 238545
   },
@@ -226,52 +226,9 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 35500,
+    "price": 34500,
     "resourceId": 50580146,
     "assetId": 248498
-  },
-  "50595472": {
-    "name": "Musab Al Juwair",
-    "cardName": "Al Juwair",
-    "originalVersionId": "30",
-    "clubId": 112391,
-    "leagueId": 350,
-    "countryId": 183,
-    "versionId": "30",
-    "rating": 87,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 5,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      15,
-      18,
-      22,
-      33,
-      116,
-      120,
-      121,
-      131
-    ],
-    "attributes": [
-      84,
-      81,
-      88,
-      87,
-      83,
-      83
-    ],
-    "hasDynamicImage": true,
-    "price": 14250,
-    "resourceId": 50595472,
-    "assetId": 263824
   },
   "50601330": {
     "name": "Ali Makki",
@@ -384,6 +341,67 @@
     "resourceId": 67183565,
     "assetId": 74701
   },
+  "67372688": {
+    "name": "Musab Al Juwair",
+    "cardName": "Al Juwair",
+    "originalVersionId": "65",
+    "clubId": 112391,
+    "leagueId": 350,
+    "countryId": 183,
+    "versionId": "65",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      16,
+      6,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      10,
+      13,
+      20
+    ],
+    "rolesPlus": [
+      15,
+      17,
+      32,
+      34,
+      49,
+      114,
+      116,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      133
+    ],
+    "attributes": [
+      90,
+      85,
+      92,
+      91,
+      88,
+      88
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67372688,
+    "assetId": 263824
+  },
   "67375558": {
     "name": "Saeed Al Owairan",
     "cardName": "Al Owairan",
@@ -437,7 +455,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 230000,
+    "price": 245000,
     "resourceId": 67375558,
     "assetId": 266694
   },
@@ -490,7 +508,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 80500,
+    "price": 93500,
     "resourceId": 84096682,
     "assetId": 210602
   }
