@@ -44,7 +44,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 58500,
+    "price": 58000,
     "resourceId": 50529093,
     "assetId": 197445
   },
@@ -93,7 +93,7 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 28250,
+    "price": 31500,
     "resourceId": 50536145,
     "assetId": 204497
   },
@@ -150,7 +150,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 26250,
+    "price": 24000,
     "resourceId": 50536571,
     "assetId": 204923
   },
@@ -188,7 +188,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 39750,
+    "price": 33000,
     "resourceId": 50547170,
     "assetId": 215522
   },
@@ -232,7 +232,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 27250,
     "resourceId": 50588586,
     "assetId": 256938
   },
@@ -286,7 +286,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 23250,
+    "price": 23750,
     "resourceId": 50589524,
     "assetId": 257876
   },
@@ -343,7 +343,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 24000,
     "resourceId": 50594689,
     "assetId": 263041
   },
@@ -388,7 +388,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 28750,
+    "price": 39750,
     "resourceId": 50602645,
     "assetId": 270997
   },
@@ -435,7 +435,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 31500,
     "resourceId": 50611341,
     "assetId": 279693
   },
@@ -480,7 +480,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 24000,
     "resourceId": 67308303,
     "assetId": 199439
   },
@@ -519,7 +519,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 30000,
+    "price": 29750,
     "resourceId": 67332535,
     "assetId": 223671
   },
@@ -597,56 +597,6 @@
     "resourceId": 67334239,
     "assetId": 225375
   },
-  "67337200": {
-    "name": "Florian Grillitsch",
-    "cardName": "Grillitsch",
-    "originalVersionId": "3",
-    "clubId": 1896,
-    "leagueId": 308,
-    "countryId": 4,
-    "versionId": "3",
-    "rating": 84,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CB",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      0,
-      11,
-      16,
-      26,
-      29
-    ],
-    "playStylesPlus": [
-      10
-    ],
-    "rolesPlus": [
-      11,
-      16,
-      19,
-      20,
-      113,
-      115,
-      118
-    ],
-    "attributes": [
-      81,
-      69,
-      85,
-      84,
-      81,
-      78
-    ],
-    "hasDynamicImage": true,
-    "price": 29000,
-    "resourceId": 67337200,
-    "assetId": 228336
-  },
   "67351051": {
     "name": "Christoph Baumgartner",
     "cardName": "Baumgartner",
@@ -703,8 +653,68 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 25500,
+    "price": 23750,
     "resourceId": 67351051,
     "assetId": 242187
+  },
+  "84114416": {
+    "name": "Florian Grillitsch",
+    "cardName": "Grillitsch",
+    "originalVersionId": "58",
+    "clubId": 1896,
+    "leagueId": 308,
+    "countryId": 4,
+    "versionId": "58",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      14,
+      17,
+      20,
+      21,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      11,
+      16
+    ],
+    "rolesPlus": [
+      11,
+      15,
+      17,
+      48,
+      49,
+      112,
+      113,
+      114,
+      116,
+      118,
+      119,
+      120,
+      121,
+      122
+    ],
+    "attributes": [
+      87,
+      80,
+      91,
+      91,
+      90,
+      85
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 24250,
+    "resourceId": 84114416,
+    "assetId": 228336
   }
 }

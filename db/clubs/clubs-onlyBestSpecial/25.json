@@ -40,55 +40,9 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 34250,
+      "price": 37500,
       "resourceId": 50539510,
       "assetId": 207862
-    },
-    "50543744": {
-      "name": "Vincenzo Grifo",
-      "cardName": "Grifo",
-      "originalVersionId": "3",
-      "clubId": 25,
-      "leagueId": 19,
-      "countryId": 27,
-      "versionId": "3",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        0,
-        12,
-        22,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        3
-      ],
-      "rolesPlus": [
-        27,
-        33,
-        129
-      ],
-      "attributes": [
-        84,
-        82,
-        86,
-        85,
-        48,
-        71
-      ],
-      "hasDynamicImage": true,
-      "price": 29750,
-      "resourceId": 50543744,
-      "assetId": 212096
     },
     "50572099": {
       "name": "Jan-Niklas Beste",
@@ -202,7 +156,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 20500,
       "resourceId": 50586833,
       "assetId": 255185
     },
@@ -251,9 +205,66 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 23750,
+      "price": 21500,
       "resourceId": 67318710,
       "assetId": 209846
+    },
+    "67320960": {
+      "name": "Vincenzo Grifo",
+      "cardName": "Grifo",
+      "originalVersionId": "58",
+      "clubId": 25,
+      "leagueId": 19,
+      "countryId": 27,
+      "versionId": "58",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        3,
+        6,
+        7,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        21
+      ],
+      "rolesPlus": [
+        31,
+        32,
+        127,
+        128,
+        129,
+        130,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        91,
+        90,
+        92,
+        91,
+        55,
+        82
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 26000,
+      "resourceId": 67320960,
+      "assetId": 212096
     }
   }
 }
