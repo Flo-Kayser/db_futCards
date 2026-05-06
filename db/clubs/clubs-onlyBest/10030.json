@@ -33,7 +33,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 2100,
       "resourceId": 71925,
       "assetId": 71925
     },
@@ -914,46 +914,6 @@
       "resourceId": 276311,
       "assetId": 276311
     },
-    "276367": {
-      "name": "Laurin Curda",
-      "cardName": "Curda",
-      "originalVersionId": "1",
-      "clubId": 10030,
-      "leagueId": 20,
-      "countryId": 21,
-      "versionId": "3001",
-      "rating": 66,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5,
-        13,
-        48
-      ],
-      "attributes": [
-        72,
-        51,
-        62,
-        63,
-        65,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 276367,
-      "assetId": 276367
-    },
     "276371": {
       "name": "Mattes Hansen",
       "cardName": "Hansen",
@@ -1096,7 +1056,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 900,
       "resourceId": 50606647,
       "assetId": 274999
     },
@@ -1137,6 +1097,66 @@
       "price": 200,
       "resourceId": 50606910,
       "assetId": 275262
+    },
+    "50608015": {
+      "name": "Laurin Curda",
+      "cardName": "Curda",
+      "originalVersionId": "65",
+      "clubId": 10030,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "65",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        14,
+        16,
+        17,
+        18,
+        21,
+        8
+      ],
+      "playStylesPlus": [
+        15,
+        28,
+        9
+      ],
+      "rolesPlus": [
+        12,
+        24,
+        26,
+        103,
+        104,
+        105,
+        106,
+        111,
+        113,
+        123,
+        125,
+        146,
+        148
+      ],
+      "attributes": [
+        90,
+        80,
+        88,
+        90,
+        91,
+        92
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 22500,
+      "resourceId": 50608015,
+      "assetId": 276367
     }
   }
 }

@@ -373,53 +373,6 @@
       "resourceId": 221885,
       "assetId": 221885
     },
-    "231614": {
-      "name": "Fabian Reese",
-      "cardName": "Reese",
-      "originalVersionId": "0",
-      "clubId": 166,
-      "leagueId": 20,
-      "countryId": 21,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        12,
-        21,
-        25,
-        27,
-        6,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        30,
-        39,
-        41,
-        43
-      ],
-      "attributes": [
-        82,
-        74,
-        70,
-        74,
-        42,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 231614,
-      "assetId": 231614
-    },
     "234631": {
       "name": "Sebastian Grønning",
       "cardName": "Grønning",
@@ -647,7 +600,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 2000,
       "resourceId": 241474,
       "assetId": 241474
     },
@@ -683,7 +636,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 7900,
+      "price": 4900,
       "resourceId": 242393,
       "assetId": 242393
     },
@@ -802,7 +755,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1100,
       "resourceId": 252074,
       "assetId": 252074
     },
@@ -1106,7 +1059,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 273778,
       "assetId": 273778
     },
@@ -1147,6 +1100,78 @@
       "price": 200,
       "resourceId": 274735,
       "assetId": 274735
+    },
+    "50563262": {
+      "name": "Fabian Reese",
+      "cardName": "Reese",
+      "originalVersionId": "65",
+      "clubId": 166,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "65",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        12,
+        20,
+        25,
+        27,
+        9
+      ],
+      "playStylesPlus": [
+        21,
+        6,
+        7
+      ],
+      "rolesPlus": [
+        31,
+        34,
+        41,
+        42,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        132,
+        133,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        143,
+        144
+      ],
+      "attributes": [
+        94,
+        91,
+        87,
+        91,
+        60,
+        92
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 67500,
+      "resourceId": 50563262,
+      "assetId": 231614
     },
     "50566359": {
       "name": "Josip Brekalo",
