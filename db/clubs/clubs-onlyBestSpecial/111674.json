@@ -1,52 +1,6 @@
 {
   "clubName": "Al Shabab",
   "players": {
-    "50540066": {
-      "name": "Yannick Carrasco",
-      "cardName": "Carrasco",
-      "originalVersionId": "151",
-      "clubId": 111674,
-      "leagueId": 350,
-      "countryId": 7,
-      "versionId": "151",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        12,
-        20,
-        24,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        127,
-        128,
-        129,
-        130,
-        138,
-        139,
-        140
-      ],
-      "attributes": [
-        89,
-        84,
-        82,
-        88,
-        63,
-        73
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 42650,
-      "resourceId": 50540066,
-      "assetId": 208418
-    },
     "50551334": {
       "name": "Carlos Júnior",
       "cardName": "Carlos Júnior",
@@ -92,7 +46,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 28500,
+      "price": 27500,
       "resourceId": 50551334,
       "assetId": 219686
     },
@@ -207,53 +161,57 @@
       "resourceId": 67183565,
       "assetId": 74701
     },
-    "67317282": {
+    "84094498": {
       "name": "Yannick Carrasco",
       "cardName": "Carrasco",
-      "originalVersionId": "3",
+      "originalVersionId": "65",
       "clubId": 111674,
       "leagueId": 350,
       "countryId": 7,
-      "versionId": "3",
-      "rating": 85,
+      "versionId": "65",
+      "rating": 92,
       "preferredFoot": "Right",
       "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
+      "skillMoves": 5,
+      "preferredPosition": "LW",
       "possiblePositions": [
         "LM",
         "LW"
       ],
       "playStyles": [
+        10,
+        11,
         12,
-        20,
-        23,
+        25,
         6,
-        7
+        7,
+        9
       ],
       "playStylesPlus": [
-        25
+        0,
+        20,
+        21
       ],
       "rolesPlus": [
-        27,
         28,
-        29,
-        40,
+        127,
+        129,
         130,
         138,
-        139
+        139,
+        140
       ],
       "attributes": [
-        91,
-        85,
-        82,
-        89,
-        62,
-        73
+        94,
+        92,
+        90,
+        92,
+        70,
+        83
       ],
       "hasDynamicImage": true,
-      "price": 25000,
-      "resourceId": 67317282,
+      "sbcPrice": 46750,
+      "resourceId": 84094498,
       "assetId": 208418
     }
   }

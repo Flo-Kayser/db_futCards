@@ -1,56 +1,6 @@
 {
   "clubName": "VfL Wolfsburg",
   "players": {
-    "50557950": {
-      "name": "Alexandra Popp",
-      "cardName": "Popp",
-      "originalVersionId": "108",
-      "clubId": 115998,
-      "leagueId": 2215,
-      "countryId": 21,
-      "versionId": "108",
-      "rating": 89,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        19,
-        20,
-        28,
-        4,
-        6,
-        8
-      ],
-      "playStylesPlus": [
-        29
-      ],
-      "rolesPlus": [
-        39,
-        42,
-        43,
-        138,
-        141,
-        144
-      ],
-      "attributes": [
-        85,
-        89,
-        83,
-        85,
-        55,
-        93
-      ],
-      "hasDynamicImage": true,
-      "price": 22750,
-      "resourceId": 50557950,
-      "assetId": 226302
-    },
     "50558985": {
       "name": "Svenja Huth",
       "cardName": "Huth",
@@ -157,7 +107,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 19500,
       "resourceId": 50573495,
       "assetId": 241847
     },
@@ -275,7 +225,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 21500,
+      "price": 20750,
       "resourceId": 50596582,
       "assetId": 264934
     },
@@ -371,7 +321,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 15250,
+      "price": 14250,
       "resourceId": 50596711,
       "assetId": 265063
     },
@@ -416,9 +366,73 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 29250,
+      "price": 26500,
       "resourceId": 50597057,
       "assetId": 265409
+    },
+    "67335166": {
+      "name": "Alexandra Popp",
+      "cardName": "Popp",
+      "originalVersionId": "25",
+      "clubId": 115998,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "25",
+      "rating": 93,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        2,
+        20,
+        28,
+        29,
+        4,
+        5
+      ],
+      "playStylesPlus": [
+        0,
+        6,
+        9
+      ],
+      "rolesPlus": [
+        19,
+        20,
+        21,
+        31,
+        34,
+        37,
+        118,
+        122,
+        132,
+        133,
+        135,
+        136,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        90,
+        93,
+        90,
+        92,
+        60,
+        96
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 52500,
+      "resourceId": 67335166,
+      "assetId": 226302
     },
     "67349581": {
       "name": "Lineth Beerensteyn",
@@ -521,7 +535,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 34750,
+      "price": 38500,
       "resourceId": 67373921,
       "assetId": 265057
     }

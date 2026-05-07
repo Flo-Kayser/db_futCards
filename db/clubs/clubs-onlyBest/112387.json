@@ -192,7 +192,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 750,
       "resourceId": 238160,
       "assetId": 238160
     },
@@ -230,7 +230,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 5000,
       "resourceId": 240068,
       "assetId": 240068
     },
@@ -268,7 +268,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 3000,
       "resourceId": 242245,
       "assetId": 242245
     },
@@ -339,7 +339,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 5100,
       "resourceId": 245269,
       "assetId": 245269
     },
@@ -448,7 +448,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 0,
       "resourceId": 261190,
       "assetId": 261190
     },
@@ -486,7 +486,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 10000,
       "resourceId": 262272,
       "assetId": 262272
     },
@@ -559,7 +559,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 200,
       "resourceId": 263867,
       "assetId": 263867
     },
@@ -596,7 +596,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 900,
       "resourceId": 264203,
       "assetId": 264203
     },
@@ -636,7 +636,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 2400,
       "resourceId": 270331,
       "assetId": 270331
     },
@@ -671,7 +671,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 3100,
       "resourceId": 275549,
       "assetId": 275549
     },
@@ -708,7 +708,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 2600,
       "resourceId": 275561,
       "assetId": 275561
     },
@@ -743,7 +743,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 200,
       "resourceId": 277318,
       "assetId": 277318
     },
@@ -777,7 +777,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 650,
       "resourceId": 277459,
       "assetId": 277459
     },
@@ -815,7 +815,7 @@
         39
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 200,
       "resourceId": 277475,
       "assetId": 277475
     },
@@ -853,7 +853,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 3900,
       "resourceId": 277488,
       "assetId": 277488
     },
@@ -902,7 +902,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 21500,
+      "price": 21000,
       "resourceId": 50543876,
       "assetId": 212228
     },
@@ -962,7 +962,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 35000,
       "resourceId": 50570193,
       "assetId": 238545
     },
@@ -1067,48 +1067,9 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 18000,
       "resourceId": 50583907,
       "assetId": 252259
-    },
-    "50606785": {
-      "name": "Valentin Atangana",
-      "cardName": "Atangana",
-      "originalVersionId": "1",
-      "clubId": 112387,
-      "leagueId": 350,
-      "countryId": 18,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        13
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        14,
-        17,
-        18
-      ],
-      "attributes": [
-        66,
-        55,
-        67,
-        74,
-        70,
-        66
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50606785,
-      "assetId": 275137
     },
     "67313349": {
       "name": "Riyad Mahrez",
@@ -1157,7 +1118,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 113000,
+      "price": 133000,
       "resourceId": 67313349,
       "assetId": 204485
     },
@@ -1206,9 +1167,57 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 95000,
+      "price": 85000,
       "resourceId": 67356121,
       "assetId": 247257
+    },
+    "67384001": {
+      "name": "Valentin Atangana",
+      "cardName": "Atangana",
+      "originalVersionId": "65",
+      "clubId": 112387,
+      "leagueId": 350,
+      "countryId": 18,
+      "versionId": "65",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        13,
+        14,
+        17,
+        9
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        16,
+        17,
+        18,
+        20,
+        114,
+        119
+      ],
+      "attributes": [
+        67,
+        56,
+        70,
+        75,
+        74,
+        70
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 67384001,
+      "assetId": 275137
     }
   }
 }
