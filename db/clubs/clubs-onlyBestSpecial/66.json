@@ -51,99 +51,54 @@
       "resourceId": 50542904,
       "assetId": 211256
     },
-    "50551331": {
-      "name": "Corentin Tolisso",
-      "cardName": "Tolisso",
-      "originalVersionId": "150",
+    "50557507": {
+      "name": "Moussa Niakhaté",
+      "cardName": "Niakhaté",
+      "originalVersionId": "65",
       "clubId": 66,
       "leagueId": 16,
-      "countryId": 18,
-      "versionId": "150",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
+      "countryId": 136,
+      "versionId": "65",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
       "skillMoves": 3,
-      "preferredPosition": "CM",
+      "preferredPosition": "CB",
       "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
+        "CB"
       ],
       "playStyles": [
-        19,
-        22,
-        26,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
+        14,
         16,
-        19,
-        21,
-        22,
-        118
-      ],
-      "attributes": [
-        75,
-        81,
-        81,
-        80,
-        80,
-        85
-      ],
-      "hasDynamicImage": true,
-      "price": 22500,
-      "resourceId": 50551331,
-      "assetId": 219683
-    },
-    "50578698": {
-      "name": "Pavel Šulc",
-      "cardName": "Šulc",
-      "originalVersionId": "3",
-      "clubId": 66,
-      "leagueId": 16,
-      "countryId": 12,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LM",
-        "RM",
-        "ST"
-      ],
-      "playStyles": [
-        20,
-        22,
-        26,
-        7,
+        27,
+        28,
+        4,
+        8,
         9
       ],
       "playStylesPlus": [
-        6
+        15,
+        17,
+        19
       ],
       "rolesPlus": [
-        28,
-        121,
-        131,
-        141
+        111,
+        112,
+        113,
+        148
       ],
       "attributes": [
-        82,
-        86,
-        83,
-        87,
-        50,
-        75
+        88,
+        60,
+        80,
+        81,
+        91,
+        94
       ],
+      "isObjective": true,
       "hasDynamicImage": true,
-      "price": 38000,
-      "resourceId": 50578698,
-      "assetId": 247050
+      "resourceId": 50557507,
+      "assetId": 225859
     },
     "50593750": {
       "name": "Ruben Kluivert",
@@ -188,7 +143,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 26000,
+      "price": 40000,
       "resourceId": 50593750,
       "assetId": 262102
     },
@@ -287,9 +242,70 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 34500,
+      "price": 30000,
       "resourceId": 50608549,
       "assetId": 276901
+    },
+    "67328547": {
+      "name": "Corentin Tolisso",
+      "cardName": "Tolisso",
+      "originalVersionId": "11",
+      "clubId": 66,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        14,
+        20,
+        22,
+        25,
+        26,
+        8
+      ],
+      "playStylesPlus": [
+        16,
+        24,
+        6
+      ],
+      "rolesPlus": [
+        15,
+        17,
+        32,
+        33,
+        49,
+        114,
+        116,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        134
+      ],
+      "attributes": [
+        90,
+        91,
+        91,
+        90,
+        90,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 70500,
+      "resourceId": 67328547,
+      "assetId": 219683
     },
     "67349566": {
       "name": "Roman Yaremchuk",
@@ -336,9 +352,79 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 27000,
       "resourceId": 67349566,
       "assetId": 240702
+    },
+    "67355914": {
+      "name": "Pavel Šulc",
+      "cardName": "Šulc",
+      "originalVersionId": "11",
+      "clubId": 66,
+      "leagueId": 16,
+      "countryId": 12,
+      "versionId": "11",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        22,
+        25,
+        6,
+        7,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        11,
+        20
+      ],
+      "rolesPlus": [
+        19,
+        20,
+        22,
+        24,
+        25,
+        28,
+        29,
+        33,
+        34,
+        118,
+        121,
+        123,
+        126,
+        127,
+        130,
+        131,
+        132,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        90,
+        91,
+        90,
+        92,
+        55,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 38000,
+      "resourceId": 67355914,
+      "assetId": 247050
     },
     "67374323": {
       "name": "Tyler Morton",
@@ -378,21 +464,21 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 34750,
+      "price": 39750,
       "resourceId": 67374323,
       "assetId": 265459
     },
-    "100935801": {
+    "134490233": {
       "name": "Endrick",
       "cardName": "Endrick",
-      "originalVersionId": "111",
+      "originalVersionId": "120",
       "clubId": 66,
       "leagueId": 16,
       "countryId": 54,
-      "versionId": "111",
-      "rating": 91,
+      "versionId": "120",
+      "rating": 93,
       "preferredFoot": "Left",
-      "weakFoot": 5,
+      "weakFoot": 4,
       "skillMoves": 5,
       "preferredPosition": "ST",
       "possiblePositions": [
@@ -400,40 +486,39 @@
         "ST"
       ],
       "playStyles": [
-        11,
         2,
         20,
         21,
-        22,
         23,
-        25,
         6,
-        7
+        7,
+        8
       ],
       "playStylesPlus": [
         0,
-        8
+        22,
+        25
       ],
       "rolesPlus": [
-        36,
-        43,
-        44,
+        37,
         135,
-        137,
+        136,
         141,
-        142
+        142,
+        143,
+        144
       ],
       "attributes": [
-        94,
-        91,
-        85,
-        91,
-        46,
-        85
+        95,
+        92,
+        88,
+        92,
+        50,
+        88
       ],
       "hasDynamicImage": true,
-      "price": 1750000,
-      "resourceId": 100935801,
+      "price": 2185000,
+      "resourceId": 134490233,
       "assetId": 272505
     }
   }

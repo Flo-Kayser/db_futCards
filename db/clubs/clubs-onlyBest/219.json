@@ -67,7 +67,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 0,
       "resourceId": 72098,
       "assetId": 72098
     },
@@ -101,7 +101,7 @@
         46
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 1500,
       "resourceId": 74959,
       "assetId": 74959
     },
@@ -135,7 +135,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 5100,
       "resourceId": 76410,
       "assetId": 76410
     },
@@ -178,7 +178,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 201455,
       "assetId": 201455
     },
@@ -330,7 +330,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 3700,
+      "price": 9900,
       "resourceId": 232097,
       "assetId": 232097
     },
@@ -367,7 +367,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 7000,
       "resourceId": 235875,
       "assetId": 235875
     },
@@ -409,7 +409,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 236804,
       "assetId": 236804
     },
@@ -446,7 +446,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 10000,
       "resourceId": 237841,
       "assetId": 237841
     },
@@ -483,7 +483,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2000,
       "resourceId": 239559,
       "assetId": 239559
     },
@@ -701,7 +701,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 300,
       "resourceId": 263602,
       "assetId": 263602
     },
@@ -845,7 +845,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 4900,
       "resourceId": 50410072,
       "assetId": 78424
     },
@@ -926,7 +926,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 299000,
+      "price": 309000,
       "resourceId": 50545296,
       "assetId": 213648
     },
@@ -1013,7 +1013,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 25500,
+      "price": 27000,
       "resourceId": 50572155,
       "assetId": 240507
     },
@@ -1056,7 +1056,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 4200,
+      "price": 4300,
       "resourceId": 50572382,
       "assetId": 240734
     },
@@ -1101,7 +1101,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 31750,
+      "price": 32250,
       "resourceId": 50572401,
       "assetId": 240753
     },
@@ -1154,7 +1154,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 28500,
+      "price": 33750,
       "resourceId": 50573144,
       "assetId": 241496
     },
@@ -1198,7 +1198,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 350,
       "resourceId": 50577945,
       "assetId": 246297
     },
@@ -1283,7 +1283,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 70500,
       "resourceId": 67324180,
       "assetId": 215316
     },
@@ -1330,7 +1330,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 26750,
       "resourceId": 67349651,
       "assetId": 240787
     },
@@ -1466,46 +1466,9 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 28500,
+      "price": 32250,
       "resourceId": 67380264,
       "assetId": 271400
-    },
-    "84074647": {
-      "name": "Pierre-Emerick Aubameyang",
-      "cardName": "Aubameyang",
-      "originalVersionId": "30",
-      "clubId": 219,
-      "leagueId": 16,
-      "countryId": 115,
-      "versionId": "30",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        43,
-        141,
-        142,
-        144
-      ],
-      "attributes": [
-        94,
-        90,
-        83,
-        88,
-        45,
-        74
-      ],
-      "hasDynamicImage": true,
-      "price": 126000,
-      "resourceId": 84074647,
-      "assetId": 188567
     },
     "84112931": {
       "name": "Benjamin Pavard",
@@ -1550,7 +1513,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 34750,
       "resourceId": 84112931,
       "assetId": 226851
     },
@@ -1671,9 +1634,58 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 117000,
+      "price": 135000,
       "resourceId": 84157887,
       "assetId": 271807
+    },
+    "100851863": {
+      "name": "Pierre-Emerick Aubameyang",
+      "cardName": "Aubameyang",
+      "originalVersionId": "11",
+      "clubId": 219,
+      "leagueId": 16,
+      "countryId": 115,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        20,
+        22,
+        23,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        21,
+        25,
+        6
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        95,
+        93,
+        85,
+        91,
+        48,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 310000,
+      "resourceId": 100851863,
+      "assetId": 188567
     }
   }
 }

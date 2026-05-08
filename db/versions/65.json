@@ -1,4 +1,57 @@
 {
+  "50403142": {
+    "name": "Emma Sears",
+    "cardName": "Sears",
+    "originalVersionId": "65",
+    "clubId": 116308,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "65",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      11,
+      12,
+      18,
+      4,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      20,
+      21,
+      6
+    ],
+    "rolesPlus": [
+      37,
+      123,
+      124,
+      125,
+      126,
+      135,
+      136
+    ],
+    "attributes": [
+      95,
+      89,
+      88,
+      91,
+      60,
+      85
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50403142,
+    "assetId": 71494
+  },
   "50410342": {
     "name": "Lotta Wrede",
     "cardName": "Wrede",
@@ -246,6 +299,111 @@
     "resourceId": 50548083,
     "assetId": 216435
   },
+  "50555522": {
+    "name": "Valentin Rongier",
+    "cardName": "Rongier",
+    "originalVersionId": "65",
+    "clubId": 74,
+    "leagueId": 16,
+    "countryId": 18,
+    "versionId": "65",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      17,
+      20,
+      25,
+      26,
+      28,
+      8
+    ],
+    "playStylesPlus": [
+      16,
+      24,
+      9
+    ],
+    "rolesPlus": [
+      18,
+      21,
+      22,
+      114,
+      115,
+      116,
+      117,
+      119,
+      120,
+      149
+    ],
+    "attributes": [
+      88,
+      80,
+      88,
+      90,
+      89,
+      91
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50555522,
+    "assetId": 223874
+  },
+  "50557507": {
+    "name": "Moussa Niakhaté",
+    "cardName": "Niakhaté",
+    "originalVersionId": "65",
+    "clubId": 66,
+    "leagueId": 16,
+    "countryId": 136,
+    "versionId": "65",
+    "rating": 91,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      16,
+      27,
+      28,
+      4,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      15,
+      17,
+      19
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      88,
+      60,
+      80,
+      81,
+      91,
+      94
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50557507,
+    "assetId": 225859
+  },
   "50559893": {
     "name": "Marvin Wanitzek",
     "cardName": "Wanitzek",
@@ -302,7 +460,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 20000,
+    "sbcPrice": 22000,
     "resourceId": 50559893,
     "assetId": 228245
   },
@@ -374,7 +532,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 60000,
+    "sbcPrice": 66500,
     "resourceId": 50563262,
     "assetId": 231614
   },
@@ -1071,7 +1229,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 20000,
+    "sbcPrice": 22250,
     "resourceId": 50608015,
     "assetId": 276367
   },
@@ -1126,6 +1284,53 @@
     "hasDynamicImage": true,
     "resourceId": 50608020,
     "assetId": 276372
+  },
+  "67180964": {
+    "name": "Arsène Kouassi",
+    "cardName": "Kouassi",
+    "originalVersionId": "65",
+    "clubId": 217,
+    "leagueId": 16,
+    "countryId": 101,
+    "versionId": "65",
+    "rating": 74,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      12,
+      16,
+      24,
+      25,
+      9
+    ],
+    "playStylesPlus": [
+      14
+    ],
+    "rolesPlus": [
+      7,
+      29,
+      47,
+      109,
+      128
+    ],
+    "attributes": [
+      74,
+      48,
+      65,
+      75,
+      74,
+      77
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67180964,
+    "assetId": 72100
   },
   "67184073": {
     "name": "Jovo Lukić",
@@ -1235,7 +1440,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 181000,
+    "sbcPrice": 223000,
     "resourceId": 67292762,
     "assetId": 183898
   },
@@ -1344,7 +1549,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 503750,
+    "sbcPrice": 573250,
     "price": 334300,
     "resourceId": 67297214,
     "assetId": 188350
@@ -1401,7 +1606,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 58500,
+    "sbcPrice": 72250,
     "price": 65300,
     "resourceId": 67316303,
     "assetId": 207439
@@ -1506,7 +1711,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 243000,
+    "sbcPrice": 275500,
     "resourceId": 67341520,
     "assetId": 232656
   },
@@ -1856,7 +2061,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 541000,
+    "sbcPrice": 508250,
     "resourceId": 67375730,
     "assetId": 266866
   },
@@ -2100,7 +2305,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 736500,
+    "sbcPrice": 876750,
     "price": 0,
     "resourceId": 84086184,
     "assetId": 200104
@@ -2154,7 +2359,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 46750,
+    "sbcPrice": 60250,
     "resourceId": 84094498,
     "assetId": 208418
   },
@@ -2424,7 +2629,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 741500,
+    "sbcPrice": 835500,
     "price": 598400,
     "resourceId": 84129094,
     "assetId": 243014
@@ -2538,7 +2743,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 291000,
+    "sbcPrice": 355000,
     "resourceId": 84142159,
     "assetId": 256079
   },
@@ -2648,7 +2853,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 49000,
+    "sbcPrice": 64250,
     "resourceId": 84151016,
     "assetId": 264936
   },
@@ -2700,6 +2905,62 @@
     "hasDynamicImage": true,
     "resourceId": 84151657,
     "assetId": 265577
+  },
+  "84153464": {
+    "name": "Taylor Flint",
+    "cardName": "Flint",
+    "originalVersionId": "65",
+    "clubId": 116308,
+    "leagueId": 2221,
+    "countryId": 95,
+    "versionId": "65",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      11,
+      17,
+      20,
+      28,
+      4,
+      6,
+      9
+    ],
+    "playStylesPlus": [
+      16,
+      19,
+      8
+    ],
+    "rolesPlus": [
+      19,
+      21,
+      22,
+      114,
+      115,
+      116,
+      117,
+      118,
+      120,
+      149
+    ],
+    "attributes": [
+      86,
+      88,
+      91,
+      89,
+      89,
+      93
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 84153464,
+    "assetId": 267384
   },
   "84157610": {
     "name": "Dom Ballard",
@@ -2924,7 +3185,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 53500,
+    "sbcPrice": 70500,
     "resourceId": 100878737,
     "assetId": 215441
   },
@@ -2979,7 +3240,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 360250,
+    "sbcPrice": 422500,
     "price": 0,
     "resourceId": 100885373,
     "assetId": 222077
@@ -3033,6 +3294,63 @@
     "price": 0,
     "resourceId": 100909198,
     "assetId": 245902
+  },
+  "100910931": {
+    "name": "Khvicha Kvaratskhelia",
+    "cardName": "Kvaratskhelia",
+    "originalVersionId": "65",
+    "clubId": 73,
+    "leagueId": 16,
+    "countryId": 20,
+    "versionId": "65",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RW"
+    ],
+    "playStyles": [
+      13,
+      20,
+      23,
+      25,
+      6,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      21,
+      7
+    ],
+    "rolesPlus": [
+      28,
+      29,
+      37,
+      127,
+      130,
+      135,
+      136,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      94,
+      92,
+      91,
+      94,
+      67,
+      88
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 857500,
+    "resourceId": 100910931,
+    "assetId": 247635
   },
   "100922276": {
     "name": "Alessia Russo",
@@ -3205,7 +3523,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 741500,
+    "sbcPrice": 835500,
     "price": 0,
     "resourceId": 134417873,
     "assetId": 200145

@@ -1,48 +1,6 @@
 {
   "clubName": "Rac. Louisville",
   "players": {
-    "71494": {
-      "name": "Emma Sears",
-      "cardName": "Sears",
-      "originalVersionId": "0",
-      "clubId": 116308,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        12,
-        19,
-        21,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        35,
-        36
-      ],
-      "attributes": [
-        87,
-        69,
-        70,
-        74,
-        44,
-        68
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 71494,
-      "assetId": 71494
-    },
     "71612": {
       "name": "Cristina Roque",
       "cardName": "Roque",
@@ -73,7 +31,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 10000,
       "resourceId": 71612,
       "assetId": 71612
     },
@@ -107,7 +65,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 10000,
       "resourceId": 72782,
       "assetId": 72782
     },
@@ -141,7 +99,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 4900,
       "resourceId": 76325,
       "assetId": 76325
     },
@@ -210,7 +168,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 10000,
       "resourceId": 76619,
       "assetId": 76619
     },
@@ -319,7 +277,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1100,
       "resourceId": 227381,
       "assetId": 227381
     },
@@ -358,7 +316,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 8100,
       "resourceId": 266094,
       "assetId": 266094
     },
@@ -721,7 +679,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 8000,
       "resourceId": 267505,
       "assetId": 267505
     },
@@ -761,7 +719,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 3000,
       "resourceId": 272826,
       "assetId": 272826
     },
@@ -834,7 +792,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 1100,
       "resourceId": 273271,
       "assetId": 273271
     },
@@ -904,7 +862,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 4300,
       "resourceId": 274808,
       "assetId": 274808
     },
@@ -940,9 +898,62 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 277766,
       "assetId": 277766
+    },
+    "50403142": {
+      "name": "Emma Sears",
+      "cardName": "Sears",
+      "originalVersionId": "65",
+      "clubId": 116308,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "65",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        11,
+        12,
+        18,
+        4,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        21,
+        6
+      ],
+      "rolesPlus": [
+        37,
+        123,
+        124,
+        125,
+        126,
+        135,
+        136
+      ],
+      "attributes": [
+        95,
+        89,
+        88,
+        91,
+        60,
+        85
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50403142,
+      "assetId": 71494
     },
     "50407861": {
       "name": "Macey Hodge",
@@ -1081,7 +1092,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 50598917,
       "assetId": 267269
     },
@@ -1121,47 +1132,60 @@
       "resourceId": 50611556,
       "assetId": 279908
     },
-    "67376248": {
+    "84153464": {
       "name": "Taylor Flint",
       "cardName": "Flint",
-      "originalVersionId": "30",
+      "originalVersionId": "65",
       "clubId": 116308,
       "leagueId": 2221,
       "countryId": 95,
-      "versionId": "30",
-      "rating": 88,
+      "versionId": "65",
+      "rating": 91,
       "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
+      "weakFoot": 4,
+      "skillMoves": 4,
       "preferredPosition": "CDM",
       "possiblePositions": [
         "CDM",
         "CM"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        14,
-        15,
+      "playStyles": [
+        11,
         17,
+        20,
+        28,
+        4,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        16,
         19,
+        8
+      ],
+      "rolesPlus": [
+        19,
+        21,
+        22,
+        114,
+        115,
         116,
+        117,
         118,
         120,
-        121,
         149
       ],
       "attributes": [
-        84,
-        85,
+        86,
         88,
-        87,
-        87,
-        91
+        91,
+        89,
+        89,
+        93
       ],
+      "isObjective": true,
       "hasDynamicImage": true,
-      "price": 299000,
-      "resourceId": 67376248,
+      "resourceId": 84153464,
       "assetId": 267384
     }
   }

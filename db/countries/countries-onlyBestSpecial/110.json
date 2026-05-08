@@ -1,52 +1,4 @@
 {
-  "50408698": {
-    "name": "Merveille Kanjinga",
-    "cardName": "Kanjinga",
-    "originalVersionId": "3",
-    "clubId": 116034,
-    "leagueId": 2218,
-    "countryId": 110,
-    "versionId": "3",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "RW",
-    "possiblePositions": [
-      "CAM",
-      "RM",
-      "RW",
-      "ST"
-    ],
-    "playStyles": [
-      11,
-      2,
-      24,
-      29,
-      4
-    ],
-    "playStylesPlus": [
-      6
-    ],
-    "rolesPlus": [
-      43,
-      132,
-      135,
-      141
-    ],
-    "attributes": [
-      85,
-      86,
-      70,
-      84,
-      40,
-      86
-    ],
-    "hasDynamicImage": true,
-    "price": 29750,
-    "resourceId": 50408698,
-    "assetId": 77050
-  },
   "50530599": {
     "name": "Cédric Bakambu",
     "cardName": "Bakambu",
@@ -89,7 +41,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 24250,
+    "price": 22000,
     "resourceId": 50530599,
     "assetId": 198951
   },
@@ -179,9 +131,63 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 98000,
+    "price": 84000,
     "resourceId": 50561528,
     "assetId": 229880
+  },
+  "67185914": {
+    "name": "Merveille Kanjinga",
+    "cardName": "Kanjinga",
+    "originalVersionId": "11",
+    "clubId": 116034,
+    "leagueId": 2218,
+    "countryId": 110,
+    "versionId": "11",
+    "rating": 96,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      2,
+      24,
+      25,
+      29,
+      4
+    ],
+    "playStylesPlus": [
+      21,
+      6,
+      8
+    ],
+    "rolesPlus": [
+      33,
+      34,
+      131,
+      132,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      93,
+      96,
+      92,
+      94,
+      48,
+      92
+    ],
+    "hasDynamicImage": true,
+    "price": 849000,
+    "resourceId": 67185914,
+    "assetId": 77050
   },
   "67360396": {
     "name": "Meschack Elia",
@@ -220,7 +226,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 29250,
+    "price": 32500,
     "resourceId": 67360396,
     "assetId": 251532
   },

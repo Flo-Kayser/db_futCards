@@ -30,7 +30,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 650,
     "resourceId": 70273,
     "assetId": 70273
   },
@@ -100,7 +100,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 600,
     "resourceId": 72100,
     "assetId": 72100
   },
@@ -250,7 +250,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 700,
     "resourceId": 75320,
     "assetId": 75320
   },
@@ -506,7 +506,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 700,
     "resourceId": 247263,
     "assetId": 247263
   },
@@ -656,7 +656,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 2200,
     "resourceId": 261422,
     "assetId": 261422
   },
@@ -885,7 +885,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 0,
+    "price": 200,
     "resourceId": 276756,
     "assetId": 276756
   },
@@ -971,7 +971,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 27000,
+    "price": 45000,
     "resourceId": 50403748,
     "assetId": 72100
   },
@@ -1064,7 +1064,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 32250,
+    "price": 34500,
     "resourceId": 50406968,
     "assetId": 75320
   },
@@ -1107,6 +1107,52 @@
     "resourceId": 50539596,
     "assetId": 207948
   },
+  "50570990": {
+    "name": "Hervé Koffi",
+    "cardName": "Koffi",
+    "originalVersionId": "11",
+    "clubId": 1530,
+    "leagueId": 16,
+    "countryId": 101,
+    "versionId": "11",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      10,
+      31,
+      32,
+      33,
+      34
+    ],
+    "playStylesPlus": [
+      30,
+      35,
+      9
+    ],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      96,
+      91,
+      90,
+      97,
+      76,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 120000,
+    "resourceId": 50570990,
+    "assetId": 239342
+  },
   "50578911": {
     "name": "Edmond Tapsoba",
     "cardName": "Tapsoba",
@@ -1147,7 +1193,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 28500,
+    "price": 27500,
     "resourceId": 50578911,
     "assetId": 247263
   },
@@ -1275,9 +1321,56 @@
       71
     ],
     "hasDynamicImage": true,
-    "price": 25500,
+    "price": 29000,
     "resourceId": 50597200,
     "assetId": 265552
+  },
+  "67180964": {
+    "name": "Arsène Kouassi",
+    "cardName": "Kouassi",
+    "originalVersionId": "65",
+    "clubId": 217,
+    "leagueId": 16,
+    "countryId": 101,
+    "versionId": "65",
+    "rating": 74,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      12,
+      16,
+      24,
+      25,
+      9
+    ],
+    "playStylesPlus": [
+      14
+    ],
+    "rolesPlus": [
+      7,
+      29,
+      47,
+      109,
+      128
+    ],
+    "attributes": [
+      74,
+      48,
+      65,
+      75,
+      74,
+      77
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67180964,
+    "assetId": 72100
   },
   "67181243": {
     "name": "Georgi Minoungou",
@@ -1347,7 +1440,7 @@
       50
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 200,
     "resourceId": 83958459,
     "assetId": 72379
   }

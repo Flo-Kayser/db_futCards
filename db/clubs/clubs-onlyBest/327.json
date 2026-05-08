@@ -272,7 +272,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 8000,
       "resourceId": 212814,
       "assetId": 212814
     },
@@ -935,7 +935,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 4600,
       "resourceId": 277871,
       "assetId": 277871
     },
@@ -1060,7 +1060,7 @@
         59
       ],
       "hasDynamicImage": true,
-      "price": 34500,
+      "price": 34750,
       "resourceId": 50548195,
       "assetId": 216547
     },
@@ -1173,43 +1173,9 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 50569489,
       "assetId": 237841
-    },
-    "50580360": {
-      "name": "Oh Hyeon Gyu",
-      "cardName": "Oh Hyeon Gyu",
-      "originalVersionId": "0",
-      "clubId": 327,
-      "leagueId": 68,
-      "countryId": 167,
-      "versionId": "2001",
-      "rating": 71,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        44
-      ],
-      "attributes": [
-        78,
-        71,
-        54,
-        67,
-        43,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 50580360,
-      "assetId": 248712
     },
     "50583856": {
       "name": "Rıdvan Yılmaz",
@@ -1569,69 +1535,58 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 22500,
+      "price": 21500,
       "resourceId": 67325724,
       "assetId": 216860
     },
-    "67352109": {
-      "name": "Orkun Kökçü",
-      "cardName": "Kökçü",
-      "originalVersionId": "111",
+    "67357576": {
+      "name": "Oh Hyeon Gyu",
+      "cardName": "Oh Hyeon Gyu",
+      "originalVersionId": "120",
       "clubId": 327,
       "leagueId": 68,
-      "countryId": 48,
-      "versionId": "111",
-      "rating": 89,
+      "countryId": 167,
+      "versionId": "120",
+      "rating": 91,
       "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "CM",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
       "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
+        "ST"
       ],
       "playStyles": [
         0,
-        10,
         11,
-        16,
-        2,
-        28,
-        3
+        20,
+        22,
+        25,
+        29,
+        8
       ],
       "playStylesPlus": [
-        8,
-        9
+        2,
+        21,
+        6
       ],
       "rolesPlus": [
-        114,
-        115,
-        116,
-        117,
-        118,
-        119,
-        120,
-        121,
-        122,
-        131,
-        132,
-        133,
-        134,
-        149
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
-        86,
-        88,
         91,
-        87,
-        81,
-        88
+        91,
+        75,
+        90,
+        63,
+        91
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 65750,
-      "resourceId": 67352109,
-      "assetId": 243245
+      "price": 20000,
+      "resourceId": 67357576,
+      "assetId": 248712
     },
     "67373563": {
       "name": "Kristjan Asllani",
@@ -1672,6 +1627,67 @@
       "price": 350,
       "resourceId": 67373563,
       "assetId": 264699
+    },
+    "84129325": {
+      "name": "Orkun Kökçü",
+      "cardName": "Kökçü",
+      "originalVersionId": "11",
+      "clubId": 327,
+      "leagueId": 68,
+      "countryId": 48,
+      "versionId": "11",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        2,
+        20,
+        21,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        16,
+        22,
+        9
+      ],
+      "rolesPlus": [
+        15,
+        17,
+        32,
+        34,
+        49,
+        114,
+        116,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        133
+      ],
+      "attributes": [
+        91,
+        93,
+        95,
+        92,
+        88,
+        93
+      ],
+      "hasDynamicImage": true,
+      "price": 425000,
+      "resourceId": 84129325,
+      "assetId": 243245
     }
   }
 }

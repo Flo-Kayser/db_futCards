@@ -1,54 +1,6 @@
 {
   "clubName": "Paris SG",
   "players": {
-    "50408698": {
-      "name": "Merveille Kanjinga",
-      "cardName": "Kanjinga",
-      "originalVersionId": "3",
-      "clubId": 116034,
-      "leagueId": 2218,
-      "countryId": 110,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        11,
-        2,
-        24,
-        29,
-        4
-      ],
-      "playStylesPlus": [
-        6
-      ],
-      "rolesPlus": [
-        43,
-        132,
-        135,
-        141
-      ],
-      "attributes": [
-        85,
-        86,
-        70,
-        84,
-        40,
-        86
-      ],
-      "hasDynamicImage": true,
-      "price": 29750,
-      "resourceId": 50408698,
-      "assetId": 77050
-    },
     "50411603": {
       "name": "Noémie Fatier",
       "cardName": "Fatier",
@@ -159,7 +111,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 24750,
+      "price": 26750,
       "resourceId": 50558994,
       "assetId": 227346
     },
@@ -214,7 +166,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 27500,
+      "price": 31500,
       "resourceId": 50578278,
       "assetId": 246630
     },
@@ -267,7 +219,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 22750,
+      "price": 22250,
       "resourceId": 50594105,
       "assetId": 262457
     },
@@ -320,7 +272,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 22750,
+      "price": 22000,
       "resourceId": 50607564,
       "assetId": 275916
     },
@@ -366,9 +318,63 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 12750,
       "resourceId": 50609873,
       "assetId": 278225
+    },
+    "67185914": {
+      "name": "Merveille Kanjinga",
+      "cardName": "Kanjinga",
+      "originalVersionId": "11",
+      "clubId": 116034,
+      "leagueId": 2218,
+      "countryId": 110,
+      "versionId": "11",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        2,
+        24,
+        25,
+        29,
+        4
+      ],
+      "playStylesPlus": [
+        21,
+        6,
+        8
+      ],
+      "rolesPlus": [
+        33,
+        34,
+        131,
+        132,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        96,
+        92,
+        94,
+        48,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 849000,
+      "resourceId": 67185914,
+      "assetId": 77050
     },
     "67335200": {
       "name": "Crystal Dunn",
@@ -479,19 +485,19 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 26750,
+      "price": 31000,
       "resourceId": 67373769,
       "assetId": 264905
     },
-    "67376395": {
+    "84153611": {
       "name": "Romée Leuchter",
       "cardName": "Leuchter",
-      "originalVersionId": "111",
+      "originalVersionId": "11",
       "clubId": 116034,
       "leagueId": 2218,
       "countryId": 34,
-      "versionId": "111",
-      "rating": 90,
+      "versionId": "11",
+      "rating": 96,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 4,
@@ -505,50 +511,51 @@
         0,
         11,
         2,
-        21,
+        22,
         24,
         25,
         8
       ],
       "playStylesPlus": [
         20,
+        21,
         6
       ],
       "rolesPlus": [
+        33,
+        34,
+        40,
         131,
         132,
-        133,
-        134,
         138,
         139,
-        140,
         141,
         142,
         143,
         144
       ],
       "attributes": [
-        99,
-        92,
-        83,
+        95,
+        96,
         90,
-        41,
-        85
+        93,
+        50,
+        88
       ],
       "hasDynamicImage": true,
-      "price": 110000,
-      "resourceId": 67376395,
+      "price": 1900000,
+      "resourceId": 84153611,
       "assetId": 267531
     },
-    "100896958": {
+    "134451390": {
       "name": "Sakina Karchaoui",
       "cardName": "Karchaoui",
-      "originalVersionId": "30",
+      "originalVersionId": "11",
       "clubId": 116034,
       "leagueId": 2218,
       "countryId": 18,
-      "versionId": "30",
-      "rating": 91,
+      "versionId": "11",
+      "rating": 95,
       "preferredFoot": "Left",
       "weakFoot": 5,
       "skillMoves": 5,
@@ -557,38 +564,52 @@
         "CAM",
         "CM",
         "LB",
-        "LW",
-        "RM",
-        "RW"
+        "LW"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        0,
+        12,
+        13,
+        14,
+        16,
+        21,
+        25
+      ],
+      "playStylesPlus": [
+        11,
+        20,
+        8
+      ],
       "rolesPlus": [
+        8,
         9,
-        22,
-        26,
-        33,
-        36,
-        39,
+        32,
+        34,
+        47,
+        107,
         110,
         118,
+        119,
+        120,
         121,
-        123,
+        122,
         131,
-        135,
-        138
+        133,
+        138,
+        139,
+        140
       ],
       "attributes": [
-        93,
-        84,
+        94,
+        90,
+        95,
+        95,
         91,
-        92,
-        86,
-        76
+        87
       ],
       "hasDynamicImage": true,
-      "price": 295000,
-      "resourceId": 100896958,
+      "price": 3192000,
+      "resourceId": 134451390,
       "assetId": 233662
     }
   }

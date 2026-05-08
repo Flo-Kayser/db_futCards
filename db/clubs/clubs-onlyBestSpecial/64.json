@@ -42,63 +42,9 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 32250,
+      "price": 34500,
       "resourceId": 50406968,
       "assetId": 75320
-    },
-    "50540435": {
-      "name": "Adrien Thomasson",
-      "cardName": "Thomasson",
-      "originalVersionId": "33",
-      "clubId": 64,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "33",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        11,
-        20,
-        21,
-        22,
-        24,
-        26,
-        9
-      ],
-      "playStylesPlus": [
-        8
-      ],
-      "rolesPlus": [
-        118,
-        119,
-        120,
-        121,
-        122,
-        131,
-        132,
-        133,
-        134
-      ],
-      "attributes": [
-        75,
-        82,
-        84,
-        85,
-        73,
-        80
-      ],
-      "hasDynamicImage": true,
-      "price": 25500,
-      "resourceId": 50540435,
-      "assetId": 208787
     },
     "50558880": {
       "name": "Florian Sotoca",
@@ -149,22 +95,22 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 26250,
+      "price": 27750,
       "resourceId": 50558880,
       "assetId": 227232
     },
-    "50560884": {
-      "name": "Matthieu Udol",
-      "cardName": "Udol",
-      "originalVersionId": "82",
+    "50567102": {
+      "name": "Malang Sarr",
+      "cardName": "Sarr",
+      "originalVersionId": "11",
       "clubId": 64,
       "leagueId": 16,
       "countryId": 18,
-      "versionId": "82",
-      "rating": 86,
+      "versionId": "11",
+      "rating": 96,
       "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
+      "weakFoot": 5,
+      "skillMoves": 3,
       "preferredPosition": "CB",
       "possiblePositions": [
         "CB",
@@ -172,86 +118,46 @@
         "LM"
       ],
       "playStyles": [
-        12,
-        15,
-        17,
+        10,
+        14,
+        19,
+        22,
+        25,
+        28,
         9
       ],
       "playStylesPlus": [
-        14
+        16,
+        17,
+        18
       ],
       "rolesPlus": [
+        8,
         10,
-        12,
-        48,
+        27,
+        30,
+        47,
+        107,
         109,
         111,
-        113
+        112,
+        113,
+        128,
+        129,
+        148
       ],
       "attributes": [
-        80,
-        65,
-        77,
-        84,
-        86,
-        87
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 19250,
-      "resourceId": 50560884,
-      "assetId": 229236
-    },
-    "50590249": {
-      "name": "Mamadou Sangaré",
-      "cardName": "Sangaré",
-      "originalVersionId": "71",
-      "clubId": 64,
-      "leagueId": 16,
-      "countryId": 126,
-      "versionId": "71",
-      "rating": 87,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        13,
-        18,
-        20,
-        26,
-        7
-      ],
-      "playStylesPlus": [
-        16
-      ],
-      "rolesPlus": [
-        14,
-        19,
-        34,
-        49,
-        116,
-        120,
-        121,
-        131
-      ],
-      "attributes": [
-        90,
-        80,
-        85,
         88,
-        85,
-        84
+        65,
+        88,
+        87,
+        96,
+        95
       ],
       "hasDynamicImage": true,
-      "price": 52000,
-      "resourceId": 50590249,
-      "assetId": 258601
+      "price": 950000,
+      "resourceId": 50567102,
+      "assetId": 235454
     },
     "50602645": {
       "name": "Samson Baidoo",
@@ -294,9 +200,110 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 53500,
+      "price": 61000,
       "resourceId": 50602645,
       "assetId": 270997
+    },
+    "50603566": {
+      "name": "Robin Risser",
+      "cardName": "Risser",
+      "originalVersionId": "120",
+      "clubId": 64,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "120",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31,
+        32,
+        33,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        34,
+        35
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        90,
+        91,
+        85,
+        90,
+        70,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 41000,
+      "resourceId": 50603566,
+      "assetId": 271918
+    },
+    "67317651": {
+      "name": "Adrien Thomasson",
+      "cardName": "Thomasson",
+      "originalVersionId": "11",
+      "clubId": 64,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        10,
+        16,
+        20,
+        21,
+        26,
+        6
+      ],
+      "playStylesPlus": [
+        11,
+        8,
+        9
+      ],
+      "rolesPlus": [
+        33,
+        34,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132
+      ],
+      "attributes": [
+        88,
+        90,
+        93,
+        92,
+        85,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 26000,
+      "resourceId": 67317651,
+      "assetId": 208787
     },
     "67321477": {
       "name": "Wesley Saïd",
@@ -346,7 +353,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 26000,
+      "price": 29250,
       "resourceId": 67321477,
       "assetId": 212613
     },
@@ -394,9 +401,130 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 700000,
+      "price": 665000,
       "resourceId": 67325252,
       "assetId": 216388
+    },
+    "67367465": {
+      "name": "Mamadou Sangaré",
+      "cardName": "Sangaré",
+      "originalVersionId": "11",
+      "clubId": 64,
+      "leagueId": 16,
+      "countryId": 126,
+      "versionId": "11",
+      "rating": 96,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        13,
+        18,
+        26,
+        28,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        16,
+        20,
+        9
+      ],
+      "rolesPlus": [
+        15,
+        17,
+        32,
+        49,
+        114,
+        116,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        133,
+        134
+      ],
+      "attributes": [
+        96,
+        90,
+        94,
+        96,
+        92,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 3800000,
+      "resourceId": 67367465,
+      "assetId": 258601
+    },
+    "84115316": {
+      "name": "Matthieu Udol",
+      "cardName": "Udol",
+      "originalVersionId": "11",
+      "clubId": 64,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "11",
+      "rating": 93,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        17,
+        20,
+        21,
+        22,
+        28
+      ],
+      "playStylesPlus": [
+        12,
+        14,
+        9
+      ],
+      "rolesPlus": [
+        13,
+        29,
+        30,
+        48,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        127,
+        128,
+        147
+      ],
+      "attributes": [
+        90,
+        75,
+        91,
+        91,
+        94,
+        94
+      ],
+      "hasDynamicImage": true,
+      "price": 105000,
+      "resourceId": 84115316,
+      "assetId": 229236
     },
     "84119946": {
       "name": "Odsonne Edouard",
@@ -446,57 +574,67 @@
       "resourceId": 84119946,
       "assetId": 233866
     },
-    "134422698": {
+    "151199914": {
       "name": "Florian Thauvin",
       "cardName": "Thauvin",
-      "originalVersionId": "79",
+      "originalVersionId": "11",
       "clubId": 64,
       "leagueId": 16,
       "countryId": 18,
-      "versionId": "79",
-      "rating": 88,
+      "versionId": "11",
+      "rating": 96,
       "preferredFoot": "Left",
       "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
+      "skillMoves": 5,
+      "preferredPosition": "RW",
       "possiblePositions": [
         "CAM",
+        "RM",
+        "RW",
         "ST"
       ],
       "playStyles": [
-        0,
-        13,
+        11,
+        2,
         20,
+        22,
         24,
-        25,
         3,
-        5
+        6
       ],
       "playStylesPlus": [
-        6,
+        0,
+        21,
         9
       ],
       "rolesPlus": [
+        24,
         31,
-        33,
-        42,
+        34,
+        43,
         44,
+        123,
+        125,
+        126,
         132,
-        134,
+        133,
+        135,
+        136,
+        137,
         141,
-        143
+        142
       ],
       "attributes": [
-        88,
-        91,
-        91,
-        92,
-        58,
-        80
+        94,
+        95,
+        95,
+        96,
+        70,
+        88
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 83500,
-      "resourceId": 134422698,
+      "price": 2500000,
+      "resourceId": 151199914,
       "assetId": 204970
     }
   }

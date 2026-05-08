@@ -153,7 +153,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1700,
       "resourceId": 223959,
       "assetId": 223959
     },
@@ -513,7 +513,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 9000,
+      "price": 7000,
       "resourceId": 259675,
       "assetId": 259675
     },
@@ -854,51 +854,9 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 29500,
       "resourceId": 50533047,
       "assetId": 201399
-    },
-    "50552441": {
-      "name": "Davinson Sánchez",
-      "cardName": "Sánchez",
-      "originalVersionId": "50",
-      "clubId": 325,
-      "leagueId": 68,
-      "countryId": 56,
-      "versionId": "50",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        15,
-        18,
-        19,
-        28
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        13,
-        48,
-        112
-      ],
-      "attributes": [
-        84,
-        60,
-        67,
-        76,
-        85,
-        90
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 69500,
-      "price": 102800,
-      "resourceId": 50552441,
-      "assetId": 220793
     },
     "50557948": {
       "name": "Uğurcan Çakır",
@@ -1028,7 +986,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 650,
       "resourceId": 50579914,
       "assetId": 248266
     },
@@ -1169,9 +1127,58 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 83500,
+      "price": 83000,
       "resourceId": 67321675,
       "assetId": 212811
+    },
+    "67329657": {
+      "name": "Davinson Sánchez",
+      "cardName": "Sánchez",
+      "originalVersionId": "11",
+      "clubId": 325,
+      "leagueId": 68,
+      "countryId": 56,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        15,
+        16,
+        28,
+        4,
+        9
+      ],
+      "playStylesPlus": [
+        17,
+        19,
+        25
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        91,
+        70,
+        80,
+        84,
+        92,
+        93
+      ],
+      "hasDynamicImage": true,
+      "price": 83000,
+      "resourceId": 67329657,
+      "assetId": 220793
     },
     "67348244": {
       "name": "Noa Lang",
@@ -1276,122 +1283,6 @@
       "resourceId": 67361666,
       "assetId": 252802
     },
-    "67379435": {
-      "name": "Gabriel Sara",
-      "cardName": "Gabriel Sara",
-      "originalVersionId": "8",
-      "clubId": 325,
-      "leagueId": 68,
-      "countryId": 54,
-      "versionId": "8",
-      "rating": 89,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM",
-        "RM"
-      ],
-      "playStyles": [
-        10,
-        13,
-        16,
-        2,
-        3,
-        6,
-        9
-      ],
-      "playStylesPlus": [
-        0,
-        8
-      ],
-      "rolesPlus": [
-        14,
-        17,
-        19,
-        22,
-        23,
-        33,
-        116,
-        118,
-        120,
-        126,
-        134,
-        149
-      ],
-      "attributes": [
-        85,
-        85,
-        92,
-        89,
-        85,
-        87
-      ],
-      "hasDynamicImage": true,
-      "price": 90000,
-      "resourceId": 67379435,
-      "assetId": 270571
-    },
-    "84108572": {
-      "name": "Leroy Sané",
-      "cardName": "Sané",
-      "originalVersionId": "20",
-      "clubId": 325,
-      "leagueId": 68,
-      "countryId": 21,
-      "versionId": "20",
-      "rating": 90,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "LM",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        2,
-        20,
-        22,
-        23,
-        25,
-        7
-      ],
-      "playStylesPlus": [
-        21,
-        6
-      ],
-      "rolesPlus": [
-        25,
-        29,
-        37,
-        123,
-        124,
-        126,
-        127,
-        128,
-        130,
-        135,
-        136
-      ],
-      "attributes": [
-        93,
-        90,
-        88,
-        91,
-        50,
-        84
-      ],
-      "hasDynamicImage": true,
-      "price": 80500,
-      "resourceId": 84108572,
-      "assetId": 222492
-    },
     "84118373": {
       "name": "Victor Osimhen",
       "cardName": "Osimhen",
@@ -1436,9 +1327,133 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 150000,
+      "price": 162000,
       "resourceId": 84118373,
       "assetId": 232293
+    },
+    "84156651": {
+      "name": "Gabriel Sara",
+      "cardName": "Gabriel Sara",
+      "originalVersionId": "11",
+      "clubId": 325,
+      "leagueId": 68,
+      "countryId": 54,
+      "versionId": "11",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        10,
+        16,
+        2,
+        21,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        11,
+        13,
+        8
+      ],
+      "rolesPlus": [
+        15,
+        17,
+        24,
+        25,
+        32,
+        34,
+        49,
+        114,
+        116,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        126,
+        131,
+        133
+      ],
+      "attributes": [
+        90,
+        90,
+        94,
+        93,
+        90,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 214000,
+      "resourceId": 84156651,
+      "assetId": 270571
+    },
+    "100885788": {
+      "name": "Leroy Sané",
+      "cardName": "Sané",
+      "originalVersionId": "11",
+      "clubId": 325,
+      "leagueId": 68,
+      "countryId": 21,
+      "versionId": "11",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        11,
+        2,
+        20,
+        21,
+        6,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        25,
+        7
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        96,
+        94,
+        92,
+        94,
+        60,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 950000,
+      "resourceId": 100885788,
+      "assetId": 222492
     },
     "100926501": {
       "name": "Barış Alper Yılmaz",
@@ -1479,7 +1494,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 0,
+      "price": 400000,
       "resourceId": 100926501,
       "assetId": 263205
     }

@@ -102,7 +102,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 10000,
       "resourceId": 77893,
       "assetId": 77893
     },
@@ -249,7 +249,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1000,
       "resourceId": 243771,
       "assetId": 243771
     },
@@ -290,7 +290,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 6900,
+      "price": 7200,
       "resourceId": 264892,
       "assetId": 264892
     },
@@ -406,7 +406,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 1000,
       "resourceId": 267282,
       "assetId": 267282
     },
@@ -442,7 +442,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 8200,
+      "price": 350,
       "resourceId": 267286,
       "assetId": 267286
     },
@@ -477,7 +477,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 700,
       "resourceId": 267289,
       "assetId": 267289
     },
@@ -554,7 +554,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 2900,
       "resourceId": 267379,
       "assetId": 267379
     },
@@ -631,7 +631,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 8300,
       "resourceId": 268012,
       "assetId": 268012
     },
@@ -746,45 +746,6 @@
       "resourceId": 275981,
       "assetId": 275981
     },
-    "279811": {
-      "name": "Avery Patterson",
-      "cardName": "Patterson",
-      "originalVersionId": "0",
-      "clubId": 116306,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "2001",
-      "rating": 70,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        16,
-        19
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5,
-        24
-      ],
-      "attributes": [
-        63,
-        66,
-        63,
-        75,
-        55,
-        65
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 279811,
-      "assetId": 279811
-    },
     "50402323": {
       "name": "Kiki Van Zanten",
       "cardName": "Van Zanten",
@@ -830,7 +791,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 25500,
+      "price": 25750,
       "resourceId": 50402323,
       "assetId": 70675
     },
@@ -871,7 +832,7 @@
         85
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1800,
       "resourceId": 50558744,
       "assetId": 227096
     },
@@ -1042,7 +1003,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 50599029,
       "assetId": 267381
     },
@@ -1110,9 +1071,64 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 4400,
+      "price": 5100,
       "resourceId": 50606454,
       "assetId": 274806
+    },
+    "50611459": {
+      "name": "Avery Patterson",
+      "cardName": "Patterson",
+      "originalVersionId": "11",
+      "clubId": 116306,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "11",
+      "rating": 93,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        12,
+        16,
+        18,
+        19,
+        20,
+        28
+      ],
+      "playStylesPlus": [
+        17,
+        21,
+        24
+      ],
+      "rolesPlus": [
+        25,
+        26,
+        103,
+        104,
+        105,
+        106,
+        123,
+        124,
+        146
+      ],
+      "attributes": [
+        90,
+        80,
+        86,
+        94,
+        92,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 37000,
+      "resourceId": 50611459,
+      "assetId": 279811
     }
   }
 }

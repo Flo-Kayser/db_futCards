@@ -1,6 +1,51 @@
 {
   "clubName": "Paris FC",
   "players": {
+    "50596513": {
+      "name": "Mylène Chavas",
+      "cardName": "Chavas",
+      "originalVersionId": "11",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "11",
+      "rating": 93,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        31,
+        32
+      ],
+      "playStylesPlus": [
+        33,
+        34,
+        35
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        93,
+        93,
+        90,
+        94,
+        70,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 24750,
+      "resourceId": 50596513,
+      "assetId": 264865
+    },
     "50597509": {
       "name": "Maëlle Garbino",
       "cardName": "Garbino",
@@ -49,52 +94,58 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 20750,
+      "price": 21500,
       "resourceId": 50597509,
       "assetId": 265861
     },
-    "50601459": {
-      "name": "Anaële Le Moguédec",
-      "cardName": "Le Moguédec",
-      "originalVersionId": "30",
+    "50600856": {
+      "name": "Deja Davis",
+      "cardName": "Davis",
+      "originalVersionId": "11",
       "clubId": 116035,
       "leagueId": 2218,
-      "countryId": 18,
-      "versionId": "30",
-      "rating": 88,
+      "countryId": 95,
+      "versionId": "11",
+      "rating": 92,
       "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "CM",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
       "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
+        "CB"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
+      "playStyles": [
+        14,
+        17,
+        18,
         19,
-        20,
-        34,
-        44,
-        118,
-        121,
-        131,
-        143
+        25,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        15,
+        16
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
       ],
       "attributes": [
-        85,
-        80,
         87,
-        88,
-        80,
-        84
+        60,
+        84,
+        87,
+        92,
+        92
       ],
       "hasDynamicImage": true,
-      "price": 17000,
-      "resourceId": 50601459,
-      "assetId": 269811
+      "price": 23000,
+      "resourceId": 50600856,
+      "assetId": 269208
     },
     "50601620": {
       "name": "Lou Bogaert",
@@ -283,9 +334,69 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 850000,
+      "price": 780000,
       "resourceId": 67354561,
       "assetId": 245697
+    },
+    "67378675": {
+      "name": "Anaële Le Moguédec",
+      "cardName": "Le Moguédec",
+      "originalVersionId": "11",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        10,
+        11,
+        20,
+        21,
+        24,
+        9
+      ],
+      "playStylesPlus": [
+        13,
+        6,
+        8
+      ],
+      "rolesPlus": [
+        18,
+        19,
+        20,
+        43,
+        44,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142
+      ],
+      "attributes": [
+        88,
+        89,
+        91,
+        92,
+        87,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 23000,
+      "resourceId": 67378675,
+      "assetId": 269811
     }
   }
 }

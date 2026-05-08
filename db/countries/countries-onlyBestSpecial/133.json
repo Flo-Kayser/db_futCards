@@ -44,7 +44,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 280000,
+    "price": 326000,
     "resourceId": 50332218,
     "assetId": 570
   },
@@ -189,7 +189,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 24750,
+    "price": 20250,
     "resourceId": 50568976,
     "assetId": 237328
   },
@@ -238,7 +238,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 30000,
     "resourceId": 50573419,
     "assetId": 241771
   },
@@ -293,7 +293,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 31500,
     "resourceId": 50578278,
     "assetId": 246630
   },
@@ -339,7 +339,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 19000,
     "resourceId": 50578289,
     "assetId": 246641
   },
@@ -383,7 +383,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 32250,
+    "price": 33500,
     "resourceId": 50600747,
     "assetId": 269099
   },
@@ -478,7 +478,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 22750,
+    "price": 22000,
     "resourceId": 50607564,
     "assetId": 275916
   },
@@ -532,54 +532,6 @@
     "resourceId": 67114543,
     "assetId": 5679
   },
-  "67321246": {
-    "name": "Paul Onuachu",
-    "cardName": "Onuachu",
-    "originalVersionId": "111",
-    "clubId": 436,
-    "leagueId": 68,
-    "countryId": 133,
-    "versionId": "111",
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      19,
-      2,
-      22,
-      29,
-      6,
-      7,
-      9
-    ],
-    "playStylesPlus": [
-      0,
-      4
-    ],
-    "rolesPlus": [
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      90,
-      92,
-      76,
-      86,
-      58,
-      93
-    ],
-    "hasDynamicImage": true,
-    "price": 32250,
-    "resourceId": 67321246,
-    "assetId": 212382
-  },
   "67334583": {
     "name": "Kelechi Iheanacho",
     "cardName": "Iheanacho",
@@ -618,7 +570,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 34750,
     "resourceId": 67334583,
     "assetId": 225719
   },
@@ -662,7 +614,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 32250,
+    "price": 27000,
     "resourceId": 67382428,
     "assetId": 273564
   },
@@ -712,55 +664,54 @@
     "resourceId": 67386316,
     "assetId": 277452
   },
-  "83961061": {
-    "name": "Chibuike Nwaiwu",
-    "cardName": "Nwaiwu",
-    "originalVersionId": "3",
+  "84098462": {
+    "name": "Paul Onuachu",
+    "cardName": "Onuachu",
+    "originalVersionId": "11",
     "clubId": 436,
     "leagueId": 68,
     "countryId": 133,
-    "versionId": "3",
-    "rating": 87,
+    "versionId": "11",
+    "rating": 95,
     "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CB",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
     "possiblePositions": [
-      "CB",
-      "CDM"
+      "ST"
     ],
     "playStyles": [
-      10,
-      15,
-      16,
-      18,
-      28
+      11,
+      19,
+      2,
+      20,
+      21,
+      25,
+      6
     ],
     "playStylesPlus": [
-      17,
-      19
+      0,
+      29,
+      4
     ],
     "rolesPlus": [
-      13,
-      15,
-      17,
-      48,
-      111,
-      112,
-      114
+      141,
+      142,
+      143,
+      144
     ],
     "attributes": [
+      93,
+      95,
       84,
-      50,
-      71,
-      74,
-      87,
-      94
+      91,
+      70,
+      96
     ],
     "hasDynamicImage": true,
-    "price": 26500,
-    "resourceId": 83961061,
-    "assetId": 74981
+    "price": 550000,
+    "resourceId": 84098462,
+    "assetId": 212382
   },
   "84118373": {
     "name": "Victor Osimhen",
@@ -806,8 +757,63 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 150000,
+    "price": 162000,
     "resourceId": 84118373,
     "assetId": 232293
+  },
+  "100738277": {
+    "name": "Chibuike Nwaiwu",
+    "cardName": "Nwaiwu",
+    "originalVersionId": "120",
+    "clubId": 436,
+    "leagueId": 68,
+    "countryId": 133,
+    "versionId": "120",
+    "rating": 90,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM"
+    ],
+    "playStyles": [
+      10,
+      14,
+      16,
+      17,
+      18,
+      21,
+      25
+    ],
+    "playStylesPlus": [
+      19,
+      28,
+      9
+    ],
+    "rolesPlus": [
+      15,
+      17,
+      49,
+      111,
+      112,
+      113,
+      114,
+      116,
+      148
+    ],
+    "attributes": [
+      87,
+      55,
+      80,
+      85,
+      90,
+      96
+    ],
+    "hasDynamicImage": true,
+    "price": 18000,
+    "resourceId": 100738277,
+    "assetId": 74981
   }
 }

@@ -169,7 +169,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 8000,
     "resourceId": 73838,
     "assetId": 73838
   },
@@ -238,7 +238,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 9900,
+    "price": 10000,
     "resourceId": 77338,
     "assetId": 77338
   },
@@ -726,7 +726,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 700,
     "resourceId": 235194,
     "assetId": 235194
   },
@@ -1154,7 +1154,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 248010,
     "assetId": 248010
   },
@@ -1197,7 +1197,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 9900,
     "resourceId": 250816,
     "assetId": 250816
   },
@@ -1465,48 +1465,6 @@
     "resourceId": 260645,
     "assetId": 260645
   },
-  "261195": {
-    "name": "Ernest Muçi",
-    "cardName": "Muçi",
-    "originalVersionId": "0",
-    "clubId": 327,
-    "leagueId": 68,
-    "countryId": 1,
-    "versionId": "2002",
-    "rating": 75,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "CAM",
-      "LM",
-      "LW"
-    ],
-    "playStyles": [
-      22
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      27,
-      28,
-      30,
-      33,
-      39
-    ],
-    "attributes": [
-      78,
-      72,
-      73,
-      77,
-      28,
-      54
-    ],
-    "hasDynamicImage": false,
-    "price": 0,
-    "resourceId": 261195,
-    "assetId": 261195
-  },
   "261204": {
     "name": "Myrto Uzuni",
     "cardName": "Uzuni",
@@ -1615,7 +1573,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 7000,
+    "price": 10000,
     "resourceId": 264467,
     "assetId": 264467
   },
@@ -1906,7 +1864,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 272787,
     "assetId": 272787
   },
@@ -2011,7 +1969,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 1100,
     "resourceId": 277030,
     "assetId": 277030
   },
@@ -2117,7 +2075,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1300,
     "resourceId": 279896,
     "assetId": 279896
   },
@@ -2343,48 +2301,6 @@
     "resourceId": 50582464,
     "assetId": 250816
   },
-  "50592843": {
-    "name": "Ernest Muçi",
-    "cardName": "Muçi",
-    "originalVersionId": "0",
-    "clubId": 436,
-    "leagueId": 68,
-    "countryId": 1,
-    "versionId": "2002",
-    "rating": 75,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "CAM",
-      "LM",
-      "LW"
-    ],
-    "playStyles": [
-      22
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      27,
-      28,
-      30,
-      33,
-      39
-    ],
-    "attributes": [
-      78,
-      72,
-      73,
-      77,
-      28,
-      54
-    ],
-    "hasDynamicImage": false,
-    "price": 350,
-    "resourceId": 50592843,
-    "assetId": 261195
-  },
   "50596115": {
     "name": "Marvin Çuni",
     "cardName": "Çuni",
@@ -2455,7 +2371,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 7500,
     "resourceId": 50596347,
     "assetId": 264699
   },
@@ -2495,7 +2411,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 700,
     "resourceId": 50602867,
     "assetId": 271219
   },
@@ -2577,9 +2493,67 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 23500,
+    "price": 23000,
     "resourceId": 67321015,
     "assetId": 212151
+  },
+  "67370059": {
+    "name": "Ernest Muçi",
+    "cardName": "Muçi",
+    "originalVersionId": "11",
+    "clubId": 436,
+    "leagueId": 68,
+    "countryId": 1,
+    "versionId": "11",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      11,
+      20,
+      22,
+      25,
+      6,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      12,
+      21
+    ],
+    "rolesPlus": [
+      33,
+      34,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      93,
+      91,
+      90,
+      92,
+      50,
+      80
+    ],
+    "hasDynamicImage": true,
+    "price": 33000,
+    "resourceId": 67370059,
+    "assetId": 261195
   },
   "67373563": {
     "name": "Kristjan Asllani",

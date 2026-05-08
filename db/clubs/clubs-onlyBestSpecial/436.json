@@ -1,6 +1,55 @@
 {
   "clubName": "Trabzonspor",
   "players": {
+    "50405943": {
+      "name": "Arseniy Batagov",
+      "cardName": "Batagov",
+      "originalVersionId": "11",
+      "clubId": 436,
+      "leagueId": 68,
+      "countryId": 49,
+      "versionId": "11",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        16,
+        18,
+        19,
+        25,
+        9
+      ],
+      "playStylesPlus": [
+        15,
+        17,
+        28
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        90,
+        62,
+        80,
+        82,
+        94,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 380000,
+      "resourceId": 50405943,
+      "assetId": 74295
+    },
     "50568703": {
       "name": "Oleksandr Zubkov",
       "cardName": "Zubkov",
@@ -42,7 +91,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 30750,
       "resourceId": 50568703,
       "assetId": 237055
     },
@@ -91,19 +140,77 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 30000,
       "resourceId": 50573419,
       "assetId": 241771
     },
-    "67321246": {
+    "67370059": {
+      "name": "Ernest Muçi",
+      "cardName": "Muçi",
+      "originalVersionId": "11",
+      "clubId": 436,
+      "leagueId": 68,
+      "countryId": 1,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        11,
+        20,
+        22,
+        25,
+        6,
+        7,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        12,
+        21
+      ],
+      "rolesPlus": [
+        33,
+        34,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        93,
+        91,
+        90,
+        92,
+        50,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 33000,
+      "resourceId": 67370059,
+      "assetId": 261195
+    },
+    "84098462": {
       "name": "Paul Onuachu",
       "cardName": "Onuachu",
-      "originalVersionId": "111",
+      "originalVersionId": "11",
       "clubId": 436,
       "leagueId": 68,
       "countryId": 133,
-      "versionId": "111",
-      "rating": 88,
+      "versionId": "11",
+      "rating": 95,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 4,
@@ -112,16 +219,17 @@
         "ST"
       ],
       "playStyles": [
+        11,
         19,
         2,
-        22,
-        29,
-        6,
-        7,
-        9
+        20,
+        21,
+        25,
+        6
       ],
       "playStylesPlus": [
         0,
+        29,
         4
       ],
       "rolesPlus": [
@@ -131,29 +239,29 @@
         144
       ],
       "attributes": [
-        90,
-        92,
-        76,
-        86,
-        58,
-        93
+        93,
+        95,
+        84,
+        91,
+        70,
+        96
       ],
       "hasDynamicImage": true,
-      "price": 32250,
-      "resourceId": 67321246,
+      "price": 550000,
+      "resourceId": 84098462,
       "assetId": 212382
     },
-    "83961061": {
+    "100738277": {
       "name": "Chibuike Nwaiwu",
       "cardName": "Nwaiwu",
-      "originalVersionId": "3",
+      "originalVersionId": "120",
       "clubId": 436,
       "leagueId": 68,
       "countryId": 133,
-      "versionId": "3",
-      "rating": 87,
+      "versionId": "120",
+      "rating": 90,
       "preferredFoot": "Right",
-      "weakFoot": 3,
+      "weakFoot": 4,
       "skillMoves": 3,
       "preferredPosition": "CB",
       "possiblePositions": [
@@ -162,35 +270,40 @@
       ],
       "playStyles": [
         10,
-        15,
+        14,
         16,
+        17,
         18,
-        28
+        21,
+        25
       ],
       "playStylesPlus": [
-        17,
-        19
+        19,
+        28,
+        9
       ],
       "rolesPlus": [
-        13,
         15,
         17,
-        48,
+        49,
         111,
         112,
-        114
+        113,
+        114,
+        116,
+        148
       ],
       "attributes": [
-        84,
-        50,
-        71,
-        74,
         87,
-        94
+        55,
+        80,
+        85,
+        90,
+        96
       ],
       "hasDynamicImage": true,
-      "price": 26500,
-      "resourceId": 83961061,
+      "price": 18000,
+      "resourceId": 100738277,
       "assetId": 74981
     }
   }
