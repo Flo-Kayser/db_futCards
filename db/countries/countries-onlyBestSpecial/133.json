@@ -44,7 +44,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 326000,
+    "price": 274000,
     "resourceId": 50332218,
     "assetId": 570
   },
@@ -189,7 +189,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 20250,
+    "price": 20000,
     "resourceId": 50568976,
     "assetId": 237328
   },
@@ -238,7 +238,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 22750,
     "resourceId": 50573419,
     "assetId": 241771
   },
@@ -293,7 +293,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 31500,
+    "price": 27500,
     "resourceId": 50578278,
     "assetId": 246630
   },
@@ -339,7 +339,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 40000,
     "resourceId": 50578289,
     "assetId": 246641
   },
@@ -383,7 +383,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 33500,
+    "price": 27500,
     "resourceId": 50600747,
     "assetId": 269099
   },
@@ -425,7 +425,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 29000,
+    "price": 32500,
     "resourceId": 50603865,
     "assetId": 272217
   },
@@ -478,7 +478,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 23250,
     "resourceId": 50607564,
     "assetId": 275916
   },
@@ -570,7 +570,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 34750,
+    "price": 27500,
     "resourceId": 67334583,
     "assetId": 225719
   },
@@ -614,7 +614,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 27000,
+    "price": 31000,
     "resourceId": 67382428,
     "assetId": 273564
   },
@@ -660,7 +660,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 24750,
+    "price": 26750,
     "resourceId": 67386316,
     "assetId": 277452
   },
@@ -709,57 +709,9 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 550000,
+    "price": 264000,
     "resourceId": 84098462,
     "assetId": 212382
-  },
-  "84118373": {
-    "name": "Victor Osimhen",
-    "cardName": "Osimhen",
-    "originalVersionId": "55",
-    "clubId": 325,
-    "leagueId": 68,
-    "countryId": 133,
-    "versionId": "55",
-    "rating": 90,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      1,
-      11,
-      22,
-      4,
-      5,
-      6
-    ],
-    "playStylesPlus": [
-      21,
-      7
-    ],
-    "rolesPlus": [
-      43,
-      141,
-      142,
-      144
-    ],
-    "attributes": [
-      96,
-      91,
-      73,
-      86,
-      47,
-      88
-    ],
-    "hasDynamicImage": true,
-    "price": 162000,
-    "resourceId": 84118373,
-    "assetId": 232293
   },
   "100738277": {
     "name": "Chibuike Nwaiwu",
@@ -812,8 +764,57 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 16250,
     "resourceId": 100738277,
     "assetId": 74981
+  },
+  "100895589": {
+    "name": "Victor Osimhen",
+    "cardName": "Osimhen",
+    "originalVersionId": "65",
+    "clubId": 325,
+    "leagueId": 68,
+    "countryId": 133,
+    "versionId": "65",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      20,
+      22,
+      4,
+      5,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      21,
+      25,
+      6
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      97,
+      93,
+      81,
+      89,
+      50,
+      91
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 230750,
+    "resourceId": 100895589,
+    "assetId": 232293
   }
 }
