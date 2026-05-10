@@ -1,44 +1,6 @@
 {
   "clubName": "FC Nantes",
   "players": {
-    "72438": {
-      "name": "Maureen Cosson",
-      "cardName": "Cosson",
-      "originalVersionId": "1",
-      "clubId": 116417,
-      "leagueId": 2218,
-      "countryId": 18,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        14,
-        48
-      ],
-      "attributes": [
-        42,
-        38,
-        58,
-        61,
-        75,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 72438,
-      "assetId": 72438
-    },
     "72442": {
       "name": "Nelly Rodrigues",
       "cardName": "Nelly Rodrigues",
@@ -453,7 +415,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 9000,
+      "price": 350,
       "resourceId": 269214,
       "assetId": 269214
     },
@@ -604,6 +566,57 @@
       "resourceId": 273255,
       "assetId": 273255
     },
+    "50404086": {
+      "name": "Maureen Cosson",
+      "cardName": "Cosson",
+      "originalVersionId": "65",
+      "clubId": 116417,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "65",
+      "rating": 74,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        15,
+        16,
+        19,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        17
+      ],
+      "rolesPlus": [
+        12,
+        16,
+        18,
+        48,
+        111,
+        114,
+        119
+      ],
+      "attributes": [
+        70,
+        40,
+        60,
+        62,
+        76,
+        74
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50404086,
+      "assetId": 72438
+    },
     "50405731": {
       "name": "Lucie Calba",
       "cardName": "Calba",
@@ -663,7 +676,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 16250,
       "resourceId": 50405731,
       "assetId": 74083
     },
@@ -711,7 +724,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 14500,
       "resourceId": 50598945,
       "assetId": 267297
     },
@@ -750,7 +763,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 50600862,
       "assetId": 269214
     },
@@ -801,7 +814,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 15750,
       "resourceId": 67354826,
       "assetId": 245962
     },
