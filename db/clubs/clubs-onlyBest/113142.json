@@ -102,7 +102,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 3800,
       "resourceId": 73592,
       "assetId": 73592
     },
@@ -136,7 +136,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 3500,
       "resourceId": 75521,
       "assetId": 75521
     },
@@ -205,7 +205,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 10000,
       "resourceId": 80729,
       "assetId": 80729
     },
@@ -358,42 +358,6 @@
       "price": 0,
       "resourceId": 212692,
       "assetId": 212692
-    },
-    "220620": {
-      "name": "Florent Hadergjonaj",
-      "cardName": "Hadergjonaj",
-      "originalVersionId": "0",
-      "clubId": 113142,
-      "leagueId": 68,
-      "countryId": 219,
-      "versionId": "2001",
-      "rating": 69,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5,
-        6
-      ],
-      "attributes": [
-        75,
-        50,
-        65,
-        67,
-        63,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 220620,
-      "assetId": 220620
     },
     "221989": {
       "name": "Fidan Aliti",
@@ -881,7 +845,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 0,
       "resourceId": 264285,
       "assetId": 264285
     },
@@ -992,7 +956,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 4800,
+      "price": 3900,
       "resourceId": 269996,
       "assetId": 269996
     },
@@ -1137,6 +1101,61 @@
       "price": 5100,
       "resourceId": 278056,
       "assetId": 278056
+    },
+    "50552268": {
+      "name": "Florent Hadergjonaj",
+      "cardName": "Hadergjonaj",
+      "originalVersionId": "65",
+      "clubId": 113142,
+      "leagueId": 68,
+      "countryId": 219,
+      "versionId": "65",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        11,
+        12,
+        13,
+        14,
+        16,
+        25,
+        9
+      ],
+      "playStylesPlus": [
+        15,
+        21,
+        8
+      ],
+      "rolesPlus": [
+        23,
+        26,
+        103,
+        104,
+        105,
+        106,
+        124,
+        125,
+        146
+      ],
+      "attributes": [
+        95,
+        72,
+        87,
+        89,
+        88,
+        90
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50552268,
+      "assetId": 220620
     },
     "50556531": {
       "name": "Steve Mounié",
@@ -1285,7 +1304,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 32500,
+      "price": 32000,
       "resourceId": 67360396,
       "assetId": 251532
     }
