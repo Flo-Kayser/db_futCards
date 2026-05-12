@@ -69,7 +69,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 3900,
       "resourceId": 70768,
       "assetId": 70768
     },
@@ -175,7 +175,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 79607,
       "assetId": 79607
     },
@@ -211,7 +211,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 550,
       "resourceId": 190120,
       "assetId": 190120
     },
@@ -246,7 +246,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 3500,
       "resourceId": 213928,
       "assetId": 213928
     },
@@ -468,7 +468,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 8000,
+      "price": 700,
       "resourceId": 259119,
       "assetId": 259119
     },
@@ -503,7 +503,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 8900,
+      "price": 6100,
       "resourceId": 261495,
       "assetId": 261495
     },
@@ -538,7 +538,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 750,
       "resourceId": 261647,
       "assetId": 261647
     },
@@ -578,7 +578,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 4400,
+      "price": 9000,
       "resourceId": 264869,
       "assetId": 264869
     },
@@ -615,7 +615,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 2800,
+      "price": 1000,
       "resourceId": 269003,
       "assetId": 269003
     },
@@ -835,7 +835,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 6000,
+      "price": 4500,
       "resourceId": 274559,
       "assetId": 274559
     },
@@ -946,7 +946,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 276377,
       "assetId": 276377
     },
@@ -1075,7 +1075,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 17500,
       "resourceId": 50588430,
       "assetId": 256782
     },
@@ -1130,7 +1130,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 27500,
+      "price": 34750,
       "resourceId": 50601687,
       "assetId": 270039
     },
@@ -1179,7 +1179,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 19000,
       "resourceId": 50605396,
       "assetId": 273748
     },
@@ -1236,7 +1236,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 37500,
       "resourceId": 50606856,
       "assetId": 275208
     },
@@ -1364,7 +1364,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 37000,
+      "price": 30500,
       "resourceId": 67338848,
       "assetId": 229984
     },
@@ -1403,57 +1403,6 @@
       "price": 350,
       "resourceId": 67369806,
       "assetId": 260942
-    },
-    "67372234": {
-      "name": "Valentín Barco",
-      "cardName": "Barco",
-      "originalVersionId": "71",
-      "clubId": 76,
-      "leagueId": 16,
-      "countryId": 52,
-      "versionId": "71",
-      "rating": 88,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CM",
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        10,
-        16,
-        18,
-        20,
-        24,
-        9
-      ],
-      "playStylesPlus": [
-        8
-      ],
-      "rolesPlus": [
-        7,
-        20,
-        27,
-        110,
-        118,
-        121,
-        129
-      ],
-      "attributes": [
-        90,
-        65,
-        88,
-        89,
-        85,
-        84
-      ],
-      "hasDynamicImage": true,
-      "price": 25000,
-      "resourceId": 67372234,
-      "assetId": 263370
     },
     "67380804": {
       "name": "Martial Godo",
@@ -1507,7 +1456,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 26500,
+      "price": 27500,
       "resourceId": 67380804,
       "assetId": 271940
     },
@@ -1587,9 +1536,70 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 94000,
+      "price": 104000,
       "resourceId": 84141514,
       "assetId": 255434
+    },
+    "84149450": {
+      "name": "Valentín Barco",
+      "cardName": "Barco",
+      "originalVersionId": "65",
+      "clubId": 76,
+      "leagueId": 16,
+      "countryId": 52,
+      "versionId": "65",
+      "rating": 92,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        18,
+        22,
+        24,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        16,
+        20,
+        8
+      ],
+      "rolesPlus": [
+        8,
+        9,
+        28,
+        30,
+        47,
+        107,
+        110,
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        129
+      ],
+      "attributes": [
+        95,
+        70,
+        92,
+        93,
+        89,
+        89
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 39250,
+      "resourceId": 84149450,
+      "assetId": 263370
     }
   }
 }

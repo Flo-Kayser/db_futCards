@@ -38,47 +38,66 @@
       "resourceId": 50407038,
       "assetId": 75390
     },
-    "67182541": {
+    "83959757": {
       "name": "Nadia Krezyman",
       "cardName": "Krezyman",
-      "originalVersionId": "30",
+      "originalVersionId": "65",
       "clubId": 116039,
       "leagueId": 2218,
       "countryId": 37,
-      "versionId": "30",
-      "rating": 90,
+      "versionId": "65",
+      "rating": 92,
       "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "RM",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
       "possiblePositions": [
         "LM",
+        "LW",
         "RM",
         "RW"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        0,
+        12,
+        21,
+        24,
+        6,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        11,
+        20,
+        25
+      ],
       "rolesPlus": [
-        26,
-        30,
-        36,
+        24,
+        25,
+        37,
+        40,
         123,
-        124,
+        126,
         127,
         128,
-        135
+        129,
+        130,
+        135,
+        136,
+        138,
+        139
       ],
       "attributes": [
-        96,
-        81,
-        90,
-        87,
-        56,
-        80
+        97,
+        88,
+        92,
+        89,
+        58,
+        83
       ],
       "hasDynamicImage": true,
-      "price": 29250,
-      "resourceId": 67182541,
+      "sbcPrice": 78750,
+      "resourceId": 83959757,
       "assetId": 73677
     }
   }

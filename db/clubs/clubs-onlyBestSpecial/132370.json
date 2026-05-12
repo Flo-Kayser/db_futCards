@@ -1,51 +1,58 @@
 {
   "clubName": "Marseille",
   "players": {
-    "67373832": {
+    "84151048": {
       "name": "Mathilde Bourdieu",
       "cardName": "Bourdieu",
-      "originalVersionId": "3",
+      "originalVersionId": "65",
       "clubId": 132370,
       "leagueId": 2218,
       "countryId": 18,
-      "versionId": "3",
-      "rating": 87,
+      "versionId": "65",
+      "rating": 92,
       "preferredFoot": "Right",
       "weakFoot": 4,
-      "skillMoves": 3,
+      "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
         "CAM",
         "ST"
       ],
       "playStyles": [
-        0,
         2,
-        22,
-        24,
-        5
+        20,
+        25,
+        5,
+        6,
+        7,
+        8
       ],
       "playStylesPlus": [
-        6
+        0,
+        22,
+        24
       ],
       "rolesPlus": [
+        31,
         33,
-        42,
         132,
+        134,
         141,
-        143
+        142,
+        143,
+        144
       ],
       "attributes": [
-        89,
-        88,
-        80,
-        87,
-        42,
-        83
+        92,
+        92,
+        86,
+        91,
+        48,
+        89
       ],
       "hasDynamicImage": true,
-      "price": 27000,
-      "resourceId": 67373832,
+      "sbcPrice": 26000,
+      "resourceId": 84151048,
       "assetId": 264968
     }
   }

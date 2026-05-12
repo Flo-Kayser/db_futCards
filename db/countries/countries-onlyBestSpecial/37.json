@@ -37,7 +37,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 25500,
+    "price": 24250,
     "resourceId": 269603,
     "assetId": 269603
   },
@@ -80,7 +80,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 29750,
+    "price": 33000,
     "resourceId": 50376545,
     "assetId": 44897
   },
@@ -124,7 +124,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 17750,
+    "price": 19250,
     "resourceId": 50547651,
     "assetId": 216003
   },
@@ -167,7 +167,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 29250,
+    "price": 33250,
     "resourceId": 50552218,
     "assetId": 220570
   },
@@ -207,7 +207,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 35000,
+    "price": 0,
     "resourceId": 50558822,
     "assetId": 227174
   },
@@ -246,7 +246,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 35000,
+    "price": 0,
     "resourceId": 50560031,
     "assetId": 228383
   },
@@ -292,7 +292,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 20250,
+    "price": 19000,
     "resourceId": 50563655,
     "assetId": 232007
   },
@@ -350,7 +350,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 37000,
+    "price": 38000,
     "resourceId": 50567119,
     "assetId": 235471
   },
@@ -394,7 +394,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 60000,
+    "price": 63500,
     "resourceId": 50584143,
     "assetId": 252495
   },
@@ -445,52 +445,9 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 42500,
+    "price": 39500,
     "resourceId": 67153761,
     "assetId": 44897
-  },
-  "67182541": {
-    "name": "Nadia Krezyman",
-    "cardName": "Krezyman",
-    "originalVersionId": "30",
-    "clubId": 116039,
-    "leagueId": 2218,
-    "countryId": 37,
-    "versionId": "30",
-    "rating": 90,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 5,
-    "preferredPosition": "RM",
-    "possiblePositions": [
-      "LM",
-      "RM",
-      "RW"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      26,
-      30,
-      36,
-      123,
-      124,
-      127,
-      128,
-      135
-    ],
-    "attributes": [
-      96,
-      81,
-      90,
-      87,
-      56,
-      80
-    ],
-    "hasDynamicImage": true,
-    "price": 29250,
-    "resourceId": 67182541,
-    "assetId": 73677
   },
   "67184618": {
     "name": "Oskar Pietuszewski",
@@ -537,7 +494,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 33000,
+    "price": 37000,
     "resourceId": 67184618,
     "assetId": 75754
   },
@@ -598,7 +555,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 80000,
+    "price": 81500,
     "resourceId": 67319270,
     "assetId": 210406
   },
@@ -648,7 +605,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 28500,
+    "price": 27750,
     "resourceId": 67344837,
     "assetId": 235973
   },
@@ -705,9 +662,71 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 19250,
+    "price": 21500,
     "resourceId": 67360497,
     "assetId": 251633
+  },
+  "83959757": {
+    "name": "Nadia Krezyman",
+    "cardName": "Krezyman",
+    "originalVersionId": "65",
+    "clubId": 116039,
+    "leagueId": 2218,
+    "countryId": 37,
+    "versionId": "65",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      12,
+      21,
+      24,
+      6,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      11,
+      20,
+      25
+    ],
+    "rolesPlus": [
+      24,
+      25,
+      37,
+      40,
+      123,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      138,
+      139
+    ],
+    "attributes": [
+      97,
+      88,
+      92,
+      89,
+      58,
+      83
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 78750,
+    "resourceId": 83959757,
+    "assetId": 73677
   },
   "84074625": {
     "name": "Robert Lewandowski",
@@ -755,7 +774,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 514000,
+    "price": 441000,
     "resourceId": 84074625,
     "assetId": 188545
   },
@@ -808,7 +827,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 631000,
+    "price": 648000,
     "resourceId": 84127926,
     "assetId": 241846
   }
