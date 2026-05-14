@@ -213,52 +213,9 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 2400,
       "resourceId": 204269,
       "assetId": 204269
-    },
-    "216218": {
-      "name": "Lawrence Shankland",
-      "cardName": "Shankland",
-      "originalVersionId": "1",
-      "clubId": 80,
-      "leagueId": 50,
-      "countryId": 42,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        10,
-        29,
-        4,
-        6,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        33,
-        43,
-        44
-      ],
-      "attributes": [
-        63,
-        75,
-        66,
-        72,
-        28,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 216218,
-      "assetId": 216218
     },
     "219482": {
       "name": "Ryan Fulton",
@@ -792,7 +749,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 10000,
       "resourceId": 261456,
       "assetId": 261456
     },
@@ -1018,9 +975,62 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 24750,
+      "price": 26750,
       "resourceId": 50410922,
       "assetId": 79274
+    },
+    "50547866": {
+      "name": "Lawrence Shankland",
+      "cardName": "Shankland",
+      "originalVersionId": "58",
+      "clubId": 80,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "58",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        10,
+        20,
+        25,
+        4,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        29,
+        6
+      ],
+      "rolesPlus": [
+        31,
+        34,
+        132,
+        133,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        91,
+        93,
+        85,
+        90,
+        45,
+        91
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 19250,
+      "resourceId": 50547866,
+      "assetId": 216218
     },
     "50559593": {
       "name": "Stuart Findlay",
@@ -1059,7 +1069,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 43000,
+      "price": 44500,
       "resourceId": 50559593,
       "assetId": 227945
     },
@@ -1151,7 +1161,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 23750,
+      "price": 28000,
       "resourceId": 67330909,
       "assetId": 222045
     }
