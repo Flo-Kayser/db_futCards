@@ -448,7 +448,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 267860,
       "assetId": 267860
     },
@@ -483,7 +483,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 272487,
       "assetId": 272487
     },
@@ -523,42 +523,6 @@
       "price": 350,
       "resourceId": 276471,
       "assetId": 276471
-    },
-    "277537": {
-      "name": "Natan",
-      "cardName": "Natan",
-      "originalVersionId": "0",
-      "clubId": 449,
-      "leagueId": 53,
-      "countryId": 54,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        12,
-        13
-      ],
-      "attributes": [
-        56,
-        33,
-        55,
-        66,
-        79,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 277537,
-      "assetId": 277537
     },
     "50525000": {
       "name": "Ricardo Rodríguez",
@@ -614,7 +578,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 27750,
       "resourceId": 50525000,
       "assetId": 193352
     },
@@ -665,7 +629,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 91500,
+      "price": 93000,
       "resourceId": 50529429,
       "assetId": 197781
     },
@@ -710,7 +674,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 51500,
+      "price": 55000,
       "resourceId": 50529789,
       "assetId": 198141
     },
@@ -756,7 +720,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 26250,
+      "price": 20750,
       "resourceId": 50530599,
       "assetId": 198951
     },
@@ -813,7 +777,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 43000,
+      "price": 28000,
       "resourceId": 50557874,
       "assetId": 226226
     },
@@ -861,7 +825,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 41750,
+      "price": 35000,
       "resourceId": 50573515,
       "assetId": 241867
     },
@@ -964,7 +928,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 76000,
+      "price": 61000,
       "resourceId": 50596080,
       "assetId": 264432
     },
@@ -1023,6 +987,56 @@
       "resourceId": 50599078,
       "assetId": 267430
     },
+    "50609185": {
+      "name": "Natan",
+      "cardName": "Natan",
+      "originalVersionId": "65",
+      "clubId": 449,
+      "leagueId": 53,
+      "countryId": 54,
+      "versionId": "65",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        16,
+        17,
+        18,
+        19,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        15,
+        28
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        87,
+        45,
+        70,
+        83,
+        92,
+        91
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50609185,
+      "assetId": 277537
+    },
     "67333022": {
       "name": "Sofyan Amrabat",
       "cardName": "Amrabat",
@@ -1077,68 +1091,69 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 60000,
+      "price": 64000,
       "resourceId": 67333022,
       "assetId": 224158
     },
-    "84112536": {
+    "100889752": {
       "name": "Pablo Fornals",
       "cardName": "Pablo Fornals",
-      "originalVersionId": "58",
+      "originalVersionId": "11",
       "clubId": 449,
       "leagueId": 53,
       "countryId": 45,
-      "versionId": "58",
-      "rating": 88,
+      "versionId": "11",
+      "rating": 92,
       "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 4,
-      "preferredPosition": "RM",
+      "preferredPosition": "CM",
       "possiblePositions": [
         "CDM",
         "CM",
-        "RM",
-        "RW"
+        "RM"
       ],
       "playStyles": [
         0,
-        11,
-        12,
+        14,
         16,
-        21,
-        26,
+        20,
+        25,
+        6,
         9
       ],
       "playStylesPlus": [
-        20,
-        6
+        11,
+        22,
+        8
       ],
       "rolesPlus": [
-        14,
-        18,
-        19,
-        24,
+        15,
+        17,
+        23,
+        25,
         49,
+        114,
         116,
+        118,
+        119,
         120,
-        123,
-        125,
-        126,
-        135,
-        136,
-        137
+        121,
+        122,
+        124,
+        126
       ],
       "attributes": [
-        88,
-        89,
-        88,
+        91,
+        92,
+        92,
+        93,
         90,
-        86,
-        84
+        90
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 49000,
-      "resourceId": 84112536,
+      "price": 36000,
+      "resourceId": 100889752,
       "assetId": 226456
     },
     "100918771": {
@@ -1181,7 +1196,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 437000,
+      "price": 440000,
       "resourceId": 100918771,
       "assetId": 255475
     }

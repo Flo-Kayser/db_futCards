@@ -76,7 +76,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 750,
       "resourceId": 189513,
       "assetId": 189513
     },
@@ -160,7 +160,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 750,
       "resourceId": 209989,
       "assetId": 209989
     },
@@ -431,7 +431,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 265578,
       "assetId": 265578
     },
@@ -505,7 +505,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 9600,
+      "price": 1400,
       "resourceId": 269228,
       "assetId": 269228
     },
@@ -739,7 +739,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 24000,
       "resourceId": 50539741,
       "assetId": 208093
     },
@@ -850,7 +850,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 37500,
+      "price": 38500,
       "resourceId": 50568869,
       "assetId": 237221
     },
@@ -969,7 +969,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 8500,
+      "price": 1000,
       "resourceId": 50578439,
       "assetId": 246791
     },
@@ -1024,7 +1024,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 55000,
+      "price": 38000,
       "resourceId": 50578448,
       "assetId": 246800
     },
@@ -1183,59 +1183,6 @@
       "resourceId": 50606853,
       "assetId": 275205
     },
-    "50608141": {
-      "name": "Santiago Mouriño",
-      "cardName": "Mouriño",
-      "originalVersionId": "3",
-      "clubId": 483,
-      "leagueId": 53,
-      "countryId": 60,
-      "versionId": "3",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "CB",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        14,
-        16,
-        17,
-        18,
-        24
-      ],
-      "playStylesPlus": [
-        28
-      ],
-      "rolesPlus": [
-        5,
-        6,
-        12,
-        23,
-        25,
-        48,
-        103,
-        111,
-        124,
-        146
-      ],
-      "attributes": [
-        83,
-        52,
-        70,
-        77,
-        87,
-        90
-      ],
-      "hasDynamicImage": true,
-      "price": 31750,
-      "resourceId": 50608141,
-      "assetId": 276493
-    },
     "67334974": {
       "name": "Nicolas Pépé",
       "cardName": "Pépé",
@@ -1275,7 +1222,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 78000,
+      "price": 65000,
       "resourceId": 67334974,
       "assetId": 226110
     },
@@ -1368,19 +1315,79 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 39250,
+      "price": 35000,
       "resourceId": 67376784,
       "assetId": 267920
     },
-    "84150468": {
+    "67385357": {
+      "name": "Santiago Mouriño",
+      "cardName": "Mouriño",
+      "originalVersionId": "11",
+      "clubId": 483,
+      "leagueId": 53,
+      "countryId": 60,
+      "versionId": "11",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        14,
+        16,
+        20,
+        21,
+        25,
+        8
+      ],
+      "playStylesPlus": [
+        15,
+        17,
+        28
+      ],
+      "rolesPlus": [
+        11,
+        12,
+        23,
+        26,
+        103,
+        104,
+        105,
+        106,
+        113,
+        124,
+        125,
+        146,
+        148
+      ],
+      "attributes": [
+        90,
+        60,
+        88,
+        90,
+        93,
+        94
+      ],
+      "hasDynamicImage": true,
+      "price": 32500,
+      "resourceId": 67385357,
+      "assetId": 276493
+    },
+    "100927684": {
       "name": "Moleiro",
       "cardName": "Moleiro",
-      "originalVersionId": "71",
+      "originalVersionId": "11",
       "clubId": 483,
       "leagueId": 53,
       "countryId": 45,
-      "versionId": "71",
-      "rating": 88,
+      "versionId": "11",
+      "rating": 92,
       "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 4,
@@ -1391,38 +1398,43 @@
         "LW"
       ],
       "playStyles": [
-        0,
         11,
-        13,
-        20,
+        21,
         22,
-        25
-      ],
-      "playStylesPlus": [
+        25,
+        6,
+        7,
         8
       ],
+      "playStylesPlus": [
+        0,
+        13,
+        20
+      ],
       "rolesPlus": [
-        29,
-        31,
         33,
-        40,
+        34,
         127,
+        128,
+        129,
         130,
-        134,
+        131,
+        132,
         138,
-        139
+        139,
+        140
       ],
       "attributes": [
+        93,
         91,
-        87,
-        88,
-        91,
-        62,
-        77
+        92,
+        93,
+        68,
+        82
       ],
       "hasDynamicImage": true,
-      "price": 36000,
-      "resourceId": 84150468,
+      "price": 18500,
+      "resourceId": 100927684,
       "assetId": 264388
     }
   }

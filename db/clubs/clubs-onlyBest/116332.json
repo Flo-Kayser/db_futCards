@@ -344,42 +344,6 @@
       "resourceId": 272234,
       "assetId": 272234
     },
-    "272235": {
-      "name": "Noelia Ramos",
-      "cardName": "Noelia Ramos",
-      "originalVersionId": "0",
-      "clubId": 116332,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "2002",
-      "rating": 75,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        33
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        1
-      ],
-      "attributes": [
-        76,
-        76,
-        70,
-        76,
-        45,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 272235,
-      "assetId": 272235
-    },
     "272236": {
       "name": "Nayluisa Cáceres",
       "cardName": "Cáceres",
@@ -534,7 +498,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 3400,
       "resourceId": 276519,
       "assetId": 276519
     },
@@ -639,7 +603,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 8000,
+      "price": 650,
       "resourceId": 279189,
       "assetId": 279189
     },
@@ -691,7 +655,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 34750,
+      "price": 25000,
       "resourceId": 50565224,
       "assetId": 233576
     },
@@ -778,9 +742,55 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 28000,
+      "price": 29000,
       "resourceId": 50603872,
       "assetId": 272224
+    },
+    "50603883": {
+      "name": "Noelia Ramos",
+      "cardName": "Noelia Ramos",
+      "originalVersionId": "11",
+      "clubId": 116332,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "11",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31,
+        32,
+        34,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        33,
+        35
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        92,
+        92,
+        87,
+        94,
+        72,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 19000,
+      "resourceId": 50603883,
+      "assetId": 272235
     },
     "50603905": {
       "name": "Elba Vergés",
@@ -821,7 +831,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 28000,
+      "price": 28250,
       "resourceId": 50603905,
       "assetId": 272257
     }

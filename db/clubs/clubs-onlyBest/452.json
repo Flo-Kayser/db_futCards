@@ -775,7 +775,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 400,
       "resourceId": 266041,
       "assetId": 266041
     },
@@ -812,7 +812,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 10000,
       "resourceId": 276976,
       "assetId": 276976
     },
@@ -846,7 +846,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1400,
       "resourceId": 279605,
       "assetId": 279605
     },
@@ -1046,18 +1046,18 @@
       "resourceId": 50595223,
       "assetId": 263575
     },
-    "50602376": {
+    "67379592": {
       "name": "Carlos Romero",
       "cardName": "Carlos Romero",
-      "originalVersionId": "3",
+      "originalVersionId": "11",
       "clubId": 452,
       "leagueId": 53,
       "countryId": 45,
-      "versionId": "3",
-      "rating": 83,
+      "versionId": "11",
+      "rating": 95,
       "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 2,
+      "weakFoot": 4,
+      "skillMoves": 4,
       "preferredPosition": "LB",
       "possiblePositions": [
         "LB",
@@ -1065,30 +1065,44 @@
         "LW"
       ],
       "playStyles": [
-        14,
+        11,
+        15,
+        16,
         17,
-        25,
-        5,
-        8
+        18,
+        21,
+        9
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        12,
+        14,
+        25
+      ],
       "rolesPlus": [
-        9,
-        29,
-        47,
-        110
+        28,
+        30,
+        39,
+        107,
+        108,
+        109,
+        110,
+        127,
+        129,
+        138,
+        140,
+        147
       ],
       "attributes": [
-        85,
-        75,
-        80,
-        83,
-        81,
-        79
+        95,
+        87,
+        92,
+        94,
+        92,
+        90
       ],
       "hasDynamicImage": true,
-      "price": 30000,
-      "resourceId": 50602376,
+      "price": 145000,
+      "resourceId": 67379592,
       "assetId": 270728
     }
   }

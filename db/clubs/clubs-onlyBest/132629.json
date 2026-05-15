@@ -65,7 +65,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 79619,
       "assetId": 79619
     },
@@ -211,7 +211,7 @@
         39
       ],
       "hasDynamicImage": false,
-      "price": 2800,
+      "price": 500,
       "resourceId": 273912,
       "assetId": 273912
     },
@@ -284,45 +284,6 @@
       "price": 200,
       "resourceId": 276468,
       "assetId": 276468
-    },
-    "276887": {
-      "name": "Isina Corte",
-      "cardName": "Isina Corte",
-      "originalVersionId": "0",
-      "clubId": 132629,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "2001",
-      "rating": 65,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CM",
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        27,
-        42,
-        43
-      ],
-      "attributes": [
-        57,
-        64,
-        64,
-        63,
-        37,
-        56
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 276887,
-      "assetId": 276887
     },
     "50404112": {
       "name": "Dona Scannapieco",
@@ -436,6 +397,75 @@
       "hasDynamicImage": false,
       "resourceId": 50407083,
       "assetId": 75435
+    },
+    "50608535": {
+      "name": "Isina Corte",
+      "cardName": "Isina Corte",
+      "originalVersionId": "120",
+      "clubId": 132629,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "120",
+      "rating": 90,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        21,
+        25,
+        6,
+        7,
+        9
+      ],
+      "playStylesPlus": [
+        2,
+        20,
+        22
+      ],
+      "rolesPlus": [
+        18,
+        19,
+        20,
+        28,
+        29,
+        40,
+        41,
+        44,
+        121,
+        122,
+        127,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        142,
+        143
+      ],
+      "attributes": [
+        90,
+        91,
+        88,
+        91,
+        62,
+        82
+      ],
+      "hasDynamicImage": true,
+      "price": 13250,
+      "resourceId": 50608535,
+      "assetId": 276887
     }
   }
 }

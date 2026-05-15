@@ -72,7 +72,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 5100,
       "resourceId": 75067,
       "assetId": 75067
     },
@@ -462,43 +462,6 @@
       "resourceId": 272077,
       "assetId": 272077
     },
-    "272082": {
-      "name": "Sandra Villafañe",
-      "cardName": "Sandra Villafañe",
-      "originalVersionId": "1",
-      "clubId": 116334,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "3001",
-      "rating": 72,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        15
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        48
-      ],
-      "attributes": [
-        72,
-        25,
-        55,
-        59,
-        73,
-        64
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 272082,
-      "assetId": 272082
-    },
     "272101": {
       "name": "Anita Marcos",
       "cardName": "Anita Marcos",
@@ -611,7 +574,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 200,
       "resourceId": 276771,
       "assetId": 276771
     },
@@ -761,9 +724,55 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 28250,
       "resourceId": 50579178,
       "assetId": 247530
+    },
+    "50603730": {
+      "name": "Sandra Villafañe",
+      "cardName": "Sandra Villafañe",
+      "originalVersionId": "65",
+      "clubId": 116334,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "65",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14,
+        15,
+        16,
+        18,
+        9
+      ],
+      "playStylesPlus": [
+        17
+      ],
+      "rolesPlus": [
+        12,
+        13,
+        111,
+        148
+      ],
+      "attributes": [
+        74,
+        27,
+        58,
+        64,
+        75,
+        70
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50603730,
+      "assetId": 272082
     },
     "67381068": {
       "name": "Allegra Poljak",
@@ -804,7 +813,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 19250,
+      "price": 15000,
       "resourceId": 67381068,
       "assetId": 272204
     }

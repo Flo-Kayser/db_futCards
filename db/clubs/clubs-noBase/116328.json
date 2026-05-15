@@ -1,6 +1,68 @@
 {
   "clubName": "Athletic Club",
   "players": {
+    "50406709": {
+      "name": "Daniela Agote",
+      "cardName": "Daniela Agote",
+      "originalVersionId": "120",
+      "clubId": 116328,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "120",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        11,
+        20,
+        21,
+        22,
+        6,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        13,
+        25
+      ],
+      "rolesPlus": [
+        24,
+        28,
+        123,
+        125,
+        126,
+        127,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        95,
+        90,
+        88,
+        93,
+        70,
+        80
+      ],
+      "hasDynamicImage": true,
+      "price": 14500,
+      "resourceId": 50406709,
+      "assetId": 75061
+    },
     "50603590": {
       "name": "Ane Azkona",
       "cardName": "Ane Azkona",
@@ -45,7 +107,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 31750,
+      "price": 29000,
       "resourceId": 50603590,
       "assetId": 271942
     },
@@ -99,7 +161,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 16250,
       "resourceId": 50603771,
       "assetId": 272123
     },
@@ -143,7 +205,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 85000,
+      "price": 62000,
       "resourceId": 67380806,
       "assetId": 271942
     }

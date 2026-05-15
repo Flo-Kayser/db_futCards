@@ -271,7 +271,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 227127,
       "assetId": 227127
     },
@@ -310,7 +310,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1000,
       "resourceId": 230142,
       "assetId": 230142
     },
@@ -349,7 +349,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 231627,
       "assetId": 231627
     },
@@ -514,7 +514,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 950,
       "resourceId": 237681,
       "assetId": 237681
     },
@@ -1078,7 +1078,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 34750,
+      "price": 31750,
       "resourceId": 50405739,
       "assetId": 74091
     },
@@ -1177,7 +1177,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 36250,
+      "price": 25000,
       "resourceId": 50556059,
       "assetId": 224411
     },
@@ -1220,7 +1220,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 33250,
+      "price": 28500,
       "resourceId": 50558775,
       "assetId": 227127
     },
@@ -1267,7 +1267,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 54000,
+      "price": 45500,
       "resourceId": 50561790,
       "assetId": 230142
     },
@@ -1316,7 +1316,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 29750,
+      "price": 29000,
       "resourceId": 50565683,
       "assetId": 234035
     },
@@ -1360,7 +1360,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 50565708,
       "assetId": 234060
     },
@@ -1551,9 +1551,55 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 24750,
+      "price": 23500,
       "resourceId": 50600834,
       "assetId": 269186
+    },
+    "50608873": {
+      "name": "Jon Martín",
+      "cardName": "Jon Martín",
+      "originalVersionId": "65",
+      "clubId": 457,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "65",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15,
+        17,
+        19,
+        4,
+        8
+      ],
+      "playStylesPlus": [
+        16
+      ],
+      "rolesPlus": [
+        13,
+        48,
+        111,
+        112
+      ],
+      "attributes": [
+        73,
+        32,
+        54,
+        66,
+        76,
+        74
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50608873,
+      "assetId": 277225
     },
     "67339006": {
       "name": "Oyarzabal",
@@ -1592,7 +1638,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 28500,
+      "price": 28250,
       "resourceId": 67339006,
       "assetId": 230142
     },
@@ -1638,8 +1684,66 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 39750,
+      "price": 28500,
       "resourceId": 84116222,
+      "assetId": 230142
+    },
+    "100893438": {
+      "name": "Oyarzabal",
+      "cardName": "Oyarzabal",
+      "originalVersionId": "11",
+      "clubId": 457,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "11",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        2,
+        21,
+        22,
+        25,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        8
+      ],
+      "rolesPlus": [
+        27,
+        28,
+        38,
+        129,
+        130,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        91,
+        93,
+        91,
+        91,
+        51,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 18250,
+      "resourceId": 100893438,
       "assetId": 230142
     }
   }
