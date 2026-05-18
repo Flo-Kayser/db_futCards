@@ -38,7 +38,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 38000,
+    "price": 29000,
     "resourceId": 50404840,
     "assetId": 73192
   },
@@ -87,7 +87,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 18750,
+    "sbcPrice": 18500,
     "price": 29500,
     "resourceId": 50406266,
     "assetId": 74618
@@ -132,7 +132,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 27000,
+    "price": 29500,
     "resourceId": 50541629,
     "assetId": 209981
   },
@@ -179,7 +179,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 140000,
+    "price": 130000,
     "resourceId": 50563058,
     "assetId": 231410
   },
@@ -269,7 +269,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 38500,
+    "price": 29500,
     "resourceId": 50586871,
     "assetId": 255223
   },
@@ -317,7 +317,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 70000,
+    "price": 77000,
     "resourceId": 50590401,
     "assetId": 258753
   },
@@ -366,7 +366,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 46250,
+    "price": 47250,
     "resourceId": 50592491,
     "assetId": 260843
   },
@@ -417,7 +417,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 28000,
+    "price": 29000,
     "resourceId": 50593948,
     "assetId": 262300
   },
@@ -476,57 +476,6 @@
     "price": 0,
     "resourceId": 50594121,
     "assetId": 262473
-  },
-  "50596080": {
-    "name": "Abdessamad Ezzalzouli",
-    "cardName": "Ezzalzouli",
-    "originalVersionId": "33",
-    "clubId": 449,
-    "leagueId": 53,
-    "countryId": 129,
-    "versionId": "33",
-    "rating": 85,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "LM",
-      "LW"
-    ],
-    "playStyles": [
-      0,
-      10,
-      12,
-      13,
-      20,
-      6,
-      7
-    ],
-    "playStylesPlus": [
-      21
-    ],
-    "rolesPlus": [
-      127,
-      128,
-      129,
-      130,
-      138,
-      139,
-      140
-    ],
-    "attributes": [
-      90,
-      80,
-      80,
-      90,
-      40,
-      75
-    ],
-    "hasDynamicImage": true,
-    "price": 65000,
-    "resourceId": 50596080,
-    "assetId": 264432
   },
   "50610726": {
     "name": "Othmane Maamma",
@@ -668,7 +617,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 40000,
+    "price": 49250,
     "resourceId": 67333022,
     "assetId": 224158
   },
@@ -705,7 +654,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 18500,
+    "price": 19000,
     "resourceId": 67350639,
     "assetId": 241775
   },
@@ -921,7 +870,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 13750,
     "resourceId": 67355824,
     "assetId": 246960
   },
@@ -976,9 +925,62 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 84000,
+    "price": 80000,
     "resourceId": 67368344,
     "assetId": 259480
+  },
+  "67373296": {
+    "name": "Abdessamad Ezzalzouli",
+    "cardName": "Ezzalzouli",
+    "originalVersionId": "120",
+    "clubId": 449,
+    "leagueId": 53,
+    "countryId": 129,
+    "versionId": "120",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      11,
+      12,
+      13,
+      25,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      20,
+      21,
+      7
+    ],
+    "rolesPlus": [
+      28,
+      29,
+      127,
+      130,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      97,
+      89,
+      87,
+      96,
+      50,
+      82
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67373296,
+    "assetId": 264432
   },
   "67374442": {
     "name": "Ilias Akhomach",
@@ -1032,7 +1034,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 23500,
     "resourceId": 67374442,
     "assetId": 265578
   },
