@@ -1,6 +1,59 @@
 {
   "clubName": "R. Racing Club",
   "players": {
+    "50575440": {
+      "name": "Iñigo Vicente",
+      "cardName": "Iñigo Vicente",
+      "originalVersionId": "65",
+      "clubId": 456,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "65",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        10,
+        11,
+        13,
+        20,
+        25,
+        3,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        12,
+        21
+      ],
+      "rolesPlus": [
+        40,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139
+      ],
+      "attributes": [
+        95,
+        88,
+        91,
+        92,
+        65,
+        78
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 20750,
+      "resourceId": 50575440,
+      "assetId": 243792
+    },
     "50601287": {
       "name": "Arana",
       "cardName": "Arana",
@@ -38,7 +91,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 38500,
+      "price": 38000,
       "resourceId": 50601287,
       "assetId": 269639
     }

@@ -33,7 +33,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 74476,
       "assetId": 74476
     },
@@ -105,7 +105,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1300,
       "resourceId": 189472,
       "assetId": 189472
     },
@@ -386,7 +386,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 900,
       "resourceId": 235008,
       "assetId": 235008
     },
@@ -572,7 +572,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1500,
       "resourceId": 242893,
       "assetId": 242893
     },
@@ -773,47 +773,6 @@
       "price": 350,
       "resourceId": 254094,
       "assetId": 254094
-    },
-    "258923": {
-      "name": "Arribas",
-      "cardName": "Arribas",
-      "originalVersionId": "1",
-      "clubId": 1861,
-      "leagueId": 54,
-      "countryId": 45,
-      "versionId": "3001",
-      "rating": 74,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "RM"
-      ],
-      "playStyles": [
-        2,
-        9
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        31,
-        33
-      ],
-      "attributes": [
-        71,
-        73,
-        72,
-        75,
-        41,
-        50
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 258923,
-      "assetId": 258923
     },
     "259190": {
       "name": "Dion Lopy",
@@ -1082,7 +1041,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 2000,
       "resourceId": 278126,
       "assetId": 278126
     },
@@ -1161,6 +1120,66 @@
       "price": 200,
       "resourceId": 50590250,
       "assetId": 258602
+    },
+    "50590571": {
+      "name": "Arribas",
+      "cardName": "Arribas",
+      "originalVersionId": "65",
+      "clubId": 1861,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "65",
+      "rating": 92,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [
+        13,
+        2,
+        21,
+        24,
+        6,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        11,
+        20
+      ],
+      "rolesPlus": [
+        18,
+        19,
+        22,
+        23,
+        25,
+        120,
+        121,
+        124,
+        126,
+        131,
+        132,
+        133,
+        134
+      ],
+      "attributes": [
+        90,
+        92,
+        91,
+        94,
+        60,
+        75
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 20750,
+      "resourceId": 50590571,
+      "assetId": 258923
     }
   }
 }

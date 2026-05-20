@@ -1,43 +1,4 @@
 {
-  "50406202": {
-    "name": "Chupete",
-    "cardName": "Chupete",
-    "originalVersionId": "3",
-    "clubId": 573,
-    "leagueId": 54,
-    "countryId": 45,
-    "versionId": "3",
-    "rating": 80,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      2,
-      29,
-      7
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      41,
-      144
-    ],
-    "attributes": [
-      78,
-      81,
-      73,
-      80,
-      35,
-      82
-    ],
-    "hasDynamicImage": true,
-    "price": 38750,
-    "resourceId": 50406202,
-    "assetId": 74554
-  },
   "50537679": {
     "name": "Jefté",
     "cardName": "Jefté",
@@ -77,9 +38,122 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 34250,
     "resourceId": 50537679,
     "assetId": 206031
+  },
+  "50575440": {
+    "name": "Iñigo Vicente",
+    "cardName": "Iñigo Vicente",
+    "originalVersionId": "65",
+    "clubId": 456,
+    "leagueId": 54,
+    "countryId": 45,
+    "versionId": "65",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      10,
+      11,
+      13,
+      20,
+      25,
+      3,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      12,
+      21
+    ],
+    "rolesPlus": [
+      40,
+      127,
+      128,
+      129,
+      130,
+      138,
+      139
+    ],
+    "attributes": [
+      95,
+      88,
+      91,
+      92,
+      65,
+      78
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 20750,
+    "resourceId": 50575440,
+    "assetId": 243792
+  },
+  "50590571": {
+    "name": "Arribas",
+    "cardName": "Arribas",
+    "originalVersionId": "65",
+    "clubId": 1861,
+    "leagueId": 54,
+    "countryId": 45,
+    "versionId": "65",
+    "rating": 92,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM"
+    ],
+    "playStyles": [
+      13,
+      2,
+      21,
+      24,
+      6,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      11,
+      20
+    ],
+    "rolesPlus": [
+      18,
+      19,
+      22,
+      23,
+      25,
+      120,
+      121,
+      124,
+      126,
+      131,
+      132,
+      133,
+      134
+    ],
+    "attributes": [
+      90,
+      92,
+      91,
+      94,
+      60,
+      75
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 20750,
+    "resourceId": 50590571,
+    "assetId": 258923
   },
   "50594046": {
     "name": "Zakaria Eddahchouri",
@@ -115,7 +189,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 29750,
     "resourceId": 50594046,
     "assetId": 262398
   },
@@ -161,7 +235,7 @@
       64
     ],
     "hasDynamicImage": true,
-    "price": 28000,
+    "price": 30000,
     "resourceId": 50596140,
     "assetId": 264492
   },
@@ -243,9 +317,58 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 38500,
+    "price": 38000,
     "resourceId": 50601287,
     "assetId": 269639
+  },
+  "67183418": {
+    "name": "Chupete",
+    "cardName": "Chupete",
+    "originalVersionId": "65",
+    "clubId": 573,
+    "leagueId": 54,
+    "countryId": 45,
+    "versionId": "65",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      2,
+      20,
+      22,
+      24,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      21,
+      29,
+      6
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      89,
+      92,
+      85,
+      91,
+      50,
+      93
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 21000,
+    "resourceId": 67183418,
+    "assetId": 74554
   },
   "67319932": {
     "name": "Kenan Kodro",
@@ -323,7 +446,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 21750,
+    "price": 24500,
     "resourceId": 67350639,
     "assetId": 241775
   },
@@ -360,7 +483,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 27000,
+    "price": 37000,
     "resourceId": 67369128,
     "assetId": 260264
   }

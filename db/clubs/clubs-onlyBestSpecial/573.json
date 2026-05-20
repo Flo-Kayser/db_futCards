@@ -1,43 +1,53 @@
 {
   "clubName": "Málaga CF",
   "players": {
-    "50406202": {
+    "67183418": {
       "name": "Chupete",
       "cardName": "Chupete",
-      "originalVersionId": "3",
+      "originalVersionId": "65",
       "clubId": 573,
       "leagueId": 54,
       "countryId": 45,
-      "versionId": "3",
-      "rating": 80,
+      "versionId": "65",
+      "rating": 92,
       "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
+      "weakFoot": 4,
+      "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
         "ST"
       ],
       "playStyles": [
+        0,
         2,
-        29,
-        7
+        20,
+        22,
+        24,
+        7,
+        9
       ],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        21,
+        29,
+        6
+      ],
       "rolesPlus": [
-        41,
+        141,
+        142,
+        143,
         144
       ],
       "attributes": [
-        78,
-        81,
-        73,
-        80,
-        35,
-        82
+        89,
+        92,
+        85,
+        91,
+        50,
+        93
       ],
       "hasDynamicImage": true,
-      "price": 38750,
-      "resourceId": 50406202,
+      "sbcPrice": 21000,
+      "resourceId": 67183418,
       "assetId": 74554
     }
   }
