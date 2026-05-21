@@ -32,7 +32,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1000,
       "resourceId": 75150,
       "assetId": 75150
     },
@@ -69,7 +69,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 210385,
       "assetId": 210385
     },
@@ -151,7 +151,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 8300,
+      "price": 14250,
       "resourceId": 226853,
       "assetId": 226853
     },
@@ -274,7 +274,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 1400,
       "resourceId": 237704,
       "assetId": 237704
     },
@@ -312,7 +312,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 1400,
       "resourceId": 240020,
       "assetId": 240020
     },
@@ -356,7 +356,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 850,
       "resourceId": 252143,
       "assetId": 252143
     },
@@ -397,7 +397,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 254262,
       "assetId": 254262
     },
@@ -432,7 +432,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 255634,
       "assetId": 255634
     },
@@ -474,7 +474,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 1200,
       "resourceId": 260813,
       "assetId": 260813
     },
@@ -521,7 +521,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 266097,
       "assetId": 266097
     },
@@ -563,7 +563,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 850,
       "resourceId": 266253,
       "assetId": 266253
     },
@@ -602,7 +602,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 7500,
+      "price": 2000,
       "resourceId": 268837,
       "assetId": 268837
     },
@@ -636,7 +636,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 270865,
       "assetId": 270865
     },
@@ -713,7 +713,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 279703,
       "assetId": 279703
     },
@@ -791,7 +791,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 650,
       "resourceId": 50404402,
       "assetId": 72754
     },
@@ -844,54 +844,6 @@
       "price": 0,
       "resourceId": 50410918,
       "assetId": 79270
-    },
-    "50572598": {
-      "name": "Pedro Gonçalves",
-      "cardName": "Pedro Gonçalves",
-      "originalVersionId": "3",
-      "clubId": 237,
-      "leagueId": 308,
-      "countryId": 38,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LM"
-      ],
-      "playStyles": [
-        0,
-        11,
-        12,
-        13,
-        20,
-        3,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        22,
-        30,
-        32,
-        33,
-        131
-      ],
-      "attributes": [
-        81,
-        85,
-        86,
-        87,
-        67,
-        73
-      ],
-      "hasDynamicImage": true,
-      "price": 29500,
-      "resourceId": 50572598,
-      "assetId": 240950
     },
     "50573735": {
       "name": "Hidemasa Morita",
@@ -995,7 +947,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 33500,
+      "price": 39000,
       "resourceId": 50583792,
       "assetId": 252144
     },
@@ -1042,7 +994,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 61500,
+      "price": 59000,
       "resourceId": 50588827,
       "assetId": 257179
     },
@@ -1081,7 +1033,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 950,
       "resourceId": 50589663,
       "assetId": 258015
     },
@@ -1132,9 +1084,69 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 50500,
       "resourceId": 50610692,
       "assetId": 279044
+    },
+    "67349814": {
+      "name": "Pedro Gonçalves",
+      "cardName": "Pedro Gonçalves",
+      "originalVersionId": "65",
+      "clubId": 237,
+      "leagueId": 308,
+      "countryId": 38,
+      "versionId": "65",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [
+        11,
+        12,
+        13,
+        3,
+        6,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        25
+      ],
+      "rolesPlus": [
+        18,
+        19,
+        20,
+        32,
+        34,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        133
+      ],
+      "attributes": [
+        95,
+        92,
+        91,
+        93,
+        75,
+        80
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 47750,
+      "resourceId": 67349814,
+      "assetId": 240950
     },
     "67353533": {
       "name": "Morten Hjulmand",
@@ -1238,7 +1250,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 237000,
+      "price": 228000,
       "resourceId": 67354022,
       "assetId": 245158
     },
@@ -1408,7 +1420,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 85000,
+      "price": 70000,
       "resourceId": 84130858,
       "assetId": 244778
     }
