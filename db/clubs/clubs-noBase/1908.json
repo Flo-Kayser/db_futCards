@@ -1,6 +1,65 @@
 {
   "clubName": "FC Twente",
   "players": {
+    "50516105": {
+      "name": "Ricky van Wolfswinkel",
+      "cardName": "van Wolfswinkel",
+      "originalVersionId": "25",
+      "clubId": 1908,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "25",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        22,
+        24,
+        29,
+        4,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        21,
+        7
+      ],
+      "rolesPlus": [
+        24,
+        25,
+        37,
+        123,
+        126,
+        135,
+        136,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        91,
+        93,
+        88,
+        91,
+        70,
+        90
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50516105,
+      "assetId": 184457
+    },
     "50561241": {
       "name": "Marko Pjaca",
       "cardName": "Pjaca",
@@ -95,7 +154,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 29750,
+      "price": 31750,
       "resourceId": 50568146,
       "assetId": 236498
     },
@@ -145,7 +204,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 24000,
+      "price": 19000,
       "resourceId": 50593959,
       "assetId": 262311
     }

@@ -47,7 +47,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 28000,
+      "price": 35500,
       "resourceId": 50567217,
       "assetId": 235569
     },
@@ -99,41 +99,54 @@
       "resourceId": 50606184,
       "assetId": 274536
     },
-    "67267489": {
+    "84044705": {
       "name": "Dante",
       "cardName": "Dante",
-      "originalVersionId": "30",
+      "originalVersionId": "25",
       "clubId": 72,
       "leagueId": 16,
       "countryId": 54,
-      "versionId": "30",
-      "rating": 88,
+      "versionId": "25",
+      "rating": 91,
       "preferredFoot": "Left",
       "weakFoot": 5,
-      "skillMoves": 5,
+      "skillMoves": 3,
       "preferredPosition": "CB",
       "possiblePositions": [
         "CB"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        10,
+        16,
+        18,
+        19,
+        22,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        15,
+        17,
+        28
+      ],
       "rolesPlus": [
-        48,
         111,
         112,
-        113
+        113,
+        148
       ],
       "attributes": [
-        88,
-        63,
-        79,
-        84,
-        89,
-        87
+        91,
+        66,
+        82,
+        87,
+        92,
+        91
       ],
+      "isObjective": true,
       "hasDynamicImage": true,
-      "price": 80500,
-      "resourceId": 67267489,
+      "price": 0,
+      "resourceId": 84044705,
       "assetId": 158625
     }
   }

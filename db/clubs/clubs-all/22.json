@@ -72,7 +72,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 2000,
       "resourceId": 73057,
       "assetId": 73057
     },
@@ -115,7 +115,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 2000,
       "resourceId": 190765,
       "assetId": 190765
     },
@@ -155,7 +155,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 700,
       "resourceId": 204923,
       "assetId": 204923
     },
@@ -200,7 +200,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 208333,
       "assetId": 208333
     },
@@ -327,7 +327,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 212194,
       "assetId": 212194
     },
@@ -370,7 +370,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 1000,
       "resourceId": 215441,
       "assetId": 215441
     },
@@ -454,7 +454,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 229476,
       "assetId": 229476
     },
@@ -535,7 +535,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1600,
       "resourceId": 235073,
       "assetId": 235073
     },
@@ -652,7 +652,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 900,
       "resourceId": 246863,
       "assetId": 246863
     },
@@ -696,7 +696,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 1700,
       "resourceId": 247819,
       "assetId": 247819
     },
@@ -740,7 +740,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 900,
       "resourceId": 251852,
       "assetId": 251852
     },
@@ -784,7 +784,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 700,
       "resourceId": 254117,
       "assetId": 254117
     },
@@ -908,7 +908,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2400,
       "resourceId": 262105,
       "assetId": 262105
     },
@@ -1112,7 +1112,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 29500,
+      "price": 28000,
       "resourceId": 50536571,
       "assetId": 204923
     },
@@ -1206,7 +1206,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 39500,
+      "price": 37250,
       "resourceId": 50543838,
       "assetId": 212190
     },
@@ -1259,7 +1259,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 27000,
+      "price": 15000,
       "resourceId": 50543842,
       "assetId": 212194
     },
@@ -1450,7 +1450,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 131000,
+      "price": 23000,
       "resourceId": 50566721,
       "assetId": 235073
     },
@@ -1496,7 +1496,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 36750,
+      "price": 22000,
       "resourceId": 50579467,
       "assetId": 247819
     },
@@ -1543,7 +1543,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 203000,
+      "price": 197000,
       "resourceId": 50583500,
       "assetId": 251852
     },
@@ -1627,7 +1627,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 75000,
+      "price": 38250,
       "resourceId": 50585765,
       "assetId": 254117
     },
@@ -1774,7 +1774,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 19250,
       "resourceId": 50591364,
       "assetId": 259716
     },
@@ -1905,9 +1905,65 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 200,
       "resourceId": 50610103,
       "assetId": 278455
+    },
+    "67321058": {
+      "name": "Julian Brandt",
+      "cardName": "Brandt",
+      "originalVersionId": "25",
+      "clubId": 22,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "25",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        21,
+        22,
+        3,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        13,
+        20,
+        9
+      ],
+      "rolesPlus": [
+        18,
+        19,
+        20,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134
+      ],
+      "attributes": [
+        90,
+        92,
+        93,
+        94,
+        55,
+        80
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67321058,
+      "assetId": 212194
     },
     "67324305": {
       "name": "Serhou Guirassy",
@@ -1952,7 +2008,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 28250,
+      "price": 32750,
       "resourceId": 67324305,
       "assetId": 215441
     },
@@ -2006,7 +2062,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 30250,
+      "price": 28000,
       "resourceId": 67333060,
       "assetId": 224196
     },
@@ -2058,7 +2114,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 28750,
       "resourceId": 67338755,
       "assetId": 229891
     },
@@ -2104,7 +2160,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 399000,
+      "price": 420000,
       "resourceId": 67355727,
       "assetId": 246863
     },
@@ -2149,7 +2205,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 34000,
+      "price": 31500,
       "resourceId": 67356683,
       "assetId": 247819
     },
@@ -2196,7 +2252,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 195000,
+      "price": 176000,
       "resourceId": 67360716,
       "assetId": 251852
     },
@@ -2335,7 +2391,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 82000,
+      "price": 71000,
       "resourceId": 84101521,
       "assetId": 215441
     },
@@ -2396,7 +2452,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 158000,
+      "price": 160000,
       "resourceId": 84115971,
       "assetId": 229891
     },
@@ -2445,7 +2501,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 715000,
+      "price": 720000,
       "resourceId": 84133899,
       "assetId": 247819
     },
@@ -2510,7 +2566,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 276000,
+      "price": 230000,
       "resourceId": 84137932,
       "assetId": 251852
     },
