@@ -182,7 +182,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 3600,
+    "price": 5100,
     "resourceId": 73961,
     "assetId": 73961
   },
@@ -552,7 +552,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 900,
     "resourceId": 232412,
     "assetId": 232412
   },
@@ -783,7 +783,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 240653,
     "assetId": 240653
   },
@@ -1053,7 +1053,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 5700,
     "resourceId": 259192,
     "assetId": 259192
   },
@@ -1211,45 +1211,6 @@
     "resourceId": 271139,
     "assetId": 271139
   },
-  "271800": {
-    "name": "Yankuba Minteh",
-    "cardName": "Minteh",
-    "originalVersionId": "1",
-    "clubId": 1808,
-    "leagueId": 13,
-    "countryId": 116,
-    "versionId": "3002",
-    "rating": 77,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 4,
-    "preferredPosition": "RM",
-    "possiblePositions": [
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      21
-    ],
-    "playStylesPlus": [
-      25
-    ],
-    "rolesPlus": [
-      26
-    ],
-    "attributes": [
-      94,
-      67,
-      66,
-      81,
-      55,
-      57
-    ],
-    "hasDynamicImage": false,
-    "price": 650,
-    "resourceId": 271800,
-    "assetId": 271800
-  },
   "275006": {
     "name": "Mo Faal",
     "cardName": "Faal",
@@ -1282,7 +1243,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 2200,
+    "price": 5100,
     "resourceId": 275006,
     "assetId": 275006
   },
@@ -1583,6 +1544,58 @@
     "resourceId": 50602787,
     "assetId": 271139
   },
+  "50603448": {
+    "name": "Yankuba Minteh",
+    "cardName": "Minteh",
+    "originalVersionId": "58",
+    "clubId": 1808,
+    "leagueId": 13,
+    "countryId": 116,
+    "versionId": "58",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      11,
+      13,
+      20,
+      22,
+      24,
+      8
+    ],
+    "playStylesPlus": [
+      21,
+      25
+    ],
+    "rolesPlus": [
+      37,
+      123,
+      124,
+      125,
+      126,
+      135,
+      136
+    ],
+    "attributes": [
+      97,
+      90,
+      89,
+      92,
+      70,
+      80
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 30250,
+    "resourceId": 50603448,
+    "assetId": 271800
+  },
   "50603794": {
     "name": "Kanteh",
     "cardName": "Kanteh",
@@ -1690,7 +1703,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 1800,
     "resourceId": 50611362,
     "assetId": 279714
   },
