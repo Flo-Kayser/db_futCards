@@ -33,7 +33,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1100,
       "resourceId": 268942,
       "assetId": 268942
     },
@@ -371,7 +371,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 25750,
+      "price": 26750,
       "resourceId": 50585083,
       "assetId": 253435
     },
@@ -419,7 +419,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 27000,
+      "price": 29750,
       "resourceId": 50609347,
       "assetId": 277699
     },
@@ -471,7 +471,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 840000,
+      "price": 798000,
       "resourceId": 67335966,
       "assetId": 227102
     },
@@ -483,10 +483,10 @@
       "leagueId": 2222,
       "countryId": 45,
       "versionId": "32",
-      "rating": 93,
+      "rating": 96,
       "preferredFoot": "Right",
       "weakFoot": 5,
-      "skillMoves": 3,
+      "skillMoves": 5,
       "preferredPosition": "CB",
       "possiblePositions": [
         "CB"
@@ -513,15 +513,15 @@
         148
       ],
       "attributes": [
-        87,
-        57,
-        83,
-        83,
-        94,
-        92
+        90,
+        60,
+        86,
+        86,
+        97,
+        95
       ],
       "hasDynamicImage": true,
-      "price": 469000,
+      "price": 202000,
       "resourceId": 67336054,
       "assetId": 227190
     },
@@ -569,7 +569,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 30750,
       "resourceId": 67345343,
       "assetId": 236479
     },
@@ -620,19 +620,19 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 2400000,
+      "price": 2172000,
       "resourceId": 67350531,
       "assetId": 241667
     },
     "67370719": {
       "name": "Kika Nazareth",
       "cardName": "Kika Nazareth",
-      "originalVersionId": "58",
+      "originalVersionId": "57",
       "clubId": 116325,
       "leagueId": 2222,
       "countryId": 38,
-      "versionId": "58",
-      "rating": 90,
+      "versionId": "57",
+      "rating": 92,
       "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 5,
@@ -650,12 +650,12 @@
         21,
         22,
         24,
-        6,
         8
       ],
       "playStylesPlus": [
         20,
-        25
+        25,
+        6
       ],
       "rolesPlus": [
         18,
@@ -676,12 +676,12 @@
         143
       ],
       "attributes": [
-        93,
-        90,
-        90,
+        95,
         92,
-        67,
-        83
+        92,
+        94,
+        69,
+        85
       ],
       "hasDynamicImage": true,
       "sbcPrice": 32000,
@@ -748,9 +748,74 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 1090000,
+      "price": 980000,
       "resourceId": 67378268,
       "assetId": 269404
+    },
+    "67380310": {
+      "name": "Vicky López",
+      "cardName": "Vicky López",
+      "originalVersionId": "32",
+      "clubId": 116325,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "32",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        13,
+        21,
+        22,
+        23,
+        25,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        8
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        99,
+        94,
+        95,
+        97,
+        63,
+        81
+      ],
+      "hasDynamicImage": true,
+      "price": 900000,
+      "resourceId": 67380310,
+      "assetId": 271446
     },
     "84123369": {
       "name": "Patri Guijarro",
@@ -799,7 +864,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 76000,
+      "price": 72000,
       "resourceId": 84123369,
       "assetId": 237289
     },
@@ -852,7 +917,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 426000,
+      "price": 415000,
       "resourceId": 84127926,
       "assetId": 241846
     },
@@ -916,73 +981,9 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 45000,
+      "price": 54000,
       "resourceId": 84153610,
       "assetId": 267530
-    },
-    "84157526": {
-      "name": "Vicky López",
-      "cardName": "Vicky López",
-      "originalVersionId": "65",
-      "clubId": 116325,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "65",
-      "rating": 93,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        11,
-        13,
-        22,
-        23,
-        25,
-        6,
-        8
-      ],
-      "playStylesPlus": [
-        0,
-        20,
-        21
-      ],
-      "rolesPlus": [
-        18,
-        19,
-        20,
-        32,
-        34,
-        42,
-        44,
-        121,
-        122,
-        131,
-        133,
-        135,
-        136,
-        137,
-        141,
-        143
-      ],
-      "attributes": [
-        96,
-        91,
-        92,
-        94,
-        61,
-        78
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 149750,
-      "resourceId": 84157526,
-      "assetId": 271446
     },
     "100890499": {
       "name": "Alexia Putellas",
@@ -1041,7 +1042,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 254000,
+      "price": 216000,
       "resourceId": 100890499,
       "assetId": 227203
     },
@@ -1102,7 +1103,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 41500,
+      "price": 40000,
       "resourceId": 100916732,
       "assetId": 253436
     },
@@ -1160,7 +1161,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 3700000,
+      "price": 3450000,
       "resourceId": 151257475,
       "assetId": 262531
     }
