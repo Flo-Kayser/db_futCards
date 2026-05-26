@@ -37,7 +37,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 950,
+    "price": 1700,
     "resourceId": 269404,
     "assetId": 269404,
     "originalVersionId": 1
@@ -82,7 +82,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 1283000,
+    "price": 1200000,
     "resourceId": 50601052,
     "assetId": 269404,
     "originalVersionId": 22
@@ -92,7 +92,7 @@
     "leagueId": 2222,
     "countryId": 45,
     "versionId": "111",
-    "rating": 92,
+    "rating": 93,
     "preferredFoot": "Left",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -112,7 +112,8 @@
       22,
       24,
       7,
-      8
+      8,
+      9
     ],
     "playStylesPlus": [
       20,
@@ -136,18 +137,78 @@
       144
     ],
     "attributes": [
-      96,
+      97,
       99,
-      87,
-      91,
-      61,
-      86
+      88,
+      92,
+      62,
+      87
     ],
     "hasDynamicImage": true,
-    "price": 980000,
+    "price": 1200000,
     "resourceId": 67378268,
     "assetId": 269404,
     "originalVersionId": 111
+  },
+  "84155484": {
+    "clubId": 116325,
+    "leagueId": 2222,
+    "countryId": 45,
+    "versionId": "32",
+    "rating": 96,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      20,
+      23,
+      25,
+      6,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      21,
+      9
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      97,
+      95,
+      92,
+      94,
+      65,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 5267000,
+    "resourceId": 84155484,
+    "assetId": 269404,
+    "originalVersionId": 32
   },
   "cardName": "Salma Paralluelo",
   "name": "Salma Paralluelo"
