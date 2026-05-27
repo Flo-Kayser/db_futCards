@@ -1,6 +1,62 @@
 {
   "clubName": "Everton",
   "players": {
+    "50511864": {
+      "name": "Séamus Coleman",
+      "cardName": "Coleman",
+      "originalVersionId": "25",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 25,
+      "versionId": "25",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        14,
+        16,
+        17,
+        2,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        21,
+        28
+      ],
+      "rolesPlus": [
+        24,
+        26,
+        103,
+        104,
+        105,
+        106,
+        123,
+        125,
+        146
+      ],
+      "attributes": [
+        91,
+        88,
+        91,
+        91,
+        93,
+        87
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50511864,
+      "assetId": 180216
+    },
     "50536583": {
       "name": "Jordan Pickford",
       "cardName": "Pickford",
@@ -36,7 +92,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 26750,
+      "price": 26000,
       "resourceId": 50536583,
       "assetId": 204935
     },
@@ -245,7 +301,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 28000,
       "resourceId": 50583540,
       "assetId": 251892
     },
@@ -394,7 +450,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 33250,
       "resourceId": 67313799,
       "assetId": 204935
     },

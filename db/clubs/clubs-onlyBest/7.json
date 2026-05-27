@@ -73,41 +73,6 @@
       "resourceId": 74413,
       "assetId": 74413
     },
-    "180216": {
-      "name": "Séamus Coleman",
-      "cardName": "Coleman",
-      "originalVersionId": "1",
-      "clubId": 7,
-      "leagueId": 13,
-      "countryId": 25,
-      "versionId": "3001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        5
-      ],
-      "attributes": [
-        51,
-        65,
-        70,
-        70,
-        74,
-        61
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 180216,
-      "assetId": 180216
-    },
     "193474": {
       "name": "Idrissa Gueye",
       "cardName": "Gueye",
@@ -595,7 +560,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1900,
       "resourceId": 268631,
       "assetId": 268631
     },
@@ -668,6 +633,62 @@
       "price": 350,
       "resourceId": 276295,
       "assetId": 276295
+    },
+    "50511864": {
+      "name": "Séamus Coleman",
+      "cardName": "Coleman",
+      "originalVersionId": "25",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 25,
+      "versionId": "25",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        12,
+        14,
+        16,
+        17,
+        2,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        21,
+        28
+      ],
+      "rolesPlus": [
+        24,
+        26,
+        103,
+        104,
+        105,
+        106,
+        123,
+        125,
+        146
+      ],
+      "attributes": [
+        91,
+        88,
+        91,
+        91,
+        93,
+        87
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50511864,
+      "assetId": 180216
     },
     "50569034": {
       "name": "Kiernan Dewsbury-Hall",
@@ -828,7 +849,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 28000,
       "resourceId": 50583540,
       "assetId": 251892
     },
@@ -1062,7 +1083,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 33250,
       "resourceId": 67313799,
       "assetId": 204935
     },

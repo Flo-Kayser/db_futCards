@@ -210,7 +210,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 950,
       "resourceId": 258680,
       "assetId": 258680
     },
@@ -403,7 +403,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 9600,
+      "price": 900,
       "resourceId": 273469,
       "assetId": 273469
     },
@@ -471,7 +471,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 5100,
       "resourceId": 279129,
       "assetId": 279129
     },
@@ -611,7 +611,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 42000,
+      "price": 39500,
       "resourceId": 50558767,
       "assetId": 227119
     },
@@ -648,7 +648,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 40000,
+      "price": 38000,
       "resourceId": 50565012,
       "assetId": 233364
     },
@@ -708,7 +708,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 13750,
+      "price": 12500,
       "resourceId": 50571409,
       "assetId": 239761
     },
@@ -853,7 +853,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 60000,
+      "price": 54000,
       "resourceId": 50588649,
       "assetId": 257001
     },
@@ -1033,64 +1033,9 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 250000,
+      "price": 240000,
       "resourceId": 67346152,
       "assetId": 237288
-    },
-    "67354666": {
-      "name": "Beth Mead",
-      "cardName": "Mead",
-      "originalVersionId": "55",
-      "clubId": 116009,
-      "leagueId": 2216,
-      "countryId": 14,
-      "versionId": "55",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LW",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        20,
-        22,
-        25,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        0,
-        12
-      ],
-      "rolesPlus": [
-        23,
-        26,
-        37,
-        44,
-        135,
-        136,
-        138,
-        139,
-        141
-      ],
-      "attributes": [
-        89,
-        88,
-        87,
-        90,
-        70,
-        77
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 35100,
-      "price": 37900,
-      "resourceId": 67354666,
-      "assetId": 245802
     },
     "67355290": {
       "name": "Leah Williamson",
@@ -1139,7 +1084,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 193000,
+      "price": 210000,
       "resourceId": 67355290,
       "assetId": 246426
     },
@@ -1193,7 +1138,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 416000,
+      "price": 386000,
       "resourceId": 67367844,
       "assetId": 258980
     },
@@ -1290,7 +1235,7 @@
         90
       ],
       "hasDynamicImage": false,
-      "price": 27750,
+      "price": 23500,
       "resourceId": 67385163,
       "assetId": 276299
     },
@@ -1355,9 +1300,72 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 174000,
+      "price": 191000,
       "resourceId": 67385416,
       "assetId": 276552
+    },
+    "84131882": {
+      "name": "Beth Mead",
+      "cardName": "Mead",
+      "originalVersionId": "25",
+      "clubId": 116009,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "25",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        10,
+        12,
+        20,
+        22,
+        24,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        25,
+        7
+      ],
+      "rolesPlus": [
+        37,
+        40,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        138,
+        139
+      ],
+      "attributes": [
+        91,
+        91,
+        90,
+        92,
+        75,
+        86
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84131882,
+      "assetId": 245802
     },
     "84151319": {
       "name": "Katie McCabe",
@@ -1414,7 +1422,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 22750,
+      "price": 29000,
       "resourceId": 84151319,
       "assetId": 265239
     },
@@ -1479,7 +1487,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 67500,
+      "price": 60000,
       "resourceId": 100900584,
       "assetId": 237288
     }
