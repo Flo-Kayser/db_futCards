@@ -49,7 +49,7 @@
       60
     ],
     "hasDynamicImage": true,
-    "price": 32000,
+    "price": 29000,
     "resourceId": 67110415,
     "assetId": 1551,
     "name": "Ludovic Giuly",
@@ -97,7 +97,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 137000,
+    "price": 165000,
     "resourceId": 50337309,
     "assetId": 5661,
     "name": "Fernando Morientes",
@@ -107,8 +107,8 @@
     "clubId": 114605,
     "leagueId": 53,
     "countryId": 45,
-    "versionId": "77",
-    "rating": 91,
+    "versionId": "21",
+    "rating": 94,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -117,37 +117,37 @@
       "RB"
     ],
     "playStyles": [
-      14,
       15,
-      17,
+      16,
       18,
+      21,
       25,
       28,
-      29,
       8
     ],
     "playStylesPlus": [
-      16,
-      21
+      10,
+      14,
+      17
     ],
     "rolesPlus": [
-      5,
-      6,
       103,
       104,
+      105,
+      106,
       146
     ],
     "attributes": [
-      88,
-      70,
-      86,
-      86,
+      91,
+      73,
       90,
-      91
+      90,
+      93,
+      99
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 147300,
-    "resourceId": 67117212,
+    "price": 100000,
+    "resourceId": 83894428,
     "assetId": 8348,
     "name": "Míchel Salgado",
     "cardName": "Míchel Salgado"
@@ -156,8 +156,8 @@
     "clubId": 114605,
     "leagueId": 53,
     "countryId": 52,
-    "versionId": "135",
-    "rating": 91,
+    "versionId": "21",
+    "rating": 92,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 5,
@@ -166,35 +166,35 @@
       "CAM"
     ],
     "playStyles": [
+      0,
       13,
-      20,
       22,
       23,
-      25,
-      6,
-      8
+      4,
+      8,
+      9
     ],
     "playStylesPlus": [
       11,
-      9
+      20,
+      6
     ],
     "rolesPlus": [
-      131,
-      132,
-      133,
-      134
+      32,
+      34,
+      131
     ],
     "attributes": [
-      89,
-      86,
-      91,
+      90,
+      88,
       92,
-      54,
-      81
+      99,
+      56,
+      85
     ],
+    "isObjective": true,
     "hasDynamicImage": true,
-    "price": 34750,
-    "resourceId": 67119823,
+    "resourceId": 83897039,
     "assetId": 10959,
     "name": "Pablo Aimar",
     "cardName": "Aimar"
@@ -244,7 +244,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 26000,
+    "price": 30000,
     "resourceId": 50357572,
     "assetId": 25924,
     "name": "Capdevila",
@@ -298,7 +298,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 1024000,
+    "price": 1073000,
     "resourceId": 50358357,
     "assetId": 26709,
     "name": "Rafael Márquez",
@@ -345,7 +345,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 99500,
+    "price": 108000,
     "resourceId": 67186651,
     "assetId": 77787,
     "name": "Iván Zamorano",
@@ -397,11 +397,71 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 44250,
+    "price": 42000,
     "resourceId": 67251618,
     "assetId": 142754,
     "name": "Javier Mascherano",
     "cardName": "Mascherano"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "21",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      10,
+      11,
+      13,
+      16,
+      20,
+      25
+    ],
+    "playStylesPlus": [
+      6,
+      8,
+      9
+    ],
+    "rolesPlus": [
+      15,
+      17,
+      32,
+      49,
+      114,
+      116,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      133,
+      134
+    ],
+    "attributes": [
+      90,
+      90,
+      99,
+      92,
+      85,
+      83
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 84048975,
+    "assetId": 162895,
+    "name": "Cesc Fàbregas",
+    "cardName": "Cesc Fàbregas"
   },
   {
     "clubId": 114605,
@@ -455,7 +515,7 @@
       63
     ],
     "hasDynamicImage": true,
-    "price": 450000,
+    "price": 393000,
     "resourceId": 50545749,
     "assetId": 214101,
     "name": "Paulo Futre",

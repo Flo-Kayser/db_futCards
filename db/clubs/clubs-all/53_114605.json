@@ -2,6 +2,162 @@
   {
     "clubId": 114605,
     "leagueId": 53,
+    "countryId": 45,
+    "versionId": "21",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      10,
+      11,
+      13,
+      16,
+      20,
+      25
+    ],
+    "playStylesPlus": [
+      6,
+      8,
+      9
+    ],
+    "rolesPlus": [
+      15,
+      17,
+      32,
+      49,
+      114,
+      116,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      133,
+      134
+    ],
+    "attributes": [
+      90,
+      90,
+      99,
+      92,
+      85,
+      83
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 84048975,
+    "assetId": 162895,
+    "name": "Cesc Fàbregas",
+    "cardName": "Cesc Fàbregas"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 53,
+    "countryId": 52,
+    "versionId": "21",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM"
+    ],
+    "playStyles": [
+      0,
+      13,
+      22,
+      23,
+      4,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      11,
+      20,
+      6
+    ],
+    "rolesPlus": [
+      32,
+      34,
+      131
+    ],
+    "attributes": [
+      90,
+      88,
+      92,
+      99,
+      56,
+      85
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 83897039,
+    "assetId": 10959,
+    "name": "Pablo Aimar",
+    "cardName": "Aimar"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 53,
+    "countryId": 45,
+    "versionId": "21",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB"
+    ],
+    "playStyles": [
+      15,
+      16,
+      18,
+      21,
+      25,
+      28,
+      8
+    ],
+    "playStylesPlus": [
+      10,
+      14,
+      17
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      146
+    ],
+    "attributes": [
+      91,
+      73,
+      90,
+      90,
+      93,
+      99
+    ],
+    "hasDynamicImage": true,
+    "price": 100000,
+    "resourceId": 83894428,
+    "assetId": 8348,
+    "name": "Míchel Salgado",
+    "cardName": "Míchel Salgado"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 53,
     "countryId": 83,
     "versionId": "135",
     "rating": 94,
@@ -47,7 +203,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 1024000,
+    "price": 1073000,
     "resourceId": 50358357,
     "assetId": 26709,
     "name": "Rafael Márquez",
@@ -185,7 +341,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 137000,
+    "price": 165000,
     "resourceId": 50337309,
     "assetId": 5661,
     "name": "Fernando Morientes",
@@ -232,7 +388,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 34750,
+    "price": 24000,
     "resourceId": 67119823,
     "assetId": 10959,
     "name": "Pablo Aimar",
@@ -279,7 +435,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 99500,
+    "price": 108000,
     "resourceId": 67186651,
     "assetId": 77787,
     "name": "Iván Zamorano",
@@ -331,7 +487,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 44250,
+    "price": 42000,
     "resourceId": 67251618,
     "assetId": 142754,
     "name": "Javier Mascherano",
@@ -438,7 +594,7 @@
       60
     ],
     "hasDynamicImage": true,
-    "price": 32000,
+    "price": 29000,
     "resourceId": 67110415,
     "assetId": 1551,
     "name": "Ludovic Giuly",
@@ -482,7 +638,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 44750,
+    "price": 37000,
     "resourceId": 50339996,
     "assetId": 8348,
     "name": "Míchel Salgado",
@@ -627,7 +783,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 26000,
+    "price": 30000,
     "resourceId": 50357572,
     "assetId": 25924,
     "name": "Capdevila",
@@ -668,7 +824,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 12500,
+    "price": 12750,
     "resourceId": 77787,
     "assetId": 77787,
     "name": "Iván Zamorano",
@@ -712,7 +868,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 33750,
+    "price": 25250,
     "resourceId": 50409435,
     "assetId": 77787,
     "name": "Iván Zamorano",
@@ -813,7 +969,7 @@
       63
     ],
     "hasDynamicImage": true,
-    "price": 450000,
+    "price": 393000,
     "resourceId": 50545749,
     "assetId": 214101,
     "name": "Paulo Futre",
@@ -862,7 +1018,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 48500,
+    "price": 61500,
     "resourceId": 50474402,
     "assetId": 142754,
     "name": "Javier Mascherano",
@@ -907,7 +1063,7 @@
       65
     ],
     "hasDynamicImage": true,
-    "price": 27000,
+    "price": 30000,
     "resourceId": 50342607,
     "assetId": 10959,
     "name": "Pablo Aimar",
@@ -946,7 +1102,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 18000,
+    "price": 15000,
     "resourceId": 8348,
     "assetId": 8348,
     "name": "Míchel Salgado",
@@ -986,7 +1142,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 15250,
+    "price": 14000,
     "resourceId": 5661,
     "assetId": 5661,
     "name": "Fernando Morientes",
@@ -1030,7 +1186,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 37500,
+    "price": 36750,
     "resourceId": 214101,
     "assetId": 214101,
     "name": "Paulo Futre",
@@ -1073,7 +1229,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 12500,
+    "price": 12750,
     "resourceId": 262285,
     "assetId": 262285,
     "name": "Guti",
@@ -1115,7 +1271,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 21000,
+    "price": 18500,
     "resourceId": 266691,
     "assetId": 266691,
     "name": "Diego Forlán",
@@ -1155,7 +1311,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 16000,
+    "price": 15000,
     "resourceId": 25924,
     "assetId": 25924,
     "name": "Capdevila",
@@ -1197,7 +1353,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 16000,
+    "price": 16250,
     "resourceId": 142754,
     "assetId": 142754,
     "name": "Javier Mascherano",
@@ -1241,7 +1397,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 30000,
+    "price": 20250,
     "resourceId": 26709,
     "assetId": 26709,
     "name": "Rafael Márquez",

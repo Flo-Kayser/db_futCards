@@ -130,6 +130,19 @@
         "tertiaryColor": "#7381ff"
       }
     },
+    "21": {
+      "count": 29,
+      "file": "db/versions/21.json",
+      "details": {
+        "name": "Prime Hero",
+        "hasStrip": true,
+        "createdAt": "2026-05-28T17:45:00.532Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_21_0.png",
+        "primaryColor": "#fcfcf7",
+        "secondaryColor": "#c54473",
+        "tertiaryColor": "#fcfcf7"
+      }
+    },
     "22": {
       "count": 59,
       "file": "db/versions/22.json",
@@ -443,7 +456,7 @@
       }
     },
     "58": {
-      "count": 39,
+      "count": 41,
       "file": "db/versions/58.json",
       "details": {
         "name": "Showdown",
@@ -1107,8 +1120,8 @@
     }
   },
   "meta": {
-    "totalVersions": 85,
-    "totalVersionsWithoutBase": 79,
-    "updatedAt": "2026-05-28T19:43:41.213Z"
+    "totalVersions": 86,
+    "totalVersionsWithoutBase": 80,
+    "updatedAt": "2026-05-29T19:39:04.276Z"
   }
 }
