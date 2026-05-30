@@ -1,133 +1,115 @@
 {
   "clubName": "Crystal Palace",
   "players": {
-    "50564378": {
-      "name": "Daichi Kamada",
-      "cardName": "Kamada",
-      "originalVersionId": "91",
+    "50569294": {
+      "name": "Daniel Muñoz",
+      "cardName": "Muñoz",
+      "originalVersionId": "126",
       "clubId": 1799,
       "leagueId": 13,
-      "countryId": 163,
-      "versionId": "91",
-      "rating": 77,
+      "countryId": 56,
+      "versionId": "126",
+      "rating": 96,
       "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "RB",
       "possiblePositions": [
-        "CAM",
-        "CM"
+        "RB",
+        "RM"
       ],
       "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        33
-      ],
-      "attributes": [
-        71,
-        72,
-        77,
-        78,
-        64,
-        66
-      ],
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 50564378,
-      "assetId": 232730
-    },
-    "50564954": {
-      "name": "Dean Henderson",
-      "cardName": "Henderson",
-      "originalVersionId": "3",
-      "clubId": 1799,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "3",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        11,
-        31,
-        32,
-        33,
-        35
-      ],
-      "playStylesPlus": [
-        34
-      ],
-      "rolesPlus": [
-        101,
-        102,
-        145
-      ],
-      "attributes": [
-        86,
-        83,
-        82,
-        86,
-        60,
-        85
-      ],
-      "hasDynamicImage": true,
-      "price": 24500,
-      "resourceId": 50564954,
-      "assetId": 233306
-    },
-    "50575715": {
-      "name": "Maxence Lacroix",
-      "cardName": "Lacroix",
-      "originalVersionId": "117",
-      "clubId": 1799,
-      "leagueId": 13,
-      "countryId": 18,
-      "versionId": "117",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10,
         14,
         16,
         17,
-        18,
-        19
+        21,
+        26,
+        28,
+        8
       ],
       "playStylesPlus": [
-        15
+        20,
+        25,
+        9
       ],
       "rolesPlus": [
-        11,
-        48,
-        112,
-        113
+        103,
+        104,
+        105,
+        106,
+        123,
+        124,
+        125,
+        126,
+        146
       ],
       "attributes": [
-        90,
-        50,
-        70,
-        74,
+        93,
         86,
-        87
+        93,
+        93,
+        96,
+        95
       ],
       "hasDynamicImage": true,
-      "price": 117000,
-      "resourceId": 50575715,
-      "assetId": 244067
+      "price": 2950000,
+      "resourceId": 50569294,
+      "assetId": 237646
+    },
+    "50572595": {
+      "name": "Tyrick Mitchell",
+      "cardName": "Mitchell",
+      "originalVersionId": "126",
+      "clubId": 1799,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "126",
+      "rating": 96,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12,
+        16,
+        18,
+        25,
+        28,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        14,
+        15,
+        17
+      ],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        147
+      ],
+      "attributes": [
+        94,
+        61,
+        93,
+        93,
+        96,
+        93
+      ],
+      "hasDynamicImage": true,
+      "price": 2306000,
+      "resourceId": 50572595,
+      "assetId": 240947
     },
     "50582602": {
       "name": "Chris Richards",
@@ -174,60 +156,220 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 290000,
+      "price": 280000,
       "resourceId": 50582602,
       "assetId": 250954
     },
-    "50590888": {
-      "name": "Adam Wharton",
-      "cardName": "Wharton",
-      "originalVersionId": "71",
+    "50590138": {
+      "name": "Chadi Riad",
+      "cardName": "Riad",
+      "originalVersionId": "126",
       "clubId": 1799,
       "leagueId": 13,
-      "countryId": 14,
-      "versionId": "71",
-      "rating": 88,
+      "countryId": 129,
+      "versionId": "126",
+      "rating": 96,
       "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CB",
       "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        16,
+        17,
+        18,
+        25,
+        9
+      ],
+      "playStylesPlus": [
+        15,
+        19,
+        28
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        91,
+        53,
+        90,
+        91,
+        95,
+        97
+      ],
+      "hasDynamicImage": true,
+      "price": 1090000,
+      "resourceId": 50590138,
+      "assetId": 258490
+    },
+    "67182997": {
+      "name": "Jaydee Canvot",
+      "cardName": "Canvot",
+      "originalVersionId": "126",
+      "clubId": 1799,
+      "leagueId": 13,
+      "countryId": 18,
+      "versionId": "126",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
         "CDM",
         "CM"
       ],
       "playStyles": [
+        10,
+        15,
+        16,
         17,
         18,
+        19,
+        9
+      ],
+      "playStylesPlus": [
+        14,
+        25,
+        28
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        148,
+        149
+      ],
+      "attributes": [
+        93,
+        52,
+        88,
+        92,
+        94,
+        96
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67182997,
+      "assetId": 74133
+    },
+    "67341594": {
+      "name": "Daichi Kamada",
+      "cardName": "Kamada",
+      "originalVersionId": "126",
+      "clubId": 1799,
+      "leagueId": 13,
+      "countryId": 163,
+      "versionId": "126",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        13,
+        16,
+        21,
         22,
-        24,
         8,
         9
       ],
       "playStylesPlus": [
         11,
-        16
+        20,
+        24
       ],
       "rolesPlus": [
-        16,
-        18,
-        20,
-        114,
+        118,
         119,
+        120,
         121,
-        149
+        122,
+        131,
+        132,
+        133,
+        134
       ],
       "attributes": [
-        84,
-        75,
-        90,
+        93,
+        93,
+        96,
+        96,
         86,
-        88,
-        80
+        90
       ],
       "hasDynamicImage": true,
-      "price": 19500,
-      "resourceId": 50590888,
-      "assetId": 259240
+      "price": 1300000,
+      "resourceId": 67341594,
+      "assetId": 232730
+    },
+    "67342170": {
+      "name": "Dean Henderson",
+      "cardName": "Henderson",
+      "originalVersionId": "126",
+      "clubId": 1799,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "126",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        32,
+        34,
+        9
+      ],
+      "playStylesPlus": [
+        31,
+        33,
+        35
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        96,
+        93,
+        91,
+        96,
+        74,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 1100000,
+      "resourceId": 67342170,
+      "assetId": 233306
     },
     "67344217": {
       "name": "Ismaïla Sarr",
@@ -289,37 +431,145 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 725000,
+      "price": 750000,
       "resourceId": 67344217,
       "assetId": 235353
     },
-    "67347620": {
+    "67352931": {
+      "name": "Maxence Lacroix",
+      "cardName": "Lacroix",
+      "originalVersionId": "126",
+      "clubId": 1799,
+      "leagueId": 13,
+      "countryId": 18,
+      "versionId": "126",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        15,
+        18,
+        19,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        16,
+        17,
+        25
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        92,
+        61,
+        91,
+        91,
+        96,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 6590000,
+      "resourceId": 67352931,
+      "assetId": 244067
+    },
+    "67367308": {
+      "name": "Evann Guessand",
+      "cardName": "Guessand",
+      "originalVersionId": "126",
+      "clubId": 1799,
+      "leagueId": 13,
+      "countryId": 108,
+      "versionId": "126",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        12,
+        20,
+        22,
+        24,
+        25,
+        4
+      ],
+      "playStylesPlus": [
+        21,
+        6,
+        8
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        94,
+        94,
+        93,
+        96,
+        50,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 1070000,
+      "resourceId": 67367308,
+      "assetId": 258444
+    },
+    "84124836": {
       "name": "Jørgen Strand Larsen",
       "cardName": "Larsen",
-      "originalVersionId": "111",
+      "originalVersionId": "126",
       "clubId": 1799,
       "leagueId": 13,
       "countryId": 36,
-      "versionId": "111",
-      "rating": 89,
+      "versionId": "126",
+      "rating": 96,
       "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
+      "weakFoot": 5,
+      "skillMoves": 5,
       "preferredPosition": "ST",
       "possiblePositions": [
         "ST"
       ],
       "playStyles": [
-        0,
         11,
         2,
+        20,
+        25,
         29,
-        4,
         7,
         8
       ],
       "playStylesPlus": [
-        20,
+        0,
+        4,
         6
       ],
       "rolesPlus": [
@@ -329,79 +579,135 @@
         144
       ],
       "attributes": [
-        88,
-        91,
-        81,
-        88,
-        41,
-        93
+        93,
+        96,
+        90,
+        93,
+        42,
+        96
       ],
       "hasDynamicImage": true,
-      "price": 14000,
-      "resourceId": 67347620,
+      "price": 2900000,
+      "resourceId": 84124836,
       "assetId": 238756
     },
-    "84122541": {
+    "84145320": {
+      "name": "Adam Wharton",
+      "cardName": "Wharton",
+      "originalVersionId": "126",
+      "clubId": 1799,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "126",
+      "rating": 96,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        17,
+        18,
+        20,
+        22,
+        24
+      ],
+      "playStylesPlus": [
+        11,
+        16,
+        8,
+        9
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        91,
+        90,
+        97,
+        96,
+        95,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 7500000,
+      "resourceId": 84145320,
+      "assetId": 259240
+    },
+    "100899757": {
       "name": "Jean-Philippe Mateta",
       "cardName": "Mateta",
-      "originalVersionId": "20",
+      "originalVersionId": "126",
       "clubId": 1799,
       "leagueId": 13,
       "countryId": 18,
-      "versionId": "20",
-      "rating": 91,
+      "versionId": "126",
+      "rating": 96,
       "preferredFoot": "Right",
       "weakFoot": 5,
-      "skillMoves": 4,
+      "skillMoves": 5,
       "preferredPosition": "ST",
       "possiblePositions": [
         "ST"
       ],
       "playStyles": [
-        0,
         1,
         11,
         2,
-        23,
         24,
         25,
+        29,
         7
       ],
       "playStylesPlus": [
-        29,
+        0,
+        22,
         6
       ],
       "rolesPlus": [
-        44,
         141,
         142,
-        143
+        143,
+        144
       ],
       "attributes": [
+        93,
+        96,
         90,
-        92,
-        80,
-        89,
-        51,
-        93
+        94,
+        57,
+        96
       ],
       "hasDynamicImage": true,
-      "price": 53500,
-      "resourceId": 84122541,
+      "price": 4050000,
+      "resourceId": 100899757,
       "assetId": 236461
     },
-    "84145457": {
+    "100922673": {
       "name": "Yeremy Pino",
       "cardName": "Yeremy Pino",
-      "originalVersionId": "71",
+      "originalVersionId": "126",
       "clubId": 1799,
       "leagueId": 13,
       "countryId": 45,
-      "versionId": "71",
-      "rating": 88,
+      "versionId": "126",
+      "rating": 96,
       "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
+      "weakFoot": 5,
+      "skillMoves": 5,
       "preferredPosition": "RM",
       "possiblePositions": [
         "LM",
@@ -411,37 +717,45 @@
       ],
       "playStyles": [
         11,
-        20,
-        21,
+        22,
+        23,
         25,
         7,
+        8,
         9
       ],
       "playStylesPlus": [
-        0
+        0,
+        20,
+        21
       ],
       "rolesPlus": [
-        26,
-        30,
-        36,
-        39,
         123,
+        124,
+        125,
+        126,
         127,
+        128,
+        129,
+        130,
         135,
-        138
+        136,
+        137,
+        138,
+        139,
+        140
       ],
       "attributes": [
-        95,
-        88,
-        89,
-        89,
-        49,
-        66
+        96,
+        94,
+        91,
+        96,
+        57,
+        82
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 59800,
-      "price": 65000,
-      "resourceId": 84145457,
+      "price": 0,
+      "resourceId": 100922673,
       "assetId": 259377
     }
   }
