@@ -1,49 +1,60 @@
 {
   "clubName": "Paris SG",
   "players": {
-    "50571873": {
-      "name": "Matvey Safonov",
-      "cardName": "Safonov",
-      "originalVersionId": "8",
+    "50566860": {
+      "name": "Achraf Hakimi",
+      "cardName": "Hakimi",
+      "originalVersionId": "124",
       "clubId": 73,
       "leagueId": 16,
-      "countryId": 40,
-      "versionId": "8",
-      "rating": 88,
+      "countryId": 129,
+      "versionId": "124",
+      "rating": 96,
       "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "RB",
       "possiblePositions": [
-        "GK"
+        "RB",
+        "RM"
       ],
       "playStyles": [
-        10,
-        30,
-        32,
-        33
+        0,
+        16,
+        17,
+        24,
+        26,
+        28,
+        6
       ],
       "playStylesPlus": [
-        34,
-        35
+        12,
+        14,
+        25
       ],
       "rolesPlus": [
-        2,
-        101,
-        145
+        103,
+        104,
+        105,
+        106,
+        123,
+        124,
+        125,
+        126,
+        146
       ],
       "attributes": [
-        88,
-        87,
-        86,
+        96,
         90,
-        70,
-        88
+        92,
+        93,
+        92,
+        90
       ],
       "hasDynamicImage": true,
-      "price": 315000,
-      "resourceId": 50571873,
-      "assetId": 240225
+      "price": 2800000,
+      "resourceId": 50566860,
+      "assetId": 235212
     },
     "50583793": {
       "name": "Nuno Mendes",
@@ -92,104 +103,9 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 4205000,
+      "price": 3870000,
       "resourceId": 50583793,
       "assetId": 252145
-    },
-    "50588551": {
-      "name": "Gonçalo Ramos",
-      "cardName": "Gonçalo Ramos",
-      "originalVersionId": "90",
-      "clubId": 73,
-      "leagueId": 16,
-      "countryId": 38,
-      "versionId": "90",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        11,
-        20,
-        21,
-        24,
-        8
-      ],
-      "playStylesPlus": [
-        6,
-        7
-      ],
-      "rolesPlus": [
-        43,
-        141,
-        142,
-        144
-      ],
-      "attributes": [
-        87,
-        88,
-        80,
-        87,
-        55,
-        87
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 32000,
-      "resourceId": 50588551,
-      "assetId": 256903
-    },
-    "50590429": {
-      "name": "Illia Zabarnyi",
-      "cardName": "Zabarnyi",
-      "originalVersionId": "57",
-      "clubId": 73,
-      "leagueId": 16,
-      "countryId": 49,
-      "versionId": "57",
-      "rating": 91,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        14,
-        15,
-        16,
-        18,
-        19,
-        28,
-        9
-      ],
-      "playStylesPlus": [
-        10,
-        17
-      ],
-      "rolesPlus": [
-        111,
-        112,
-        113,
-        148
-      ],
-      "attributes": [
-        91,
-        51,
-        82,
-        84,
-        91,
-        90
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 37000,
-      "resourceId": 50590429,
-      "assetId": 258781
     },
     "50611357": {
       "name": "Lucas Beraldo",
@@ -199,10 +115,10 @@
       "leagueId": 16,
       "countryId": 54,
       "versionId": "124",
-      "rating": 90,
+      "rating": 96,
       "preferredFoot": "Left",
       "weakFoot": 5,
-      "skillMoves": 3,
+      "skillMoves": 5,
       "preferredPosition": "CB",
       "possiblePositions": [
         "CB",
@@ -240,15 +156,15 @@
         148
       ],
       "attributes": [
-        87,
-        52,
-        82,
-        84,
-        91,
-        90
+        93,
+        58,
+        88,
+        90,
+        97,
+        96
       ],
       "hasDynamicImage": true,
-      "price": 376000,
+      "price": 217000,
       "resourceId": 50611357,
       "assetId": 279709
     },
@@ -357,136 +273,110 @@
       "resourceId": 67189538,
       "assetId": 80674
     },
-    "67335135": {
-      "name": "Fabián Ruiz",
-      "cardName": "Fabián Ruiz",
-      "originalVersionId": "57",
+    "67349089": {
+      "name": "Matvey Safonov",
+      "cardName": "Safonov",
+      "originalVersionId": "124",
       "clubId": 73,
       "leagueId": 16,
-      "countryId": 45,
-      "versionId": "57",
-      "rating": 91,
-      "preferredFoot": "Left",
+      "countryId": 40,
+      "versionId": "124",
+      "rating": 96,
+      "preferredFoot": "Right",
       "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
+      "skillMoves": 5,
+      "preferredPosition": "GK",
       "possiblePositions": [
-        "CDM",
-        "CM"
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        32,
+        33,
+        34,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        30,
+        35
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        96,
+        95,
+        94,
+        96,
+        78,
+        96
+      ],
+      "hasDynamicImage": true,
+      "price": 925000,
+      "resourceId": 67349089,
+      "assetId": 240225
+    },
+    "67365767": {
+      "name": "Gonçalo Ramos",
+      "cardName": "Gonçalo Ramos",
+      "originalVersionId": "124",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 38,
+      "versionId": "124",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
       ],
       "playStyles": [
         0,
-        10,
         11,
-        20,
-        22,
-        28,
-        8
-      ],
-      "playStylesPlus": [
-        16,
-        9
-      ],
-      "rolesPlus": [
-        16,
-        49,
-        114,
-        118,
-        119,
-        120,
-        121,
-        122
-      ],
-      "attributes": [
-        88,
-        87,
-        91,
-        92,
-        87,
-        82
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 136750,
-      "price": 0,
-      "resourceId": 67335135,
-      "assetId": 226271
-    },
-    "67379537": {
-      "name": "Warren Zaïre-Emery",
-      "cardName": "Zaïre-Emery",
-      "originalVersionId": "11",
-      "clubId": 73,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "11",
-      "rating": 95,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM",
-        "RB"
-      ],
-      "playStyles": [
-        11,
-        16,
-        20,
-        22,
-        24,
-        26,
-        28
-      ],
-      "playStylesPlus": [
-        17,
-        25,
-        8
-      ],
-      "rolesPlus": [
-        14,
-        15,
-        17,
-        18,
         19,
-        22,
-        32,
-        33,
-        103,
-        104,
-        105,
-        106,
-        116,
-        120,
-        121,
-        131,
-        134,
-        146,
-        149
+        21,
+        24,
+        4,
+        8
+      ],
+      "playStylesPlus": [
+        20,
+        6,
+        7
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
         94,
-        90,
-        93,
         95,
-        92,
-        93
+        88,
+        94,
+        62,
+        96
       ],
       "hasDynamicImage": true,
-      "price": 757000,
-      "resourceId": 67379537,
-      "assetId": 270673
+      "price": 855000,
+      "resourceId": 67365767,
+      "assetId": 256903
     },
-    "84093945": {
-      "name": "Marquinhos",
-      "cardName": "Marquinhos",
-      "originalVersionId": "51",
+    "67367645": {
+      "name": "Illia Zabarnyi",
+      "cardName": "Zabarnyi",
+      "originalVersionId": "124",
       "clubId": 73,
       "leagueId": 16,
-      "countryId": 54,
-      "versionId": "51",
-      "rating": 90,
+      "countryId": 49,
+      "versionId": "124",
+      "rating": 96,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 5,
@@ -495,36 +385,93 @@
         "CB"
       ],
       "playStyles": [
-        10,
+        14,
         15,
-        16,
-        18,
+        17,
         19,
+        25,
         28,
         9
       ],
       "playStylesPlus": [
-        14,
-        17
+        10,
+        16,
+        18
       ],
       "rolesPlus": [
-        48,
         111,
         112,
-        113
+        113,
+        148
       ],
       "attributes": [
-        85,
-        60,
-        80,
-        81,
         92,
-        85
+        60,
+        85,
+        87,
+        96,
+        94
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 228500,
-      "resourceId": 84093945,
-      "assetId": 207865
+      "price": 725000,
+      "resourceId": 67367645,
+      "assetId": 258781
+    },
+    "84112351": {
+      "name": "Fabián Ruiz",
+      "cardName": "Fabián Ruiz",
+      "originalVersionId": "124",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 45,
+      "versionId": "124",
+      "rating": 96,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        16,
+        22,
+        28,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        13,
+        20
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        93,
+        92,
+        94,
+        96,
+        92,
+        87
+      ],
+      "hasDynamicImage": true,
+      "price": 1050000,
+      "resourceId": 84112351,
+      "assetId": 226271
     },
     "84129860": {
       "name": "Lee Kang In",
@@ -585,62 +532,54 @@
       "resourceId": 84129860,
       "assetId": 243780
     },
-    "84150732": {
-      "name": "Bradley Barcola",
-      "cardName": "Barcola",
-      "originalVersionId": "11",
+    "100871161": {
+      "name": "Marquinhos",
+      "cardName": "Marquinhos",
+      "originalVersionId": "124",
       "clubId": 73,
       "leagueId": 16,
-      "countryId": 18,
-      "versionId": "11",
-      "rating": 92,
+      "countryId": 54,
+      "versionId": "124",
+      "rating": 96,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 5,
-      "preferredPosition": "LW",
+      "preferredPosition": "CB",
       "possiblePositions": [
-        "LM",
-        "LW",
-        "RW"
+        "CB"
       ],
       "playStyles": [
-        11,
-        12,
-        13,
-        20,
-        22,
-        6,
-        8
+        10,
+        14,
+        15,
+        18,
+        19,
+        28,
+        9
       ],
       "playStylesPlus": [
-        0,
-        21,
-        7
+        16,
+        17,
+        25
       ],
       "rolesPlus": [
-        28,
-        127,
-        129,
-        130,
-        135,
-        136,
-        137,
-        138,
-        139,
-        140
+        111,
+        112,
+        113,
+        148
       ],
       "attributes": [
+        91,
+        66,
+        86,
+        87,
         96,
-        90,
-        90,
-        93,
-        47,
-        80
+        91
       ],
       "hasDynamicImage": true,
-      "price": 115000,
-      "resourceId": 84150732,
-      "assetId": 264652
+      "price": 1300000,
+      "resourceId": 100871161,
+      "assetId": 207865
     },
     "100894739": {
       "name": "Ousmane Dembélé",
@@ -690,19 +629,19 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 3100000,
+      "price": 3000000,
       "resourceId": 100894739,
       "assetId": 231443
     },
-    "100910931": {
-      "name": "Khvicha Kvaratskhelia",
-      "cardName": "Kvaratskhelia",
-      "originalVersionId": "65",
+    "100927948": {
+      "name": "Bradley Barcola",
+      "cardName": "Barcola",
+      "originalVersionId": "124",
       "clubId": 73,
       "leagueId": 16,
-      "countryId": 20,
-      "versionId": "65",
-      "rating": 94,
+      "countryId": 18,
+      "versionId": "124",
+      "rating": 96,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 5,
@@ -713,92 +652,167 @@
         "RW"
       ],
       "playStyles": [
-        13,
-        20,
-        23,
-        25,
-        6,
-        8,
-        9
-      ],
-      "playStylesPlus": [
         0,
+        11,
+        12,
+        13,
         21,
+        22,
         7
       ],
+      "playStylesPlus": [
+        20,
+        6,
+        8
+      ],
       "rolesPlus": [
-        28,
-        29,
-        37,
         127,
+        128,
+        129,
         130,
         135,
         136,
+        137,
         138,
         139,
         140
       ],
       "attributes": [
+        97,
+        96,
         94,
-        92,
-        91,
-        94,
-        67,
-        88
+        96,
+        51,
+        84
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 639500,
-      "resourceId": 100910931,
-      "assetId": 247635
+      "price": 1799000,
+      "resourceId": 100927948,
+      "assetId": 264652
     },
-    "100919492": {
-      "name": "Willian Pacho",
-      "cardName": "Pacho",
-      "originalVersionId": "11",
+    "100933969": {
+      "name": "Warren Zaïre-Emery",
+      "cardName": "Zaïre-Emery",
+      "originalVersionId": "124",
       "clubId": 73,
       "leagueId": 16,
-      "countryId": 57,
-      "versionId": "11",
-      "rating": 95,
-      "preferredFoot": "Left",
+      "countryId": 18,
+      "versionId": "124",
+      "rating": 96,
+      "preferredFoot": "Right",
       "weakFoot": 5,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
+      "skillMoves": 5,
+      "preferredPosition": "CM",
       "possiblePositions": [
-        "CB"
+        "CAM",
+        "CDM",
+        "CM",
+        "RB"
       ],
       "playStyles": [
-        10,
-        14,
-        16,
-        18,
-        19,
+        17,
+        22,
+        24,
         25,
-        26
+        26,
+        28,
+        8
       ],
       "playStylesPlus": [
-        15,
-        17,
-        28
+        11,
+        16,
+        20
       ],
       "rolesPlus": [
-        111,
-        112,
-        113,
-        148
+        103,
+        104,
+        105,
+        106,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        146,
+        149
       ],
       "attributes": [
-        91,
-        45,
-        80,
-        82,
         95,
-        95
+        91,
+        94,
+        96,
+        93,
+        94
       ],
       "hasDynamicImage": true,
-      "price": 918000,
-      "resourceId": 100919492,
-      "assetId": 256196
+      "price": 6100000,
+      "resourceId": 100933969,
+      "assetId": 270673
+    },
+    "117688147": {
+      "name": "Khvicha Kvaratskhelia",
+      "cardName": "Kvaratskhelia",
+      "originalVersionId": "124",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 20,
+      "versionId": "124",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        13,
+        20,
+        21,
+        23,
+        7,
+        9
+      ],
+      "playStylesPlus": [
+        25,
+        6,
+        8
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        96,
+        94,
+        93,
+        96,
+        70,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 7551000,
+      "resourceId": 117688147,
+      "assetId": 247635
     },
     "117695765": {
       "name": "Vitinha",
@@ -857,7 +871,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 1487000,
+      "price": 1450000,
       "resourceId": 117695765,
       "assetId": 255253
     },
@@ -869,7 +883,7 @@
       "leagueId": 16,
       "countryId": 18,
       "versionId": "124",
-      "rating": 94,
+      "rating": 96,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 5,
@@ -913,30 +927,79 @@
         140
       ],
       "attributes": [
-        94,
-        93,
-        90,
-        98,
-        65,
-        86
+        96,
+        95,
+        92,
+        99,
+        67,
+        88
       ],
       "hasDynamicImage": true,
-      "price": 4938000,
+      "price": 3700000,
       "resourceId": 117711933,
       "assetId": 271421
     },
-    "117713346": {
+    "134473924": {
+      "name": "Willian Pacho",
+      "cardName": "Pacho",
+      "originalVersionId": "124",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 57,
+      "versionId": "124",
+      "rating": 96,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        17,
+        18,
+        25,
+        26,
+        28
+      ],
+      "playStylesPlus": [
+        14,
+        16,
+        19
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        92,
+        46,
+        81,
+        83,
+        96,
+        96
+      ],
+      "hasDynamicImage": true,
+      "price": 2250000,
+      "resourceId": 134473924,
+      "assetId": 256196
+    },
+    "134490562": {
       "name": "João Neves",
       "cardName": "João Neves",
-      "originalVersionId": "20",
+      "originalVersionId": "124",
       "clubId": 73,
       "leagueId": 16,
       "countryId": 38,
-      "versionId": "20",
-      "rating": 92,
+      "versionId": "124",
+      "rating": 96,
       "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
+      "weakFoot": 5,
+      "skillMoves": 5,
       "preferredPosition": "CM",
       "possiblePositions": [
         "CDM",
@@ -944,40 +1007,41 @@
       ],
       "playStyles": [
         10,
-        11,
-        16,
         17,
         19,
+        20,
         24,
         26,
-        9
-      ],
-      "playStylesPlus": [
-        20,
         8
       ],
+      "playStylesPlus": [
+        11,
+        16,
+        9
+      ],
       "rolesPlus": [
-        14,
-        15,
-        19,
-        21,
-        22,
+        114,
+        115,
         116,
+        117,
         118,
+        119,
         120,
+        121,
+        122,
         149
       ],
       "attributes": [
-        87,
-        80,
         91,
-        93,
-        90,
-        90
+        84,
+        94,
+        97,
+        94,
+        94
       ],
       "hasDynamicImage": true,
-      "price": 310000,
-      "resourceId": 117713346,
+      "price": 2744000,
+      "resourceId": 134490562,
       "assetId": 272834
     }
   }
