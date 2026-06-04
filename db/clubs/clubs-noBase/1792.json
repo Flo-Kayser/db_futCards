@@ -1,6 +1,43 @@
 {
   "clubName": "Norwich",
   "players": {
+    "50404356": {
+      "name": "José Córdoba",
+      "cardName": "Córdoba",
+      "originalVersionId": "98",
+      "clubId": 1792,
+      "leagueId": 14,
+      "countryId": 87,
+      "versionId": "98",
+      "rating": 92,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        92,
+        55,
+        78,
+        85,
+        90,
+        92
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50404356,
+      "assetId": 72708
+    },
     "50533016": {
       "name": "Kenny McLean",
       "cardName": "McLean",
@@ -90,6 +127,100 @@
       "price": 0,
       "resourceId": 50573723,
       "assetId": 242075
+    },
+    "67310232": {
+      "name": "Kenny McLean",
+      "cardName": "McLean",
+      "originalVersionId": "98",
+      "clubId": 1792,
+      "leagueId": 14,
+      "countryId": 42,
+      "versionId": "98",
+      "rating": 93,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        147,
+        149
+      ],
+      "attributes": [
+        90,
+        93,
+        91,
+        91,
+        88,
+        93
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67310232,
+      "assetId": 201368
+    },
+    "67364631": {
+      "name": "Mohamed Touré",
+      "cardName": "Touré",
+      "originalVersionId": "98",
+      "clubId": 1792,
+      "leagueId": 14,
+      "countryId": 195,
+      "versionId": "98",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        94,
+        92,
+        85,
+        93,
+        60,
+        94
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67364631,
+      "assetId": 255767
     }
   }
 }

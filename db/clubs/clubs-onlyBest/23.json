@@ -331,7 +331,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1000,
       "resourceId": 223550,
       "assetId": 223550
     },
@@ -566,7 +566,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 800,
       "resourceId": 256781,
       "assetId": 256781
     },
@@ -611,43 +611,6 @@
       "price": 350,
       "resourceId": 257919,
       "assetId": 257919
-    },
-    "264194": {
-      "name": "Jens Castrop",
-      "cardName": "Castrop",
-      "originalVersionId": "1",
-      "clubId": 23,
-      "leagueId": 19,
-      "countryId": 21,
-      "versionId": "3001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        21
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        22
-      ],
-      "attributes": [
-        80,
-        54,
-        67,
-        74,
-        62,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 0,
-      "resourceId": 264194,
-      "assetId": 264194
     },
     "264763": {
       "name": "Fabio Chiarodia",
@@ -717,7 +680,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 7300,
       "resourceId": 265518,
       "assetId": 265518
     },
@@ -786,7 +749,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 276358,
       "assetId": 276358
     },
@@ -869,7 +832,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 50536145,
       "assetId": 204497
     },
@@ -915,7 +878,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 13750,
+      "price": 10750,
       "resourceId": 50552524,
       "assetId": 220876
     },
@@ -1238,43 +1201,6 @@
       "resourceId": 50594554,
       "assetId": 262906
     },
-    "50595842": {
-      "name": "Jens Castrop",
-      "cardName": "Castrop",
-      "originalVersionId": "1",
-      "clubId": 23,
-      "leagueId": 19,
-      "countryId": 167,
-      "versionId": "3001",
-      "rating": 70,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        21
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        22
-      ],
-      "attributes": [
-        80,
-        54,
-        67,
-        74,
-        62,
-        69
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50595842,
-      "assetId": 264194
-    },
     "50596350": {
       "name": "Kota Takai",
       "cardName": "Takai",
@@ -1350,50 +1276,104 @@
       "resourceId": 50604579,
       "assetId": 272931
     },
-    "84098082": {
+    "67373058": {
+      "name": "Jens Castrop",
+      "cardName": "Castrop",
+      "originalVersionId": "107",
+      "clubId": 23,
+      "leagueId": 19,
+      "countryId": 167,
+      "versionId": "107",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        10,
+        11,
+        13,
+        16,
+        21,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        24,
+        8
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        93,
+        91,
+        92,
+        93,
+        92,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67373058,
+      "assetId": 264194
+    },
+    "100875298": {
       "name": "Haris Tabaković",
       "cardName": "Tabaković",
-      "originalVersionId": "117",
+      "originalVersionId": "98",
       "clubId": 23,
       "leagueId": 19,
       "countryId": 8,
-      "versionId": "117",
-      "rating": 85,
+      "versionId": "98",
+      "rating": 93,
       "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
+      "weakFoot": 4,
+      "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
         "ST"
       ],
-      "playStyles": [
-        0,
-        11,
-        19,
-        2,
-        24,
-        29
-      ],
-      "playStylesPlus": [
-        4
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
-        41,
-        43,
+        141,
         142,
+        143,
         144
       ],
       "attributes": [
-        83,
-        85,
-        80,
-        83,
-        41,
-        90
+        93,
+        94,
+        90,
+        93,
+        50,
+        94
       ],
+      "isObjective": true,
       "hasDynamicImage": true,
-      "price": 83500,
-      "resourceId": 84098082,
+      "price": 0,
+      "resourceId": 100875298,
       "assetId": 212002
     }
   }

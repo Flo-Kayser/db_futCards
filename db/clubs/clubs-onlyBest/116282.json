@@ -31,7 +31,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 2300,
       "resourceId": 76320,
       "assetId": 76320
     },
@@ -65,7 +65,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1000,
       "resourceId": 76854,
       "assetId": 76854
     },
@@ -208,42 +208,6 @@
       "price": 350,
       "resourceId": 253741,
       "assetId": 253741
-    },
-    "261514": {
-      "name": "Évelyne Viens",
-      "cardName": "Viens",
-      "originalVersionId": "0",
-      "clubId": 116282,
-      "leagueId": 2236,
-      "countryId": 70,
-      "versionId": "2002",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "attributes": [
-        81,
-        79,
-        62,
-        80,
-        28,
-        63
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 261514,
-      "assetId": 261514
     },
     "264089": {
       "name": "Rinsola Babajide",
@@ -610,7 +574,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 275811,
       "assetId": 275811
     },
@@ -771,9 +735,46 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 12750,
       "resourceId": 50558749,
       "assetId": 227101
+    },
+    "50593162": {
+      "name": "Évelyne Viens",
+      "cardName": "Viens",
+      "originalVersionId": "98",
+      "clubId": 116282,
+      "leagueId": 2236,
+      "countryId": 70,
+      "versionId": "98",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        92,
+        85,
+        92,
+        40,
+        91
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50593162,
+      "assetId": 261514
     },
     "50598621": {
       "name": "Giada Greggi",
@@ -823,7 +824,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 19250,
+      "price": 17000,
       "resourceId": 50598621,
       "assetId": 266973
     },
@@ -1002,7 +1003,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 27000,
+      "price": 27750,
       "resourceId": 67335959,
       "assetId": 227095
     }

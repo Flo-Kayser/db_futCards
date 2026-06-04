@@ -503,44 +503,6 @@
     "resourceId": 182091,
     "assetId": 182091
   },
-  "192123": {
-    "name": "Chris Wood",
-    "cardName": "Wood",
-    "originalVersionId": "0",
-    "clubId": 14,
-    "leagueId": 13,
-    "countryId": 198,
-    "versionId": "2002",
-    "rating": 82,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      19,
-      29,
-      4
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      44
-    ],
-    "attributes": [
-      53,
-      83,
-      68,
-      72,
-      40,
-      81
-    ],
-    "hasDynamicImage": false,
-    "price": 400,
-    "resourceId": 192123,
-    "assetId": 192123
-  },
   "202170": {
     "name": "Michael Boxall",
     "cardName": "Boxall",
@@ -685,7 +647,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 5000,
+    "price": 200,
     "resourceId": 209361,
     "assetId": 209361
   },
@@ -2040,9 +2002,47 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 23500,
     "resourceId": 50404740,
     "assetId": 73092
+  },
+  "50523771": {
+    "name": "Chris Wood",
+    "cardName": "Wood",
+    "originalVersionId": "98",
+    "clubId": 14,
+    "leagueId": 13,
+    "countryId": 198,
+    "versionId": "98",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      93,
+      94,
+      86,
+      90,
+      51,
+      93
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50523771,
+    "assetId": 192123
   },
   "50552534": {
     "name": "Bill Tuiloma",
@@ -2206,7 +2206,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 36500,
+    "price": 39750,
     "resourceId": 50575314,
     "assetId": 243666
   },
@@ -2383,7 +2383,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 24250,
     "resourceId": 50607897,
     "assetId": 276249
   },

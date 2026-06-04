@@ -46,7 +46,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 13500,
       "resourceId": 50536145,
       "assetId": 204497
     },
@@ -92,7 +92,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 13750,
+      "price": 10750,
       "resourceId": 50552524,
       "assetId": 220876
     },
@@ -392,9 +392,71 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 10750,
+      "price": 11000,
       "resourceId": 67320866,
       "assetId": 212002
+    },
+    "67373058": {
+      "name": "Jens Castrop",
+      "cardName": "Castrop",
+      "originalVersionId": "107",
+      "clubId": 23,
+      "leagueId": 19,
+      "countryId": 167,
+      "versionId": "107",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        10,
+        11,
+        13,
+        16,
+        21,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        24,
+        8
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        93,
+        91,
+        92,
+        93,
+        92,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67373058,
+      "assetId": 264194
     },
     "84098082": {
       "name": "Haris Tabaković",
@@ -438,8 +500,46 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 83500,
+      "price": 27750,
       "resourceId": 84098082,
+      "assetId": 212002
+    },
+    "100875298": {
+      "name": "Haris Tabaković",
+      "cardName": "Tabaković",
+      "originalVersionId": "98",
+      "clubId": 23,
+      "leagueId": 19,
+      "countryId": 8,
+      "versionId": "98",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        94,
+        90,
+        93,
+        50,
+        94
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 100875298,
       "assetId": 212002
     }
   }

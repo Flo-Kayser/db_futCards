@@ -88,7 +88,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 11750,
+    "price": 10750,
     "resourceId": 8473,
     "assetId": 8473
   },
@@ -126,7 +126,7 @@
       90
     ],
     "hasDynamicImage": false,
-    "price": 89000,
+    "price": 80000,
     "resourceId": 48940,
     "assetId": 48940
   },
@@ -177,7 +177,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 244000,
+    "price": 230000,
     "resourceId": 50337883,
     "assetId": 6235
   },
@@ -236,7 +236,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 13250,
     "resourceId": 50340121,
     "assetId": 8473
   },
@@ -282,7 +282,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 105000,
+    "price": 64500,
     "resourceId": 50380588,
     "assetId": 48940
   },
@@ -425,7 +425,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 52500,
+    "price": 39250,
     "resourceId": 50576441,
     "assetId": 244793
   },
@@ -474,9 +474,67 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 11000,
     "resourceId": 50578698,
     "assetId": 247050
+  },
+  "50588618": {
+    "name": "Adam Karabec",
+    "cardName": "Karabec",
+    "originalVersionId": "58",
+    "clubId": 66,
+    "leagueId": 16,
+    "countryId": 12,
+    "versionId": "58",
+    "rating": 90,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      11,
+      21,
+      24,
+      25,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      20,
+      6
+    ],
+    "rolesPlus": [
+      18,
+      19,
+      20,
+      36,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      135,
+      137
+    ],
+    "attributes": [
+      92,
+      89,
+      90,
+      93,
+      55,
+      85
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 19750,
+    "resourceId": 50588618,
+    "assetId": 256970
   },
   "67325724": {
     "name": "Václav Černý",
@@ -515,7 +573,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 23000,
+    "price": 13750,
     "resourceId": 67325724,
     "assetId": 216860
   },
@@ -613,7 +671,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 21250,
+    "price": 23250,
     "resourceId": 67353334,
     "assetId": 244470
   },
@@ -683,7 +741,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 23500,
     "resourceId": 67355914,
     "assetId": 247050
   },
@@ -735,6 +793,50 @@
     "resourceId": 67360928,
     "assetId": 252064
   },
+  "67376458": {
+    "name": "David Jurásek",
+    "cardName": "Jurásek",
+    "originalVersionId": "98",
+    "clubId": 266,
+    "leagueId": 319,
+    "countryId": 12,
+    "versionId": "98",
+    "rating": 93,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      127,
+      128,
+      129,
+      130,
+      147
+    ],
+    "attributes": [
+      96,
+      88,
+      88,
+      92,
+      87,
+      94
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67376458,
+    "assetId": 267594
+  },
   "84120316": {
     "name": "Patrik Schick",
     "cardName": "Schick",
@@ -776,7 +878,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 12750,
     "resourceId": 84120316,
     "assetId": 234236
   },
@@ -826,8 +928,63 @@
       92
     ],
     "hasDynamicImage": false,
-    "price": 11500,
+    "price": 11250,
     "resourceId": 84138144,
     "assetId": 252064
+  },
+  "100897532": {
+    "name": "Patrik Schick",
+    "cardName": "Schick",
+    "originalVersionId": "107",
+    "clubId": 32,
+    "leagueId": 19,
+    "countryId": 12,
+    "versionId": "107",
+    "rating": 93,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      2,
+      20,
+      25,
+      29,
+      4,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      22,
+      6
+    ],
+    "rolesPlus": [
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      92,
+      94,
+      91,
+      93,
+      50,
+      95
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100897532,
+    "assetId": 234236
   }
 }

@@ -137,7 +137,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 4200,
+    "price": 5100,
     "resourceId": 74018,
     "assetId": 74018
   },
@@ -172,7 +172,7 @@
       55
     ],
     "hasDynamicImage": false,
-    "price": 2200,
+    "price": 5100,
     "resourceId": 74070,
     "assetId": 74070
   },
@@ -388,7 +388,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 5000,
+    "price": 200,
     "resourceId": 77325,
     "assetId": 77325
   },
@@ -567,7 +567,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 3300,
     "resourceId": 210347,
     "assetId": 210347
   },
@@ -909,7 +909,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 9700,
+    "price": 200,
     "resourceId": 236413,
     "assetId": 236413
   },
@@ -1021,7 +1021,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 2400,
+    "price": 2200,
     "resourceId": 243473,
     "assetId": 243473
   },
@@ -1131,7 +1131,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 3000,
+    "price": 200,
     "resourceId": 244393,
     "assetId": 244393
   },
@@ -1169,7 +1169,7 @@
       52
     ],
     "hasDynamicImage": false,
-    "price": 9000,
+    "price": 10000,
     "resourceId": 244863,
     "assetId": 244863
   },
@@ -1205,7 +1205,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 3600,
     "resourceId": 247310,
     "assetId": 247310
   },
@@ -1641,7 +1641,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 3000,
     "resourceId": 274220,
     "assetId": 274220
   },
@@ -1754,45 +1754,6 @@
     "price": 200,
     "resourceId": 275139,
     "assetId": 275139
-  },
-  "275238": {
-    "name": "Niko Sigur",
-    "cardName": "Sigur",
-    "originalVersionId": "0",
-    "clubId": 263,
-    "leagueId": 317,
-    "countryId": 70,
-    "versionId": "2001",
-    "rating": 70,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "RB",
-    "possiblePositions": [
-      "CDM",
-      "RB",
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      18
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      3
-    ],
-    "attributes": [
-      71,
-      61,
-      68,
-      73,
-      62,
-      68
-    ],
-    "hasDynamicImage": false,
-    "price": 200,
-    "resourceId": 275238,
-    "assetId": 275238
   },
   "277303": {
     "name": "Mounsef Bakrar",
@@ -2024,7 +1985,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 22000,
     "resourceId": 50406192,
     "assetId": 74544
   },
@@ -2112,7 +2073,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 122000,
+    "price": 65500,
     "resourceId": 50562655,
     "assetId": 231007
   },
@@ -2189,9 +2150,62 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 1600,
     "resourceId": 50579148,
     "assetId": 247500
+  },
+  "50606886": {
+    "name": "Niko Sigur",
+    "cardName": "Sigur",
+    "originalVersionId": "98",
+    "clubId": 263,
+    "leagueId": 317,
+    "countryId": 70,
+    "versionId": "98",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CDM",
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      114,
+      115,
+      116,
+      117,
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137,
+      146,
+      149
+    ],
+    "attributes": [
+      94,
+      82,
+      90,
+      94,
+      84,
+      90
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50606886,
+    "assetId": 275238
   },
   "50610407": {
     "name": "Iker Almena",
@@ -2265,7 +2279,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 950,
+    "price": 650,
     "resourceId": 67350535,
     "assetId": 241671
   }

@@ -105,44 +105,6 @@
       "resourceId": 79629,
       "assetId": 79629
     },
-    "192123": {
-      "name": "Chris Wood",
-      "cardName": "Wood",
-      "originalVersionId": "0",
-      "clubId": 14,
-      "leagueId": 13,
-      "countryId": 198,
-      "versionId": "2002",
-      "rating": 82,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        19,
-        29,
-        4
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        44
-      ],
-      "attributes": [
-        53,
-        83,
-        68,
-        72,
-        40,
-        81
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 192123,
-      "assetId": 192123
-    },
     "199641": {
       "name": "Matz Sels",
       "cardName": "Sels",
@@ -175,7 +137,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1200,
       "resourceId": 199641,
       "assetId": 199641
     },
@@ -430,7 +392,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 9400,
       "resourceId": 236499,
       "assetId": 236499
     },
@@ -548,7 +510,7 @@
         86
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1000,
       "resourceId": 238095,
       "assetId": 238095
     },
@@ -737,7 +699,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 5900,
+      "price": 350,
       "resourceId": 253444,
       "assetId": 253444
     },
@@ -857,7 +819,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 1000,
       "resourceId": 269421,
       "assetId": 269421
     },
@@ -939,9 +901,47 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 25250,
+      "price": 23500,
       "resourceId": 50411050,
       "assetId": 79402
+    },
+    "50523771": {
+      "name": "Chris Wood",
+      "cardName": "Wood",
+      "originalVersionId": "98",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 198,
+      "versionId": "98",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        94,
+        86,
+        90,
+        51,
+        93
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50523771,
+      "assetId": 192123
     },
     "50531807": {
       "name": "Stefan Ortega",
@@ -979,51 +979,6 @@
       "price": 350,
       "resourceId": 50531807,
       "assetId": 200159
-    },
-    "50566821": {
-      "name": "Ibrahim Sangaré",
-      "cardName": "Sangaré",
-      "originalVersionId": "3",
-      "clubId": 14,
-      "leagueId": 13,
-      "countryId": 108,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        2,
-        24,
-        28,
-        8
-      ],
-      "playStylesPlus": [
-        17
-      ],
-      "rolesPlus": [
-        14,
-        20,
-        116
-      ],
-      "attributes": [
-        80,
-        75,
-        82,
-        80,
-        86,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 13500,
-      "resourceId": 50566821,
-      "assetId": 235173
     },
     "50567663": {
       "name": "Morgan Gibbs-White",
@@ -1076,7 +1031,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 24250,
+      "price": 23250,
       "resourceId": 50567663,
       "assetId": 236015
     },
@@ -1293,7 +1248,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 111000,
+      "price": 64500,
       "resourceId": 50609664,
       "assetId": 278016
     },
@@ -1390,6 +1345,51 @@
       "resourceId": 67336677,
       "assetId": 227813
     },
+    "67344037": {
+      "name": "Ibrahim Sangaré",
+      "cardName": "Sangaré",
+      "originalVersionId": "98",
+      "clubId": 14,
+      "leagueId": 13,
+      "countryId": 108,
+      "versionId": "98",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        88,
+        83,
+        90,
+        88,
+        94,
+        94
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67344037,
+      "assetId": 235173
+    },
     "67344506": {
       "name": "Ryan Yates",
       "cardName": "Yates",
@@ -1443,7 +1443,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 60000,
+      "price": 57000,
       "resourceId": 67344506,
       "assetId": 235642
     },

@@ -1,6 +1,47 @@
 {
   "clubName": "Hull City",
   "players": {
+    "50572573": {
+      "name": "Liam Millar",
+      "cardName": "Millar",
+      "originalVersionId": "98",
+      "clubId": 1952,
+      "leagueId": 14,
+      "countryId": 70,
+      "versionId": "98",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        94,
+        88,
+        88,
+        93,
+        72,
+        86
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50572573,
+      "assetId": 240925
+    },
     "50575256": {
       "name": "Ryan Giles",
       "cardName": "Giles",
@@ -104,7 +145,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 20750,
+      "price": 22500,
       "resourceId": 50577701,
       "assetId": 246053
     }

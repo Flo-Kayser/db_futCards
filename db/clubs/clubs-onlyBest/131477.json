@@ -172,7 +172,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 3100,
       "resourceId": 74894,
       "assetId": 74894
     },
@@ -532,7 +532,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 9000,
       "resourceId": 267241,
       "assetId": 267241
     },
@@ -608,7 +608,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 2500,
       "resourceId": 267269,
       "assetId": 267269
     },
@@ -756,7 +756,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 2200,
       "resourceId": 270080,
       "assetId": 270080
     },
@@ -802,7 +802,7 @@
         88
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1400,
       "resourceId": 272076,
       "assetId": 272076
     },
@@ -843,42 +843,6 @@
       "price": 2900,
       "resourceId": 273472,
       "assetId": 273472
-    },
-    "273473": {
-      "name": "Sydney Collins",
-      "cardName": "Collins",
-      "originalVersionId": "0",
-      "clubId": 131477,
-      "leagueId": 2221,
-      "countryId": 70,
-      "versionId": "2001",
-      "rating": 68,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "CB",
-        "LB"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        8,
-        11
-      ],
-      "attributes": [
-        61,
-        40,
-        54,
-        58,
-        71,
-        60
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 273473,
-      "assetId": 273473
     },
     "273483": {
       "name": "Jordan Silkowitz",
@@ -954,7 +918,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 1198000,
+      "price": 125000,
       "resourceId": 50402138,
       "assetId": 70490
     },
@@ -988,7 +952,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 3100,
       "resourceId": 50407865,
       "assetId": 76217
     },
@@ -1026,9 +990,52 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 750,
       "resourceId": 50558721,
       "assetId": 227073
+    },
+    "50605121": {
+      "name": "Sydney Collins",
+      "cardName": "Collins",
+      "originalVersionId": "98",
+      "clubId": 131477,
+      "leagueId": 2221,
+      "countryId": 70,
+      "versionId": "98",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        147,
+        148
+      ],
+      "attributes": [
+        90,
+        60,
+        87,
+        85,
+        92,
+        91
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 50605121,
+      "assetId": 273473
     },
     "50605335": {
       "name": "Anouk Denton",
@@ -1153,7 +1160,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 21500,
+      "price": 22500,
       "resourceId": 67388563,
       "assetId": 279699
     },

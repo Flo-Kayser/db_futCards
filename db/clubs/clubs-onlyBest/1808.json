@@ -410,7 +410,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 2000,
       "resourceId": 243588,
       "assetId": 243588
     },
@@ -805,7 +805,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 6800,
+      "price": 4000,
       "resourceId": 264120,
       "assetId": 264120
     },
@@ -843,7 +843,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 3300,
+      "price": 3000,
       "resourceId": 269181,
       "assetId": 269181
     },
@@ -924,7 +924,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 350,
       "resourceId": 272612,
       "assetId": 272612
     },
@@ -996,7 +996,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 7900,
       "resourceId": 275246,
       "assetId": 275246
     },
@@ -1092,7 +1092,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 79000,
+      "price": 33750,
       "resourceId": 50470060,
       "assetId": 138412
     },
@@ -1142,115 +1142,9 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 24250,
+      "price": 30000,
       "resourceId": 50522413,
       "assetId": 190765
-    },
-    "50566800": {
-      "name": "Ferdi Kadıoğlu",
-      "cardName": "Kadıoğlu",
-      "originalVersionId": "3",
-      "clubId": 1808,
-      "leagueId": 13,
-      "countryId": 48,
-      "versionId": "3",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        12,
-        18,
-        21,
-        22,
-        26
-      ],
-      "playStylesPlus": [
-        14,
-        25
-      ],
-      "rolesPlus": [
-        3,
-        5,
-        9,
-        24,
-        26,
-        47,
-        106,
-        107,
-        110,
-        123
-      ],
-      "attributes": [
-        90,
-        78,
-        84,
-        88,
-        85,
-        78
-      ],
-      "hasDynamicImage": false,
-      "price": 11750,
-      "resourceId": 50566800,
-      "assetId": 235152
-    },
-    "50587213": {
-      "name": "Kaoru Mitoma",
-      "cardName": "Mitoma",
-      "originalVersionId": "91",
-      "clubId": 1808,
-      "leagueId": 13,
-      "countryId": 163,
-      "versionId": "91",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        11,
-        12,
-        2,
-        20,
-        21,
-        24,
-        25
-      ],
-      "playStylesPlus": [
-        0,
-        22
-      ],
-      "rolesPlus": [
-        27,
-        28,
-        38,
-        129,
-        130,
-        139,
-        140
-      ],
-      "attributes": [
-        92,
-        86,
-        86,
-        91,
-        62,
-        72
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 55250,
-      "resourceId": 50587213,
-      "assetId": 255565
     },
     "50600926": {
       "name": "Diego Gómez",
@@ -1292,7 +1186,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 47500,
+      "price": 35000,
       "resourceId": 50600926,
       "assetId": 269278
     },
@@ -1435,6 +1329,98 @@
       "resourceId": 67295010,
       "assetId": 186146
     },
+    "67344016": {
+      "name": "Ferdi Kadıoğlu",
+      "cardName": "Kadıoğlu",
+      "originalVersionId": "98",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 48,
+      "versionId": "98",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        123,
+        124,
+        125,
+        126,
+        146,
+        147
+      ],
+      "attributes": [
+        96,
+        84,
+        90,
+        94,
+        93,
+        84
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67344016,
+      "assetId": 235152
+    },
+    "67364429": {
+      "name": "Kaoru Mitoma",
+      "cardName": "Mitoma",
+      "originalVersionId": "98",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 163,
+      "versionId": "98",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        94,
+        93,
+        93,
+        94,
+        70,
+        82
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67364429,
+      "assetId": 255565
+    },
     "67381364": {
       "name": "Carlos Baleba",
       "cardName": "Baleba",
@@ -1483,7 +1469,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 89500,
+      "price": 32250,
       "resourceId": 67381364,
       "assetId": 272500
     }

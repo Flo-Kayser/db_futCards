@@ -101,53 +101,6 @@
       "resourceId": 50555880,
       "assetId": 224232
     },
-    "50559741": {
-      "name": "Marcus Thuram",
-      "cardName": "Thuram",
-      "originalVersionId": "68",
-      "clubId": 131682,
-      "leagueId": 31,
-      "countryId": 18,
-      "versionId": "68",
-      "rating": 90,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        11,
-        19,
-        21,
-        25,
-        4,
-        7
-      ],
-      "playStylesPlus": [
-        6
-      ],
-      "rolesPlus": [
-        44,
-        141,
-        142,
-        143
-      ],
-      "attributes": [
-        92,
-        90,
-        85,
-        90,
-        55,
-        87
-      ],
-      "isObjective": true,
-      "hasDynamicImage": true,
-      "resourceId": 50559741,
-      "assetId": 228093
-    },
     "50569031": {
       "name": "Alessandro Bastoni",
       "cardName": "Bastoni",
@@ -181,7 +134,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 161000,
+      "price": 25000,
       "resourceId": 50569031,
       "assetId": 237383
     },
@@ -279,7 +232,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 11250,
+      "price": 11000,
       "resourceId": 50573384,
       "assetId": 241736
     },
@@ -389,6 +342,51 @@
       "resourceId": 50590296,
       "assetId": 258648
     },
+    "50607926": {
+      "name": "Petar Sučić",
+      "cardName": "Sučić",
+      "originalVersionId": "98",
+      "clubId": 131682,
+      "leagueId": 31,
+      "countryId": 10,
+      "versionId": "98",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        93,
+        88,
+        92,
+        94,
+        88,
+        94
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50607926,
+      "assetId": 276278
+    },
     "50608975": {
       "name": "Francesco Pio Esposito",
       "cardName": "Esposito",
@@ -489,7 +487,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 43750,
+      "price": 16500,
       "resourceId": 67316992,
       "assetId": 208128
     },
@@ -550,7 +548,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 29500,
+      "price": 34000,
       "resourceId": 67319270,
       "assetId": 210406
     },
@@ -600,7 +598,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 52000,
+      "price": 65000,
       "resourceId": 67341960,
       "assetId": 233096
     },
@@ -649,7 +647,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 102000,
+      "price": 29000,
       "resourceId": 67368429,
       "assetId": 259565
     },
@@ -700,7 +698,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 12000,
       "resourceId": 84094208,
       "assetId": 208128
     },
@@ -755,9 +753,47 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 58500,
+      "price": 67500,
       "resourceId": 84112348,
       "assetId": 226268
+    },
+    "84114173": {
+      "name": "Marcus Thuram",
+      "cardName": "Thuram",
+      "originalVersionId": "98",
+      "clubId": 131682,
+      "leagueId": 31,
+      "countryId": 18,
+      "versionId": "98",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        95,
+        93,
+        90,
+        94,
+        60,
+        90
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84114173,
+      "assetId": 228093
     },
     "84115317": {
       "name": "Manuel Akanji",
@@ -804,7 +840,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 24250,
       "resourceId": 84115317,
       "assetId": 229237
     },
@@ -853,7 +889,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 223000,
+      "price": 217000,
       "resourceId": 117671990,
       "assetId": 231478
     }

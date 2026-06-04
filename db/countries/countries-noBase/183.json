@@ -37,7 +37,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 15000,
+    "price": 13000,
     "resourceId": 168880,
     "assetId": 168880
   },
@@ -76,7 +76,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 12250,
     "resourceId": 168886,
     "assetId": 168886
   },
@@ -118,7 +118,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 123000,
+    "price": 42500,
     "resourceId": 266694,
     "assetId": 266694
   },
@@ -170,7 +170,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 13500,
     "resourceId": 50500528,
     "assetId": 168880
   },
@@ -209,7 +209,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 11000,
     "resourceId": 50567162,
     "assetId": 235514
   },
@@ -272,9 +272,53 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 30000,
     "resourceId": 50570193,
     "assetId": 238545
+  },
+  "50578336": {
+    "name": "Saud Abdulhamid",
+    "cardName": "Abdulhamid",
+    "originalVersionId": "98",
+    "clubId": 64,
+    "leagueId": 16,
+    "countryId": 183,
+    "versionId": "98",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      123,
+      124,
+      125,
+      126,
+      146
+    ],
+    "attributes": [
+      94,
+      70,
+      86,
+      90,
+      90,
+      94
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 50578336,
+    "assetId": 246688
   },
   "50580146": {
     "name": "Khalid Al Ghannam",
@@ -313,7 +357,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 47500,
+    "price": 45000,
     "resourceId": 50580146,
     "assetId": 248498
   },
@@ -356,7 +400,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 20500,
     "resourceId": 50595472,
     "assetId": 263824
   },
@@ -409,7 +453,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 252000,
+    "price": 44750,
     "resourceId": 50598342,
     "assetId": 266694
   },
@@ -575,7 +619,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 12000,
     "resourceId": 67277744,
     "assetId": 168880
   },
@@ -629,7 +673,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 29000,
     "resourceId": 67319466,
     "assetId": 210602
   },
@@ -747,7 +791,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 227000,
+    "price": 128000,
     "resourceId": 67375558,
     "assetId": 266694
   },
@@ -800,8 +844,73 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 52500,
+    "price": 60000,
     "resourceId": 84096682,
     "assetId": 210602
+  },
+  "84152774": {
+    "name": "Saeed Al Owairan",
+    "cardName": "Al Owairan",
+    "originalVersionId": "36",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 183,
+    "versionId": "36",
+    "rating": 95,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      12,
+      2,
+      21,
+      22,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      20,
+      25,
+      9
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      99,
+      93,
+      93,
+      93,
+      50,
+      93
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84152774,
+    "assetId": 266694
   }
 }

@@ -560,7 +560,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 2000,
       "resourceId": 268631,
       "assetId": 268631
     },
@@ -802,7 +802,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 20250,
+      "price": 19250,
       "resourceId": 50575305,
       "assetId": 243657
     },
@@ -982,7 +982,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 200,
       "resourceId": 50611145,
       "assetId": 279497
     },
@@ -1048,45 +1048,6 @@
       "resourceId": 67180862,
       "assetId": 71998
     },
-    "67313799": {
-      "name": "Jordan Pickford",
-      "cardName": "Pickford",
-      "originalVersionId": "3",
-      "clubId": 7,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        10,
-        30,
-        31,
-        35
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        145
-      ],
-      "attributes": [
-        86,
-        82,
-        90,
-        89,
-        57,
-        84
-      ],
-      "hasDynamicImage": true,
-      "price": 11250,
-      "resourceId": 67313799,
-      "assetId": 204935
-    },
     "67315381": {
       "name": "Jack Grealish",
       "cardName": "Grealish",
@@ -1127,6 +1088,43 @@
       "hasDynamicImage": true,
       "resourceId": 67315381,
       "assetId": 206517
+    },
+    "84091015": {
+      "name": "Jordan Pickford",
+      "cardName": "Pickford",
+      "originalVersionId": "98",
+      "clubId": 7,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "98",
+      "rating": 93,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        93,
+        90,
+        93,
+        93,
+        70,
+        91
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84091015,
+      "assetId": 204935
     }
   }
 }

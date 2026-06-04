@@ -142,7 +142,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 115000,
+      "price": 138000,
       "resourceId": 50572872,
       "assetId": 241224
     },
@@ -376,60 +376,9 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 11000,
+      "price": 12000,
       "resourceId": 50603865,
       "assetId": 272217
-    },
-    "67375792": {
-      "name": "Trinity Rodman",
-      "cardName": "Rodman",
-      "originalVersionId": "117",
-      "clubId": 116304,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "117",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        13,
-        19,
-        23,
-        25,
-        26,
-        6
-      ],
-      "playStylesPlus": [
-        21
-      ],
-      "rolesPlus": [
-        26,
-        36,
-        43,
-        123,
-        135,
-        142
-      ],
-      "attributes": [
-        93,
-        85,
-        82,
-        87,
-        71,
-        85
-      ],
-      "hasDynamicImage": true,
-      "price": 151000,
-      "resourceId": 67375792,
-      "assetId": 266928
     },
     "67376125": {
       "name": "Tara McKeown",
@@ -476,61 +425,9 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 195000,
+      "price": 184000,
       "resourceId": 67376125,
       "assetId": 267261
-    },
-    "84153008": {
-      "name": "Trinity Rodman",
-      "cardName": "Rodman",
-      "originalVersionId": "117",
-      "clubId": 116304,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "117",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        13,
-        19,
-        21,
-        23,
-        25,
-        26,
-        6
-      ],
-      "playStylesPlus": [
-        0
-      ],
-      "rolesPlus": [
-        23,
-        35,
-        44,
-        126,
-        136,
-        141,
-        143
-      ],
-      "attributes": [
-        91,
-        88,
-        81,
-        86,
-        70,
-        86
-      ],
-      "hasDynamicImage": true,
-      "price": 166000,
-      "resourceId": 84153008,
-      "assetId": 266928
     },
     "84165892": {
       "name": "Croix Bethune",
@@ -578,6 +475,52 @@
       "price": 12750,
       "resourceId": 84165892,
       "assetId": 279812
+    },
+    "100930224": {
+      "name": "Trinity Rodman",
+      "cardName": "Rodman",
+      "originalVersionId": "98",
+      "clubId": 116304,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "98",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        95,
+        93,
+        88,
+        93,
+        80,
+        91
+      ],
+      "isObjective": true,
+      "hasDynamicImage": true,
+      "resourceId": 100930224,
+      "assetId": 266928
     }
   }
 }

@@ -123,7 +123,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 23750,
+    "price": 75000,
     "resourceId": 50559035,
     "assetId": 227387
   },
@@ -166,7 +166,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 25750,
     "resourceId": 50559040,
     "assetId": 227392
   },
@@ -331,7 +331,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 100000,
+    "price": 175000,
     "resourceId": 50566044,
     "assetId": 234396
   },
@@ -377,7 +377,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 15250,
+    "price": 42500,
     "resourceId": 50567242,
     "assetId": 235594
   },
@@ -424,6 +424,47 @@
     "resourceId": 50567610,
     "assetId": 235962
   },
+  "50572573": {
+    "name": "Liam Millar",
+    "cardName": "Millar",
+    "originalVersionId": "98",
+    "clubId": 1952,
+    "leagueId": 14,
+    "countryId": 70,
+    "versionId": "98",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      94,
+      88,
+      88,
+      93,
+      72,
+      86
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50572573,
+    "assetId": 240925
+  },
   "50575278": {
     "name": "Jonathan David",
     "cardName": "David",
@@ -456,65 +497,11 @@
       42,
       86
     ],
+    "isObjective": true,
     "hasDynamicImage": true,
-    "price": 95000,
+    "price": 91500,
     "resourceId": 50575278,
     "assetId": 243630
-  },
-  "50578448": {
-    "name": "Tajon Buchanan",
-    "cardName": "Buchanan",
-    "originalVersionId": "33",
-    "clubId": 483,
-    "leagueId": 53,
-    "countryId": 70,
-    "versionId": "33",
-    "rating": 85,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "RM",
-    "possiblePositions": [
-      "RB",
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      12,
-      16,
-      2,
-      21,
-      26
-    ],
-    "playStylesPlus": [
-      25
-    ],
-    "rolesPlus": [
-      103,
-      104,
-      105,
-      106,
-      123,
-      124,
-      125,
-      126,
-      135,
-      136,
-      137,
-      146
-    ],
-    "attributes": [
-      94,
-      76,
-      80,
-      85,
-      78,
-      84
-    ],
-    "hasDynamicImage": true,
-    "price": 23000,
-    "resourceId": 50578448,
-    "assetId": 246800
   },
   "50579372": {
     "name": "Julia Grosso",
@@ -558,7 +545,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 19500,
+    "price": 37000,
     "resourceId": 50579372,
     "assetId": 247724
   },
@@ -604,54 +591,85 @@
     "resourceId": 50582399,
     "assetId": 250751
   },
-  "50587755": {
-    "name": "Alistair Johnston",
-    "cardName": "Johnston",
-    "originalVersionId": "45",
-    "clubId": 78,
-    "leagueId": 50,
+  "50593162": {
+    "name": "Évelyne Viens",
+    "cardName": "Viens",
+    "originalVersionId": "98",
+    "clubId": 116282,
+    "leagueId": 2236,
     "countryId": 70,
-    "versionId": "45",
-    "rating": 85,
+    "versionId": "98",
+    "rating": 92,
     "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "RB",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
     "possiblePositions": [
-      "RB",
-      "RM"
+      "ST"
     ],
-    "playStyles": [
-      14,
-      17,
-      26,
-      27,
-      28,
-      29
-    ],
-    "playStylesPlus": [
-      25
-    ],
+    "playStyles": [],
+    "playStylesPlus": [],
     "rolesPlus": [
-      3,
-      4,
-      25,
-      105,
-      106,
-      124
+      141,
+      142,
+      143,
+      144
     ],
     "attributes": [
-      90,
-      67,
-      81,
-      80,
-      81,
-      85
+      93,
+      92,
+      85,
+      92,
+      40,
+      91
     ],
     "isObjective": true,
     "hasDynamicImage": true,
-    "resourceId": 50587755,
-    "assetId": 256107
+    "resourceId": 50593162,
+    "assetId": 261514
+  },
+  "50605121": {
+    "name": "Sydney Collins",
+    "cardName": "Collins",
+    "originalVersionId": "98",
+    "clubId": 131477,
+    "leagueId": 2221,
+    "countryId": 70,
+    "versionId": "98",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "LB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      147,
+      148
+    ],
+    "attributes": [
+      90,
+      60,
+      87,
+      85,
+      92,
+      91
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50605121,
+    "assetId": 273473
   },
   "50606184": {
     "name": "Moïse Bombito",
@@ -701,6 +719,59 @@
     "resourceId": 50606184,
     "assetId": 274536
   },
+  "50606886": {
+    "name": "Niko Sigur",
+    "cardName": "Sigur",
+    "originalVersionId": "98",
+    "clubId": 263,
+    "leagueId": 317,
+    "countryId": 70,
+    "versionId": "98",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CDM",
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      114,
+      115,
+      116,
+      117,
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137,
+      146,
+      149
+    ],
+    "attributes": [
+      94,
+      82,
+      90,
+      94,
+      84,
+      90
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 50606886,
+    "assetId": 275238
+  },
   "50611180": {
     "name": "Jade Rose",
     "cardName": "Rose",
@@ -742,7 +813,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 45000,
+    "price": 60000,
     "resourceId": 50611180,
     "assetId": 279532
   },
@@ -781,9 +852,56 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 43000,
+    "price": 46500,
     "resourceId": 67354427,
     "assetId": 245563
+  },
+  "67355664": {
+    "name": "Tajon Buchanan",
+    "cardName": "Buchanan",
+    "originalVersionId": "98",
+    "clubId": 483,
+    "leagueId": 53,
+    "countryId": 70,
+    "versionId": "98",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137,
+      146
+    ],
+    "attributes": [
+      95,
+      88,
+      90,
+      93,
+      87,
+      92
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67355664,
+    "assetId": 246800
   },
   "67356092": {
     "name": "Dayne St. Clair",
@@ -827,9 +945,46 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 45000,
     "resourceId": 67356092,
     "assetId": 247228
+  },
+  "67356376": {
+    "name": "Jordyn Huitema",
+    "cardName": "Huitema",
+    "originalVersionId": "98",
+    "clubId": 116305,
+    "leagueId": 2221,
+    "countryId": 70,
+    "versionId": "98",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      95,
+      94,
+      85,
+      92,
+      56,
+      88
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67356376,
+    "assetId": 247512
   },
   "67356377": {
     "name": "Vanessa Gilles",
@@ -876,9 +1031,89 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 31000,
+    "price": 45000,
     "resourceId": 67356377,
     "assetId": 247513
+  },
+  "67364971": {
+    "name": "Alistair Johnston",
+    "cardName": "Johnston",
+    "originalVersionId": "98",
+    "clubId": 78,
+    "leagueId": 50,
+    "countryId": 70,
+    "versionId": "98",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      123,
+      124,
+      125,
+      126,
+      146
+    ],
+    "attributes": [
+      94,
+      75,
+      90,
+      91,
+      92,
+      93
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67364971,
+    "assetId": 256107
+  },
+  "67379972": {
+    "name": "Tani Oluwaseyi",
+    "cardName": "Oluwaseyi",
+    "originalVersionId": "98",
+    "clubId": 483,
+    "leagueId": 53,
+    "countryId": 70,
+    "versionId": "98",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      93,
+      94,
+      85,
+      91,
+      54,
+      94
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "resourceId": 67379972,
+    "assetId": 271108
   },
   "67385416": {
     "name": "Olivia Smith",
@@ -941,7 +1176,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 179000,
+    "price": 310000,
     "resourceId": 67385416,
     "assetId": 276552
   }

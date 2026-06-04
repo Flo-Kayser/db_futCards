@@ -43,7 +43,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 1099000,
+    "price": 716000,
     "resourceId": 50363080,
     "assetId": 31432
   },
@@ -242,54 +242,9 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 10750,
+    "price": 11000,
     "resourceId": 50565378,
     "assetId": 233730
-  },
-  "50566821": {
-    "name": "Ibrahim Sangaré",
-    "cardName": "Sangaré",
-    "originalVersionId": "3",
-    "clubId": 14,
-    "leagueId": 13,
-    "countryId": 108,
-    "versionId": "3",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      10,
-      2,
-      24,
-      28,
-      8
-    ],
-    "playStylesPlus": [
-      17
-    ],
-    "rolesPlus": [
-      14,
-      20,
-      116
-    ],
-    "attributes": [
-      80,
-      75,
-      82,
-      80,
-      86,
-      88
-    ],
-    "hasDynamicImage": true,
-    "price": 13500,
-    "resourceId": 50566821,
-    "assetId": 235173
   },
   "50568051": {
     "name": "Evan Ndicka",
@@ -380,64 +335,9 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 10750,
+    "price": 11000,
     "resourceId": 50571237,
     "assetId": 239589
-  },
-  "50585736": {
-    "name": "Amad",
-    "cardName": "Amad",
-    "originalVersionId": "113",
-    "clubId": 11,
-    "leagueId": 13,
-    "countryId": 108,
-    "versionId": "113",
-    "rating": 86,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "CM",
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      0,
-      11,
-      12,
-      20,
-      22
-    ],
-    "playStylesPlus": [
-      21
-    ],
-    "rolesPlus": [
-      21,
-      26,
-      31,
-      34,
-      36,
-      122,
-      123,
-      125,
-      132,
-      133,
-      135
-    ],
-    "attributes": [
-      89,
-      83,
-      83,
-      88,
-      61,
-      71
-    ],
-    "isObjective": true,
-    "hasDynamicImage": true,
-    "resourceId": 50585736,
-    "assetId": 254088
   },
   "50599910": {
     "name": "Rosemonde Kouassi",
@@ -676,9 +576,54 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 53000,
+    "price": 14500,
     "resourceId": 67334974,
     "assetId": 226110
+  },
+  "67344037": {
+    "name": "Ibrahim Sangaré",
+    "cardName": "Sangaré",
+    "originalVersionId": "98",
+    "clubId": 14,
+    "leagueId": 13,
+    "countryId": 108,
+    "versionId": "98",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      88,
+      83,
+      90,
+      88,
+      94,
+      94
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67344037,
+    "assetId": 235173
   },
   "67361666": {
     "name": "Wilfried Singo",
@@ -725,9 +670,74 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 11000,
     "resourceId": 67361666,
     "assetId": 252802
+  },
+  "67362952": {
+    "name": "Amad",
+    "cardName": "Amad",
+    "originalVersionId": "107",
+    "clubId": 11,
+    "leagueId": 13,
+    "countryId": 108,
+    "versionId": "107",
+    "rating": 94,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      11,
+      12,
+      13,
+      22,
+      23,
+      24,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      20,
+      21
+    ],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      94,
+      94,
+      93,
+      95,
+      82,
+      84
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67362952,
+    "assetId": 254088
   },
   "67367308": {
     "name": "Evann Guessand",
@@ -783,7 +793,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 435000,
+    "price": 380000,
     "resourceId": 67367308,
     "assetId": 258444
   },
@@ -887,7 +897,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 10750,
+    "price": 11000,
     "resourceId": 67380804,
     "assetId": 271940
   },
@@ -1192,7 +1202,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 45500,
+    "price": 80000,
     "resourceId": 100741308,
     "assetId": 78012
   }

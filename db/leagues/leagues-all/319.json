@@ -103,7 +103,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 4000,
+    "price": 500,
     "resourceId": 71451,
     "assetId": 71451
   },
@@ -137,7 +137,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 4700,
+    "price": 5100,
     "resourceId": 72543,
     "assetId": 72543
   },
@@ -284,7 +284,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 3500,
+    "price": 1000,
     "resourceId": 72707,
     "assetId": 72707
   },
@@ -318,7 +318,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 200,
     "resourceId": 72936,
     "assetId": 72936
   },
@@ -495,7 +495,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 1400,
     "resourceId": 74630,
     "assetId": 74630
   },
@@ -955,7 +955,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 200,
     "resourceId": 199244,
     "assetId": 199244
   },
@@ -1102,7 +1102,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 10000,
     "resourceId": 205365,
     "assetId": 205365
   },
@@ -1398,7 +1398,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 6600,
+    "price": 10000,
     "resourceId": 240283,
     "assetId": 240283
   },
@@ -1477,7 +1477,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 3100,
+    "price": 600,
     "resourceId": 242006,
     "assetId": 242006
   },
@@ -1737,7 +1737,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 9000,
     "resourceId": 245392,
     "assetId": 245392
   },
@@ -1775,7 +1775,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 5400,
+    "price": 2900,
     "resourceId": 246055,
     "assetId": 246055
   },
@@ -1993,7 +1993,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 252185,
     "assetId": 252185
   },
@@ -2366,7 +2366,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 400,
     "resourceId": 261307,
     "assetId": 261307
   },
@@ -2512,7 +2512,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 1200,
     "resourceId": 264330,
     "assetId": 264330
   },
@@ -2589,7 +2589,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 850,
     "resourceId": 267720,
     "assetId": 267720
   },
@@ -2665,7 +2665,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 2400,
+    "price": 1500,
     "resourceId": 269511,
     "assetId": 269511
   },
@@ -2703,7 +2703,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 5300,
     "resourceId": 270046,
     "assetId": 270046
   },
@@ -2818,7 +2818,7 @@
       55
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 350,
     "resourceId": 274452,
     "assetId": 274452
   },
@@ -3081,7 +3081,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 15500,
     "resourceId": 50559210,
     "assetId": 227562
   },
@@ -3205,7 +3205,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 52500,
+    "price": 39250,
     "resourceId": 50576441,
     "assetId": 244793
   },
@@ -3407,5 +3407,49 @@
     "price": 350,
     "resourceId": 50601104,
     "assetId": 269456
+  },
+  "67376458": {
+    "name": "David Jurásek",
+    "cardName": "Jurásek",
+    "originalVersionId": "98",
+    "clubId": 266,
+    "leagueId": 319,
+    "countryId": 12,
+    "versionId": "98",
+    "rating": 93,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      127,
+      128,
+      129,
+      130,
+      147
+    ],
+    "attributes": [
+      96,
+      88,
+      88,
+      92,
+      87,
+      94
+    ],
+    "isObjective": true,
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67376458,
+    "assetId": 267594
   }
 }
