@@ -575,7 +575,7 @@
       33
     ],
     "hasDynamicImage": false,
-    "price": 4000,
+    "price": 2000,
     "resourceId": 71988,
     "assetId": 71988
   },
@@ -1114,7 +1114,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 2700,
+    "price": 200,
     "resourceId": 73109,
     "assetId": 73109
   },
@@ -1762,7 +1762,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 4900,
     "resourceId": 75145,
     "assetId": 75145
   },
@@ -4321,7 +4321,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 1600,
+    "price": 5100,
     "resourceId": 227847,
     "assetId": 227847
   },
@@ -4708,7 +4708,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 2500,
+    "price": 2000,
     "resourceId": 232250,
     "assetId": 232250
   },
@@ -6409,7 +6409,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 3000,
+    "price": 3200,
     "resourceId": 252700,
     "assetId": 252700
   },
@@ -6636,7 +6636,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 4800,
+    "price": 5100,
     "resourceId": 255208,
     "assetId": 255208
   },
@@ -6822,7 +6822,7 @@
       55
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 3100,
     "resourceId": 257892,
     "assetId": 257892
   },
@@ -7171,7 +7171,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 4800,
+    "price": 4700,
     "resourceId": 260176,
     "assetId": 260176
   },
@@ -8220,7 +8220,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 4000,
+    "price": 3800,
     "resourceId": 270121,
     "assetId": 270121
   },
@@ -9239,7 +9239,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 5000,
     "resourceId": 277438,
     "assetId": 277438
   },
@@ -9977,7 +9977,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 11000,
+    "price": 11250,
     "resourceId": 50401711,
     "assetId": 70063
   },
@@ -10130,64 +10130,6 @@
     "price": 200,
     "resourceId": 50403656,
     "assetId": 72008
-  },
-  "50404740": {
-    "name": "Jesse Randall",
-    "cardName": "Randall",
-    "originalVersionId": "120",
-    "clubId": 131739,
-    "leagueId": 351,
-    "countryId": 198,
-    "versionId": "120",
-    "rating": 92,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      12,
-      13,
-      22,
-      23,
-      24,
-      25
-    ],
-    "playStylesPlus": [
-      20,
-      21,
-      8
-    ],
-    "rolesPlus": [
-      43,
-      44,
-      127,
-      128,
-      129,
-      130,
-      138,
-      139,
-      140,
-      141,
-      142
-    ],
-    "attributes": [
-      93,
-      90,
-      91,
-      92,
-      51,
-      88
-    ],
-    "hasDynamicImage": true,
-    "price": 27500,
-    "resourceId": 50404740,
-    "assetId": 73092
   },
   "50552534": {
     "name": "Bill Tuiloma",
@@ -10613,7 +10555,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 4900,
+    "price": 3600,
     "resourceId": 50595547,
     "assetId": 263899
   },
@@ -10656,7 +10598,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 25250,
+    "price": 42500,
     "resourceId": 50595711,
     "assetId": 264063
   },
@@ -10826,7 +10768,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 25750,
+    "price": 24500,
     "resourceId": 50607897,
     "assetId": 276249
   },
@@ -10937,6 +10879,65 @@
     "price": 200,
     "resourceId": 50611126,
     "assetId": 279478
+  },
+  "67181956": {
+    "name": "Jesse Randall",
+    "cardName": "Randall",
+    "originalVersionId": "107",
+    "clubId": 131739,
+    "leagueId": 351,
+    "countryId": 198,
+    "versionId": "107",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      12,
+      20,
+      21,
+      22,
+      23,
+      24,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      13,
+      25
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      94,
+      91,
+      93,
+      94,
+      52,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 25250,
+    "resourceId": 67181956,
+    "assetId": 73092
   },
   "67299508": {
     "name": "Hiroshi Ibusuki",
@@ -11070,7 +11071,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 49000,
+    "price": 37000,
     "resourceId": 84064168,
     "assetId": 178088
   }

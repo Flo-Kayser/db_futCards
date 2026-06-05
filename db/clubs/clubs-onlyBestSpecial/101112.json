@@ -46,7 +46,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 26000,
+      "price": 34000,
       "resourceId": 50574244,
       "assetId": 242596
     },
@@ -95,71 +95,6 @@
       "price": 11000,
       "resourceId": 50584944,
       "assetId": 253296
-    },
-    "67364069": {
-      "name": "Sebastian Berhalter",
-      "cardName": "Berhalter",
-      "originalVersionId": "11",
-      "clubId": 101112,
-      "leagueId": 39,
-      "countryId": 95,
-      "versionId": "11",
-      "rating": 93,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        10,
-        14,
-        17,
-        25,
-        28,
-        29,
-        8
-      ],
-      "playStylesPlus": [
-        11,
-        20,
-        9
-      ],
-      "rolesPlus": [
-        15,
-        17,
-        24,
-        25,
-        37,
-        49,
-        114,
-        116,
-        118,
-        119,
-        120,
-        121,
-        122,
-        123,
-        126,
-        135,
-        136
-      ],
-      "attributes": [
-        91,
-        80,
-        91,
-        90,
-        87,
-        93
-      ],
-      "hasDynamicImage": true,
-      "price": 30000,
-      "resourceId": 67364069,
-      "assetId": 255205
     },
     "100852892": {
       "name": "Thomas Müller",
@@ -220,6 +155,59 @@
       "price": 294350,
       "resourceId": 100852892,
       "assetId": 189596
+    },
+    "100918501": {
+      "name": "Sebastian Berhalter",
+      "cardName": "Berhalter",
+      "originalVersionId": "103",
+      "clubId": 101112,
+      "leagueId": 39,
+      "countryId": 95,
+      "versionId": "103",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        149
+      ],
+      "attributes": [
+        94,
+        88,
+        95,
+        93,
+        91,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 100918501,
+      "assetId": 255205
     }
   }
 }

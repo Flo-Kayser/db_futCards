@@ -32,7 +32,7 @@
         32
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 4000,
       "resourceId": 71395,
       "assetId": 71395
     },
@@ -143,40 +143,6 @@
       "resourceId": 74063,
       "assetId": 74063
     },
-    "202170": {
-      "name": "Michael Boxall",
-      "cardName": "Boxall",
-      "originalVersionId": "1",
-      "clubId": 111138,
-      "leagueId": 39,
-      "countryId": 198,
-      "versionId": "3001",
-      "rating": 69,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11
-      ],
-      "attributes": [
-        52,
-        43,
-        60,
-        57,
-        67,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 202170,
-      "assetId": 202170
-    },
     "212424": {
       "name": "Wil Trapp",
       "cardName": "Trapp",
@@ -255,7 +221,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 228312,
       "assetId": 228312
     },
@@ -411,7 +377,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 8700,
       "resourceId": 247228,
       "assetId": 247228
     },
@@ -450,7 +416,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 247476,
       "assetId": 247476
     },
@@ -674,7 +640,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 300,
       "resourceId": 264157,
       "assetId": 264157
     },
@@ -791,7 +757,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 500,
       "resourceId": 266751,
       "assetId": 266751
     },
@@ -939,6 +905,117 @@
       "price": 200,
       "resourceId": 50404203,
       "assetId": 72555
+    },
+    "50530358": {
+      "name": "James Rodríguez",
+      "cardName": "Rodríguez",
+      "originalVersionId": "107",
+      "clubId": 111138,
+      "leagueId": 39,
+      "countryId": 56,
+      "versionId": "107",
+      "rating": 95,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        12,
+        13,
+        22,
+        24,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        8
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134
+      ],
+      "attributes": [
+        92,
+        94,
+        95,
+        95,
+        75,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 600000,
+      "resourceId": 50530358,
+      "assetId": 198710
+    },
+    "50533818": {
+      "name": "Michael Boxall",
+      "cardName": "Boxall",
+      "originalVersionId": "107",
+      "clubId": 111138,
+      "leagueId": 39,
+      "countryId": 198,
+      "versionId": "107",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        15,
+        16,
+        18,
+        25,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        17,
+        19,
+        28
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        88,
+        64,
+        85,
+        82,
+        90,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 11500,
+      "resourceId": 50533818,
+      "assetId": 202170
     },
     "50572674": {
       "name": "Tomás Chancalay",

@@ -103,7 +103,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 6000,
+      "price": 10000,
       "resourceId": 203487,
       "assetId": 203487
     },
@@ -484,7 +484,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 4100,
+      "price": 3500,
       "resourceId": 258805,
       "assetId": 258805
     },
@@ -656,7 +656,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 70000,
+      "price": 52500,
       "resourceId": 50529680,
       "assetId": 198032
     },
@@ -700,45 +700,6 @@
       "sbcPrice": 35700,
       "resourceId": 50535489,
       "assetId": 203841
-    },
-    "50566472": {
-      "name": "Yoane Wissa",
-      "cardName": "Wissa",
-      "originalVersionId": "1",
-      "clubId": 13,
-      "leagueId": 13,
-      "countryId": 110,
-      "versionId": "3002",
-      "rating": 82,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        21,
-        5,
-        6,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42
-      ],
-      "attributes": [
-        85,
-        82,
-        70,
-        80,
-        31,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 800,
-      "resourceId": 50566472,
-      "assetId": 234824
     },
     "50585783": {
       "name": "Joe White",
@@ -819,61 +780,9 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 12750,
       "resourceId": 50587909,
       "assetId": 256261
-    },
-    "50589118": {
-      "name": "Anthony Elanga",
-      "cardName": "Elanga",
-      "originalVersionId": "57",
-      "clubId": 13,
-      "leagueId": 13,
-      "countryId": 46,
-      "versionId": "57",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        12,
-        20,
-        21,
-        22,
-        29,
-        8
-      ],
-      "playStylesPlus": [
-        25,
-        6
-      ],
-      "rolesPlus": [
-        24,
-        25,
-        37,
-        123,
-        126,
-        135,
-        136
-      ],
-      "attributes": [
-        95,
-        85,
-        85,
-        88,
-        51,
-        81
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 131250,
-      "resourceId": 50589118,
-      "assetId": 257470
     },
     "50593766": {
       "name": "Tino Livramento",
@@ -920,7 +829,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 15000,
+      "price": 13500,
       "resourceId": 50593766,
       "assetId": 262118
     },
@@ -966,7 +875,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 160000,
+      "price": 118000,
       "resourceId": 67332198,
       "assetId": 223334
     },
@@ -1016,6 +925,56 @@
       "price": 11000,
       "resourceId": 67343606,
       "assetId": 234742
+    },
+    "67343688": {
+      "name": "Yoane Wissa",
+      "cardName": "Wissa",
+      "originalVersionId": "107",
+      "clubId": 13,
+      "leagueId": 13,
+      "countryId": 110,
+      "versionId": "107",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        20,
+        22,
+        24,
+        5,
+        6,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        21,
+        25
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        95,
+        92,
+        83,
+        92,
+        40,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 13500,
+      "resourceId": 67343688,
+      "assetId": 234824
     },
     "67351828": {
       "name": "Anthony Gordon",
@@ -1069,9 +1028,63 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 676000,
+      "price": 1000000,
       "resourceId": 67351828,
       "assetId": 242964
+    },
+    "67366334": {
+      "name": "Anthony Elanga",
+      "cardName": "Elanga",
+      "originalVersionId": "107",
+      "clubId": 13,
+      "leagueId": 13,
+      "countryId": 46,
+      "versionId": "107",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        11,
+        12,
+        20,
+        22,
+        25,
+        29,
+        8
+      ],
+      "playStylesPlus": [
+        21,
+        6,
+        9
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        96,
+        91,
+        91,
+        93,
+        65,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 70000,
+      "resourceId": 67366334,
+      "assetId": 257470
     },
     "67383110": {
       "name": "Lewis Miley",
@@ -1129,7 +1142,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 19000,
       "resourceId": 67383110,
       "assetId": 274246
     },
@@ -1183,7 +1196,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 63500,
+      "price": 57000,
       "resourceId": 84127176,
       "assetId": 241096
     },
@@ -1239,7 +1252,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 25250,
+      "price": 24750,
       "resourceId": 84133931,
       "assetId": 247851
     },
@@ -1289,7 +1302,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 148000,
+      "price": 285000,
       "resourceId": 84140102,
       "assetId": 254022
     },
@@ -1339,7 +1352,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 27500,
       "resourceId": 84152207,
       "assetId": 266127
     }

@@ -189,7 +189,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 350,
       "resourceId": 81231,
       "assetId": 81231
     },
@@ -530,7 +530,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 650,
       "resourceId": 266071,
       "assetId": 266071
     },
@@ -903,7 +903,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 7100,
+      "price": 10000,
       "resourceId": 277864,
       "assetId": 277864
     },
@@ -957,7 +957,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 11750,
       "resourceId": 50403180,
       "assetId": 71532
     },
@@ -1031,61 +1031,6 @@
       "resourceId": 50408044,
       "assetId": 76396
     },
-    "50410432": {
-      "name": "Mateo Chávez",
-      "cardName": "Chávez",
-      "originalVersionId": "20",
-      "clubId": 1906,
-      "leagueId": 10,
-      "countryId": 83,
-      "versionId": "20",
-      "rating": 89,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        16,
-        17,
-        18,
-        20,
-        21,
-        25,
-        9
-      ],
-      "playStylesPlus": [
-        12,
-        14,
-        28
-      ],
-      "rolesPlus": [
-        107,
-        108,
-        109,
-        110,
-        127,
-        128,
-        129,
-        130,
-        147
-      ],
-      "attributes": [
-        92,
-        62,
-        87,
-        89,
-        87,
-        88
-      ],
-      "hasDynamicImage": false,
-      "price": 75000,
-      "resourceId": 50410432,
-      "assetId": 78784
-    },
     "50591724": {
       "name": "Peer Koopmeiners",
       "cardName": "Koopmeiners",
@@ -1137,7 +1082,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 12250,
       "resourceId": 50591724,
       "assetId": 260076
     },
@@ -1193,6 +1138,50 @@
       "sbcPrice": 12250,
       "resourceId": 50595936,
       "assetId": 264288
+    },
+    "67187648": {
+      "name": "Mateo Chávez",
+      "cardName": "Chávez",
+      "originalVersionId": "98",
+      "clubId": 1906,
+      "leagueId": 10,
+      "countryId": 83,
+      "versionId": "98",
+      "rating": 92,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        147
+      ],
+      "attributes": [
+        92,
+        65,
+        90,
+        92,
+        91,
+        90
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 20250,
+      "price": 0,
+      "resourceId": 67187648,
+      "assetId": 78784
     },
     "67350699": {
       "name": "Jizz Hornkamp",
@@ -1275,7 +1264,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 20750,
+      "price": 20000,
       "resourceId": 84131982,
       "assetId": 245902
     },

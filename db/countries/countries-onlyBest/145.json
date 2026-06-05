@@ -33,7 +33,7 @@
       52
     ],
     "hasDynamicImage": false,
-    "price": 2900,
+    "price": 2400,
     "resourceId": 70065,
     "assetId": 70065
   },
@@ -143,7 +143,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 1200,
+    "price": 650,
     "resourceId": 74314,
     "assetId": 74314
   },
@@ -404,7 +404,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 8500,
     "resourceId": 236316,
     "assetId": 236316
   },
@@ -442,7 +442,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 2900,
+    "price": 5000,
     "resourceId": 242041,
     "assetId": 242041
   },
@@ -600,7 +600,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 2600,
+    "price": 200,
     "resourceId": 251790,
     "assetId": 251790
   },
@@ -717,44 +717,6 @@
     "price": 0,
     "resourceId": 256383,
     "assetId": 256383
-  },
-  "258171": {
-    "name": "Hannibal",
-    "cardName": "Hannibal",
-    "originalVersionId": "1",
-    "clubId": 1796,
-    "leagueId": 13,
-    "countryId": 145,
-    "versionId": "3001",
-    "rating": 74,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      21,
-      22,
-      33
-    ],
-    "attributes": [
-      76,
-      63,
-      73,
-      76,
-      68,
-      82
-    ],
-    "hasDynamicImage": false,
-    "price": 350,
-    "resourceId": 258171,
-    "assetId": 258171
   },
   "263432": {
     "name": "Mortadha Ben Ouanes",
@@ -908,7 +870,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 3100,
     "resourceId": 269562,
     "assetId": 269562
   },
@@ -1183,6 +1145,68 @@
     "price": 350,
     "resourceId": 50588031,
     "assetId": 256383
+  },
+  "50589819": {
+    "name": "Hannibal",
+    "cardName": "Hannibal",
+    "originalVersionId": "107",
+    "clubId": 1796,
+    "leagueId": 13,
+    "countryId": 145,
+    "versionId": "107",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      11,
+      16,
+      22,
+      25,
+      6,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      20,
+      24,
+      8
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      93,
+      87,
+      90,
+      92,
+      85,
+      94
+    ],
+    "hasDynamicImage": true,
+    "price": 11500,
+    "resourceId": 50589819,
+    "assetId": 258171
   },
   "50601210": {
     "name": "Sayfallah Ltaief",

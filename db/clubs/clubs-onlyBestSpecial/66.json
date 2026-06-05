@@ -198,7 +198,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 22750,
+      "sbcPrice": 20000,
       "resourceId": 50588618,
       "assetId": 256970
     },
@@ -245,7 +245,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 31500,
       "resourceId": 50593750,
       "assetId": 262102
     },
@@ -405,7 +405,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 23750,
+      "price": 24500,
       "resourceId": 67328547,
       "assetId": 219683
     },
@@ -458,76 +458,6 @@
       "resourceId": 67349566,
       "assetId": 240702
     },
-    "67355914": {
-      "name": "Pavel Šulc",
-      "cardName": "Šulc",
-      "originalVersionId": "11",
-      "clubId": 66,
-      "leagueId": 16,
-      "countryId": 12,
-      "versionId": "11",
-      "rating": 91,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LM",
-        "RM",
-        "ST"
-      ],
-      "playStyles": [
-        2,
-        22,
-        25,
-        6,
-        7,
-        8,
-        9
-      ],
-      "playStylesPlus": [
-        0,
-        11,
-        20
-      ],
-      "rolesPlus": [
-        19,
-        20,
-        22,
-        24,
-        25,
-        28,
-        29,
-        33,
-        34,
-        118,
-        121,
-        123,
-        126,
-        127,
-        130,
-        131,
-        132,
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        90,
-        91,
-        90,
-        92,
-        55,
-        85
-      ],
-      "hasDynamicImage": true,
-      "price": 23500,
-      "resourceId": 67355914,
-      "assetId": 247050
-    },
     "67374323": {
       "name": "Tyler Morton",
       "cardName": "Morton",
@@ -566,9 +496,75 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 11000,
       "resourceId": 67374323,
       "assetId": 265459
+    },
+    "84133130": {
+      "name": "Pavel Šulc",
+      "cardName": "Šulc",
+      "originalVersionId": "107",
+      "clubId": 66,
+      "leagueId": 16,
+      "countryId": 12,
+      "versionId": "107",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        13,
+        2,
+        20,
+        25,
+        7,
+        9
+      ],
+      "playStylesPlus": [
+        22,
+        6,
+        8
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "attributes": [
+        92,
+        93,
+        93,
+        94,
+        60,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 14000,
+      "resourceId": 84133130,
+      "assetId": 247050
     },
     "134490233": {
       "name": "Endrick",
@@ -619,7 +615,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 127000,
+      "price": 109000,
       "resourceId": 134490233,
       "assetId": 272505
     }

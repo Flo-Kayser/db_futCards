@@ -137,7 +137,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 2500,
     "resourceId": 79498,
     "assetId": 79498
   },
@@ -247,7 +247,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 196953,
     "assetId": 196953
   },
@@ -401,7 +401,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 2000,
     "resourceId": 212491,
     "assetId": 212491
   },
@@ -709,7 +709,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 6200,
+    "price": 3600,
     "resourceId": 231652,
     "assetId": 231652
   },
@@ -786,45 +786,6 @@
     "price": 200,
     "resourceId": 234241,
     "assetId": 234241
-  },
-  "234824": {
-    "name": "Yoane Wissa",
-    "cardName": "Wissa",
-    "originalVersionId": "1",
-    "clubId": 1925,
-    "leagueId": 13,
-    "countryId": 110,
-    "versionId": "3002",
-    "rating": 82,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      21,
-      5,
-      6,
-      7
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      42
-    ],
-    "attributes": [
-      85,
-      82,
-      70,
-      80,
-      31,
-      71
-    ],
-    "hasDynamicImage": false,
-    "price": 0,
-    "resourceId": 234824,
-    "assetId": 234824
   },
   "237355": {
     "name": "Nicke Kabamba",
@@ -1009,7 +970,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 6100,
+    "price": 200,
     "resourceId": 239814,
     "assetId": 239814
   },
@@ -1087,7 +1048,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 600,
     "resourceId": 244843,
     "assetId": 244843
   },
@@ -1124,7 +1085,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 350,
     "resourceId": 245716,
     "assetId": 245716
   },
@@ -1469,7 +1430,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 6100,
+    "price": 350,
     "resourceId": 269507,
     "assetId": 269507
   },
@@ -1658,7 +1619,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 14000,
     "resourceId": 50530599,
     "assetId": 198951
   },
@@ -1787,7 +1748,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 13000,
     "resourceId": 50561528,
     "assetId": 229880
   },
@@ -1870,45 +1831,6 @@
     "resourceId": 50565532,
     "assetId": 233884
   },
-  "50566472": {
-    "name": "Yoane Wissa",
-    "cardName": "Wissa",
-    "originalVersionId": "1",
-    "clubId": 13,
-    "leagueId": 13,
-    "countryId": 110,
-    "versionId": "3002",
-    "rating": 82,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      21,
-      5,
-      6,
-      7
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      42
-    ],
-    "attributes": [
-      85,
-      82,
-      70,
-      80,
-      31,
-      71
-    ],
-    "hasDynamicImage": false,
-    "price": 800,
-    "resourceId": 50566472,
-    "assetId": 234824
-  },
   "50591810": {
     "name": "Mario Stroeykens",
     "cardName": "Stroeykens",
@@ -1945,7 +1867,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 800,
     "resourceId": 50591810,
     "assetId": 260162
   },
@@ -1982,7 +1904,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 550,
     "resourceId": 50593913,
     "assetId": 262265
   },
@@ -2113,9 +2035,59 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 138000,
+    "price": 100000,
     "resourceId": 67185914,
     "assetId": 77050
+  },
+  "67343688": {
+    "name": "Yoane Wissa",
+    "cardName": "Wissa",
+    "originalVersionId": "107",
+    "clubId": 13,
+    "leagueId": 13,
+    "countryId": 110,
+    "versionId": "107",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      20,
+      22,
+      24,
+      5,
+      6,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      21,
+      25
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      95,
+      92,
+      83,
+      92,
+      40,
+      85
+    ],
+    "hasDynamicImage": true,
+    "price": 13500,
+    "resourceId": 67343688,
+    "assetId": 234824
   },
   "67354580": {
     "name": "Samuel Essende",

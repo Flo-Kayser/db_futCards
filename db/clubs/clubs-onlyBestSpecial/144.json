@@ -1,17 +1,17 @@
 {
   "clubName": "Fulham",
   "players": {
-    "50536486": {
+    "84090918": {
       "name": "Raúl Jiménez",
       "cardName": "Jiménez",
-      "originalVersionId": "82",
+      "originalVersionId": "107",
       "clubId": 144,
       "leagueId": 13,
       "countryId": 83,
-      "versionId": "82",
-      "rating": 86,
+      "versionId": "107",
+      "rating": 92,
       "preferredFoot": "Right",
-      "weakFoot": 4,
+      "weakFoot": 5,
       "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
@@ -19,59 +19,18 @@
       ],
       "playStyles": [
         0,
+        11,
+        2,
+        20,
         21,
-        29,
+        22,
         5,
+        8
+      ],
+      "playStylesPlus": [
+        29,
         6,
         7
-      ],
-      "playStylesPlus": [
-        4
-      ],
-      "rolesPlus": [
-        43,
-        141,
-        142,
-        144
-      ],
-      "attributes": [
-        85,
-        88,
-        84,
-        84,
-        54,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 140000,
-      "resourceId": 50536486,
-      "assetId": 204838
-    },
-    "67313702": {
-      "name": "Raúl Jiménez",
-      "cardName": "Jiménez",
-      "originalVersionId": "113",
-      "clubId": 144,
-      "leagueId": 13,
-      "countryId": 83,
-      "versionId": "113",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        11,
-        22,
-        29,
-        5,
-        7
-      ],
-      "playStylesPlus": [
-        0
       ],
       "rolesPlus": [
         141,
@@ -80,16 +39,16 @@
         144
       ],
       "attributes": [
-        86,
-        87,
-        84,
-        84,
-        54,
-        87
+        92,
+        93,
+        90,
+        91,
+        60,
+        93
       ],
-      "isObjective": true,
       "hasDynamicImage": true,
-      "resourceId": 67313702,
+      "price": 23000,
+      "resourceId": 84090918,
       "assetId": 204838
     },
     "84106790": {
@@ -197,7 +156,7 @@
         69
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 21000,
       "resourceId": 84163375,
       "assetId": 277295
     }

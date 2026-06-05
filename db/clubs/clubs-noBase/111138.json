@@ -1,4 +1,116 @@
 {
   "clubName": "Minnesota United",
-  "players": {}
+  "players": {
+    "50530358": {
+      "name": "James Rodríguez",
+      "cardName": "Rodríguez",
+      "originalVersionId": "107",
+      "clubId": 111138,
+      "leagueId": 39,
+      "countryId": 56,
+      "versionId": "107",
+      "rating": 95,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        11,
+        12,
+        13,
+        22,
+        24,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        8
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134
+      ],
+      "attributes": [
+        92,
+        94,
+        95,
+        95,
+        75,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 600000,
+      "resourceId": 50530358,
+      "assetId": 198710
+    },
+    "50533818": {
+      "name": "Michael Boxall",
+      "cardName": "Boxall",
+      "originalVersionId": "107",
+      "clubId": 111138,
+      "leagueId": 39,
+      "countryId": 198,
+      "versionId": "107",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        15,
+        16,
+        18,
+        25,
+        26,
+        9
+      ],
+      "playStylesPlus": [
+        17,
+        19,
+        28
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        88,
+        64,
+        85,
+        82,
+        90,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 11500,
+      "resourceId": 50533818,
+      "assetId": 202170
+    }
+  }
 }

@@ -117,6 +117,19 @@
         "tertiaryColor": "#94792e"
       }
     },
+    "18": {
+      "count": 1,
+      "file": "db/versions/18.json",
+      "details": {
+        "name": "Festival of Football ICON",
+        "hasStrip": true,
+        "createdAt": "2026-06-04T20:45:00.455Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_18_0.png",
+        "primaryColor": "#54462b",
+        "secondaryColor": "#dbdbdb",
+        "tertiaryColor": "#94792e"
+      }
+    },
     "20": {
       "count": 48,
       "file": "db/versions/20.json",
@@ -729,7 +742,7 @@
       }
     },
     "98": {
-      "count": 68,
+      "count": 70,
       "file": "db/versions/98.json",
       "details": {
         "name": "Festival of Football: National Pride",
@@ -739,6 +752,19 @@
         "primaryColor": "#ffffff",
         "secondaryColor": "#5f2b9f",
         "tertiaryColor": "#df72f8"
+      }
+    },
+    "103": {
+      "count": 3,
+      "file": "db/versions/103.json",
+      "details": {
+        "name": "Festival of Football: National Pride Red",
+        "hasStrip": true,
+        "createdAt": "2026-06-04T20:45:00.455Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_103_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#9e0c22",
+        "tertiaryColor": "#f872a3"
       }
     },
     "105": {
@@ -755,7 +781,7 @@
       }
     },
     "107": {
-      "count": 3,
+      "count": 44,
       "file": "db/versions/107.json",
       "details": {
         "name": "Festival of Football: Path to Glory",
@@ -1185,8 +1211,8 @@
     }
   },
   "meta": {
-    "totalVersions": 91,
-    "totalVersionsWithoutBase": 85,
-    "updatedAt": "2026-06-05T05:52:45.124Z"
+    "totalVersions": 93,
+    "totalVersionsWithoutBase": 87,
+    "updatedAt": "2026-06-05T18:22:38.957Z"
   }
 }

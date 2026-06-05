@@ -31,7 +31,7 @@
       51
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 700,
     "resourceId": 77170,
     "assetId": 77170
   },
@@ -207,7 +207,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 650,
     "resourceId": 235442,
     "assetId": 235442
   },
@@ -241,7 +241,7 @@
       51
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 300,
     "resourceId": 238086,
     "assetId": 238086
   },
@@ -431,7 +431,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 600,
     "resourceId": 257293,
     "assetId": 257293
   },
@@ -503,7 +503,7 @@
       47
     ],
     "hasDynamicImage": false,
-    "price": 9500,
+    "price": 10000,
     "resourceId": 264304,
     "assetId": 264304
   },
@@ -864,6 +864,113 @@
     "isObjective": true,
     "hasDynamicImage": true,
     "resourceId": 50588941,
+    "assetId": 257293
+  },
+  "50610336": {
+    "name": "Olwethu Makhanya",
+    "cardName": "Makhanya",
+    "originalVersionId": "107",
+    "clubId": 112134,
+    "leagueId": 39,
+    "countryId": 140,
+    "versionId": "107",
+    "rating": 91,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      11,
+      14,
+      17,
+      18,
+      19,
+      21,
+      28,
+      9
+    ],
+    "playStylesPlus": [
+      15,
+      16,
+      25
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      93,
+      66,
+      80,
+      83,
+      90,
+      90
+    ],
+    "hasDynamicImage": false,
+    "price": 12000,
+    "resourceId": 50610336,
+    "assetId": 278688
+  },
+  "67366157": {
+    "name": "Sphephelo Sithole",
+    "cardName": "Sithole",
+    "originalVersionId": "107",
+    "clubId": 112516,
+    "leagueId": 308,
+    "countryId": 140,
+    "versionId": "107",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      17,
+      2,
+      20,
+      22,
+      28,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      11,
+      16,
+      29
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      93,
+      85,
+      90,
+      91,
+      93,
+      95
+    ],
+    "hasDynamicImage": true,
+    "price": 25250,
+    "resourceId": 67366157,
     "assetId": 257293
   }
 }
