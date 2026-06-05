@@ -302,7 +302,15 @@
     "36": {
       "count": 6,
       "file": "db/versions/36.json",
-      "details": null
+      "details": {
+        "name": "Journey of Nations",
+        "hasStrip": true,
+        "createdAt": "2026-06-04T20:45:00.455Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_36_0.png",
+        "primaryColor": "#200652",
+        "secondaryColor": "#f8f8f8",
+        "tertiaryColor": "#40217b"
+      }
     },
     "38": {
       "count": 28,
@@ -723,7 +731,15 @@
     "98": {
       "count": 68,
       "file": "db/versions/98.json",
-      "details": null
+      "details": {
+        "name": "Festival of Football: National Pride",
+        "hasStrip": true,
+        "createdAt": "2026-06-04T20:45:00.455Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_98_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#5f2b9f",
+        "tertiaryColor": "#df72f8"
+      }
     },
     "105": {
       "count": 7,
@@ -741,7 +757,15 @@
     "107": {
       "count": 3,
       "file": "db/versions/107.json",
-      "details": null
+      "details": {
+        "name": "Festival of Football: Path to Glory",
+        "hasStrip": true,
+        "createdAt": "2026-06-04T20:45:00.455Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_107_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#15534a",
+        "tertiaryColor": "#63b8ab"
+      }
     },
     "108": {
       "count": 72,
@@ -902,7 +926,15 @@
     "131": {
       "count": 5,
       "file": "db/versions/131.json",
-      "details": null
+      "details": {
+        "name": "Festival of Football: Greats of the Game ICON",
+        "hasStrip": true,
+        "createdAt": "2026-06-04T20:45:00.455Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_131_0.png",
+        "primaryColor": "#54462b",
+        "secondaryColor": "#dbdbdb",
+        "tertiaryColor": "#94792e"
+      }
     },
     "135": {
       "count": 23,
@@ -1155,6 +1187,6 @@
   "meta": {
     "totalVersions": 91,
     "totalVersionsWithoutBase": 85,
-    "updatedAt": "2026-06-04T19:30:05.297Z"
+    "updatedAt": "2026-06-05T05:52:45.124Z"
   }
 }
