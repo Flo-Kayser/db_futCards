@@ -173,7 +173,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 1400,
+    "price": 5100,
     "resourceId": 71108,
     "assetId": 71108
   },
@@ -209,7 +209,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 3300,
     "resourceId": 71546,
     "assetId": 71546
   },
@@ -557,7 +557,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5000,
     "resourceId": 77794,
     "assetId": 77794
   },
@@ -593,7 +593,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 2000,
+    "price": 4500,
     "resourceId": 77795,
     "assetId": 77795
   },
@@ -663,7 +663,7 @@
       55
     ],
     "hasDynamicImage": false,
-    "price": 4500,
+    "price": 4800,
     "resourceId": 77972,
     "assetId": 77972
   },
@@ -697,7 +697,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 2400,
+    "price": 4400,
     "resourceId": 78105,
     "assetId": 78105
   },
@@ -802,7 +802,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 2500,
+    "price": 4000,
     "resourceId": 78998,
     "assetId": 78998
   },
@@ -872,7 +872,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 3500,
     "resourceId": 79422,
     "assetId": 79422
   },
@@ -906,7 +906,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 4400,
+    "price": 4500,
     "resourceId": 79423,
     "assetId": 79423
   },
@@ -941,7 +941,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 2400,
+    "price": 200,
     "resourceId": 79707,
     "assetId": 79707
   },
@@ -976,7 +976,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 4200,
     "resourceId": 79801,
     "assetId": 79801
   },
@@ -1014,9 +1014,52 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 4200,
     "resourceId": 79872,
     "assetId": 79872
+  },
+  "83924": {
+    "name": "Mauricio",
+    "cardName": "Mauricio",
+    "originalVersionId": "0",
+    "clubId": 1375,
+    "leagueId": 78,
+    "countryId": 58,
+    "versionId": "2002",
+    "rating": 76,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      22
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      25,
+      31,
+      32,
+      37
+    ],
+    "attributes": [
+      77,
+      74,
+      77,
+      76,
+      45,
+      65
+    ],
+    "hasDynamicImage": false,
+    "price": 3200,
+    "resourceId": 83924,
+    "assetId": 83924
   },
   "179752": {
     "name": "Óscar Cardozo",
@@ -1052,7 +1095,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 9000,
+    "price": 10000,
     "resourceId": 179752,
     "assetId": 179752
   },
@@ -1169,7 +1212,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 2400,
+    "price": 6000,
     "resourceId": 201335,
     "assetId": 201335
   },
@@ -1290,7 +1333,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 211389,
     "assetId": 211389
   },
@@ -1333,7 +1376,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 2900,
+    "price": 950,
     "resourceId": 215107,
     "assetId": 215107
   },
@@ -1371,7 +1414,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 700,
     "resourceId": 215750,
     "assetId": 215750
   },
@@ -1418,6 +1461,45 @@
     "resourceId": 216385,
     "assetId": 216385
   },
+  "218191": {
+    "name": "Gustavo Gómez",
+    "cardName": "Gómez",
+    "originalVersionId": "1",
+    "clubId": 1375,
+    "leagueId": 78,
+    "countryId": 58,
+    "versionId": "3002",
+    "rating": 78,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      18,
+      19,
+      4
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      11,
+      12
+    ],
+    "attributes": [
+      58,
+      48,
+      44,
+      53,
+      82,
+      76
+    ],
+    "hasDynamicImage": false,
+    "price": 3900,
+    "resourceId": 218191,
+    "assetId": 218191
+  },
   "219932": {
     "name": "Antonio Sanabria",
     "cardName": "Sanabria",
@@ -1452,6 +1534,125 @@
     "resourceId": 219932,
     "assetId": 219932
   },
+  "220332": {
+    "name": "Ángel Romero",
+    "cardName": "Romero",
+    "originalVersionId": "0",
+    "clubId": 1877,
+    "leagueId": 353,
+    "countryId": 58,
+    "versionId": "2001",
+    "rating": 72,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      36,
+      39
+    ],
+    "attributes": [
+      75,
+      71,
+      68,
+      74,
+      47,
+      74
+    ],
+    "hasDynamicImage": false,
+    "price": 3100,
+    "resourceId": 220332,
+    "assetId": 220332
+  },
+  "220334": {
+    "name": "Óscar Romero",
+    "cardName": "Romero",
+    "originalVersionId": "0",
+    "clubId": 111711,
+    "leagueId": 353,
+    "countryId": 58,
+    "versionId": "2002",
+    "rating": 75,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RW"
+    ],
+    "playStyles": [
+      10,
+      20,
+      22,
+      3,
+      9
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      31
+    ],
+    "attributes": [
+      74,
+      69,
+      77,
+      77,
+      65,
+      65
+    ],
+    "hasDynamicImage": false,
+    "price": 350,
+    "resourceId": 220334,
+    "assetId": 220334
+  },
+  "220337": {
+    "name": "Junior Alonso",
+    "cardName": "Alonso",
+    "originalVersionId": "1",
+    "clubId": 1375,
+    "leagueId": 78,
+    "countryId": 58,
+    "versionId": "3001",
+    "rating": 74,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "LB"
+    ],
+    "playStyles": [
+      10
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      7,
+      13,
+      48
+    ],
+    "attributes": [
+      70,
+      55,
+      62,
+      63,
+      73,
+      82
+    ],
+    "hasDynamicImage": false,
+    "price": 400,
+    "resourceId": 220337,
+    "assetId": 220337
+  },
   "220754": {
     "name": "Danilo Ortiz",
     "cardName": "Ortiz",
@@ -1482,7 +1683,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 1700,
+    "price": 1800,
     "resourceId": 220754,
     "assetId": 220754
   },
@@ -1869,7 +2070,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 3300,
     "resourceId": 228729,
     "assetId": 228729
   },
@@ -1943,7 +2144,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 500,
     "resourceId": 228748,
     "assetId": 228748
   },
@@ -2023,7 +2224,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1900,
     "resourceId": 231093,
     "assetId": 231093
   },
@@ -2058,7 +2259,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 8400,
+    "price": 200,
     "resourceId": 232066,
     "assetId": 232066
   },
@@ -2180,7 +2381,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 1500,
     "resourceId": 237183,
     "assetId": 237183
   },
@@ -2218,7 +2419,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 1400,
+    "price": 700,
     "resourceId": 237203,
     "assetId": 237203
   },
@@ -2336,6 +2537,45 @@
     "resourceId": 240801,
     "assetId": 240801
   },
+  "240875": {
+    "name": "Mathías Villasanti",
+    "cardName": "Villasanti",
+    "originalVersionId": "0",
+    "clubId": 1375,
+    "leagueId": 78,
+    "countryId": 58,
+    "versionId": "2001",
+    "rating": 71,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      15,
+      19,
+      20
+    ],
+    "attributes": [
+      70,
+      62,
+      63,
+      73,
+      63,
+      67
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 240875,
+    "assetId": 240875
+  },
   "242052": {
     "name": "Jesús Medina",
     "cardName": "Medina",
@@ -2408,7 +2648,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 3300,
+    "price": 4600,
     "resourceId": 242084,
     "assetId": 242084
   },
@@ -2480,6 +2720,44 @@
     "price": 200,
     "resourceId": 245079,
     "assetId": 245079
+  },
+  "246690": {
+    "name": "Adam Bareiro",
+    "cardName": "Bareiro",
+    "originalVersionId": "1",
+    "clubId": 1877,
+    "leagueId": 353,
+    "countryId": 58,
+    "versionId": "3001",
+    "rating": 74,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      1
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      43,
+      44
+    ],
+    "attributes": [
+      72,
+      74,
+      63,
+      73,
+      41,
+      78
+    ],
+    "hasDynamicImage": false,
+    "price": 400,
+    "resourceId": 246690,
+    "assetId": 246690
   },
   "246696": {
     "name": "Gustavo Velázquez",
@@ -2598,7 +2876,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 850,
+    "price": 200,
     "resourceId": 247881,
     "assetId": 247881
   },
@@ -2749,7 +3027,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 350,
     "resourceId": 248870,
     "assetId": 248870
   },
@@ -2787,9 +3065,47 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 350,
     "resourceId": 248872,
     "assetId": 248872
+  },
+  "251613": {
+    "name": "Juan José Cáceres",
+    "cardName": "Cáceres",
+    "originalVersionId": "0",
+    "clubId": 1375,
+    "leagueId": 78,
+    "countryId": 58,
+    "versionId": "2001",
+    "rating": 73,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CB",
+      "RB"
+    ],
+    "playStyles": [
+      15,
+      17
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      3
+    ],
+    "attributes": [
+      83,
+      45,
+      62,
+      66,
+      71,
+      71
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 251613,
+    "assetId": 251613
   },
   "252175": {
     "name": "Aldo Maíz",
@@ -2822,7 +3138,7 @@
       55
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 200,
     "resourceId": 252175,
     "assetId": 252175
   },
@@ -2857,7 +3173,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 1400,
+    "price": 2000,
     "resourceId": 252962,
     "assetId": 252962
   },
@@ -3016,7 +3332,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 500,
     "resourceId": 253249,
     "assetId": 253249
   },
@@ -3134,7 +3450,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1400,
     "resourceId": 253556,
     "assetId": 253556
   },
@@ -3169,7 +3485,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 450,
     "resourceId": 253713,
     "assetId": 253713
   },
@@ -3310,7 +3626,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 1100,
     "resourceId": 254725,
     "assetId": 254725
   },
@@ -3345,7 +3661,7 @@
       51
     ],
     "hasDynamicImage": false,
-    "price": 1900,
+    "price": 3400,
     "resourceId": 254739,
     "assetId": 254739
   },
@@ -3381,7 +3697,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 254754,
     "assetId": 254754
   },
@@ -3420,7 +3736,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1900,
     "resourceId": 254756,
     "assetId": 254756
   },
@@ -3459,7 +3775,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 2500,
     "resourceId": 254774,
     "assetId": 254774
   },
@@ -3614,9 +3930,49 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 1800,
+    "price": 850,
     "resourceId": 255451,
     "assetId": 255451
+  },
+  "255718": {
+    "name": "Ramón Sosa",
+    "cardName": "Sosa",
+    "originalVersionId": "1",
+    "clubId": 1375,
+    "leagueId": 78,
+    "countryId": 58,
+    "versionId": "3001",
+    "rating": 74,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM"
+    ],
+    "playStyles": [
+      20
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      26,
+      27,
+      30
+    ],
+    "attributes": [
+      78,
+      65,
+      68,
+      76,
+      49,
+      63
+    ],
+    "hasDynamicImage": false,
+    "price": 9900,
+    "resourceId": 255718,
+    "assetId": 255718
   },
   "255866": {
     "name": "Diego Fernández",
@@ -3652,7 +4008,7 @@
       51
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 900,
     "resourceId": 255866,
     "assetId": 255866
   },
@@ -3722,7 +4078,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 4200,
+    "price": 3800,
     "resourceId": 255952,
     "assetId": 255952
   },
@@ -3762,7 +4118,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 200,
     "resourceId": 255963,
     "assetId": 255963
   },
@@ -3878,7 +4234,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 200,
     "resourceId": 256162,
     "assetId": 256162
   },
@@ -3912,7 +4268,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 650,
     "resourceId": 258194,
     "assetId": 258194
   },
@@ -3948,7 +4304,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 2500,
+    "price": 250,
     "resourceId": 258875,
     "assetId": 258875
   },
@@ -4170,7 +4526,7 @@
       52
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 700,
     "resourceId": 260133,
     "assetId": 260133
   },
@@ -4358,7 +4714,7 @@
       52
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5400,
     "resourceId": 262057,
     "assetId": 262057
   },
@@ -4429,7 +4785,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 200,
     "resourceId": 265556,
     "assetId": 265556
   },
@@ -4499,7 +4855,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 267491,
     "assetId": 267491
   },
@@ -4538,7 +4894,7 @@
       45
     ],
     "hasDynamicImage": false,
-    "price": 2200,
+    "price": 500,
     "resourceId": 267628,
     "assetId": 267628
   },
@@ -4616,6 +4972,46 @@
     "price": 200,
     "resourceId": 268431,
     "assetId": 268431
+  },
+  "268482": {
+    "name": "Damián Bobadilla",
+    "cardName": "Bobadilla",
+    "originalVersionId": "0",
+    "clubId": 1375,
+    "leagueId": 78,
+    "countryId": 58,
+    "versionId": "2001",
+    "rating": 73,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      26
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      16,
+      18,
+      19
+    ],
+    "attributes": [
+      75,
+      68,
+      67,
+      70,
+      68,
+      72
+    ],
+    "hasDynamicImage": false,
+    "price": 2000,
+    "resourceId": 268482,
+    "assetId": 268482
   },
   "268527": {
     "name": "Gustavo Aguilar",
@@ -4719,7 +5115,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 400,
+    "price": 650,
     "resourceId": 269088,
     "assetId": 269088
   },
@@ -4974,7 +5370,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 2300,
     "resourceId": 273683,
     "assetId": 273683
   },
@@ -5049,6 +5445,44 @@
     "price": 350,
     "resourceId": 273843,
     "assetId": 273843
+  },
+  "273934": {
+    "name": "Diego González",
+    "cardName": "González",
+    "originalVersionId": "0",
+    "clubId": 1375,
+    "leagueId": 78,
+    "countryId": 58,
+    "versionId": "2001",
+    "rating": 71,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      20
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      26,
+      36
+    ],
+    "attributes": [
+      82,
+      69,
+      66,
+      74,
+      51,
+      42
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 273934,
+    "assetId": 273934
   },
   "274262": {
     "name": "Lucas Quintana",
@@ -5197,7 +5631,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 5100,
     "resourceId": 274564,
     "assetId": 274564
   },
@@ -5232,7 +5666,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 700,
     "resourceId": 275001,
     "assetId": 275001
   },
@@ -5267,7 +5701,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 4000,
     "resourceId": 275003,
     "assetId": 275003
   },
@@ -5303,7 +5737,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 4600,
+    "price": 2500,
     "resourceId": 275179,
     "assetId": 275179
   },
@@ -5337,7 +5771,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 2500,
+    "price": 5100,
     "resourceId": 275180,
     "assetId": 275180
   },
@@ -5443,7 +5877,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 650,
     "resourceId": 275595,
     "assetId": 275595
   },
@@ -5477,7 +5911,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 1800,
     "resourceId": 276555,
     "assetId": 276555
   },
@@ -5512,7 +5946,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 6500,
     "resourceId": 276558,
     "assetId": 276558
   },
@@ -5620,7 +6054,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 950,
+    "price": 200,
     "resourceId": 277973,
     "assetId": 277973
   },
@@ -5733,7 +6167,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 650,
+    "price": 850,
     "resourceId": 279548,
     "assetId": 279548
   },
@@ -5922,7 +6356,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 25750,
+    "price": 17500,
     "resourceId": 50530799,
     "assetId": 199151
   },
@@ -6154,7 +6588,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 14500,
     "resourceId": 50562625,
     "assetId": 230977
   },
@@ -6209,7 +6643,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 42500,
+    "price": 38250,
     "resourceId": 50565124,
     "assetId": 233476
   },
@@ -6329,7 +6763,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 29500,
     "resourceId": 50572007,
     "assetId": 240359
   },
@@ -6839,7 +7273,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 40750,
+    "price": 38750,
     "resourceId": 50600926,
     "assetId": 269278
   },
@@ -6947,7 +7381,7 @@
       49
     ],
     "hasDynamicImage": false,
-    "price": 2000,
+    "price": 1900,
     "resourceId": 50608899,
     "assetId": 277251
   },
@@ -6986,6 +7420,55 @@
     "price": 200,
     "resourceId": 50611196,
     "assetId": 279548
+  },
+  "67349223": {
+    "name": "Omar Alderete",
+    "cardName": "Alderete",
+    "originalVersionId": "62",
+    "clubId": 106,
+    "leagueId": 13,
+    "countryId": 58,
+    "versionId": "62",
+    "rating": 91,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      14,
+      15,
+      19,
+      25,
+      28,
+      4,
+      9
+    ],
+    "playStylesPlus": [
+      16,
+      17
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      90,
+      72,
+      87,
+      86,
+      91,
+      90
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 18500,
+    "resourceId": 67349223,
+    "assetId": 240359
   },
   "67357736": {
     "name": "Richard Sánchez",
@@ -7105,7 +7588,7 @@
       67
     ],
     "hasDynamicImage": true,
-    "price": 29000,
+    "price": 29500,
     "resourceId": 67364298,
     "assetId": 255434
   },
@@ -7150,7 +7633,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 48000,
+    "price": 42250,
     "resourceId": 84141514,
     "assetId": 255434
   }

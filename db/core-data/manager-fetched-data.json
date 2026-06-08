@@ -241,6 +241,12 @@
       "isWomen": false
     },
     {
+      "id": 78,
+      "name": "Men's National",
+      "abbrName": "INT",
+      "isWomen": false
+    },
+    {
       "id": 2221,
       "name": "NWSL",
       "abbrName": "USA 1",
@@ -883,6 +889,11 @@
       "abbrName": "NAT"
     },
     {
+      "id": 215,
+      "name": "New Caledonia",
+      "abbrName": "NCL"
+    },
+    {
       "id": 198,
       "name": "New Zealand",
       "abbrName": "NZL"
@@ -951,6 +962,11 @@
       "id": 88,
       "name": "Puerto Rico",
       "abbrName": "PRC"
+    },
+    {
+      "id": 182,
+      "name": "Qatar",
+      "abbrName": "QAT"
     },
     {
       "id": 25,
@@ -1608,6 +1624,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 1369,
+      "name": "Argentina",
+      "abbrName": "ARG",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
       "id": 113996,
       "name": "Argentina",
       "abbrName": "ARG",
@@ -1782,6 +1806,22 @@
       "league": 39,
       "isWomen": false,
       "linkedClubIds": []
+    },
+    {
+      "id": 1415,
+      "name": "Australia",
+      "abbrName": "AUS",
+      "linkedClubIds": [],
+      "league": 78,
+      "isWomen": false
+    },
+    {
+      "id": 1322,
+      "name": "Austria",
+      "abbrName": "AUT",
+      "linkedClubIds": [],
+      "league": 78,
+      "isWomen": false
     },
     {
       "id": 2038,
@@ -2046,6 +2086,14 @@
       "league": 20,
       "isWomen": false,
       "linkedClubIds": []
+    },
+    {
+      "id": 1370,
+      "name": "Brazil",
+      "abbrName": "BRA",
+      "linkedClubIds": [],
+      "league": 78,
+      "isWomen": false
     },
     {
       "id": 1925,
@@ -2512,6 +2560,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 111109,
+      "name": "Colombia",
+      "abbrName": "COL",
+      "linkedClubIds": [],
+      "league": 78,
+      "isWomen": false
+    },
+    {
       "id": 694,
       "name": "Colorado Rapids",
       "abbrName": "COL",
@@ -2592,6 +2648,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 1328,
+      "name": "Croatia",
+      "abbrName": "CRO",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
       "id": 568,
       "name": "Cruzeiro",
       "abbrName": "CRU",
@@ -2612,6 +2676,14 @@
       "name": "Cultural Leonesa",
       "abbrName": "CLE",
       "league": 54,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
+      "id": 1330,
+      "name": "Czechia",
+      "abbrName": "CZE",
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -2700,6 +2772,14 @@
       "name": "Degerfors IF",
       "abbrName": "DEG",
       "league": 56,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
+      "id": 1331,
+      "name": "Denmark",
+      "abbrName": "DEN",
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -2848,6 +2928,22 @@
       "linkedClubIds": []
     },
     {
+      "id": 111465,
+      "name": "Ecuador",
+      "abbrName": "ECU",
+      "linkedClubIds": [],
+      "league": 78,
+      "isWomen": false
+    },
+    {
+      "id": 111130,
+      "name": "Egypt",
+      "abbrName": "EGY",
+      "linkedClubIds": [],
+      "league": 78,
+      "isWomen": false
+    },
+    {
       "id": 468,
       "name": "Elche CF",
       "abbrName": "ELC",
@@ -2876,6 +2972,14 @@
       "name": "Energie Cottbus",
       "abbrName": "FCE",
       "league": 2076,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
+      "id": 1318,
+      "name": "England",
+      "abbrName": "ENG",
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -3500,6 +3604,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 1334,
+      "name": "Finland",
+      "abbrName": "FIN",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
       "id": 110374,
       "name": "Fiorentina",
       "abbrName": "FIO",
@@ -3552,6 +3664,14 @@
       "name": "France",
       "abbrName": "FRA",
       "league": 2136,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
+      "id": 1335,
+      "name": "France",
+      "abbrName": "FRA",
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -3696,10 +3816,26 @@
       "linkedClubIds": []
     },
     {
+      "id": 1337,
+      "name": "Germany",
+      "abbrName": "GER",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
       "id": 1860,
       "name": "Getafe CF",
       "abbrName": "GET",
       "league": 53,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
+      "id": 111462,
+      "name": "Ghana",
+      "abbrName": "GHA",
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -4064,6 +4200,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 1886,
+      "name": "Hungary",
+      "abbrName": "HUN",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
       "id": 111711,
       "name": "Huracán",
       "abbrName": "HUR",
@@ -4128,6 +4272,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 1341,
+      "name": "Iceland",
+      "abbrName": "ISL",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
       "id": 116428,
       "name": "Iceland",
       "abbrName": "ISL",
@@ -4180,6 +4332,22 @@
       "name": "Ipswich",
       "abbrName": "IPS",
       "league": 14,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
+      "id": 1355,
+      "name": "Ireland",
+      "abbrName": "IRL",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
+      "id": 1343,
+      "name": "Italy",
+      "abbrName": "ITA",
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -4362,6 +4530,14 @@
       "league": 68,
       "isWomen": false,
       "linkedClubIds": []
+    },
+    {
+      "id": 974,
+      "name": "Korea Republic",
+      "abbrName": "KOR",
+      "linkedClubIds": [],
+      "league": 78,
+      "isWomen": false
     },
     {
       "id": 111083,
@@ -4782,6 +4958,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 1386,
+      "name": "Mexico",
+      "abbrName": "MEX",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
       "id": 12,
       "name": "Middlesbrough",
       "abbrName": "MID",
@@ -4890,6 +5074,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 111111,
+      "name": "Morocco",
+      "abbrName": "MAR",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
       "id": 83,
       "name": "Motherwell",
       "abbrName": "MOT",
@@ -4994,6 +5186,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 105035,
+      "name": "Netherlands",
+      "abbrName": "NED",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
       "id": 113011,
       "name": "Netherlands",
       "abbrName": "NED",
@@ -5062,6 +5262,22 @@
       "name": "Northampton",
       "abbrName": "NHT",
       "league": 60,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
+      "id": 110081,
+      "name": "Northern Ireland",
+      "abbrName": "NIR",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
+      "id": 1352,
+      "name": "Norway",
+      "abbrName": "NOR",
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -5284,6 +5500,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 1375,
+      "name": "Paraguay",
+      "abbrName": "PAR",
+      "linkedClubIds": [],
+      "league": 78,
+      "isWomen": false
+    },
+    {
       "id": 116035,
       "name": "Paris FC",
       "abbrName": "PFC",
@@ -5428,6 +5652,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 1353,
+      "name": "Poland",
+      "abbrName": "POL",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
       "id": 131877,
       "name": "Poland",
       "abbrName": "POL",
@@ -5480,6 +5712,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 1354,
+      "name": "Portugal",
+      "abbrName": "POR",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
       "id": 1801,
       "name": "Preston",
       "abbrName": "PNE",
@@ -5524,6 +5764,14 @@
       "name": "Qarabağ FK",
       "abbrName": "QFK",
       "league": 2244,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
+      "id": 111527,
+      "name": "Qatar",
+      "abbrName": "QAT",
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -5898,6 +6146,14 @@
       "linkedClubIds": [
         52
       ]
+    },
+    {
+      "id": 1356,
+      "name": "Romania",
+      "abbrName": "ROU",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
     },
     {
       "id": 110580,
@@ -6308,6 +6564,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 1359,
+      "name": "Scotland",
+      "abbrName": "SCO",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
       "id": 113984,
       "name": "Scotland",
       "abbrName": "SCO",
@@ -6472,6 +6736,14 @@
       ]
     },
     {
+      "id": 111099,
+      "name": "South Africa",
+      "abbrName": "RSA",
+      "linkedClubIds": [],
+      "league": 78,
+      "isWomen": false
+    },
+    {
       "id": 17,
       "name": "Southampton",
       "abbrName": "SOU",
@@ -6484,6 +6756,14 @@
       "name": "Sp. Charleroi",
       "abbrName": "RCSC",
       "league": 4,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
+      "id": 1362,
+      "name": "Spain",
+      "abbrName": "ESP",
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -6712,6 +6992,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 1363,
+      "name": "Sweden",
+      "abbrName": "SWE",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
       "id": 1934,
       "name": "Swindon Town",
       "abbrName": "SWI",
@@ -6876,6 +7164,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 1391,
+      "name": "Tunisia",
+      "abbrName": "TUN",
+      "linkedClubIds": [],
+      "league": 78,
+      "isWomen": false
+    },
+    {
       "id": 114581,
       "name": "U. Católica",
       "abbrName": "UCA",
@@ -6940,6 +7236,14 @@
       "linkedClubIds": []
     },
     {
+      "id": 1366,
+      "name": "Ukraine",
+      "abbrName": "UKR",
+      "league": 78,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
       "id": 1473,
       "name": "Ulsan HD FC",
       "abbrName": "UL",
@@ -6980,6 +7284,14 @@
       "name": "Unirea Slobozia",
       "abbrName": "SLO",
       "league": 330,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
+      "id": 1387,
+      "name": "United States",
+      "abbrName": "USA",
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": []
     },
@@ -7030,6 +7342,14 @@
       "league": 1014,
       "isWomen": false,
       "linkedClubIds": []
+    },
+    {
+      "id": 1377,
+      "name": "Uruguay",
+      "abbrName": "URU",
+      "linkedClubIds": [],
+      "league": 78,
+      "isWomen": false
     },
     {
       "id": 131478,
@@ -7210,6 +7530,14 @@
       "name": "WSG Tirol",
       "abbrName": "WSG",
       "league": 80,
+      "isWomen": false,
+      "linkedClubIds": []
+    },
+    {
+      "id": 1367,
+      "name": "Wales",
+      "abbrName": "WAL",
+      "league": 78,
       "isWomen": false,
       "linkedClubIds": []
     },

@@ -1,6 +1,468 @@
 {
-  "clubName": null,
+  "clubName": "Mexico",
   "players": {
+    "73325": {
+      "name": "Raúl Rangel",
+      "cardName": "Rangel",
+      "originalVersionId": "0",
+      "clubId": 1386,
+      "leagueId": 78,
+      "countryId": 83,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        70,
+        71,
+        74,
+        78,
+        32,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 8800,
+      "resourceId": 73325,
+      "assetId": 73325
+    },
+    "79399": {
+      "name": "Gilberto Mora",
+      "cardName": "Mora",
+      "originalVersionId": "0",
+      "clubId": 1386,
+      "leagueId": 78,
+      "countryId": 83,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LW"
+      ],
+      "playStyles": [
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31,
+        40
+      ],
+      "attributes": [
+        67,
+        65,
+        73,
+        74,
+        50,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 79399,
+      "assetId": 79399
+    },
+    "226045": {
+      "name": "Jesús Gallardo",
+      "cardName": "Gallardo",
+      "originalVersionId": "0",
+      "clubId": 1386,
+      "leagueId": 78,
+      "countryId": 83,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        83,
+        67,
+        70,
+        75,
+        69,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 1500,
+      "resourceId": 226045,
+      "assetId": 226045
+    },
+    "229980": {
+      "name": "César Montes",
+      "cardName": "Montes",
+      "originalVersionId": "0",
+      "clubId": 1386,
+      "leagueId": 78,
+      "countryId": 83,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19,
+        28,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        57,
+        46,
+        60,
+        63,
+        74,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 2500,
+      "resourceId": 229980,
+      "assetId": 229980
+    },
+    "233260": {
+      "name": "Alexis Vega",
+      "cardName": "Vega",
+      "originalVersionId": "1",
+      "clubId": 1386,
+      "leagueId": 78,
+      "countryId": 83,
+      "versionId": "3002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        38
+      ],
+      "attributes": [
+        80,
+        78,
+        77,
+        80,
+        32,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 233260,
+      "assetId": 233260
+    },
+    "235389": {
+      "name": "Carlos Rodríguez",
+      "cardName": "Rodríguez",
+      "originalVersionId": "0",
+      "clubId": 1386,
+      "leagueId": 78,
+      "countryId": 83,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        20,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31
+      ],
+      "attributes": [
+        77,
+        67,
+        73,
+        78,
+        66,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 2000,
+      "resourceId": 235389,
+      "assetId": 235389
+    },
+    "237043": {
+      "name": "Roberto Alvarado",
+      "cardName": "Alvarado",
+      "originalVersionId": "1",
+      "clubId": 1386,
+      "leagueId": 78,
+      "countryId": 83,
+      "versionId": "3002",
+      "rating": 78,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23
+      ],
+      "attributes": [
+        81,
+        71,
+        78,
+        76,
+        53,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 7200,
+      "resourceId": 237043,
+      "assetId": 237043
+    },
+    "237995": {
+      "name": "Diego Lainez",
+      "cardName": "Lainez",
+      "originalVersionId": "0",
+      "clubId": 1386,
+      "leagueId": 78,
+      "countryId": 83,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23
+      ],
+      "attributes": [
+        80,
+        66,
+        70,
+        82,
+        52,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 550,
+      "resourceId": 237995,
+      "assetId": 237995
+    },
+    "243015": {
+      "name": "Luis Romo",
+      "cardName": "Romo",
+      "originalVersionId": "0",
+      "clubId": 1386,
+      "leagueId": 78,
+      "countryId": 83,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        11
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        68,
+        67,
+        72,
+        69,
+        72,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 2400,
+      "resourceId": 243015,
+      "assetId": 243015
+    },
+    "252008": {
+      "name": "Israel Reyes",
+      "cardName": "Reyes",
+      "originalVersionId": "0",
+      "clubId": 1386,
+      "leagueId": 78,
+      "countryId": 83,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        83,
+        65,
+        66,
+        70,
+        75,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 2000,
+      "resourceId": 252008,
+      "assetId": 252008
+    },
+    "256098": {
+      "name": "Richard Ledezma",
+      "cardName": "Ledezma",
+      "originalVersionId": "0",
+      "clubId": 1386,
+      "leagueId": 78,
+      "countryId": 83,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        20,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        20,
+        33
+      ],
+      "attributes": [
+        75,
+        61,
+        72,
+        74,
+        66,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 4500,
+      "resourceId": 256098,
+      "assetId": 256098
+    },
+    "257784": {
+      "name": "Erik Lira",
+      "cardName": "Lira",
+      "originalVersionId": "0",
+      "clubId": 1386,
+      "leagueId": 78,
+      "countryId": 83,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        74,
+        58,
+        68,
+        68,
+        69,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 3300,
+      "resourceId": 257784,
+      "assetId": 257784
+    },
     "50471881": {
       "name": "Guillermo Ochoa",
       "cardName": "Ochoa",
@@ -36,6 +498,64 @@
       "hasDynamicImage": true,
       "resourceId": 50471881,
       "assetId": 140233
+    },
+    "50564908": {
+      "name": "Alexis Vega",
+      "cardName": "Vega",
+      "originalVersionId": "62",
+      "clubId": 1386,
+      "leagueId": 78,
+      "countryId": 83,
+      "versionId": "62",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        12,
+        13,
+        21,
+        23,
+        24,
+        25,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        20
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        91,
+        90,
+        89,
+        91,
+        45,
+        88
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 18250,
+      "resourceId": 50564908,
+      "assetId": 233260
     },
     "50583656": {
       "name": "Israel Reyes",

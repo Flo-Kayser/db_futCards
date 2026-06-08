@@ -1,6 +1,629 @@
 {
-  "clubName": null,
+  "clubName": "Qatar",
   "players": {
+    "180561": {
+      "name": "Hassan Al Haydos",
+      "cardName": "Al Haydos",
+      "originalVersionId": "0",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        1,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23
+      ],
+      "attributes": [
+        76,
+        66,
+        69,
+        75,
+        34,
+        43
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 180561,
+      "assetId": 180561
+    },
+    "203244": {
+      "name": "Lucas Mendes",
+      "cardName": "Lucas Mendes",
+      "originalVersionId": "0",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        58,
+        57,
+        58,
+        57,
+        68,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 1100,
+      "resourceId": 203244,
+      "assetId": 203244
+    },
+    "215911": {
+      "name": "Abdulaziz Hatem",
+      "cardName": "Hatem",
+      "originalVersionId": "0",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        2
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        59,
+        67,
+        70,
+        68,
+        61,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 1900,
+      "resourceId": 215911,
+      "assetId": 215911
+    },
+    "228352": {
+      "name": "Edmilson Junior",
+      "cardName": "Edmilson Junior",
+      "originalVersionId": "0",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        38
+      ],
+      "attributes": [
+        88,
+        75,
+        70,
+        79,
+        44,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 1500,
+      "resourceId": 228352,
+      "assetId": 228352
+    },
+    "234051": {
+      "name": "Akram Afif",
+      "cardName": "Afif",
+      "originalVersionId": "1",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "3002",
+      "rating": 78,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27
+      ],
+      "attributes": [
+        87,
+        75,
+        72,
+        79,
+        32,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 2300,
+      "resourceId": 234051,
+      "assetId": 234051
+    },
+    "238878": {
+      "name": "Tarek Salman",
+      "cardName": "Salman",
+      "originalVersionId": "0",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        73,
+        34,
+        59,
+        60,
+        68,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 2200,
+      "resourceId": 238878,
+      "assetId": 238878
+    },
+    "239878": {
+      "name": "Assim Madibo",
+      "cardName": "Madibo",
+      "originalVersionId": "0",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        82,
+        38,
+        53,
+        61,
+        65,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 1800,
+      "resourceId": 239878,
+      "assetId": 239878
+    },
+    "268771": {
+      "name": "Boualem Khoukhi",
+      "cardName": "Khoukhi",
+      "originalVersionId": "0",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        60,
+        60,
+        57,
+        54,
+        71,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 1500,
+      "resourceId": 268771,
+      "assetId": 268771
+    },
+    "268772": {
+      "name": "Almoez Ali",
+      "cardName": "Ali",
+      "originalVersionId": "1",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        75,
+        74,
+        58,
+        68,
+        25,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 268772,
+      "assetId": 268772
+    },
+    "268775": {
+      "name": "Mohammed Waad",
+      "cardName": "Waad",
+      "originalVersionId": "0",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        69,
+        56,
+        62,
+        57,
+        64,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 2000,
+      "resourceId": 268775,
+      "assetId": 268775
+    },
+    "268776": {
+      "name": "Homam Ahmed",
+      "cardName": "Ahmed",
+      "originalVersionId": "0",
+      "clubId": 111527,
+      "leagueId": 1990,
+      "countryId": 182,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        76,
+        48,
+        60,
+        61,
+        62,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 1700,
+      "resourceId": 268776,
+      "assetId": 268776
+    },
+    "268778": {
+      "name": "Karim Boudiaf",
+      "cardName": "Boudiaf",
+      "originalVersionId": "0",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        50,
+        62,
+        71,
+        69,
+        67,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 268778,
+      "assetId": 268778
+    },
+    "268779": {
+      "name": "Ahmed Alaaeldin",
+      "cardName": "Alaaeldin",
+      "originalVersionId": "0",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        19,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        41,
+        43
+      ],
+      "attributes": [
+        81,
+        63,
+        48,
+        65,
+        26,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 268779,
+      "assetId": 268779
+    },
+    "268780": {
+      "name": "Mohammed Muntari",
+      "cardName": "Muntari",
+      "originalVersionId": "0",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        63,
+        66,
+        48,
+        60,
+        27,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 268780,
+      "assetId": 268780
+    },
+    "268781": {
+      "name": "Pedro Miguel",
+      "cardName": "Pedro Miguel",
+      "originalVersionId": "0",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        73,
+        38,
+        60,
+        61,
+        64,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 268781,
+      "assetId": 268781
+    },
+    "268783": {
+      "name": "Meshaal Barsham",
+      "cardName": "Barsham",
+      "originalVersionId": "0",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        71,
+        67,
+        56,
+        71,
+        53,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 2600,
+      "resourceId": 268783,
+      "assetId": 268783
+    },
+    "268879": {
+      "name": "Ahmed Fathi",
+      "cardName": "Fathi",
+      "originalVersionId": "0",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        71,
+        38,
+        54,
+        58,
+        67,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 1800,
+      "resourceId": 268879,
+      "assetId": 268879
+    },
     "50565699": {
       "name": "Akram Afif",
       "cardName": "Afif",

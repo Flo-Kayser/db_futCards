@@ -293,7 +293,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1100,
       "resourceId": 231044,
       "assetId": 231044
     },
@@ -925,7 +925,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 10000,
       "resourceId": 271530,
       "assetId": 271530
     },
@@ -1034,7 +1034,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 550,
       "resourceId": 274944,
       "assetId": 274944
     },
@@ -1264,7 +1264,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 28500,
+      "price": 29500,
       "resourceId": 50553489,
       "assetId": 221841
     },
@@ -1458,43 +1458,6 @@
       "resourceId": 50609471,
       "assetId": 277823
     },
-    "67335641": {
-      "name": "Cyle Larin",
-      "cardName": "Larin",
-      "originalVersionId": "0",
-      "clubId": 17,
-      "leagueId": 14,
-      "countryId": 70,
-      "versionId": "2002",
-      "rating": 77,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        29,
-        6
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "attributes": [
-        70,
-        77,
-        68,
-        71,
-        28,
-        78
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 67335641,
-      "assetId": 226777
-    },
     "67378828": {
       "name": "Léo Scienza",
       "cardName": "Léo Scienza",
@@ -1554,7 +1517,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 36250,
+      "price": 38250,
       "resourceId": 67378828,
       "assetId": 269964
     },
@@ -1613,6 +1576,55 @@
       "resourceId": 67385559,
       "assetId": 276695
     },
+    "84112857": {
+      "name": "Cyle Larin",
+      "cardName": "Larin",
+      "originalVersionId": "62",
+      "clubId": 17,
+      "leagueId": 14,
+      "countryId": 70,
+      "versionId": "62",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        2,
+        20,
+        21,
+        25,
+        4,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        29,
+        6
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        91,
+        91,
+        88,
+        90,
+        38,
+        95
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 18250,
+      "resourceId": 84112857,
+      "assetId": 226777
+    },
     "84138146": {
       "name": "Finn Azaz",
       "cardName": "Azaz",
@@ -1666,7 +1678,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 23750,
+      "price": 29250,
       "resourceId": 84138146,
       "assetId": 252066
     }

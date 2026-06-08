@@ -1,6 +1,128 @@
 {
-  "clubName": null,
+  "clubName": "Ecuador",
   "players": {
+    "246058": {
+      "name": "Alan Franco",
+      "cardName": "Franco",
+      "originalVersionId": "0",
+      "clubId": 111465,
+      "leagueId": 78,
+      "countryId": 57,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        18,
+        24
+      ],
+      "attributes": [
+        79,
+        61,
+        65,
+        71,
+        64,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 246058,
+      "assetId": 246058
+    },
+    "247181": {
+      "name": "Gonzalo Plata",
+      "cardName": "Plata",
+      "originalVersionId": "0",
+      "clubId": 111465,
+      "leagueId": 78,
+      "countryId": 57,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        22,
+        23,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        25,
+        36
+      ],
+      "attributes": [
+        88,
+        69,
+        70,
+        83,
+        43,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 9100,
+      "resourceId": 247181,
+      "assetId": 247181
+    },
+    "252053": {
+      "name": "Felix Torres",
+      "cardName": "Torres",
+      "originalVersionId": "0",
+      "clubId": 111465,
+      "leagueId": 78,
+      "countryId": 57,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        67,
+        37,
+        50,
+        60,
+        72,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 252053,
+      "assetId": 252053
+    },
     "50551943": {
       "name": "Enner Valencia",
       "cardName": "Valencia",
@@ -60,7 +182,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 14000,
       "resourceId": 50551943,
       "assetId": 220295
     }

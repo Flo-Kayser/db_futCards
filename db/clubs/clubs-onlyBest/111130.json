@@ -1,6 +1,345 @@
 {
-  "clubName": null,
+  "clubName": "Egypt",
   "players": {
+    "81918": {
+      "name": "Marwan Attia",
+      "cardName": "Attia",
+      "originalVersionId": "0",
+      "clubId": 111130,
+      "leagueId": 78,
+      "countryId": 111,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        60,
+        46,
+        69,
+        69,
+        71,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 2100,
+      "resourceId": 81918,
+      "assetId": 81918
+    },
+    "81960": {
+      "name": "Hossam Abdelmaguid",
+      "cardName": "Abdelmaguid",
+      "originalVersionId": "0",
+      "clubId": 111130,
+      "leagueId": 78,
+      "countryId": 111,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        56,
+        29,
+        47,
+        56,
+        70,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 3800,
+      "resourceId": 81960,
+      "assetId": 81960
+    },
+    "222537": {
+      "name": "Zizo",
+      "cardName": "Zizo",
+      "originalVersionId": "1",
+      "clubId": 111130,
+      "leagueId": 78,
+      "countryId": 111,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        33,
+        35
+      ],
+      "attributes": [
+        83,
+        70,
+        71,
+        74,
+        52,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 222537,
+      "assetId": 222537
+    },
+    "228182": {
+      "name": "Mohamed El Shenawy",
+      "cardName": "El Shenawy",
+      "originalVersionId": "1",
+      "clubId": 111130,
+      "leagueId": 78,
+      "countryId": 111,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        32,
+        34
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        75,
+        72,
+        70,
+        73,
+        48,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 9000,
+      "resourceId": 228182,
+      "assetId": 228182
+    },
+    "239652": {
+      "name": "Mostafa Fathy",
+      "cardName": "Fathy",
+      "originalVersionId": "0",
+      "clubId": 111130,
+      "leagueId": 78,
+      "countryId": 111,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23
+      ],
+      "attributes": [
+        76,
+        69,
+        62,
+        76,
+        36,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 850,
+      "resourceId": 239652,
+      "assetId": 239652
+    },
+    "254252": {
+      "name": "Mohamed Hany",
+      "cardName": "Hany",
+      "originalVersionId": "0",
+      "clubId": 111130,
+      "leagueId": 78,
+      "countryId": 111,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        14
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        24
+      ],
+      "attributes": [
+        72,
+        50,
+        66,
+        63,
+        69,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 3200,
+      "resourceId": 254252,
+      "assetId": 254252
+    },
+    "254254": {
+      "name": "Hamdy Fathy",
+      "cardName": "Fathy",
+      "originalVersionId": "1",
+      "clubId": 111130,
+      "leagueId": 78,
+      "countryId": 111,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        73,
+        61,
+        69,
+        71,
+        71,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 254254,
+      "assetId": 254254
+    },
+    "261624": {
+      "name": "Yasser Ibrahim",
+      "cardName": "Ibrahim",
+      "originalVersionId": "0",
+      "clubId": 111130,
+      "leagueId": 78,
+      "countryId": 111,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        18,
+        19,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        65,
+        49,
+        53,
+        57,
+        73,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 2000,
+      "resourceId": 261624,
+      "assetId": 261624
+    },
+    "261742": {
+      "name": "Emam Ashour",
+      "cardName": "Ashour",
+      "originalVersionId": "0",
+      "clubId": 111130,
+      "leagueId": 78,
+      "countryId": 111,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LW"
+      ],
+      "playStyles": [
+        2,
+        20,
+        22,
+        23,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        31
+      ],
+      "attributes": [
+        76,
+        71,
+        72,
+        77,
+        63,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 3000,
+      "resourceId": 261742,
+      "assetId": 261742
+    },
     "50557726": {
       "name": "Trezeguet",
       "cardName": "Trezeguet",

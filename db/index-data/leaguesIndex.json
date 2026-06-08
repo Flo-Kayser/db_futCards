@@ -1,11 +1,11 @@
 {
-  "totalLeagues": 59,
+  "totalLeagues": 60,
   "leagues": {
     "1": {
       "c": {
-        "all": 346,
+        "all": 347,
         "nobase": 11,
-        "onlybest": 338,
+        "onlybest": 339,
         "onlybestSpecial": 10
       },
       "name": "3F Superliga",
@@ -145,9 +145,9 @@
     },
     "10": {
       "c": {
-        "all": 658,
+        "all": 659,
         "nobase": 92,
-        "onlybest": 568,
+        "onlybest": 569,
         "onlybestSpecial": 69
       },
       "name": "Eredivisie",
@@ -236,8 +236,8 @@
     },
     "13": {
       "c": {
-        "all": 1223,
-        "nobase": 520,
+        "all": 1225,
+        "nobase": 521,
         "onlybest": 727,
         "onlybestSpecial": 273
       },
@@ -335,10 +335,10 @@
     },
     "14": {
       "c": {
-        "all": 960,
-        "nobase": 76,
+        "all": 961,
+        "nobase": 77,
         "onlybest": 886,
-        "onlybestSpecial": 62
+        "onlybestSpecial": 63
       },
       "name": "EFL Championship",
       "aName": "ENG 2",
@@ -624,10 +624,10 @@
     },
     "19": {
       "c": {
-        "all": 878,
-        "nobase": 261,
-        "onlybest": 627,
-        "onlybestSpecial": 144
+        "all": 880,
+        "nobase": 262,
+        "onlybest": 628,
+        "onlybestSpecial": 145
       },
       "name": "Bundesliga",
       "aName": "GER 1",
@@ -901,9 +901,9 @@
     },
     "32": {
       "c": {
-        "all": 592,
+        "all": 593,
         "nobase": 11,
-        "onlybest": 583,
+        "onlybest": 584,
         "onlybestSpecial": 10
       },
       "name": "Serie BKT",
@@ -996,9 +996,9 @@
     },
     "39": {
       "c": {
-        "all": 1045,
-        "nobase": 90,
-        "onlybest": 956,
+        "all": 1049,
+        "nobase": 91,
+        "onlybest": 958,
         "onlybestSpecial": 62
       },
       "name": "MLS",
@@ -1277,9 +1277,9 @@
     },
     "53": {
       "c": {
-        "all": 923,
+        "all": 924,
         "nobase": 321,
-        "onlybest": 612,
+        "onlybest": 613,
         "onlybestSpecial": 182
       },
       "name": "LALIGA EA SPORTS",
@@ -1780,9 +1780,9 @@
     },
     "63": {
       "c": {
-        "all": 139,
+        "all": 140,
         "nobase": 7,
-        "onlybest": 132,
+        "onlybest": 133,
         "onlybestSpecial": 5
       },
       "name": "Hellas Liga",
@@ -1866,9 +1866,9 @@
     },
     "66": {
       "c": {
-        "all": 535,
+        "all": 536,
         "nobase": 8,
-        "onlybest": 528,
+        "onlybest": 529,
         "onlybestSpecial": 8
       },
       "name": "PKO BP Ekstraklasa",
@@ -1957,9 +1957,9 @@
     },
     "68": {
       "c": {
-        "all": 636,
+        "all": 637,
         "nobase": 71,
-        "onlybest": 563,
+        "onlybest": 564,
         "onlybestSpecial": 47
       },
       "name": "Trendyol Süper Lig",
@@ -2048,17 +2048,174 @@
     },
     "78": {
       "c": {
-        "all": 15,
-        "nobase": 15,
-        "onlybest": 15,
-        "onlybestSpecial": 15
+        "all": 140,
+        "nobase": 17,
+        "onlybest": 126,
+        "onlybestSpecial": 17
       },
-      "name": null,
-      "aName": null,
-      "isW": null,
+      "name": "Men's National",
+      "aName": "INT",
+      "isW": false,
       "cId": null,
       "sortId": null,
-      "clubIds": []
+      "clubIds": [
+        {
+          "id": 1369,
+          "name": "Argentina"
+        },
+        {
+          "id": 1415,
+          "name": "Australia"
+        },
+        {
+          "id": 1322,
+          "name": "Austria"
+        },
+        {
+          "id": 1370,
+          "name": "Brazil"
+        },
+        {
+          "id": 111109,
+          "name": "Colombia"
+        },
+        {
+          "id": 1328,
+          "name": "Croatia"
+        },
+        {
+          "id": 1330,
+          "name": "Czechia"
+        },
+        {
+          "id": 1331,
+          "name": "Denmark"
+        },
+        {
+          "id": 111465,
+          "name": "Ecuador"
+        },
+        {
+          "id": 111130,
+          "name": "Egypt"
+        },
+        {
+          "id": 1318,
+          "name": "England"
+        },
+        {
+          "id": 1334,
+          "name": "Finland"
+        },
+        {
+          "id": 1335,
+          "name": "France"
+        },
+        {
+          "id": 1337,
+          "name": "Germany"
+        },
+        {
+          "id": 111462,
+          "name": "Ghana"
+        },
+        {
+          "id": 1886,
+          "name": "Hungary"
+        },
+        {
+          "id": 1341,
+          "name": "Iceland"
+        },
+        {
+          "id": 1355,
+          "name": "Ireland"
+        },
+        {
+          "id": 1343,
+          "name": "Italy"
+        },
+        {
+          "id": 974,
+          "name": "Korea Republic"
+        },
+        {
+          "id": 1386,
+          "name": "Mexico"
+        },
+        {
+          "id": 111111,
+          "name": "Morocco"
+        },
+        {
+          "id": 105035,
+          "name": "Netherlands"
+        },
+        {
+          "id": 110081,
+          "name": "Northern Ireland"
+        },
+        {
+          "id": 1352,
+          "name": "Norway"
+        },
+        {
+          "id": 1375,
+          "name": "Paraguay"
+        },
+        {
+          "id": 1353,
+          "name": "Poland"
+        },
+        {
+          "id": 1354,
+          "name": "Portugal"
+        },
+        {
+          "id": 111527,
+          "name": "Qatar"
+        },
+        {
+          "id": 1356,
+          "name": "Romania"
+        },
+        {
+          "id": 1359,
+          "name": "Scotland"
+        },
+        {
+          "id": 111099,
+          "name": "South Africa"
+        },
+        {
+          "id": 1362,
+          "name": "Spain"
+        },
+        {
+          "id": 1363,
+          "name": "Sweden"
+        },
+        {
+          "id": 1391,
+          "name": "Tunisia"
+        },
+        {
+          "id": 1366,
+          "name": "Ukraine"
+        },
+        {
+          "id": 1387,
+          "name": "United States"
+        },
+        {
+          "id": 1377,
+          "name": "Uruguay"
+        },
+        {
+          "id": 1367,
+          "name": "Wales"
+        }
+      ]
     },
     "80": {
       "c": {
@@ -2251,9 +2408,9 @@
     },
     "308": {
       "c": {
-        "all": 558,
+        "all": 560,
         "nobase": 91,
-        "onlybest": 470,
+        "onlybest": 472,
         "onlybestSpecial": 64
       },
       "name": "Liga Portugal",
@@ -2604,9 +2761,9 @@
     },
     "351": {
       "c": {
-        "all": 303,
+        "all": 304,
         "nobase": 10,
-        "onlybest": 293,
+        "onlybest": 294,
         "onlybestSpecial": 7
       },
       "name": "A-League",
@@ -2671,9 +2828,9 @@
     },
     "353": {
       "c": {
-        "all": 1090,
+        "all": 1099,
         "nobase": 26,
-        "onlybest": 1065,
+        "onlybest": 1074,
         "onlybestSpecial": 21
       },
       "name": "LPF",
@@ -2810,9 +2967,9 @@
     },
     "1003": {
       "c": {
-        "all": 513,
+        "all": 514,
         "nobase": 12,
-        "onlybest": 501,
+        "onlybest": 502,
         "onlybestSpecial": 11
       },
       "name": "Libertadores",
@@ -3045,6 +3202,20 @@
           "name": "Vitória"
         }
       ]
+    },
+    "1990": {
+      "c": {
+        "all": 1,
+        "nobase": 0,
+        "onlybest": 1,
+        "onlybestSpecial": 0
+      },
+      "name": null,
+      "aName": null,
+      "isW": null,
+      "cId": null,
+      "sortId": null,
+      "clubIds": []
     },
     "2012": {
       "c": {
