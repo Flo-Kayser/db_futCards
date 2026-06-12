@@ -180,7 +180,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 4000,
       "resourceId": 78183,
       "assetId": 78183
     },
@@ -713,7 +713,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 3700,
       "resourceId": 239817,
       "assetId": 239817
     },
@@ -978,7 +978,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 350,
       "resourceId": 259762,
       "assetId": 259762
     },
@@ -1312,52 +1312,6 @@
       "resourceId": 50597918,
       "assetId": 266270
     },
-    "67306620": {
-      "name": "Jordan Ayew",
-      "cardName": "Ayew",
-      "originalVersionId": "28",
-      "clubId": 95,
-      "leagueId": 14,
-      "countryId": 117,
-      "versionId": "28",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        1,
-        20,
-        23,
-        24,
-        9
-      ],
-      "playStylesPlus": [
-        21
-      ],
-      "rolesPlus": [
-        26,
-        36,
-        123,
-        135
-      ],
-      "attributes": [
-        87,
-        85,
-        83,
-        86,
-        70,
-        82
-      ],
-      "hasDynamicImage": true,
-      "price": 17250,
-      "resourceId": 67306620,
-      "assetId": 197756
-    },
     "67374378": {
       "name": "Jordan James",
       "cardName": "James",
@@ -1455,6 +1409,64 @@
       "price": 0,
       "resourceId": 67376544,
       "assetId": 267680
+    },
+    "84083836": {
+      "name": "Jordan Ayew",
+      "cardName": "Ayew",
+      "originalVersionId": "107",
+      "clubId": 95,
+      "leagueId": 14,
+      "countryId": 117,
+      "versionId": "107",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        12,
+        20,
+        23,
+        24,
+        6,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        21,
+        9
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        95,
+        93,
+        92,
+        94,
+        87,
+        92
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 84083836,
+      "assetId": 197756
     }
   }
 }

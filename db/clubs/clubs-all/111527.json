@@ -36,7 +36,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 180561,
       "assetId": 180561
     },
@@ -72,7 +72,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 203244,
       "assetId": 203244
     },
@@ -109,7 +109,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 400,
       "resourceId": 215911,
       "assetId": 215911
     },
@@ -147,7 +147,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 350,
       "resourceId": 228352,
       "assetId": 228352
     },
@@ -187,7 +187,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 1000,
       "resourceId": 234051,
       "assetId": 234051
     },
@@ -222,7 +222,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 450,
       "resourceId": 238878,
       "assetId": 238878
     },
@@ -260,7 +260,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 239878,
       "assetId": 239878
     },
@@ -295,7 +295,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 268771,
       "assetId": 268771
     },
@@ -366,7 +366,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 268775,
       "assetId": 268775
     },
@@ -401,7 +401,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 350,
       "resourceId": 268776,
       "assetId": 268776
     },
@@ -439,7 +439,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 268778,
       "assetId": 268778
     },
@@ -479,7 +479,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 400,
       "resourceId": 268779,
       "assetId": 268779
     },
@@ -513,7 +513,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 400,
       "resourceId": 268780,
       "assetId": 268780
     },
@@ -549,7 +549,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 268781,
       "assetId": 268781
     },
@@ -583,7 +583,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 268783,
       "assetId": 268783
     },
@@ -620,9 +620,66 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 400,
       "resourceId": 268879,
       "assetId": 268879
+    },
+    "50560000": {
+      "name": "Edmilson Junior",
+      "cardName": "Edmilson Junior",
+      "originalVersionId": "107",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "107",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [
+        10,
+        11,
+        12,
+        21,
+        24,
+        26,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        22
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        94,
+        92,
+        86,
+        95,
+        60,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50560000,
+      "assetId": 228352
     },
     "50565699": {
       "name": "Akram Afif",
@@ -675,6 +732,62 @@
       "price": 0,
       "resourceId": 50565699,
       "assetId": 234051
+    },
+    "50600527": {
+      "name": "Ahmed Fathi",
+      "cardName": "Fathi",
+      "originalVersionId": "107",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "107",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        17,
+        2,
+        20,
+        25,
+        26,
+        8
+      ],
+      "playStylesPlus": [
+        10,
+        16,
+        9
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        92,
+        75,
+        85,
+        90,
+        90,
+        92
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50600527,
+      "assetId": 268879
     }
   }
 }

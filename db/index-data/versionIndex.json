@@ -482,7 +482,7 @@
       }
     },
     "58": {
-      "count": 40,
+      "count": 39,
       "file": "db/versions/58.json",
       "details": {
         "name": "Showdown",
@@ -495,7 +495,7 @@
       }
     },
     "62": {
-      "count": 6,
+      "count": 5,
       "file": "db/versions/62.json",
       "details": {
         "name": "Festival of Football Showdown",
@@ -505,6 +505,19 @@
         "primaryColor": "#f2f2f2",
         "secondaryColor": "#3f3f3f",
         "tertiaryColor": "#f2f2f2"
+      }
+    },
+    "63": {
+      "count": 2,
+      "file": "db/versions/63.json",
+      "details": {
+        "name": "Festival of Football Showdown Upgrade",
+        "hasStrip": true,
+        "createdAt": "2026-06-03T23:45:00.494Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_63_0.png",
+        "primaryColor": "#c8f24a",
+        "secondaryColor": "#3f3f3f",
+        "tertiaryColor": "#717248"
       }
     },
     "64": {
@@ -755,7 +768,7 @@
       }
     },
     "98": {
-      "count": 71,
+      "count": 79,
       "file": "db/versions/98.json",
       "details": {
         "name": "Festival of Football: National Pride",
@@ -794,7 +807,7 @@
       }
     },
     "107": {
-      "count": 48,
+      "count": 92,
       "file": "db/versions/107.json",
       "details": {
         "name": "Festival of Football: Path to Glory",
@@ -1145,7 +1158,7 @@
       }
     },
     "2000": {
-      "count": 5070,
+      "count": 5077,
       "file": "db/versions/2000.json",
       "details": {
         "name": "Bronze Common",
@@ -1158,7 +1171,7 @@
       }
     },
     "2001": {
-      "count": 7327,
+      "count": 7335,
       "file": "db/versions/2001.json",
       "details": {
         "name": "Silver Common",
@@ -1171,7 +1184,7 @@
       }
     },
     "2002": {
-      "count": 1813,
+      "count": 1816,
       "file": "db/versions/2002.json",
       "details": {
         "name": "Gold Common",
@@ -1184,7 +1197,7 @@
       }
     },
     "3000": {
-      "count": 2721,
+      "count": 2729,
       "file": "db/versions/3000.json",
       "details": {
         "name": "Bronze Rare",
@@ -1197,7 +1210,7 @@
       }
     },
     "3001": {
-      "count": 3728,
+      "count": 3730,
       "file": "db/versions/3001.json",
       "details": {
         "name": "Silver Rare",
@@ -1224,8 +1237,8 @@
     }
   },
   "meta": {
-    "totalVersions": 94,
-    "totalVersionsWithoutBase": 88,
-    "updatedAt": "2026-06-11T19:43:21.219Z"
+    "totalVersions": 95,
+    "totalVersionsWithoutBase": 89,
+    "updatedAt": "2026-06-12T17:16:10.743Z"
   }
 }

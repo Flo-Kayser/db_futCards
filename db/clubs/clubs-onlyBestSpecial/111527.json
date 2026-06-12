@@ -1,6 +1,63 @@
 {
   "clubName": "Qatar",
   "players": {
+    "50560000": {
+      "name": "Edmilson Junior",
+      "cardName": "Edmilson Junior",
+      "originalVersionId": "107",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "107",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [
+        10,
+        11,
+        12,
+        21,
+        24,
+        26,
+        6,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        22
+      ],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        94,
+        92,
+        86,
+        95,
+        60,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50560000,
+      "assetId": 228352
+    },
     "50565699": {
       "name": "Akram Afif",
       "cardName": "Afif",
@@ -52,6 +109,62 @@
       "price": 0,
       "resourceId": 50565699,
       "assetId": 234051
+    },
+    "50600527": {
+      "name": "Ahmed Fathi",
+      "cardName": "Fathi",
+      "originalVersionId": "107",
+      "clubId": 111527,
+      "leagueId": 78,
+      "countryId": 182,
+      "versionId": "107",
+      "rating": 91,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        17,
+        2,
+        20,
+        25,
+        26,
+        8
+      ],
+      "playStylesPlus": [
+        10,
+        16,
+        9
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        92,
+        75,
+        85,
+        90,
+        90,
+        92
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50600527,
+      "assetId": 268879
     }
   }
 }

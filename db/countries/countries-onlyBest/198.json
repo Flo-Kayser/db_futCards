@@ -537,7 +537,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 206566,
     "assetId": 206566
   },
@@ -578,44 +578,6 @@
     "price": 200,
     "resourceId": 208543,
     "assetId": 208543
-  },
-  "209361": {
-    "name": "Tim Payne",
-    "cardName": "Payne",
-    "originalVersionId": "0",
-    "clubId": 111766,
-    "leagueId": 351,
-    "countryId": 198,
-    "versionId": "2000",
-    "rating": 64,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "RB",
-    "possiblePositions": [
-      "RB",
-      "RM"
-    ],
-    "playStyles": [
-      18
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      5,
-      6
-    ],
-    "attributes": [
-      68,
-      56,
-      58,
-      57,
-      60,
-      80
-    ],
-    "hasDynamicImage": false,
-    "price": 550,
-    "resourceId": 209361,
-    "assetId": 209361
   },
   "213094": {
     "name": "Storm Roux",
@@ -769,7 +731,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 700,
     "resourceId": 220886,
     "assetId": 220886
   },
@@ -841,7 +803,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 5000,
+    "price": 4100,
     "resourceId": 230971,
     "assetId": 230971
   },
@@ -1553,7 +1515,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 3000,
     "resourceId": 266150,
     "assetId": 266150
   },
@@ -1626,7 +1588,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 274055,
     "assetId": 274055
   },
@@ -1772,7 +1734,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1400,
     "resourceId": 277552,
     "assetId": 277552
   },
@@ -1807,7 +1769,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 4500,
+    "price": 5100,
     "resourceId": 278220,
     "assetId": 278220
   },
@@ -2004,6 +1966,49 @@
     "resourceId": 50533818,
     "assetId": 202170
   },
+  "50541009": {
+    "name": "Tim Payne",
+    "cardName": "Payne",
+    "originalVersionId": "98",
+    "clubId": 111766,
+    "leagueId": 351,
+    "countryId": 198,
+    "versionId": "98",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      123,
+      124,
+      125,
+      126,
+      146
+    ],
+    "attributes": [
+      93,
+      84,
+      89,
+      88,
+      91,
+      93
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 36250,
+    "resourceId": 50541009,
+    "assetId": 209361
+  },
   "50552534": {
     "name": "Bill Tuiloma",
     "cardName": "Tuiloma",
@@ -2126,50 +2131,6 @@
     "resourceId": 50564991,
     "assetId": 233343
   },
-  "50575314": {
-    "name": "Callum McCowatt",
-    "cardName": "McCowatt",
-    "originalVersionId": "3",
-    "clubId": 270,
-    "leagueId": 1,
-    "countryId": 198,
-    "versionId": "3",
-    "rating": 80,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "CM",
-      "LW",
-      "RW"
-    ],
-    "playStyles": [
-      0,
-      2,
-      21
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      31,
-      33,
-      39,
-      132
-    ],
-    "attributes": [
-      86,
-      80,
-      79,
-      81,
-      66,
-      80
-    ],
-    "hasDynamicImage": true,
-    "price": 47250,
-    "resourceId": 50575314,
-    "assetId": 243666
-  },
   "50577187": {
     "name": "Ben Waine",
     "cardName": "Waine",
@@ -2211,7 +2172,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 32500,
     "resourceId": 50577187,
     "assetId": 245539
   },
@@ -2390,7 +2351,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 42000,
+    "price": 39750,
     "resourceId": 50607897,
     "assetId": 276249
   },
@@ -2425,7 +2386,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 4800,
     "resourceId": 50609868,
     "assetId": 278220
   },
@@ -2484,8 +2445,58 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 16250,
     "resourceId": 67181956,
     "assetId": 73092
+  },
+  "67352530": {
+    "name": "Callum McCowatt",
+    "cardName": "McCowatt",
+    "originalVersionId": "98",
+    "clubId": 270,
+    "leagueId": 1,
+    "countryId": 198,
+    "versionId": "98",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LW",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      92,
+      92,
+      92,
+      92,
+      77,
+      91
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67352530,
+    "assetId": 243666
   }
 }

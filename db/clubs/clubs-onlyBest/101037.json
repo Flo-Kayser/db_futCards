@@ -514,7 +514,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 2500,
       "resourceId": 269510,
       "assetId": 269510
     },
@@ -707,7 +707,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 2400,
       "resourceId": 277568,
       "assetId": 277568
     },
@@ -784,7 +784,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 4000,
       "resourceId": 277627,
       "assetId": 277627
     },
@@ -819,7 +819,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 277678,
       "assetId": 277678
     },
@@ -854,7 +854,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 4200,
       "resourceId": 278167,
       "assetId": 278167
     },
@@ -895,44 +895,6 @@
       "resourceId": 50573827,
       "assetId": 242179
     },
-    "50576597": {
-      "name": "Frantzdy Pierrot",
-      "cardName": "Pierrot",
-      "originalVersionId": "1",
-      "clubId": 101037,
-      "leagueId": 68,
-      "countryId": 80,
-      "versionId": "3001",
-      "rating": 72,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        4
-      ],
-      "playStylesPlus": [
-        19
-      ],
-      "rolesPlus": [
-        41
-      ],
-      "attributes": [
-        65,
-        72,
-        56,
-        62,
-        32,
-        82
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50576597,
-      "assetId": 244949
-    },
     "50595683": {
       "name": "Jesurun Rak-Sakyi",
       "cardName": "Rak-Sakyi",
@@ -969,7 +931,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 41750,
+      "price": 44000,
       "resourceId": 50595683,
       "assetId": 264035
     },
@@ -1042,6 +1004,55 @@
       "price": 200,
       "resourceId": 50610017,
       "assetId": 278369
+    },
+    "67353813": {
+      "name": "Frantzdy Pierrot",
+      "cardName": "Pierrot",
+      "originalVersionId": "107",
+      "clubId": 101037,
+      "leagueId": 68,
+      "countryId": 80,
+      "versionId": "107",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        13,
+        19,
+        2,
+        20,
+        29,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        25,
+        4
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        93,
+        92,
+        91,
+        52,
+        93
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67353813,
+      "assetId": 244949
     }
   }
 }

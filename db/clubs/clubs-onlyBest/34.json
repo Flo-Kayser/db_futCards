@@ -66,7 +66,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 72964,
       "assetId": 72964
     },
@@ -364,7 +364,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 8000,
       "resourceId": 205966,
       "assetId": 205966
     },
@@ -771,7 +771,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 251992,
       "assetId": 251992
     },
@@ -1070,7 +1070,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 9600,
+      "price": 1400,
       "resourceId": 269955,
       "assetId": 269955
     },
@@ -1338,7 +1338,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 98500,
+      "price": 140000,
       "resourceId": 50575852,
       "assetId": 244204
     },
@@ -1377,7 +1377,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 2200,
       "resourceId": 50584750,
       "assetId": 253102
     },
@@ -1457,50 +1457,53 @@
       "resourceId": 67361966,
       "assetId": 253102
     },
-    "84067010": {
+    "117621442": {
       "name": "Edin Džeko",
       "cardName": "Džeko",
-      "originalVersionId": "3",
+      "originalVersionId": "107",
       "clubId": 34,
       "leagueId": 20,
       "countryId": 8,
-      "versionId": "3",
-      "rating": 88,
+      "versionId": "107",
+      "rating": 94,
       "preferredFoot": "Right",
       "weakFoot": 5,
-      "skillMoves": 3,
+      "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
         "ST"
       ],
       "playStyles": [
-        0,
         11,
+        2,
         20,
-        6,
+        21,
+        22,
+        4,
+        7,
         8
       ],
       "playStylesPlus": [
-        24,
-        4
+        0,
+        29,
+        6
       ],
       "rolesPlus": [
-        43,
         141,
         142,
+        143,
         144
       ],
       "attributes": [
-        86,
-        89,
-        82,
-        85,
-        50,
-        82
+        93,
+        95,
+        90,
+        94,
+        60,
+        95
       ],
-      "hasDynamicImage": false,
-      "price": 30000,
-      "resourceId": 84067010,
+      "hasDynamicImage": true,
+      "resourceId": 117621442,
       "assetId": 180930
     }
   }

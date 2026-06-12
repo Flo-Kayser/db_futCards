@@ -40,7 +40,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 66000,
+    "price": 70000,
     "resourceId": 191208,
     "assetId": 191208
   },
@@ -86,7 +86,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 41000,
+    "price": 39500,
     "resourceId": 266473,
     "assetId": 266473
   },
@@ -134,7 +134,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 146000,
+    "price": 138000,
     "resourceId": 50522856,
     "assetId": 191208
   },
@@ -182,7 +182,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 450000,
+    "price": 387000,
     "resourceId": 50531752,
     "assetId": 200104
   },
@@ -349,7 +349,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 40000,
+    "price": 38500,
     "resourceId": 50568734,
     "assetId": 237086
   },
@@ -388,7 +388,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 47500,
+    "price": 47000,
     "resourceId": 50570218,
     "assetId": 238570
   },
@@ -522,12 +522,12 @@
   "50592045": {
     "name": "Yang Hyun Jun",
     "cardName": "Yang Hyun Jun",
-    "originalVersionId": "58",
+    "originalVersionId": "63",
     "clubId": 78,
     "leagueId": 50,
     "countryId": 167,
-    "versionId": "58",
-    "rating": 90,
+    "versionId": "63",
+    "rating": 92,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -541,13 +541,14 @@
       11,
       12,
       2,
-      20,
+      22,
       25,
       6,
       8
     ],
     "playStylesPlus": [
       0,
+      20,
       21
     ],
     "rolesPlus": [
@@ -563,15 +564,15 @@
       139
     ],
     "attributes": [
-      94,
-      88,
+      96,
       90,
-      93,
-      60,
-      85
+      92,
+      95,
+      62,
+      87
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 36000,
+    "sbcPrice": 29750,
     "resourceId": 50592045,
     "assetId": 260397
   },
@@ -692,7 +693,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 45000,
+    "price": 37750,
     "resourceId": 50600543,
     "assetId": 268895
   },
@@ -888,6 +889,54 @@
     "price": 0,
     "resourceId": 67330535,
     "assetId": 221671
+  },
+  "67336874": {
+    "name": "Hwang In Beom",
+    "cardName": "Hwang In Beom",
+    "originalVersionId": "98",
+    "clubId": 246,
+    "leagueId": 10,
+    "countryId": 167,
+    "versionId": "98",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      88,
+      85,
+      91,
+      92,
+      78,
+      82
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 67336874,
+    "assetId": 228010
   },
   "67345950": {
     "name": "Kim Min Jae",
@@ -1087,7 +1136,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 82000,
+    "price": 79000,
     "resourceId": 67353918,
     "assetId": 245054
   },
@@ -1136,7 +1185,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 36750,
+    "price": 38000,
     "resourceId": 67357576,
     "assetId": 248712
   },
@@ -1383,7 +1432,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 42500,
+    "price": 37750,
     "resourceId": 84128901,
     "assetId": 242821
   },
@@ -1495,5 +1544,64 @@
     "price": 0,
     "resourceId": 84152553,
     "assetId": 266473
+  },
+  "117684292": {
+    "name": "Lee Kang In",
+    "cardName": "Lee Kang In",
+    "originalVersionId": "107",
+    "clubId": 73,
+    "leagueId": 16,
+    "countryId": 167,
+    "versionId": "107",
+    "rating": 95,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      11,
+      12,
+      20,
+      25,
+      3,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      13,
+      21,
+      6
+    ],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      96,
+      95,
+      96,
+      96,
+      66,
+      90
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 117684292,
+    "assetId": 243780
   }
 }

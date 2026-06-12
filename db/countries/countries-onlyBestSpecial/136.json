@@ -1,56 +1,4 @@
 {
-  "50540370": {
-    "name": "Sadio Mané",
-    "cardName": "Mané",
-    "originalVersionId": "82",
-    "clubId": 112139,
-    "leagueId": 350,
-    "countryId": 136,
-    "versionId": "82",
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "RM",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      19,
-      20,
-      21,
-      7,
-      9
-    ],
-    "playStylesPlus": [
-      6
-    ],
-    "rolesPlus": [
-      23,
-      27,
-      38,
-      126,
-      130,
-      139,
-      143
-    ],
-    "attributes": [
-      88,
-      86,
-      83,
-      90,
-      50,
-      81
-    ],
-    "hasDynamicImage": true,
-    "price": 170000,
-    "resourceId": 50540370,
-    "assetId": 208722
-  },
   "50547433": {
     "name": "Keita Baldé",
     "cardName": "Baldé",
@@ -89,7 +37,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 18000,
     "resourceId": 50547433,
     "assetId": 215785
   },
@@ -182,7 +130,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 55000,
+    "price": 40000,
     "resourceId": 50583574,
     "assetId": 251926
   },
@@ -338,7 +286,7 @@
       72
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 32500,
     "resourceId": 50606972,
     "assetId": 275324
   },
@@ -387,7 +335,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 42500,
+    "price": 38000,
     "resourceId": 67309888,
     "assetId": 201024
   },
@@ -451,7 +399,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 650000,
+    "price": 660000,
     "resourceId": 67344217,
     "assetId": 235353
   },
@@ -598,7 +546,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14250,
     "resourceId": 67370052,
     "assetId": 261188
   },
@@ -647,8 +595,71 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 42000,
+    "price": 40000,
     "resourceId": 67385497,
     "assetId": 276633
+  },
+  "84094802": {
+    "name": "Sadio Mané",
+    "cardName": "Mané",
+    "originalVersionId": "107",
+    "clubId": 112139,
+    "leagueId": 350,
+    "countryId": 136,
+    "versionId": "107",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      19,
+      22,
+      24,
+      25,
+      7,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      20,
+      21,
+      6
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      95,
+      94,
+      88,
+      95,
+      55,
+      88
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 84094802,
+    "assetId": 208722
   }
 }

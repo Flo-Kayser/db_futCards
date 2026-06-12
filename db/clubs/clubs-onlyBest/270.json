@@ -136,7 +136,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 74531,
       "assetId": 74531
     },
@@ -914,7 +914,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 4500,
       "resourceId": 275271,
       "assetId": 275271
     },
@@ -948,53 +948,9 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 2300,
       "resourceId": 275332,
       "assetId": 275332
-    },
-    "50575314": {
-      "name": "Callum McCowatt",
-      "cardName": "McCowatt",
-      "originalVersionId": "3",
-      "clubId": 270,
-      "leagueId": 1,
-      "countryId": 198,
-      "versionId": "3",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "LW",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        2,
-        21
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        31,
-        33,
-        39,
-        132
-      ],
-      "attributes": [
-        86,
-        80,
-        79,
-        81,
-        66,
-        80
-      ],
-      "hasDynamicImage": true,
-      "price": 47250,
-      "resourceId": 50575314,
-      "assetId": 243666
     },
     "50596165": {
       "name": "Adam Wikman",
@@ -1032,6 +988,56 @@
       "price": 200,
       "resourceId": 50596165,
       "assetId": 264517
+    },
+    "67352530": {
+      "name": "Callum McCowatt",
+      "cardName": "McCowatt",
+      "originalVersionId": "98",
+      "clubId": 270,
+      "leagueId": 1,
+      "countryId": 198,
+      "versionId": "98",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        92,
+        92,
+        92,
+        92,
+        77,
+        91
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67352530,
+      "assetId": 243666
     }
   }
 }
