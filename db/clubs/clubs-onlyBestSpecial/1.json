@@ -386,7 +386,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 95000,
+      "price": 83500,
       "resourceId": 67329765,
       "assetId": 220901
     },
@@ -442,7 +442,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 219000,
+      "price": 230000,
       "resourceId": 67344654,
       "assetId": 235790
     },
@@ -493,7 +493,7 @@
         97
       ],
       "hasDynamicImage": true,
-      "price": 2231000,
+      "price": 1870000,
       "resourceId": 67350515,
       "assetId": 241651
     },
@@ -539,7 +539,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 54000,
+      "price": 64000,
       "resourceId": 67360430,
       "assetId": 251566
     },
@@ -600,7 +600,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 302000,
+      "price": 300000,
       "resourceId": 67365061,
       "assetId": 256197
     },
@@ -652,7 +652,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 483000,
+      "price": 500000,
       "resourceId": 67366575,
       "assetId": 257711
     },
@@ -698,7 +698,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 78000,
+      "price": 79500,
       "resourceId": 84106981,
       "assetId": 220901
     },
@@ -745,7 +745,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 150000,
+      "price": 174000,
       "resourceId": 84111273,
       "assetId": 225193
     },
@@ -794,7 +794,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 400000,
+      "price": 410000,
       "resourceId": 84118660,
       "assetId": 232580
     },
@@ -843,7 +843,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 1195000,
+      "price": 1045000,
       "resourceId": 84129795,
       "assetId": 243715
     },
@@ -899,7 +899,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 277000,
+      "sbcPrice": 261000,
       "resourceId": 100885961,
       "assetId": 222665
     },
@@ -1012,7 +1012,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 2449000,
+      "price": 2506000,
       "resourceId": 100909965,
       "assetId": 246669
     },
@@ -1078,61 +1078,9 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 193000,
+      "price": 195000,
       "resourceId": 100915101,
       "assetId": 251805
-    },
-    "100918092": {
-      "name": "Noni Madueke",
-      "cardName": "Madueke",
-      "originalVersionId": "57",
-      "clubId": 1,
-      "leagueId": 13,
-      "countryId": 14,
-      "versionId": "57",
-      "rating": 90,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        12,
-        2,
-        20,
-        21,
-        8,
-        9
-      ],
-      "playStylesPlus": [
-        25,
-        6
-      ],
-      "rolesPlus": [
-        24,
-        123,
-        125,
-        126,
-        135,
-        136,
-        137
-      ],
-      "attributes": [
-        96,
-        88,
-        89,
-        91,
-        57,
-        81
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 100250,
-      "resourceId": 100918092,
-      "assetId": 254796
     },
     "134452106": {
       "name": "Declan Rice",
@@ -1186,9 +1134,50 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 361000,
+      "price": 363000,
       "resourceId": 134452106,
       "assetId": 234378
+    },
+    "134472524": {
+      "name": "Noni Madueke",
+      "cardName": "Madueke",
+      "originalVersionId": "103",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "103",
+      "rating": 95,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        99,
+        94,
+        93,
+        96,
+        60,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 134472524,
+      "assetId": 254796
     }
   }
 }

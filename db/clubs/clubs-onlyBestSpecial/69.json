@@ -36,7 +36,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 33000,
+      "price": 34500,
       "resourceId": 50522589,
       "assetId": 190941
     },
@@ -82,7 +82,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 13750,
       "resourceId": 50533983,
       "assetId": 202335
     },
@@ -170,7 +170,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 23000,
+      "price": 20000,
       "resourceId": 50576859,
       "assetId": 245211
     },
@@ -434,64 +434,6 @@
       "resourceId": 84133543,
       "assetId": 247463
     },
-    "84150942": {
-      "name": "Maghnes Akliouche",
-      "cardName": "Akliouche",
-      "originalVersionId": "11",
-      "clubId": 69,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "11",
-      "rating": 91,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        11,
-        13,
-        23,
-        24,
-        25,
-        6
-      ],
-      "playStylesPlus": [
-        20,
-        22,
-        8
-      ],
-      "rolesPlus": [
-        24,
-        25,
-        37,
-        123,
-        126,
-        131,
-        132,
-        133,
-        134,
-        135,
-        136
-      ],
-      "attributes": [
-        91,
-        88,
-        93,
-        95,
-        60,
-        80
-      ],
-      "hasDynamicImage": true,
-      "price": 37000,
-      "resourceId": 84150942,
-      "assetId": 264862
-    },
     "100859160": {
       "name": "Paul Pogba",
       "cardName": "Pogba",
@@ -532,9 +474,55 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 807000,
+      "price": 761000,
       "resourceId": 100859160,
       "assetId": 195864
+    },
+    "100928158": {
+      "name": "Maghnes Akliouche",
+      "cardName": "Akliouche",
+      "originalVersionId": "103",
+      "clubId": 69,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "103",
+      "rating": 95,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        96,
+        93,
+        97,
+        98,
+        65,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 100928158,
+      "assetId": 264862
     }
   }
 }
