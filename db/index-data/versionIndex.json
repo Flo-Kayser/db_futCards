@@ -495,7 +495,7 @@
       }
     },
     "62": {
-      "count": 6,
+      "count": 5,
       "file": "db/versions/62.json",
       "details": {
         "name": "Festival of Football Showdown",
@@ -508,7 +508,7 @@
       }
     },
     "63": {
-      "count": 5,
+      "count": 6,
       "file": "db/versions/63.json",
       "details": {
         "name": "Festival of Football Showdown Upgrade",
@@ -741,6 +741,19 @@
         "tertiaryColor": "#fef7b9"
       }
     },
+    "94": {
+      "count": 6,
+      "file": "db/versions/94.json",
+      "details": {
+        "name": "Festival of Football: Star Performer",
+        "hasStrip": true,
+        "createdAt": "2026-06-03T23:45:00.494Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_94_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#8635fc",
+        "tertiaryColor": "#d8bdff"
+      }
+    },
     "96": {
       "count": 43,
       "file": "db/versions/96.json",
@@ -768,7 +781,7 @@
       }
     },
     "98": {
-      "count": 79,
+      "count": 80,
       "file": "db/versions/98.json",
       "details": {
         "name": "Festival of Football: National Pride",
@@ -1171,7 +1184,7 @@
       }
     },
     "2001": {
-      "count": 7335,
+      "count": 7338,
       "file": "db/versions/2001.json",
       "details": {
         "name": "Silver Common",
@@ -1210,7 +1223,7 @@
       }
     },
     "3001": {
-      "count": 3730,
+      "count": 3732,
       "file": "db/versions/3001.json",
       "details": {
         "name": "Silver Rare",
@@ -1223,7 +1236,7 @@
       }
     },
     "3002": {
-      "count": 975,
+      "count": 977,
       "file": "db/versions/3002.json",
       "details": {
         "name": "Gold Rare",
@@ -1237,8 +1250,8 @@
     }
   },
   "meta": {
-    "totalVersions": 95,
-    "totalVersionsWithoutBase": 89,
-    "updatedAt": "2026-06-17T19:29:30.221Z"
+    "totalVersions": 96,
+    "totalVersionsWithoutBase": 90,
+    "updatedAt": "2026-06-18T19:35:29.377Z"
   }
 }

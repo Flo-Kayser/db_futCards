@@ -43,7 +43,7 @@
         59
       ],
       "hasDynamicImage": true,
-      "price": 40000,
+      "price": 44000,
       "resourceId": 50548195,
       "assetId": 216547
     },
@@ -84,7 +84,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 19250,
       "resourceId": 67325724,
       "assetId": 216860
     },
@@ -145,58 +145,9 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 13000,
       "resourceId": 67346705,
       "assetId": 237841
-    },
-    "67357576": {
-      "name": "Oh Hyeon Gyu",
-      "cardName": "Oh Hyeon Gyu",
-      "originalVersionId": "120",
-      "clubId": 327,
-      "leagueId": 68,
-      "countryId": 167,
-      "versionId": "120",
-      "rating": 91,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        11,
-        20,
-        22,
-        25,
-        29,
-        8
-      ],
-      "playStylesPlus": [
-        2,
-        21,
-        6
-      ],
-      "rolesPlus": [
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        91,
-        91,
-        75,
-        90,
-        63,
-        91
-      ],
-      "hasDynamicImage": true,
-      "price": 44500,
-      "resourceId": 67357576,
-      "assetId": 248712
     },
     "84129325": {
       "name": "Orkun Kökçü",
@@ -255,9 +206,46 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 124000,
+      "price": 134000,
       "resourceId": 84129325,
       "assetId": 243245
+    },
+    "84134792": {
+      "name": "Oh Hyeon Gyu",
+      "cardName": "Oh Hyeon Gyu",
+      "originalVersionId": "98",
+      "clubId": 327,
+      "leagueId": 68,
+      "countryId": 167,
+      "versionId": "98",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        92,
+        80,
+        91,
+        64,
+        92
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 21000,
+      "resourceId": 84134792,
+      "assetId": 248712
     }
   }
 }
