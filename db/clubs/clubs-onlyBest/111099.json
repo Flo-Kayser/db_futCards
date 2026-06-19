@@ -1,44 +1,6 @@
 {
   "clubName": "South Africa",
   "players": {
-    "82294": {
-      "name": "Oswin Appollis",
-      "cardName": "Appollis",
-      "originalVersionId": "0",
-      "clubId": 111099,
-      "leagueId": 78,
-      "countryId": 140,
-      "versionId": "2001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        0,
-        23
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        27
-      ],
-      "attributes": [
-        73,
-        66,
-        71,
-        72,
-        28,
-        47
-      ],
-      "hasDynamicImage": false,
-      "price": 650,
-      "resourceId": 82294,
-      "assetId": 82294
-    },
     "213615": {
       "name": "Ronwen Williams",
       "cardName": "Williams",
@@ -71,7 +33,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1000,
       "resourceId": 213615,
       "assetId": 213615
     },
@@ -108,7 +70,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 700,
       "resourceId": 242935,
       "assetId": 242935
     },
@@ -142,7 +104,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 700,
       "resourceId": 253949,
       "assetId": 253949
     },
@@ -177,7 +139,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1900,
       "resourceId": 262638,
       "assetId": 262638
     },
@@ -217,7 +179,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 600,
       "resourceId": 270945,
       "assetId": 270945
     },
@@ -253,9 +215,50 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 2000,
       "resourceId": 270951,
       "assetId": 270951
+    },
+    "50413942": {
+      "name": "Oswin Appollis",
+      "cardName": "Appollis",
+      "originalVersionId": "98",
+      "clubId": 111099,
+      "leagueId": 78,
+      "countryId": 140,
+      "versionId": "98",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        92,
+        92,
+        92,
+        92,
+        55,
+        90
+      ],
+      "isObjective": true,
+      "hasDynamicImage": false,
+      "resourceId": 50413942,
+      "assetId": 82294
     },
     "50413956": {
       "name": "Mbekezeli Mbokazi",

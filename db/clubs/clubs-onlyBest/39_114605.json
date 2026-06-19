@@ -3,52 +3,60 @@
     "clubId": 114605,
     "leagueId": 39,
     "countryId": 95,
-    "versionId": "148",
-    "rating": 92,
+    "versionId": "130",
+    "rating": 94,
     "preferredFoot": "Right",
-    "weakFoot": 5,
+    "weakFoot": 4,
     "skillMoves": 5,
-    "preferredPosition": "CAM",
+    "preferredPosition": "RW",
     "possiblePositions": [
       "CAM",
       "RM",
+      "RW",
       "ST"
     ],
     "playStyles": [
       0,
       1,
       11,
-      12,
+      21,
       22,
+      6,
       7,
-      8
+      9
     ],
     "playStylesPlus": [
-      21,
-      6
+      20,
+      25,
+      8
     ],
     "rolesPlus": [
-      25,
-      26,
-      34,
-      42,
       123,
+      124,
+      125,
+      126,
       131,
       132,
+      133,
+      134,
+      135,
+      136,
+      137,
       141,
-      143
+      142,
+      143,
+      144
     ],
     "attributes": [
-      92,
-      91,
-      87,
-      90,
-      52,
-      80
+      96,
+      94,
+      93,
+      94,
+      56,
+      87
     ],
-    "isObjective": true,
-    "hasDynamicImage": true,
-    "resourceId": 50339391,
+    "hasDynamicImage": false,
+    "resourceId": 83893823,
     "assetId": 7743,
     "name": "Landon Donovan",
     "cardName": "Donovan"

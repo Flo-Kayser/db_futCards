@@ -29,7 +29,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 200,
     "resourceId": 73325,
     "assetId": 73325
   },
@@ -140,7 +140,7 @@
       48
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 400,
     "resourceId": 79399,
     "assetId": 79399
   },
@@ -182,7 +182,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 71000,
+    "price": 73500,
     "resourceId": 156353,
     "assetId": 156353
   },
@@ -330,7 +330,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 7000,
     "resourceId": 235184,
     "assetId": 235184
   },
@@ -403,7 +403,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 450,
     "resourceId": 235590,
     "assetId": 235590
   },
@@ -553,7 +553,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 239993,
     "assetId": 239993
   },
@@ -632,7 +632,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 800,
     "resourceId": 246289,
     "assetId": 246289
   },
@@ -855,7 +855,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 4600,
+    "price": 5100,
     "resourceId": 257482,
     "assetId": 257482
   },
@@ -891,7 +891,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 10000,
     "resourceId": 257784,
     "assetId": 257784
   },
@@ -926,7 +926,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 9000,
+    "price": 3000,
     "resourceId": 258081,
     "assetId": 258081
   },
@@ -961,7 +961,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 259406,
     "assetId": 259406
   },
@@ -999,7 +999,7 @@
       38
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 262209,
     "assetId": 262209
   },
@@ -1071,7 +1071,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 1300,
     "resourceId": 264863,
     "assetId": 264863
   },
@@ -1179,61 +1179,6 @@
     "price": 0,
     "resourceId": 275442,
     "assetId": 275442
-  },
-  "50358357": {
-    "name": "Rafael Márquez",
-    "cardName": "Márquez",
-    "originalVersionId": "135",
-    "clubId": 114605,
-    "leagueId": 53,
-    "countryId": 83,
-    "versionId": "135",
-    "rating": 94,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB",
-      "CDM"
-    ],
-    "playStyles": [
-      15,
-      16,
-      18,
-      19,
-      3,
-      4,
-      9
-    ],
-    "playStylesPlus": [
-      10,
-      17,
-      28
-    ],
-    "rolesPlus": [
-      111,
-      112,
-      113,
-      114,
-      115,
-      116,
-      117,
-      148,
-      149
-    ],
-    "attributes": [
-      88,
-      72,
-      84,
-      84,
-      99,
-      94
-    ],
-    "hasDynamicImage": true,
-    "price": 789000,
-    "resourceId": 50358357,
-    "assetId": 26709
   },
   "50471881": {
     "name": "Guillermo Ochoa",
@@ -1502,7 +1447,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 111000,
+    "price": 105000,
     "resourceId": 50572872,
     "assetId": 241224
   },
@@ -1701,6 +1646,61 @@
     "resourceId": 50605118,
     "assetId": 273470
   },
+  "67135573": {
+    "name": "Rafael Márquez",
+    "cardName": "Márquez",
+    "originalVersionId": "130",
+    "clubId": 114605,
+    "leagueId": 53,
+    "countryId": 83,
+    "versionId": "130",
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM"
+    ],
+    "playStyles": [
+      10,
+      14,
+      18,
+      19,
+      28,
+      3,
+      4,
+      9
+    ],
+    "playStylesPlus": [
+      15,
+      16,
+      17
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      148,
+      149
+    ],
+    "attributes": [
+      90,
+      80,
+      91,
+      88,
+      95,
+      95
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 67135573,
+    "assetId": 26709
+  },
   "67187648": {
     "name": "Mateo Chávez",
     "cardName": "Chávez",
@@ -1892,7 +1892,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 21000,
     "resourceId": 67344708,
     "assetId": 235844
   },
@@ -1979,7 +1979,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 22000,
     "resourceId": 84090918,
     "assetId": 204838
   },
@@ -2037,7 +2037,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 231000,
+    "price": 239000,
     "resourceId": 84120659,
     "assetId": 234579
   },
@@ -2092,7 +2092,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 130000,
+    "price": 131000,
     "resourceId": 84133758,
     "assetId": 247678
   },

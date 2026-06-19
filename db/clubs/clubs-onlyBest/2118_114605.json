@@ -2,6 +2,151 @@
   {
     "clubId": 114605,
     "leagueId": 2118,
+    "countryId": 18,
+    "versionId": "130",
+    "rating": 93,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB"
+    ],
+    "playStyles": [
+      10,
+      12,
+      15,
+      17,
+      20,
+      25,
+      26,
+      28
+    ],
+    "playStylesPlus": [
+      14,
+      16,
+      18
+    ],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      147
+    ],
+    "attributes": [
+      93,
+      64,
+      92,
+      93,
+      93,
+      92
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 83891534,
+    "assetId": 5454,
+    "name": "Bixente Lizarazu",
+    "cardName": "Lizarazu"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 2118,
+    "countryId": 21,
+    "versionId": "130",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      13,
+      22,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      1,
+      25
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      94,
+      95,
+      87,
+      92,
+      52,
+      90
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 84052756,
+    "assetId": 166676,
+    "name": "Rudi Völler",
+    "cardName": "Völler"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 2118,
+    "countryId": 183,
+    "versionId": "130",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      10,
+      11,
+      20,
+      4,
+      6,
+      7,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      2,
+      21
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      95,
+      94,
+      85,
+      92,
+      50,
+      85
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 50500534,
+    "assetId": 168886,
+    "name": "Sami Al Jaber",
+    "cardName": "Al Jaber"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 2118,
     "countryId": 83,
     "versionId": "90",
     "rating": 92,
@@ -42,5 +187,218 @@
     "assetId": 191694,
     "name": "Jorge Campos",
     "cardName": "Campos"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 2118,
+    "countryId": 163,
+    "versionId": "130",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      11,
+      20,
+      21,
+      24,
+      3,
+      5,
+      9
+    ],
+    "playStylesPlus": [
+      2,
+      22,
+      8
+    ],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134
+    ],
+    "attributes": [
+      92,
+      90,
+      92,
+      92,
+      73,
+      90
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 100905921,
+    "assetId": 242625,
+    "name": "Hidetoshi Nakata",
+    "cardName": "Nakata"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 2118,
+    "countryId": 7,
+    "versionId": "130",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      14,
+      15,
+      16,
+      18,
+      19,
+      2,
+      4,
+      9
+    ],
+    "playStylesPlus": [
+      17,
+      25,
+      28
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      88,
+      64,
+      86,
+      81,
+      92,
+      93
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 84137563,
+    "assetId": 251483,
+    "name": "Vincent Kompany",
+    "cardName": "Kompany"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 2118,
+    "countryId": 60,
+    "versionId": "130",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      20,
+      22,
+      23,
+      24,
+      6,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      2,
+      25
+    ],
+    "rolesPlus": [
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      93,
+      94,
+      87,
+      90,
+      60,
+      83
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 84152771,
+    "assetId": 266691,
+    "name": "Diego Forlán",
+    "cardName": "Forlán"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 2118,
+    "countryId": 34,
+    "versionId": "130",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM"
+    ],
+    "playStyles": [
+      10,
+      11,
+      2,
+      20,
+      22,
+      3,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      25,
+      8
+    ],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134
+    ],
+    "attributes": [
+      92,
+      92,
+      95,
+      92,
+      62,
+      85
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 84160830,
+    "assetId": 274750,
+    "name": "Wesley Sneijder",
+    "cardName": "Sneijder"
   }
 ]

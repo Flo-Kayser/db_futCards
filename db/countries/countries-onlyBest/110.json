@@ -281,7 +281,7 @@
       77
     ],
     "hasDynamicImage": false,
-    "price": 4900,
+    "price": 3500,
     "resourceId": 196953,
     "assetId": 196953
   },
@@ -396,7 +396,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 200,
     "resourceId": 210394,
     "assetId": 210394
   },
@@ -590,7 +590,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 600,
     "resourceId": 222875,
     "assetId": 222875
   },
@@ -745,46 +745,6 @@
     "resourceId": 231436,
     "assetId": 231436
   },
-  "231652": {
-    "name": "Simon Banza",
-    "cardName": "Banza",
-    "originalVersionId": "1",
-    "clubId": 1896,
-    "leagueId": 308,
-    "countryId": 110,
-    "versionId": "3002",
-    "rating": 81,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      19,
-      22,
-      24,
-      5
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      42,
-      44
-    ],
-    "attributes": [
-      79,
-      81,
-      62,
-      77,
-      36,
-      79
-    ],
-    "hasDynamicImage": false,
-    "price": 7400,
-    "resourceId": 231652,
-    "assetId": 231652
-  },
   "233884": {
     "name": "Charles Pickel",
     "cardName": "Pickel",
@@ -930,7 +890,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 500,
     "resourceId": 238062,
     "assetId": 238062
   },
@@ -1042,44 +1002,9 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 10000,
     "resourceId": 239814,
     "assetId": 239814
-  },
-  "240351": {
-    "name": "Samuel Moutoussamy",
-    "cardName": "Moutoussamy",
-    "originalVersionId": "0",
-    "clubId": 111545,
-    "leagueId": 78,
-    "countryId": 110,
-    "versionId": "2001",
-    "rating": 71,
-    "preferredFoot": "Left",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      18
-    ],
-    "attributes": [
-      68,
-      56,
-      68,
-      72,
-      69,
-      73
-    ],
-    "hasDynamicImage": false,
-    "price": 200,
-    "resourceId": 240351,
-    "assetId": 240351
   },
   "242217": {
     "name": "Edo Kayembe",
@@ -1114,7 +1039,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 200,
     "resourceId": 242217,
     "assetId": 242217
   },
@@ -1155,7 +1080,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 700,
     "resourceId": 244843,
     "assetId": 244843
   },
@@ -1345,7 +1270,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1400,
     "resourceId": 253036,
     "assetId": 253036
   },
@@ -1537,7 +1462,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 6100,
     "resourceId": 269507,
     "assetId": 269507
   },
@@ -1645,7 +1570,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 50405172,
     "assetId": 73524
   },
@@ -1726,7 +1651,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 40000,
+    "price": 30000,
     "resourceId": 50530599,
     "assetId": 198951
   },
@@ -1773,6 +1698,7 @@
       87,
       90
     ],
+    "isObjective": true,
     "hasDynamicImage": true,
     "sbcPrice": 21500,
     "resourceId": 50542545,
@@ -1861,6 +1787,43 @@
     "resourceId": 50563133,
     "assetId": 231485
   },
+  "50563300": {
+    "name": "Simon Banza",
+    "cardName": "Banza",
+    "originalVersionId": "98",
+    "clubId": 1896,
+    "leagueId": 308,
+    "countryId": 110,
+    "versionId": "98",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      93,
+      92,
+      87,
+      92,
+      50,
+      93
+    ],
+    "isObjective": true,
+    "hasDynamicImage": false,
+    "resourceId": 50563300,
+    "assetId": 231652
+  },
   "50565532": {
     "name": "Charles Pickel",
     "cardName": "Pickel",
@@ -1895,6 +1858,50 @@
     "price": 350,
     "resourceId": 50565532,
     "assetId": 233884
+  },
+  "50571999": {
+    "name": "Samuel Moutoussamy",
+    "cardName": "Moutoussamy",
+    "originalVersionId": "98",
+    "clubId": 111545,
+    "leagueId": 78,
+    "countryId": 110,
+    "versionId": "98",
+    "rating": 92,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      90,
+      76,
+      90,
+      92,
+      88,
+      92
+    ],
+    "isObjective": true,
+    "hasDynamicImage": false,
+    "resourceId": 50571999,
+    "assetId": 240351
   },
   "50591810": {
     "name": "Mario Stroeykens",
@@ -1932,7 +1939,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 800,
     "resourceId": 50591810,
     "assetId": 260162
   },
@@ -1969,7 +1976,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 500,
+    "price": 700,
     "resourceId": 50593913,
     "assetId": 262265
   },
@@ -2008,7 +2015,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 300,
     "resourceId": 50600862,
     "assetId": 269214
   },
@@ -2100,7 +2107,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 129000,
+    "price": 147000,
     "resourceId": 67185914,
     "assetId": 77050
   },
@@ -2156,7 +2163,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 65000,
+    "sbcPrice": 61550,
     "resourceId": 67338744,
     "assetId": 229880
   },
@@ -2206,7 +2213,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 19500,
     "resourceId": 67343688,
     "assetId": 234824
   },
@@ -2366,7 +2373,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 200,
     "resourceId": 83957431,
     "assetId": 71351
   },

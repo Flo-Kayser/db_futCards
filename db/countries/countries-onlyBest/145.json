@@ -33,7 +33,7 @@
       52
     ],
     "hasDynamicImage": false,
-    "price": 3600,
+    "price": 5100,
     "resourceId": 70065,
     "assetId": 70065
   },
@@ -73,7 +73,7 @@
       45
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 2800,
     "resourceId": 71474,
     "assetId": 71474
   },
@@ -109,7 +109,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 800,
     "resourceId": 72919,
     "assetId": 72919
   },
@@ -400,7 +400,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 3300,
     "resourceId": 235565,
     "assetId": 235565
   },
@@ -438,7 +438,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 2900,
     "resourceId": 242041,
     "assetId": 242041
   },
@@ -596,7 +596,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 5000,
+    "price": 2400,
     "resourceId": 251790,
     "assetId": 251790
   },
@@ -750,7 +750,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 350,
     "resourceId": 263432,
     "assetId": 263432
   },
@@ -789,7 +789,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 300,
     "resourceId": 263672,
     "assetId": 263672
   },
@@ -828,7 +828,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 500,
     "resourceId": 264705,
     "assetId": 264705
   },
@@ -904,7 +904,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 200,
     "resourceId": 268825,
     "assetId": 268825
   },
@@ -942,7 +942,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 3500,
+    "price": 2400,
     "resourceId": 269562,
     "assetId": 269562
   },
@@ -980,7 +980,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 900,
     "resourceId": 270104,
     "assetId": 270104
   },
@@ -1018,7 +1018,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 400,
     "resourceId": 276544,
     "assetId": 276544
   },
@@ -1234,7 +1234,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 15000,
     "resourceId": 50589819,
     "assetId": 258171
   },
@@ -1272,58 +1272,9 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1100,
     "resourceId": 50601210,
     "assetId": 269562
-  },
-  "50605648": {
-    "name": "Elias Saad",
-    "cardName": "Saad",
-    "originalVersionId": "96",
-    "clubId": 100409,
-    "leagueId": 19,
-    "countryId": 145,
-    "versionId": "96",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 5,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "CAM",
-      "LM",
-      "LW"
-    ],
-    "playStyles": [
-      11,
-      13,
-      20,
-      21,
-      23
-    ],
-    "playStylesPlus": [
-      0
-    ],
-    "rolesPlus": [
-      27,
-      32,
-      38,
-      130,
-      133,
-      139
-    ],
-    "attributes": [
-      88,
-      84,
-      82,
-      90,
-      45,
-      73
-    ],
-    "hasDynamicImage": true,
-    "sbcPrice": 43000,
-    "resourceId": 50605648,
-    "assetId": 274000
   },
   "50610704": {
     "name": "Moutaz Neffati",
@@ -1466,7 +1417,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13750,
     "resourceId": 67345180,
     "assetId": 236316
   },
@@ -1511,5 +1462,51 @@
     "price": 350,
     "resourceId": 67372058,
     "assetId": 263194
+  },
+  "84160080": {
+    "name": "Elias Saad",
+    "cardName": "Saad",
+    "originalVersionId": "98",
+    "clubId": 485,
+    "leagueId": 20,
+    "countryId": 145,
+    "versionId": "98",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      94,
+      91,
+      88,
+      94,
+      51,
+      87
+    ],
+    "isObjective": true,
+    "hasDynamicImage": false,
+    "resourceId": 84160080,
+    "assetId": 274000
   }
 }
