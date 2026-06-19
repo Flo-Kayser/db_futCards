@@ -75,7 +75,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 4500,
       "resourceId": 200159,
       "assetId": 200159
     },
@@ -186,7 +186,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 4500,
       "resourceId": 224081,
       "assetId": 224081
     },
@@ -490,7 +490,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 39500,
+      "price": 29500,
       "resourceId": 50539058,
       "assetId": 207410
     },
@@ -590,7 +590,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 185000,
+      "price": 162000,
       "resourceId": 50571466,
       "assetId": 239818
     },
@@ -632,7 +632,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 33500,
       "resourceId": 50574289,
       "assetId": 242641
     },
@@ -682,7 +682,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 21500,
       "resourceId": 50586717,
       "assetId": 255069
     },
@@ -818,7 +818,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 33750,
+      "price": 35000,
       "resourceId": 50603222,
       "assetId": 271574
     },
@@ -868,7 +868,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 86500,
+      "price": 58000,
       "resourceId": 50608679,
       "assetId": 277031
     },
@@ -914,7 +914,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 15000,
       "resourceId": 50608943,
       "assetId": 277295
     },
@@ -1032,7 +1032,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 390000,
+      "price": 279000,
       "resourceId": 67360381,
       "assetId": 251517
     },
@@ -1128,7 +1128,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 790000,
+      "price": 600000,
       "resourceId": 84116701,
       "assetId": 230621
     },
@@ -1185,7 +1185,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 2650000,
+      "price": 1775000,
       "resourceId": 84117946,
       "assetId": 231866
     },
@@ -1247,7 +1247,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 352000,
+      "price": 380000,
       "resourceId": 84126718,
       "assetId": 240638
     },
@@ -1300,51 +1300,6 @@
       "price": 0,
       "resourceId": 84127239,
       "assetId": 241159
-    },
-    "84132500": {
-      "name": "Jérémy Doku",
-      "cardName": "Doku",
-      "originalVersionId": "30",
-      "clubId": 10,
-      "leagueId": 13,
-      "countryId": 7,
-      "versionId": "30",
-      "rating": 91,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        28,
-        29,
-        30,
-        36,
-        39,
-        127,
-        135,
-        137,
-        138,
-        140
-      ],
-      "attributes": [
-        97,
-        86,
-        84,
-        93,
-        45,
-        82
-      ],
-      "hasDynamicImage": true,
-      "price": 380000,
-      "resourceId": 84132500,
-      "assetId": 246420
     },
     "84142755": {
       "name": "Omar Marmoush",
@@ -1401,7 +1356,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 440000,
+      "price": 323000,
       "resourceId": 84142755,
       "assetId": 256675
     },
@@ -1513,7 +1468,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 400000,
+      "price": 265000,
       "resourceId": 100893917,
       "assetId": 230621
     },
@@ -1560,9 +1515,54 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 495000,
+      "price": 519000,
       "resourceId": 100902381,
       "assetId": 239085
+    },
+    "100909716": {
+      "name": "Jérémy Doku",
+      "cardName": "Doku",
+      "originalVersionId": "103",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 7,
+      "versionId": "103",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        98,
+        90,
+        90,
+        97,
+        50,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 100909716,
+      "assetId": 246420
     },
     "100914866": {
       "name": "Rayan Cherki",
@@ -1618,7 +1618,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 118000,
+      "price": 82500,
       "resourceId": 100914866,
       "assetId": 251570
     },
@@ -1729,7 +1729,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 340000,
+      "price": 247000,
       "resourceId": 134456813,
       "assetId": 239085
     },
@@ -1791,7 +1791,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 545000,
+      "price": 470000,
       "resourceId": 134458964,
       "assetId": 241236
     },
@@ -1830,7 +1830,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 2807000,
+      "price": 1850000,
       "resourceId": 168011245,
       "assetId": 239085
     }
