@@ -52,6 +52,124 @@
   {
     "clubId": 114605,
     "leagueId": 2118,
+    "countryId": 95,
+    "versionId": "130",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "CAM",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      1,
+      11,
+      21,
+      22,
+      6,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      20,
+      25,
+      8
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      96,
+      94,
+      93,
+      94,
+      56,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 83893823,
+    "assetId": 7743,
+    "name": "Landon Donovan",
+    "cardName": "Donovan"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 2118,
+    "countryId": 83,
+    "versionId": "130",
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM"
+    ],
+    "playStyles": [
+      10,
+      14,
+      18,
+      19,
+      28,
+      3,
+      4,
+      9
+    ],
+    "playStylesPlus": [
+      15,
+      16,
+      17
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      148,
+      149
+    ],
+    "attributes": [
+      90,
+      80,
+      91,
+      88,
+      95,
+      95
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 67135573,
+    "assetId": 26709,
+    "name": "Rafael Márquez",
+    "cardName": "Márquez"
+  },
+  {
+    "clubId": 114605,
+    "leagueId": 2118,
     "countryId": 21,
     "versionId": "130",
     "rating": 94,
@@ -92,7 +210,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 15250,
     "resourceId": 84052756,
     "assetId": 166676,
     "name": "Rudi Völler",
@@ -402,7 +520,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 28000,
+    "price": 20250,
     "resourceId": 84160830,
     "assetId": 274750,
     "name": "Wesley Sneijder",
