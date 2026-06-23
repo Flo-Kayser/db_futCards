@@ -205,7 +205,7 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 32250,
+    "price": 34750,
     "resourceId": 50562586,
     "assetId": 230938
   },
@@ -257,7 +257,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 32500,
+    "price": 35000,
     "resourceId": 50565378,
     "assetId": 233730
   },
@@ -306,7 +306,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 11750,
     "resourceId": 50568051,
     "assetId": 236403
   },
@@ -350,7 +350,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 41750,
+    "price": 31250,
     "resourceId": 50571237,
     "assetId": 239589
   },
@@ -760,7 +760,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 395000,
+    "price": 358000,
     "resourceId": 67367308,
     "assetId": 258444
   },
@@ -864,7 +864,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 32500,
+    "price": 31750,
     "resourceId": 67380804,
     "assetId": 271940
   },
@@ -1036,66 +1036,9 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 33500,
+    "price": 26250,
     "resourceId": 83917512,
     "assetId": 31432
-  },
-  "84102400": {
-    "name": "Seko Fofana",
-    "cardName": "Fofana",
-    "originalVersionId": "57",
-    "clubId": 236,
-    "leagueId": 308,
-    "countryId": 108,
-    "versionId": "57",
-    "rating": 89,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      11,
-      16,
-      2,
-      20,
-      26,
-      8,
-      9
-    ],
-    "playStylesPlus": [
-      24,
-      28
-    ],
-    "rolesPlus": [
-      15,
-      18,
-      22,
-      33,
-      49,
-      114,
-      116,
-      119,
-      120,
-      121,
-      131
-    ],
-    "attributes": [
-      86,
-      87,
-      87,
-      90,
-      87,
-      92
-    ],
-    "hasDynamicImage": true,
-    "sbcPrice": 50250,
-    "resourceId": 84102400,
-    "assetId": 216320
   },
   "84126867": {
     "name": "Hamed Junior Traoré",
@@ -1262,8 +1205,57 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 15000,
     "resourceId": 100741308,
     "assetId": 78012
+  },
+  "100879616": {
+    "name": "Seko Fofana",
+    "cardName": "Fofana",
+    "originalVersionId": "98",
+    "clubId": 236,
+    "leagueId": 308,
+    "countryId": 108,
+    "versionId": "98",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      91,
+      91,
+      91,
+      94,
+      91,
+      95
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 45250,
+    "resourceId": 100879616,
+    "assetId": 216320
   }
 }
