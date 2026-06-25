@@ -1,5 +1,111 @@
 [
   {
+    "clubId": 106,
+    "leagueId": 13,
+    "countryId": 47,
+    "versionId": 107,
+    "rating": 96,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      10,
+      11,
+      20,
+      21,
+      22,
+      28,
+      9
+    ],
+    "playStylesPlus": [
+      16,
+      17,
+      2,
+      8
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      94,
+      93,
+      96,
+      94,
+      96,
+      95
+    ],
+    "hasDynamicImage": true,
+    "price": 510000,
+    "resourceId": 84085583,
+    "assetId": 199503,
+    "cardName": "Xhaka",
+    "name": "Granit Xhaka"
+  },
+  {
+    "clubId": 73,
+    "leagueId": 16,
+    "countryId": 54,
+    "versionId": 107,
+    "rating": 96,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      18,
+      19,
+      25,
+      28,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      14,
+      15,
+      16,
+      17
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      91,
+      66,
+      88,
+      92,
+      98,
+      95
+    ],
+    "hasDynamicImage": true,
+    "price": 898000,
+    "resourceId": 117648377,
+    "assetId": 207865,
+    "cardName": "Marquinhos",
+    "name": "Marquinhos"
+  },
+  {
     "clubId": 241,
     "leagueId": 53,
     "countryId": 18,
@@ -53,7 +159,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 1449000,
+    "price": 1730000,
     "resourceId": 84127566,
     "assetId": 241486,
     "cardName": "Koundé",
@@ -108,7 +214,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 3790000,
+    "price": 4100000,
     "resourceId": 100915667,
     "assetId": 252371,
     "cardName": "Bellingham",
@@ -157,7 +263,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 1160000,
+    "price": 1101000,
     "resourceId": 84119811,
     "assetId": 233731,
     "cardName": "Isak",
@@ -222,7 +328,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 2047000,
+    "price": 2250000,
     "resourceId": 117697142,
     "assetId": 256630,
     "cardName": "Wirtz",
@@ -280,11 +386,109 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 910000,
+    "price": 1010000,
     "resourceId": 84102281,
     "assetId": 216201,
     "cardName": "Iñaki Williams",
     "name": "Iñaki Williams"
+  },
+  {
+    "clubId": 34,
+    "leagueId": 20,
+    "countryId": 8,
+    "versionId": 107,
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      2,
+      20,
+      21,
+      22,
+      4,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      29,
+      6
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      94,
+      98,
+      91,
+      95,
+      61,
+      96
+    ],
+    "hasDynamicImage": true,
+    "price": 73000,
+    "resourceId": 117621442,
+    "assetId": 180930,
+    "cardName": "Džeko",
+    "name": "Edin Džeko"
+  },
+  {
+    "clubId": 45,
+    "leagueId": 31,
+    "countryId": 70,
+    "versionId": 107,
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      2,
+      20,
+      22,
+      24,
+      4,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      25,
+      6,
+      9
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      98,
+      96,
+      94,
+      96,
+      47,
+      96
+    ],
+    "hasDynamicImage": true,
+    "price": 260000,
+    "resourceId": 67352494,
+    "assetId": 243630,
+    "cardName": "David",
+    "name": "Jonathan David"
   },
   {
     "clubId": 73,
@@ -339,68 +543,11 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 380000,
+    "price": 348000,
     "resourceId": 117684292,
     "assetId": 243780,
     "cardName": "Lee Kang In",
     "name": "Lee Kang In"
-  },
-  {
-    "clubId": 106,
-    "leagueId": 13,
-    "countryId": 47,
-    "versionId": 107,
-    "rating": 95,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      0,
-      10,
-      11,
-      20,
-      21,
-      22,
-      28,
-      9
-    ],
-    "playStylesPlus": [
-      16,
-      17,
-      2,
-      8
-    ],
-    "rolesPlus": [
-      114,
-      115,
-      116,
-      117,
-      118,
-      119,
-      120,
-      121,
-      122,
-      149
-    ],
-    "attributes": [
-      93,
-      92,
-      95,
-      93,
-      95,
-      94
-    ],
-    "hasDynamicImage": true,
-    "price": 325000,
-    "resourceId": 84085583,
-    "assetId": 199503,
-    "cardName": "Xhaka",
-    "name": "Granit Xhaka"
   },
   {
     "clubId": 131682,
@@ -452,7 +599,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 280000,
+    "price": 286000,
     "resourceId": 100871424,
     "assetId": 208128,
     "cardName": "Çalhanoğlu",
@@ -512,109 +659,11 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 382000,
+    "price": 420000,
     "resourceId": 67360381,
     "assetId": 251517,
     "cardName": "Gvardiol",
     "name": "Joško Gvardiol"
-  },
-  {
-    "clubId": 73,
-    "leagueId": 16,
-    "countryId": 54,
-    "versionId": 107,
-    "rating": 95,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 5,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [
-      10,
-      18,
-      19,
-      25,
-      28,
-      8,
-      9
-    ],
-    "playStylesPlus": [
-      14,
-      15,
-      16,
-      17
-    ],
-    "rolesPlus": [
-      111,
-      112,
-      113,
-      148
-    ],
-    "attributes": [
-      90,
-      65,
-      87,
-      91,
-      97,
-      94
-    ],
-    "hasDynamicImage": true,
-    "price": 769000,
-    "resourceId": 117648377,
-    "assetId": 207865,
-    "cardName": "Marquinhos",
-    "name": "Marquinhos"
-  },
-  {
-    "clubId": 34,
-    "leagueId": 20,
-    "countryId": 8,
-    "versionId": 107,
-    "rating": 94,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      11,
-      2,
-      20,
-      21,
-      22,
-      4,
-      7,
-      8
-    ],
-    "playStylesPlus": [
-      0,
-      29,
-      6
-    ],
-    "rolesPlus": [
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      93,
-      95,
-      90,
-      94,
-      60,
-      95
-    ],
-    "hasDynamicImage": true,
-    "price": 23750,
-    "resourceId": 117621442,
-    "assetId": 180930,
-    "cardName": "Džeko",
-    "name": "Edin Džeko"
   },
   {
     "clubId": 2,
@@ -670,7 +719,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 112000,
+    "price": 127000,
     "resourceId": 84113758,
     "assetId": 227678,
     "cardName": "Konsa",
@@ -718,7 +767,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 172000,
+    "price": 173000,
     "resourceId": 84088891,
     "assetId": 202811,
     "cardName": "Martínez",
@@ -767,60 +816,11 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 171000,
+    "price": 183000,
     "resourceId": 84098298,
     "assetId": 212218,
     "cardName": "Laporte",
     "name": "Aymeric Laporte"
-  },
-  {
-    "clubId": 45,
-    "leagueId": 31,
-    "countryId": 70,
-    "versionId": 107,
-    "rating": 94,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      2,
-      20,
-      22,
-      24,
-      4,
-      7,
-      8
-    ],
-    "playStylesPlus": [
-      25,
-      6,
-      9
-    ],
-    "rolesPlus": [
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      97,
-      95,
-      93,
-      95,
-      46,
-      95
-    ],
-    "hasDynamicImage": true,
-    "price": 180000,
-    "resourceId": 67352494,
-    "assetId": 243630,
-    "cardName": "David",
-    "name": "Jonathan David"
   },
   {
     "clubId": 112387,
@@ -877,7 +877,7 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 34750,
+    "price": 44000,
     "resourceId": 50562586,
     "assetId": 230938,
     "cardName": "Kessié",
@@ -940,7 +940,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 23250,
     "resourceId": 50597893,
     "assetId": 266245,
     "cardName": "Irankunda",
@@ -993,7 +993,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 28000,
     "resourceId": 67346545,
     "assetId": 237681,
     "cardName": "Kubo",
@@ -1049,7 +1049,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 171000,
+    "price": 224000,
     "resourceId": 84132943,
     "assetId": 246863,
     "cardName": "Nmecha",
@@ -1113,7 +1113,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 97500,
+    "price": 85000,
     "resourceId": 50554185,
     "assetId": 222537,
     "cardName": "Zizo",
@@ -1171,7 +1171,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 17000,
+    "price": 20000,
     "resourceId": 84117496,
     "assetId": 231416,
     "cardName": "Lukébakio",
@@ -1229,7 +1229,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 16000,
+    "price": 15000,
     "resourceId": 84083836,
     "assetId": 197756,
     "cardName": "Ayew",
@@ -1284,7 +1284,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 26250,
     "resourceId": 50560996,
     "assetId": 229348,
     "cardName": "Robinson",
@@ -1339,7 +1339,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 26750,
+    "price": 29000,
     "resourceId": 67346510,
     "assetId": 237646,
     "cardName": "Muñoz",
@@ -1388,7 +1388,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 14250,
     "resourceId": 50565250,
     "assetId": 233602,
     "cardName": "Hirst",
@@ -1441,7 +1441,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 14500,
     "resourceId": 67334840,
     "assetId": 225976,
     "cardName": "Mandash",
@@ -1496,7 +1496,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14500,
     "resourceId": 67346806,
     "assetId": 237942,
     "cardName": "Estupiñán",
@@ -1556,7 +1556,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14500,
     "resourceId": 50588926,
     "assetId": 257278,
     "cardName": "Theate",
@@ -1616,7 +1616,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14750,
     "resourceId": 67346705,
     "assetId": 237841,
     "cardName": "Murillo",
@@ -1675,7 +1675,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 14500,
     "resourceId": 50565802,
     "assetId": 234154,
     "cardName": "Martínez",
@@ -1733,7 +1733,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14750,
     "resourceId": 50574043,
     "assetId": 242395,
     "cardName": "Willy Semedo",
@@ -1790,7 +1790,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14500,
     "resourceId": 50560000,
     "assetId": 228352,
     "cardName": "Edmilson Junior",
@@ -1839,7 +1839,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14750,
     "resourceId": 50551580,
     "assetId": 219932,
     "cardName": "Sanabria",
@@ -1888,7 +1888,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14500,
     "resourceId": 67353813,
     "assetId": 244949,
     "cardName": "Pierrot",
@@ -1943,7 +1943,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14250,
     "resourceId": 67344320,
     "assetId": 235456,
     "cardName": "Bellegarde",
@@ -2007,7 +2007,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 15000,
     "resourceId": 50589506,
     "assetId": 257858,
     "cardName": "Urunov",
@@ -2063,7 +2063,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14250,
     "resourceId": 50600527,
     "assetId": 268879,
     "cardName": "Fathi",
@@ -2124,7 +2124,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14750,
     "resourceId": 50589537,
     "assetId": 257889,
     "cardName": "Jakić",
@@ -2190,7 +2190,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 15000,
     "resourceId": 67345180,
     "assetId": 236316,
     "cardName": "Valery",
@@ -2243,7 +2243,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14500,
     "resourceId": 67367444,
     "assetId": 258580,
     "cardName": "Aktürkoğlu",
