@@ -1,6 +1,51 @@
 {
   "clubName": "Uruguay",
   "players": {
+    "50555849": {
+      "name": "Rodrigo Aguirre",
+      "cardName": "Aguirre",
+      "originalVersionId": "109",
+      "clubId": 1377,
+      "leagueId": 78,
+      "countryId": 60,
+      "versionId": "109",
+      "rating": 93,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        93,
+        85,
+        91,
+        40,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50555849,
+      "assetId": 224201
+    },
     "50557293": {
       "name": "Giorgian De Arrascaeta",
       "cardName": "De Arrascaeta",
@@ -65,6 +110,54 @@
       "price": 0,
       "resourceId": 50557293,
       "assetId": 225645
+    },
+    "50572347": {
+      "name": "Nicolás De la Cruz",
+      "cardName": "De la Cruz",
+      "originalVersionId": "98",
+      "clubId": 1377,
+      "leagueId": 78,
+      "countryId": 60,
+      "versionId": "98",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        149
+      ],
+      "attributes": [
+        92,
+        91,
+        91,
+        92,
+        87,
+        88
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50572347,
+      "assetId": 240699
     }
   }
 }

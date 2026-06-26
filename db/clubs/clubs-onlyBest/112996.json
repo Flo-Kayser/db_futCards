@@ -69,7 +69,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4900,
       "resourceId": 75237,
       "assetId": 75237
     },
@@ -368,7 +368,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 350,
       "resourceId": 229217,
       "assetId": 229217
     },
@@ -442,7 +442,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 2300,
       "resourceId": 237256,
       "assetId": 237256
     },
@@ -593,7 +593,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 2800,
       "resourceId": 246860,
       "assetId": 246860
     },
@@ -627,7 +627,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 5100,
       "resourceId": 247428,
       "assetId": 247428
     },
@@ -743,7 +743,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 9200,
+      "price": 10000,
       "resourceId": 255772,
       "assetId": 255772
     },
@@ -816,7 +816,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 260616,
       "assetId": 260616
     },
@@ -1171,49 +1171,6 @@
       "resourceId": 50574028,
       "assetId": 242380
     },
-    "50583000": {
-      "name": "Jacob Shaffelburg",
-      "cardName": "Shaffelburg",
-      "originalVersionId": "1",
-      "clubId": 112996,
-      "leagueId": 39,
-      "countryId": 70,
-      "versionId": "3001",
-      "rating": 67,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LB",
-        "LM",
-        "LW",
-        "RM"
-      ],
-      "playStyles": [
-        12,
-        21
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        9,
-        23,
-        27,
-        30
-      ],
-      "attributes": [
-        91,
-        63,
-        60,
-        65,
-        52,
-        63
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50583000,
-      "assetId": 251352
-    },
     "50595768": {
       "name": "Andrew Moran",
       "cardName": "Moran",
@@ -1249,7 +1206,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 2400,
       "resourceId": 50595768,
       "assetId": 264120
     },
@@ -1307,9 +1264,74 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 63500,
+      "price": 45000,
       "resourceId": 67334815,
       "assetId": 225951
+    },
+    "67360216": {
+      "name": "Jacob Shaffelburg",
+      "cardName": "Shaffelburg",
+      "originalVersionId": "62",
+      "clubId": 112996,
+      "leagueId": 39,
+      "countryId": 70,
+      "versionId": "62",
+      "rating": 93,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        0,
+        13,
+        25,
+        26,
+        27,
+        7,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        12,
+        21,
+        6
+      ],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        147
+      ],
+      "attributes": [
+        97,
+        92,
+        88,
+        93,
+        84,
+        89
+      ],
+      "hasDynamicImage": false,
+      "sbcPrice": 71750,
+      "resourceId": 67360216,
+      "assetId": 251352
     },
     "84086184": {
       "name": "Heung Min Son",

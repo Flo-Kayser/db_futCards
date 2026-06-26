@@ -44,7 +44,7 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 495000,
+      "price": 400000,
       "resourceId": 50522461,
       "assetId": 190813
     },
@@ -94,7 +94,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 35500,
+      "price": 36500,
       "resourceId": 50539916,
       "assetId": 208268
     },
@@ -136,7 +136,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 53500,
+      "price": 49500,
       "resourceId": 50559899,
       "assetId": 228251
     },
@@ -178,7 +178,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 26250,
+      "price": 20000,
       "resourceId": 50561230,
       "assetId": 229582
     },
@@ -222,7 +222,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 16250,
       "resourceId": 50562520,
       "assetId": 230872
     },
@@ -271,7 +271,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 14000,
       "resourceId": 50568051,
       "assetId": 236403
     },
@@ -322,65 +322,6 @@
       "sbcPrice": 26250,
       "resourceId": 50591256,
       "assetId": 259608
-    },
-    "67340311": {
-      "name": "Donyell Malen",
-      "cardName": "Malen",
-      "originalVersionId": "111",
-      "clubId": 52,
-      "leagueId": 31,
-      "countryId": 34,
-      "versionId": "111",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "LM",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        20,
-        22,
-        23,
-        24,
-        25,
-        6,
-        7,
-        9
-      ],
-      "playStylesPlus": [
-        2,
-        21
-      ],
-      "rolesPlus": [
-        23,
-        27,
-        35,
-        41,
-        43,
-        126,
-        130,
-        136,
-        142,
-        144
-      ],
-      "attributes": [
-        92,
-        88,
-        85,
-        91,
-        50,
-        82
-      ],
-      "hasDynamicImage": true,
-      "price": 90000,
-      "resourceId": 67340311,
-      "assetId": 231447
     },
     "67359587": {
       "name": "Kouadio Manu Koné",
@@ -480,7 +421,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 16500,
       "resourceId": 83966250,
       "assetId": 80170
     },
@@ -525,7 +466,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 179000,
+      "price": 134000,
       "resourceId": 84097190,
       "assetId": 211110
     },
@@ -576,9 +517,60 @@
         71
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 15750,
       "resourceId": 84151775,
       "assetId": 265695
+    },
+    "100894743": {
+      "name": "Donyell Malen",
+      "cardName": "Malen",
+      "originalVersionId": "109",
+      "clubId": 52,
+      "leagueId": 31,
+      "countryId": 34,
+      "versionId": "109",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        96,
+        92,
+        90,
+        95,
+        54,
+        86
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 100894743,
+      "assetId": 231447
     }
   }
 }

@@ -37,7 +37,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 71500,
+    "price": 67000,
     "resourceId": 156353,
     "assetId": 156353
   },
@@ -231,6 +231,52 @@
     "resourceId": 50564908,
     "assetId": 233260
   },
+  "50568691": {
+    "name": "Roberto Alvarado",
+    "cardName": "Alvarado",
+    "originalVersionId": "109",
+    "clubId": 1386,
+    "leagueId": 78,
+    "countryId": 83,
+    "versionId": "109",
+    "rating": 93,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LM",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137
+    ],
+    "attributes": [
+      95,
+      90,
+      93,
+      93,
+      70,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 11750,
+    "resourceId": 50568691,
+    "assetId": 237043
+  },
   "50572872": {
     "name": "Rebeca Bernal",
     "cardName": "Bernal",
@@ -271,7 +317,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 122000,
+    "price": 128000,
     "resourceId": 50572872,
     "assetId": 241224
   },
@@ -712,7 +758,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 15250,
     "resourceId": 67344708,
     "assetId": 235844
   },
@@ -798,67 +844,9 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 18500,
     "resourceId": 84090918,
     "assetId": 204838
-  },
-  "84120659": {
-    "name": "Julian Quiñones",
-    "cardName": "Quiñones",
-    "originalVersionId": "11",
-    "clubId": 112391,
-    "leagueId": 350,
-    "countryId": 83,
-    "versionId": "11",
-    "rating": 94,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "ST"
-    ],
-    "playStyles": [
-      11,
-      2,
-      20,
-      21,
-      24,
-      29,
-      4
-    ],
-    "playStylesPlus": [
-      0,
-      22,
-      6
-    ],
-    "rolesPlus": [
-      28,
-      29,
-      40,
-      127,
-      130,
-      138,
-      139,
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      94,
-      94,
-      86,
-      92,
-      50,
-      93
-    ],
-    "hasDynamicImage": true,
-    "price": 103000,
-    "resourceId": 84120659,
-    "assetId": 234579
   },
   "84133758": {
     "name": "Julian Araujo",
@@ -911,7 +899,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 106000,
+    "price": 190000,
     "resourceId": 84133758,
     "assetId": 247678
   },
@@ -967,5 +955,51 @@
     "hasDynamicImage": true,
     "resourceId": 84149781,
     "assetId": 263701
+  },
+  "100897875": {
+    "name": "Julian Quiñones",
+    "cardName": "Quiñones",
+    "originalVersionId": "109",
+    "clubId": 112391,
+    "leagueId": 350,
+    "countryId": 83,
+    "versionId": "109",
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      95,
+      95,
+      90,
+      93,
+      60,
+      94
+    ],
+    "hasDynamicImage": true,
+    "price": 61000,
+    "resourceId": 100897875,
+    "assetId": 234579
   }
 }

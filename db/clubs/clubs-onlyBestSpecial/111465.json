@@ -9,7 +9,7 @@
       "leagueId": 78,
       "countryId": 57,
       "versionId": "107",
-      "rating": 92,
+      "rating": 93,
       "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 4,
@@ -52,17 +52,63 @@
         144
       ],
       "attributes": [
+        95,
         94,
+        84,
         92,
-        83,
-        91,
-        64,
-        92
+        65,
+        93
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 15000,
       "resourceId": 50551943,
       "assetId": 220295
+    },
+    "50577703": {
+      "name": "Ángelo Preciado",
+      "cardName": "Preciado",
+      "originalVersionId": "98",
+      "clubId": 111465,
+      "leagueId": 78,
+      "countryId": 57,
+      "versionId": "98",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        146
+      ],
+      "attributes": [
+        95,
+        86,
+        92,
+        93,
+        86,
+        91
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50577703,
+      "assetId": 246055
     }
   }
 }

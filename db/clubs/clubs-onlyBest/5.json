@@ -73,7 +73,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 71998,
       "assetId": 71998
     },
@@ -115,7 +115,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 6900,
       "resourceId": 202652,
       "assetId": 202652
     },
@@ -192,7 +192,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 7100,
       "resourceId": 229942,
       "assetId": 229942
     },
@@ -1149,7 +1149,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 4000,
       "resourceId": 50601143,
       "assetId": 269495
     },
@@ -1233,7 +1233,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 589000,
+      "price": 721000,
       "resourceId": 67185551,
       "assetId": 76687
     },
@@ -1294,7 +1294,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 34750,
+      "price": 34250,
       "resourceId": 67355954,
       "assetId": 247090
     },
@@ -1399,7 +1399,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 206000,
+      "price": 170000,
       "resourceId": 67377302,
       "assetId": 268438
     },
@@ -1434,7 +1434,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 67384371,
       "assetId": 275507
     },
@@ -1586,65 +1586,9 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 14750,
       "resourceId": 84125311,
       "assetId": 239231
-    },
-    "84142159": {
-      "name": "Moisés Caicedo",
-      "cardName": "Caicedo",
-      "originalVersionId": "65",
-      "clubId": 5,
-      "leagueId": 13,
-      "countryId": 57,
-      "versionId": "65",
-      "rating": 93,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        11,
-        18,
-        2,
-        24,
-        26,
-        9
-      ],
-      "playStylesPlus": [
-        16,
-        17,
-        8
-      ],
-      "rolesPlus": [
-        19,
-        21,
-        22,
-        114,
-        115,
-        116,
-        117,
-        118,
-        120,
-        149
-      ],
-      "attributes": [
-        87,
-        80,
-        87,
-        88,
-        93,
-        90
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 303250,
-      "resourceId": 84142159,
-      "assetId": 256079
     },
     "84143614": {
       "name": "Cole Palmer",
@@ -1698,7 +1642,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 492000,
+      "price": 559000,
       "resourceId": 84143614,
       "assetId": 257534
     },
@@ -1752,9 +1696,53 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 14000,
       "resourceId": 100915338,
       "assetId": 252042
+    },
+    "100919375": {
+      "name": "Moisés Caicedo",
+      "cardName": "Caicedo",
+      "originalVersionId": "109",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 57,
+      "versionId": "109",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        90,
+        83,
+        90,
+        92,
+        95,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 56000,
+      "resourceId": 100919375,
+      "assetId": 256079
     }
   }
 }

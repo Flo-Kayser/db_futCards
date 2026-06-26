@@ -1,50 +1,6 @@
 {
   "clubName": "Al Hilal",
   "players": {
-    "50541629": {
-      "name": "Yassine Bounou",
-      "cardName": "Bounou",
-      "originalVersionId": "3",
-      "clubId": 605,
-      "leagueId": 350,
-      "countryId": 129,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        30,
-        32,
-        33,
-        34,
-        9
-      ],
-      "playStylesPlus": [
-        31
-      ],
-      "rolesPlus": [
-        101,
-        102,
-        145
-      ],
-      "attributes": [
-        86,
-        87,
-        80,
-        89,
-        42,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 32500,
-      "resourceId": 50541629,
-      "assetId": 209981
-    },
     "50542162": {
       "name": "João Cancelo",
       "cardName": "João Cancelo",
@@ -91,9 +47,58 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 67000,
+      "price": 57500,
       "resourceId": 50542162,
       "assetId": 210514
+    },
+    "50551723": {
+      "name": "Mohammed Kanno",
+      "cardName": "Kanno",
+      "originalVersionId": "109",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "109",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        92,
+        90,
+        90,
+        90,
+        90,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 11500,
+      "resourceId": 50551723,
+      "assetId": 220075
     },
     "50554385": {
       "name": "Malcom",
@@ -141,7 +146,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 52500,
+      "price": 47000,
       "resourceId": 50554385,
       "assetId": 222737
     },
@@ -189,7 +194,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 57500,
+      "price": 45750,
       "resourceId": 50555496,
       "assetId": 223848
     },
@@ -237,7 +242,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 73500,
+      "price": 80000,
       "resourceId": 50584720,
       "assetId": 253072
     },
@@ -287,54 +292,41 @@
       "resourceId": 50609445,
       "assetId": 277797
     },
-    "67309888": {
-      "name": "Kalidou Koulibaly",
-      "cardName": "Koulibaly",
-      "originalVersionId": "11",
+    "67318845": {
+      "name": "Yassine Bounou",
+      "cardName": "Bounou",
+      "originalVersionId": "109",
       "clubId": 605,
       "leagueId": 350,
-      "countryId": 136,
-      "versionId": "11",
-      "rating": 92,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
+      "countryId": 129,
+      "versionId": "109",
+      "rating": 94,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
       "possiblePositions": [
-        "CB"
+        "GK"
       ],
-      "playStyles": [
-        10,
-        14,
-        17,
-        18,
-        28,
-        4,
-        9
-      ],
-      "playStylesPlus": [
-        15,
-        16,
-        19
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
-        111,
-        112,
-        113,
-        148
+        101,
+        102,
+        145
       ],
       "attributes": [
+        94,
+        94,
         88,
-        59,
-        78,
-        84,
-        92,
+        95,
+        70,
         95
       ],
       "hasDynamicImage": true,
-      "price": 13000,
-      "resourceId": 67309888,
-      "assetId": 201024
+      "price": 21750,
+      "resourceId": 67318845,
+      "assetId": 209981
     },
     "67334840": {
       "name": "Sultan Mandash",
@@ -386,7 +378,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 14750,
       "resourceId": 67334840,
       "assetId": 225976
     },
@@ -489,9 +481,46 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 65500,
+      "price": 64000,
       "resourceId": 84051233,
       "assetId": 165153
+    },
+    "84087104": {
+      "name": "Kalidou Koulibaly",
+      "cardName": "Koulibaly",
+      "originalVersionId": "109",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 136,
+      "versionId": "109",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        91,
+        62,
+        84,
+        87,
+        95,
+        96
+      ],
+      "hasDynamicImage": true,
+      "price": 50500,
+      "resourceId": 84087104,
+      "assetId": 201024
     },
     "84096682": {
       "name": "Salem Al Dawsari",
@@ -542,7 +571,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 26750,
+      "price": 26000,
       "resourceId": 84096682,
       "assetId": 210602
     },
@@ -598,7 +627,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 57000,
+      "price": 49000,
       "resourceId": 100887589,
       "assetId": 224293
     }

@@ -69,7 +69,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 4600,
+      "price": 5400,
       "resourceId": 74329,
       "assetId": 74329
     },
@@ -242,7 +242,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 5000,
       "resourceId": 211320,
       "assetId": 211320
     },
@@ -484,7 +484,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 5200,
+      "price": 350,
       "resourceId": 257290,
       "assetId": 257290
     },
@@ -685,7 +685,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 20250,
       "resourceId": 50540222,
       "assetId": 208574
     },
@@ -818,7 +818,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 47000,
+      "price": 47750,
       "resourceId": 50578078,
       "assetId": 246430
     },
@@ -917,7 +917,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 32000,
+      "price": 25000,
       "resourceId": 50583518,
       "assetId": 251870
     },
@@ -1026,68 +1026,6 @@
       "resourceId": 67333286,
       "assetId": 224422
     },
-    "67347608": {
-      "name": "Weston McKennie",
-      "cardName": "McKennie",
-      "originalVersionId": "20",
-      "clubId": 45,
-      "leagueId": 31,
-      "countryId": 95,
-      "versionId": "20",
-      "rating": 92,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        16,
-        17,
-        19,
-        20,
-        21,
-        24,
-        8
-      ],
-      "playStylesPlus": [
-        26,
-        28,
-        9
-      ],
-      "rolesPlus": [
-        114,
-        115,
-        116,
-        117,
-        118,
-        119,
-        120,
-        121,
-        122,
-        131,
-        132,
-        133,
-        134,
-        149
-      ],
-      "attributes": [
-        89,
-        88,
-        89,
-        91,
-        92,
-        92
-      ],
-      "hasDynamicImage": true,
-      "price": 37500,
-      "resourceId": 67347608,
-      "assetId": 238744
-    },
     "67352444": {
       "name": "Loïs Openda",
       "cardName": "Openda",
@@ -1171,7 +1109,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 260000,
+      "price": 160000,
       "resourceId": 67352494,
       "assetId": 243630
     },
@@ -1220,7 +1158,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 49500,
+      "price": 55500,
       "resourceId": 67356110,
       "assetId": 247246
     },
@@ -1270,75 +1208,9 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 65000,
+      "price": 48500,
       "resourceId": 67364518,
       "assetId": 255654
-    },
-    "84124824": {
-      "name": "Weston McKennie",
-      "cardName": "McKennie",
-      "originalVersionId": "120",
-      "clubId": 45,
-      "leagueId": 31,
-      "countryId": 95,
-      "versionId": "120",
-      "rating": 92,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM",
-        "RM"
-      ],
-      "playStyles": [
-        10,
-        17,
-        19,
-        21,
-        24,
-        8,
-        9
-      ],
-      "playStylesPlus": [
-        13,
-        16,
-        20
-      ],
-      "rolesPlus": [
-        14,
-        15,
-        17,
-        18,
-        19,
-        32,
-        34,
-        116,
-        120,
-        121,
-        122,
-        123,
-        124,
-        125,
-        126,
-        131,
-        133,
-        149
-      ],
-      "attributes": [
-        90,
-        88,
-        89,
-        91,
-        92,
-        92
-      ],
-      "hasDynamicImage": true,
-      "price": 12500,
-      "resourceId": 84124824,
-      "assetId": 238744
     },
     "84125660": {
       "name": "Bremer",
@@ -1385,9 +1257,48 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 157000,
+      "price": 137000,
       "resourceId": 84125660,
       "assetId": 239580
+    },
+    "84129710": {
+      "name": "Jonathan David",
+      "cardName": "David",
+      "originalVersionId": "94",
+      "clubId": 45,
+      "leagueId": 31,
+      "countryId": 70,
+      "versionId": "94",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [
+        2
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        96,
+        96,
+        94,
+        96,
+        47,
+        96
+      ],
+      "hasDynamicImage": true,
+      "price": 165000,
+      "resourceId": 84129710,
+      "assetId": 243630
     },
     "84147130": {
       "name": "Francisco Conceição",
@@ -1437,7 +1348,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 47750,
+      "price": 49750,
       "resourceId": 84147130,
       "assetId": 261050
     },
@@ -1496,6 +1407,55 @@
       "price": 0,
       "resourceId": 100885373,
       "assetId": 222077
+    },
+    "117679256": {
+      "name": "Weston McKennie",
+      "cardName": "McKennie",
+      "originalVersionId": "109",
+      "clubId": 45,
+      "leagueId": 31,
+      "countryId": 95,
+      "versionId": "109",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        93,
+        92,
+        92,
+        94,
+        95,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 117679256,
+      "assetId": 238744
     },
     "117718466": {
       "name": "Kenan Yıldız",
@@ -1557,7 +1517,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 296000,
+      "price": 235000,
       "resourceId": 117718466,
       "assetId": 277954
     }

@@ -7,7 +7,7 @@
     "leagueId": 78,
     "countryId": 57,
     "versionId": "107",
-    "rating": 92,
+    "rating": 93,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -50,17 +50,63 @@
       144
     ],
     "attributes": [
+      95,
       94,
+      84,
       92,
-      83,
-      91,
-      64,
-      92
+      65,
+      93
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 15000,
     "resourceId": 50551943,
     "assetId": 220295
+  },
+  "50577703": {
+    "name": "Ángelo Preciado",
+    "cardName": "Preciado",
+    "originalVersionId": "98",
+    "clubId": 111465,
+    "leagueId": 78,
+    "countryId": 57,
+    "versionId": "98",
+    "rating": 92,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      123,
+      124,
+      125,
+      126,
+      135,
+      136,
+      137,
+      146
+    ],
+    "attributes": [
+      95,
+      86,
+      92,
+      93,
+      86,
+      91
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50577703,
+    "assetId": 246055
   },
   "50591552": {
     "name": "Gonzalo Valle",
@@ -151,7 +197,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 13000,
     "resourceId": 50603389,
     "assetId": 271741
   },
@@ -198,7 +244,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 41250,
+    "price": 55000,
     "resourceId": 50604217,
     "assetId": 272569
   },
@@ -210,7 +256,7 @@
     "leagueId": 31,
     "countryId": 57,
     "versionId": "107",
-    "rating": 93,
+    "rating": 94,
     "preferredFoot": "Left",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -246,78 +292,17 @@
       147
     ],
     "attributes": [
+      96,
+      76,
+      92,
+      94,
       95,
-      75,
-      91,
-      93,
-      93,
-      92
+      93
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 13750,
     "resourceId": 67346806,
     "assetId": 237942
-  },
-  "67365061": {
-    "name": "Piero Hincapié",
-    "cardName": "Hincapié",
-    "originalVersionId": "124",
-    "clubId": 1,
-    "leagueId": 13,
-    "countryId": 57,
-    "versionId": "124",
-    "rating": 93,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LB",
-    "possiblePositions": [
-      "CB",
-      "LB",
-      "LM"
-    ],
-    "playStyles": [
-      10,
-      12,
-      14,
-      15,
-      16,
-      17,
-      21,
-      26
-    ],
-    "playStylesPlus": [
-      18,
-      25,
-      28
-    ],
-    "rolesPlus": [
-      107,
-      108,
-      109,
-      110,
-      111,
-      112,
-      113,
-      127,
-      128,
-      129,
-      130,
-      147,
-      148
-    ],
-    "attributes": [
-      94,
-      52,
-      85,
-      88,
-      94,
-      92
-    ],
-    "hasDynamicImage": true,
-    "price": 155000,
-    "resourceId": 67365061,
-    "assetId": 256197
   },
   "67383423": {
     "name": "Kendry Páez",
@@ -366,61 +351,53 @@
     "resourceId": 67383423,
     "assetId": 274559
   },
-  "84142159": {
-    "name": "Moisés Caicedo",
-    "cardName": "Caicedo",
-    "originalVersionId": "65",
-    "clubId": 5,
+  "84142277": {
+    "name": "Piero Hincapié",
+    "cardName": "Hincapié",
+    "originalVersionId": "109",
+    "clubId": 1,
     "leagueId": 13,
     "countryId": 57,
-    "versionId": "65",
-    "rating": 93,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
+    "versionId": "109",
+    "rating": 96,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
     "skillMoves": 4,
-    "preferredPosition": "CDM",
+    "preferredPosition": "LB",
     "possiblePositions": [
-      "CDM",
-      "CM"
+      "CB",
+      "LB",
+      "LM"
     ],
-    "playStyles": [
-      10,
-      11,
-      18,
-      2,
-      24,
-      26,
-      9
-    ],
-    "playStylesPlus": [
-      16,
-      17,
-      8
-    ],
+    "playStyles": [],
+    "playStylesPlus": [],
     "rolesPlus": [
-      19,
-      21,
-      22,
-      114,
-      115,
-      116,
-      117,
-      118,
-      120,
-      149
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      127,
+      128,
+      129,
+      130,
+      147,
+      148
     ],
     "attributes": [
-      87,
-      80,
-      87,
+      95,
+      70,
       88,
-      93,
-      90
+      92,
+      96,
+      94
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 303250,
-    "resourceId": 84142159,
-    "assetId": 256079
+    "price": 410000,
+    "resourceId": 84142277,
+    "assetId": 256197
   },
   "84163822": {
     "name": "Jeremy",
@@ -456,6 +433,50 @@
     "price": 0,
     "resourceId": 84163822,
     "assetId": 277742
+  },
+  "100919375": {
+    "name": "Moisés Caicedo",
+    "cardName": "Caicedo",
+    "originalVersionId": "109",
+    "clubId": 5,
+    "leagueId": 13,
+    "countryId": 57,
+    "versionId": "109",
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      149
+    ],
+    "attributes": [
+      90,
+      83,
+      90,
+      92,
+      95,
+      92
+    ],
+    "hasDynamicImage": true,
+    "price": 56000,
+    "resourceId": 100919375,
+    "assetId": 256079
   },
   "134473924": {
     "name": "Willian Pacho",
@@ -502,7 +523,7 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 1148000,
+    "price": 890000,
     "resourceId": 134473924,
     "assetId": 256196
   }

@@ -38,7 +38,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 23500,
     "resourceId": 50410922,
     "assetId": 79274
   },
@@ -139,7 +139,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 190000,
+    "price": 155000,
     "resourceId": 50542741,
     "assetId": 211093
   },
@@ -238,7 +238,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 40000,
+    "price": 37250,
     "resourceId": 50556851,
     "assetId": 225203
   },
@@ -279,7 +279,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 40000,
+    "price": 42500,
     "resourceId": 50559593,
     "assetId": 227945
   },
@@ -369,7 +369,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 78000,
+    "price": 80000,
     "resourceId": 50571458,
     "assetId": 239810
   },
@@ -418,7 +418,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 18250,
+    "price": 19000,
     "resourceId": 50571708,
     "assetId": 240060
   },
@@ -485,7 +485,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 14000,
     "resourceId": 50575294,
     "assetId": 243646
   },
@@ -619,7 +619,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 27750,
+    "price": 29500,
     "resourceId": 50590833,
     "assetId": 259185
   },
@@ -725,7 +725,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 14000,
     "resourceId": 50594952,
     "assetId": 263304
   },
@@ -774,7 +774,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 15000,
     "resourceId": 67330909,
     "assetId": 222045
   },
@@ -816,7 +816,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 41000,
+    "price": 63500,
     "resourceId": 67334583,
     "assetId": 225719
   },
@@ -861,61 +861,6 @@
     "hasDynamicImage": true,
     "resourceId": 67364971,
     "assetId": 256107
-  },
-  "84112571": {
-    "name": "Kieran Tierney",
-    "cardName": "Tierney",
-    "originalVersionId": "57",
-    "clubId": 78,
-    "leagueId": 50,
-    "countryId": 42,
-    "versionId": "57",
-    "rating": 92,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LB",
-    "possiblePositions": [
-      "LB",
-      "LM"
-    ],
-    "playStyles": [
-      15,
-      16,
-      17,
-      20,
-      21,
-      8,
-      9
-    ],
-    "playStylesPlus": [
-      0,
-      14,
-      25
-    ],
-    "rolesPlus": [
-      28,
-      29,
-      107,
-      108,
-      109,
-      110,
-      127,
-      130,
-      147
-    ],
-    "attributes": [
-      95,
-      89,
-      92,
-      90,
-      92,
-      91
-    ],
-    "hasDynamicImage": true,
-    "sbcPrice": 17750,
-    "resourceId": 84112571,
-    "assetId": 226491
   },
   "84133758": {
     "name": "Julian Araujo",
@@ -968,7 +913,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 106000,
+    "price": 190000,
     "resourceId": 84133758,
     "assetId": 247678
   },
@@ -1013,8 +958,56 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 31250,
+    "price": 37000,
     "resourceId": 84156946,
     "assetId": 270866
+  },
+  "100889787": {
+    "name": "Kieran Tierney",
+    "cardName": "Tierney",
+    "originalVersionId": "109",
+    "clubId": 78,
+    "leagueId": 50,
+    "countryId": 42,
+    "versionId": "109",
+    "rating": 96,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "LB",
+      "LM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      127,
+      128,
+      129,
+      130,
+      147,
+      148
+    ],
+    "attributes": [
+      96,
+      92,
+      96,
+      93,
+      95,
+      94
+    ],
+    "hasDynamicImage": true,
+    "price": 570000,
+    "resourceId": 100889787,
+    "assetId": 226491
   }
 }

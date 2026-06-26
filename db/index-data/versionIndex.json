@@ -79,7 +79,7 @@
       }
     },
     "12": {
-      "count": 127,
+      "count": 129,
       "file": "db/versions/12.json",
       "details": {
         "name": "Icon",
@@ -313,7 +313,7 @@
       }
     },
     "36": {
-      "count": 6,
+      "count": 7,
       "file": "db/versions/36.json",
       "details": {
         "name": "Journey of Nations",
@@ -495,7 +495,7 @@
       }
     },
     "62": {
-      "count": 6,
+      "count": 8,
       "file": "db/versions/62.json",
       "details": {
         "name": "Festival of Football Showdown",
@@ -742,7 +742,7 @@
       }
     },
     "94": {
-      "count": 6,
+      "count": 12,
       "file": "db/versions/94.json",
       "details": {
         "name": "Festival of Football: Star Performer",
@@ -781,7 +781,7 @@
       }
     },
     "98": {
-      "count": 94,
+      "count": 100,
       "file": "db/versions/98.json",
       "details": {
         "name": "Festival of Football: National Pride",
@@ -794,7 +794,7 @@
       }
     },
     "103": {
-      "count": 9,
+      "count": 12,
       "file": "db/versions/103.json",
       "details": {
         "name": "Festival of Football: National Pride Red",
@@ -843,6 +843,19 @@
         "primaryColor": "#f6f3ff",
         "secondaryColor": "#4e1269",
         "tertiaryColor": "#fd4e95"
+      }
+    },
+    "109": {
+      "count": 44,
+      "file": "db/versions/109.json",
+      "details": {
+        "name": "Festival of Football: Glory Hunters",
+        "hasStrip": true,
+        "createdAt": "2026-06-24T23:15:00.457Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_109_0.png",
+        "primaryColor": "#fcfffc",
+        "secondaryColor": "#006857",
+        "tertiaryColor": "#4f9186"
       }
     },
     "111": {
@@ -1263,8 +1276,8 @@
     }
   },
   "meta": {
-    "totalVersions": 97,
-    "totalVersionsWithoutBase": 91,
-    "updatedAt": "2026-06-26T18:12:44.116Z"
+    "totalVersions": 98,
+    "totalVersionsWithoutBase": 92,
+    "updatedAt": "2026-06-26T18:15:03.480Z"
   }
 }

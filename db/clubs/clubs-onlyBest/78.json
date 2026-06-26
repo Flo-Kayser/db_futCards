@@ -100,7 +100,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 350,
       "resourceId": 79781,
       "assetId": 79781
     },
@@ -424,7 +424,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 246321,
       "assetId": 246321
     },
@@ -791,7 +791,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 7000,
       "resourceId": 269842,
       "assetId": 269842
     },
@@ -918,7 +918,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 190000,
+      "price": 155000,
       "resourceId": 50542741,
       "assetId": 211093
     },
@@ -1065,7 +1065,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 14000,
       "resourceId": 50575294,
       "assetId": 243646
     },
@@ -1179,7 +1179,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 3300,
       "resourceId": 50588856,
       "assetId": 257208
     },
@@ -1390,7 +1390,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 41000,
+      "price": 63500,
       "resourceId": 67334583,
       "assetId": 225719
     },
@@ -1516,61 +1516,6 @@
       "resourceId": 67366072,
       "assetId": 257208
     },
-    "84112571": {
-      "name": "Kieran Tierney",
-      "cardName": "Tierney",
-      "originalVersionId": "57",
-      "clubId": 78,
-      "leagueId": 50,
-      "countryId": 42,
-      "versionId": "57",
-      "rating": 92,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        15,
-        16,
-        17,
-        20,
-        21,
-        8,
-        9
-      ],
-      "playStylesPlus": [
-        0,
-        14,
-        25
-      ],
-      "rolesPlus": [
-        28,
-        29,
-        107,
-        108,
-        109,
-        110,
-        127,
-        130,
-        147
-      ],
-      "attributes": [
-        95,
-        89,
-        92,
-        90,
-        92,
-        91
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 17750,
-      "resourceId": 84112571,
-      "assetId": 226491
-    },
     "84133758": {
       "name": "Julian Araujo",
       "cardName": "Araujo",
@@ -1622,9 +1567,57 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 106000,
+      "price": 190000,
       "resourceId": 84133758,
       "assetId": 247678
+    },
+    "100889787": {
+      "name": "Kieran Tierney",
+      "cardName": "Tierney",
+      "originalVersionId": "109",
+      "clubId": 78,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "109",
+      "rating": 96,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        127,
+        128,
+        129,
+        130,
+        147,
+        148
+      ],
+      "attributes": [
+        96,
+        92,
+        96,
+        93,
+        95,
+        94
+      ],
+      "hasDynamicImage": true,
+      "price": 570000,
+      "resourceId": 100889787,
+      "assetId": 226491
     }
   }
 }

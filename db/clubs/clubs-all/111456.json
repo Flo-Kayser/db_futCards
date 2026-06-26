@@ -35,7 +35,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 210212,
       "assetId": 210212
     },
@@ -69,7 +69,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 2800,
       "resourceId": 221706,
       "assetId": 221706
     },
@@ -104,7 +104,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 235355,
       "assetId": 235355
     },
@@ -142,7 +142,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 242395,
       "assetId": 242395
     },
@@ -177,7 +177,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 1600,
       "resourceId": 250893,
       "assetId": 250893
     },
@@ -275,9 +275,91 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 15000,
       "resourceId": 50526495,
       "assetId": 194847
+    },
+    "50541860": {
+      "name": "Garry Rodrigues",
+      "cardName": "Garry Rodrigues",
+      "originalVersionId": "109",
+      "clubId": 111456,
+      "leagueId": 78,
+      "countryId": 104,
+      "versionId": "109",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        94,
+        91,
+        91,
+        93,
+        65,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 11500,
+      "resourceId": 50541860,
+      "assetId": 210212
+    },
+    "50548789": {
+      "name": "Vózinha",
+      "cardName": "Vózinha",
+      "originalVersionId": "109",
+      "clubId": 111456,
+      "leagueId": 78,
+      "countryId": 104,
+      "versionId": "109",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        95,
+        91,
+        90,
+        92,
+        71,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 50548789,
+      "assetId": 217141
     },
     "50574043": {
       "name": "Willy Semedo",
@@ -334,7 +416,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 14000,
       "resourceId": 50574043,
       "assetId": 242395
     },
@@ -380,6 +462,52 @@
       "hasDynamicImage": true,
       "resourceId": 50582541,
       "assetId": 250893
+    },
+    "50601067": {
+      "name": "Kevin Lenini",
+      "cardName": "Kevin Lenini",
+      "originalVersionId": "94",
+      "clubId": 111456,
+      "leagueId": 78,
+      "countryId": 104,
+      "versionId": "94",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [
+        3
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        89,
+        88,
+        93,
+        92,
+        94,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 25250,
+      "resourceId": 50601067,
+      "assetId": 269419
     }
   }
 }

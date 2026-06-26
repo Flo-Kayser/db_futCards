@@ -71,7 +71,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 600,
       "resourceId": 72754,
       "assetId": 72754
     },
@@ -331,7 +331,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 400,
       "resourceId": 225659,
       "assetId": 225659
     },
@@ -443,7 +443,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 5500,
+      "price": 1100,
       "resourceId": 242271,
       "assetId": 242271
     },
@@ -782,7 +782,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 9000,
+      "price": 6000,
       "resourceId": 278101,
       "assetId": 278101
     },
@@ -1178,7 +1178,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 149000,
+      "price": 125000,
       "resourceId": 67322820,
       "assetId": 213956
     },
@@ -1392,57 +1392,54 @@
       "resourceId": 67346576,
       "assetId": 237712
     },
-    "67360818": {
+    "84138034": {
       "name": "Crysencio Summerville",
       "cardName": "Summerville",
-      "originalVersionId": "20",
+      "originalVersionId": "109",
       "clubId": 19,
       "leagueId": 13,
       "countryId": 34,
-      "versionId": "20",
-      "rating": 89,
+      "versionId": "109",
+      "rating": 94,
       "preferredFoot": "Right",
       "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
+      "skillMoves": 5,
+      "preferredPosition": "RM",
       "possiblePositions": [
         "LM",
-        "LW"
+        "LW",
+        "RM",
+        "RW"
       ],
-      "playStyles": [
-        20,
-        21,
-        25,
-        26,
-        6,
-        7,
-        9
-      ],
-      "playStylesPlus": [
-        0,
-        11,
-        22
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
         127,
         128,
         129,
         130,
+        135,
+        136,
+        137,
         138,
         139,
         140
       ],
       "attributes": [
-        98,
-        86,
-        86,
-        93,
-        48,
-        74
+        99,
+        92,
+        92,
+        96,
+        60,
+        80
       ],
-      "hasDynamicImage": false,
-      "sbcPrice": 104500,
-      "resourceId": 67360818,
+      "hasDynamicImage": true,
+      "price": 121000,
+      "resourceId": 84138034,
       "assetId": 251954
     },
     "84150370": {

@@ -31,7 +31,7 @@
       51
     ],
     "hasDynamicImage": false,
-    "price": 800,
+    "price": 1700,
     "resourceId": 77170,
     "assetId": 77170
   },
@@ -67,7 +67,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 1400,
+    "price": 200,
     "resourceId": 77951,
     "assetId": 77951
   },
@@ -103,7 +103,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 3500,
+    "price": 3600,
     "resourceId": 78797,
     "assetId": 78797
   },
@@ -172,7 +172,7 @@
       46
     ],
     "hasDynamicImage": false,
-    "price": 9700,
+    "price": 5800,
     "resourceId": 79632,
     "assetId": 79632
   },
@@ -208,7 +208,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 3600,
+    "price": 3200,
     "resourceId": 213615,
     "assetId": 213615
   },
@@ -314,7 +314,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 200,
     "resourceId": 242935,
     "assetId": 242935
   },
@@ -384,7 +384,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 3900,
     "resourceId": 253949,
     "assetId": 253949
   },
@@ -460,44 +460,9 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 2200,
+    "price": 200,
     "resourceId": 260927,
     "assetId": 260927
-  },
-  "262638": {
-    "name": "Evidence Makgopa",
-    "cardName": "Makgopa",
-    "originalVersionId": "0",
-    "clubId": 111099,
-    "leagueId": 78,
-    "countryId": 140,
-    "versionId": "2001",
-    "rating": 67,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 2,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "CAM",
-      "ST"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      41
-    ],
-    "attributes": [
-      74,
-      67,
-      50,
-      64,
-      31,
-      64
-    ],
-    "hasDynamicImage": false,
-    "price": 200,
-    "resourceId": 262638,
-    "assetId": 262638
   },
   "264304": {
     "name": "Kobamelo Kodisang",
@@ -682,7 +647,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 300,
+    "price": 200,
     "resourceId": 270951,
     "assetId": 270951
   },
@@ -971,6 +936,61 @@
     "resourceId": 50585057,
     "assetId": 253409
   },
+  "50594286": {
+    "name": "Evidence Makgopa",
+    "cardName": "Makgopa",
+    "originalVersionId": "62",
+    "clubId": 111099,
+    "leagueId": 78,
+    "countryId": 140,
+    "versionId": "62",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      12,
+      20,
+      21,
+      25,
+      6,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      19,
+      2
+    ],
+    "rolesPlus": [
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      93,
+      95,
+      88,
+      95,
+      55,
+      93
+    ],
+    "hasDynamicImage": false,
+    "sbcPrice": 79800,
+    "resourceId": 50594286,
+    "assetId": 262638
+  },
   "50610336": {
     "name": "Olwethu Makhanya",
     "cardName": "Makhanya",
@@ -1017,7 +1037,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 14750,
     "resourceId": 50610336,
     "assetId": 278688
   },
@@ -1074,7 +1094,7 @@
       97
     ],
     "hasDynamicImage": true,
-    "price": 50000,
+    "price": 30000,
     "resourceId": 67366157,
     "assetId": 257293
   }
