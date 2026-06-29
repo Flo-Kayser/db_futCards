@@ -1,43 +1,6 @@
 {
   "clubName": "Korea Republic",
   "players": {
-    "191655": {
-      "name": "Kim Seung Gyu",
-      "cardName": "Kim Seung Gyu",
-      "originalVersionId": "0",
-      "clubId": 974,
-      "leagueId": 78,
-      "countryId": 167,
-      "versionId": "2001",
-      "rating": 73,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        30,
-        32
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        2
-      ],
-      "attributes": [
-        73,
-        67,
-        68,
-        75,
-        36,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 191655,
-      "assetId": 191655
-    },
     "244798": {
       "name": "Cho Yu Min",
       "cardName": "Cho Yu Min",
@@ -195,6 +158,42 @@
       "price": 200,
       "resourceId": 254980,
       "assetId": 254980
+    },
+    "50523303": {
+      "name": "Kim Seung Gyu",
+      "cardName": "Kim Seung Gyu",
+      "originalVersionId": "98",
+      "clubId": 974,
+      "leagueId": 78,
+      "countryId": 167,
+      "versionId": "98",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        95,
+        88,
+        90,
+        94,
+        70,
+        95
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 17500,
+      "resourceId": 50523303,
+      "assetId": 191655
     }
   }
 }

@@ -49,7 +49,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 2800000,
+    "price": 2699000,
     "resourceId": 84114782,
     "assetId": 228702,
     "cardName": "de Jong",
@@ -105,7 +105,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 2088000,
+    "price": 2335000,
     "resourceId": 84117946,
     "assetId": 231866,
     "cardName": "Rodri",
@@ -160,7 +160,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 853000,
+    "price": 982000,
     "resourceId": 100856281,
     "assetId": 192985,
     "cardName": "De Bruyne",
@@ -218,7 +218,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 6150000,
+    "price": 5850000,
     "resourceId": 151233738,
     "assetId": 238794,
     "cardName": "Vini Jr.",
@@ -229,7 +229,7 @@
     "leagueId": 13,
     "countryId": 14,
     "versionId": 107,
-    "rating": 96,
+    "rating": 97,
     "preferredFoot": "Left",
     "weakFoot": 5,
     "skillMoves": 5,
@@ -263,15 +263,15 @@
       137
     ],
     "attributes": [
+      97,
+      97,
       96,
-      96,
-      95,
-      96,
-      85,
-      84
+      97,
+      86,
+      85
     ],
     "hasDynamicImage": true,
-    "price": 1886000,
+    "price": 1968000,
     "resourceId": 100909965,
     "assetId": 246669,
     "cardName": "Saka",
@@ -336,11 +336,71 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 1310000,
+    "price": 1457000,
     "resourceId": 84142870,
     "assetId": 256790,
     "cardName": "Musiala",
     "name": "Jamal Musiala"
+  },
+  {
+    "clubId": 111138,
+    "leagueId": 39,
+    "countryId": 56,
+    "versionId": 107,
+    "rating": 96,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "RM"
+    ],
+    "playStyles": [
+      10,
+      11,
+      12,
+      13,
+      22,
+      24,
+      6,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      20,
+      8
+    ],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134
+    ],
+    "attributes": [
+      93,
+      95,
+      96,
+      97,
+      76,
+      91
+    ],
+    "hasDynamicImage": true,
+    "price": 332000,
+    "resourceId": 50530358,
+    "assetId": 198710,
+    "cardName": "Rodríguez",
+    "name": "James Rodríguez"
   },
   {
     "clubId": 131681,
@@ -394,7 +454,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 220000,
+    "price": 290000,
     "resourceId": 117668308,
     "assetId": 227796,
     "cardName": "Pulisic",
@@ -452,7 +512,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 340000,
+    "price": 460000,
     "resourceId": 84142755,
     "assetId": 256675,
     "cardName": "Marmoush",
@@ -479,13 +539,13 @@
       18,
       24,
       25,
-      28,
       9
     ],
     "playStylesPlus": [
       14,
       17,
-      21
+      21,
+      28
     ],
     "rolesPlus": [
       107,
@@ -507,71 +567,11 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 660000,
+    "price": 895000,
     "resourceId": 67343260,
     "assetId": 234396,
     "cardName": "Davies",
     "name": "Alphonso Davies"
-  },
-  {
-    "clubId": 111138,
-    "leagueId": 39,
-    "countryId": 56,
-    "versionId": 107,
-    "rating": 95,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "CM",
-      "RM"
-    ],
-    "playStyles": [
-      10,
-      11,
-      12,
-      13,
-      22,
-      24,
-      6,
-      9
-    ],
-    "playStylesPlus": [
-      0,
-      20,
-      8
-    ],
-    "rolesPlus": [
-      118,
-      119,
-      120,
-      121,
-      122,
-      123,
-      124,
-      125,
-      126,
-      131,
-      132,
-      133,
-      134
-    ],
-    "attributes": [
-      92,
-      94,
-      95,
-      96,
-      75,
-      90
-    ],
-    "hasDynamicImage": true,
-    "price": 290000,
-    "resourceId": 50530358,
-    "assetId": 198710,
-    "cardName": "Rodríguez",
-    "name": "James Rodríguez"
   },
   {
     "clubId": 2,
@@ -622,11 +622,60 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 260000,
+    "price": 387000,
     "resourceId": 84086538,
     "assetId": 200458,
     "cardName": "Digne",
     "name": "Lucas Digne"
+  },
+  {
+    "clubId": 10,
+    "leagueId": 13,
+    "countryId": 38,
+    "versionId": 107,
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      16,
+      17,
+      18,
+      19,
+      22,
+      25,
+      9
+    ],
+    "playStylesPlus": [
+      14,
+      15,
+      28
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      89,
+      48,
+      86,
+      84,
+      96,
+      97
+    ],
+    "hasDynamicImage": true,
+    "price": 127000,
+    "resourceId": 50571466,
+    "assetId": 239818,
+    "cardName": "Rúben Dias",
+    "name": "Rúben Dias"
   },
   {
     "clubId": 243,
@@ -685,67 +734,18 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 140000,
+    "price": 161000,
     "resourceId": 67340274,
     "assetId": 231410,
     "cardName": "Brahim",
     "name": "Brahim"
   },
   {
-    "clubId": 10,
-    "leagueId": 13,
-    "countryId": 38,
-    "versionId": 107,
-    "rating": 94,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 3,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [
-      10,
-      16,
-      17,
-      18,
-      19,
-      22,
-      25,
-      9
-    ],
-    "playStylesPlus": [
-      14,
-      15,
-      28
-    ],
-    "rolesPlus": [
-      111,
-      112,
-      113,
-      148
-    ],
-    "attributes": [
-      88,
-      47,
-      85,
-      83,
-      95,
-      96
-    ],
-    "hasDynamicImage": true,
-    "price": 110000,
-    "resourceId": 50571466,
-    "assetId": 239818,
-    "cardName": "Rúben Dias",
-    "name": "Rúben Dias"
-  },
-  {
     "clubId": 240,
     "leagueId": 53,
     "countryId": 52,
     "versionId": 107,
-    "rating": 94,
+    "rating": 95,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 4,
@@ -789,19 +789,68 @@
       144
     ],
     "attributes": [
-      96,
+      97,
+      91,
       90,
-      89,
-      93,
-      60,
-      93
+      96,
+      61,
+      94
     ],
     "hasDynamicImage": true,
-    "price": 78000,
+    "price": 116000,
     "resourceId": 67362260,
     "assetId": 253396,
     "cardName": "Simeone",
     "name": "Giuliano Simeone"
+  },
+  {
+    "clubId": 73,
+    "leagueId": 16,
+    "countryId": 38,
+    "versionId": 107,
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      19,
+      2,
+      20,
+      25,
+      4,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      24,
+      6
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      97,
+      94,
+      87,
+      93,
+      61,
+      93
+    ],
+    "hasDynamicImage": true,
+    "price": 21750,
+    "resourceId": 84142983,
+    "assetId": 256903,
+    "cardName": "Gonçalo Ramos",
+    "name": "Gonçalo Ramos"
   },
   {
     "clubId": 326,
@@ -853,7 +902,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 17250,
     "resourceId": 67344708,
     "assetId": 235844,
     "cardName": "Álvarez",
@@ -906,7 +955,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 15000,
     "resourceId": 67370052,
     "assetId": 261188,
     "cardName": "Ndiaye",
@@ -959,7 +1008,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 40750,
+    "price": 37500,
     "resourceId": 67366334,
     "assetId": 257470,
     "cardName": "Elanga",
@@ -1015,11 +1064,71 @@
       97
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 25000,
     "resourceId": 67366157,
     "assetId": 257293,
     "cardName": "Sithole",
     "name": "Sphephelo Sithole"
+  },
+  {
+    "clubId": 243,
+    "leagueId": 53,
+    "countryId": 4,
+    "versionId": 107,
+    "rating": 94,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "LB",
+      "LM"
+    ],
+    "playStyles": [
+      10,
+      11,
+      15,
+      16,
+      18,
+      19,
+      28,
+      3
+    ],
+    "playStylesPlus": [
+      14,
+      17,
+      9
+    ],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      127,
+      128,
+      129,
+      130,
+      147,
+      148
+    ],
+    "attributes": [
+      92,
+      84,
+      94,
+      93,
+      96,
+      91
+    ],
+    "hasDynamicImage": true,
+    "price": 35000,
+    "resourceId": 67306309,
+    "assetId": 197445,
+    "cardName": "Alaba",
+    "name": "David Alaba"
   },
   {
     "clubId": 21,
@@ -1075,7 +1184,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 20000,
     "resourceId": 67343069,
     "assetId": 234205,
     "cardName": "Ito",
@@ -1130,120 +1239,11 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 253000,
+    "price": 260000,
     "resourceId": 67362027,
     "assetId": 253163,
     "cardName": "Araujo",
     "name": "Ronald Araujo"
-  },
-  {
-    "clubId": 73,
-    "leagueId": 16,
-    "countryId": 38,
-    "versionId": 107,
-    "rating": 93,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      11,
-      19,
-      2,
-      20,
-      25,
-      4,
-      7,
-      8
-    ],
-    "playStylesPlus": [
-      0,
-      24,
-      6
-    ],
-    "rolesPlus": [
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      96,
-      93,
-      86,
-      92,
-      60,
-      92
-    ],
-    "hasDynamicImage": true,
-    "price": 19000,
-    "resourceId": 84142983,
-    "assetId": 256903,
-    "cardName": "Gonçalo Ramos",
-    "name": "Gonçalo Ramos"
-  },
-  {
-    "clubId": 243,
-    "leagueId": 53,
-    "countryId": 4,
-    "versionId": 107,
-    "rating": 93,
-    "preferredFoot": "Left",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB",
-      "LB",
-      "LM"
-    ],
-    "playStyles": [
-      10,
-      11,
-      15,
-      16,
-      18,
-      19,
-      28,
-      3
-    ],
-    "playStylesPlus": [
-      14,
-      17,
-      9
-    ],
-    "rolesPlus": [
-      107,
-      108,
-      109,
-      110,
-      111,
-      112,
-      113,
-      127,
-      128,
-      129,
-      130,
-      147,
-      148
-    ],
-    "attributes": [
-      91,
-      83,
-      93,
-      92,
-      95,
-      90
-    ],
-    "hasDynamicImage": true,
-    "price": 15000,
-    "resourceId": 67306309,
-    "assetId": 197445,
-    "cardName": "Alaba",
-    "name": "David Alaba"
   },
   {
     "clubId": 1415,
@@ -1295,7 +1295,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 15000,
     "resourceId": 50544159,
     "assetId": 212511,
     "cardName": "Geria",
@@ -1349,6 +1349,55 @@
     "assetId": 204838,
     "cardName": "Jiménez",
     "name": "Raúl Jiménez"
+  },
+  {
+    "clubId": 13,
+    "leagueId": 13,
+    "countryId": 110,
+    "versionId": 107,
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      20,
+      22,
+      24,
+      5,
+      6,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      21,
+      25
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      96,
+      95,
+      84,
+      93,
+      41,
+      86
+    ],
+    "hasDynamicImage": true,
+    "price": 16000,
+    "resourceId": 67343688,
+    "assetId": 234824,
+    "cardName": "Wissa",
+    "name": "Yoane Wissa"
   },
   {
     "clubId": 111465,
@@ -1413,6 +1462,61 @@
     "name": "Enner Valencia"
   },
   {
+    "clubId": 115845,
+    "leagueId": 31,
+    "countryId": 10,
+    "versionId": 107,
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      10,
+      19,
+      2,
+      20,
+      22,
+      24,
+      9
+    ],
+    "playStylesPlus": [
+      11,
+      6,
+      8
+    ],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134
+    ],
+    "attributes": [
+      92,
+      91,
+      94,
+      94,
+      81,
+      89
+    ],
+    "hasDynamicImage": true,
+    "price": 15000,
+    "resourceId": 50554921,
+    "assetId": 223273,
+    "cardName": "Pašalić",
+    "name": "Mario Pašalić"
+  },
+  {
     "clubId": 234,
     "leagueId": 308,
     "countryId": 8,
@@ -1467,11 +1571,78 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 16500,
+    "price": 16250,
     "resourceId": 67366209,
     "assetId": 257345,
     "cardName": "Dedić",
     "name": "Amar Dedić"
+  },
+  {
+    "clubId": 112885,
+    "leagueId": 39,
+    "countryId": 58,
+    "versionId": 107,
+    "rating": 93,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      11,
+      12,
+      21,
+      23,
+      26,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      20,
+      25,
+      6
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      96,
+      91,
+      89,
+      94,
+      74,
+      82
+    ],
+    "hasDynamicImage": true,
+    "price": 16000,
+    "resourceId": 50562625,
+    "assetId": 230977,
+    "cardName": "Almirón",
+    "name": "Miguel Almirón"
   },
   {
     "clubId": 131739,
@@ -1525,7 +1696,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 15250,
     "resourceId": 67181956,
     "assetId": 73092,
     "cardName": "Randall",
@@ -1590,7 +1761,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 15500,
     "resourceId": 84133130,
     "assetId": 247050,
     "cardName": "Šulc",
@@ -1700,182 +1871,11 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 26000,
+    "price": 23750,
     "resourceId": 50608679,
     "assetId": 277031,
     "cardName": "Khusanov",
     "name": "Abdukodir Khusanov"
-  },
-  {
-    "clubId": 13,
-    "leagueId": 13,
-    "countryId": 110,
-    "versionId": 107,
-    "rating": 92,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      11,
-      20,
-      22,
-      24,
-      5,
-      6,
-      7,
-      8
-    ],
-    "playStylesPlus": [
-      0,
-      21,
-      25
-    ],
-    "rolesPlus": [
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      95,
-      92,
-      83,
-      92,
-      40,
-      85
-    ],
-    "hasDynamicImage": true,
-    "price": 14750,
-    "resourceId": 67343688,
-    "assetId": 234824,
-    "cardName": "Wissa",
-    "name": "Yoane Wissa"
-  },
-  {
-    "clubId": 115845,
-    "leagueId": 31,
-    "countryId": 10,
-    "versionId": 107,
-    "rating": 92,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [
-      0,
-      10,
-      19,
-      2,
-      20,
-      22,
-      24,
-      9
-    ],
-    "playStylesPlus": [
-      11,
-      6,
-      8
-    ],
-    "rolesPlus": [
-      118,
-      119,
-      120,
-      121,
-      122,
-      131,
-      132,
-      133,
-      134
-    ],
-    "attributes": [
-      91,
-      90,
-      93,
-      93,
-      80,
-      88
-    ],
-    "hasDynamicImage": true,
-    "price": 14500,
-    "resourceId": 50554921,
-    "assetId": 223273,
-    "cardName": "Pašalić",
-    "name": "Mario Pašalić"
-  },
-  {
-    "clubId": 112885,
-    "leagueId": 39,
-    "countryId": 58,
-    "versionId": 107,
-    "rating": 92,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "CAM",
-      "LM",
-      "LW",
-      "RM",
-      "RW"
-    ],
-    "playStyles": [
-      0,
-      11,
-      12,
-      21,
-      23,
-      26,
-      8,
-      9
-    ],
-    "playStylesPlus": [
-      20,
-      25,
-      6
-    ],
-    "rolesPlus": [
-      123,
-      124,
-      125,
-      126,
-      127,
-      128,
-      129,
-      130,
-      131,
-      132,
-      133,
-      134,
-      135,
-      136,
-      137,
-      138,
-      139,
-      140
-    ],
-    "attributes": [
-      95,
-      90,
-      88,
-      93,
-      73,
-      81
-    ],
-    "hasDynamicImage": true,
-    "price": 15000,
-    "resourceId": 50562625,
-    "assetId": 230977,
-    "cardName": "Almirón",
-    "name": "Miguel Almirón"
   },
   {
     "clubId": 111456,
@@ -1933,7 +1933,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 15000,
     "resourceId": 50526495,
     "assetId": 194847,
     "cardName": "Ryan Mendes",
@@ -2037,7 +2037,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 16000,
     "resourceId": 50593783,
     "assetId": 262135,
     "cardName": "Wolfe",
@@ -2098,7 +2098,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 14750,
+    "price": 15000,
     "resourceId": 50589819,
     "assetId": 258171,
     "cardName": "Hannibal",
@@ -2164,7 +2164,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 16500,
     "resourceId": 50575192,
     "assetId": 243544,
     "cardName": "Carrasquilla",
@@ -2213,7 +2213,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 17250,
+    "price": 18000,
     "resourceId": 50533818,
     "assetId": 202170,
     "cardName": "Boxall",
@@ -2274,7 +2274,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 17500,
     "resourceId": 50586333,
     "assetId": 254685,
     "cardName": "Boushal",
