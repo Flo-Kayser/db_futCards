@@ -1,7 +1,7 @@
 {
   "50530599": {
     "name": "Cédric Bakambu",
-    "cardName": "Bakambu",
+    "cardName": "Cédric Bakambu",
     "originalVersionId": "46",
     "clubId": 449,
     "leagueId": 53,
@@ -47,7 +47,7 @@
   },
   "50542545": {
     "name": "Chancel Mbemba",
-    "cardName": "Mbemba",
+    "cardName": "Chancel Mbemba",
     "originalVersionId": "90",
     "clubId": 65,
     "leagueId": 16,
@@ -95,7 +95,7 @@
   },
   "50563133": {
     "name": "Axel Tuanzebe",
-    "cardName": "Tuanzebe",
+    "cardName": "Axel Tuanzebe",
     "originalVersionId": "98",
     "clubId": 1796,
     "leagueId": 13,
@@ -138,7 +138,7 @@
   },
   "50563300": {
     "name": "Simon Banza",
-    "cardName": "Banza",
+    "cardName": "Simon Banza",
     "originalVersionId": "98",
     "clubId": 1896,
     "leagueId": 308,
@@ -174,7 +174,7 @@
   },
   "50571999": {
     "name": "Samuel Moutoussamy",
-    "cardName": "Moutoussamy",
+    "cardName": "Samuel Moutoussamy",
     "originalVersionId": "98",
     "clubId": 111545,
     "leagueId": 78,
@@ -217,7 +217,7 @@
   },
   "67185914": {
     "name": "Merveille Kanjinga",
-    "cardName": "Kanjinga",
+    "cardName": "Merveille Kanjinga",
     "originalVersionId": "11",
     "clubId": 116034,
     "leagueId": 2218,
@@ -265,13 +265,13 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 78500,
+    "price": 56500,
     "resourceId": 67185914,
     "assetId": 77050
   },
   "67338744": {
     "name": "Aaron Wan-Bissaka",
-    "cardName": "Wan-Bissaka",
+    "cardName": "Aaron Wan-Bissaka",
     "originalVersionId": "107",
     "clubId": 19,
     "leagueId": 13,
@@ -325,59 +325,9 @@
     "resourceId": 67338744,
     "assetId": 229880
   },
-  "67343688": {
-    "name": "Yoane Wissa",
-    "cardName": "Wissa",
-    "originalVersionId": "107",
-    "clubId": 13,
-    "leagueId": 13,
-    "countryId": 110,
-    "versionId": "107",
-    "rating": 93,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      11,
-      20,
-      22,
-      24,
-      5,
-      6,
-      7,
-      8
-    ],
-    "playStylesPlus": [
-      0,
-      21,
-      25
-    ],
-    "rolesPlus": [
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      96,
-      95,
-      84,
-      93,
-      41,
-      86
-    ],
-    "hasDynamicImage": true,
-    "price": 16000,
-    "resourceId": 67343688,
-    "assetId": 234824
-  },
   "67360396": {
     "name": "Meschack Elia",
-    "cardName": "Elia",
+    "cardName": "Meschack Elia",
     "originalVersionId": "3",
     "clubId": 113142,
     "leagueId": 68,
@@ -415,6 +365,45 @@
     "price": 32500,
     "resourceId": 67360396,
     "assetId": 251532
+  },
+  "84120904": {
+    "name": "Yoane Wissa",
+    "cardName": "Yoane Wissa",
+    "originalVersionId": "94",
+    "clubId": 13,
+    "leagueId": 13,
+    "countryId": 110,
+    "versionId": "94",
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      97,
+      96,
+      86,
+      95,
+      43,
+      88
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 84120904,
+    "assetId": 234824
   },
   "100909236": {
     "name": "Silas",
