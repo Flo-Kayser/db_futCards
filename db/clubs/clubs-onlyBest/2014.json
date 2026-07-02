@@ -37,7 +37,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1400,
       "resourceId": 70888,
       "assetId": 70888
     },
@@ -72,7 +72,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 500,
       "resourceId": 72062,
       "assetId": 72062
     },
@@ -145,7 +145,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 700,
       "resourceId": 76976,
       "assetId": 76976
     },
@@ -179,7 +179,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 4700,
+      "price": 4100,
       "resourceId": 79192,
       "assetId": 79192
     },
@@ -249,7 +249,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 79334,
       "assetId": 79334
     },
@@ -285,7 +285,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 950,
       "resourceId": 184156,
       "assetId": 184156
     },
@@ -326,7 +326,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 650,
       "resourceId": 210044,
       "assetId": 210044
     },
@@ -370,7 +370,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 5300,
+      "price": 5500,
       "resourceId": 211381,
       "assetId": 211381
     },
@@ -409,7 +409,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 3700,
       "resourceId": 225266,
       "assetId": 225266
     },
@@ -529,7 +529,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 650,
       "resourceId": 235572,
       "assetId": 235572
     },
@@ -566,7 +566,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 10000,
       "resourceId": 243675,
       "assetId": 243675
     },
@@ -685,7 +685,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 900,
       "resourceId": 252108,
       "assetId": 252108
     },
@@ -764,7 +764,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 263619,
       "assetId": 263619
     },
@@ -835,7 +835,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 275207,
       "assetId": 275207
     },
@@ -875,49 +875,6 @@
       "price": 0,
       "resourceId": 276316,
       "assetId": 276316
-    },
-    "50404718": {
-      "name": "Promise David",
-      "cardName": "Promise David",
-      "originalVersionId": "82",
-      "clubId": 2014,
-      "leagueId": 4,
-      "countryId": 70,
-      "versionId": "82",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        2,
-        28,
-        29,
-        4,
-        6
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41,
-        43,
-        142,
-        144
-      ],
-      "attributes": [
-        85,
-        88,
-        78,
-        84,
-        40,
-        93
-      ],
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 50404718,
-      "assetId": 73070
     },
     "50537017": {
       "name": "Rob Schoofs",
@@ -1010,7 +967,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 19000,
+      "price": 23500,
       "resourceId": 50564878,
       "assetId": 233230
     },
@@ -1051,7 +1008,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 450,
       "resourceId": 50592960,
       "assetId": 261312
     },
@@ -1088,7 +1045,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 50602567,
       "assetId": 270919
     },
@@ -1138,6 +1095,56 @@
       "price": 44000,
       "resourceId": 50604217,
       "assetId": 272569
+    },
+    "67181934": {
+      "name": "Promise David",
+      "cardName": "Promise David",
+      "originalVersionId": "62",
+      "clubId": 2014,
+      "leagueId": 4,
+      "countryId": 70,
+      "versionId": "62",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        20,
+        21,
+        22,
+        28,
+        4,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        25,
+        29
+      ],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        95,
+        86,
+        92,
+        50,
+        95
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 73500,
+      "resourceId": 67181934,
+      "assetId": 73070
     }
   }
 }
