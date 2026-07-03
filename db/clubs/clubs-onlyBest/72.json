@@ -286,7 +286,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 3700,
       "resourceId": 224422,
       "assetId": 224422
     },
@@ -1049,7 +1049,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 550,
       "resourceId": 278187,
       "assetId": 278187
     },
@@ -1133,7 +1133,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 26250,
+      "price": 28250,
       "resourceId": 50567217,
       "assetId": 235569
     },
@@ -1219,54 +1219,6 @@
       "resourceId": 50600516,
       "assetId": 268868
     },
-    "50606184": {
-      "name": "Moïse Bombito",
-      "cardName": "Moïse Bombito",
-      "originalVersionId": "45",
-      "clubId": 72,
-      "leagueId": 16,
-      "countryId": 70,
-      "versionId": "45",
-      "rating": 87,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "LB"
-      ],
-      "playStyles": [
-        15,
-        16,
-        18,
-        19,
-        9
-      ],
-      "playStylesPlus": [
-        25
-      ],
-      "rolesPlus": [
-        9,
-        12,
-        13,
-        107,
-        111,
-        148
-      ],
-      "attributes": [
-        95,
-        60,
-        72,
-        75,
-        85,
-        86
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 71500,
-      "resourceId": 50606184,
-      "assetId": 274536
-    },
     "67369271": {
       "name": "Elye Wahi",
       "cardName": "Elye Wahi",
@@ -1303,9 +1255,46 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 6000,
+      "price": 2000,
       "resourceId": 67369271,
       "assetId": 260407
+    },
+    "67383400": {
+      "name": "Moïse Bombito",
+      "cardName": "Moïse Bombito",
+      "originalVersionId": "109",
+      "clubId": 72,
+      "leagueId": 16,
+      "countryId": 70,
+      "versionId": "109",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        96,
+        65,
+        85,
+        82,
+        92,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 67383400,
+      "assetId": 274536
     },
     "84044705": {
       "name": "Dante",

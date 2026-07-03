@@ -32,7 +32,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1000,
       "resourceId": 71897,
       "assetId": 71897
     },
@@ -408,7 +408,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 350,
       "resourceId": 240017,
       "assetId": 240017
     },
@@ -653,53 +653,6 @@
       "resourceId": 245741,
       "assetId": 245741
     },
-    "254566": {
-      "name": "Patrick Wimmer",
-      "cardName": "Patrick Wimmer",
-      "originalVersionId": "1",
-      "clubId": 175,
-      "leagueId": 19,
-      "countryId": 4,
-      "versionId": "3002",
-      "rating": 77,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        13,
-        21,
-        22,
-        26,
-        5
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18,
-        31,
-        32,
-        33,
-        35
-      ],
-      "attributes": [
-        84,
-        69,
-        72,
-        81,
-        49,
-        73
-      ],
-      "hasDynamicImage": false,
-      "price": 650,
-      "resourceId": 254566,
-      "assetId": 254566
-    },
     "255272": {
       "name": "Kevin Paredes",
       "cardName": "Kevin Paredes",
@@ -895,7 +848,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 750,
       "resourceId": 264697,
       "assetId": 264697
     },
@@ -1056,7 +1009,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 39500,
+      "price": 39250,
       "resourceId": 50522108,
       "assetId": 190460
     },
@@ -1095,9 +1048,60 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 31000,
       "resourceId": 50560031,
       "assetId": 228383
+    },
+    "50586214": {
+      "name": "Patrick Wimmer",
+      "cardName": "Patrick Wimmer",
+      "originalVersionId": "98",
+      "clubId": 175,
+      "leagueId": 19,
+      "countryId": 4,
+      "versionId": "98",
+      "rating": 92,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        88,
+        88,
+        95,
+        64,
+        88
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50586214,
+      "assetId": 254566
     },
     "50598115": {
       "name": "Jenson Seelt",

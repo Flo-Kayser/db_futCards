@@ -68,7 +68,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 198039,
       "assetId": 198039
     },
@@ -221,7 +221,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 650,
       "resourceId": 210047,
       "assetId": 210047
     },
@@ -447,7 +447,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 400,
       "resourceId": 251809,
       "assetId": 251809
     },
@@ -557,7 +557,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 270617,
       "assetId": 270617
     },
@@ -656,7 +656,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 171000,
+      "price": 109000,
       "resourceId": 50529680,
       "assetId": 198032
     },
@@ -780,7 +780,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 39500,
+      "price": 49000,
       "resourceId": 50587909,
       "assetId": 256261
     },
@@ -873,7 +873,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 36500,
+      "price": 29000,
       "resourceId": 67343606,
       "assetId": 234742
     },
@@ -929,7 +929,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 905000,
+      "price": 950000,
       "resourceId": 67351828,
       "assetId": 242964
     },
@@ -983,7 +983,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 34250,
+      "price": 27500,
       "resourceId": 67366334,
       "assetId": 257470
     },
@@ -1106,7 +1106,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 33750,
       "resourceId": 67383110,
       "assetId": 274246
     },
@@ -1145,7 +1145,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 186000,
+      "price": 189000,
       "resourceId": 84120904,
       "assetId": 234824
     },
@@ -1199,65 +1199,9 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 200000,
+      "price": 175000,
       "resourceId": 84127176,
       "assetId": 241096
-    },
-    "84133931": {
-      "name": "Bruno Guimarães",
-      "cardName": "Bruno Guimarães",
-      "originalVersionId": "11",
-      "clubId": 13,
-      "leagueId": 13,
-      "countryId": 54,
-      "versionId": "11",
-      "rating": 92,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        0,
-        10,
-        16,
-        24,
-        7,
-        8,
-        9
-      ],
-      "playStylesPlus": [
-        11,
-        13,
-        28
-      ],
-      "rolesPlus": [
-        15,
-        17,
-        49,
-        114,
-        116,
-        118,
-        119,
-        120,
-        121,
-        122
-      ],
-      "attributes": [
-        90,
-        85,
-        93,
-        91,
-        88,
-        90
-      ],
-      "hasDynamicImage": true,
-      "price": 18250,
-      "resourceId": 84133931,
-      "assetId": 247851
     },
     "84140102": {
       "name": "Nick Woltemade",
@@ -1358,6 +1302,50 @@
       "price": 30000,
       "resourceId": 84152207,
       "assetId": 266127
+    },
+    "100911147": {
+      "name": "Bruno Guimarães",
+      "cardName": "Bruno Guimarães",
+      "originalVersionId": "109",
+      "clubId": 13,
+      "leagueId": 13,
+      "countryId": 54,
+      "versionId": "109",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        94,
+        90,
+        96,
+        96,
+        92,
+        94
+      ],
+      "hasDynamicImage": true,
+      "price": 301000,
+      "resourceId": 100911147,
+      "assetId": 247851
     }
   }
 }

@@ -1,63 +1,6 @@
 {
   "clubName": "Borussia Dortmund",
   "players": {
-    "50536571": {
-      "name": "Marcel Sabitzer",
-      "cardName": "Marcel Sabitzer",
-      "originalVersionId": "3",
-      "clubId": 22,
-      "leagueId": 19,
-      "countryId": 4,
-      "versionId": "3",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "CDM",
-        "CM",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        0,
-        10,
-        2,
-        8,
-        9
-      ],
-      "playStylesPlus": [
-        11
-      ],
-      "rolesPlus": [
-        14,
-        17,
-        20,
-        21,
-        29,
-        30,
-        39,
-        40,
-        118,
-        127,
-        128,
-        138,
-        149
-      ],
-      "attributes": [
-        83,
-        86,
-        87,
-        86,
-        82,
-        83
-      ],
-      "hasDynamicImage": false,
-      "price": 34250,
-      "resourceId": 50536571,
-      "assetId": 204923
-    },
     "50539981": {
       "name": "Emre Can",
       "cardName": "Emre Can",
@@ -197,55 +140,9 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 26500,
+      "price": 24500,
       "resourceId": 50566721,
       "assetId": 235073
-    },
-    "50585765": {
-      "name": "Maximilian Beier",
-      "cardName": "Maximilian Beier",
-      "originalVersionId": "22",
-      "clubId": 22,
-      "leagueId": 19,
-      "countryId": 21,
-      "versionId": "22",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "LM",
-        "RM",
-        "RW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        21,
-        25,
-        6,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        30,
-        36,
-        141
-      ],
-      "attributes": [
-        90,
-        85,
-        74,
-        84,
-        50,
-        70
-      ],
-      "hasDynamicImage": true,
-      "price": 20000,
-      "resourceId": 50585765,
-      "assetId": 254117
     },
     "50590723": {
       "name": "Yan Couto",
@@ -347,7 +244,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 19250,
+      "price": 13000,
       "resourceId": 50591364,
       "assetId": 259716
     },
@@ -443,9 +340,62 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 88000,
+      "price": 106000,
       "resourceId": 50602612,
       "assetId": 270964
+    },
+    "67313787": {
+      "name": "Marcel Sabitzer",
+      "cardName": "Marcel Sabitzer",
+      "originalVersionId": "109",
+      "clubId": 22,
+      "leagueId": 19,
+      "countryId": 4,
+      "versionId": "109",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        149
+      ],
+      "attributes": [
+        91,
+        93,
+        95,
+        94,
+        91,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 60500,
+      "resourceId": 67313787,
+      "assetId": 204923
     },
     "67321054": {
       "name": "Niklas Süle",
@@ -612,7 +562,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 60000,
+      "price": 32000,
       "resourceId": 67333060,
       "assetId": 224196
     },
@@ -667,6 +617,57 @@
       "sbcPrice": 21250,
       "resourceId": 67360901,
       "assetId": 252037
+    },
+    "67362981": {
+      "name": "Maximilian Beier",
+      "cardName": "Maximilian Beier",
+      "originalVersionId": "109",
+      "clubId": 22,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "109",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        93,
+        90,
+        92,
+        58,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 12500,
+      "resourceId": 67362981,
+      "assetId": 254117
     },
     "84115971": {
       "name": "Julian Ryerson",
@@ -725,7 +726,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 47500,
+      "price": 38000,
       "resourceId": 84115971,
       "assetId": 229891
     },
@@ -782,7 +783,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 52000,
+      "price": 48250,
       "resourceId": 84132943,
       "assetId": 246863
     },
@@ -831,7 +832,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 230000,
+      "price": 218000,
       "resourceId": 84133899,
       "assetId": 247819
     },
@@ -896,7 +897,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 205000,
+      "price": 179000,
       "resourceId": 84137932,
       "assetId": 251852
     },

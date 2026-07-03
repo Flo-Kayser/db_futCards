@@ -34,7 +34,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 80352,
       "assetId": 80352
     },
@@ -267,7 +267,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 2400,
       "resourceId": 261422,
       "assetId": 261422
     },
@@ -559,7 +559,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 20500,
       "resourceId": 50566797,
       "assetId": 235149
     },
@@ -601,7 +601,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 34000,
+      "price": 28500,
       "resourceId": 50567311,
       "assetId": 235663
     },
@@ -646,7 +646,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 37000,
+      "price": 24000,
       "resourceId": 50571626,
       "assetId": 239978
     },
@@ -729,7 +729,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 32750,
+      "price": 22000,
       "resourceId": 50582871,
       "assetId": 251223
     },
@@ -777,7 +777,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 93500,
+      "price": 89500,
       "resourceId": 50590401,
       "assetId": 258753
     },
@@ -825,7 +825,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 43500,
+      "price": 29750,
       "resourceId": 50597885,
       "assetId": 266237
     },
@@ -863,7 +863,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 7200,
+      "price": 5000,
       "resourceId": 50600376,
       "assetId": 268728
     },
@@ -966,7 +966,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 49500,
       "resourceId": 67290322,
       "assetId": 181458
     },
@@ -1081,70 +1081,9 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 22500,
+      "price": 19000,
       "resourceId": 67350373,
       "assetId": 241509
-    },
-    "67360668": {
-      "name": "Sergiño Dest",
-      "cardName": "Sergiño Dest",
-      "originalVersionId": "65",
-      "clubId": 247,
-      "leagueId": 10,
-      "countryId": 95,
-      "versionId": "65",
-      "rating": 92,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "LB",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        15,
-        16,
-        17,
-        20,
-        26,
-        8,
-        9
-      ],
-      "playStylesPlus": [
-        13,
-        14,
-        25
-      ],
-      "rolesPlus": [
-        7,
-        8,
-        9,
-        23,
-        26,
-        46,
-        103,
-        104,
-        105,
-        106,
-        110,
-        124,
-        125,
-        147
-      ],
-      "attributes": [
-        95,
-        80,
-        91,
-        92,
-        89,
-        88
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 156500,
-      "resourceId": 67360668,
-      "assetId": 251804
     },
     "67368344": {
       "name": "Ismael Saibari",
@@ -1197,7 +1136,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 39000,
+      "price": 44500,
       "resourceId": 67368344,
       "assetId": 259480
     },
@@ -1238,6 +1177,59 @@
       "price": 300,
       "resourceId": 67377592,
       "assetId": 268728
+    },
+    "84137884": {
+      "name": "Sergiño Dest",
+      "cardName": "Sergiño Dest",
+      "originalVersionId": "109",
+      "clubId": 247,
+      "leagueId": 10,
+      "countryId": 95,
+      "versionId": "109",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LB",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        146,
+        147
+      ],
+      "attributes": [
+        96,
+        81,
+        92,
+        93,
+        90,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 12500,
+      "resourceId": 84137884,
+      "assetId": 251804
     },
     "84139189": {
       "name": "Joey Veerman",
@@ -1296,7 +1288,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 28000,
+      "price": 24250,
       "resourceId": 84139189,
       "assetId": 253109
     }

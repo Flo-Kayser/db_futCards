@@ -31,7 +31,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 72179,
       "assetId": 72179
     },
@@ -230,7 +230,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 4600,
+      "price": 8000,
       "resourceId": 243627,
       "assetId": 243627
     },
@@ -273,7 +273,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 700,
       "resourceId": 245630,
       "assetId": 245630
     },
@@ -807,7 +807,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 25750,
+      "price": 28500,
       "resourceId": 67324562,
       "assetId": 215698
     },
@@ -926,73 +926,9 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 15000,
+      "price": 17750,
       "resourceId": 67346806,
       "assetId": 237942
-    },
-    "67351528": {
-      "name": "Alexis Saelemaekers",
-      "cardName": "Alexis Saelemaekers",
-      "originalVersionId": "65",
-      "clubId": 131681,
-      "leagueId": 31,
-      "countryId": 7,
-      "versionId": "65",
-      "rating": 91,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "LM",
-        "RB",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        13,
-        14,
-        16,
-        17,
-        21,
-        26,
-        8
-      ],
-      "playStylesPlus": [
-        12,
-        15,
-        25
-      ],
-      "rolesPlus": [
-        23,
-        26,
-        27,
-        30,
-        35,
-        103,
-        104,
-        105,
-        106,
-        124,
-        125,
-        128,
-        129,
-        136,
-        137,
-        146
-      ],
-      "attributes": [
-        92,
-        83,
-        88,
-        90,
-        87,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 67351528,
-      "assetId": 242664
     },
     "67354016": {
       "name": "Santiago Giménez",
@@ -1087,68 +1023,55 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 19250,
+      "price": 18500,
       "resourceId": 84096088,
       "assetId": 210008
     },
-    "84127801": {
-      "name": "Rafael Leão",
-      "cardName": "Rafael Leão",
-      "originalVersionId": "111",
+    "84128744": {
+      "name": "Alexis Saelemaekers",
+      "cardName": "Alexis Saelemaekers",
+      "originalVersionId": "109",
       "clubId": 131681,
       "leagueId": 31,
-      "countryId": 38,
-      "versionId": "111",
+      "countryId": 7,
+      "versionId": "109",
       "rating": 93,
       "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "ST",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
       "possiblePositions": [
         "LM",
-        "LW",
-        "ST"
+        "RM",
+        "RW"
       ],
-      "playStyles": [
-        2,
-        20,
-        22,
-        23,
-        24,
-        25,
-        6,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        0,
-        21
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
         127,
         128,
         129,
         130,
-        138,
-        139,
-        140,
-        141,
-        142,
-        143,
-        144
+        135,
+        136,
+        137
       ],
       "attributes": [
-        97,
-        89,
-        89,
-        94,
-        41,
-        86
+        95,
+        90,
+        90,
+        93,
+        90,
+        90
       ],
       "hasDynamicImage": true,
-      "price": 799000,
-      "resourceId": 84127801,
-      "assetId": 241721
+      "price": 11500,
+      "resourceId": 84128744,
+      "assetId": 242664
     },
     "100840299": {
       "name": "Luka Modrić",
@@ -1207,9 +1130,49 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 326000,
+      "price": 315000,
       "resourceId": 100840299,
       "assetId": 177003
+    },
+    "100905017": {
+      "name": "Rafael Leão",
+      "cardName": "Rafael Leão",
+      "originalVersionId": "103",
+      "clubId": 131681,
+      "leagueId": 31,
+      "countryId": 38,
+      "versionId": "103",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        99,
+        93,
+        92,
+        96,
+        45,
+        89
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 100905017,
+      "assetId": 241721
     },
     "117668308": {
       "name": "Christian Pulisic",
@@ -1231,7 +1194,6 @@
       ],
       "playStyles": [
         0,
-        20,
         22,
         24,
         25,
@@ -1241,6 +1203,7 @@
       ],
       "playStylesPlus": [
         11,
+        20,
         21,
         6
       ],
@@ -1266,7 +1229,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 360000,
+      "price": 264000,
       "resourceId": 117668308,
       "assetId": 227796
     }

@@ -32,7 +32,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1700,
       "resourceId": 81918,
       "assetId": 81918
     },
@@ -69,7 +69,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 3400,
       "resourceId": 228182,
       "assetId": 228182
     },
@@ -106,7 +106,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 200,
       "resourceId": 239652,
       "assetId": 239652
     },
@@ -144,7 +144,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 254252,
       "assetId": 254252
     },
@@ -325,7 +325,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 85000,
+      "price": 78000,
       "resourceId": 50554185,
       "assetId": 222537
     },
@@ -424,28 +424,27 @@
       "resourceId": 50585902,
       "assetId": 254254
     },
-    "151204275": {
+    "134427059": {
       "name": "Mohamed Salah",
       "cardName": "Mohamed Salah",
-      "originalVersionId": "94",
+      "originalVersionId": "109",
       "clubId": 111130,
       "leagueId": 78,
       "countryId": 111,
-      "versionId": "94",
-      "rating": 96,
+      "versionId": "109",
+      "rating": 97,
       "preferredFoot": "Left",
       "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
+      "skillMoves": 5,
+      "preferredPosition": "RW",
       "possiblePositions": [
         "CAM",
         "RM",
-        "RW"
+        "RW",
+        "ST"
       ],
       "playStyles": [],
-      "playStylesPlus": [
-        20
-      ],
+      "playStylesPlus": [],
       "rolesPlus": [
         123,
         124,
@@ -457,19 +456,23 @@
         134,
         135,
         136,
-        137
+        137,
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
-        95,
-        97,
-        93,
         96,
-        51,
-        85
+        97,
+        94,
+        97,
+        52,
+        88
       ],
       "hasDynamicImage": true,
-      "price": 793000,
-      "resourceId": 151204275,
+      "price": 3000000,
+      "resourceId": 134427059,
       "assetId": 209331
     }
   }

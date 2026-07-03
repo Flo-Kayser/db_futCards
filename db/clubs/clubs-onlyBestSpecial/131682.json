@@ -133,7 +133,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 30750,
       "resourceId": 50569031,
       "assetId": 237383
     },
@@ -231,7 +231,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 31000,
+      "price": 29500,
       "resourceId": 50573384,
       "assetId": 241736
     },
@@ -487,59 +487,9 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 19500,
       "resourceId": 67319270,
       "assetId": 210406
-    },
-    "67341960": {
-      "name": "Denzel Dumfries",
-      "cardName": "Denzel Dumfries",
-      "originalVersionId": "64",
-      "clubId": 131682,
-      "leagueId": 31,
-      "countryId": 34,
-      "versionId": "64",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        17,
-        21,
-        25,
-        27,
-        4,
-        9
-      ],
-      "playStylesPlus": [
-        14
-      ],
-      "rolesPlus": [
-        3,
-        4,
-        24,
-        46,
-        105,
-        106,
-        123
-      ],
-      "attributes": [
-        89,
-        75,
-        84,
-        86,
-        86,
-        89
-      ],
-      "hasDynamicImage": true,
-      "price": 42750,
-      "resourceId": 67341960,
-      "assetId": 233096
     },
     "67368429": {
       "name": "Yoan Bonny",
@@ -586,7 +536,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 48500,
+      "price": 69500,
       "resourceId": 67368429,
       "assetId": 259565
     },
@@ -641,7 +591,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 41500,
+      "price": 37250,
       "resourceId": 84112348,
       "assetId": 226268
     },
@@ -682,54 +632,48 @@
       "resourceId": 84114173,
       "assetId": 228093
     },
-    "84115317": {
-      "name": "Manuel Akanji",
-      "cardName": "Manuel Akanji",
-      "originalVersionId": "11",
+    "84119176": {
+      "name": "Denzel Dumfries",
+      "cardName": "Denzel Dumfries",
+      "originalVersionId": "109",
       "clubId": 131682,
       "leagueId": 31,
-      "countryId": 47,
-      "versionId": "11",
-      "rating": 91,
+      "countryId": 34,
+      "versionId": "109",
+      "rating": 93,
       "preferredFoot": "Right",
       "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
+      "skillMoves": 4,
+      "preferredPosition": "RB",
       "possiblePositions": [
-        "CB"
+        "RB",
+        "RM"
       ],
-      "playStyles": [
-        10,
-        15,
-        16,
-        18,
-        19,
-        28,
-        29
-      ],
-      "playStylesPlus": [
-        14,
-        17,
-        9
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
-        111,
-        112,
-        113,
-        148
+        103,
+        104,
+        105,
+        106,
+        123,
+        124,
+        125,
+        126,
+        146
       ],
       "attributes": [
-        88,
-        57,
-        81,
-        84,
+        93,
+        80,
+        90,
+        92,
         91,
-        91
+        93
       ],
       "hasDynamicImage": true,
-      "price": 29750,
-      "resourceId": 84115317,
-      "assetId": 229237
+      "price": 0,
+      "resourceId": 84119176,
+      "assetId": 233096
     },
     "100871424": {
       "name": "Hakan Çalhanoğlu",
@@ -784,9 +728,46 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 144000,
+      "price": 150000,
       "resourceId": 100871424,
       "assetId": 208128
+    },
+    "117669749": {
+      "name": "Manuel Akanji",
+      "cardName": "Manuel Akanji",
+      "originalVersionId": "109",
+      "clubId": 131682,
+      "leagueId": 31,
+      "countryId": 47,
+      "versionId": "109",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        92,
+        70,
+        84,
+        87,
+        94,
+        94
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 117669749,
+      "assetId": 229237
     },
     "117671990": {
       "name": "Lautaro Martínez",
@@ -833,7 +814,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 111000,
+      "price": 89000,
       "resourceId": 117671990,
       "assetId": 231478
     }
