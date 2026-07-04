@@ -86,7 +86,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 21250,
+    "price": 30000,
     "resourceId": 50402999,
     "assetId": 71351
   },
@@ -216,7 +216,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 118000,
+    "sbcPrice": 129050,
     "resourceId": 50509061,
     "assetId": 177413
   },
@@ -313,61 +313,9 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 38000,
+    "price": 32750,
     "resourceId": 50535134,
     "assetId": 203486
-  },
-  "50539069": {
-    "name": "Leandro Trossard",
-    "cardName": "Leandro Trossard",
-    "originalVersionId": "113",
-    "clubId": 1,
-    "leagueId": 13,
-    "countryId": 7,
-    "versionId": "113",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      11,
-      12,
-      22,
-      26
-    ],
-    "playStylesPlus": [
-      20
-    ],
-    "rolesPlus": [
-      29,
-      40,
-      41,
-      42,
-      127,
-      128,
-      130,
-      138,
-      139,
-      143
-    ],
-    "attributes": [
-      86,
-      85,
-      84,
-      88,
-      33,
-      73
-    ],
-    "hasDynamicImage": true,
-    "resourceId": 50539069,
-    "assetId": 207421
   },
   "50547982": {
     "name": "Pieter Gerkens",
@@ -409,7 +357,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 35000,
+    "price": 31500,
     "resourceId": 50547982,
     "assetId": 216334
   },
@@ -514,7 +462,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 25250,
+    "price": 24250,
     "resourceId": 50560631,
     "assetId": 228983
   },
@@ -554,7 +502,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 44750,
+    "price": 47500,
     "resourceId": 50565815,
     "assetId": 234167
   },
@@ -602,7 +550,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 79500,
+    "price": 100000,
     "resourceId": 50571458,
     "assetId": 239810
   },
@@ -658,7 +606,7 @@
       97
     ],
     "hasDynamicImage": true,
-    "price": 198000,
+    "price": 199000,
     "resourceId": 50588705,
     "assetId": 257057
   },
@@ -719,7 +667,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 16250,
+    "price": 17500,
     "resourceId": 50588926,
     "assetId": 257278
   },
@@ -768,7 +716,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 48000,
     "resourceId": 50593719,
     "assetId": 262071
   },
@@ -876,7 +824,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 51000,
     "resourceId": 50601687,
     "assetId": 270039
   },
@@ -919,7 +867,7 @@
       97
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 12500,
     "resourceId": 67311235,
     "assetId": 202371
   },
@@ -1053,7 +1001,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 50000,
+    "price": 38500,
     "resourceId": 67363667,
     "assetId": 254803
   },
@@ -1094,7 +1042,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 24500,
+    "price": 22000,
     "resourceId": 67374314,
     "assetId": 265450
   },
@@ -1131,9 +1079,77 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 301000,
+    "price": 75500,
     "resourceId": 84078585,
     "assetId": 192505
+  },
+  "84093501": {
+    "name": "Leandro Trossard",
+    "cardName": "Leandro Trossard",
+    "originalVersionId": "62",
+    "clubId": 1,
+    "leagueId": 13,
+    "countryId": 7,
+    "versionId": "62",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      12,
+      21,
+      22,
+      6,
+      7,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      20,
+      25
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      93,
+      93,
+      91,
+      95,
+      45,
+      86
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 80500,
+    "resourceId": 84093501,
+    "assetId": 207421
   },
   "84094498": {
     "name": "Yannick Carrasco",
@@ -1243,7 +1259,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 37500,
+    "price": 35000,
     "resourceId": 84117496,
     "assetId": 231416
   },
@@ -1289,7 +1305,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 11500,
+    "price": 12500,
     "resourceId": 84128744,
     "assetId": 242664
   },
@@ -1332,7 +1348,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 19500,
+    "price": 34000,
     "resourceId": 84137550,
     "assetId": 251470
   },
@@ -1382,7 +1398,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 14750,
     "resourceId": 84137563,
     "assetId": 251483
   },
@@ -1435,7 +1451,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 18500,
+    "price": 19000,
     "resourceId": 84144458,
     "assetId": 258378
   },
@@ -1471,7 +1487,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 69500,
+    "price": 92500,
     "resourceId": 100855415,
     "assetId": 192119
   },
@@ -1528,7 +1544,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 840000,
+    "price": 987000,
     "resourceId": 100856281,
     "assetId": 192985
   },
@@ -1626,7 +1642,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 1100000,
+    "price": 1030000,
     "resourceId": 117623789,
     "assetId": 183277
   }

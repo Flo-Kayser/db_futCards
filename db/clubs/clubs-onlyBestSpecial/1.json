@@ -1,58 +1,6 @@
 {
   "clubName": "Arsenal",
   "players": {
-    "50539069": {
-      "name": "Leandro Trossard",
-      "cardName": "Leandro Trossard",
-      "originalVersionId": "113",
-      "clubId": 1,
-      "leagueId": 13,
-      "countryId": 7,
-      "versionId": "113",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        11,
-        12,
-        22,
-        26
-      ],
-      "playStylesPlus": [
-        20
-      ],
-      "rolesPlus": [
-        29,
-        40,
-        41,
-        42,
-        127,
-        128,
-        130,
-        138,
-        139,
-        143
-      ],
-      "attributes": [
-        86,
-        85,
-        84,
-        88,
-        33,
-        73
-      ],
-      "hasDynamicImage": true,
-      "resourceId": 50539069,
-      "assetId": 207421
-    },
     "50563584": {
       "name": "Benjamin White",
       "cardName": "Benjamin White",
@@ -383,7 +331,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 43500,
+      "price": 43000,
       "resourceId": 67329765,
       "assetId": 220901
     },
@@ -429,7 +377,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 58000,
+      "price": 50000,
       "resourceId": 67360430,
       "assetId": 251566
     },
@@ -481,9 +429,77 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 318000,
+      "price": 330000,
       "resourceId": 67366575,
       "assetId": 257711
+    },
+    "84093501": {
+      "name": "Leandro Trossard",
+      "cardName": "Leandro Trossard",
+      "originalVersionId": "62",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 7,
+      "versionId": "62",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        12,
+        21,
+        22,
+        6,
+        7,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        25
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        93,
+        91,
+        95,
+        45,
+        86
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 80500,
+      "resourceId": 84093501,
+      "assetId": 207421
     },
     "84106981": {
       "name": "David Raya",
@@ -527,7 +543,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 44000,
       "resourceId": 84106981,
       "assetId": 220901
     },
@@ -574,7 +590,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 90000,
+      "price": 75000,
       "resourceId": 84111273,
       "assetId": 225193
     },
@@ -623,7 +639,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 448000,
+      "price": 317000,
       "resourceId": 84129795,
       "assetId": 243715
     },
@@ -671,7 +687,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 122000,
+      "price": 135000,
       "resourceId": 84142277,
       "assetId": 256197
     },
@@ -727,7 +743,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 153000,
+      "sbcPrice": 152750,
       "resourceId": 100885961,
       "assetId": 222665
     },
@@ -835,7 +851,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 2015000,
+      "price": 2047000,
       "resourceId": 100909965,
       "assetId": 246669
     },
@@ -901,7 +917,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 43500,
+      "price": 53000,
       "resourceId": 100915101,
       "assetId": 251805
     },
@@ -984,7 +1000,7 @@
         98
       ],
       "hasDynamicImage": true,
-      "price": 1020000,
+      "price": 710000,
       "resourceId": 117682163,
       "assetId": 241651
     },
@@ -1021,7 +1037,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 510000,
+      "price": 410000,
       "resourceId": 134450308,
       "assetId": 232580
     },
@@ -1106,7 +1122,7 @@
         97
       ],
       "hasDynamicImage": true,
-      "price": 900000,
+      "price": 650000,
       "resourceId": 184783754,
       "assetId": 234378
     }
