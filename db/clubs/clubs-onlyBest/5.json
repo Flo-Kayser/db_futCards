@@ -73,7 +73,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 650,
       "resourceId": 71998,
       "assetId": 71998
     },
@@ -115,7 +115,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 3000,
       "resourceId": 202652,
       "assetId": 202652
     },
@@ -192,7 +192,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 7700,
+      "price": 1000,
       "resourceId": 229942,
       "assetId": 229942
     },
@@ -500,44 +500,6 @@
       "resourceId": 259031,
       "assetId": 259031
     },
-    "259197": {
-      "name": "Nicolas Jackson",
-      "cardName": "Nicolas Jackson",
-      "originalVersionId": "1",
-      "clubId": 5,
-      "leagueId": 13,
-      "countryId": 136,
-      "versionId": "3002",
-      "rating": 80,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        20,
-        6,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42
-      ],
-      "attributes": [
-        82,
-        77,
-        69,
-        79,
-        40,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 10000,
-      "resourceId": 259197,
-      "assetId": 259197
-    },
     "259356": {
       "name": "Carney Chukwuemeka",
       "cardName": "Carney Chukwuemeka",
@@ -813,7 +775,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 273018,
       "assetId": 273018
     },
@@ -961,7 +923,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4800,
       "resourceId": 50403645,
       "assetId": 71997
     },
@@ -1149,7 +1111,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 3000,
       "resourceId": 50601143,
       "assetId": 269495
     },
@@ -1233,7 +1195,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 325000,
+      "price": 464000,
       "resourceId": 67185551,
       "assetId": 76687
     },
@@ -1294,7 +1256,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 37000,
+      "price": 43500,
       "resourceId": 67355954,
       "assetId": 247090
     },
@@ -1399,7 +1361,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 164000,
+      "price": 118000,
       "resourceId": 67377302,
       "assetId": 268438
     },
@@ -1434,7 +1396,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 300,
       "resourceId": 67384371,
       "assetId": 275507
     },
@@ -1586,7 +1548,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 19250,
       "resourceId": 84125311,
       "assetId": 239231
     },
@@ -1642,9 +1604,47 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 586000,
+      "price": 561000,
       "resourceId": 84143614,
       "assetId": 257534
+    },
+    "84145277": {
+      "name": "Nicolas Jackson",
+      "cardName": "Nicolas Jackson",
+      "originalVersionId": "109",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 136,
+      "versionId": "109",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        96,
+        94,
+        88,
+        95,
+        55,
+        93
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 103750,
+      "price": 0,
+      "resourceId": 84145277,
+      "assetId": 259197
     },
     "100915338": {
       "name": "João Pedro",
@@ -1696,7 +1696,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 19500,
       "resourceId": 100915338,
       "assetId": 252042
     },
@@ -1740,7 +1740,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 20500,
+      "price": 24500,
       "resourceId": 100919375,
       "assetId": 256079
     }
