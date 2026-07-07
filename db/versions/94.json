@@ -1,4 +1,42 @@
 {
+  "50406908": {
+    "name": "Orlando Gill",
+    "cardName": "Gill",
+    "originalVersionId": "94",
+    "clubId": 1013,
+    "leagueId": 353,
+    "countryId": 58,
+    "versionId": "94",
+    "rating": 95,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      34
+    ],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      95,
+      94,
+      93,
+      95,
+      70,
+      96
+    ],
+    "hasDynamicImage": false,
+    "price": 150000,
+    "resourceId": 50406908,
+    "assetId": 75260
+  },
   "50589048": {
     "name": "Yasin Ayari",
     "cardName": "Ayari",
@@ -41,7 +79,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 55000,
+    "price": 49250,
     "resourceId": 50589048,
     "assetId": 257400
   },
@@ -87,7 +125,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 43500,
     "resourceId": 50601067,
     "assetId": 269419
   },
@@ -126,9 +164,99 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 60000,
+    "price": 63500,
     "resourceId": 67310878,
     "assetId": 202014
+  },
+  "67325257": {
+    "name": "Youri Tielemans",
+    "cardName": "Tielemans",
+    "originalVersionId": "94",
+    "clubId": 2,
+    "leagueId": 13,
+    "countryId": 7,
+    "versionId": "94",
+    "rating": 96,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      4
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      93,
+      95,
+      96,
+      95,
+      92,
+      92
+    ],
+    "hasDynamicImage": false,
+    "price": 420000,
+    "resourceId": 67325257,
+    "assetId": 216393
+  },
+  "67340497": {
+    "name": "Issa Diop",
+    "cardName": "Diop",
+    "originalVersionId": "94",
+    "clubId": 144,
+    "leagueId": 13,
+    "countryId": 129,
+    "versionId": "94",
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      4
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      90,
+      60,
+      85,
+      83,
+      96,
+      95
+    ],
+    "hasDynamicImage": false,
+    "price": 240000,
+    "resourceId": 67340497,
+    "assetId": 231633
   },
   "67373069": {
     "name": "Nilson Angulo",
@@ -173,7 +301,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 78500,
+    "price": 84000,
     "resourceId": 67373069,
     "assetId": 264205
   },
@@ -226,7 +354,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 120000,
+    "price": 130000,
     "resourceId": 84112190,
     "assetId": 226110
   },
@@ -265,7 +393,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 195000,
+    "price": 220000,
     "resourceId": 84120904,
     "assetId": 234824
   },
@@ -311,9 +439,60 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 50500,
+    "price": 52000,
     "resourceId": 84127787,
     "assetId": 241707
+  },
+  "84128460": {
+    "name": "Stephen Eustáquio",
+    "cardName": "Stephen Eustáquio",
+    "originalVersionId": "94",
+    "clubId": 236,
+    "leagueId": 308,
+    "countryId": 70,
+    "versionId": "94",
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      2
+    ],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      148,
+      149
+    ],
+    "attributes": [
+      93,
+      90,
+      95,
+      95,
+      93,
+      92
+    ],
+    "hasDynamicImage": false,
+    "price": 82500,
+    "resourceId": 84128460,
+    "assetId": 242380
   },
   "84129710": {
     "name": "Jonathan David",
@@ -350,7 +529,7 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 191000,
+    "price": 197000,
     "resourceId": 84129710,
     "assetId": 243630
   },
@@ -389,7 +568,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 254000,
+    "price": 215000,
     "resourceId": 84137890,
     "assetId": 251810
   },
@@ -433,7 +612,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 267000,
+    "price": 160000,
     "resourceId": 100910759,
     "assetId": 247463
   },
@@ -478,7 +657,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 2150000,
+    "price": 2100000,
     "resourceId": 117692883,
     "assetId": 252371
   },
@@ -526,7 +705,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 888000,
+    "price": 1000000,
     "resourceId": 151204275,
     "assetId": 209331
   },
@@ -570,7 +749,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 159000,
+    "price": 175000,
     "resourceId": 151239120,
     "assetId": 244176
   },
@@ -609,7 +788,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 3150000,
+    "price": 3444000,
     "resourceId": 167792961,
     "assetId": 20801
   },
@@ -648,7 +827,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 1475000,
+    "price": 1465000,
     "resourceId": 168011245,
     "assetId": 239085
   },
@@ -696,7 +875,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 7999000,
+    "price": 5999000,
     "resourceId": 184781123,
     "assetId": 231747
   },
@@ -749,9 +928,57 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 2286000,
+    "price": 2295000,
     "resourceId": 201558035,
     "assetId": 231443
+  },
+  "201558339": {
+    "name": "Kylian Mbappé",
+    "cardName": "Mbappé",
+    "originalVersionId": "94",
+    "clubId": 243,
+    "leagueId": 53,
+    "countryId": 18,
+    "versionId": "94",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      20
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      99,
+      97,
+      90,
+      98,
+      55,
+      83
+    ],
+    "hasDynamicImage": false,
+    "price": 9250000,
+    "resourceId": 201558339,
+    "assetId": 231747
   },
   "218261831": {
     "name": "Lionel Messi",
@@ -802,8 +1029,47 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 1899000,
+    "price": 2197000,
     "resourceId": 218261831,
     "assetId": 158023
+  },
+  "235083150": {
+    "name": "Harry Kane",
+    "cardName": "Kane",
+    "originalVersionId": "94",
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 14,
+    "versionId": "94",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      92,
+      98,
+      93,
+      96,
+      61,
+      94
+    ],
+    "hasDynamicImage": false,
+    "price": 4601000,
+    "resourceId": 235083150,
+    "assetId": 202126
   }
 }

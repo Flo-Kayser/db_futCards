@@ -206,7 +206,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 2300,
       "resourceId": 79531,
       "assetId": 79531
     },
@@ -399,7 +399,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 5200,
+      "price": 3000,
       "resourceId": 234799,
       "assetId": 234799
     },
@@ -440,7 +440,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 5500,
+      "price": 8100,
       "resourceId": 244309,
       "assetId": 244309
     },
@@ -674,7 +674,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 5400,
+      "price": 2000,
       "resourceId": 267465,
       "assetId": 267465
     },
@@ -891,7 +891,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50411179,
       "assetId": 79531
     },
@@ -935,57 +935,6 @@
       "resourceId": 50568846,
       "assetId": 237198
     },
-    "50574562": {
-      "name": "Keito Nakamura",
-      "cardName": "Nakamura",
-      "originalVersionId": "68",
-      "clubId": 379,
-      "leagueId": 17,
-      "countryId": 163,
-      "versionId": "68",
-      "rating": 91,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        0,
-        13,
-        21,
-        22,
-        23,
-        6,
-        7
-      ],
-      "playStylesPlus": [
-        20,
-        25
-      ],
-      "rolesPlus": [
-        28,
-        29,
-        40,
-        127,
-        130,
-        138,
-        139
-      ],
-      "attributes": [
-        91,
-        90,
-        88,
-        91,
-        56,
-        90
-      ],
-      "hasDynamicImage": true,
-      "resourceId": 50574562,
-      "assetId": 242914
-    },
     "50589844": {
       "name": "Yassine Benhattab",
       "cardName": "Benhattab",
@@ -1020,7 +969,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50589844,
       "assetId": 258196
     },
@@ -1135,6 +1084,47 @@
       "price": 200,
       "resourceId": 50604578,
       "assetId": 272930
+    },
+    "67351778": {
+      "name": "Keito Nakamura",
+      "cardName": "Nakamura",
+      "originalVersionId": "98",
+      "clubId": 379,
+      "leagueId": 17,
+      "countryId": 163,
+      "versionId": "98",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        95,
+        94,
+        92,
+        94,
+        60,
+        93
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 42900,
+      "resourceId": 67351778,
+      "assetId": 242914
     }
   }
 }
