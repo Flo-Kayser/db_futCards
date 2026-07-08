@@ -388,7 +388,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 550,
       "resourceId": 234875,
       "assetId": 234875
     },
@@ -501,7 +501,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 3400,
       "resourceId": 257877,
       "assetId": 257877
     },
@@ -543,7 +543,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 1100,
       "resourceId": 258316,
       "assetId": 258316
     },
@@ -623,7 +623,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 3000,
       "resourceId": 259750,
       "assetId": 259750
     },
@@ -826,46 +826,6 @@
       "resourceId": 269705,
       "assetId": 269705
     },
-    "276694": {
-      "name": "Johan Manzambi",
-      "cardName": "Manzambi",
-      "originalVersionId": "0",
-      "clubId": 25,
-      "leagueId": 19,
-      "countryId": 47,
-      "versionId": "2001",
-      "rating": 67,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        22,
-        32,
-        33
-      ],
-      "attributes": [
-        75,
-        61,
-        59,
-        72,
-        56,
-        62
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 276694,
-      "assetId": 276694
-    },
     "279045": {
       "name": "Bruno Ogbus",
       "cardName": "Ogbus",
@@ -897,7 +857,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 600,
       "resourceId": 279045,
       "assetId": 279045
     },
@@ -940,7 +900,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 28000,
+      "price": 33750,
       "resourceId": 50539510,
       "assetId": 207862
     },
@@ -1055,7 +1015,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 15500,
       "resourceId": 50586833,
       "assetId": 255185
     },
@@ -1165,7 +1125,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 20750,
       "resourceId": 67318710,
       "assetId": 209846
     },
@@ -1226,6 +1186,55 @@
       "sbcPrice": 17750,
       "resourceId": 67320960,
       "assetId": 212096
+    },
+    "67385558": {
+      "name": "Johan Manzambi",
+      "cardName": "Manzambi",
+      "originalVersionId": "109",
+      "clubId": 25,
+      "leagueId": 19,
+      "countryId": 47,
+      "versionId": "109",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        95,
+        93,
+        94,
+        80,
+        90
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 58000,
+      "price": 0,
+      "resourceId": 67385558,
+      "assetId": 276694
     }
   }
 }
