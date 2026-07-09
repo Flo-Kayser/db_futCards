@@ -367,50 +367,6 @@
       "resourceId": 50563584,
       "assetId": 231936
     },
-    "50579796": {
-      "name": "Zubimendi",
-      "cardName": "Zubimendi",
-      "originalVersionId": "150",
-      "clubId": 1,
-      "leagueId": 13,
-      "countryId": 45,
-      "versionId": "150",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        13,
-        16,
-        19,
-        6
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        14,
-        17,
-        21,
-        116,
-        120
-      ],
-      "attributes": [
-        75,
-        70,
-        83,
-        83,
-        86,
-        76
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 86750,
-      "resourceId": 50579796,
-      "assetId": 248148
-    },
     "50583214": {
       "name": "Gabriel Martinelli",
       "cardName": "Gabriel Martinelli",
@@ -605,52 +561,6 @@
       "resourceId": 50610421,
       "assetId": 278773
     },
-    "67329765": {
-      "name": "David Raya",
-      "cardName": "David Raya",
-      "originalVersionId": "20",
-      "clubId": 1,
-      "leagueId": 13,
-      "countryId": 45,
-      "versionId": "20",
-      "rating": 93,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        10,
-        30,
-        31,
-        32,
-        33
-      ],
-      "playStylesPlus": [
-        34,
-        35,
-        9
-      ],
-      "rolesPlus": [
-        101,
-        102,
-        145
-      ],
-      "attributes": [
-        92,
-        91,
-        93,
-        94,
-        81,
-        91
-      ],
-      "hasDynamicImage": true,
-      "price": 57000,
-      "resourceId": 67329765,
-      "assetId": 220901
-    },
     "67360430": {
       "name": "Gabriel Martinelli",
       "cardName": "Gabriel Martinelli",
@@ -693,7 +603,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 70000,
+      "price": 81500,
       "resourceId": 67360430,
       "assetId": 251566
     },
@@ -745,7 +655,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 557000,
+      "price": 410000,
       "resourceId": 67366575,
       "assetId": 257711
     },
@@ -817,52 +727,6 @@
       "resourceId": 84093501,
       "assetId": 207421
     },
-    "84106981": {
-      "name": "David Raya",
-      "cardName": "David Raya",
-      "originalVersionId": "11",
-      "clubId": 1,
-      "leagueId": 13,
-      "countryId": 45,
-      "versionId": "11",
-      "rating": 93,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        30,
-        33,
-        34,
-        35,
-        9
-      ],
-      "playStylesPlus": [
-        10,
-        31,
-        32
-      ],
-      "rolesPlus": [
-        101,
-        102,
-        145
-      ],
-      "attributes": [
-        92,
-        92,
-        93,
-        94,
-        82,
-        91
-      ],
-      "hasDynamicImage": true,
-      "price": 35000,
-      "resourceId": 84106981,
-      "assetId": 220901
-    },
     "84111273": {
       "name": "Mikel Merino",
       "cardName": "Mikel Merino",
@@ -906,7 +770,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 130000,
+      "price": 155000,
       "resourceId": 84111273,
       "assetId": 225193
     },
@@ -955,9 +819,52 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 330000,
+      "price": 315000,
       "resourceId": 84129795,
       "assetId": 243715
+    },
+    "84134228": {
+      "name": "Zubimendi",
+      "cardName": "Zubimendi",
+      "originalVersionId": "98",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 45,
+      "versionId": "98",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        90,
+        90,
+        96,
+        96,
+        91,
+        91
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 84134228,
+      "assetId": 248148
     },
     "84142277": {
       "name": "Piero Hincapié",
@@ -1003,7 +910,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 159000,
+      "price": 152000,
       "resourceId": 84142277,
       "assetId": 256197
     },
@@ -1167,7 +1074,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 2511000,
+      "price": 2600000,
       "resourceId": 100909965,
       "assetId": 246669
     },
@@ -1233,7 +1140,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 59500,
+      "price": 69000,
       "resourceId": 100915101,
       "assetId": 251805
     },
@@ -1316,9 +1223,44 @@
         98
       ],
       "hasDynamicImage": true,
-      "price": 415000,
+      "price": 390000,
       "resourceId": 117682163,
       "assetId": 241651
+    },
+    "134438629": {
+      "name": "David Raya",
+      "cardName": "David Raya",
+      "originalVersionId": "98",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 45,
+      "versionId": "98",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        93,
+        93,
+        94,
+        95,
+        85,
+        92
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 134438629,
+      "assetId": 220901
     },
     "134450308": {
       "name": "Gabriel",
@@ -1353,7 +1295,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 216000,
+      "price": 228000,
       "resourceId": 134450308,
       "assetId": 232580
     },
@@ -1438,7 +1380,7 @@
         97
       ],
       "hasDynamicImage": true,
-      "price": 400000,
+      "price": 390000,
       "resourceId": 184783754,
       "assetId": 234378
     }

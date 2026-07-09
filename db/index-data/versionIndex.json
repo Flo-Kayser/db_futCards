@@ -117,6 +117,11 @@
         "tertiaryColor": "#94792e"
       }
     },
+    "16": {
+      "count": 3,
+      "file": "db/versions/16.json",
+      "details": null
+    },
     "18": {
       "count": 1,
       "file": "db/versions/18.json",
@@ -742,7 +747,7 @@
       }
     },
     "94": {
-      "count": 24,
+      "count": 29,
       "file": "db/versions/94.json",
       "details": {
         "name": "Festival of Football: Star Performer",
@@ -781,7 +786,7 @@
       }
     },
     "98": {
-      "count": 116,
+      "count": 125,
       "file": "db/versions/98.json",
       "details": {
         "name": "Festival of Football: National Pride",
@@ -794,7 +799,7 @@
       }
     },
     "103": {
-      "count": 15,
+      "count": 17,
       "file": "db/versions/103.json",
       "details": {
         "name": "Festival of Football: National Pride Red",
@@ -846,7 +851,7 @@
       }
     },
     "109": {
-      "count": 89,
+      "count": 90,
       "file": "db/versions/109.json",
       "details": {
         "name": "Festival of Football: Glory Hunters",
@@ -1040,6 +1045,32 @@
         "tertiaryColor": "#cf009b"
       }
     },
+    "137": {
+      "count": 2,
+      "file": "db/versions/137.json",
+      "details": {
+        "name": "Festival of Football: Phenoms",
+        "hasStrip": true,
+        "createdAt": "2026-07-08T16:15:00.545Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_137_0.png",
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#360e5f",
+        "tertiaryColor": "#07f468"
+      }
+    },
+    "139": {
+      "count": 3,
+      "file": "db/versions/139.json",
+      "details": {
+        "name": "FUTTIES ICON",
+        "hasStrip": true,
+        "createdAt": "2026-07-08T16:00:00.524Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_139_0.png",
+        "primaryColor": "#54462b",
+        "secondaryColor": "#dbdbdb",
+        "tertiaryColor": "#94792e"
+      }
+    },
     "148": {
       "count": 17,
       "file": "db/versions/148.json",
@@ -1090,6 +1121,19 @@
         "primaryColor": "#fff1d7",
         "secondaryColor": "#673486",
         "tertiaryColor": "#cf94bc"
+      }
+    },
+    "154": {
+      "count": 1,
+      "file": "db/versions/154.json",
+      "details": {
+        "name": "FUTTIES Hero",
+        "hasStrip": true,
+        "createdAt": "2026-07-08T16:00:00.525Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_154_0.png",
+        "primaryColor": "#feffda",
+        "secondaryColor": "#e22e61",
+        "tertiaryColor": "#ff956d"
       }
     },
     "155": {
@@ -1276,8 +1320,8 @@
     }
   },
   "meta": {
-    "totalVersions": 98,
-    "totalVersionsWithoutBase": 92,
-    "updatedAt": "2026-07-08T18:40:34.729Z"
+    "totalVersions": 102,
+    "totalVersionsWithoutBase": 96,
+    "updatedAt": "2026-07-09T18:58:42.088Z"
   }
 }

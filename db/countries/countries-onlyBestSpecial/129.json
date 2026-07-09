@@ -38,7 +38,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 59000,
+    "price": 54000,
     "resourceId": 50404840,
     "assetId": 73192
   },
@@ -185,7 +185,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 2765000,
+    "price": 2800000,
     "resourceId": 50566860,
     "assetId": 235212
   },
@@ -227,7 +227,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 35000,
+    "price": 34750,
     "resourceId": 50567538,
     "assetId": 235890
   },
@@ -343,7 +343,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 37750,
+    "price": 41250,
     "resourceId": 50586871,
     "assetId": 255223
   },
@@ -392,7 +392,7 @@
       97
     ],
     "hasDynamicImage": true,
-    "price": 811000,
+    "price": 790000,
     "resourceId": 50590138,
     "assetId": 258490
   },
@@ -440,7 +440,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 39750,
+    "price": 118000,
     "resourceId": 50590401,
     "assetId": 258753
   },
@@ -489,7 +489,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 50000,
+    "price": 56000,
     "resourceId": 50592491,
     "assetId": 260843
   },
@@ -540,7 +540,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 37500,
+    "price": 38500,
     "resourceId": 50593948,
     "assetId": 262300
   },
@@ -830,7 +830,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 31000,
+    "price": 32500,
     "resourceId": 67318845,
     "assetId": 209981
   },
@@ -891,7 +891,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 75000,
+    "price": 74000,
     "resourceId": 67333022,
     "assetId": 224158
   },
@@ -955,7 +955,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 265000,
+    "price": 238000,
     "resourceId": 67340274,
     "assetId": 231410
   },
@@ -993,8 +993,8 @@
       96,
       95
     ],
-    "hasDynamicImage": false,
-    "price": 148000,
+    "hasDynamicImage": true,
+    "price": 110000,
     "resourceId": 67340497,
     "assetId": 231633
   },
@@ -1246,7 +1246,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 27000,
     "resourceId": 67355824,
     "assetId": 246960
   },
@@ -1298,7 +1298,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 13250,
     "resourceId": 67366368,
     "assetId": 257504
   },
@@ -1461,52 +1461,9 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 30500,
+    "price": 32500,
     "resourceId": 67374442,
     "assetId": 265578
-  },
-  "84141205": {
-    "name": "Azzedine Ounahi",
-    "cardName": "Ounahi",
-    "originalVersionId": "109",
-    "clubId": 110062,
-    "leagueId": 53,
-    "countryId": 129,
-    "versionId": "109",
-    "rating": 93,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      118,
-      119,
-      120,
-      121,
-      122,
-      131,
-      132,
-      133,
-      134
-    ],
-    "attributes": [
-      92,
-      94,
-      95,
-      96,
-      88,
-      84
-    ],
-    "hasDynamicImage": true,
-    "price": 25250,
-    "resourceId": 84141205,
-    "assetId": 255125
   },
   "84161128": {
     "name": "Chemsdine Talbi",
@@ -1552,5 +1509,50 @@
     "hasDynamicImage": true,
     "resourceId": 84161128,
     "assetId": 275048
+  },
+  "100918421": {
+    "name": "Azzedine Ounahi",
+    "cardName": "Ounahi",
+    "originalVersionId": "94",
+    "clubId": 110062,
+    "leagueId": 53,
+    "countryId": 129,
+    "versionId": "94",
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134
+    ],
+    "attributes": [
+      93,
+      95,
+      96,
+      97,
+      90,
+      86
+    ],
+    "hasDynamicImage": false,
+    "price": 580000,
+    "resourceId": 100918421,
+    "assetId": 255125
   }
 }

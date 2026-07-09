@@ -151,7 +151,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 37500,
+      "price": 45000,
       "resourceId": 50583792,
       "assetId": 252144
     },
@@ -198,7 +198,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 108000,
+      "price": 99000,
       "resourceId": 50588827,
       "assetId": 257179
     },
@@ -249,7 +249,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 61500,
+      "price": 69500,
       "resourceId": 50610692,
       "assetId": 279044
     },
@@ -414,68 +414,9 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 45000,
+      "price": 55000,
       "resourceId": 67354022,
       "assetId": 245158
-    },
-    "67363681": {
-      "name": "Maximiliano Araújo",
-      "cardName": "Araújo",
-      "originalVersionId": "11",
-      "clubId": 237,
-      "leagueId": 308,
-      "countryId": 60,
-      "versionId": "11",
-      "rating": 93,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        11,
-        14,
-        16,
-        21,
-        28,
-        6,
-        8
-      ],
-      "playStylesPlus": [
-        18,
-        20,
-        25
-      ],
-      "rolesPlus": [
-        29,
-        40,
-        107,
-        108,
-        109,
-        110,
-        127,
-        128,
-        130,
-        138,
-        139,
-        147
-      ],
-      "attributes": [
-        95,
-        87,
-        89,
-        93,
-        90,
-        91
-      ],
-      "hasDynamicImage": true,
-      "price": 19000,
-      "resourceId": 67363681,
-      "assetId": 254817
     },
     "67379395": {
       "name": "Ousmane Diomande",
@@ -584,9 +525,55 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 23000,
+      "price": 26750,
       "resourceId": 84130858,
       "assetId": 244778
+    },
+    "84140897": {
+      "name": "Maximiliano Araújo",
+      "cardName": "Araújo",
+      "originalVersionId": "98",
+      "clubId": 237,
+      "leagueId": 308,
+      "countryId": 60,
+      "versionId": "98",
+      "rating": 95,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        147
+      ],
+      "attributes": [
+        96,
+        90,
+        91,
+        94,
+        91,
+        93
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 84140897,
+      "assetId": 254817
     }
   }
 }

@@ -32,8 +32,8 @@
       70,
       96
     ],
-    "hasDynamicImage": false,
-    "price": 98000,
+    "hasDynamicImage": true,
+    "price": 106000,
     "resourceId": 50406908,
     "assetId": 75260
   },
@@ -79,7 +79,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 59000,
+    "price": 66000,
     "resourceId": 50589048,
     "assetId": 257400
   },
@@ -125,7 +125,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 41000,
+    "price": 40000,
     "resourceId": 50601067,
     "assetId": 269419
   },
@@ -164,7 +164,7 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 55000,
+    "price": 52000,
     "resourceId": 67310878,
     "assetId": 202014
   },
@@ -214,8 +214,8 @@
       92,
       92
     ],
-    "hasDynamicImage": false,
-    "price": 225000,
+    "hasDynamicImage": true,
+    "price": 288000,
     "resourceId": 67325257,
     "assetId": 216393
   },
@@ -253,8 +253,8 @@
       96,
       95
     ],
-    "hasDynamicImage": false,
-    "price": 148000,
+    "hasDynamicImage": true,
+    "price": 110000,
     "resourceId": 67340497,
     "assetId": 231633
   },
@@ -301,7 +301,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 85000,
+    "price": 84500,
     "resourceId": 67373069,
     "assetId": 264205
   },
@@ -354,7 +354,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 131000,
+    "price": 128000,
     "resourceId": 84112190,
     "assetId": 226110
   },
@@ -393,7 +393,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 230000,
+    "price": 199000,
     "resourceId": 84120904,
     "assetId": 234824
   },
@@ -439,7 +439,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 68000,
+    "price": 78500,
     "resourceId": 84127787,
     "assetId": 241707
   },
@@ -489,8 +489,8 @@
       93,
       92
     ],
-    "hasDynamicImage": false,
-    "price": 58500,
+    "hasDynamicImage": true,
+    "price": 63000,
     "resourceId": 84128460,
     "assetId": 242380
   },
@@ -529,7 +529,7 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 205000,
+    "price": 160000,
     "resourceId": 84129710,
     "assetId": 243630
   },
@@ -568,9 +568,60 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 205000,
+    "price": 190000,
     "resourceId": 84137890,
     "assetId": 251810
+  },
+  "100910386": {
+    "name": "Enzo Fernández",
+    "cardName": "Fernández",
+    "originalVersionId": "94",
+    "clubId": 5,
+    "leagueId": 13,
+    "countryId": 52,
+    "versionId": "94",
+    "rating": 96,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      26
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      93,
+      91,
+      98,
+      97,
+      89,
+      91
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 100910386,
+    "assetId": 247090
   },
   "100910759": {
     "name": "Folarin Balogun",
@@ -612,9 +663,104 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 177000,
+    "price": 173000,
     "resourceId": 100910759,
     "assetId": 247463
+  },
+  "100914766": {
+    "name": "Charles De Ketelaere",
+    "cardName": "De Ketelaere",
+    "originalVersionId": "94",
+    "clubId": 115845,
+    "leagueId": 31,
+    "countryId": 7,
+    "versionId": "94",
+    "rating": 95,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      4
+    ],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      94,
+      95,
+      94,
+      96,
+      70,
+      85
+    ],
+    "hasDynamicImage": false,
+    "price": 149000,
+    "resourceId": 100914766,
+    "assetId": 251470
+  },
+  "100918421": {
+    "name": "Azzedine Ounahi",
+    "cardName": "Ounahi",
+    "originalVersionId": "94",
+    "clubId": 110062,
+    "leagueId": 53,
+    "countryId": 129,
+    "versionId": "94",
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      0
+    ],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134
+    ],
+    "attributes": [
+      93,
+      95,
+      96,
+      97,
+      90,
+      86
+    ],
+    "hasDynamicImage": false,
+    "price": 580000,
+    "resourceId": 100918421,
+    "assetId": 255125
   },
   "117692883": {
     "name": "Jude Bellingham",
@@ -657,8 +803,53 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 2040000,
+    "price": 1771000,
     "resourceId": 117692883,
+    "assetId": 252371
+  },
+  "134470099": {
+    "name": "Jude Bellingham",
+    "cardName": "Bellingham",
+    "originalVersionId": "94",
+    "clubId": 243,
+    "leagueId": 53,
+    "countryId": 14,
+    "versionId": "94",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      16
+    ],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134
+    ],
+    "attributes": [
+      93,
+      95,
+      93,
+      97,
+      93,
+      95
+    ],
+    "hasDynamicImage": false,
+    "price": 5600000,
+    "resourceId": 134470099,
     "assetId": 252371
   },
   "151204275": {
@@ -705,7 +896,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 900000,
+    "price": 755000,
     "resourceId": 151204275,
     "assetId": 209331
   },
@@ -749,7 +940,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 165000,
+    "price": 167000,
     "resourceId": 151239120,
     "assetId": 244176
   },
@@ -788,7 +979,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 3700000,
+    "price": 3300000,
     "resourceId": 167792961,
     "assetId": 20801
   },
@@ -827,7 +1018,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 1670000,
+    "price": 1150000,
     "resourceId": 168011245,
     "assetId": 239085
   },
@@ -875,7 +1066,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 4655000,
+    "price": 4430000,
     "resourceId": 184781123,
     "assetId": 231747
   },
@@ -928,7 +1119,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 2071000,
+    "price": 2120000,
     "resourceId": 201558035,
     "assetId": 231443
   },
@@ -975,10 +1166,46 @@
       55,
       83
     ],
-    "hasDynamicImage": false,
-    "price": 5650000,
+    "hasDynamicImage": true,
+    "price": 5200000,
     "resourceId": 201558339,
     "assetId": 231747
+  },
+  "201565677": {
+    "name": "Erling Haaland",
+    "cardName": "Haaland",
+    "originalVersionId": "94",
+    "clubId": 10,
+    "leagueId": 13,
+    "countryId": 36,
+    "versionId": "94",
+    "rating": 97,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      6
+    ],
+    "rolesPlus": [
+      141
+    ],
+    "attributes": [
+      97,
+      98,
+      89,
+      92,
+      56,
+      95
+    ],
+    "hasDynamicImage": false,
+    "price": 3811000,
+    "resourceId": 201565677,
+    "assetId": 239085
   },
   "218261831": {
     "name": "Lionel Messi",
@@ -1029,7 +1256,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 2165000,
+    "price": 2200000,
     "resourceId": 218261831,
     "assetId": 158023
   },
@@ -1067,8 +1294,8 @@
       61,
       94
     ],
-    "hasDynamicImage": false,
-    "price": 1980000,
+    "hasDynamicImage": true,
+    "price": 1995000,
     "resourceId": 235083150,
     "assetId": 202126
   }

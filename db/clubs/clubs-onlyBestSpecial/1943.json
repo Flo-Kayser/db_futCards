@@ -99,7 +99,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 31000,
+      "price": 49000,
       "resourceId": 50545532,
       "assetId": 213884
     },
@@ -147,7 +147,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 15000,
+      "price": 17000,
       "resourceId": 50551844,
       "assetId": 220196
     },
@@ -227,7 +227,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 29500,
+      "price": 28000,
       "resourceId": 50568154,
       "assetId": 236506
     },
@@ -432,60 +432,9 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 37750,
+      "price": 41250,
       "resourceId": 50586871,
       "assetId": 255223
-    },
-    "50609557": {
-      "name": "Eli Junior Kroupi",
-      "cardName": "Kroupi",
-      "originalVersionId": "71",
-      "clubId": 1943,
-      "leagueId": 13,
-      "countryId": 18,
-      "versionId": "71",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        22,
-        25,
-        26,
-        6,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        0,
-        20
-      ],
-      "rolesPlus": [
-        33,
-        34,
-        41,
-        131,
-        132,
-        142,
-        143
-      ],
-      "attributes": [
-        92,
-        88,
-        85,
-        90,
-        62,
-        70
-      ],
-      "hasDynamicImage": true,
-      "price": 49750,
-      "resourceId": 50609557,
-      "assetId": 277909
     },
     "67350100": {
       "name": "Antoine Semenyo",
@@ -589,6 +538,42 @@
       "hasDynamicImage": true,
       "resourceId": 67387792,
       "assetId": 278928
+    },
+    "84163989": {
+      "name": "Eli Junior Kroupi",
+      "cardName": "Kroupi",
+      "originalVersionId": "16",
+      "clubId": 1943,
+      "leagueId": 13,
+      "countryId": 18,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        97,
+        97,
+        91,
+        94,
+        71,
+        84
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 84163989,
+      "assetId": 277909
     }
   }
 }

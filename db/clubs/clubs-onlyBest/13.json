@@ -103,7 +103,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 6400,
+      "price": 3700,
       "resourceId": 203487,
       "assetId": 203487
     },
@@ -221,7 +221,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 210047,
       "assetId": 210047
     },
@@ -447,7 +447,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 400,
       "resourceId": 251809,
       "assetId": 251809
     },
@@ -557,7 +557,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 270617,
       "assetId": 270617
     },
@@ -656,7 +656,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 268000,
+      "price": 270000,
       "resourceId": 50529680,
       "assetId": 198032
     },
@@ -780,7 +780,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 33250,
+      "price": 48000,
       "resourceId": 50587909,
       "assetId": 256261
     },
@@ -873,7 +873,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 34000,
+      "price": 39750,
       "resourceId": 67343606,
       "assetId": 234742
     },
@@ -929,7 +929,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 589000,
+      "price": 572000,
       "resourceId": 67351828,
       "assetId": 242964
     },
@@ -983,7 +983,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 40000,
+      "price": 31000,
       "resourceId": 67366334,
       "assetId": 257470
     },
@@ -1106,7 +1106,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 23000,
+      "price": 45000,
       "resourceId": 67383110,
       "assetId": 274246
     },
@@ -1145,7 +1145,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 230000,
+      "price": 199000,
       "resourceId": 84120904,
       "assetId": 234824
     },
@@ -1199,59 +1199,9 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 148000,
+      "price": 160000,
       "resourceId": 84127176,
       "assetId": 241096
-    },
-    "84140102": {
-      "name": "Nick Woltemade",
-      "cardName": "Woltemade",
-      "originalVersionId": "71",
-      "clubId": 13,
-      "leagueId": 13,
-      "countryId": 21,
-      "versionId": "71",
-      "rating": 90,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        20,
-        25,
-        29,
-        4,
-        7
-      ],
-      "playStylesPlus": [
-        11,
-        6
-      ],
-      "rolesPlus": [
-        31,
-        41,
-        42,
-        132,
-        143,
-        144
-      ],
-      "attributes": [
-        87,
-        92,
-        85,
-        92,
-        51,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 131000,
-      "resourceId": 84140102,
-      "assetId": 254022
     },
     "84152207": {
       "name": "Lewis Hall",
@@ -1343,9 +1293,51 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 85000,
+      "price": 98000,
       "resourceId": 100911147,
       "assetId": 247851
+    },
+    "100917318": {
+      "name": "Nick Woltemade",
+      "cardName": "Woltemade",
+      "originalVersionId": "109",
+      "clubId": 13,
+      "leagueId": 13,
+      "countryId": 21,
+      "versionId": "109",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        91,
+        96,
+        90,
+        95,
+        55,
+        92
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 56250,
+      "resourceId": 100917318,
+      "assetId": 254022
     }
   }
 }
