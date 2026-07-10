@@ -613,7 +613,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 255208,
       "assetId": 255208
     },
@@ -723,40 +723,6 @@
       "price": 200,
       "resourceId": 264065,
       "assetId": 264065
-    },
-    "267599": {
-      "name": "Patrick Beach",
-      "cardName": "Beach",
-      "originalVersionId": "0",
-      "clubId": 112224,
-      "leagueId": 351,
-      "countryId": 195,
-      "versionId": "2001",
-      "rating": 65,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        45
-      ],
-      "attributes": [
-        68,
-        62,
-        64,
-        71,
-        31,
-        62
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 267599,
-      "assetId": 267599
     },
     "274526": {
       "name": "Emin Durakovic",
@@ -906,6 +872,52 @@
       "price": 350,
       "resourceId": 50577655,
       "assetId": 246007
+    },
+    "50599247": {
+      "name": "Patrick Beach",
+      "cardName": "Beach",
+      "originalVersionId": "137",
+      "clubId": 112224,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "137",
+      "rating": 93,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        30,
+        31,
+        34,
+        35
+      ],
+      "playStylesPlus": [
+        32,
+        33,
+        9
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        94,
+        90,
+        92,
+        95,
+        80,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 11750,
+      "resourceId": 50599247,
+      "assetId": 267599
     },
     "67382394": {
       "name": "Marcus Younis",

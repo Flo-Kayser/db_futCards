@@ -44,60 +44,6 @@
       "resourceId": 50560437,
       "assetId": 228789
     },
-    "67368171": {
-      "name": "Malo Gusto",
-      "cardName": "Gusto",
-      "originalVersionId": "58",
-      "clubId": 5,
-      "leagueId": 13,
-      "countryId": 18,
-      "versionId": "58",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        10,
-        15,
-        16,
-        18,
-        20,
-        28,
-        8
-      ],
-      "playStylesPlus": [
-        14,
-        21
-      ],
-      "rolesPlus": [
-        4,
-        23,
-        25,
-        26,
-        103,
-        105,
-        106,
-        124
-      ],
-      "attributes": [
-        92,
-        70,
-        87,
-        88,
-        85,
-        85
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 136750,
-      "price": 92150,
-      "resourceId": 67368171,
-      "assetId": 259307
-    },
     "67377302": {
       "name": "Alejandro Garnacho",
       "cardName": "Garnacho",
@@ -145,7 +91,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 170000,
+      "price": 150000,
       "resourceId": 67377302,
       "assetId": 268438
     },
@@ -342,7 +288,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 24000,
       "resourceId": 84125311,
       "assetId": 239231
     },
@@ -398,7 +344,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 926000,
+      "price": 771000,
       "resourceId": 84143614,
       "assetId": 257534
     },
@@ -435,10 +381,66 @@
         93
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 99750,
+      "sbcPrice": 108500,
       "price": 0,
       "resourceId": 84145277,
       "assetId": 259197
+    },
+    "84145387": {
+      "name": "Malo Gusto",
+      "cardName": "Gusto",
+      "originalVersionId": "137",
+      "clubId": 5,
+      "leagueId": 13,
+      "countryId": 18,
+      "versionId": "137",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        14,
+        15,
+        17,
+        18,
+        28,
+        8
+      ],
+      "playStylesPlus": [
+        12,
+        16,
+        25,
+        9
+      ],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        123,
+        124,
+        125,
+        126,
+        146
+      ],
+      "attributes": [
+        95,
+        82,
+        93,
+        95,
+        93,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 84145387,
+      "assetId": 259307
     },
     "100910386": {
       "name": "Enzo Fernández",
@@ -486,8 +488,8 @@
         89,
         91
       ],
-      "hasDynamicImage": false,
-      "price": 0,
+      "hasDynamicImage": true,
+      "price": 285000,
       "resourceId": 100910386,
       "assetId": 247090
     },
@@ -541,7 +543,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 21500,
+      "price": 21750,
       "resourceId": 100915338,
       "assetId": 252042
     },
@@ -585,7 +587,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 24250,
+      "price": 21750,
       "resourceId": 100919375,
       "assetId": 256079
     }

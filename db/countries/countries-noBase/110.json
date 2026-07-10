@@ -43,7 +43,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 38500,
+    "price": 38250,
     "resourceId": 50408698,
     "assetId": 77050
   },
@@ -89,7 +89,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 23500,
+    "price": 31500,
     "resourceId": 50530599,
     "assetId": 198951
   },
@@ -179,7 +179,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 33500,
+    "price": 45000,
     "resourceId": 50561528,
     "assetId": 229880
   },
@@ -305,6 +305,68 @@
     "resourceId": 50571999,
     "assetId": 240351
   },
+  "50600878": {
+    "name": "Noah Sadiki",
+    "cardName": "Sadiki",
+    "originalVersionId": "137",
+    "clubId": 106,
+    "leagueId": 13,
+    "countryId": 110,
+    "versionId": "137",
+    "rating": 93,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      10,
+      20,
+      21,
+      22,
+      24,
+      6,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      11,
+      16,
+      28
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      95,
+      88,
+      90,
+      93,
+      88,
+      94
+    ],
+    "hasDynamicImage": true,
+    "price": 12250,
+    "resourceId": 50600878,
+    "assetId": 269230
+  },
   "67185914": {
     "name": "Merveille Kanjinga",
     "cardName": "Kanjinga",
@@ -355,9 +417,45 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 83500,
+    "price": 90000,
     "resourceId": 67185914,
     "assetId": 77050
+  },
+  "67319761": {
+    "name": "Chancel Mbemba",
+    "cardName": "Mbemba",
+    "originalVersionId": "98",
+    "clubId": 111545,
+    "leagueId": 78,
+    "countryId": 110,
+    "versionId": "98",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 3,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      111,
+      112,
+      113,
+      148
+    ],
+    "attributes": [
+      88,
+      74,
+      84,
+      87,
+      93,
+      96
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67319761,
+    "assetId": 210897
   },
   "67338744": {
     "name": "Aaron Wan-Bissaka",
@@ -461,7 +559,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 22000,
     "resourceId": 67343688,
     "assetId": 234824
   },
@@ -541,7 +639,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 199000,
+    "price": 201000,
     "resourceId": 84120904,
     "assetId": 234824
   },

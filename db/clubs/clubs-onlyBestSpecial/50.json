@@ -1,46 +1,6 @@
 {
   "clubName": "Parma",
   "players": {
-    "50587629": {
-      "name": "Zion Suzuki",
-      "cardName": "Suzuki",
-      "originalVersionId": "22",
-      "clubId": 50,
-      "leagueId": 31,
-      "countryId": 163,
-      "versionId": "22",
-      "rating": 84,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 1,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        10,
-        32,
-        34,
-        35
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        45,
-        101
-      ],
-      "attributes": [
-        84,
-        82,
-        82,
-        86,
-        70,
-        83
-      ],
-      "hasDynamicImage": true,
-      "price": 109000,
-      "resourceId": 50587629,
-      "assetId": 255981
-    },
     "50589620": {
       "name": "Oliver Sørensen",
       "cardName": "Sørensen",
@@ -82,7 +42,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 42000,
+      "price": 43000,
       "resourceId": 50589620,
       "assetId": 257972
     },
@@ -127,9 +87,55 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 34000,
+      "price": 35000,
       "resourceId": 50610084,
       "assetId": 278436
+    },
+    "67364845": {
+      "name": "Zion Suzuki",
+      "cardName": "Suzuki",
+      "originalVersionId": "137",
+      "clubId": 50,
+      "leagueId": 31,
+      "countryId": 163,
+      "versionId": "137",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31,
+        33,
+        35,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        32,
+        34
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        95,
+        93,
+        93,
+        97,
+        85,
+        94
+      ],
+      "hasDynamicImage": true,
+      "price": 15250,
+      "resourceId": 67364845,
+      "assetId": 255981
     }
   }
 }

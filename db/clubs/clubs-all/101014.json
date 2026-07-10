@@ -67,7 +67,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 10000,
       "resourceId": 80304,
       "assetId": 80304
     },
@@ -221,7 +221,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 215531,
       "assetId": 215531
     },
@@ -342,7 +342,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 8200,
       "resourceId": 230857,
       "assetId": 230857
     },
@@ -963,7 +963,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 3000,
       "resourceId": 275624,
       "assetId": 275624
     },
@@ -1011,9 +1011,45 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 41000,
+      "price": 34750,
       "resourceId": 50554665,
       "assetId": 223017
+    },
+    "50562505": {
+      "name": "Nuno da Costa",
+      "cardName": "Nuno da Costa",
+      "originalVersionId": "98",
+      "clubId": 101014,
+      "leagueId": 68,
+      "countryId": 104,
+      "versionId": "98",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        94,
+        93,
+        83,
+        93,
+        52,
+        86
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50562505,
+      "assetId": 230857
     },
     "50563745": {
       "name": "Amine Harit",
@@ -1101,7 +1137,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 18750,
+      "price": 23000,
       "resourceId": 50571612,
       "assetId": 239964
     },
@@ -1216,6 +1252,42 @@
       "price": 200,
       "resourceId": 50599553,
       "assetId": 267905
+    },
+    "67348828": {
+      "name": "Eldor Shomurodov",
+      "cardName": "Shomurodov",
+      "originalVersionId": "98",
+      "clubId": 101014,
+      "leagueId": 68,
+      "countryId": 191,
+      "versionId": "98",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        94,
+        93,
+        86,
+        94,
+        61,
+        87
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67348828,
+      "assetId": 239964
     }
   }
 }

@@ -39,7 +39,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 47500,
+      "price": 47250,
       "resourceId": 50537571,
       "assetId": 205923
     },
@@ -84,7 +84,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 42250,
+      "price": 32000,
       "resourceId": 50557187,
       "assetId": 225539
     },
@@ -164,7 +164,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 14250,
       "resourceId": 50569633,
       "assetId": 237985
     },
@@ -415,7 +415,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 34250,
+      "price": 26000,
       "resourceId": 50602227,
       "assetId": 270579
     },
@@ -550,7 +550,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 112000,
+      "price": 98000,
       "resourceId": 84124296,
       "assetId": 238216
     },
@@ -600,54 +600,6 @@
       "price": 100000,
       "resourceId": 84131235,
       "assetId": 245155
-    },
-    "84150533": {
-      "name": "Micky van de Ven",
-      "cardName": "van de Ven",
-      "originalVersionId": "55",
-      "clubId": 18,
-      "leagueId": 13,
-      "countryId": 34,
-      "versionId": "55",
-      "rating": 90,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        11,
-        14,
-        15,
-        17,
-        18,
-        20,
-        9
-      ],
-      "playStylesPlus": [
-        16,
-        25
-      ],
-      "rolesPlus": [
-        12,
-        48,
-        111,
-        113
-      ],
-      "attributes": [
-        94,
-        52,
-        71,
-        81,
-        88,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 1276000,
-      "resourceId": 84150533,
-      "assetId": 264453
     },
     "84159006": {
       "name": "Lucas Bergvall",
@@ -763,9 +715,159 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 87000,
+      "price": 80500,
       "resourceId": 100908663,
       "assetId": 245367
+    },
+    "100927749": {
+      "name": "Micky van de Ven",
+      "cardName": "van de Ven",
+      "originalVersionId": "137",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 34,
+      "versionId": "137",
+      "rating": 96,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [
+        10,
+        11,
+        15,
+        16,
+        20,
+        21,
+        9
+      ],
+      "playStylesPlus": [
+        14,
+        17,
+        18,
+        25
+      ],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        147,
+        148
+      ],
+      "attributes": [
+        96,
+        60,
+        85,
+        90,
+        95,
+        94
+      ],
+      "hasDynamicImage": true,
+      "price": 720000,
+      "resourceId": 100927749,
+      "assetId": 264453
+    },
+    "117681608": {
+      "name": "Sandro Tonali",
+      "cardName": "Tonali",
+      "originalVersionId": "103",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 27,
+      "versionId": "103",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        93,
+        90,
+        96,
+        94,
+        91,
+        93
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 117681608,
+      "assetId": 241096
+    },
+    "134492920": {
+      "name": "Luka Vušković",
+      "cardName": "Vušković",
+      "originalVersionId": "137",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 10,
+      "versionId": "137",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        16,
+        19,
+        25,
+        26,
+        4,
+        9
+      ],
+      "playStylesPlus": [
+        15,
+        17,
+        18
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        92,
+        80,
+        85,
+        86,
+        95,
+        96
+      ],
+      "hasDynamicImage": true,
+      "price": 12250,
+      "resourceId": 134492920,
+      "assetId": 275192
     }
   }
 }

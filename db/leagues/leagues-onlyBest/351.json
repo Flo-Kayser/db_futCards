@@ -1005,7 +1005,7 @@
       49
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 73105,
     "assetId": 73105
   },
@@ -1762,7 +1762,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 4900,
     "resourceId": 75145,
     "assetId": 75145
   },
@@ -1979,7 +1979,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1800,
     "resourceId": 76117,
     "assetId": 76117
   },
@@ -3746,7 +3746,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 7000,
     "resourceId": 216247,
     "assetId": 216247
   },
@@ -4670,7 +4670,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 3400,
+    "price": 2500,
     "resourceId": 232250,
     "assetId": 232250
   },
@@ -4898,7 +4898,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 235860,
     "assetId": 235860
   },
@@ -6639,7 +6639,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 255208,
     "assetId": 255208
   },
@@ -7174,7 +7174,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 5000,
     "resourceId": 260176,
     "assetId": 260176
   },
@@ -7249,7 +7249,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 260536,
     "assetId": 260536
   },
@@ -8086,40 +8086,6 @@
     "resourceId": 266740,
     "assetId": 266740
   },
-  "267599": {
-    "name": "Patrick Beach",
-    "cardName": "Beach",
-    "originalVersionId": "0",
-    "clubId": 112224,
-    "leagueId": 351,
-    "countryId": 195,
-    "versionId": "2001",
-    "rating": 65,
-    "preferredFoot": "Left",
-    "weakFoot": 2,
-    "skillMoves": 1,
-    "preferredPosition": "GK",
-    "possiblePositions": [
-      "GK"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      45
-    ],
-    "attributes": [
-      68,
-      62,
-      64,
-      71,
-      31,
-      62
-    ],
-    "hasDynamicImage": false,
-    "price": 200,
-    "resourceId": 267599,
-    "assetId": 267599
-  },
   "268416": {
     "name": "Brad Tapp",
     "cardName": "Tapp",
@@ -8223,7 +8189,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1800,
     "resourceId": 270121,
     "assetId": 270121
   },
@@ -8548,7 +8514,7 @@
       75
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 273529,
     "assetId": 273529
   },
@@ -8991,7 +8957,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 1000,
     "resourceId": 276461,
     "assetId": 276461
   },
@@ -9900,7 +9866,7 @@
       47
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 279478,
     "assetId": 279478
   },
@@ -9980,7 +9946,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 41250,
+    "price": 45250,
     "resourceId": 50401711,
     "assetId": 70063
   },
@@ -10256,7 +10222,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 32500,
+    "price": 39750,
     "resourceId": 50554188,
     "assetId": 222540
   },
@@ -10492,7 +10458,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 36500,
+    "price": 37500,
     "resourceId": 50584116,
     "assetId": 252468
   },
@@ -10526,7 +10492,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 8000,
+    "price": 8500,
     "resourceId": 50592372,
     "assetId": 260724
   },
@@ -10644,9 +10610,55 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 47500,
+    "price": 46250,
     "resourceId": 50595711,
     "assetId": 264063
+  },
+  "50599247": {
+    "name": "Patrick Beach",
+    "cardName": "Beach",
+    "originalVersionId": "137",
+    "clubId": 112224,
+    "leagueId": 351,
+    "countryId": 195,
+    "versionId": "137",
+    "rating": 93,
+    "preferredFoot": "Left",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      10,
+      30,
+      31,
+      34,
+      35
+    ],
+    "playStylesPlus": [
+      32,
+      33,
+      9
+    ],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      94,
+      90,
+      92,
+      95,
+      80,
+      92
+    ],
+    "hasDynamicImage": true,
+    "price": 11750,
+    "resourceId": 50599247,
+    "assetId": 267599
   },
   "50601768": {
     "name": "Jake Najdovski",
@@ -10814,7 +10826,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 18500,
+    "price": 21250,
     "resourceId": 50607897,
     "assetId": 276249
   },
@@ -10925,7 +10937,7 @@
       64
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 50610834,
     "assetId": 279186
   },
@@ -11019,7 +11031,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 16250,
+    "price": 17500,
     "resourceId": 67181956,
     "assetId": 73092
   },
@@ -11155,7 +11167,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 34750,
+    "price": 25000,
     "resourceId": 84064168,
     "assetId": 178088
   }

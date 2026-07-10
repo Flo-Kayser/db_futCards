@@ -58,7 +58,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 35250,
+      "price": 30000,
       "resourceId": 50539058,
       "assetId": 207410
     },
@@ -158,7 +158,7 @@
         97
       ],
       "hasDynamicImage": true,
-      "price": 87000,
+      "price": 85000,
       "resourceId": 50571466,
       "assetId": 239818
     },
@@ -200,7 +200,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 45000,
+      "price": 46750,
       "resourceId": 50574289,
       "assetId": 242641
     },
@@ -296,7 +296,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 37750,
+      "price": 44750,
       "resourceId": 50603222,
       "assetId": 271574
     },
@@ -346,7 +346,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 27000,
+      "price": 34500,
       "resourceId": 50608679,
       "assetId": 277031
     },
@@ -392,7 +392,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 16500,
+      "price": 13250,
       "resourceId": 50608943,
       "assetId": 277295
     },
@@ -441,7 +441,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 115000,
+      "price": 104000,
       "resourceId": 67312438,
       "assetId": 203574
     },
@@ -559,7 +559,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 289000,
+      "price": 285000,
       "resourceId": 67360381,
       "assetId": 251517
     },
@@ -697,7 +697,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 390000,
+      "price": 250000,
       "resourceId": 84116701,
       "assetId": 230621
     },
@@ -755,7 +755,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 2965000,
+      "price": 3390000,
       "resourceId": 84117946,
       "assetId": 231866
     },
@@ -863,7 +863,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 370000,
+      "price": 313000,
       "resourceId": 84142755,
       "assetId": 256675
     },
@@ -975,7 +975,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 194000,
+      "price": 189000,
       "resourceId": 100893917,
       "assetId": 230621
     },
@@ -1024,7 +1024,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 478000,
+      "price": 455000,
       "resourceId": 100903934,
       "assetId": 240638
     },
@@ -1073,73 +1073,72 @@
       "resourceId": 100909716,
       "assetId": 246420
     },
-    "100914866": {
-      "name": "Rayan Cherki",
-      "cardName": "Cherki",
-      "originalVersionId": "11",
-      "clubId": 10,
-      "leagueId": 13,
-      "countryId": 18,
-      "versionId": "11",
-      "rating": 93,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        1,
-        11,
-        13,
-        21,
-        23,
-        6,
-        8
-      ],
-      "playStylesPlus": [
-        0,
-        20,
-        22
-      ],
-      "rolesPlus": [
-        24,
-        32,
-        34,
-        123,
-        125,
-        126,
-        131,
-        133,
-        135,
-        136,
-        137
-      ],
-      "attributes": [
-        91,
-        91,
-        94,
-        96,
-        40,
-        80
-      ],
-      "hasDynamicImage": true,
-      "price": 83500,
-      "resourceId": 100914866,
-      "assetId": 251570
-    },
-    "100940723": {
-      "name": "Nico O'Reilly",
-      "cardName": "O'Reilly",
-      "originalVersionId": "120",
+    "100917539": {
+      "name": "Elliot Anderson",
+      "cardName": "Anderson",
+      "originalVersionId": "137",
       "clubId": 10,
       "leagueId": 13,
       "countryId": 14,
-      "versionId": "120",
-      "rating": 92,
+      "versionId": "137",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        14,
+        15,
+        16,
+        19,
+        25,
+        28,
+        8
+      ],
+      "playStylesPlus": [
+        10,
+        17,
+        20,
+        9
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        94,
+        88,
+        96,
+        96,
+        95,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 224000,
+      "resourceId": 100917539,
+      "assetId": 254243
+    },
+    "117717939": {
+      "name": "Nico O'Reilly",
+      "cardName": "O'Reilly",
+      "originalVersionId": "137",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "137",
+      "rating": 96,
       "preferredFoot": "Left",
       "weakFoot": 4,
       "skillMoves": 4,
@@ -1152,46 +1151,105 @@
       "playStyles": [
         10,
         12,
+        14,
         15,
         18,
-        28,
         4,
         8
       ],
       "playStylesPlus": [
-        14,
         16,
-        25
-      ],
-      "rolesPlus": [
-        19,
         20,
         21,
-        32,
-        34,
+        28
+      ],
+      "rolesPlus": [
         107,
         108,
         109,
         110,
         118,
+        119,
+        120,
+        121,
         122,
         131,
+        132,
         133,
+        134,
         147
       ],
       "attributes": [
-        94,
-        87,
+        96,
         91,
-        92,
-        91,
-        90
+        95,
+        96,
+        95,
+        94
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 272250,
-      "price": 0,
-      "resourceId": 100940723,
+      "price": 438000,
+      "resourceId": 117717939,
       "assetId": 277427
+    },
+    "134469298": {
+      "name": "Rayan Cherki",
+      "cardName": "Cherki",
+      "originalVersionId": "137",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 18,
+      "versionId": "137",
+      "rating": 95,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        1,
+        11,
+        12,
+        13,
+        22,
+        23,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        21,
+        6
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        93,
+        93,
+        96,
+        97,
+        46,
+        85
+      ],
+      "hasDynamicImage": true,
+      "price": 192000,
+      "resourceId": 134469298,
+      "assetId": 251570
     },
     "168013396": {
       "name": "Antoine Semenyo",
@@ -1239,7 +1297,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 206000,
+      "price": 187000,
       "resourceId": 168013396,
       "assetId": 241236
     },
@@ -1276,7 +1334,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 1800000,
+      "price": 1720000,
       "resourceId": 184788461,
       "assetId": 239085
     },
@@ -1311,8 +1369,8 @@
         56,
         95
       ],
-      "hasDynamicImage": false,
-      "price": 3811000,
+      "hasDynamicImage": true,
+      "price": 1449000,
       "resourceId": 201565677,
       "assetId": 239085
     }

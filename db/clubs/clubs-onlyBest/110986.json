@@ -111,7 +111,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 250,
       "resourceId": 221860,
       "assetId": 221860
     },
@@ -187,7 +187,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 236267,
       "assetId": 236267
     },
@@ -300,7 +300,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 6600,
+      "price": 4000,
       "resourceId": 245357,
       "assetId": 245357
     },
@@ -374,7 +374,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 500,
       "resourceId": 253349,
       "assetId": 253349
     },
@@ -498,46 +498,6 @@
       "resourceId": 254206,
       "assetId": 254206
     },
-    "265610": {
-      "name": "Ricardo Adé",
-      "cardName": "Adé",
-      "originalVersionId": "0",
-      "clubId": 110986,
-      "leagueId": 1003,
-      "countryId": 80,
-      "versionId": "2001",
-      "rating": 72,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        15,
-        18,
-        19,
-        28
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        11,
-        13
-      ],
-      "attributes": [
-        71,
-        36,
-        58,
-        57,
-        71,
-        77
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 265610,
-      "assetId": 265610
-    },
     "269915": {
       "name": "Lautaro Pastrán",
       "cardName": "Pastrán",
@@ -571,7 +531,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 6300,
       "resourceId": 269915,
       "assetId": 269915
     },
@@ -796,9 +756,45 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 44000,
+      "price": 50000,
       "resourceId": 50591552,
       "assetId": 259904
+    },
+    "50597258": {
+      "name": "Ricardo Adé",
+      "cardName": "Adé",
+      "originalVersionId": "98",
+      "clubId": 110986,
+      "leagueId": 1003,
+      "countryId": 80,
+      "versionId": "98",
+      "rating": 93,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        93,
+        70,
+        80,
+        88,
+        93,
+        93
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50597258,
+      "assetId": 265610
     },
     "67368698": {
       "name": "Gabriel Villamíl",
@@ -851,7 +847,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 26000,
+      "price": 17000,
       "resourceId": 67368698,
       "assetId": 259834
     }

@@ -372,7 +372,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 1000,
       "resourceId": 242577,
       "assetId": 242577
     },
@@ -406,7 +406,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 2400,
       "resourceId": 243048,
       "assetId": 243048
     },
@@ -637,45 +637,6 @@
       "price": 0,
       "resourceId": 263851,
       "assetId": 263851
-    },
-    "266815": {
-      "name": "Ben Doak",
-      "cardName": "Doak",
-      "originalVersionId": "1",
-      "clubId": 1943,
-      "leagueId": 13,
-      "countryId": 42,
-      "versionId": "3001",
-      "rating": 71,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        25
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        25,
-        37
-      ],
-      "attributes": [
-        89,
-        61,
-        63,
-        75,
-        28,
-        60
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 266815,
-      "assetId": 266815
     },
     "269626": {
       "name": "Đorđe Petrović",
@@ -950,7 +911,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 49000,
+      "price": 31500,
       "resourceId": 50545532,
       "assetId": 213884
     },
@@ -998,7 +959,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 16000,
       "resourceId": 50551844,
       "assetId": 220196
     },
@@ -1078,7 +1039,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 28000,
+      "price": 30000,
       "resourceId": 50568154,
       "assetId": 236506
     },
@@ -1283,9 +1244,63 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 41250,
+      "price": 41750,
       "resourceId": 50586871,
       "assetId": 255223
+    },
+    "50598463": {
+      "name": "Ben Doak",
+      "cardName": "Doak",
+      "originalVersionId": "137",
+      "clubId": 1943,
+      "leagueId": 13,
+      "countryId": 42,
+      "versionId": "137",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        10,
+        11,
+        12,
+        16,
+        20,
+        22,
+        24,
+        6
+      ],
+      "playStylesPlus": [
+        21,
+        25,
+        9
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137
+      ],
+      "attributes": [
+        97,
+        91,
+        91,
+        96,
+        65,
+        88
+      ],
+      "hasDynamicImage": true,
+      "price": 11750,
+      "resourceId": 50598463,
+      "assetId": 266815
     },
     "50609680": {
       "name": "Christos Mandas",

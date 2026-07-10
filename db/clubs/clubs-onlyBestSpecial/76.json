@@ -57,7 +57,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 13750,
       "resourceId": 50588430,
       "assetId": 256782
     },
@@ -112,7 +112,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 55000,
+      "price": 49750,
       "resourceId": 50601687,
       "assetId": 270039
     },
@@ -161,7 +161,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 24000,
+      "price": 21250,
       "resourceId": 50605396,
       "assetId": 273748
     },
@@ -215,7 +215,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 40000,
+      "price": 35000,
       "resourceId": 67338848,
       "assetId": 229984
     },
@@ -271,22 +271,22 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 32000,
+      "price": 32500,
       "resourceId": 67380804,
       "assetId": 271940
     },
-    "67384072": {
+    "84161288": {
       "name": "Guéla Doué",
       "cardName": "Doué",
-      "originalVersionId": "65",
+      "originalVersionId": "137",
       "clubId": 76,
       "leagueId": 16,
       "countryId": 108,
-      "versionId": "65",
-      "rating": 92,
+      "versionId": "137",
+      "rating": 94,
       "preferredFoot": "Right",
       "weakFoot": 4,
-      "skillMoves": 3,
+      "skillMoves": 4,
       "preferredPosition": "RB",
       "possiblePositions": [
         "CB",
@@ -296,99 +296,120 @@
       "playStyles": [
         11,
         12,
+        14,
         15,
-        16,
-        20,
+        25,
+        28,
         8,
         9
       ],
       "playStylesPlus": [
-        14,
-        25,
-        28
+        17,
+        20,
+        21
       ],
       "rolesPlus": [
-        11,
-        13,
-        23,
-        26,
-        46,
         103,
         104,
         105,
         106,
+        111,
         112,
+        113,
+        123,
         124,
         125,
+        126,
+        146,
         148
       ],
       "attributes": [
-        91,
-        70,
-        85,
+        93,
+        75,
         88,
         92,
-        93
+        94,
+        95
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 19500,
-      "resourceId": 67384072,
+      "price": 12250,
+      "resourceId": 84161288,
       "assetId": 275208
     },
-    "84141514": {
+    "100918730": {
       "name": "Julio César Enciso",
       "cardName": "Enciso",
-      "originalVersionId": "30",
+      "originalVersionId": "137",
       "clubId": 76,
       "leagueId": 16,
       "countryId": 58,
-      "versionId": "30",
-      "rating": 87,
+      "versionId": "137",
+      "rating": 95,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 5,
-      "preferredPosition": "CAM",
+      "preferredPosition": "ST",
       "possiblePositions": [
         "CAM",
         "LM",
         "RM",
         "ST"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        0,
+        11,
+        21,
+        22,
+        24,
+        4,
+        9
+      ],
+      "playStylesPlus": [
+        20,
+        25,
+        6,
+        8
+      ],
       "rolesPlus": [
-        23,
-        27,
-        34,
-        42,
+        123,
+        124,
+        125,
         126,
+        127,
+        128,
+        129,
         130,
+        131,
         132,
         133,
-        143
+        134,
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
-        87,
-        87,
-        87,
-        91,
-        50,
-        70
+        95,
+        95,
+        94,
+        96,
+        60,
+        82
       ],
       "hasDynamicImage": true,
-      "price": 53500,
-      "resourceId": 84141514,
+      "price": 50500,
+      "resourceId": 100918730,
       "assetId": 255434
     },
-    "84149450": {
+    "100926666": {
       "name": "Valentín Barco",
       "cardName": "Barco",
-      "originalVersionId": "65",
+      "originalVersionId": "137",
       "clubId": 76,
       "leagueId": 16,
       "countryId": 52,
-      "versionId": "65",
-      "rating": 92,
+      "versionId": "137",
+      "rating": 95,
       "preferredFoot": "Left",
       "weakFoot": 4,
       "skillMoves": 4,
@@ -399,26 +420,24 @@
         "LM"
       ],
       "playStyles": [
-        10,
         11,
+        14,
         18,
         22,
         24,
-        28,
+        25,
         9
       ],
       "playStylesPlus": [
+        10,
         16,
         20,
-        8
+        28
       ],
       "rolesPlus": [
-        8,
-        9,
-        28,
-        30,
-        47,
         107,
+        108,
+        109,
         110,
         118,
         119,
@@ -426,19 +445,22 @@
         121,
         122,
         127,
-        129
+        128,
+        129,
+        130,
+        147
       ],
       "attributes": [
+        97,
+        87,
         95,
-        70,
+        96,
         92,
-        93,
-        89,
-        89
+        92
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 20000,
-      "resourceId": 84149450,
+      "price": 40250,
+      "resourceId": 100926666,
       "assetId": 263370
     }
   }

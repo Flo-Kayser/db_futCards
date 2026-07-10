@@ -33,7 +33,7 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 106000,
+    "price": 70500,
     "resourceId": 50406908,
     "assetId": 75260
   },
@@ -82,7 +82,7 @@
       78
     ],
     "hasDynamicImage": true,
-    "price": 36500,
+    "price": 36750,
     "resourceId": 50530799,
     "assetId": 199151
   },
@@ -132,7 +132,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 17000,
     "resourceId": 50551580,
     "assetId": 219932
   },
@@ -181,7 +181,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 14750,
     "resourceId": 50554077,
     "assetId": 222429
   },
@@ -249,7 +249,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 19250,
+    "price": 17500,
     "resourceId": 50562625,
     "assetId": 230977
   },
@@ -304,7 +304,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 22000,
     "resourceId": 50565124,
     "assetId": 233476
   },
@@ -437,7 +437,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 40000,
+    "price": 47500,
     "resourceId": 50600926,
     "assetId": 269278
   },
@@ -490,49 +490,69 @@
     "resourceId": 67349223,
     "assetId": 240359
   },
-  "84141514": {
+  "100918730": {
     "name": "Julio César Enciso",
     "cardName": "Enciso",
-    "originalVersionId": "30",
+    "originalVersionId": "137",
     "clubId": 76,
     "leagueId": 16,
     "countryId": 58,
-    "versionId": "30",
-    "rating": 87,
+    "versionId": "137",
+    "rating": 95,
     "preferredFoot": "Right",
     "weakFoot": 5,
     "skillMoves": 5,
-    "preferredPosition": "CAM",
+    "preferredPosition": "ST",
     "possiblePositions": [
       "CAM",
       "LM",
       "RM",
       "ST"
     ],
-    "playStyles": [],
-    "playStylesPlus": [],
+    "playStyles": [
+      0,
+      11,
+      21,
+      22,
+      24,
+      4,
+      9
+    ],
+    "playStylesPlus": [
+      20,
+      25,
+      6,
+      8
+    ],
     "rolesPlus": [
-      23,
-      27,
-      34,
-      42,
+      123,
+      124,
+      125,
       126,
+      127,
+      128,
+      129,
       130,
+      131,
       132,
       133,
-      143
+      134,
+      141,
+      142,
+      143,
+      144
     ],
     "attributes": [
-      87,
-      87,
-      87,
-      91,
-      50,
-      70
+      95,
+      95,
+      94,
+      96,
+      60,
+      82
     ],
     "hasDynamicImage": true,
-    "price": 53500,
-    "resourceId": 84141514,
+    "price": 50500,
+    "resourceId": 100918730,
     "assetId": 255434
   }
 }

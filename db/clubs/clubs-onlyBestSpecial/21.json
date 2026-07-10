@@ -40,7 +40,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 42500,
+      "price": 30500,
       "resourceId": 50518217,
       "assetId": 186569
     },
@@ -299,7 +299,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 126000,
+      "price": 120000,
       "resourceId": 67322195,
       "assetId": 213331
     },
@@ -433,7 +433,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 15500,
+      "price": 17250,
       "resourceId": 67343069,
       "assetId": 234205
     },
@@ -489,7 +489,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 563000,
+      "price": 521000,
       "resourceId": 67343260,
       "assetId": 234396
     },
@@ -540,62 +540,6 @@
       "sbcPrice": 33750,
       "resourceId": 67368061,
       "assetId": 259197
-    },
-    "67384162": {
-      "name": "Aleksandar Pavlović",
-      "cardName": "Pavlović",
-      "originalVersionId": "11",
-      "clubId": 21,
-      "leagueId": 19,
-      "countryId": 21,
-      "versionId": "11",
-      "rating": 93,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        11,
-        14,
-        16,
-        20,
-        24,
-        6
-      ],
-      "playStylesPlus": [
-        28,
-        8,
-        9
-      ],
-      "rolesPlus": [
-        18,
-        21,
-        22,
-        114,
-        115,
-        116,
-        117,
-        119,
-        120,
-        149
-      ],
-      "attributes": [
-        90,
-        85,
-        95,
-        93,
-        91,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 18500,
-      "resourceId": 67384162,
-      "assetId": 275298
     },
     "84098702": {
       "name": "Joshua Kimmich",
@@ -655,7 +599,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 180000,
+      "price": 136000,
       "resourceId": 84098702,
       "assetId": 212622
     },
@@ -758,7 +702,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 697000,
+      "price": 610000,
       "resourceId": 84142870,
       "assetId": 256790
     },
@@ -910,7 +854,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 62000,
+      "price": 79000,
       "resourceId": 100892854,
       "assetId": 229558
     },
@@ -958,9 +902,127 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 54000,
+      "price": 49000,
       "resourceId": 100914251,
       "assetId": 250955
+    },
+    "100922776": {
+      "name": "Ismael Saibari",
+      "cardName": "Saibari",
+      "originalVersionId": "137",
+      "clubId": 21,
+      "leagueId": 19,
+      "countryId": 129,
+      "versionId": "137",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        11,
+        2,
+        24,
+        25,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        29,
+        6
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        96,
+        94,
+        93,
+        96,
+        71,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 165000,
+      "resourceId": 100922776,
+      "assetId": 259480
+    },
+    "100938594": {
+      "name": "Aleksandar Pavlović",
+      "cardName": "Pavlović",
+      "originalVersionId": "137",
+      "clubId": 21,
+      "leagueId": 19,
+      "countryId": 21,
+      "versionId": "137",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        14,
+        17,
+        20,
+        24,
+        28,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        11,
+        16,
+        9
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        91,
+        88,
+        96,
+        94,
+        92,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 15250,
+      "resourceId": 100938594,
+      "assetId": 275298
     },
     "117653134": {
       "name": "Joshua Kimmich",
@@ -1008,7 +1070,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 191250,
+      "sbcPrice": 196500,
       "resourceId": 117653134,
       "assetId": 212622
     },
@@ -1066,7 +1128,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 394000,
+      "price": 322000,
       "resourceId": 151236028,
       "assetId": 241084
     },
@@ -1124,7 +1186,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 445000,
+      "price": 428000,
       "resourceId": 151242771,
       "assetId": 247827
     },
@@ -1173,7 +1235,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 381000,
+      "price": 339000,
       "resourceId": 201528718,
       "assetId": 202126
     },
@@ -1212,7 +1274,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 1995000,
+      "price": 2000000,
       "resourceId": 235083150,
       "assetId": 202126
     }
