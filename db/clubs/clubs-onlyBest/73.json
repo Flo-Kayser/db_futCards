@@ -1,43 +1,6 @@
 {
   "clubName": "Paris SG",
   "players": {
-    "74449": {
-      "name": "Ibrahim Mbaye",
-      "cardName": "Mbaye",
-      "originalVersionId": "0",
-      "clubId": 73,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "2001",
-      "rating": 66,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        36,
-        39
-      ],
-      "attributes": [
-        77,
-        59,
-        59,
-        70,
-        25,
-        45
-      ],
-      "hasDynamicImage": false,
-      "price": 7900,
-      "resourceId": 74449,
-      "assetId": 74449
-    },
     "78216": {
       "name": "Noham Kamara",
       "cardName": "Kamara",
@@ -68,7 +31,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 5100,
       "resourceId": 78216,
       "assetId": 78216
     },
@@ -383,7 +346,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 251752,
       "assetId": 251752
     },
@@ -451,46 +414,9 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 750,
       "resourceId": 279880,
       "assetId": 279880
-    },
-    "50406097": {
-      "name": "Ibrahim Mbaye",
-      "cardName": "Mbaye",
-      "originalVersionId": "0",
-      "clubId": 73,
-      "leagueId": 16,
-      "countryId": 136,
-      "versionId": "2001",
-      "rating": 66,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        36,
-        39
-      ],
-      "attributes": [
-        77,
-        59,
-        59,
-        70,
-        25,
-        45
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 50406097,
-      "assetId": 74449
     },
     "50566860": {
       "name": "Achraf Hakimi",
@@ -543,7 +469,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 2999000,
+      "price": 3200000,
       "resourceId": 50566860,
       "assetId": 235212
     },
@@ -594,7 +520,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 1998000,
+      "price": 1344000,
       "resourceId": 50583793,
       "assetId": 252145
     },
@@ -655,7 +581,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 107000,
+      "price": 96500,
       "resourceId": 50611357,
       "assetId": 279709
     },
@@ -707,6 +633,64 @@
       "price": 339000,
       "resourceId": 67178868,
       "assetId": 70004
+    },
+    "67183313": {
+      "name": "Ibrahim Mbaye",
+      "cardName": "Mbaye",
+      "originalVersionId": "137",
+      "clubId": 73,
+      "leagueId": 16,
+      "countryId": 136,
+      "versionId": "137",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        11,
+        13,
+        22,
+        24,
+        6,
+        7,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        25,
+        8
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        94,
+        90,
+        91,
+        94,
+        55,
+        91
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 58750,
+      "resourceId": 67183313,
+      "assetId": 74449
     },
     "67189538": {
       "name": "Dro",
@@ -806,7 +790,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 1120000,
+      "price": 1260000,
       "resourceId": 67349089,
       "assetId": 240225
     },
@@ -855,7 +839,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 280000,
+      "price": 250000,
       "resourceId": 67365767,
       "assetId": 256903
     },
@@ -904,7 +888,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 220000,
+      "price": 196000,
       "resourceId": 67367645,
       "assetId": 258781
     },
@@ -960,7 +944,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 315000,
+      "price": 295000,
       "resourceId": 84112351,
       "assetId": 226271
     },
@@ -1009,7 +993,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 309000,
+      "price": 310000,
       "resourceId": 100871161,
       "assetId": 207865
     },
@@ -1061,7 +1045,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 1690000,
+      "price": 1879000,
       "resourceId": 100894739,
       "assetId": 231443
     },
@@ -1128,7 +1112,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 1333000,
+      "price": 1310000,
       "resourceId": 100933969,
       "assetId": 270673
     },
@@ -1179,7 +1163,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 321000,
+      "price": 309000,
       "resourceId": 117648377,
       "assetId": 207865
     },
@@ -1239,7 +1223,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 133000,
+      "price": 138000,
       "resourceId": 117684292,
       "assetId": 243780
     },
@@ -1296,7 +1280,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 1251000,
+      "price": 1177000,
       "resourceId": 117688147,
       "assetId": 247635
     },
@@ -1339,7 +1323,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 457000,
+      "price": 499000,
       "resourceId": 117692657,
       "assetId": 252145
     },
@@ -1400,7 +1384,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 485000,
+      "price": 500000,
       "resourceId": 117695765,
       "assetId": 255253
     },
@@ -1458,7 +1442,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 756000,
+      "price": 775000,
       "resourceId": 117705164,
       "assetId": 264652
     },
@@ -1507,7 +1491,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 290000,
+      "price": 303000,
       "resourceId": 134473924,
       "assetId": 256196
     },
@@ -1571,7 +1555,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 1050000,
+      "price": 1129000,
       "resourceId": 134489149,
       "assetId": 271421
     },
@@ -1621,7 +1605,7 @@
         97
       ],
       "hasDynamicImage": true,
-      "price": 288000,
+      "price": 307000,
       "resourceId": 151251140,
       "assetId": 256196
     },
@@ -1678,7 +1662,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 570000,
+      "price": 590000,
       "resourceId": 151267778,
       "assetId": 272834
     },
@@ -1724,7 +1708,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 2224000,
+      "price": 2215000,
       "resourceId": 184780819,
       "assetId": 231443
     }
