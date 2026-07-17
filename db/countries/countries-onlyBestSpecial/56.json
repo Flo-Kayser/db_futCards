@@ -43,7 +43,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 78000,
+    "price": 75000,
     "resourceId": 50348267,
     "assetId": 16619
   },
@@ -135,7 +135,7 @@
       76
     ],
     "hasDynamicImage": true,
-    "price": 39500,
+    "price": 34500,
     "resourceId": 50524730,
     "assetId": 193082
   },
@@ -196,7 +196,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 183000,
+    "price": 177000,
     "resourceId": 50530358,
     "assetId": 198710
   },
@@ -241,7 +241,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 27250,
+    "price": 25250,
     "resourceId": 50534715,
     "assetId": 203067
   },
@@ -468,64 +468,9 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 47000,
+    "price": 50000,
     "resourceId": 50562855,
     "assetId": 231207
-  },
-  "50569294": {
-    "name": "Daniel Muñoz",
-    "cardName": "Muñoz",
-    "originalVersionId": "126",
-    "clubId": 1799,
-    "leagueId": 13,
-    "countryId": 56,
-    "versionId": "126",
-    "rating": 96,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 5,
-    "preferredPosition": "RB",
-    "possiblePositions": [
-      "RB",
-      "RM"
-    ],
-    "playStyles": [
-      14,
-      16,
-      17,
-      21,
-      26,
-      28,
-      8
-    ],
-    "playStylesPlus": [
-      20,
-      25,
-      9
-    ],
-    "rolesPlus": [
-      103,
-      104,
-      105,
-      106,
-      123,
-      124,
-      125,
-      126,
-      146
-    ],
-    "attributes": [
-      93,
-      86,
-      93,
-      93,
-      96,
-      95
-    ],
-    "hasDynamicImage": true,
-    "price": 1024000,
-    "resourceId": 50569294,
-    "assetId": 237646
   },
   "50569878": {
     "name": "Jaminton Campaz",
@@ -831,7 +776,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 33750,
+    "price": 33250,
     "resourceId": 50604801,
     "assetId": 273153
   },
@@ -926,7 +871,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 100000,
+    "price": 139000,
     "resourceId": 67125483,
     "assetId": 16619
   },
@@ -975,7 +920,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 35500,
+    "price": 39000,
     "resourceId": 67354022,
     "assetId": 245158
   },
@@ -1028,9 +973,70 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 39000,
+    "price": 62500,
     "resourceId": 67382017,
     "assetId": 273153
+  },
+  "67382691": {
+    "name": "Gustavo Puerta",
+    "cardName": "Puerta",
+    "originalVersionId": "138",
+    "clubId": 456,
+    "leagueId": 54,
+    "countryId": 56,
+    "versionId": "138",
+    "rating": 94,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      0,
+      10,
+      11,
+      13,
+      16,
+      24,
+      28,
+      6
+    ],
+    "playStylesPlus": [
+      20,
+      8,
+      9
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      90,
+      90,
+      93,
+      95,
+      90,
+      93
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67382691,
+    "assetId": 273827
   },
   "84106873": {
     "name": "Davinson Sánchez",
@@ -1065,9 +1071,64 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 19000,
     "resourceId": 84106873,
     "assetId": 220793
+  },
+  "84123726": {
+    "name": "Daniel Muñoz",
+    "cardName": "Muñoz",
+    "originalVersionId": "138",
+    "clubId": 1799,
+    "leagueId": 13,
+    "countryId": 56,
+    "versionId": "138",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      11,
+      12,
+      2,
+      20,
+      21,
+      28,
+      8
+    ],
+    "playStylesPlus": [
+      14,
+      17,
+      25,
+      9
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      123,
+      124,
+      125,
+      126,
+      146
+    ],
+    "attributes": [
+      95,
+      92,
+      94,
+      95,
+      97,
+      96
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 84123726,
+    "assetId": 237646
   },
   "84148961": {
     "name": "Richard Ríos",
@@ -1109,7 +1170,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 46500,
+    "sbcPrice": 42250,
     "resourceId": 84148961,
     "assetId": 262881
   },
@@ -1167,7 +1228,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 389000,
+    "price": 311000,
     "resourceId": 151236028,
     "assetId": 241084
   }

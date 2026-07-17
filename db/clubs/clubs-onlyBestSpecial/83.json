@@ -1,15 +1,15 @@
 {
   "clubName": "Motherwell",
   "players": {
-    "50585784": {
+    "67363000": {
       "name": "Elijah Just",
       "cardName": "Just",
-      "originalVersionId": "98",
+      "originalVersionId": "138",
       "clubId": 83,
       "leagueId": 50,
       "countryId": 198,
-      "versionId": "98",
-      "rating": 91,
+      "versionId": "138",
+      "rating": 94,
       "preferredFoot": "Left",
       "weakFoot": 5,
       "skillMoves": 4,
@@ -19,8 +19,21 @@
         "LM",
         "LW"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        10,
+        11,
+        21,
+        22,
+        24,
+        6,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        12,
+        20
+      ],
       "rolesPlus": [
         127,
         128,
@@ -35,16 +48,15 @@
         140
       ],
       "attributes": [
+        95,
+        94,
         93,
-        91,
-        90,
-        91,
-        47,
-        89
+        94,
+        55,
+        92
       ],
       "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 50585784,
+      "resourceId": 67363000,
       "assetId": 254136
     }
   }

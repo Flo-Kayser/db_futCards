@@ -66,7 +66,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 250,
       "resourceId": 77126,
       "assetId": 77126
     },
@@ -140,7 +140,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 1500,
       "resourceId": 248266,
       "assetId": 248266
     },
@@ -254,7 +254,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 32250,
+      "price": 32500,
       "resourceId": 50518217,
       "assetId": 186569
     },
@@ -513,7 +513,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 145000,
+      "price": 124000,
       "resourceId": 67322195,
       "assetId": 213331
     },
@@ -647,7 +647,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 19250,
       "resourceId": 67343069,
       "assetId": 234205
     },
@@ -703,7 +703,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 680000,
+      "price": 713000,
       "resourceId": 67343260,
       "assetId": 234396
     },
@@ -813,7 +813,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 200000,
+      "price": 239000,
       "resourceId": 84098702,
       "assetId": 212622
     },
@@ -916,7 +916,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 662000,
+      "price": 617000,
       "resourceId": 84142870,
       "assetId": 256790
     },
@@ -1035,43 +1035,6 @@
       "resourceId": 100869409,
       "assetId": 206113
     },
-    "100892854": {
-      "name": "Dayot Upamecano",
-      "cardName": "Upamecano",
-      "originalVersionId": "109",
-      "clubId": 21,
-      "leagueId": 19,
-      "countryId": 18,
-      "versionId": "109",
-      "rating": 95,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        111,
-        112,
-        113,
-        148
-      ],
-      "attributes": [
-        92,
-        56,
-        84,
-        87,
-        95,
-        96
-      ],
-      "hasDynamicImage": true,
-      "price": 89000,
-      "resourceId": 100892854,
-      "assetId": 229558
-    },
     "100914251": {
       "name": "Josip Stanišić",
       "cardName": "Stanišić",
@@ -1116,70 +1079,9 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 64000,
+      "price": 81000,
       "resourceId": 100914251,
       "assetId": 250955
-    },
-    "100922776": {
-      "name": "Ismael Saibari",
-      "cardName": "Saibari",
-      "originalVersionId": "137",
-      "clubId": 21,
-      "leagueId": 19,
-      "countryId": 129,
-      "versionId": "137",
-      "rating": 96,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [
-        1,
-        11,
-        2,
-        24,
-        25,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        0,
-        20,
-        29,
-        6
-      ],
-      "rolesPlus": [
-        118,
-        119,
-        120,
-        121,
-        122,
-        131,
-        132,
-        133,
-        134,
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        96,
-        94,
-        93,
-        96,
-        71,
-        95
-      ],
-      "hasDynamicImage": true,
-      "price": 57500,
-      "resourceId": 100922776,
-      "assetId": 259480
     },
     "100938594": {
       "name": "Aleksandar Pavlović",
@@ -1234,7 +1136,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 13000,
       "resourceId": 100938594,
       "assetId": 275298
     },
@@ -1284,9 +1186,120 @@
         90
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 180000,
+      "sbcPrice": 197750,
       "resourceId": 117653134,
       "assetId": 212622
+    },
+    "117670070": {
+      "name": "Dayot Upamecano",
+      "cardName": "Upamecano",
+      "originalVersionId": "138",
+      "clubId": 21,
+      "leagueId": 19,
+      "countryId": 18,
+      "versionId": "138",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        14,
+        16,
+        18,
+        20,
+        22,
+        25
+      ],
+      "playStylesPlus": [
+        15,
+        17,
+        28,
+        9
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        93,
+        58,
+        87,
+        88,
+        96,
+        97
+      ],
+      "hasDynamicImage": true,
+      "price": 40000,
+      "resourceId": 117670070,
+      "assetId": 229558
+    },
+    "117699992": {
+      "name": "Ismael Saibari",
+      "cardName": "Saibari",
+      "originalVersionId": "138",
+      "clubId": 21,
+      "leagueId": 19,
+      "countryId": 129,
+      "versionId": "138",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        11,
+        2,
+        25,
+        29,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        20,
+        21,
+        24,
+        6
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        97,
+        95,
+        94,
+        97,
+        74,
+        96
+      ],
+      "hasDynamicImage": true,
+      "price": 80000,
+      "resourceId": 117699992,
+      "assetId": 259480
     },
     "151236028": {
       "name": "Luis Díaz",
@@ -1342,77 +1355,78 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 389000,
+      "price": 311000,
       "resourceId": 151236028,
       "assetId": 241084
     },
-    "151242771": {
+    "184797203": {
       "name": "Michael Olise",
       "cardName": "Olise",
-      "originalVersionId": "11",
+      "originalVersionId": "138",
       "clubId": 21,
       "leagueId": 19,
       "countryId": 18,
-      "versionId": "11",
-      "rating": 96,
+      "versionId": "138",
+      "rating": 97,
       "preferredFoot": "Left",
-      "weakFoot": 4,
+      "weakFoot": 5,
       "skillMoves": 5,
-      "preferredPosition": "RM",
+      "preferredPosition": "CAM",
       "possiblePositions": [
         "CAM",
         "RM",
         "RW"
       ],
       "playStyles": [
-        11,
+        0,
         12,
         13,
-        20,
         22,
         24,
-        6
+        8,
+        9
       ],
       "playStylesPlus": [
-        0,
+        11,
+        20,
         21,
-        8
+        6
       ],
       "rolesPlus": [
-        32,
-        34,
         123,
         124,
         125,
         126,
         131,
+        132,
         133,
+        134,
         135,
         136,
         137
       ],
       "attributes": [
-        96,
-        94,
-        96,
         97,
-        65,
-        83
+        95,
+        97,
+        98,
+        66,
+        84
       ],
       "hasDynamicImage": true,
-      "price": 400000,
-      "resourceId": 151242771,
+      "sbcPrice": 351750,
+      "resourceId": 184797203,
       "assetId": 247827
     },
-    "201528718": {
+    "251860366": {
       "name": "Harry Kane",
       "cardName": "Kane",
-      "originalVersionId": "11",
+      "originalVersionId": "138",
       "clubId": 21,
       "leagueId": 19,
       "countryId": 14,
-      "versionId": "11",
-      "rating": 97,
+      "versionId": "138",
+      "rating": 98,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 4,
@@ -1423,16 +1437,17 @@
       "playStyles": [
         10,
         11,
-        22,
+        2,
+        20,
         25,
         4,
         7
       ],
       "playStylesPlus": [
         0,
-        2,
-        20,
-        6
+        22,
+        6,
+        8
       ],
       "rolesPlus": [
         141,
@@ -1441,55 +1456,15 @@
         144
       ],
       "attributes": [
-        91,
-        98,
-        94,
-        95,
-        62,
-        93
-      ],
-      "hasDynamicImage": true,
-      "price": 340000,
-      "resourceId": 201528718,
-      "assetId": 202126
-    },
-    "235083150": {
-      "name": "Harry Kane",
-      "cardName": "Kane",
-      "originalVersionId": "94",
-      "clubId": 21,
-      "leagueId": 19,
-      "countryId": 14,
-      "versionId": "94",
-      "rating": 97,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [
-        0
-      ],
-      "rolesPlus": [
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        92,
-        98,
         93,
-        96,
-        61,
-        94
+        99,
+        95,
+        97,
+        65,
+        95
       ],
       "hasDynamicImage": true,
-      "price": 1527000,
-      "resourceId": 235083150,
+      "resourceId": 251860366,
       "assetId": 202126
     }
   }

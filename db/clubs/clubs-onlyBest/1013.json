@@ -143,7 +143,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 4500,
       "resourceId": 74784,
       "assetId": 74784
     },
@@ -212,7 +212,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 5100,
       "resourceId": 75337,
       "assetId": 75337
     },
@@ -281,7 +281,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 1000,
       "resourceId": 77026,
       "assetId": 77026
     },
@@ -320,7 +320,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1300,
       "resourceId": 216054,
       "assetId": 216054
     },
@@ -397,7 +397,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 8300,
+      "price": 1900,
       "resourceId": 223498,
       "assetId": 223498
     },
@@ -662,7 +662,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 350,
       "resourceId": 247143,
       "assetId": 247143
     },
@@ -890,44 +890,6 @@
       "resourceId": 279196,
       "assetId": 279196
     },
-    "50406908": {
-      "name": "Orlando Gill",
-      "cardName": "Gill",
-      "originalVersionId": "94",
-      "clubId": 1013,
-      "leagueId": 353,
-      "countryId": 58,
-      "versionId": "94",
-      "rating": 95,
-      "preferredFoot": "Left",
-      "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [
-        34
-      ],
-      "rolesPlus": [
-        101,
-        102,
-        145
-      ],
-      "attributes": [
-        95,
-        94,
-        93,
-        95,
-        70,
-        96
-      ],
-      "hasDynamicImage": true,
-      "price": 87000,
-      "resourceId": 50406908,
-      "assetId": 75260
-    },
     "50539089": {
       "name": "Luciano Vietto",
       "cardName": "Vietto",
@@ -1124,6 +1086,52 @@
       "price": 200,
       "resourceId": 50605729,
       "assetId": 274081
+    },
+    "67184124": {
+      "name": "Orlando Gill",
+      "cardName": "Gill",
+      "originalVersionId": "138",
+      "clubId": 1013,
+      "leagueId": 353,
+      "countryId": 58,
+      "versionId": "138",
+      "rating": 96,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        32,
+        35,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        31,
+        33,
+        34
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        96,
+        95,
+        94,
+        96,
+        75,
+        97
+      ],
+      "hasDynamicImage": true,
+      "price": 20250,
+      "resourceId": 67184124,
+      "assetId": 75260
     }
   }
 }

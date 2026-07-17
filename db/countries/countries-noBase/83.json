@@ -82,7 +82,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 84000,
+    "price": 66500,
     "resourceId": 156353,
     "assetId": 156353
   },
@@ -125,7 +125,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 76000,
+    "price": 88500,
     "resourceId": 166149,
     "assetId": 166149
   },
@@ -163,7 +163,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 17500,
+    "price": 13500,
     "resourceId": 191694,
     "assetId": 191694
   },
@@ -273,7 +273,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 37000,
+    "price": 39500,
     "resourceId": 50410432,
     "assetId": 78784
   },
@@ -333,7 +333,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 12250,
     "resourceId": 50411047,
     "assetId": 79399
   },
@@ -507,7 +507,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 79000,
+    "price": 60000,
     "resourceId": 50536486,
     "assetId": 204838
   },
@@ -758,7 +758,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 86000,
+    "price": 67000,
     "resourceId": 50567492,
     "assetId": 235844
   },
@@ -804,7 +804,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 17000,
     "resourceId": 50568691,
     "assetId": 237043
   },
@@ -848,7 +848,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 131000,
+    "price": 115000,
     "resourceId": 50572872,
     "assetId": 241224
   },
@@ -1446,7 +1446,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 45750,
+    "price": 48250,
     "resourceId": 67343443,
     "assetId": 234579
   },
@@ -1503,9 +1503,72 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 20750,
     "resourceId": 67344708,
     "assetId": 235844
+  },
+  "67345907": {
+    "name": "Roberto Alvarado",
+    "cardName": "Alvarado",
+    "originalVersionId": "138",
+    "clubId": 1386,
+    "leagueId": 78,
+    "countryId": 83,
+    "versionId": "138",
+    "rating": 94,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      0,
+      10,
+      11,
+      12,
+      22,
+      26,
+      6,
+      9
+    ],
+    "playStylesPlus": [
+      20,
+      21,
+      8
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      96,
+      92,
+      94,
+      94,
+      75,
+      87
+    ],
+    "hasDynamicImage": true,
+    "price": 13500,
+    "resourceId": 67345907,
+    "assetId": 237043
   },
   "67354016": {
     "name": "Santiago Giménez",
@@ -1596,7 +1659,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 35000,
+    "price": 37250,
     "resourceId": 67354923,
     "assetId": 246059
   },
@@ -1646,7 +1709,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 32000,
+    "price": 30000,
     "resourceId": 84090918,
     "assetId": 204838
   },
@@ -1704,7 +1767,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 85500,
+    "price": 87000,
     "resourceId": 84120659,
     "assetId": 234579
   },
@@ -1858,8 +1921,66 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 44250,
+    "price": 55000,
     "resourceId": 100897875,
+    "assetId": 234579
+  },
+  "117675091": {
+    "name": "Julian Quiñones",
+    "cardName": "Quiñones",
+    "originalVersionId": "138",
+    "clubId": 112391,
+    "leagueId": 350,
+    "countryId": 83,
+    "versionId": "138",
+    "rating": 96,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      12,
+      2,
+      20,
+      22,
+      24,
+      4
+    ],
+    "playStylesPlus": [
+      0,
+      21,
+      29,
+      6
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      96,
+      96,
+      92,
+      94,
+      65,
+      95
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 117675091,
     "assetId": 234579
   }
 }

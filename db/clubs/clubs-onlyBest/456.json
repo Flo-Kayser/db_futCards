@@ -293,7 +293,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1700,
       "resourceId": 236466,
       "assetId": 236466
     },
@@ -455,7 +455,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 255406,
       "assetId": 255406
     },
@@ -533,7 +533,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 5600,
       "resourceId": 265731,
       "assetId": 265731
     },
@@ -606,7 +606,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 650,
       "resourceId": 273022,
       "assetId": 273022
     },
@@ -877,46 +877,9 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 36250,
+      "price": 31500,
       "resourceId": 50601287,
       "assetId": 269639
-    },
-    "50605475": {
-      "name": "Gustavo Puerta",
-      "cardName": "Puerta",
-      "originalVersionId": "1",
-      "clubId": 456,
-      "leagueId": 54,
-      "countryId": 56,
-      "versionId": "3001",
-      "rating": 68,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 2,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        22
-      ],
-      "attributes": [
-        61,
-        60,
-        68,
-        72,
-        62,
-        67
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50605475,
-      "assetId": 273827
     },
     "50609245": {
       "name": "Facundo González",
@@ -984,7 +947,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 8900,
+      "price": 5000,
       "resourceId": 50609390,
       "assetId": 277742
     },
@@ -1025,6 +988,67 @@
       "price": 350,
       "resourceId": 50610760,
       "assetId": 279112
+    },
+    "67382691": {
+      "name": "Gustavo Puerta",
+      "cardName": "Puerta",
+      "originalVersionId": "138",
+      "clubId": 456,
+      "leagueId": 54,
+      "countryId": 56,
+      "versionId": "138",
+      "rating": 94,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        10,
+        11,
+        13,
+        16,
+        24,
+        28,
+        6
+      ],
+      "playStylesPlus": [
+        20,
+        8,
+        9
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        90,
+        90,
+        93,
+        95,
+        90,
+        93
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67382691,
+      "assetId": 273827
     }
   }
 }

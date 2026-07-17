@@ -83,7 +83,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 32500,
+      "price": 32250,
       "resourceId": 50536805,
       "assetId": 205157
     },
@@ -140,7 +140,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 14750,
       "resourceId": 50556849,
       "assetId": 225201
     },
@@ -246,7 +246,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 40750,
+      "price": 49750,
       "resourceId": 50562517,
       "assetId": 230869
     },
@@ -296,7 +296,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 15750,
+      "price": 19000,
       "resourceId": 50611252,
       "assetId": 279604
     },
@@ -349,56 +349,6 @@
       "price": 0,
       "resourceId": 67340048,
       "assetId": 231184
-    },
-    "84098298": {
-      "name": "Aymeric Laporte",
-      "cardName": "Laporte",
-      "originalVersionId": "107",
-      "clubId": 448,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "107",
-      "rating": 96,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10,
-        11,
-        14,
-        18,
-        19,
-        4,
-        8
-      ],
-      "playStylesPlus": [
-        15,
-        16,
-        17,
-        9
-      ],
-      "rolesPlus": [
-        111,
-        112,
-        113,
-        148
-      ],
-      "attributes": [
-        94,
-        75,
-        95,
-        92,
-        99,
-        97
-      ],
-      "hasDynamicImage": true,
-      "price": 550000,
-      "resourceId": 84098298,
-      "assetId": 212218
     },
     "84102281": {
       "name": "Iñaki Williams",
@@ -455,9 +405,59 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 850000,
+      "price": 750000,
       "resourceId": 84102281,
       "assetId": 216201
+    },
+    "100875514": {
+      "name": "Aymeric Laporte",
+      "cardName": "Laporte",
+      "originalVersionId": "138",
+      "clubId": 448,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "138",
+      "rating": 97,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        11,
+        15,
+        18,
+        19,
+        4,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        14,
+        16,
+        17
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        94,
+        76,
+        96,
+        93,
+        98,
+        97
+      ],
+      "hasDynamicImage": true,
+      "price": 300000,
+      "resourceId": 100875514,
+      "assetId": 212218
     },
     "117697028": {
       "name": "Nico Williams",
@@ -501,7 +501,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 350000,
+      "price": 325000,
       "resourceId": 117697028,
       "assetId": 256516
     }

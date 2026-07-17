@@ -97,7 +97,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 44750,
+      "price": 42750,
       "resourceId": 50606561,
       "assetId": 274913
     },
@@ -161,15 +161,15 @@
       "resourceId": 67372688,
       "assetId": 263824
     },
-    "100897875": {
+    "117675091": {
       "name": "Julian Quiñones",
       "cardName": "Quiñones",
-      "originalVersionId": "109",
+      "originalVersionId": "138",
       "clubId": 112391,
       "leagueId": 350,
       "countryId": 83,
-      "versionId": "109",
-      "rating": 95,
+      "versionId": "138",
+      "rating": 96,
       "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 5,
@@ -179,8 +179,21 @@
         "LW",
         "ST"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        11,
+        12,
+        2,
+        20,
+        22,
+        24,
+        4
+      ],
+      "playStylesPlus": [
+        0,
+        21,
+        29,
+        6
+      ],
       "rolesPlus": [
         127,
         128,
@@ -195,16 +208,15 @@
         144
       ],
       "attributes": [
-        95,
-        95,
-        90,
-        93,
-        60,
-        94
+        96,
+        96,
+        92,
+        94,
+        65,
+        95
       ],
       "hasDynamicImage": true,
-      "price": 44250,
-      "resourceId": 100897875,
+      "resourceId": 117675091,
       "assetId": 234579
     }
   }

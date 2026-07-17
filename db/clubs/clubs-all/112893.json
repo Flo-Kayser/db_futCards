@@ -121,7 +121,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 6700,
+      "price": 4200,
       "resourceId": 167435,
       "assetId": 167435
     },
@@ -196,7 +196,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 950,
       "resourceId": 186998,
       "assetId": 186998
     },
@@ -235,7 +235,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 9800,
       "resourceId": 189332,
       "assetId": 189332
     },
@@ -321,7 +321,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 800,
       "resourceId": 212616,
       "assetId": 212616
     },
@@ -361,7 +361,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 4600,
       "resourceId": 230991,
       "assetId": 230991
     },
@@ -440,7 +440,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 1900,
       "resourceId": 246263,
       "assetId": 246263
     },
@@ -552,7 +552,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 3500,
       "resourceId": 260732,
       "assetId": 260732
     },
@@ -669,7 +669,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 5100,
       "resourceId": 267801,
       "assetId": 267801
     },
@@ -889,7 +889,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 2900,
       "resourceId": 275343,
       "assetId": 275343
     },
@@ -1168,7 +1168,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 1544000,
+      "price": 1620000,
       "resourceId": 50508228,
       "assetId": 176580
     },
@@ -1208,7 +1208,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 98000,
+      "price": 85000,
       "resourceId": 50520980,
       "assetId": 189332
     },
@@ -1531,7 +1531,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 36000,
+      "price": 37500,
       "resourceId": 50598272,
       "assetId": 266624
     },
@@ -1629,7 +1629,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 25250,
+      "price": 29000,
       "resourceId": 67321480,
       "assetId": 212616
     },
@@ -1675,7 +1675,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 29250,
+      "price": 30000,
       "resourceId": 67356092,
       "assetId": 247228
     },
@@ -1731,7 +1731,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 42500,
+      "price": 38500,
       "resourceId": 67363442,
       "assetId": 254578
     },
@@ -1780,7 +1780,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 190000,
+      "price": 166000,
       "resourceId": 84044103,
       "assetId": 158023
     },
@@ -1829,7 +1829,7 @@
         67
       ],
       "hasDynamicImage": true,
-      "price": 385000,
+      "price": 380000,
       "resourceId": 100821319,
       "assetId": 158023
     },
@@ -1998,7 +1998,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 242000,
+      "price": 318000,
       "resourceId": 151152967,
       "assetId": 158023
     },
@@ -2061,7 +2061,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 613000,
+      "price": 560000,
       "resourceId": 167930183,
       "assetId": 158023
     },
@@ -2112,7 +2112,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 2610000,
+      "price": 2200000,
       "resourceId": 201484615,
       "assetId": 158023
     },
@@ -2165,8 +2165,71 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 1778000,
+      "price": 1975000,
       "resourceId": 218261831,
+      "assetId": 158023
+    },
+    "235039047": {
+      "name": "Lionel Messi",
+      "cardName": "Messi",
+      "originalVersionId": "138",
+      "clubId": 112893,
+      "leagueId": 39,
+      "countryId": 52,
+      "versionId": "138",
+      "rating": 98,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        13,
+        20,
+        22,
+        3,
+        7,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        11,
+        25,
+        6
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        98,
+        97,
+        97,
+        98,
+        50,
+        83
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 235039047,
       "assetId": 158023
     }
   }

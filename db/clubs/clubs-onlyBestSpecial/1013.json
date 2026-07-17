@@ -1,15 +1,15 @@
 {
   "clubName": "San Lorenzo",
   "players": {
-    "50406908": {
+    "67184124": {
       "name": "Orlando Gill",
       "cardName": "Gill",
-      "originalVersionId": "94",
+      "originalVersionId": "138",
       "clubId": 1013,
       "leagueId": 353,
       "countryId": 58,
-      "versionId": "94",
-      "rating": 95,
+      "versionId": "138",
+      "rating": 96,
       "preferredFoot": "Left",
       "weakFoot": 4,
       "skillMoves": 2,
@@ -17,8 +17,16 @@
       "possiblePositions": [
         "GK"
       ],
-      "playStyles": [],
+      "playStyles": [
+        30,
+        32,
+        35,
+        9
+      ],
       "playStylesPlus": [
+        10,
+        31,
+        33,
         34
       ],
       "rolesPlus": [
@@ -27,16 +35,16 @@
         145
       ],
       "attributes": [
+        96,
         95,
         94,
-        93,
-        95,
-        70,
-        96
+        96,
+        75,
+        97
       ],
       "hasDynamicImage": true,
-      "price": 87000,
-      "resourceId": 50406908,
+      "price": 20250,
+      "resourceId": 67184124,
       "assetId": 75260
     }
   }

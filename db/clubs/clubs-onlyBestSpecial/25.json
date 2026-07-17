@@ -40,7 +40,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 34000,
+      "price": 42250,
       "resourceId": 50539510,
       "assetId": 207862
     },
@@ -265,7 +265,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 18500,
+      "price": 24750,
       "resourceId": 67318710,
       "assetId": 209846
     },
@@ -327,15 +327,15 @@
       "resourceId": 67320960,
       "assetId": 212096
     },
-    "67385558": {
+    "84162774": {
       "name": "Johan Manzambi",
       "cardName": "Manzambi",
-      "originalVersionId": "109",
+      "originalVersionId": "138",
       "clubId": 25,
       "leagueId": 19,
       "countryId": 47,
-      "versionId": "109",
-      "rating": 94,
+      "versionId": "138",
+      "rating": 95,
       "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 5,
@@ -345,8 +345,21 @@
         "CM",
         "ST"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        0,
+        13,
+        21,
+        22,
+        24,
+        7,
+        9
+      ],
+      "playStylesPlus": [
+        11,
+        20,
+        6,
+        8
+      ],
       "rolesPlus": [
         118,
         119,
@@ -363,17 +376,16 @@
         144
       ],
       "attributes": [
-        93,
-        95,
-        93,
         94,
-        80,
-        90
+        96,
+        94,
+        95,
+        85,
+        91
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 54000,
-      "price": 0,
-      "resourceId": 67385558,
+      "price": 11750,
+      "resourceId": 84162774,
       "assetId": 276694
     }
   }
