@@ -33,7 +33,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 75572,
       "assetId": 75572
     },
@@ -140,7 +140,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 80807,
       "assetId": 80807
     },
@@ -176,7 +176,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 400,
       "resourceId": 243952,
       "assetId": 243952
     },
@@ -321,7 +321,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 99500,
+      "price": 91000,
       "resourceId": 50537100,
       "assetId": 205452
     },
@@ -426,7 +426,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 37500,
+      "price": 50000,
       "resourceId": 50560266,
       "assetId": 228618
     },
@@ -478,7 +478,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 321000,
+      "price": 300000,
       "resourceId": 50579891,
       "assetId": 248243
     },
@@ -539,7 +539,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 16000,
       "resourceId": 67306309,
       "assetId": 197445
     },
@@ -730,7 +730,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 60000,
+      "price": 62000,
       "resourceId": 67348994,
       "assetId": 240130
     },
@@ -781,7 +781,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 170000,
+      "price": 239000,
       "resourceId": 67377753,
       "assetId": 268889
     },
@@ -828,7 +828,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 616000,
+      "price": 676000,
       "resourceId": 67387213,
       "assetId": 278349
     },
@@ -985,7 +985,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 55500,
+      "price": 41750,
       "resourceId": 84117490,
       "assetId": 231410
     },
@@ -1037,7 +1037,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 509000,
+      "price": 519000,
       "resourceId": 84129892,
       "assetId": 243812
     },
@@ -1073,7 +1073,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 148000,
+      "price": 149000,
       "resourceId": 100855415,
       "assetId": 192119
     },
@@ -1130,52 +1130,9 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 4380000,
+      "price": 3930000,
       "resourceId": 100915667,
       "assetId": 252371
-    },
-    "117679743": {
-      "name": "Marc Cucurella",
-      "cardName": "Marc Cucurella",
-      "originalVersionId": "109",
-      "clubId": 243,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "109",
-      "rating": 95,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        107,
-        108,
-        109,
-        110,
-        127,
-        128,
-        129,
-        130,
-        147
-      ],
-      "attributes": [
-        92,
-        80,
-        93,
-        94,
-        95,
-        92
-      ],
-      "hasDynamicImage": true,
-      "price": 65500,
-      "resourceId": 117679743,
-      "assetId": 239231
     },
     "117704821": {
       "name": "Arda Güler",
@@ -1238,7 +1195,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 52500,
+      "price": 53500,
       "resourceId": 117704821,
       "assetId": 264309
     },
@@ -1300,7 +1257,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 33500,
+      "price": 25250,
       "resourceId": 134459365,
       "assetId": 241637
     },
@@ -1371,9 +1328,65 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 240000,
+      "price": 225000,
       "resourceId": 151233997,
       "assetId": 239053
+    },
+    "151234175": {
+      "name": "Marc Cucurella",
+      "cardName": "Marc Cucurella",
+      "originalVersionId": "138",
+      "clubId": 243,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "138",
+      "rating": 96,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        14,
+        15,
+        16,
+        20,
+        22,
+        24,
+        26
+      ],
+      "playStylesPlus": [
+        11,
+        17,
+        28,
+        9
+      ],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        127,
+        128,
+        129,
+        130,
+        147
+      ],
+      "attributes": [
+        93,
+        82,
+        94,
+        95,
+        96,
+        94
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 30000,
+      "resourceId": 151234175,
+      "assetId": 239231
     },
     "151247315": {
       "name": "Jude Bellingham",
@@ -1427,7 +1440,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 2495000,
+      "price": 2099000,
       "resourceId": 151247315,
       "assetId": 252371
     },
@@ -1486,7 +1499,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 1806000,
+      "price": 1295000,
       "resourceId": 168010954,
       "assetId": 238794
     },
@@ -1540,7 +1553,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 420000,
+      "price": 450000,
       "resourceId": 168044665,
       "assetId": 272505
     },
@@ -1599,7 +1612,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 4429000,
+      "price": 3340000,
       "resourceId": 218335555,
       "assetId": 231747
     }
