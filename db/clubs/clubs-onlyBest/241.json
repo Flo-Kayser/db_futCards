@@ -106,7 +106,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 9900,
       "resourceId": 80674,
       "assetId": 80674
     },
@@ -142,7 +142,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 3200,
       "resourceId": 186153,
       "assetId": 186153
     },
@@ -338,75 +338,9 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 54000,
+      "price": 49500,
       "resourceId": 50524096,
       "assetId": 192448
-    },
-    "50576685": {
-      "name": "Eric García",
-      "cardName": "Eric García",
-      "originalVersionId": "11",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "11",
-      "rating": 96,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB",
-        "CDM",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        10,
-        15,
-        16,
-        18,
-        25,
-        4,
-        9
-      ],
-      "playStylesPlus": [
-        14,
-        17,
-        28
-      ],
-      "rolesPlus": [
-        5,
-        6,
-        15,
-        17,
-        24,
-        25,
-        46,
-        49,
-        103,
-        104,
-        111,
-        112,
-        113,
-        114,
-        116,
-        123,
-        126,
-        148
-      ],
-      "attributes": [
-        90,
-        65,
-        87,
-        91,
-        96,
-        95
-      ],
-      "hasDynamicImage": true,
-      "price": 185000,
-      "resourceId": 50576685,
-      "assetId": 245037
     },
     "50604248": {
       "name": "Marc Casadó",
@@ -526,54 +460,6 @@
       "resourceId": 67350325,
       "assetId": 241461
     },
-    "67353124": {
-      "name": "Dani Olmo",
-      "cardName": "Dani Olmo",
-      "originalVersionId": "103",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "103",
-      "rating": 95,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        118,
-        119,
-        120,
-        121,
-        122,
-        131,
-        132,
-        133,
-        134,
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        92,
-        95,
-        95,
-        96,
-        60,
-        90
-      ],
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 67353124,
-      "assetId": 244260
-    },
     "67362027": {
       "name": "Ronald Araujo",
       "cardName": "Araujo",
@@ -626,7 +512,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 150000,
+      "price": 170000,
       "resourceId": 67362027,
       "assetId": 253163
     },
@@ -669,7 +555,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 72000,
+      "price": 55000,
       "resourceId": 67372442,
       "assetId": 263578
     },
@@ -772,7 +658,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 46000,
+      "price": 25000,
       "resourceId": 67374464,
       "assetId": 265600
     },
@@ -829,9 +715,78 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 1156000,
+      "price": 895000,
       "resourceId": 84114782,
       "assetId": 228702
+    },
+    "84127541": {
+      "name": "Ferran Torres",
+      "cardName": "Ferran Torres",
+      "originalVersionId": "78",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "78",
+      "rating": 99,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        11,
+        2,
+        22,
+        23,
+        25,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        20,
+        21,
+        24,
+        6
+      ],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        97,
+        96,
+        97,
+        99,
+        50,
+        97
+      ],
+      "hasDynamicImage": true,
+      "price": 2958000,
+      "resourceId": 84127541,
+      "assetId": 241461
     },
     "84127566": {
       "name": "Jules Koundé",
@@ -891,9 +846,139 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 1470000,
+      "price": 1185000,
       "resourceId": 84127566,
       "assetId": 241486
+    },
+    "84130340": {
+      "name": "Dani Olmo",
+      "cardName": "Dani Olmo",
+      "originalVersionId": "78",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "78",
+      "rating": 99,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        10,
+        13,
+        22,
+        24,
+        25,
+        7,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        11,
+        20,
+        6,
+        8
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        94,
+        96,
+        98,
+        99,
+        65,
+        93
+      ],
+      "hasDynamicImage": true,
+      "price": 4400000,
+      "resourceId": 84130340,
+      "assetId": 244260
+    },
+    "84131117": {
+      "name": "Eric García",
+      "cardName": "Eric García",
+      "originalVersionId": "78",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "78",
+      "rating": 99,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        11,
+        15,
+        16,
+        18,
+        19,
+        25,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        14,
+        17,
+        28,
+        4
+      ],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        123,
+        124,
+        125,
+        126,
+        146,
+        148,
+        149
+      ],
+      "attributes": [
+        93,
+        70,
+        90,
+        94,
+        99,
+        98
+      ],
+      "hasDynamicImage": true,
+      "price": 600000,
+      "resourceId": 84131117,
+      "assetId": 245037
     },
     "84145612": {
       "name": "Joan García",
@@ -1026,70 +1111,9 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 155000,
+      "price": 151000,
       "resourceId": 100873810,
       "assetId": 210514
-    },
-    "100915150": {
-      "name": "Pedri",
-      "cardName": "Pedri",
-      "originalVersionId": "11",
-      "clubId": 241,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "11",
-      "rating": 96,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        11,
-        16,
-        20,
-        22,
-        25,
-        8
-      ],
-      "playStylesPlus": [
-        0,
-        21,
-        9
-      ],
-      "rolesPlus": [
-        15,
-        17,
-        32,
-        34,
-        49,
-        114,
-        116,
-        118,
-        119,
-        120,
-        121,
-        122,
-        131,
-        133
-      ],
-      "attributes": [
-        91,
-        92,
-        94,
-        97,
-        88,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 190000,
-      "resourceId": 100915150,
-      "assetId": 251854
     },
     "117672189": {
       "name": "Marcus Rashford",
@@ -1133,9 +1157,114 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 120000,
+      "price": 115000,
       "resourceId": 117672189,
       "assetId": 231677
+    },
+    "117683476": {
+      "name": "Anthony Gordon",
+      "cardName": "Gordon",
+      "originalVersionId": "1",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 14,
+      "versionId": "3002",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RW"
+      ],
+      "playStyles": [
+        0,
+        12,
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        36,
+        39
+      ],
+      "attributes": [
+        91,
+        79,
+        78,
+        83,
+        50,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 2000,
+      "resourceId": 117683476,
+      "assetId": 242964
+    },
+    "134469582": {
+      "name": "Pedri",
+      "cardName": "Pedri",
+      "originalVersionId": "78",
+      "clubId": 241,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "78",
+      "rating": 99,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        10,
+        13,
+        20,
+        21,
+        25,
+        9
+      ],
+      "playStylesPlus": [
+        11,
+        16,
+        22,
+        6,
+        8
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        94,
+        95,
+        99,
+        99,
+        90,
+        91
+      ],
+      "hasDynamicImage": true,
+      "price": 1731000,
+      "resourceId": 134469582,
+      "assetId": 251854
     },
     "134494907": {
       "name": "Fermín",
@@ -1189,33 +1318,34 @@
       "resourceId": 134494907,
       "assetId": 277179
     },
-    "134495774": {
+    "151272990": {
       "name": "Pau Cubarsí",
       "cardName": "Pau Cubarsí",
-      "originalVersionId": "138",
+      "originalVersionId": "78",
       "clubId": 241,
       "leagueId": 53,
       "countryId": 45,
-      "versionId": "138",
-      "rating": 97,
+      "versionId": "78",
+      "rating": 99,
       "preferredFoot": "Right",
       "weakFoot": 5,
-      "skillMoves": 4,
+      "skillMoves": 5,
       "preferredPosition": "CB",
       "possiblePositions": [
         "CB"
       ],
       "playStyles": [
-        10,
-        15,
+        11,
         16,
         19,
         20,
         25,
+        26,
         28
       ],
       "playStylesPlus": [
-        11,
+        10,
+        15,
         17,
         18,
         9
@@ -1227,16 +1357,16 @@
         148
       ],
       "attributes": [
-        94,
-        60,
-        91,
-        92,
-        97,
-        97
+        95,
+        66,
+        93,
+        93,
+        99,
+        99
       ],
       "hasDynamicImage": true,
-      "price": 87500,
-      "resourceId": 134495774,
+      "price": 791000,
+      "resourceId": 151272990,
       "assetId": 278046
     },
     "168005579": {
@@ -1276,19 +1406,19 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 532000,
+      "price": 586000,
       "resourceId": 168005579,
       "assetId": 233419
     },
-    "168049803": {
+    "184827019": {
       "name": "Lamine Yamal",
       "cardName": "Lamine Yamal",
-      "originalVersionId": "137",
+      "originalVersionId": "78",
       "clubId": 241,
       "leagueId": 53,
       "countryId": 45,
-      "versionId": "137",
-      "rating": 98,
+      "versionId": "78",
+      "rating": 99,
       "preferredFoot": "Left",
       "weakFoot": 5,
       "skillMoves": 5,
@@ -1298,19 +1428,20 @@
         "RW"
       ],
       "playStyles": [
-        11,
-        13,
-        20,
+        12,
         22,
         23,
         25,
-        7
+        6,
+        7,
+        8
       ],
       "playStylesPlus": [
         0,
-        21,
-        6,
-        8
+        11,
+        13,
+        20,
+        21
       ],
       "rolesPlus": [
         123,
@@ -1322,16 +1453,16 @@
         137
       ],
       "attributes": [
-        97,
-        95,
         98,
-        98,
-        33,
-        81
+        96,
+        99,
+        99,
+        34,
+        83
       ],
       "hasDynamicImage": true,
-      "price": 1690000,
-      "resourceId": 168049803,
+      "price": 4700000,
+      "resourceId": 184827019,
       "assetId": 277643
     }
   }

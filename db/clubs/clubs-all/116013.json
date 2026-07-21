@@ -210,7 +210,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 227255,
       "assetId": 227255
     },
@@ -249,7 +249,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 246641,
       "assetId": 246641
     },
@@ -287,7 +287,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 900,
       "resourceId": 247805,
       "assetId": 247805
     },
@@ -694,7 +694,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 750,
       "resourceId": 272208,
       "assetId": 272208
     },
@@ -729,7 +729,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 2300,
       "resourceId": 273149,
       "assetId": 273149
     },
@@ -848,7 +848,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 6900,
       "resourceId": 276299,
       "assetId": 276299
     },
@@ -985,7 +985,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 63500,
+      "price": 71000,
       "resourceId": 50578289,
       "assetId": 246641
     },
@@ -1129,7 +1129,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 12250,
+      "price": 18500,
       "resourceId": 50608494,
       "assetId": 276846
     },
@@ -1188,9 +1188,88 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 38750,
       "resourceId": 67336119,
       "assetId": 227255
+    },
+    "67374104": {
+      "name": "Lia Wälti",
+      "cardName": "Wälti",
+      "originalVersionId": "1",
+      "clubId": 116013,
+      "leagueId": 2216,
+      "countryId": 47,
+      "versionId": "3002",
+      "rating": 82,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        17,
+        18,
+        19,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        16,
+        21
+      ],
+      "attributes": [
+        80,
+        62,
+        76,
+        83,
+        81,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 4300,
+      "resourceId": 67374104,
+      "assetId": 265240
+    },
+    "100736973": {
+      "name": "Nadia Krezyman",
+      "cardName": "Krezyman",
+      "originalVersionId": "0",
+      "clubId": 116013,
+      "leagueId": 2216,
+      "countryId": 37,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27
+      ],
+      "attributes": [
+        83,
+        54,
+        71,
+        70,
+        43,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 100736973,
+      "assetId": 73677
     }
   }
 }

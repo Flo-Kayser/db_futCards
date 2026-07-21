@@ -140,7 +140,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 15750,
+      "price": 13500,
       "resourceId": 50556849,
       "assetId": 225201
     },
@@ -205,51 +205,6 @@
       "resourceId": 50557171,
       "assetId": 225523
     },
-    "50562517": {
-      "name": "Unai Simón",
-      "cardName": "Unai Simón",
-      "originalVersionId": "111",
-      "clubId": 448,
-      "leagueId": 53,
-      "countryId": 45,
-      "versionId": "111",
-      "rating": 90,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 2,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        10,
-        30,
-        31,
-        32,
-        34,
-        9
-      ],
-      "playStylesPlus": [
-        33
-      ],
-      "rolesPlus": [
-        101,
-        102,
-        145
-      ],
-      "attributes": [
-        89,
-        85,
-        84,
-        90,
-        56,
-        90
-      ],
-      "hasDynamicImage": true,
-      "price": 58000,
-      "resourceId": 50562517,
-      "assetId": 230869
-    },
     "50611252": {
       "name": "Jauregizar",
       "cardName": "Jauregizar",
@@ -296,9 +251,58 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 15000,
+      "price": 16000,
       "resourceId": 50611252,
       "assetId": 279604
+    },
+    "67339733": {
+      "name": "Unai Simón",
+      "cardName": "Unai Simón",
+      "originalVersionId": "78",
+      "clubId": 448,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "78",
+      "rating": 99,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        11,
+        30,
+        32,
+        35,
+        8
+      ],
+      "playStylesPlus": [
+        10,
+        31,
+        33,
+        34,
+        9
+      ],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        98,
+        94,
+        94,
+        99,
+        65,
+        99
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 204000,
+      "price": 0,
+      "resourceId": 67339733,
+      "assetId": 230869
     },
     "67340048": {
       "name": "Guruzeta",
@@ -396,7 +400,7 @@
         99
       ],
       "hasDynamicImage": true,
-      "price": 719000,
+      "price": 539000,
       "resourceId": 84098298,
       "assetId": 212218
     },
@@ -455,19 +459,70 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 687000,
+      "price": 655000,
       "resourceId": 84102281,
       "assetId": 216201
     },
-    "117697028": {
-      "name": "Nico Williams",
-      "cardName": "Nico Williams",
-      "originalVersionId": "109",
+    "117652730": {
+      "name": "Aymeric Laporte",
+      "cardName": "Laporte",
+      "originalVersionId": "78",
       "clubId": 448,
       "leagueId": 53,
       "countryId": 45,
-      "versionId": "109",
-      "rating": 96,
+      "versionId": "78",
+      "rating": 99,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        11,
+        15,
+        19,
+        4,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        14,
+        16,
+        17,
+        18,
+        28
+      ],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        148
+      ],
+      "attributes": [
+        95,
+        78,
+        97,
+        95,
+        99,
+        99
+      ],
+      "hasDynamicImage": true,
+      "price": 1450000,
+      "resourceId": 117652730,
+      "assetId": 212218
+    },
+    "134474244": {
+      "name": "Nico Williams",
+      "cardName": "Nico Williams",
+      "originalVersionId": "78",
+      "clubId": 448,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "78",
+      "rating": 99,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 5,
@@ -477,8 +532,22 @@
         "LW",
         "RM"
       ],
-      "playStyles": [],
-      "playStylesPlus": [],
+      "playStyles": [
+        11,
+        22,
+        26,
+        6,
+        7,
+        8,
+        9
+      ],
+      "playStylesPlus": [
+        0,
+        13,
+        20,
+        21,
+        25
+      ],
       "rolesPlus": [
         123,
         124,
@@ -494,15 +563,15 @@
       ],
       "attributes": [
         99,
-        91,
-        92,
-        96,
-        47,
-        88
+        94,
+        95,
+        97,
+        52,
+        91
       ],
       "hasDynamicImage": true,
-      "price": 397000,
-      "resourceId": 117697028,
+      "price": 1600000,
+      "resourceId": 134474244,
       "assetId": 256516
     }
   }

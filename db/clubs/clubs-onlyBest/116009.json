@@ -133,7 +133,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 79431,
       "assetId": 79431
     },
@@ -210,7 +210,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 750,
       "resourceId": 258680,
       "assetId": 258680
     },
@@ -403,7 +403,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1300,
       "resourceId": 273469,
       "assetId": 273469
     },
@@ -611,7 +611,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 47750,
+      "price": 56000,
       "resourceId": 50558767,
       "assetId": 227119
     },
@@ -648,7 +648,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 47250,
+      "price": 49750,
       "resourceId": 50565012,
       "assetId": 233364
     },
@@ -708,7 +708,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 49000,
+      "price": 35000,
       "resourceId": 50571409,
       "assetId": 239761
     },
@@ -752,7 +752,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 23500,
+      "price": 18500,
       "resourceId": 50577520,
       "assetId": 245872
     },
@@ -852,7 +852,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 45000,
+      "price": 38000,
       "resourceId": 50588649,
       "assetId": 257001
     },
@@ -1031,7 +1031,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 140000,
+      "price": 132000,
       "resourceId": 67346152,
       "assetId": 237288
     },
@@ -1082,7 +1082,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 86000,
+      "price": 76500,
       "resourceId": 67355290,
       "assetId": 246426
     },
@@ -1232,7 +1232,7 @@
         90
       ],
       "hasDynamicImage": false,
-      "price": 35000,
+      "price": 34250,
       "resourceId": 67385163,
       "assetId": 276299
     },
@@ -1353,7 +1353,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 21500,
       "resourceId": 84151319,
       "assetId": 265239
     },
@@ -1465,9 +1465,90 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 21500,
       "resourceId": 100900584,
       "assetId": 237288
+    },
+    "100928232": {
+      "name": "Géraldine Reuteler",
+      "cardName": "Reuteler",
+      "originalVersionId": "1",
+      "clubId": 116009,
+      "leagueId": 2216,
+      "countryId": 47,
+      "versionId": "3002",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        10,
+        12,
+        17,
+        22,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        143
+      ],
+      "attributes": [
+        90,
+        82,
+        81,
+        85,
+        59,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 1200,
+      "resourceId": 100928232,
+      "assetId": 264936
+    },
+    "117705537": {
+      "name": "Selina Cerci",
+      "cardName": "Cerci",
+      "originalVersionId": "1",
+      "clubId": 116009,
+      "leagueId": 2216,
+      "countryId": 21,
+      "versionId": "3002",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        6
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        142
+      ],
+      "attributes": [
+        82,
+        82,
+        75,
+        81,
+        53,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 3900,
+      "resourceId": 117705537,
+      "assetId": 265025
     },
     "134455016": {
       "name": "Mariona",
@@ -1520,6 +1601,48 @@
       "hasDynamicImage": true,
       "resourceId": 134455016,
       "assetId": 237288
+    },
+    "134461132": {
+      "name": "Georgia Stanway",
+      "cardName": "Stanway",
+      "originalVersionId": "1",
+      "clubId": 116009,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "3002",
+      "rating": 85,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM"
+      ],
+      "playStyles": [
+        10,
+        14,
+        20,
+        22
+      ],
+      "playStylesPlus": [
+        9
+      ],
+      "rolesPlus": [
+        16,
+        49
+      ],
+      "attributes": [
+        80,
+        79,
+        80,
+        86,
+        77,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 2200,
+      "resourceId": 134461132,
+      "assetId": 243404
     }
   }
 }

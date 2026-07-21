@@ -287,7 +287,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 80000,
+      "price": 53000,
       "resourceId": 67360430,
       "assetId": 251566
     },
@@ -339,7 +339,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 400000,
+      "price": 475000,
       "resourceId": 67366575,
       "assetId": 257711
     },
@@ -456,52 +456,9 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 250000,
+      "price": 255000,
       "resourceId": 84129795,
       "assetId": 243715
-    },
-    "84134228": {
-      "name": "Zubimendi",
-      "cardName": "Zubimendi",
-      "originalVersionId": "98",
-      "clubId": 1,
-      "leagueId": 13,
-      "countryId": 45,
-      "versionId": "98",
-      "rating": 96,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        114,
-        115,
-        116,
-        117,
-        118,
-        119,
-        120,
-        121,
-        122,
-        149
-      ],
-      "attributes": [
-        90,
-        90,
-        96,
-        96,
-        91,
-        91
-      ],
-      "hasDynamicImage": true,
-      "resourceId": 84134228,
-      "assetId": 248148
     },
     "84142277": {
       "name": "Piero Hincapié",
@@ -547,54 +504,9 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 98500,
+      "price": 91500,
       "resourceId": 84142277,
       "assetId": 256197
-    },
-    "100888489": {
-      "name": "Mikel Merino",
-      "cardName": "Mikel Merino",
-      "originalVersionId": "94",
-      "clubId": 1,
-      "leagueId": 13,
-      "countryId": 45,
-      "versionId": "94",
-      "rating": 95,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CM",
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [
-        6
-      ],
-      "rolesPlus": [
-        118,
-        119,
-        120,
-        121,
-        122,
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        91,
-        96,
-        95,
-        95,
-        90,
-        93
-      ],
-      "hasDynamicImage": true,
-      "price": 80000,
-      "resourceId": 100888489,
-      "assetId": 225193
     },
     "100899086": {
       "name": "Kai Havertz",
@@ -700,9 +612,67 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 1821000,
+      "price": 1350000,
       "resourceId": 100909965,
       "assetId": 246669
+    },
+    "100911444": {
+      "name": "Zubimendi",
+      "cardName": "Zubimendi",
+      "originalVersionId": "78",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 45,
+      "versionId": "78",
+      "rating": 99,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        14,
+        19,
+        24,
+        25,
+        6,
+        8
+      ],
+      "playStylesPlus": [
+        11,
+        16,
+        20,
+        22,
+        9
+      ],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        149
+      ],
+      "attributes": [
+        93,
+        93,
+        99,
+        98,
+        94,
+        94
+      ],
+      "hasDynamicImage": true,
+      "price": 650000,
+      "resourceId": 100911444,
+      "assetId": 248148
     },
     "100915101": {
       "name": "Jurriën Timber",
@@ -766,7 +736,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 58500,
+      "price": 64500,
       "resourceId": 100915101,
       "assetId": 251805
     },
@@ -822,9 +792,66 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 400000,
+      "price": 295000,
       "resourceId": 117663177,
       "assetId": 222665
+    },
+    "117665705": {
+      "name": "Mikel Merino",
+      "cardName": "Mikel Merino",
+      "originalVersionId": "78",
+      "clubId": 1,
+      "leagueId": 13,
+      "countryId": 45,
+      "versionId": "78",
+      "rating": 99,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        10,
+        16,
+        19,
+        2,
+        26,
+        4
+      ],
+      "playStylesPlus": [
+        11,
+        20,
+        25,
+        6,
+        9
+      ],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        95,
+        99,
+        99,
+        98,
+        94,
+        97
+      ],
+      "hasDynamicImage": true,
+      "price": 1100000,
+      "resourceId": 117665705,
+      "assetId": 225193
     },
     "117676306": {
       "name": "Eberechi Eze",
@@ -905,7 +932,7 @@
         98
       ],
       "hasDynamicImage": true,
-      "price": 354000,
+      "price": 320000,
       "resourceId": 117682163,
       "assetId": 241651
     },
@@ -977,7 +1004,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 300000,
+      "price": 278000,
       "resourceId": 134450308,
       "assetId": 232580
     },
@@ -1062,7 +1089,7 @@
         97
       ],
       "hasDynamicImage": true,
-      "price": 498000,
+      "price": 356000,
       "resourceId": 184783754,
       "assetId": 234378
     }

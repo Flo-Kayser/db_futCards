@@ -498,7 +498,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 8800,
+      "price": 750,
       "resourceId": 276519,
       "assetId": 276519
     },
@@ -603,7 +603,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1400,
       "resourceId": 279189,
       "assetId": 279189
     },
@@ -655,7 +655,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 15000,
       "resourceId": 50565224,
       "assetId": 233576
     },
@@ -742,7 +742,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 36500,
       "resourceId": 50603872,
       "assetId": 272224
     },
@@ -788,7 +788,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 22500,
       "resourceId": 50603883,
       "assetId": 272235
     },
@@ -831,9 +831,88 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 39000,
+      "price": 40500,
       "resourceId": 50603905,
       "assetId": 272257
+    },
+    "50608696": {
+      "name": "Ari Mingueza",
+      "cardName": "Ari Mingueza",
+      "originalVersionId": "1",
+      "clubId": 116332,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18,
+        20
+      ],
+      "attributes": [
+        72,
+        70,
+        76,
+        73,
+        65,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50608696,
+      "assetId": 277048
+    },
+    "50608926": {
+      "name": "Natalia Padilla Bidas",
+      "cardName": "Padilla Bidas",
+      "originalVersionId": "0",
+      "clubId": 116332,
+      "leagueId": 2222,
+      "countryId": 37,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        35,
+        36,
+        39,
+        42
+      ],
+      "attributes": [
+        78,
+        71,
+        62,
+        72,
+        45,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50608926,
+      "assetId": 277278
     }
   }
 }

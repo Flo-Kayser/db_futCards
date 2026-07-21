@@ -68,7 +68,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 70477,
       "assetId": 70477
     },
@@ -105,7 +105,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 74473,
       "assetId": 74473
     },
@@ -142,7 +142,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 74475,
       "assetId": 74475
     },
@@ -245,7 +245,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 2100,
       "resourceId": 79513,
       "assetId": 79513
     },
@@ -465,7 +465,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 216750,
       "assetId": 216750
     },
@@ -689,7 +689,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 850,
       "resourceId": 244108,
       "assetId": 244108
     },
@@ -725,7 +725,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 1900,
       "resourceId": 253202,
       "assetId": 253202
     },
@@ -801,7 +801,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 3100,
       "resourceId": 256427,
       "assetId": 256427
     },
@@ -839,7 +839,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 4500,
       "resourceId": 258196,
       "assetId": 258196
     },
@@ -987,6 +987,40 @@
       "price": 200,
       "resourceId": 50411161,
       "assetId": 79513
+    },
+    "50536161": {
+      "name": "Maxime Dupé",
+      "cardName": "Dupé",
+      "originalVersionId": "1",
+      "clubId": 71,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        76,
+        73,
+        72,
+        74,
+        46,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 900,
+      "resourceId": 50536161,
+      "assetId": 204513
     },
     "50552485": {
       "name": "Deiver Machado",
@@ -1177,7 +1211,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 44250,
+      "price": 47000,
       "resourceId": 50596070,
       "assetId": 264422
     },
@@ -1214,7 +1248,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50600651,
       "assetId": 269003
     },
@@ -1342,6 +1376,44 @@
       "price": 350,
       "resourceId": 67339953,
       "assetId": 231089
+    },
+    "67340555": {
+      "name": "Alban Lafont",
+      "cardName": "Lafont",
+      "originalVersionId": "1",
+      "clubId": 71,
+      "leagueId": 16,
+      "countryId": 108,
+      "versionId": "3002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31,
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        71,
+        70,
+        69,
+        81,
+        47,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 650,
+      "resourceId": 67340555,
+      "assetId": 231691
     }
   }
 }

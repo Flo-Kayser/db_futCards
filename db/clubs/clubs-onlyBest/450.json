@@ -325,7 +325,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 7700,
+      "price": 2700,
       "resourceId": 235997,
       "assetId": 235997
     },
@@ -816,9 +816,46 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 20250,
+      "price": 18750,
       "resourceId": 50552469,
       "assetId": 220821
+    },
+    "50583975": {
+      "name": "Manu Sánchez",
+      "cardName": "Manu Sánchez",
+      "originalVersionId": "0",
+      "clubId": 450,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        15
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9
+      ],
+      "attributes": [
+        70,
+        44,
+        64,
+        70,
+        73,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50583975,
+      "assetId": 252327
     },
     "50591342": {
       "name": "Mingueza",
@@ -906,7 +943,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 47500,
+      "price": 37500,
       "resourceId": 50594875,
       "assetId": 263227
     },
@@ -945,7 +982,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 48000,
       "resourceId": 50597448,
       "assetId": 265800
     },
@@ -992,7 +1029,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 22500,
+      "price": 13500,
       "resourceId": 50603564,
       "assetId": 271916
     },
@@ -1136,9 +1173,87 @@
         93
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 84750,
+      "sbcPrice": 85000,
       "resourceId": 67333043,
       "assetId": 224179
+    },
+    "67340455": {
+      "name": "Javi Galán",
+      "cardName": "Javi Galán",
+      "originalVersionId": "0",
+      "clubId": 450,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10
+      ],
+      "attributes": [
+        78,
+        56,
+        75,
+        79,
+        77,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67340455,
+      "assetId": 231591
+    },
+    "67349764": {
+      "name": "Unai Núñez",
+      "cardName": "Unai Núñez",
+      "originalVersionId": "0",
+      "clubId": 450,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16,
+        18,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12,
+        13
+      ],
+      "attributes": [
+        66,
+        24,
+        51,
+        51,
+        76,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67349764,
+      "assetId": 240900
     },
     "83961708": {
       "name": "Fer López",
@@ -1198,6 +1313,45 @@
       "price": 0,
       "resourceId": 83961708,
       "assetId": 75628
+    },
+    "84121602": {
+      "name": "Aleix Febas",
+      "cardName": "Aleix Febas",
+      "originalVersionId": "0",
+      "clubId": 450,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        13
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        18
+      ],
+      "attributes": [
+        74,
+        61,
+        72,
+        74,
+        64,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 84121602,
+      "assetId": 235522
     }
   }
 }

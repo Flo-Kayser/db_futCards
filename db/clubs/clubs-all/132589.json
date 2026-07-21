@@ -65,7 +65,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 200,
       "resourceId": 78591,
       "assetId": 78591
     },
@@ -1006,6 +1006,80 @@
       "resourceId": 50596614,
       "assetId": 264966
     },
+    "50600099": {
+      "name": "Jill Janssens",
+      "cardName": "Janssens",
+      "originalVersionId": "0",
+      "clubId": 132589,
+      "leagueId": 2215,
+      "countryId": 7,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        26
+      ],
+      "attributes": [
+        84,
+        72,
+        69,
+        75,
+        68,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50600099,
+      "assetId": 268451
+    },
+    "50608689": {
+      "name": "Jella Veit",
+      "cardName": "Veit",
+      "originalVersionId": "0",
+      "clubId": 132589,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13,
+        48
+      ],
+      "attributes": [
+        65,
+        39,
+        48,
+        51,
+        71,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50608689,
+      "assetId": 277041
+    },
     "50611341": {
       "name": "Eileen Campbell",
       "cardName": "Campbell",
@@ -1049,9 +1123,84 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 44500,
+      "price": 34750,
       "resourceId": 50611341,
       "assetId": 279693
+    },
+    "67373789": {
+      "name": "Lisanne Gräwe",
+      "cardName": "Gräwe",
+      "originalVersionId": "0",
+      "clubId": 132589,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        19,
+        20
+      ],
+      "attributes": [
+        54,
+        71,
+        75,
+        78,
+        69,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67373789,
+      "assetId": 264925
+    },
+    "100939145": {
+      "name": "Leela Egli",
+      "cardName": "Egli",
+      "originalVersionId": "0",
+      "clubId": 132589,
+      "leagueId": 2215,
+      "countryId": 47,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        41
+      ],
+      "attributes": [
+        75,
+        69,
+        67,
+        72,
+        37,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 100939145,
+      "assetId": 275849
     }
   }
 }

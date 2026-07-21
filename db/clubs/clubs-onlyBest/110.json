@@ -32,7 +32,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1200,
       "resourceId": 73049,
       "assetId": 73049
     },
@@ -105,7 +105,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 2000,
       "resourceId": 75628,
       "assetId": 75628
     },
@@ -328,7 +328,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 4400,
+      "price": 350,
       "resourceId": 235432,
       "assetId": 235432
     },
@@ -398,7 +398,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1100,
       "resourceId": 238756,
       "assetId": 238756
     },
@@ -432,7 +432,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 350,
       "resourceId": 239901,
       "assetId": 239901
     },
@@ -474,7 +474,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 9200,
+      "price": 9700,
       "resourceId": 241602,
       "assetId": 241602
     },
@@ -510,7 +510,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 800,
       "resourceId": 246763,
       "assetId": 246763
     },
@@ -625,7 +625,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 3600,
       "resourceId": 258575,
       "assetId": 258575
     },
@@ -987,7 +987,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 17750,
+      "price": 20000,
       "resourceId": 50593783,
       "assetId": 262135
     },
@@ -1088,9 +1088,49 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 42500,
+      "price": 26000,
       "resourceId": 67186457,
       "assetId": 77593
+    },
+    "67295209": {
+      "name": "Kieran Trippier",
+      "cardName": "Trippier",
+      "originalVersionId": "0",
+      "clubId": 110,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2002",
+      "rating": 80,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        10,
+        12,
+        27,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6
+      ],
+      "attributes": [
+        66,
+        65,
+        83,
+        77,
+        80,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67295209,
+      "assetId": 186345
     },
     "67330705": {
       "name": "Adam Armstrong",
@@ -1180,7 +1220,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 18750,
+      "price": 19750,
       "resourceId": 67344320,
       "assetId": 235456
     },
@@ -1274,9 +1314,47 @@
         92
       ],
       "hasDynamicImage": false,
-      "price": 39000,
+      "price": 34750,
       "resourceId": 84138144,
       "assetId": 252064
+    },
+    "100868134": {
+      "name": "Raúl Jiménez",
+      "cardName": "Jiménez",
+      "originalVersionId": "0",
+      "clubId": 110,
+      "leagueId": 13,
+      "countryId": 83,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        29,
+        5,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        57,
+        79,
+        74,
+        75,
+        46,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 100868134,
+      "assetId": 204838
     }
   }
 }

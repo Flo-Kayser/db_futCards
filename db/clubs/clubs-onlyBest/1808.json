@@ -805,7 +805,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 750,
       "resourceId": 269181,
       "assetId": 269181
     },
@@ -844,7 +844,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 350,
       "resourceId": 269495,
       "assetId": 269495
     },
@@ -958,7 +958,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 2000,
       "resourceId": 275246,
       "assetId": 275246
     },
@@ -1054,7 +1054,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 141000,
+      "price": 148000,
       "resourceId": 50470060,
       "assetId": 138412
     },
@@ -1104,9 +1104,85 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 25000,
       "resourceId": 50522413,
       "assetId": 190765
+    },
+    "50571008": {
+      "name": "Pascal Struijk",
+      "cardName": "Struijk",
+      "originalVersionId": "0",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 34,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        14
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12,
+        13
+      ],
+      "attributes": [
+        59,
+        46,
+        60,
+        65,
+        76,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50571008,
+      "assetId": 239360
+    },
+    "50583590": {
+      "name": "Costinha",
+      "cardName": "Costinha",
+      "originalVersionId": "0",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 38,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        17,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        78,
+        65,
+        72,
+        74,
+        70,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50583590,
+      "assetId": 251942
     },
     "50600926": {
       "name": "Diego Gómez",
@@ -1148,7 +1224,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 47500,
+      "price": 37250,
       "resourceId": 50600926,
       "assetId": 269278
     },
@@ -1434,9 +1510,81 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 27750,
+      "price": 24000,
       "resourceId": 67366264,
       "assetId": 257400
+    },
+    "67368472": {
+      "name": "Evan Ferguson",
+      "cardName": "Ferguson",
+      "originalVersionId": "1",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 25,
+      "versionId": "3001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        66,
+        75,
+        60,
+        71,
+        20,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67368472,
+      "assetId": 259608
+    },
+    "67372203": {
+      "name": "Carl Rushworth",
+      "cardName": "Rushworth",
+      "originalVersionId": "1",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3001",
+      "rating": 72,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        72,
+        70,
+        71,
+        73,
+        55,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 950,
+      "resourceId": 67372203,
+      "assetId": 263339
     },
     "67381364": {
       "name": "Carlos Baleba",
@@ -1486,7 +1634,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 105000,
+      "price": 151000,
       "resourceId": 67381364,
       "assetId": 272500
     }

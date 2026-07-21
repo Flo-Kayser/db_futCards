@@ -76,7 +76,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 2200,
       "resourceId": 220697,
       "assetId": 220697
     },
@@ -304,7 +304,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 350,
       "resourceId": 246791,
       "assetId": 246791
     },
@@ -347,7 +347,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 3200,
       "resourceId": 247394,
       "assetId": 247394
     },
@@ -497,7 +497,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 6900,
       "resourceId": 261025,
       "assetId": 261025
     },
@@ -531,7 +531,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 5700,
+      "price": 3600,
       "resourceId": 264702,
       "assetId": 264702
     },
@@ -573,6 +573,43 @@
       "price": 350,
       "resourceId": 270208,
       "assetId": 270208
+    },
+    "50403807": {
+      "name": "Mikey Moore",
+      "cardName": "Moore",
+      "originalVersionId": "0",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        38
+      ],
+      "attributes": [
+        76,
+        66,
+        68,
+        74,
+        35,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50403807,
+      "assetId": 72159
     },
     "50406510": {
       "name": "George Abbott",
@@ -690,7 +727,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 36000,
+      "price": 38500,
       "resourceId": 50537571,
       "assetId": 205923
     },
@@ -735,7 +772,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 47000,
+      "price": 51500,
       "resourceId": 50557187,
       "assetId": 225539
     },
@@ -815,7 +852,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 16250,
+      "price": 19000,
       "resourceId": 50569633,
       "assetId": 237985
     },
@@ -909,7 +946,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 523000,
+      "price": 524000,
       "resourceId": 50575350,
       "assetId": 243702
     },
@@ -1060,7 +1097,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 35000,
       "resourceId": 50602227,
       "assetId": 270579
     },
@@ -1131,9 +1168,84 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4500,
       "resourceId": 50610765,
       "assetId": 279117
+    },
+    "67329271": {
+      "name": "Martin Dúbravka",
+      "cardName": "Dúbravka",
+      "originalVersionId": "0",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 43,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        30,
+        31,
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        76,
+        76,
+        78,
+        79,
+        38,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67329271,
+      "assetId": 220407
+    },
+    "67345370": {
+      "name": "Marcos Senesi",
+      "cardName": "Senesi",
+      "originalVersionId": "0",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 52,
+      "versionId": "2002",
+      "rating": 78,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13
+      ],
+      "attributes": [
+        56,
+        42,
+        70,
+        72,
+        79,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67345370,
+      "assetId": 236506
     },
     "67346543": {
       "name": "Randal Kolo Muani",
@@ -1176,61 +1288,122 @@
       "resourceId": 67346543,
       "assetId": 237679
     },
-    "67352440": {
-      "name": "Pedro Porro",
-      "cardName": "Pedro Porro",
-      "originalVersionId": "138",
+    "67367772": {
+      "name": "Jan Paul van Hecke",
+      "cardName": "van Hecke",
+      "originalVersionId": "0",
       "clubId": 18,
       "leagueId": 13,
-      "countryId": 45,
-      "versionId": "138",
-      "rating": 96,
+      "countryId": 34,
+      "versionId": "2002",
+      "rating": 80,
       "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "RB",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
       "possiblePositions": [
-        "RB",
-        "RM"
+        "CB"
       ],
       "playStyles": [
         10,
-        12,
-        16,
-        17,
-        2,
-        28,
-        9
+        19
       ],
-      "playStylesPlus": [
-        11,
-        14,
-        15,
-        25
-      ],
+      "playStylesPlus": [],
       "rolesPlus": [
-        103,
-        104,
-        105,
-        106,
-        123,
-        124,
-        125,
-        126,
-        146
+        13
       ],
       "attributes": [
-        94,
-        88,
-        96,
-        94,
-        95,
-        95
+        67,
+        46,
+        72,
+        70,
+        80,
+        78
       ],
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 67352440,
-      "assetId": 243576
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67367772,
+      "assetId": 258908
+    },
+    "67379721": {
+      "name": "Mateus Fernandes",
+      "cardName": "Mateus Fernandes",
+      "originalVersionId": "0",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 38,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        31,
+        32
+      ],
+      "attributes": [
+        70,
+        69,
+        74,
+        79,
+        59,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67379721,
+      "assetId": 270857
+    },
+    "84102347": {
+      "name": "Andrew Robertson",
+      "cardName": "Robertson",
+      "originalVersionId": "1",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 42,
+      "versionId": "3002",
+      "rating": 82,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        12
+      ],
+      "playStylesPlus": [
+        26
+      ],
+      "rolesPlus": [
+        9,
+        10
+      ],
+      "attributes": [
+        74,
+        61,
+        80,
+        77,
+        79,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 900,
+      "resourceId": 84102347,
+      "assetId": 216267
     },
     "84118568": {
       "name": "Cristian Romero",
@@ -1322,9 +1495,66 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 133000,
+      "price": 80000,
       "resourceId": 84124296,
       "assetId": 238216
+    },
+    "84129656": {
+      "name": "Pedro Porro",
+      "cardName": "Pedro Porro",
+      "originalVersionId": "78",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 45,
+      "versionId": "78",
+      "rating": 99,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        11,
+        12,
+        15,
+        16,
+        2,
+        28,
+        9
+      ],
+      "playStylesPlus": [
+        10,
+        14,
+        17,
+        20,
+        21
+      ],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        123,
+        124,
+        125,
+        126,
+        146
+      ],
+      "attributes": [
+        97,
+        91,
+        99,
+        96,
+        98,
+        98
+      ],
+      "hasDynamicImage": true,
+      "price": 1465000,
+      "resourceId": 84129656,
+      "assetId": 243576
     },
     "84131235": {
       "name": "Mohammed Kudus",
@@ -1369,7 +1599,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 124000,
+      "price": 95000,
       "resourceId": 84131235,
       "assetId": 245155
     },
@@ -1487,7 +1717,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 80000,
+      "price": 93000,
       "resourceId": 100908663,
       "assetId": 245367
     },
@@ -1543,7 +1773,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 180000,
+      "price": 173000,
       "resourceId": 100927749,
       "assetId": 264453
     },
@@ -1637,7 +1867,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 15500,
       "resourceId": 134492920,
       "assetId": 275192
     }

@@ -31,7 +31,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 7100,
+      "price": 6500,
       "resourceId": 72798,
       "assetId": 72798
     },
@@ -141,7 +141,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1100,
       "resourceId": 226973,
       "assetId": 226973
     },
@@ -223,7 +223,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 226997,
       "assetId": 226997
     },
@@ -259,7 +259,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 2500,
       "resourceId": 227069,
       "assetId": 227069
     },
@@ -305,7 +305,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 2800,
       "resourceId": 233751,
       "assetId": 233751
     },
@@ -677,7 +677,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 200,
       "resourceId": 270665,
       "assetId": 270665
     },
@@ -782,7 +782,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 4200,
+      "price": 200,
       "resourceId": 275453,
       "assetId": 275453
     },
@@ -887,7 +887,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 3900,
       "resourceId": 276883,
       "assetId": 276883
     },
@@ -984,7 +984,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 29250,
+      "price": 39500,
       "resourceId": 50558635,
       "assetId": 226987
     },
@@ -1164,6 +1164,42 @@
       "resourceId": 50568845,
       "assetId": 237197
     },
+    "50579152": {
+      "name": "Mary Earps",
+      "cardName": "Earps",
+      "originalVersionId": "1",
+      "clubId": 132176,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "3002",
+      "rating": 84,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        145
+      ],
+      "attributes": [
+        81,
+        80,
+        83,
+        82,
+        41,
+        84
+      ],
+      "hasDynamicImage": false,
+      "price": 3300,
+      "resourceId": 50579152,
+      "assetId": 247504
+    },
     "50596921": {
       "name": "Katie Zelem",
       "cardName": "Zelem",
@@ -1203,7 +1239,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1800,
       "resourceId": 50596921,
       "assetId": 265273
     },
@@ -1372,7 +1408,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 82500,
+      "price": 44250,
       "resourceId": 50607945,
       "assetId": 276297
     },
@@ -1542,7 +1578,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 16750,
       "resourceId": 67335861,
       "assetId": 226997
     },
@@ -1638,6 +1674,46 @@
       "resourceId": 67346061,
       "assetId": 237197
     },
+    "67373811": {
+      "name": "Nicole Anyomi",
+      "cardName": "Anyomi",
+      "originalVersionId": "1",
+      "clubId": 132176,
+      "leagueId": 2216,
+      "countryId": 21,
+      "versionId": "3002",
+      "rating": 83,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        14,
+        20,
+        23,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        43
+      ],
+      "attributes": [
+        90,
+        79,
+        73,
+        84,
+        55,
+        83
+      ],
+      "hasDynamicImage": false,
+      "price": 1200,
+      "resourceId": 67373811,
+      "assetId": 264947
+    },
     "67385161": {
       "name": "Freya Godfrey",
       "cardName": "Godfrey",
@@ -1692,9 +1768,56 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 45000,
+      "price": 35000,
       "resourceId": 67385161,
       "assetId": 276297
+    },
+    "167999363": {
+      "name": "Alexia Putellas",
+      "cardName": "Alexia Putellas",
+      "originalVersionId": "1",
+      "clubId": 132176,
+      "leagueId": 2216,
+      "countryId": 45,
+      "versionId": "3002",
+      "rating": 91,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        11,
+        13,
+        20,
+        7,
+        8
+      ],
+      "playStylesPlus": [
+        22
+      ],
+      "rolesPlus": [
+        22,
+        121,
+        133
+      ],
+      "attributes": [
+        82,
+        89,
+        90,
+        91,
+        72,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 23000,
+      "resourceId": 167999363,
+      "assetId": 227203
     }
   }
 }
