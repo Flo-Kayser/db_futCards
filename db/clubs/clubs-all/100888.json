@@ -67,7 +67,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 4100,
+      "price": 5100,
       "resourceId": 74546,
       "assetId": 74546
     },
@@ -734,7 +734,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 267698,
       "assetId": 267698
     },
@@ -812,7 +812,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 271490,
       "assetId": 271490
     },
@@ -927,6 +927,42 @@
       "resourceId": 50402458,
       "assetId": 70810
     },
+    "50518328": {
+      "name": "Raúl Fernández",
+      "cardName": "Raúl Fernández",
+      "originalVersionId": "1",
+      "clubId": 100888,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "3001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        71,
+        73,
+        67,
+        71,
+        38,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 50518328,
+      "assetId": 186680
+    },
     "50530099": {
       "name": "Dani Rodríguez",
       "cardName": "Dani Rodríguez",
@@ -967,6 +1003,85 @@
       "price": 350,
       "resourceId": 50530099,
       "assetId": 198451
+    },
+    "50586434": {
+      "name": "Atienza",
+      "cardName": "Atienza",
+      "originalVersionId": "0",
+      "clubId": 100888,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        20
+      ],
+      "attributes": [
+        55,
+        61,
+        62,
+        65,
+        65,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50586434,
+      "assetId": 254786
+    },
+    "67374605": {
+      "name": "Zico Buurmeester",
+      "cardName": "Buurmeester",
+      "originalVersionId": "0",
+      "clubId": 100888,
+      "leagueId": 54,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        19,
+        33
+      ],
+      "attributes": [
+        65,
+        62,
+        66,
+        71,
+        64,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67374605,
+      "assetId": 265741
     }
   }
 }

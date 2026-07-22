@@ -252,7 +252,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 900,
       "resourceId": 225863,
       "assetId": 225863
     },
@@ -767,7 +767,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 4400,
+      "price": 4100,
       "resourceId": 264120,
       "assetId": 264120
     },
@@ -805,7 +805,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 350,
       "resourceId": 269181,
       "assetId": 269181
     },
@@ -958,7 +958,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 1000,
       "resourceId": 275246,
       "assetId": 275246
     },
@@ -1054,7 +1054,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 148000,
+      "price": 108000,
       "resourceId": 50470060,
       "assetId": 138412
     },
@@ -1104,7 +1104,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 19750,
       "resourceId": 50522413,
       "assetId": 190765
     },
@@ -1146,6 +1146,41 @@
       "resourceId": 50571008,
       "assetId": 239360
     },
+    "50582427": {
+      "name": "Michael Svoboda",
+      "cardName": "Svoboda",
+      "originalVersionId": "1",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 4,
+      "versionId": "3001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        59,
+        44,
+        52,
+        56,
+        67,
+        80
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50582427,
+      "assetId": 250779
+    },
     "50583590": {
       "name": "Costinha",
       "cardName": "Costinha",
@@ -1180,7 +1215,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 350,
       "resourceId": 50583590,
       "assetId": 251942
     },
@@ -1224,7 +1259,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 37250,
+      "price": 47500,
       "resourceId": 50600926,
       "assetId": 269278
     },
@@ -1510,7 +1545,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 24000,
+      "price": 20500,
       "resourceId": 67366264,
       "assetId": 257400
     },
@@ -1582,9 +1617,51 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 350,
       "resourceId": 67372203,
       "assetId": 263339
+    },
+    "67372778": {
+      "name": "Eíran Cashin",
+      "cardName": "Cashin",
+      "originalVersionId": "1",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 25,
+      "versionId": "3001",
+      "rating": 73,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        10,
+        15,
+        16,
+        18,
+        19,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        13
+      ],
+      "attributes": [
+        58,
+        44,
+        57,
+        60,
+        71,
+        81
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 67372778,
+      "assetId": 263914
     },
     "67381364": {
       "name": "Carlos Baleba",
@@ -1634,9 +1711,50 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 151000,
+      "price": 159000,
       "resourceId": 67381364,
       "assetId": 272500
+    },
+    "67383380": {
+      "name": "Ibrahim Osman",
+      "cardName": "Osman",
+      "originalVersionId": "1",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 117,
+      "versionId": "3001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        29,
+        30
+      ],
+      "attributes": [
+        90,
+        64,
+        62,
+        76,
+        28,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67383380,
+      "assetId": 274516
     }
   }
 }

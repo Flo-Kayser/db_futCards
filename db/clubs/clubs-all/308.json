@@ -111,7 +111,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 9200,
+      "price": 4000,
       "resourceId": 72940,
       "assetId": 72940
     },
@@ -288,7 +288,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 500,
       "resourceId": 79427,
       "assetId": 79427
     },
@@ -362,7 +362,7 @@
         46
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1700,
       "resourceId": 221336,
       "assetId": 221336
     },
@@ -811,7 +811,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1500,
       "resourceId": 269731,
       "assetId": 269731
     },
@@ -922,7 +922,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 2500,
       "resourceId": 276452,
       "assetId": 276452
     },
@@ -993,9 +993,80 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 850,
       "resourceId": 50583643,
       "assetId": 251995
+    },
+    "50590174": {
+      "name": "Simon Elisor",
+      "cardName": "Elisor",
+      "originalVersionId": "0",
+      "clubId": 308,
+      "leagueId": 330,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        44
+      ],
+      "attributes": [
+        74,
+        69,
+        58,
+        68,
+        37,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50590174,
+      "assetId": 258526
+    },
+    "50598451": {
+      "name": "Răzvan Sava",
+      "cardName": "Sava",
+      "originalVersionId": "1",
+      "clubId": 308,
+      "leagueId": 330,
+      "countryId": 39,
+      "versionId": "3001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        71,
+        70,
+        65,
+        74,
+        25,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 50598451,
+      "assetId": 266803
     }
   }
 }

@@ -34,7 +34,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 74566,
       "assetId": 74566
     },
@@ -248,7 +248,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 203106,
       "assetId": 203106
     },
@@ -861,7 +861,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 4200,
+      "price": 5100,
       "resourceId": 265754,
       "assetId": 265754
     },
@@ -1012,7 +1012,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 9900,
       "resourceId": 271247,
       "assetId": 271247
     },
@@ -1170,7 +1170,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 950,
       "resourceId": 50588336,
       "assetId": 256688
     },
@@ -1214,6 +1214,47 @@
       "resourceId": 50588424,
       "assetId": 256776
     },
+    "50602915": {
+      "name": "Chuki",
+      "cardName": "Chuki",
+      "originalVersionId": "0",
+      "clubId": 38,
+      "leagueId": 19,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [
+        13,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        31,
+        33
+      ],
+      "attributes": [
+        68,
+        64,
+        62,
+        69,
+        35,
+        47
+      ],
+      "hasDynamicImage": false,
+      "price": 8200,
+      "resourceId": 50602915,
+      "assetId": 271267
+    },
     "50607591": {
       "name": "Ethan Kohler",
       "cardName": "Kohler",
@@ -1249,6 +1290,43 @@
       "price": 0,
       "resourceId": 50607591,
       "assetId": 275943
+    },
+    "67342003": {
+      "name": "Cedric Itten",
+      "cardName": "Itten",
+      "originalVersionId": "0",
+      "clubId": 38,
+      "leagueId": 19,
+      "countryId": 47,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        29,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        44
+      ],
+      "attributes": [
+        68,
+        71,
+        61,
+        66,
+        36,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67342003,
+      "assetId": 233139
     }
   }
 }

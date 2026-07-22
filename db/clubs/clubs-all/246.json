@@ -74,7 +74,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 5300,
       "resourceId": 72071,
       "assetId": 72071
     },
@@ -224,7 +224,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 9800,
+      "price": 9500,
       "resourceId": 74636,
       "assetId": 74636
     },
@@ -337,7 +337,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 79338,
       "assetId": 79338
     },
@@ -527,7 +527,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1300,
       "resourceId": 229114,
       "assetId": 229114
     },
@@ -564,7 +564,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 7000,
       "resourceId": 232229,
       "assetId": 232229
     },
@@ -917,7 +917,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 6000,
+      "price": 5000,
       "resourceId": 251806,
       "assetId": 251806
     },
@@ -1150,7 +1150,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 262221,
       "assetId": 262221
     },
@@ -1187,7 +1187,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 263603,
       "assetId": 263603
     },
@@ -1424,7 +1424,7 @@
         62
       ],
       "hasDynamicImage": true,
-      "price": 53500,
+      "price": 68000,
       "resourceId": 50402374,
       "assetId": 70726
     },
@@ -1465,7 +1465,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 2300,
       "resourceId": 50405612,
       "assetId": 73964
     },
@@ -1560,7 +1560,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 4100,
+      "price": 3500,
       "resourceId": 50558425,
       "assetId": 226777
     },
@@ -1652,7 +1652,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 39750,
+      "price": 55000,
       "resourceId": 50578474,
       "assetId": 246826
     },
@@ -1708,7 +1708,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 31000,
+      "price": 29750,
       "resourceId": 50583454,
       "assetId": 251806
     },
@@ -1748,7 +1748,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 47500,
       "resourceId": 50583810,
       "assetId": 252162
     },
@@ -1787,9 +1787,52 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 350,
       "resourceId": 50584031,
       "assetId": 252383
+    },
+    "50584579": {
+      "name": "Luka Ivanušec",
+      "cardName": "Ivanušec",
+      "originalVersionId": "1",
+      "clubId": 246,
+      "leagueId": 10,
+      "countryId": 10,
+      "versionId": "3001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        0,
+        13,
+        20,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        33,
+        38,
+        39
+      ],
+      "attributes": [
+        57,
+        69,
+        70,
+        79,
+        57,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50584579,
+      "assetId": 252931
     },
     "50592169": {
       "name": "Jordan Bos",
@@ -1872,7 +1915,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 15250,
+      "price": 15500,
       "resourceId": 50593869,
       "assetId": 262221
     },
@@ -1911,7 +1954,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 50594438,
       "assetId": 262790
     },
@@ -1960,7 +2003,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 19000,
       "resourceId": 50602914,
       "assetId": 271266
     },
@@ -1995,9 +2038,49 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 50606801,
       "assetId": 275153
+    },
+    "50609131": {
+      "name": "Gjivai Zechiël",
+      "cardName": "Zechiël",
+      "originalVersionId": "0",
+      "clubId": 246,
+      "leagueId": 10,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        16,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        19
+      ],
+      "attributes": [
+        71,
+        50,
+        65,
+        72,
+        67,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 9600,
+      "resourceId": 50609131,
+      "assetId": 277483
     },
     "67182828": {
       "name": "Shiloh 't Zand",
@@ -2078,7 +2161,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 67311516,
       "assetId": 202652
     },
@@ -2202,7 +2285,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 67349940,
       "assetId": 241076
     },
@@ -2280,7 +2363,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 16500,
       "resourceId": 67355690,
       "assetId": 246826
     },
@@ -2321,7 +2404,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 39750,
+      "price": 39500,
       "resourceId": 67361026,
       "assetId": 252162
     },
@@ -2376,7 +2459,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 21500,
       "resourceId": 67371085,
       "assetId": 262221
     },
@@ -2424,7 +2507,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 24000,
+      "price": 18500,
       "resourceId": 67371654,
       "assetId": 262790
     },
@@ -2462,7 +2545,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 350,
       "resourceId": 67375024,
       "assetId": 266160
     },
@@ -2511,7 +2594,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 23500,
+      "price": 23250,
       "resourceId": 84138242,
       "assetId": 252162
     },
@@ -2548,7 +2631,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 16750,
       "resourceId": 100915458,
       "assetId": 252162
     }

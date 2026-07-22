@@ -252,7 +252,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 1900,
       "resourceId": 230670,
       "assetId": 230670
     },
@@ -289,7 +289,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 350,
       "resourceId": 232080,
       "assetId": 232080
     },
@@ -722,7 +722,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 3700,
+      "price": 800,
       "resourceId": 247249,
       "assetId": 247249
     },
@@ -958,6 +958,45 @@
       "resourceId": 50563202,
       "assetId": 231554
     },
+    "50563486": {
+      "name": "Maximilian Wöber",
+      "cardName": "Wöber",
+      "originalVersionId": "0",
+      "clubId": 8,
+      "leagueId": 13,
+      "countryId": 4,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        8,
+        13,
+        48
+      ],
+      "attributes": [
+        64,
+        52,
+        67,
+        64,
+        75,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50563486,
+      "assetId": 231838
+    },
     "50563752": {
       "name": "Daniel James",
       "cardName": "James",
@@ -999,7 +1038,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 186000,
+      "price": 250000,
       "resourceId": 50563752,
       "assetId": 232104
     },
@@ -1082,7 +1121,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 33750,
+      "price": 35000,
       "resourceId": 50588839,
       "assetId": 257191
     },
@@ -1226,9 +1265,50 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 17750,
       "resourceId": 67351394,
       "assetId": 242530
+    },
+    "67354917": {
+      "name": "Joe Gelhardt",
+      "cardName": "Gelhardt",
+      "originalVersionId": "1",
+      "clubId": 8,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        33,
+        41,
+        43
+      ],
+      "attributes": [
+        75,
+        71,
+        67,
+        74,
+        39,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 4400,
+      "resourceId": 67354917,
+      "assetId": 246053
     },
     "67356225": {
       "name": "Brenden Aaronson",
@@ -1310,6 +1390,40 @@
       "price": 350,
       "resourceId": 67378359,
       "assetId": 269495
+    },
+    "67379070": {
+      "name": "Mateo Joseph",
+      "cardName": "Joseph",
+      "originalVersionId": "1",
+      "clubId": 8,
+      "leagueId": 13,
+      "countryId": 45,
+      "versionId": "3001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        82,
+        68,
+        55,
+        70,
+        38,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 4400,
+      "resourceId": 67379070,
+      "assetId": 270206
     }
   }
 }
