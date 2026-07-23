@@ -215,7 +215,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 3800,
       "resourceId": 202125,
       "assetId": 202125
     },
@@ -253,7 +253,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 9700,
+      "price": 9100,
       "resourceId": 211504,
       "assetId": 211504
     },
@@ -444,7 +444,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 5000,
       "resourceId": 243401,
       "assetId": 243401
     },
@@ -748,7 +748,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 264731,
       "assetId": 264731
     },
@@ -939,7 +939,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 5800,
+      "price": 10000,
       "resourceId": 278557,
       "assetId": 278557
     },
@@ -974,7 +974,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4900,
       "resourceId": 278828,
       "assetId": 278828
     },
@@ -1059,9 +1059,49 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 50543152,
       "assetId": 211504
+    },
+    "50561558": {
+      "name": "Svante Ingelsson",
+      "cardName": "Ingelsson",
+      "originalVersionId": "1",
+      "clubId": 1806,
+      "leagueId": 14,
+      "countryId": 46,
+      "versionId": "3001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        30,
+        33
+      ],
+      "attributes": [
+        73,
+        62,
+        67,
+        68,
+        61,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50561558,
+      "assetId": 229910
     },
     "50575233": {
       "name": "Gavin Bazunu",
@@ -1211,7 +1251,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 34250,
+      "price": 35000,
       "resourceId": 50602875,
       "assetId": 271227
     },
@@ -1282,9 +1322,84 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50608592,
       "assetId": 276944
+    },
+    "50609246": {
+      "name": "Djibril Soumaré",
+      "cardName": "Soumaré",
+      "originalVersionId": "0",
+      "clubId": 1806,
+      "leagueId": 14,
+      "countryId": 136,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        19,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        18
+      ],
+      "attributes": [
+        60,
+        56,
+        60,
+        64,
+        68,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50609246,
+      "assetId": 277598
+    },
+    "50610244": {
+      "name": "Luke Graham",
+      "cardName": "Graham",
+      "originalVersionId": "1",
+      "clubId": 1806,
+      "leagueId": 14,
+      "countryId": 42,
+      "versionId": "3000",
+      "rating": 58,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        61,
+        33,
+        44,
+        49,
+        58,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50610244,
+      "assetId": 278596
     },
     "67183223": {
       "name": "Freddie Anderson",

@@ -97,7 +97,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 3500,
     "resourceId": 74116,
     "assetId": 74116
   },
@@ -207,7 +207,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 1300,
+    "price": 2300,
     "resourceId": 213685,
     "assetId": 213685
   },
@@ -387,7 +387,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 5000,
+    "price": 2000,
     "resourceId": 237335,
     "assetId": 237335
   },
@@ -500,7 +500,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 6000,
+    "price": 5200,
     "resourceId": 241079,
     "assetId": 241079
   },
@@ -617,7 +617,7 @@
       53
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 750,
     "resourceId": 262573,
     "assetId": 262573
   },
@@ -760,7 +760,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 2100,
+    "price": 5000,
     "resourceId": 263249,
     "assetId": 263249
   },
@@ -796,7 +796,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 2600,
     "resourceId": 263361,
     "assetId": 263361
   },
@@ -907,6 +907,79 @@
     "price": 350,
     "resourceId": 269880,
     "assetId": 269880
+  },
+  "50520669": {
+    "name": "Joël Mall",
+    "cardName": "Mall",
+    "originalVersionId": "1",
+    "clubId": 900,
+    "leagueId": 189,
+    "countryId": 11,
+    "versionId": "3001",
+    "rating": 70,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 1,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      31,
+      35
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      2
+    ],
+    "attributes": [
+      71,
+      66,
+      63,
+      71,
+      44,
+      69
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50520669,
+    "assetId": 189021
+  },
+  "50594221": {
+    "name": "Stavros Gavriel",
+    "cardName": "Gavriel",
+    "originalVersionId": "0",
+    "clubId": 1891,
+    "leagueId": 308,
+    "countryId": 11,
+    "versionId": "2001",
+    "rating": 69,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      35
+    ],
+    "attributes": [
+      72,
+      69,
+      64,
+      69,
+      35,
+      53
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50594221,
+    "assetId": 262573
   },
   "50594897": {
     "name": "Stylianos Vrontis",

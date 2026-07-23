@@ -36,7 +36,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 1800,
       "resourceId": 70252,
       "assetId": 70252
     },
@@ -107,7 +107,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 4300,
+      "price": 3000,
       "resourceId": 72324,
       "assetId": 72324
     },
@@ -476,7 +476,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 9300,
+      "price": 9600,
       "resourceId": 240332,
       "assetId": 240332
     },
@@ -763,7 +763,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 3000,
       "resourceId": 265194,
       "assetId": 265194
     },
@@ -990,7 +990,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 275522,
       "assetId": 275522
     },
@@ -1069,7 +1069,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 15750,
+      "price": 15000,
       "resourceId": 50546306,
       "assetId": 214658
     },
@@ -1154,7 +1154,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 56500,
+      "price": 65000,
       "resourceId": 50563391,
       "assetId": 231743
     },
@@ -1274,7 +1274,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 50572816,
       "assetId": 241168
     },
@@ -1319,9 +1319,46 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 42000,
+      "price": 41500,
       "resourceId": 50574897,
       "assetId": 243249
+    },
+    "50596157": {
+      "name": "James Abankwah",
+      "cardName": "Abankwah",
+      "originalVersionId": "0",
+      "clubId": 55,
+      "leagueId": 31,
+      "countryId": 25,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        11,
+        12
+      ],
+      "attributes": [
+        70,
+        35,
+        45,
+        60,
+        65,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50596157,
+      "assetId": 264509
     },
     "50600304": {
       "name": "Alessandro Zanoli",
@@ -1360,6 +1397,42 @@
       "price": 200,
       "resourceId": 50600304,
       "assetId": 268656
+    },
+    "50602046": {
+      "name": "Luca Kjerrumgaard",
+      "cardName": "Kjerrumgaard",
+      "originalVersionId": "0",
+      "clubId": 55,
+      "leagueId": 31,
+      "countryId": 13,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        68,
+        63,
+        49,
+        61,
+        22,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50602046,
+      "assetId": 270398
     },
     "50603223": {
       "name": "Simone Pafundi",
@@ -1447,7 +1520,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 23500,
+      "price": 24500,
       "resourceId": 50604431,
       "assetId": 272783
     },
@@ -1539,9 +1612,79 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 22750,
+      "price": 17000,
       "resourceId": 67346931,
       "assetId": 238067
+    },
+    "67349871": {
+      "name": "Enzo Ebosse",
+      "cardName": "Ebosse",
+      "originalVersionId": "0",
+      "clubId": 55,
+      "leagueId": 31,
+      "countryId": 103,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        56,
+        35,
+        54,
+        60,
+        70,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67349871,
+      "assetId": 241007
+    },
+    "67376642": {
+      "name": "Leonardo Buta",
+      "cardName": "Leonardo Buta",
+      "originalVersionId": "0",
+      "clubId": 55,
+      "leagueId": 31,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        73,
+        49,
+        60,
+        65,
+        61,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67376642,
+      "assetId": 267778
     }
   }
 }

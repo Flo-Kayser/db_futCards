@@ -69,7 +69,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1100,
       "resourceId": 77414,
       "assetId": 77414
     },
@@ -146,7 +146,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 6500,
+      "price": 6400,
       "resourceId": 205402,
       "assetId": 205402
     },
@@ -420,7 +420,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1000,
       "resourceId": 241590,
       "assetId": 241590
     },
@@ -534,7 +534,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 5500,
+      "price": 2000,
       "resourceId": 244181,
       "assetId": 244181
     },
@@ -614,7 +614,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 2000,
       "resourceId": 246127,
       "assetId": 246127
     },
@@ -1188,6 +1188,124 @@
       "price": 350,
       "resourceId": 50573238,
       "assetId": 241590
+    },
+    "50594673": {
+      "name": "Lars Kehl",
+      "cardName": "Kehl",
+      "originalVersionId": "0",
+      "clubId": 110502,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        33,
+        43
+      ],
+      "attributes": [
+        70,
+        66,
+        64,
+        73,
+        40,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50594673,
+      "assetId": 263025
+    },
+    "67384722": {
+      "name": "Lance Duijvestijn",
+      "cardName": "Duijvestijn",
+      "originalVersionId": "0",
+      "clubId": 110502,
+      "leagueId": 20,
+      "countryId": 34,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        31,
+        32,
+        43
+      ],
+      "attributes": [
+        62,
+        66,
+        63,
+        69,
+        41,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67384722,
+      "assetId": 275858
+    },
+    "84148752": {
+      "name": "Noah Weißhaupt",
+      "cardName": "Weißhaupt",
+      "originalVersionId": "0",
+      "clubId": 110502,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        28,
+        39,
+        43
+      ],
+      "attributes": [
+        78,
+        60,
+        68,
+        74,
+        46,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 84148752,
+      "assetId": 262672
     }
   }
 }

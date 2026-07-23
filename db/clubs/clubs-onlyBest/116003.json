@@ -589,7 +589,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 350,
       "resourceId": 265036,
       "assetId": 265036
     },
@@ -978,7 +978,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 23500,
       "resourceId": 50580363,
       "assetId": 248715
     },
@@ -1107,6 +1107,109 @@
       "price": 350,
       "resourceId": 50596694,
       "assetId": 265046
+    },
+    "50596786": {
+      "name": "Inga Schuldt",
+      "cardName": "Schuldt",
+      "originalVersionId": "0",
+      "clubId": 116003,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        70,
+        69,
+        72,
+        72,
+        39,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50596786,
+      "assetId": 265138
+    },
+    "50603376": {
+      "name": "Elise Isolde Stenevik",
+      "cardName": "Stenevik",
+      "originalVersionId": "0",
+      "clubId": 116003,
+      "leagueId": 2215,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        71,
+        38,
+        64,
+        66,
+        70,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50603376,
+      "assetId": 271728
+    },
+    "50608688": {
+      "name": "Sophie Nachtigall",
+      "cardName": "Nachtigall",
+      "originalVersionId": "1",
+      "clubId": 116003,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "3001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        66,
+        59,
+        60,
+        70,
+        55,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50608688,
+      "assetId": 277040
     }
   }
 }

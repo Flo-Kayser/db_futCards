@@ -35,7 +35,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 5100,
       "resourceId": 70065,
       "assetId": 70065
     },
@@ -140,7 +140,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 550,
       "resourceId": 73044,
       "assetId": 73044
     },
@@ -178,7 +178,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 600,
       "resourceId": 73128,
       "assetId": 73128
     },
@@ -250,7 +250,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 550,
       "resourceId": 189221,
       "assetId": 189221
     },
@@ -287,7 +287,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1400,
       "resourceId": 205598,
       "assetId": 205598
     },
@@ -321,7 +321,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 500,
       "resourceId": 207762,
       "assetId": 207762
     },
@@ -357,7 +357,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 700,
       "resourceId": 210556,
       "assetId": 210556
     },
@@ -396,7 +396,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 200,
       "resourceId": 226720,
       "assetId": 226720
     },
@@ -432,7 +432,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1400,
       "resourceId": 235574,
       "assetId": 235574
     },
@@ -467,7 +467,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 650,
       "resourceId": 243355,
       "assetId": 243355
     },
@@ -503,7 +503,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 550,
       "resourceId": 244963,
       "assetId": 244963
     },
@@ -540,7 +540,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 500,
       "resourceId": 245319,
       "assetId": 245319
     },
@@ -575,7 +575,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 450,
       "resourceId": 252139,
       "assetId": 252139
     },
@@ -612,7 +612,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 650,
       "resourceId": 258271,
       "assetId": 258271
     },
@@ -647,7 +647,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 750,
       "resourceId": 264488,
       "assetId": 264488
     },
@@ -682,7 +682,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 950,
       "resourceId": 269088,
       "assetId": 269088
     },
@@ -718,7 +718,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 750,
       "resourceId": 271289,
       "assetId": 271289
     },
@@ -771,7 +771,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 35500,
+      "price": 22750,
       "resourceId": 50405715,
       "assetId": 74067
     },
@@ -814,9 +814,81 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 36000,
+      "price": 42000,
       "resourceId": 50583812,
       "assetId": 252164
+    },
+    "50594221": {
+      "name": "Stavros Gavriel",
+      "cardName": "Gavriel",
+      "originalVersionId": "0",
+      "clubId": 1891,
+      "leagueId": 308,
+      "countryId": 11,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        35
+      ],
+      "attributes": [
+        72,
+        69,
+        64,
+        69,
+        35,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50594221,
+      "assetId": 262573
+    },
+    "67360859": {
+      "name": "João Gonçalves",
+      "cardName": "João Gonçalves",
+      "originalVersionId": "0",
+      "clubId": 1891,
+      "leagueId": 308,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        69,
+        68,
+        67,
+        69,
+        28,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67360859,
+      "assetId": 251995
     },
     "67388744": {
       "name": "Renato Marin",
@@ -848,7 +920,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 3500,
       "resourceId": 67388744,
       "assetId": 279880
     }

@@ -252,7 +252,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 700,
       "resourceId": 225863,
       "assetId": 225863
     },
@@ -767,7 +767,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 4100,
+      "price": 4400,
       "resourceId": 264120,
       "assetId": 264120
     },
@@ -958,7 +958,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1200,
       "resourceId": 275246,
       "assetId": 275246
     },
@@ -1054,7 +1054,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 108000,
+      "price": 89000,
       "resourceId": 50470060,
       "assetId": 138412
     },
@@ -1104,7 +1104,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 19750,
+      "price": 13750,
       "resourceId": 50522413,
       "assetId": 190765
     },
@@ -1177,7 +1177,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 350,
       "resourceId": 50582427,
       "assetId": 250779
     },
@@ -1315,6 +1315,43 @@
       "resourceId": 50603448,
       "assetId": 271800
     },
+    "50605269": {
+      "name": "James Beadle",
+      "cardName": "Beadle",
+      "originalVersionId": "1",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "3001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        70,
+        69,
+        68,
+        71,
+        46,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50605269,
+      "assetId": 273621
+    },
     "50609160": {
       "name": "Caylan Vickers",
       "cardName": "Vickers",
@@ -1352,6 +1389,46 @@
       "price": 0,
       "resourceId": 50609160,
       "assetId": 277512
+    },
+    "67179705": {
+      "name": "Malick Yalcouyé",
+      "cardName": "Yalcouyé",
+      "originalVersionId": "0",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 108,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        23,
+        24
+      ],
+      "attributes": [
+        83,
+        57,
+        64,
+        71,
+        65,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67179705,
+      "assetId": 70841
     },
     "67295010": {
       "name": "Danny Welbeck",
@@ -1545,7 +1622,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 20500,
+      "price": 25000,
       "resourceId": 67366264,
       "assetId": 257400
     },
@@ -1659,7 +1736,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 67372778,
       "assetId": 263914
     },
@@ -1711,7 +1788,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 159000,
+      "price": 155000,
       "resourceId": 67381364,
       "assetId": 272500
     },
@@ -1755,6 +1832,44 @@
       "price": 0,
       "resourceId": 67383380,
       "assetId": 274516
+    },
+    "84157823": {
+      "name": "Amario Cozier-Duberry",
+      "cardName": "Cozier-Duberry",
+      "originalVersionId": "0",
+      "clubId": 1808,
+      "leagueId": 13,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        25,
+        36
+      ],
+      "attributes": [
+        79,
+        59,
+        59,
+        71,
+        28,
+        43
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 84157823,
+      "assetId": 271743
     }
   }
 }

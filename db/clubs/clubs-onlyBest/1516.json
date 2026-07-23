@@ -450,40 +450,6 @@
       "resourceId": 264790,
       "assetId": 264790
     },
-    "268065": {
-      "name": "Friday Etim",
-      "cardName": "Etim",
-      "originalVersionId": "0",
-      "clubId": 1516,
-      "leagueId": 1,
-      "countryId": 133,
-      "versionId": "2000",
-      "rating": 62,
-      "preferredFoot": "Right",
-      "weakFoot": 2,
-      "skillMoves": 2,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        41
-      ],
-      "attributes": [
-        56,
-        65,
-        44,
-        57,
-        26,
-        61
-      ],
-      "hasDynamicImage": false,
-      "price": 2400,
-      "resourceId": 268065,
-      "assetId": 268065
-    },
     "270534": {
       "name": "Victor Bak",
       "cardName": "Bak",
@@ -939,7 +905,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 37500,
       "resourceId": 50578835,
       "assetId": 247187
     },
@@ -1021,7 +987,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 48500,
       "resourceId": 50610900,
       "assetId": 279252
     },
@@ -1058,7 +1024,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2000,
       "resourceId": 67347100,
       "assetId": 238236
     },
@@ -1110,9 +1076,63 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 37500,
+      "price": 36000,
       "resourceId": 67365797,
       "assetId": 256933
+    },
+    "67376929": {
+      "name": "Friday Etim",
+      "cardName": "Etim",
+      "originalVersionId": "16",
+      "clubId": 1516,
+      "leagueId": 1,
+      "countryId": 133,
+      "versionId": "16",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        95,
+        83,
+        90,
+        60,
+        90
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67376929,
+      "assetId": 268065
     }
   }
 }
