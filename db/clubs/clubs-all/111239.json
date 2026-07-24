@@ -289,7 +289,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 239499,
       "assetId": 239499
     },
@@ -588,7 +588,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 275736,
       "assetId": 275736
     },
@@ -735,7 +735,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 200,
       "resourceId": 277624,
       "assetId": 277624
     },
@@ -812,7 +812,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 3300,
+      "price": 600,
       "resourceId": 278190,
       "assetId": 278190
     },
@@ -886,6 +886,86 @@
       "price": 200,
       "resourceId": 50573901,
       "assetId": 242253
+    },
+    "50594550": {
+      "name": "Vinko Šapina",
+      "cardName": "Šapina",
+      "originalVersionId": "1",
+      "clubId": 111239,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "3001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        18,
+        26,
+        28,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        16,
+        21
+      ],
+      "attributes": [
+        51,
+        49,
+        62,
+        62,
+        63,
+        81
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50594550,
+      "assetId": 262902
+    },
+    "67367411": {
+      "name": "Lars Lokotsch",
+      "cardName": "Lokotsch",
+      "originalVersionId": "1",
+      "clubId": 111239,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "3001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        1,
+        29,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        70,
+        63,
+        50,
+        58,
+        36,
+        84
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67367411,
+      "assetId": 258547
     }
   }
 }

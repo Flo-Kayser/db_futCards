@@ -249,7 +249,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 4000,
       "resourceId": 190669,
       "assetId": 190669
     },
@@ -398,7 +398,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1600,
       "resourceId": 213613,
       "assetId": 213613
     },
@@ -435,7 +435,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 8900,
+      "price": 4000,
       "resourceId": 219957,
       "assetId": 219957
     },
@@ -554,7 +554,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 200,
       "resourceId": 227882,
       "assetId": 227882
     },
@@ -929,7 +929,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 1800,
       "resourceId": 276769,
       "assetId": 276769
     },
@@ -965,7 +965,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 200,
       "resourceId": 277285,
       "assetId": 277285
     },
@@ -1071,6 +1071,81 @@
       "price": 200,
       "resourceId": 50604357,
       "assetId": 272709
+    },
+    "50611358": {
+      "name": "Simen Hestnes",
+      "cardName": "Hestnes",
+      "originalVersionId": "0",
+      "clubId": 711,
+      "leagueId": 56,
+      "countryId": 36,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        20
+      ],
+      "attributes": [
+        72,
+        56,
+        62,
+        64,
+        57,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50611358,
+      "assetId": 279710
+    },
+    "67180207": {
+      "name": "Jeremy Agbonifo",
+      "cardName": "Agbonifo",
+      "originalVersionId": "1",
+      "clubId": 711,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "3001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        36,
+        39
+      ],
+      "attributes": [
+        87,
+        60,
+        59,
+        68,
+        33,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67180207,
+      "assetId": 71343
     }
   }
 }

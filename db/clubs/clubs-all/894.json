@@ -107,7 +107,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 9000,
+      "price": 10000,
       "resourceId": 73173,
       "assetId": 73173
     },
@@ -145,7 +145,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 73218,
       "assetId": 73218
     },
@@ -505,7 +505,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 190059,
       "assetId": 190059
     },
@@ -577,7 +577,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1000,
       "resourceId": 213163,
       "assetId": 213163
     },
@@ -960,7 +960,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 9000,
+      "price": 1000,
       "resourceId": 255174,
       "assetId": 255174
     },
@@ -1035,7 +1035,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 750,
       "resourceId": 264584,
       "assetId": 264584
     },
@@ -1147,7 +1147,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1600,
       "resourceId": 274096,
       "assetId": 274096
     },
@@ -1222,6 +1222,43 @@
       "resourceId": 275960,
       "assetId": 275960
     },
+    "50524895": {
+      "name": "Heinz Lindner",
+      "cardName": "Lindner",
+      "originalVersionId": "0",
+      "clubId": 894,
+      "leagueId": 189,
+      "countryId": 4,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10,
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        66,
+        66,
+        63,
+        66,
+        42,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50524895,
+      "assetId": 193247
+    },
     "50562759": {
       "name": "Alexander Hack",
       "cardName": "Hack",
@@ -1292,9 +1329,45 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 1300,
       "resourceId": 50596232,
       "assetId": 264584
+    },
+    "67321131": {
+      "name": "Ivan Cavaleiro",
+      "cardName": "Ivan Cavaleiro",
+      "originalVersionId": "0",
+      "clubId": 894,
+      "leagueId": 189,
+      "countryId": 38,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27
+      ],
+      "attributes": [
+        73,
+        64,
+        64,
+        70,
+        33,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67321131,
+      "assetId": 212267
     }
   }
 }

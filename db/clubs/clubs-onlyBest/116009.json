@@ -210,7 +210,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 800,
       "resourceId": 258680,
       "assetId": 258680
     },
@@ -366,7 +366,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 550,
       "resourceId": 266949,
       "assetId": 266949
     },
@@ -611,7 +611,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 100000,
+      "price": 71500,
       "resourceId": 50558767,
       "assetId": 227119
     },
@@ -648,7 +648,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 62500,
+      "price": 64500,
       "resourceId": 50565012,
       "assetId": 233364
     },
@@ -708,7 +708,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 60000,
+      "price": 49750,
       "resourceId": 50571409,
       "assetId": 239761
     },
@@ -752,7 +752,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 22500,
+      "price": 22750,
       "resourceId": 50577520,
       "assetId": 245872
     },
@@ -805,56 +805,6 @@
       "hasDynamicImage": true,
       "resourceId": 50579991,
       "assetId": 248343
-    },
-    "50588649": {
-      "name": "Chloe Kelly",
-      "cardName": "Kelly",
-      "originalVersionId": "96",
-      "clubId": 116009,
-      "leagueId": 2216,
-      "countryId": 14,
-      "versionId": "96",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        12,
-        13,
-        20,
-        23,
-        25,
-        3
-      ],
-      "playStylesPlus": [
-        21
-      ],
-      "rolesPlus": [
-        25,
-        37,
-        40,
-        126,
-        136,
-        139
-      ],
-      "attributes": [
-        89,
-        85,
-        87,
-        87,
-        45,
-        75
-      ],
-      "hasDynamicImage": true,
-      "price": 37500,
-      "resourceId": 50588649,
-      "assetId": 257001
     },
     "50596688": {
       "name": "Barbora Votíková",
@@ -1031,7 +981,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 125000,
+      "price": 113000,
       "resourceId": 67346152,
       "assetId": 237288
     },
@@ -1082,9 +1032,64 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 76500,
+      "price": 100000,
       "resourceId": 67355290,
       "assetId": 246426
+    },
+    "67365865": {
+      "name": "Chloe Kelly",
+      "cardName": "Kelly",
+      "originalVersionId": "16",
+      "clubId": 116009,
+      "leagueId": 2216,
+      "countryId": 14,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        96,
+        92,
+        99,
+        96,
+        57,
+        89
+      ],
+      "hasDynamicImage": true,
+      "price": 30000,
+      "resourceId": 67365865,
+      "assetId": 257001
     },
     "67367844": {
       "name": "Alessia Russo",
@@ -1136,7 +1141,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 145000,
+      "price": 158000,
       "resourceId": 67367844,
       "assetId": 258980
     },
@@ -1232,7 +1237,7 @@
         90
       ],
       "hasDynamicImage": false,
-      "price": 27000,
+      "price": 21750,
       "resourceId": 67385163,
       "assetId": 276299
     },
@@ -1465,7 +1470,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 20500,
+      "price": 21000,
       "resourceId": 100900584,
       "assetId": 237288
     },
@@ -1546,7 +1551,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1300,
       "resourceId": 117705537,
       "assetId": 265025
     },
@@ -1602,46 +1607,65 @@
       "resourceId": 134455016,
       "assetId": 237288
     },
-    "134461132": {
+    "151238348": {
       "name": "Georgia Stanway",
       "cardName": "Stanway",
-      "originalVersionId": "1",
+      "originalVersionId": "16",
       "clubId": 116009,
       "leagueId": 2216,
       "countryId": 14,
-      "versionId": "3002",
-      "rating": 85,
+      "versionId": "16",
+      "rating": 97,
       "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
+      "weakFoot": 5,
+      "skillMoves": 4,
       "preferredPosition": "CDM",
       "possiblePositions": [
-        "CDM"
+        "CB",
+        "CDM",
+        "CM",
+        "LB",
+        "RB"
       ],
-      "playStyles": [
-        10,
-        14,
-        20,
-        22
-      ],
-      "playStylesPlus": [
-        9
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
-        16,
-        49
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        146,
+        147,
+        148,
+        149
       ],
       "attributes": [
-        80,
-        79,
-        80,
-        86,
-        77,
-        77
+        93,
+        91,
+        95,
+        99,
+        93,
+        91
       ],
       "hasDynamicImage": false,
-      "price": 2200,
-      "resourceId": 134461132,
+      "price": 30250,
+      "resourceId": 151238348,
       "assetId": 243404
     }
   }

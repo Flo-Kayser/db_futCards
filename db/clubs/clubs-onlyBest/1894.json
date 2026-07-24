@@ -32,7 +32,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 400,
       "resourceId": 74370,
       "assetId": 74370
     },
@@ -66,7 +66,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1100,
       "resourceId": 208157,
       "assetId": 208157
     },
@@ -297,7 +297,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 233911,
       "assetId": 233911
     },
@@ -371,7 +371,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 2000,
       "resourceId": 241686,
       "assetId": 241686
     },
@@ -484,7 +484,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 6300,
       "resourceId": 252485,
       "assetId": 252485
     },
@@ -667,6 +667,43 @@
       "resourceId": 50406231,
       "assetId": 74583
     },
+    "50587220": {
+      "name": "Meléndez",
+      "cardName": "Meléndez",
+      "originalVersionId": "0",
+      "clubId": 1894,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        18,
+        20
+      ],
+      "attributes": [
+        61,
+        57,
+        60,
+        67,
+        60,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50587220,
+      "assetId": 255572
+    },
     "50588673": {
       "name": "Konrad de la Fuente",
       "cardName": "de la Fuente",
@@ -785,6 +822,42 @@
       "price": 200,
       "resourceId": 50592659,
       "assetId": 261011
+    },
+    "67354195": {
+      "name": "Jordi Escobar",
+      "cardName": "Jordi Escobar",
+      "originalVersionId": "0",
+      "clubId": 1894,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        64,
+        66,
+        54,
+        63,
+        18,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67354195,
+      "assetId": 245331
     }
   }
 }

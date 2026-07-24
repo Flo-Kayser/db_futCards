@@ -66,7 +66,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 73125,
       "assetId": 73125
     },
@@ -205,7 +205,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 79298,
       "assetId": 79298
     },
@@ -583,7 +583,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 3000,
       "resourceId": 248175,
       "assetId": 248175
     },
@@ -765,7 +765,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 700,
       "resourceId": 263076,
       "assetId": 263076
     },
@@ -801,7 +801,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 2500,
       "resourceId": 263874,
       "assetId": 263874
     },
@@ -988,7 +988,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 276118,
       "assetId": 276118
     },
@@ -1295,6 +1295,44 @@
       "resourceId": 50600732,
       "assetId": 269084
     },
+    "67323812": {
+      "name": "Sebastian Schonlau",
+      "cardName": "Schonlau",
+      "originalVersionId": "0",
+      "clubId": 576,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16,
+        18,
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        13
+      ],
+      "attributes": [
+        55,
+        41,
+        54,
+        58,
+        71,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67323812,
+      "assetId": 214948
+    },
     "67371810": {
       "name": "Phil Harres",
       "cardName": "Harres",
@@ -1332,9 +1370,49 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 68500,
+      "price": 67000,
       "resourceId": 67371810,
       "assetId": 262946
+    },
+    "67373273": {
+      "name": "Faride Alidou",
+      "cardName": "Alidou",
+      "originalVersionId": "0",
+      "clubId": 576,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        39
+      ],
+      "attributes": [
+        81,
+        59,
+        59,
+        71,
+        28,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67373273,
+      "assetId": 264409
     }
   }
 }

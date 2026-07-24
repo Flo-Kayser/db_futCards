@@ -31,7 +31,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 200,
       "resourceId": 70878,
       "assetId": 70878
     },
@@ -134,7 +134,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 200,
       "resourceId": 79069,
       "assetId": 79069
     },
@@ -678,7 +678,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 4600,
+      "price": 3000,
       "resourceId": 235751,
       "assetId": 235751
     },
@@ -938,6 +938,47 @@
       "resourceId": 50406812,
       "assetId": 75164
     },
+    "50571153": {
+      "name": "Patryk Kun",
+      "cardName": "Kun",
+      "originalVersionId": "1",
+      "clubId": 1569,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "3001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB"
+      ],
+      "playStyles": [
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        10,
+        28
+      ],
+      "attributes": [
+        89,
+        48,
+        61,
+        71,
+        59,
+        52
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50571153,
+      "assetId": 239505
+    },
     "50590113": {
       "name": "Žan Rogelj",
       "cardName": "Rogelj",
@@ -974,6 +1015,45 @@
       "price": 200,
       "resourceId": 50590113,
       "assetId": 258465
+    },
+    "50594951": {
+      "name": "Michał Król",
+      "cardName": "Król",
+      "originalVersionId": "0",
+      "clubId": 1569,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        35,
+        36,
+        38
+      ],
+      "attributes": [
+        75,
+        55,
+        66,
+        68,
+        51,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50594951,
+      "assetId": 263303
     }
   }
 }

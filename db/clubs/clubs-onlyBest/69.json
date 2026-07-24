@@ -32,7 +32,7 @@
         37
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4900,
       "resourceId": 70458,
       "assetId": 70458
     },
@@ -67,7 +67,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 4800,
       "resourceId": 75734,
       "assetId": 75734
     },
@@ -305,7 +305,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 2200,
       "resourceId": 238227,
       "assetId": 238227
     },
@@ -525,7 +525,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 271661,
       "assetId": 271661
     },
@@ -638,7 +638,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 800,
       "resourceId": 273546,
       "assetId": 273546
     },
@@ -677,7 +677,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 850,
       "resourceId": 273933,
       "assetId": 273933
     },
@@ -859,7 +859,7 @@
         40
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 200,
       "resourceId": 50408264,
       "assetId": 76616
     },
@@ -898,7 +898,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 32750,
+      "price": 38250,
       "resourceId": 50522589,
       "assetId": 190941
     },
@@ -944,7 +944,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 18500,
+      "price": 19250,
       "resourceId": 50533983,
       "assetId": 202335
     },
@@ -1021,7 +1021,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 1500,
       "resourceId": 50566684,
       "assetId": 235036
     },
@@ -1103,7 +1103,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 19750,
+      "price": 20000,
       "resourceId": 50576859,
       "assetId": 245211
     },
@@ -1143,7 +1143,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 650,
       "resourceId": 50592427,
       "assetId": 260779
     },
@@ -1180,9 +1180,45 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 550,
       "resourceId": 50593179,
       "assetId": 261531
+    },
+    "50606667": {
+      "name": "Edan Diop",
+      "cardName": "Diop",
+      "originalVersionId": "0",
+      "clubId": 69,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23
+      ],
+      "attributes": [
+        71,
+        60,
+        63,
+        69,
+        41,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50606667,
+      "assetId": 275019
     },
     "50606786": {
       "name": "Lamine Camara",
@@ -1286,7 +1322,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 39250,
+      "price": 44500,
       "resourceId": 67338125,
       "assetId": 229261
     },
@@ -1390,50 +1426,6 @@
       "resourceId": 84130995,
       "assetId": 244915
     },
-    "100859160": {
-      "name": "Paul Pogba",
-      "cardName": "Pogba",
-      "originalVersionId": "30",
-      "clubId": 69,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "30",
-      "rating": 92,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        14,
-        18,
-        19,
-        32,
-        116,
-        120,
-        121,
-        131,
-        149
-      ],
-      "attributes": [
-        88,
-        90,
-        92,
-        92,
-        85,
-        91
-      ],
-      "hasDynamicImage": true,
-      "price": 977000,
-      "resourceId": 100859160,
-      "assetId": 195864
-    },
     "100928158": {
       "name": "Maghnes Akliouche",
       "cardName": "Akliouche",
@@ -1479,6 +1471,65 @@
       "price": 0,
       "resourceId": 100928158,
       "assetId": 264862
+    },
+    "117636376": {
+      "name": "Paul Pogba",
+      "cardName": "Pogba",
+      "originalVersionId": "16",
+      "clubId": 69,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "16",
+      "rating": 98,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144,
+        148,
+        149
+      ],
+      "attributes": [
+        90,
+        99,
+        96,
+        96,
+        90,
+        95
+      ],
+      "hasDynamicImage": true,
+      "price": 2001000,
+      "resourceId": 117636376,
+      "assetId": 195864
     },
     "117687975": {
       "name": "Folarin Balogun",
@@ -1531,7 +1582,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 173000,
+      "price": 135000,
       "resourceId": 117687975,
       "assetId": 247463
     }

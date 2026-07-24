@@ -686,7 +686,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 5100,
       "resourceId": 261088,
       "assetId": 261088
     },
@@ -802,6 +802,81 @@
       "resourceId": 269340,
       "assetId": 269340
     },
+    "50531411": {
+      "name": "Bartosz Bereszyński",
+      "cardName": "Bereszyński",
+      "originalVersionId": "1",
+      "clubId": 111097,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "3001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        26,
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        11,
+        48
+      ],
+      "attributes": [
+        76,
+        56,
+        64,
+        69,
+        66,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50531411,
+      "assetId": 199763
+    },
+    "50594965": {
+      "name": "Mateusz Łęgowski",
+      "cardName": "Łęgowski",
+      "originalVersionId": "1",
+      "clubId": 111097,
+      "leagueId": 66,
+      "countryId": 37,
+      "versionId": "3001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        71,
+        56,
+        67,
+        69,
+        60,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50594965,
+      "assetId": 263317
+    },
     "50601033": {
       "name": "Thomas Santos",
       "cardName": "Santos",
@@ -880,6 +955,40 @@
       "price": 200,
       "resourceId": 50601137,
       "assetId": 269489
+    },
+    "67362552": {
+      "name": "Mihai Popa",
+      "cardName": "Popa",
+      "originalVersionId": "1",
+      "clubId": 111097,
+      "leagueId": 66,
+      "countryId": 39,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        63,
+        62,
+        60,
+        65,
+        41,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67362552,
+      "assetId": 253688
     }
   }
 }

@@ -141,7 +141,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 500,
       "resourceId": 190034,
       "assetId": 190034
     },
@@ -176,7 +176,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 5900,
+      "price": 8600,
       "resourceId": 205559,
       "assetId": 205559
     },
@@ -215,7 +215,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 211240,
       "assetId": 211240
     },
@@ -381,7 +381,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 2200,
       "resourceId": 231236,
       "assetId": 231236
     },
@@ -494,7 +494,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 950,
       "resourceId": 237331,
       "assetId": 237331
     },
@@ -533,7 +533,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 241266,
       "assetId": 241266
     },
@@ -572,7 +572,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 750,
       "resourceId": 247248,
       "assetId": 247248
     },
@@ -611,7 +611,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 6400,
+      "price": 2000,
       "resourceId": 248477,
       "assetId": 248477
     },
@@ -760,7 +760,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 5100,
       "resourceId": 258843,
       "assetId": 258843
     },
@@ -837,7 +837,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 200,
       "resourceId": 270355,
       "assetId": 270355
     },
@@ -873,7 +873,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 272599,
       "assetId": 272599
     },
@@ -912,7 +912,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 350,
       "resourceId": 274845,
       "assetId": 274845
     },
@@ -1101,46 +1101,6 @@
       "resourceId": 50409718,
       "assetId": 78070
     },
-    "50524035": {
-      "name": "Ciro Immobile",
-      "cardName": "Immobile",
-      "originalVersionId": "0",
-      "clubId": 111817,
-      "leagueId": 16,
-      "countryId": 27,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        2,
-        24
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        42,
-        43
-      ],
-      "attributes": [
-        68,
-        79,
-        66,
-        76,
-        39,
-        71
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 50524035,
-      "assetId": 192387
-    },
     "50565806": {
       "name": "Alimami Gory",
       "cardName": "Gory",
@@ -1273,7 +1233,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 50597689,
       "assetId": 266041
     },
@@ -1311,9 +1271,65 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1400,
       "resourceId": 50600829,
       "assetId": 269181
+    },
+    "67301251": {
+      "name": "Ciro Immobile",
+      "cardName": "Immobile",
+      "originalVersionId": "16",
+      "clubId": 111817,
+      "leagueId": 16,
+      "countryId": 27,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        90,
+        95,
+        90,
+        92,
+        53,
+        99
+      ],
+      "hasDynamicImage": true,
+      "price": 11000,
+      "resourceId": 67301251,
+      "assetId": 192387
     },
     "67328653": {
       "name": "Hamari Traoré",
@@ -1361,7 +1377,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 25500,
+      "price": 14750,
       "resourceId": 67328653,
       "assetId": 219789
     },
@@ -1407,7 +1423,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 49750,
+      "price": 36000,
       "resourceId": 67343476,
       "assetId": 234612
     },
@@ -1462,7 +1478,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 33750,
+      "price": 44000,
       "resourceId": 67344296,
       "assetId": 235432
     },
@@ -1512,7 +1528,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 19000,
+      "price": 27750,
       "resourceId": 67365982,
       "assetId": 257118
     },
@@ -1560,7 +1576,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 21500,
       "resourceId": 84116100,
       "assetId": 230020
     }

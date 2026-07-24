@@ -32,7 +32,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 72918,
       "assetId": 72918
     },
@@ -140,7 +140,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 3600,
       "resourceId": 73844,
       "assetId": 73844
     },
@@ -208,7 +208,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 3600,
       "resourceId": 79276,
       "assetId": 79276
     },
@@ -761,7 +761,7 @@
         46
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 5100,
       "resourceId": 268277,
       "assetId": 268277
     },
@@ -1061,9 +1061,118 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5000,
       "resourceId": 50591050,
       "assetId": 259402
+    },
+    "50596125": {
+      "name": "Dylan Tait",
+      "cardName": "Tait",
+      "originalVersionId": "1",
+      "clubId": 181,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "3000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        71,
+        49,
+        59,
+        63,
+        52,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50596125,
+      "assetId": 264477
+    },
+    "67337233": {
+      "name": "Jack Walton",
+      "cardName": "Walton",
+      "originalVersionId": "0",
+      "clubId": 181,
+      "leagueId": 50,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        34
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        67,
+        64,
+        60,
+        66,
+        34,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67337233,
+      "assetId": 228369
+    },
+    "83959172": {
+      "name": "Jesse Randall",
+      "cardName": "Randall",
+      "originalVersionId": "1",
+      "clubId": 181,
+      "leagueId": 50,
+      "countryId": 198,
+      "versionId": "3000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        39,
+        42
+      ],
+      "attributes": [
+        78,
+        58,
+        53,
+        61,
+        31,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 83959172,
+      "assetId": 73092
     }
   }
 }

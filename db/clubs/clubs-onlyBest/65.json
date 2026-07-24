@@ -36,7 +36,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 74774,
       "assetId": 74774
     },
@@ -299,7 +299,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 241821,
       "assetId": 241821
     },
@@ -524,41 +524,6 @@
       "resourceId": 276324,
       "assetId": 276324
     },
-    "278172": {
-      "name": "Ethan Mbappé",
-      "cardName": "Mbappé",
-      "originalVersionId": "0",
-      "clubId": 65,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "2001",
-      "rating": 69,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CM",
-        "RM"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        18
-      ],
-      "attributes": [
-        73,
-        60,
-        68,
-        71,
-        59,
-        54
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 278172,
-      "assetId": 278172
-    },
     "278261": {
       "name": "Ousmane Touré",
       "cardName": "Touré",
@@ -589,7 +554,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 1100,
       "resourceId": 278261,
       "assetId": 278261
     },
@@ -821,7 +786,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 63000,
+      "price": 70500,
       "resourceId": 50570902,
       "assetId": 239254
     },
@@ -894,7 +859,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 9800,
+      "price": 10000,
       "resourceId": 50592819,
       "assetId": 261171
     },
@@ -943,7 +908,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 40000,
+      "price": 54500,
       "resourceId": 50593719,
       "assetId": 262071
     },
@@ -1038,9 +1003,67 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 24750,
+      "price": 19750,
       "resourceId": 50601141,
       "assetId": 269493
+    },
+    "50609820": {
+      "name": "Ethan Mbappé",
+      "cardName": "Mbappé",
+      "originalVersionId": "16",
+      "clubId": 65,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        94,
+        95,
+        96,
+        88,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 15500,
+      "resourceId": 50609820,
+      "assetId": 278172
     },
     "50609855": {
       "name": "Noah Edjouma",
@@ -1174,7 +1197,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 38000,
       "resourceId": 67322160,
       "assetId": 213296
     },
@@ -1234,7 +1257,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 18750,
+      "price": 14000,
       "resourceId": 67362031,
       "assetId": 253167
     },
@@ -1297,7 +1320,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 55000,
+      "price": 45000,
       "resourceId": 67384912,
       "assetId": 276048
     },
@@ -1403,7 +1426,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 31000,
+      "price": 24500,
       "resourceId": 84164981,
       "assetId": 278901
     }

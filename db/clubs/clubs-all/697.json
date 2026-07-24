@@ -247,7 +247,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 3600,
+      "price": 200,
       "resourceId": 77521,
       "assetId": 77521
     },
@@ -282,7 +282,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 200,
       "resourceId": 183491,
       "assetId": 183491
     },
@@ -404,7 +404,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1000,
       "resourceId": 201895,
       "assetId": 201895
     },
@@ -439,7 +439,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 4500,
       "resourceId": 202073,
       "assetId": 202073
     },
@@ -821,7 +821,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 5100,
       "resourceId": 256018,
       "assetId": 256018
     },
@@ -1076,7 +1076,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 36750,
+      "price": 50000,
       "resourceId": 50402470,
       "assetId": 70822
     },
@@ -1132,7 +1132,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 241000,
+      "price": 276000,
       "resourceId": 50519998,
       "assetId": 188350
     },
@@ -1500,9 +1500,64 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 23750,
+      "price": 19750,
       "resourceId": 67342264,
       "assetId": 233400
+    },
+    "84074430": {
+      "name": "Marco Reus",
+      "cardName": "Reus",
+      "originalVersionId": "16",
+      "clubId": 697,
+      "leagueId": 39,
+      "countryId": 21,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        99,
+        92,
+        95,
+        72,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 84074430,
+      "assetId": 188350
     }
   }
 }

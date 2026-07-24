@@ -207,7 +207,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 3600,
+      "price": 200,
       "resourceId": 77521,
       "assetId": 77521
     },
@@ -242,7 +242,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 200,
       "resourceId": 183491,
       "assetId": 183491
     },
@@ -321,7 +321,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1000,
       "resourceId": 201895,
       "assetId": 201895
     },
@@ -356,7 +356,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 4500,
       "resourceId": 202073,
       "assetId": 202073
     },
@@ -697,7 +697,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 5100,
       "resourceId": 256018,
       "assetId": 256018
     },
@@ -1132,67 +1132,6 @@
       "resourceId": 67179686,
       "assetId": 70822
     },
-    "67297214": {
-      "name": "Marco Reus",
-      "cardName": "Reus",
-      "originalVersionId": "65",
-      "clubId": 697,
-      "leagueId": 39,
-      "countryId": 21,
-      "versionId": "65",
-      "rating": 93,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        20,
-        22,
-        24,
-        25,
-        7,
-        9
-      ],
-      "playStylesPlus": [
-        11,
-        6,
-        8
-      ],
-      "rolesPlus": [
-        18,
-        19,
-        20,
-        41,
-        42,
-        121,
-        122,
-        131,
-        132,
-        133,
-        134,
-        143,
-        144
-      ],
-      "attributes": [
-        92,
-        93,
-        91,
-        94,
-        68,
-        80
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 531500,
-      "price": 334300,
-      "resourceId": 67297214,
-      "assetId": 188350
-    },
     "67342264": {
       "name": "Jakob Glesnes",
       "cardName": "Glesnes",
@@ -1238,9 +1177,64 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 23750,
+      "price": 19750,
       "resourceId": 67342264,
       "assetId": 233400
+    },
+    "84074430": {
+      "name": "Marco Reus",
+      "cardName": "Reus",
+      "originalVersionId": "16",
+      "clubId": 697,
+      "leagueId": 39,
+      "countryId": 21,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        99,
+        92,
+        95,
+        72,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 84074430,
+      "assetId": 188350
     }
   }
 }

@@ -105,7 +105,7 @@
         90
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1000,
       "resourceId": 212831,
       "assetId": 212831
     },
@@ -296,7 +296,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 200,
       "resourceId": 247601,
       "assetId": 247601
     },
@@ -369,7 +369,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 1500,
       "resourceId": 262621,
       "assetId": 262621
     },
@@ -442,7 +442,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 600,
       "resourceId": 279128,
       "assetId": 279128
     },
@@ -479,7 +479,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 8000,
+      "price": 200,
       "resourceId": 50402642,
       "assetId": 70994
     },
@@ -631,7 +631,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 141000,
+      "price": 149000,
       "resourceId": 50567453,
       "assetId": 235805
     },
@@ -856,7 +856,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 8000,
+      "price": 5000,
       "resourceId": 50595947,
       "assetId": 264299
     },
@@ -965,6 +965,47 @@
       "resourceId": 50610551,
       "assetId": 278903
     },
+    "67184906": {
+      "name": "Víctor Muñoz",
+      "cardName": "Víctor Muñoz",
+      "originalVersionId": "16",
+      "clubId": 9,
+      "leagueId": 13,
+      "countryId": 45,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        96,
+        93,
+        94,
+        96,
+        52,
+        88
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67184906,
+      "assetId": 76042
+    },
     "67189240": {
       "name": "Rio Ngumoha",
       "cardName": "Ngumoha",
@@ -1061,94 +1102,6 @@
       "resourceId": 67325131,
       "assetId": 216267
     },
-    "67362013": {
-      "name": "Jeremie Frimpong",
-      "cardName": "Frimpong",
-      "originalVersionId": "51",
-      "clubId": 9,
-      "leagueId": 13,
-      "countryId": 34,
-      "versionId": "51",
-      "rating": 90,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        12,
-        14,
-        17,
-        20,
-        21,
-        25
-      ],
-      "playStylesPlus": [
-        16
-      ],
-      "rolesPlus": [
-        3,
-        26,
-        36,
-        46,
-        105,
-        106,
-        123,
-        135
-      ],
-      "attributes": [
-        97,
-        84,
-        85,
-        90,
-        86,
-        75
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 546000,
-      "price": 0,
-      "resourceId": 67362013,
-      "assetId": 253149
-    },
-    "83962122": {
-      "name": "Víctor Muñoz",
-      "cardName": "Víctor Muñoz",
-      "originalVersionId": "0",
-      "clubId": 9,
-      "leagueId": 13,
-      "countryId": 45,
-      "versionId": "2001",
-      "rating": 65,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        38
-      ],
-      "attributes": [
-        72,
-        61,
-        60,
-        66,
-        26,
-        39
-      ],
-      "hasDynamicImage": false,
-      "price": 650,
-      "resourceId": 83962122,
-      "assetId": 76042
-    },
     "84119811": {
       "name": "Alexander Isak",
       "cardName": "Isak",
@@ -1195,7 +1148,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 365000,
+      "price": 320000,
       "resourceId": 84119811,
       "assetId": 233731
     },
@@ -1321,6 +1274,64 @@
       "resourceId": 84128596,
       "assetId": 242516
     },
+    "84139229": {
+      "name": "Jeremie Frimpong",
+      "cardName": "Frimpong",
+      "originalVersionId": "16",
+      "clubId": 9,
+      "leagueId": 13,
+      "countryId": 34,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        146,
+        147
+      ],
+      "attributes": [
+        99,
+        86,
+        90,
+        92,
+        94,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 270000,
+      "resourceId": 84139229,
+      "assetId": 253149
+    },
     "100900068": {
       "name": "Dominik Szoboszlai",
       "cardName": "Szoboszlai",
@@ -1389,7 +1400,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 83000,
+      "price": 47500,
       "resourceId": 100900068,
       "assetId": 236772
     },
@@ -1487,7 +1498,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 104000,
+      "price": 99000,
       "resourceId": 117686616,
       "assetId": 246104
     },
@@ -1553,99 +1564,118 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 690000,
+      "price": 330000,
       "resourceId": 117697142,
       "assetId": 256630
     },
-    "117697801": {
+    "151252233": {
       "name": "Hugo Ekitiké",
       "cardName": "Ekitiké",
-      "originalVersionId": "120",
+      "originalVersionId": "16",
       "clubId": 9,
       "leagueId": 13,
       "countryId": 18,
-      "versionId": "120",
-      "rating": 93,
+      "versionId": "16",
+      "rating": 97,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 5,
       "preferredPosition": "ST",
       "possiblePositions": [
         "CAM",
+        "LM",
+        "LW",
+        "RW",
         "ST"
       ],
-      "playStyles": [
-        1,
-        11,
-        13,
-        2,
-        20,
-        21,
-        22
-      ],
-      "playStylesPlus": [
-        0,
-        6,
-        8
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
-        31,
-        33,
+        127,
+        128,
+        129,
+        130,
+        131,
         132,
+        133,
         134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
         141,
         142,
         143,
         144
       ],
       "attributes": [
-        94,
-        90,
-        85,
-        93,
-        45,
-        86
+        95,
+        96,
+        91,
+        97,
+        51,
+        89
       ],
       "hasDynamicImage": true,
-      "price": 47500,
-      "resourceId": 117697801,
+      "price": 500000,
+      "resourceId": 151252233,
       "assetId": 257289
     },
-    "151198320": {
+    "167975536": {
       "name": "Virgil van Dijk",
       "cardName": "van Dijk",
-      "originalVersionId": "109",
+      "originalVersionId": "16",
       "clubId": 9,
       "leagueId": 13,
       "countryId": 34,
-      "versionId": "109",
-      "rating": 97,
+      "versionId": "16",
+      "rating": 99,
       "preferredFoot": "Right",
       "weakFoot": 5,
-      "skillMoves": 3,
+      "skillMoves": 4,
       "preferredPosition": "CB",
       "possiblePositions": [
-        "CB"
+        "CB",
+        "CDM",
+        "LB",
+        "RB"
       ],
       "playStyles": [],
       "playStylesPlus": [],
       "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
         111,
         112,
         113,
-        148
+        114,
+        115,
+        116,
+        117,
+        146,
+        147,
+        148,
+        149
       ],
       "attributes": [
-        91,
-        67,
-        84,
-        85,
-        97,
-        96
+        92,
+        70,
+        87,
+        87,
+        99,
+        97
       ],
       "hasDynamicImage": true,
-      "price": 768000,
-      "resourceId": 151198320,
+      "price": 6600000,
+      "resourceId": 167975536,
       "assetId": 203376
     }
   }

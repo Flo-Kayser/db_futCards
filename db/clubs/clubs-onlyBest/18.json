@@ -76,7 +76,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 750,
       "resourceId": 220697,
       "assetId": 220697
     },
@@ -117,48 +117,6 @@
       "price": 400,
       "resourceId": 227535,
       "assetId": 227535
-    },
-    "231943": {
-      "name": "Richarlison",
-      "cardName": "Richarlison",
-      "originalVersionId": "0",
-      "clubId": 18,
-      "leagueId": 13,
-      "countryId": 54,
-      "versionId": "2002",
-      "rating": 78,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        20,
-        4,
-        5
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        38,
-        41,
-        42
-      ],
-      "attributes": [
-        76,
-        78,
-        72,
-        78,
-        53,
-        75
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 231943,
-      "assetId": 231943
     },
     "236480": {
       "name": "Yves Bissouma",
@@ -347,7 +305,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 950,
       "resourceId": 247394,
       "assetId": 247394
     },
@@ -387,7 +345,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 251421,
       "assetId": 251421
     },
@@ -497,7 +455,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 6000,
+      "price": 6400,
       "resourceId": 261025,
       "assetId": 261025
     },
@@ -607,7 +565,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 4100,
       "resourceId": 50403807,
       "assetId": 72159
     },
@@ -727,7 +685,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 39750,
+      "price": 32000,
       "resourceId": 50537571,
       "assetId": 205923
     },
@@ -772,7 +730,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 34000,
+      "price": 34750,
       "resourceId": 50557187,
       "assetId": 225539
     },
@@ -819,6 +777,61 @@
       "resourceId": 50561039,
       "assetId": 229391
     },
+    "50563591": {
+      "name": "Richarlison",
+      "cardName": "Richarlison",
+      "originalVersionId": "16",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 54,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        96,
+        97,
+        91,
+        95,
+        72,
+        94
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50563591,
+      "assetId": 231943
+    },
     "50569633": {
       "name": "Kevin Danso",
       "cardName": "Danso",
@@ -852,7 +865,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 15250,
+      "price": 16750,
       "resourceId": 50569633,
       "assetId": 237985
     },
@@ -946,7 +959,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 499000,
+      "price": 369000,
       "resourceId": 50575350,
       "assetId": 243702
     },
@@ -1026,7 +1039,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 50596379,
       "assetId": 264731
     },
@@ -1132,7 +1145,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 45000,
       "resourceId": 50602227,
       "assetId": 270579
     },
@@ -1390,7 +1403,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 67367772,
       "assetId": 258908
     },
@@ -1433,6 +1446,43 @@
       "price": 350,
       "resourceId": 67379721,
       "assetId": 270857
+    },
+    "67387421": {
+      "name": "Jamie Donley",
+      "cardName": "Donley",
+      "originalVersionId": "0",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 35,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        31,
+        33
+      ],
+      "attributes": [
+        66,
+        62,
+        66,
+        67,
+        37,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67387421,
+      "assetId": 278557
     },
     "83957186": {
       "name": "Yang Min Hyeok",
@@ -1511,7 +1561,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 650,
       "resourceId": 84102347,
       "assetId": 216267
     },
@@ -1605,7 +1655,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 83000,
+      "price": 13000,
       "resourceId": 84124296,
       "assetId": 238216
     },
@@ -1662,7 +1712,7 @@
         98
       ],
       "hasDynamicImage": true,
-      "price": 999000,
+      "price": 780000,
       "resourceId": 84129656,
       "assetId": 243576
     },
@@ -1709,7 +1759,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 88000,
+      "price": 94500,
       "resourceId": 84131235,
       "assetId": 245155
     },
@@ -1774,63 +1824,6 @@
       "resourceId": 84159006,
       "assetId": 272926
     },
-    "100908663": {
-      "name": "Xavi Simons",
-      "cardName": "Simons",
-      "originalVersionId": "20",
-      "clubId": 18,
-      "leagueId": 13,
-      "countryId": 34,
-      "versionId": "20",
-      "rating": 91,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        11,
-        13,
-        21,
-        22,
-        24,
-        8,
-        9
-      ],
-      "playStylesPlus": [
-        20,
-        6
-      ],
-      "rolesPlus": [
-        27,
-        29,
-        33,
-        41,
-        42,
-        130,
-        131,
-        132,
-        134,
-        143
-      ],
-      "attributes": [
-        90,
-        90,
-        91,
-        93,
-        70,
-        80
-      ],
-      "hasDynamicImage": true,
-      "price": 70000,
-      "resourceId": 100908663,
-      "assetId": 245367
-    },
     "100927749": {
       "name": "Micky van de Ven",
       "cardName": "van de Ven",
@@ -1883,7 +1876,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 158000,
+      "price": 121000,
       "resourceId": 100927749,
       "assetId": 264453
     },
@@ -1931,6 +1924,61 @@
       "resourceId": 117681608,
       "assetId": 241096
     },
+    "117685879": {
+      "name": "Xavi Simons",
+      "cardName": "Simons",
+      "originalVersionId": "16",
+      "clubId": 18,
+      "leagueId": 13,
+      "countryId": 34,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        95,
+        99,
+        97,
+        76,
+        90
+      ],
+      "hasDynamicImage": true,
+      "price": 521000,
+      "resourceId": 117685879,
+      "assetId": 245367
+    },
     "134492920": {
       "name": "Luka Vušković",
       "cardName": "Vušković",
@@ -1977,7 +2025,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 14750,
       "resourceId": 134492920,
       "assetId": 275192
     }
