@@ -31,7 +31,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 72179,
       "assetId": 72179
     },
@@ -110,7 +110,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 850,
       "resourceId": 213666,
       "assetId": 213666
     },
@@ -230,7 +230,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 9800,
+      "price": 10000,
       "resourceId": 243627,
       "assetId": 243627
     },
@@ -580,48 +580,6 @@
       "resourceId": 50404934,
       "assetId": 73286
     },
-    "50564404": {
-      "name": "Fikayo Tomori",
-      "cardName": "Tomori",
-      "originalVersionId": "91",
-      "clubId": 131681,
-      "leagueId": 31,
-      "countryId": 14,
-      "versionId": "91",
-      "rating": 86,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        18,
-        28,
-        29
-      ],
-      "playStylesPlus": [
-        15
-      ],
-      "rolesPlus": [
-        12,
-        111,
-        148
-      ],
-      "attributes": [
-        83,
-        45,
-        65,
-        72,
-        86,
-        81
-      ],
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 50564404,
-      "assetId": 232756
-    },
     "50585121": {
       "name": "Samuele Ricci",
       "cardName": "Ricci",
@@ -789,7 +747,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 5100,
       "resourceId": 50609974,
       "assetId": 278326
     },
@@ -823,7 +781,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 9900,
       "resourceId": 50610850,
       "assetId": 279202
     },
@@ -916,7 +874,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 32750,
+      "price": 29250,
       "resourceId": 67324562,
       "assetId": 215698
     },
@@ -983,6 +941,66 @@
       "resourceId": 67341275,
       "assetId": 232411
     },
+    "67341620": {
+      "name": "Fikayo Tomori",
+      "cardName": "Tomori",
+      "originalVersionId": "16",
+      "clubId": 131681,
+      "leagueId": 31,
+      "countryId": 14,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM",
+        "LB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        146,
+        147,
+        148,
+        149
+      ],
+      "attributes": [
+        93,
+        55,
+        80,
+        85,
+        96,
+        94
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67341620,
+      "assetId": 232756
+    },
     "67346806": {
       "name": "Pervis Estupiñán",
       "cardName": "Estupiñán",
@@ -1035,7 +1053,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 19750,
       "resourceId": 67346806,
       "assetId": 237942
     },
@@ -1188,7 +1206,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 13500,
+      "price": 19250,
       "resourceId": 84128744,
       "assetId": 242664
     },
@@ -1249,7 +1267,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 53000,
+      "price": 58500,
       "resourceId": 100840299,
       "assetId": 177003
     },
@@ -1491,7 +1509,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 55000,
+      "price": 53000,
       "resourceId": 117668308,
       "assetId": 227796
     }
