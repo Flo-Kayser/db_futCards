@@ -311,7 +311,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 272005,
       "assetId": 272005
     },
@@ -499,46 +499,6 @@
       "resourceId": 272101,
       "assetId": 272101
     },
-    "272241": {
-      "name": "Bárbara López",
-      "cardName": "Bárbara López",
-      "originalVersionId": "0",
-      "clubId": 116334,
-      "leagueId": 2222,
-      "countryId": 45,
-      "versionId": "2001",
-      "rating": 68,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "LW",
-        "ST"
-      ],
-      "playStyles": [
-        29
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        39,
-        42,
-        43
-      ],
-      "attributes": [
-        74,
-        69,
-        62,
-        72,
-        24,
-        70
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 272241,
-      "assetId": 272241
-    },
     "276771": {
       "name": "Malou Marcetto",
       "cardName": "Marcetto",
@@ -574,7 +534,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 276771,
       "assetId": 276771
     },
@@ -773,6 +733,62 @@
       "resourceId": 50603730,
       "assetId": 272082
     },
+    "50603889": {
+      "name": "Bárbara López",
+      "cardName": "Bárbara López",
+      "originalVersionId": "16",
+      "clubId": 116334,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        96,
+        94,
+        90,
+        94,
+        56,
+        99
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 25750,
+      "price": 0,
+      "resourceId": 50603889,
+      "assetId": 272241
+    },
     "67381068": {
       "name": "Allegra Poljak",
       "cardName": "Poljak",
@@ -812,7 +828,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 11000,
       "resourceId": 67381068,
       "assetId": 272204
     }

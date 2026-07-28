@@ -118,7 +118,7 @@
       }
     },
     "16": {
-      "count": 58,
+      "count": 59,
       "file": "db/versions/16.json",
       "details": {
         "name": "FUTTIES",
@@ -640,7 +640,15 @@
     "78": {
       "count": 17,
       "file": "db/versions/78.json",
-      "details": null
+      "details": {
+        "name": "Summer Stars Tournament Winners",
+        "hasStrip": true,
+        "createdAt": "2026-07-28T17:00:00.522Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_78_0.png",
+        "primaryColor": "#ecffea",
+        "secondaryColor": "#360e5f",
+        "tertiaryColor": "#07f468"
+      }
     },
     "79": {
       "count": 6,
@@ -1340,6 +1348,6 @@
   "meta": {
     "totalVersions": 104,
     "totalVersionsWithoutBase": 98,
-    "updatedAt": "2026-07-27T18:44:25.269Z"
+    "updatedAt": "2026-07-28T18:40:04.836Z"
   }
 }
