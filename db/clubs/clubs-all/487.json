@@ -103,7 +103,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 4600,
+      "price": 5000,
       "resourceId": 76274,
       "assetId": 76274
     },
@@ -211,7 +211,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 5100,
       "resourceId": 222838,
       "assetId": 222838
     },
@@ -436,7 +436,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 240335,
       "assetId": 240335
     },
@@ -790,7 +790,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 200,
       "resourceId": 263025,
       "assetId": 263025
     },
@@ -971,7 +971,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50404779,
       "assetId": 73131
     },
@@ -1124,6 +1124,45 @@
       "resourceId": 50594783,
       "assetId": 263135
     },
+    "50609825": {
+      "name": "Luca Raimund",
+      "cardName": "Raimund",
+      "originalVersionId": "0",
+      "clubId": 487,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        31,
+        37
+      ],
+      "attributes": [
+        68,
+        56,
+        61,
+        63,
+        44,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50609825,
+      "assetId": 278177
+    },
     "50609834": {
       "name": "Julian Kania",
       "cardName": "Kania",
@@ -1157,9 +1196,45 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 50609834,
       "assetId": 278186
+    },
+    "67383788": {
+      "name": "Leon Opitz",
+      "cardName": "Opitz",
+      "originalVersionId": "0",
+      "clubId": 487,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27
+      ],
+      "attributes": [
+        70,
+        59,
+        58,
+        62,
+        39,
+        54
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67383788,
+      "assetId": 274924
     }
   }
 }

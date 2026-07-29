@@ -411,7 +411,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 5000,
       "resourceId": 239666,
       "assetId": 239666
     },
@@ -451,7 +451,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 6200,
       "resourceId": 239903,
       "assetId": 239903
     },
@@ -720,7 +720,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 6800,
+      "price": 200,
       "resourceId": 264214,
       "assetId": 264214
     },
@@ -757,7 +757,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 1600,
       "resourceId": 264245,
       "assetId": 264245
     },
@@ -791,7 +791,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 265750,
       "assetId": 265750
     },
@@ -941,7 +941,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 5100,
       "resourceId": 269850,
       "assetId": 269850
     },
@@ -979,7 +979,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 273533,
       "assetId": 273533
     },
@@ -1057,6 +1057,44 @@
       "resourceId": 50404719,
       "assetId": 73071
     },
+    "50404817": {
+      "name": "Janne Sietan",
+      "cardName": "Sietan",
+      "originalVersionId": "1",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        17,
+        21,
+        49
+      ],
+      "attributes": [
+        62,
+        52,
+        55,
+        60,
+        59,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50404817,
+      "assetId": 73169
+    },
     "50410096": {
       "name": "Ruben Reisig",
       "cardName": "Reisig",
@@ -1127,7 +1165,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 50588838,
       "assetId": 257190
     },
@@ -1244,7 +1282,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 46500,
+      "price": 50000,
       "resourceId": 50604557,
       "assetId": 272909
     },
@@ -1281,6 +1319,44 @@
       "price": 200,
       "resourceId": 50607960,
       "assetId": 276312
+    },
+    "50609157": {
+      "name": "Tony Menzel",
+      "cardName": "Menzel",
+      "originalVersionId": "0",
+      "clubId": 526,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        30,
+        31
+      ],
+      "attributes": [
+        71,
+        59,
+        59,
+        66,
+        56,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50609157,
+      "assetId": 277509
     }
   }
 }

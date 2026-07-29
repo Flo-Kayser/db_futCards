@@ -32,7 +32,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 2000,
       "resourceId": 71590,
       "assetId": 71590
     },
@@ -68,7 +68,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 72779,
       "assetId": 72779
     },
@@ -105,7 +105,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 73157,
       "assetId": 73157
     },
@@ -175,7 +175,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 3100,
       "resourceId": 78484,
       "assetId": 78484
     },
@@ -650,7 +650,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 256873,
       "assetId": 256873
     },
@@ -1052,6 +1052,45 @@
       "resourceId": 50403238,
       "assetId": 71590
     },
+    "50404657": {
+      "name": "Ramien Safi",
+      "cardName": "Safi",
+      "originalVersionId": "1",
+      "clubId": 1825,
+      "leagueId": 2076,
+      "countryId": 34,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        26,
+        33
+      ],
+      "attributes": [
+        79,
+        63,
+        53,
+        66,
+        34,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50404657,
+      "assetId": 73009
+    },
     "50566593": {
       "name": "Max Besuschkow",
       "cardName": "Besuschkow",
@@ -1208,6 +1247,43 @@
       "price": 350,
       "resourceId": 50593301,
       "assetId": 261653
+    },
+    "50594293": {
+      "name": "Frederik Christensen",
+      "cardName": "Christensen",
+      "originalVersionId": "1",
+      "clubId": 1825,
+      "leagueId": 2076,
+      "countryId": 13,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        27
+      ],
+      "attributes": [
+        74,
+        53,
+        58,
+        61,
+        57,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50594293,
+      "assetId": 262645
     }
   }
 }

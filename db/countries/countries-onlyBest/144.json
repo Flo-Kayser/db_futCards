@@ -30,7 +30,7 @@
       32
     ],
     "hasDynamicImage": false,
-    "price": 4800,
+    "price": 5100,
     "resourceId": 71395,
     "assetId": 71395
   },
@@ -139,7 +139,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 1700,
+    "price": 5500,
     "resourceId": 76509,
     "assetId": 76509
   },
@@ -219,7 +219,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 450,
     "resourceId": 216258,
     "assetId": 216258
   },
@@ -374,7 +374,7 @@
       83
     ],
     "hasDynamicImage": false,
-    "price": 850,
+    "price": 700,
     "resourceId": 239011,
     "assetId": 239011
   },
@@ -411,7 +411,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 2400,
+    "price": 750,
     "resourceId": 240829,
     "assetId": 240829
   },
@@ -483,7 +483,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 950,
+    "price": 1400,
     "resourceId": 258457,
     "assetId": 258457
   },
@@ -630,6 +630,41 @@
     "price": 200,
     "resourceId": 275274,
     "assetId": 275274
+  },
+  "50404942": {
+    "name": "Pierre Nadjombe",
+    "cardName": "Nadjombe",
+    "originalVersionId": "0",
+    "clubId": 110588,
+    "leagueId": 20,
+    "countryId": 144,
+    "versionId": "2000",
+    "rating": 63,
+    "preferredFoot": "Right",
+    "weakFoot": 2,
+    "skillMoves": 2,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "RB",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      3
+    ],
+    "attributes": [
+      72,
+      46,
+      52,
+      64,
+      60,
+      60
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50404942,
+    "assetId": 73294
   },
   "50411257": {
     "name": "Yannis Lawson",
@@ -845,5 +880,42 @@
     "price": 350,
     "resourceId": 50599921,
     "assetId": 268273
+  },
+  "50606922": {
+    "name": "Mansour Ouro-Tagba",
+    "cardName": "Ouro-Tagba",
+    "originalVersionId": "0",
+    "clubId": 31,
+    "leagueId": 19,
+    "countryId": 144,
+    "versionId": "2000",
+    "rating": 61,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 3,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "ST"
+    ],
+    "playStyles": [
+      20
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      41
+    ],
+    "attributes": [
+      81,
+      53,
+      47,
+      64,
+      31,
+      68
+    ],
+    "hasDynamicImage": false,
+    "price": 0,
+    "resourceId": 50606922,
+    "assetId": 275274
   }
 }

@@ -33,7 +33,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 4800,
+      "price": 6600,
       "resourceId": 73007,
       "assetId": 73007
     },
@@ -107,7 +107,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1400,
       "resourceId": 192660,
       "assetId": 192660
     },
@@ -337,7 +337,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 9800,
+      "price": 10000,
       "resourceId": 242041,
       "assetId": 242041
     },
@@ -417,7 +417,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1000,
       "resourceId": 250991,
       "assetId": 250991
     },
@@ -572,7 +572,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 252846,
       "assetId": 252846
     },
@@ -647,7 +647,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 261446,
       "assetId": 261446
     },
@@ -882,7 +882,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 269875,
       "assetId": 269875
     },
@@ -993,7 +993,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 276288,
       "assetId": 276288
     },
@@ -1176,6 +1176,44 @@
       "resourceId": 50575882,
       "assetId": 244234
     },
+    "50578314": {
+      "name": "Noah Katterbach",
+      "cardName": "Katterbach",
+      "originalVersionId": "0",
+      "clubId": 110500,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10,
+        23
+      ],
+      "attributes": [
+        69,
+        41,
+        58,
+        72,
+        66,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50578314,
+      "assetId": 246666
+    },
     "50580224": {
       "name": "Florian Flick",
       "cardName": "Flick",
@@ -1252,7 +1290,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 50596057,
       "assetId": 264409
     },
@@ -1293,6 +1331,41 @@
       "price": 200,
       "resourceId": 50602548,
       "assetId": 270900
+    },
+    "50607771": {
+      "name": "Damjan Kovačević",
+      "cardName": "Kovačević",
+      "originalVersionId": "1",
+      "clubId": 110500,
+      "leagueId": 20,
+      "countryId": 4,
+      "versionId": "3000",
+      "rating": 58,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        74,
+        37,
+        50,
+        54,
+        54,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50607771,
+      "assetId": 276123
     },
     "50608006": {
       "name": "Grant-Leon Ranos",
@@ -1366,6 +1439,43 @@
       "price": 200,
       "resourceId": 50608345,
       "assetId": 276697
+    },
+    "50611271": {
+      "name": "Samuele Di Benedetto",
+      "cardName": "Di Benedetto",
+      "originalVersionId": "0",
+      "clubId": 110500,
+      "leagueId": 20,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        18,
+        20
+      ],
+      "attributes": [
+        68,
+        53,
+        60,
+        64,
+        58,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50611271,
+      "assetId": 279623
     }
   }
 }

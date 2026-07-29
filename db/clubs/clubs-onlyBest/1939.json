@@ -32,7 +32,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 72212,
       "assetId": 72212
     },
@@ -68,7 +68,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 10000,
       "resourceId": 75603,
       "assetId": 75603
     },
@@ -141,7 +141,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 198285,
       "assetId": 198285
     },
@@ -529,7 +529,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 500,
       "resourceId": 233938,
       "assetId": 233938
     },
@@ -650,7 +650,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 3900,
       "resourceId": 239023,
       "assetId": 239023
     },
@@ -690,7 +690,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 240826,
       "assetId": 240826
     },
@@ -799,7 +799,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 2500,
       "resourceId": 252268,
       "assetId": 252268
     },
@@ -833,7 +833,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 1000,
       "resourceId": 256474,
       "assetId": 256474
     },
@@ -1091,7 +1091,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 3800,
       "resourceId": 279546,
       "assetId": 279546
     },
@@ -1168,6 +1168,40 @@
       "resourceId": 50544642,
       "assetId": 212994
     },
+    "50545347": {
+      "name": "Ashley Fletcher",
+      "cardName": "Fletcher",
+      "originalVersionId": "0",
+      "clubId": 1939,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        71,
+        64,
+        50,
+        61,
+        33,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50545347,
+      "assetId": 213699
+    },
     "50551667": {
       "name": "Marcus Harness",
       "cardName": "Harness",
@@ -1238,7 +1272,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 300,
       "resourceId": 50557732,
       "assetId": 226084
     },
@@ -1311,7 +1345,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 50565586,
       "assetId": 233938
     },
@@ -1430,7 +1464,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 8400,
       "resourceId": 50595848,
       "assetId": 264200
     },
@@ -1542,9 +1576,44 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 3000,
       "resourceId": 50608454,
       "assetId": 276806
+    },
+    "50610634": {
+      "name": "Tom Iorpenda",
+      "cardName": "Iorpenda",
+      "originalVersionId": "0",
+      "clubId": 1939,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        72,
+        50,
+        59,
+        63,
+        52,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50610634,
+      "assetId": 278986
     }
   }
 }
