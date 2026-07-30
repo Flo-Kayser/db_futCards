@@ -35,7 +35,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 5100,
       "resourceId": 73855,
       "assetId": 73855
     },
@@ -107,7 +107,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 550,
       "resourceId": 198177,
       "assetId": 198177
     },
@@ -444,7 +444,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 228624,
       "assetId": 228624
     },
@@ -552,7 +552,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 234070,
       "assetId": 234070
     },
@@ -701,7 +701,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 350,
       "resourceId": 246708,
       "assetId": 246708
     },
@@ -912,7 +912,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 50402600,
       "assetId": 70952
     },
@@ -975,7 +975,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 27500,
+      "price": 24500,
       "resourceId": 50535628,
       "assetId": 203980
     },
@@ -1149,6 +1149,82 @@
       "price": 350,
       "resourceId": 67317484,
       "assetId": 208620
+    },
+    "67334464": {
+      "name": "Abdullah Al Ammar",
+      "cardName": "Al Ammar",
+      "originalVersionId": "0",
+      "clubId": 112883,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9
+      ],
+      "attributes": [
+        75,
+        51,
+        64,
+        68,
+        59,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67334464,
+      "assetId": 225600
+    },
+    "67370736": {
+      "name": "Nawaf Al Saadi",
+      "cardName": "Al Saadi",
+      "originalVersionId": "1",
+      "clubId": 112883,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "3000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        25,
+        37
+      ],
+      "attributes": [
+        75,
+        52,
+        54,
+        65,
+        32,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67370736,
+      "assetId": 261872
     }
   }
 }

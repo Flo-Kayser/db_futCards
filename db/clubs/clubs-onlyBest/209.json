@@ -135,7 +135,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 3000,
       "resourceId": 190589,
       "assetId": 190589
     },
@@ -208,7 +208,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 200,
       "resourceId": 235995,
       "assetId": 235995
     },
@@ -251,7 +251,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 200,
       "resourceId": 236712,
       "assetId": 236712
     },
@@ -285,7 +285,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 700,
       "resourceId": 236758,
       "assetId": 236758
     },
@@ -359,7 +359,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 8200,
+      "price": 10000,
       "resourceId": 244940,
       "assetId": 244940
     },
@@ -442,7 +442,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 1000,
       "resourceId": 252148,
       "assetId": 252148
     },
@@ -625,7 +625,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 5100,
       "resourceId": 262153,
       "assetId": 262153
     },
@@ -659,7 +659,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 263961,
       "assetId": 263961
     },
@@ -727,7 +727,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 4500,
       "resourceId": 269855,
       "assetId": 269855
     },
@@ -766,7 +766,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 3000,
       "resourceId": 270017,
       "assetId": 270017
     },
@@ -988,7 +988,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2100,
+      "price": 200,
       "resourceId": 50404620,
       "assetId": 72972
     },
@@ -1227,6 +1227,40 @@
       "resourceId": 50583900,
       "assetId": 252252
     },
+    "50588952": {
+      "name": "Ammar Helac",
+      "cardName": "Helac",
+      "originalVersionId": "1",
+      "clubId": 209,
+      "leagueId": 80,
+      "countryId": 4,
+      "versionId": "3000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        65,
+        64,
+        58,
+        67,
+        32,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50588952,
+      "assetId": 257304
+    },
     "50588988": {
       "name": "Szymon Włodarczyk",
       "cardName": "Włodarczyk",
@@ -1258,7 +1292,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 200,
       "resourceId": 50588988,
       "assetId": 257340
     },
@@ -1298,7 +1332,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 200,
       "resourceId": 50590749,
       "assetId": 259101
     },
@@ -1367,7 +1401,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50606175,
       "assetId": 274527
     },
@@ -1410,6 +1444,42 @@
       "price": 200,
       "resourceId": 50607287,
       "assetId": 275639
+    },
+    "50610778": {
+      "name": "Amady Camara",
+      "cardName": "Camara",
+      "originalVersionId": "1",
+      "clubId": 209,
+      "leagueId": 80,
+      "countryId": 126,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        43
+      ],
+      "attributes": [
+        74,
+        62,
+        55,
+        62,
+        22,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50610778,
+      "assetId": 279130
     },
     "67181836": {
       "name": "Ryan Fosso",

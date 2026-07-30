@@ -32,7 +32,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 72212,
       "assetId": 72212
     },
@@ -68,7 +68,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 1200,
       "resourceId": 75603,
       "assetId": 75603
     },
@@ -141,7 +141,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 198285,
       "assetId": 198285
     },
@@ -330,7 +330,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1000,
       "resourceId": 220039,
       "assetId": 220039
     },
@@ -529,7 +529,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 700,
       "resourceId": 233938,
       "assetId": 233938
     },
@@ -650,7 +650,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 10000,
       "resourceId": 239023,
       "assetId": 239023
     },
@@ -799,7 +799,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 200,
       "resourceId": 252268,
       "assetId": 252268
     },
@@ -1091,7 +1091,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 4900,
       "resourceId": 279546,
       "assetId": 279546
     },
@@ -1198,7 +1198,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 200,
       "resourceId": 50545347,
       "assetId": 213699
     },
@@ -1272,7 +1272,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 50557732,
       "assetId": 226084
     },
@@ -1345,7 +1345,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 350,
       "resourceId": 50565586,
       "assetId": 233938
     },
@@ -1390,6 +1390,41 @@
       "price": 350,
       "resourceId": 50575001,
       "assetId": 243353
+    },
+    "50590372": {
+      "name": "Ethan Brierley",
+      "cardName": "Brierley",
+      "originalVersionId": "0",
+      "clubId": 1939,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        67,
+        46,
+        58,
+        63,
+        53,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50590372,
+      "assetId": 258724
     },
     "50594907": {
       "name": "Ilias Bronkhorst",
@@ -1464,7 +1499,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 8400,
+      "price": 500,
       "resourceId": 50595848,
       "assetId": 264200
     },
@@ -1503,7 +1538,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50602866,
       "assetId": 271218
     },
@@ -1576,7 +1611,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 2000,
       "resourceId": 50608454,
       "assetId": 276806
     },
@@ -1611,9 +1646,43 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 200,
       "resourceId": 50610634,
       "assetId": 278986
+    },
+    "50610676": {
+      "name": "Matt Young",
+      "cardName": "Young",
+      "originalVersionId": "0",
+      "clubId": 1939,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        59,
+        58,
+        58,
+        60,
+        38,
+        58
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50610676,
+      "assetId": 279028
     }
   }
 }

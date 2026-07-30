@@ -139,7 +139,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 169798,
       "assetId": 169798
     },
@@ -446,7 +446,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 4100,
       "resourceId": 234242,
       "assetId": 234242
     },
@@ -525,7 +525,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 241452,
       "assetId": 241452
     },
@@ -560,7 +560,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1000,
       "resourceId": 241864,
       "assetId": 241864
     },
@@ -748,7 +748,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 264581,
       "assetId": 264581
     },
@@ -863,7 +863,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 2800,
+      "price": 200,
       "resourceId": 269156,
       "assetId": 269156
     },
@@ -1050,7 +1050,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50401923,
       "assetId": 70275
     },
@@ -1209,6 +1209,83 @@
       "price": 350,
       "resourceId": 50577149,
       "assetId": 245501
+    },
+    "50577897": {
+      "name": "Ryan Rydel",
+      "cardName": "Rydel",
+      "originalVersionId": "0",
+      "clubId": 1931,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10,
+        30
+      ],
+      "attributes": [
+        81,
+        53,
+        56,
+        59,
+        55,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50577897,
+      "assetId": 246249
+    },
+    "50595101": {
+      "name": "Ryan Glover",
+      "cardName": "Glover",
+      "originalVersionId": "0",
+      "clubId": 1931,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [
+        27
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        10
+      ],
+      "attributes": [
+        77,
+        50,
+        55,
+        61,
+        53,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50595101,
+      "assetId": 263453
     },
     "67330186": {
       "name": "Eoghan O'Connell",

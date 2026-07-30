@@ -212,7 +212,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 213407,
       "assetId": 213407
     },
@@ -324,7 +324,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 225125,
       "assetId": 225125
     },
@@ -400,7 +400,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 230014,
       "assetId": 230014
     },
@@ -439,7 +439,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 236818,
       "assetId": 236818
     },
@@ -513,7 +513,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 258627,
       "assetId": 258627
     },
@@ -622,7 +622,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 264104,
       "assetId": 264104
     },
@@ -772,6 +772,45 @@
       "resourceId": 274742,
       "assetId": 274742
     },
+    "50538183": {
+      "name": "Paul Digby",
+      "cardName": "Digby",
+      "originalVersionId": "1",
+      "clubId": 1935,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "3000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        17,
+        18
+      ],
+      "attributes": [
+        40,
+        52,
+        57,
+        55,
+        61,
+        79
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50538183,
+      "assetId": 206535
+    },
     "50548115": {
       "name": "Jack Payne",
       "cardName": "Payne",
@@ -817,7 +856,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 43000,
       "resourceId": 50548115,
       "assetId": 216467
     },
@@ -854,7 +893,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50595599,
       "assetId": 263951
     },
@@ -888,9 +927,46 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 50610897,
       "assetId": 279249
+    },
+    "67347314": {
+      "name": "Sean Raggett",
+      "cardName": "Raggett",
+      "originalVersionId": "1",
+      "clubId": 1935,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "3001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        50,
+        42,
+        43,
+        45,
+        66,
+        84
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67347314,
+      "assetId": 238450
     }
   }
 }

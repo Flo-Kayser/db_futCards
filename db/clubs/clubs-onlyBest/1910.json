@@ -109,7 +109,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 4700,
+      "price": 4000,
       "resourceId": 74409,
       "assetId": 74409
     },
@@ -325,7 +325,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 500,
       "resourceId": 199987,
       "assetId": 199987
     },
@@ -365,7 +365,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2500,
       "resourceId": 205995,
       "assetId": 205995
     },
@@ -880,7 +880,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 60000,
+      "price": 64000,
       "resourceId": 50406527,
       "assetId": 74879
     },
@@ -972,7 +972,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 31500,
+      "price": 25000,
       "resourceId": 50535708,
       "assetId": 204060
     },
@@ -1043,7 +1043,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 850,
       "resourceId": 50571529,
       "assetId": 239881
     },
@@ -1135,47 +1135,9 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 21750,
       "resourceId": 50594228,
       "assetId": 262580
-    },
-    "50600084": {
-      "name": "Isak Hansen-Aarøen",
-      "cardName": "Hansen-Aarøen",
-      "originalVersionId": "1",
-      "clubId": 1910,
-      "leagueId": 10,
-      "countryId": 36,
-      "versionId": "3000",
-      "rating": 62,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM",
-        "ST"
-      ],
-      "playStyles": [
-        20
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        31
-      ],
-      "attributes": [
-        70,
-        50,
-        60,
-        68,
-        47,
-        50
-      ],
-      "hasDynamicImage": false,
-      "price": 200,
-      "resourceId": 50600084,
-      "assetId": 268436
     },
     "50602226": {
       "name": "Willum Þór Willumsson",
@@ -1274,7 +1236,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 23000,
       "resourceId": 50609457,
       "assetId": 277809
     },
@@ -1322,9 +1284,65 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 26000,
+      "price": 37500,
       "resourceId": 67373592,
       "assetId": 264728
+    },
+    "67377300": {
+      "name": "Isak Hansen-Aarøen",
+      "cardName": "Hansen-Aarøen",
+      "originalVersionId": "16",
+      "clubId": 1910,
+      "leagueId": 10,
+      "countryId": 36,
+      "versionId": "16",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        95,
+        95,
+        91,
+        95,
+        54,
+        93
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 21250,
+      "resourceId": 67377300,
+      "assetId": 268436
     }
   }
 }

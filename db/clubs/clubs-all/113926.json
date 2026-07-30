@@ -106,7 +106,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 192319,
       "assetId": 192319
     },
@@ -560,7 +560,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 251516,
       "assetId": 251516
     },
@@ -599,7 +599,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 252435,
       "assetId": 252435
     },
@@ -633,7 +633,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 252549,
       "assetId": 252549
     },
@@ -891,9 +891,46 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 200,
       "resourceId": 50550224,
       "assetId": 218576
+    },
+    "50554730": {
+      "name": "Will Norris",
+      "cardName": "Norris",
+      "originalVersionId": "0",
+      "clubId": 113926,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        32,
+        33
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        67,
+        66,
+        66,
+        67,
+        44,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50554730,
+      "assetId": 223082
     },
     "50559801": {
       "name": "Joe Powell",
@@ -1008,7 +1045,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50568964,
       "assetId": 237316
     },
@@ -1042,9 +1079,51 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 50577742,
       "assetId": 246094
+    },
+    "50586697": {
+      "name": "Abraham Odoh",
+      "cardName": "Odoh",
+      "originalVersionId": "1",
+      "clubId": 113926,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "3001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [
+        13,
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        29
+      ],
+      "attributes": [
+        88,
+        59,
+        56,
+        68,
+        47,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50586697,
+      "assetId": 255049
     },
     "50606995": {
       "name": "Macaulay Langstaff",
@@ -1111,7 +1190,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 67387981,
       "assetId": 279117
     }

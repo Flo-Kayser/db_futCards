@@ -105,7 +105,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 5000,
       "resourceId": 75145,
       "assetId": 75145
     },
@@ -819,6 +819,44 @@
       "resourceId": 50402453,
       "assetId": 70805
     },
+    "50410730": {
+      "name": "Marko Ilić",
+      "cardName": "Ilić",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        2
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        71,
+        67,
+        51,
+        69,
+        20,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50410730,
+      "assetId": 79082
+    },
     "50563230": {
       "name": "Nick D'Agostino",
       "cardName": "D'Agostino",
@@ -896,6 +934,81 @@
       "price": 0,
       "resourceId": 50573808,
       "assetId": 242160
+    },
+    "50575433": {
+      "name": "Tate Russell",
+      "cardName": "Russell",
+      "originalVersionId": "1",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "3000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        25
+      ],
+      "attributes": [
+        81,
+        48,
+        57,
+        62,
+        56,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50575433,
+      "assetId": 243785
+    },
+    "50577653": {
+      "name": "Joel King",
+      "cardName": "King",
+      "originalVersionId": "0",
+      "clubId": 111395,
+      "leagueId": 351,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        7,
+        48
+      ],
+      "attributes": [
+        69,
+        33,
+        55,
+        58,
+        56,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50577653,
+      "assetId": 246005
     },
     "50592372": {
       "name": "Marcus Ferkranus",

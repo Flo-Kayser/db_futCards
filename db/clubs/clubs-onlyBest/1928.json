@@ -138,7 +138,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 184242,
       "assetId": 184242
     },
@@ -211,7 +211,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 200742,
       "assetId": 200742
     },
@@ -402,7 +402,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 5100,
       "resourceId": 228111,
       "assetId": 228111
     },
@@ -556,7 +556,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 200,
       "resourceId": 240604,
       "assetId": 240604
     },
@@ -593,7 +593,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 243917,
       "assetId": 243917
     },
@@ -631,7 +631,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 4900,
       "resourceId": 245070,
       "assetId": 245070
     },
@@ -669,7 +669,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 247764,
       "assetId": 247764
     },
@@ -858,7 +858,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 258491,
       "assetId": 258491
     },
@@ -894,7 +894,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 4200,
+      "price": 4700,
       "resourceId": 275006,
       "assetId": 275006
     },
@@ -966,7 +966,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 277413,
       "assetId": 277413
     },
@@ -1002,7 +1002,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 279092,
       "assetId": 279092
     },
@@ -1036,7 +1036,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 200,
       "resourceId": 50525786,
       "assetId": 194138
     },
@@ -1076,6 +1076,45 @@
       "price": 350,
       "resourceId": 50537782,
       "assetId": 206134
+    },
+    "50553353": {
+      "name": "Kyle Dempsey",
+      "cardName": "Dempsey",
+      "originalVersionId": "0",
+      "clubId": 1928,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        19,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        33
+      ],
+      "attributes": [
+        72,
+        60,
+        63,
+        65,
+        60,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50553353,
+      "assetId": 221705
     },
     "50577187": {
       "name": "Ben Waine",
@@ -1154,7 +1193,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50597803,
       "assetId": 266155
     },
@@ -1188,7 +1227,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 5100,
       "resourceId": 50609111,
       "assetId": 277463
     },
@@ -1226,9 +1265,80 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 67182023,
       "assetId": 73159
+    },
+    "67356985": {
+      "name": "Jackson Smith",
+      "cardName": "Smith",
+      "originalVersionId": "1",
+      "clubId": 1928,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "3000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        2
+      ],
+      "attributes": [
+        61,
+        59,
+        59,
+        63,
+        37,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67356985,
+      "assetId": 248121
+    },
+    "67365337": {
+      "name": "Jasper Moon",
+      "cardName": "Moon",
+      "originalVersionId": "0",
+      "clubId": 1928,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        60,
+        26,
+        42,
+        42,
+        64,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67365337,
+      "assetId": 256473
     },
     "67386327": {
       "name": "Dajaune Brown",
