@@ -101,7 +101,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 4700,
+      "price": 7500,
       "resourceId": 77631,
       "assetId": 77631
     },
@@ -135,7 +135,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 200,
       "resourceId": 78145,
       "assetId": 78145
     },
@@ -169,7 +169,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 4400,
+      "price": 250,
       "resourceId": 80067,
       "assetId": 80067
     },
@@ -286,7 +286,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 5900,
       "resourceId": 210372,
       "assetId": 210372
     },
@@ -432,7 +432,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 246947,
       "assetId": 246947
     },
@@ -724,7 +724,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 278789,
       "assetId": 278789
     },
@@ -797,56 +797,6 @@
       "resourceId": 50409864,
       "assetId": 78216
     },
-    "50542904": {
-      "name": "Nicolás Tagliafico",
-      "cardName": "Tagliafico",
-      "originalVersionId": "33",
-      "clubId": 66,
-      "leagueId": 16,
-      "countryId": 52,
-      "versionId": "33",
-      "rating": 86,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 3,
-      "preferredPosition": "LB",
-      "possiblePositions": [
-        "LB",
-        "LM"
-      ],
-      "playStyles": [
-        12,
-        14,
-        16,
-        18,
-        25,
-        26
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        107,
-        108,
-        109,
-        110,
-        127,
-        128,
-        129,
-        130,
-        147
-      ],
-      "attributes": [
-        85,
-        68,
-        80,
-        84,
-        86,
-        83
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 49200,
-      "resourceId": 50542904,
-      "assetId": 211256
-    },
     "50551741": {
       "name": "Hans Hateboer",
       "cardName": "Hateboer",
@@ -884,7 +834,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 550,
       "resourceId": 50551741,
       "assetId": 220093
     },
@@ -1159,7 +1109,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 20000,
       "resourceId": 50593750,
       "assetId": 262102
     },
@@ -1195,7 +1145,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 850,
       "resourceId": 50595973,
       "assetId": 264325
     },
@@ -1285,7 +1235,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 250,
       "resourceId": 50607836,
       "assetId": 276188
     },
@@ -1392,7 +1342,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 21750,
+      "price": 19500,
       "resourceId": 67328547,
       "assetId": 219683
     },
@@ -1480,7 +1430,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 29250,
+      "price": 30000,
       "resourceId": 67349566,
       "assetId": 240702
     },
@@ -1522,9 +1472,66 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 29250,
+      "price": 20000,
       "resourceId": 67374323,
       "assetId": 265459
+    },
+    "84097336": {
+      "name": "Nicolás Tagliafico",
+      "cardName": "Tagliafico",
+      "originalVersionId": "16",
+      "clubId": 66,
+      "leagueId": 16,
+      "countryId": 52,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        138,
+        139,
+        140,
+        146,
+        147
+      ],
+      "attributes": [
+        96,
+        88,
+        91,
+        94,
+        96,
+        93
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 84097336,
+      "assetId": 211256
     },
     "84133130": {
       "name": "Pavel Šulc",
@@ -1588,49 +1595,62 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 21500,
+      "price": 15000,
       "resourceId": 84133130,
       "assetId": 247050
     },
-    "84148185": {
+    "100925401": {
       "name": "Julien Duranville",
       "cardName": "Duranville",
-      "originalVersionId": "1",
+      "originalVersionId": "16",
       "clubId": 66,
       "leagueId": 16,
       "countryId": 7,
-      "versionId": "3001",
-      "rating": 72,
+      "versionId": "16",
+      "rating": 95,
       "preferredFoot": "Right",
-      "weakFoot": 3,
+      "weakFoot": 4,
       "skillMoves": 5,
       "preferredPosition": "RM",
       "possiblePositions": [
         "LM",
+        "LW",
         "RM",
         "RW",
         "ST"
       ],
-      "playStyles": [
-        20,
-        23,
-        25
-      ],
+      "playStyles": [],
       "playStylesPlus": [],
       "rolesPlus": [
-        23
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
-        88,
-        61,
-        63,
-        82,
-        26,
-        49
+        97,
+        92,
+        92,
+        95,
+        50,
+        80
       ],
       "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 84148185,
+      "resourceId": 100925401,
       "assetId": 262105
     },
     "134490233": {
@@ -1682,7 +1702,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 40000,
+      "price": 50000,
       "resourceId": 134490233,
       "assetId": 272505
     }

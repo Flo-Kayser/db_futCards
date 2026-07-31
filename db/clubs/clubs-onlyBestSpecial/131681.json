@@ -186,7 +186,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 49000,
+      "price": 40000,
       "resourceId": 67324562,
       "assetId": 215698
     },
@@ -365,7 +365,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 14750,
       "resourceId": 67346806,
       "assetId": 237942
     },
@@ -447,70 +447,9 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 19000,
+      "price": 14250,
       "resourceId": 84128744,
       "assetId": 242664
-    },
-    "100840299": {
-      "name": "Luka Modrić",
-      "cardName": "Modrić",
-      "originalVersionId": "11",
-      "clubId": 131681,
-      "leagueId": 31,
-      "countryId": 10,
-      "versionId": "11",
-      "rating": 97,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "CDM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        13,
-        17,
-        24,
-        25,
-        6
-      ],
-      "playStylesPlus": [
-        11,
-        16,
-        20,
-        8
-      ],
-      "rolesPlus": [
-        18,
-        22,
-        32,
-        33,
-        114,
-        115,
-        116,
-        117,
-        119,
-        120,
-        121,
-        131,
-        134,
-        149
-      ],
-      "attributes": [
-        91,
-        91,
-        97,
-        96,
-        87,
-        87
-      ],
-      "hasDynamicImage": true,
-      "price": 50000,
-      "resourceId": 100840299,
-      "assetId": 177003
     },
     "100878994": {
       "name": "Mike Maignan",
@@ -709,9 +648,67 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 75000,
+      "price": 41750,
       "resourceId": 117668308,
       "assetId": 227796
+    },
+    "134394731": {
+      "name": "Luka Modrić",
+      "cardName": "Modrić",
+      "originalVersionId": "16",
+      "clubId": 131681,
+      "leagueId": 31,
+      "countryId": 10,
+      "versionId": "16",
+      "rating": 99,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        93,
+        93,
+        99,
+        99,
+        90,
+        90
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 134394731,
+      "assetId": 177003
     }
   }
 }

@@ -42,45 +42,59 @@
     "resourceId": 222000,
     "assetId": 222000
   },
-  "238428": {
-    "name": "Peter Schmeichel",
-    "cardName": "Schmeichel",
-    "originalVersionId": "12",
-    "clubId": 112658,
-    "leagueId": 2118,
+  "50404662": {
+    "name": "Cornelia Kramer",
+    "cardName": "Kramer",
+    "originalVersionId": "16",
+    "clubId": 115996,
+    "leagueId": 2215,
     "countryId": 13,
-    "versionId": "12",
-    "rating": 89,
+    "versionId": "16",
+    "rating": 95,
     "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 1,
-    "preferredPosition": "GK",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
     "possiblePositions": [
-      "GK"
+      "CAM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
     ],
-    "playStyles": [
-      31,
-      33,
-      9
-    ],
-    "playStylesPlus": [
-      30
-    ],
+    "playStyles": [],
+    "playStylesPlus": [],
     "rolesPlus": [
-      102
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
     ],
     "attributes": [
-      89,
-      84,
-      86,
+      96,
+      95,
+      88,
       91,
-      47,
-      87
+      60,
+      90
     ],
-    "hasDynamicImage": false,
-    "price": 90000,
-    "resourceId": 238428,
-    "assetId": 238428
+    "hasDynamicImage": true,
+    "resourceId": 50404662,
+    "assetId": 73014
   },
   "50410269": {
     "name": "Oscar Buch",
@@ -162,7 +176,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 45000,
+    "price": 83000,
     "resourceId": 50522108,
     "assetId": 190460
   },
@@ -207,7 +221,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 189000,
+    "price": 160000,
     "resourceId": 50545296,
     "assetId": 213648
   },
@@ -254,6 +268,51 @@
     "hasDynamicImage": true,
     "resourceId": 50566120,
     "assetId": 234472
+  },
+  "50570076": {
+    "name": "Peter Schmeichel",
+    "cardName": "Schmeichel",
+    "originalVersionId": "139",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 13,
+    "versionId": "139",
+    "rating": 96,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      10,
+      32,
+      34,
+      35
+    ],
+    "playStylesPlus": [
+      30,
+      31,
+      33,
+      9
+    ],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      97,
+      92,
+      94,
+      99,
+      71,
+      95
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50570076,
+    "assetId": 238428
   },
   "50573293": {
     "name": "Victor Torp",
@@ -389,7 +448,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 50000,
+    "price": 56000,
     "resourceId": 50574871,
     "assetId": 243223
   },
@@ -432,7 +491,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 45000,
+    "price": 39000,
     "resourceId": 50575944,
     "assetId": 244296
   },
@@ -486,7 +545,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 97000,
+    "price": 83000,
     "resourceId": 50576883,
     "assetId": 245235
   },
@@ -534,7 +593,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 55000,
+    "price": 43000,
     "resourceId": 50580377,
     "assetId": 248729
   },
@@ -632,7 +691,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 55500,
+    "price": 60000,
     "resourceId": 50589620,
     "assetId": 257972
   },
@@ -821,7 +880,7 @@
       81
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 13750,
     "resourceId": 50598589,
     "assetId": 266941
   },
@@ -870,7 +929,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 24000,
     "resourceId": 50604816,
     "assetId": 273168
   },
@@ -965,7 +1024,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 25000,
     "resourceId": 50610663,
     "assetId": 279015
   },
@@ -1011,7 +1070,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 62000,
+    "price": 57500,
     "resourceId": 50610900,
     "assetId": 279252
   },
@@ -1068,7 +1127,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 24500,
+    "price": 20000,
     "resourceId": 67345782,
     "assetId": 236918
   },
@@ -1126,7 +1185,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 43500,
+    "price": 51000,
     "resourceId": 67350372,
     "assetId": 241508
   },
@@ -1237,7 +1296,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 12000,
+    "price": 13000,
     "resourceId": 67373888,
     "assetId": 265024
   },
@@ -1302,62 +1361,65 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 23250,
+    "price": 33750,
     "resourceId": 67382041,
     "assetId": 273177
   },
-  "67386296": {
+  "84163512": {
     "name": "Patrick Dorgu",
     "cardName": "Dorgu",
-    "originalVersionId": "71",
+    "originalVersionId": "16",
     "clubId": 11,
     "leagueId": 13,
     "countryId": 13,
-    "versionId": "71",
-    "rating": 89,
+    "versionId": "16",
+    "rating": 96,
     "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 3,
+    "weakFoot": 5,
+    "skillMoves": 4,
     "preferredPosition": "LM",
     "possiblePositions": [
       "LB",
       "LM",
-      "LW"
+      "LW",
+      "RB",
+      "RM"
     ],
-    "playStyles": [
-      0,
-      11,
-      12,
-      16,
-      28,
-      9
-    ],
-    "playStylesPlus": [
-      14,
-      21
-    ],
+    "playStyles": [],
+    "playStylesPlus": [],
     "rolesPlus": [
-      7,
-      30,
-      39,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
       110,
+      123,
+      124,
+      125,
+      126,
       127,
+      128,
       129,
+      130,
       138,
-      140
+      139,
+      140,
+      146,
+      147
     ],
     "attributes": [
-      94,
-      82,
-      86,
-      89,
-      86,
-      88
+      96,
+      93,
+      93,
+      96,
+      93,
+      94
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 348950,
-    "price": 0,
-    "resourceId": 67386296,
+    "resourceId": 84163512,
     "assetId": 277432
   },
   "100922583": {
@@ -1415,7 +1477,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 25500,
     "resourceId": 100922583,
     "assetId": 259287
   },
@@ -1464,7 +1526,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 38000,
+    "price": 26500,
     "resourceId": 134477127,
     "assetId": 259399
   }

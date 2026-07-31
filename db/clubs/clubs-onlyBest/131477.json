@@ -172,7 +172,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 5000,
       "resourceId": 74894,
       "assetId": 74894
     },
@@ -532,7 +532,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1300,
       "resourceId": 267241,
       "assetId": 267241
     },
@@ -608,7 +608,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 350,
       "resourceId": 267269,
       "assetId": 267269
     },
@@ -802,7 +802,7 @@
         88
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 1400,
       "resourceId": 272076,
       "assetId": 272076
     },
@@ -840,7 +840,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 950,
       "resourceId": 273472,
       "assetId": 273472
     },
@@ -877,50 +877,6 @@
       "price": 200,
       "resourceId": 273483,
       "assetId": 273483
-    },
-    "50402138": {
-      "name": "Alex Pfeiffer",
-      "cardName": "Pfeiffer",
-      "originalVersionId": "30",
-      "clubId": 131477,
-      "leagueId": 2221,
-      "countryId": 95,
-      "versionId": "30",
-      "rating": 90,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "LW",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        26,
-        36,
-        39,
-        123,
-        125,
-        135,
-        137,
-        138,
-        140
-      ],
-      "attributes": [
-        93,
-        92,
-        85,
-        88,
-        54,
-        82
-      ],
-      "hasDynamicImage": true,
-      "price": 94500,
-      "resourceId": 50402138,
-      "assetId": 70490
     },
     "50403231": {
       "name": "Kennedy Fuller",
@@ -1196,9 +1152,63 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 24000,
       "resourceId": 67388563,
       "assetId": 279699
+    },
+    "83956570": {
+      "name": "Alex Pfeiffer",
+      "cardName": "Pfeiffer",
+      "originalVersionId": "16",
+      "clubId": 131477,
+      "leagueId": 2221,
+      "countryId": 95,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        97,
+        95,
+        91,
+        96,
+        60,
+        90
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 83956570,
+      "assetId": 70490
     },
     "84132444": {
       "name": "Aldana Cometti",

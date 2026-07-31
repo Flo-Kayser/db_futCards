@@ -171,7 +171,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 226350,
       "assetId": 226350
     },
@@ -212,7 +212,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 243769,
       "assetId": 243769
     },
@@ -289,7 +289,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 9100,
+      "price": 10000,
       "resourceId": 248794,
       "assetId": 248794
     },
@@ -367,7 +367,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 4400,
       "resourceId": 267278,
       "assetId": 267278
     },
@@ -795,7 +795,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 23500,
+      "price": 16250,
       "resourceId": 50598049,
       "assetId": 266401
     },
@@ -884,54 +884,45 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 29500,
+      "price": 20500,
       "resourceId": 67185190,
       "assetId": 76326
     },
-    "67336187": {
-      "name": "Guro Reiten",
-      "cardName": "Reiten",
-      "originalVersionId": "30",
+    "67335989": {
+      "name": "Sam Kerr",
+      "cardName": "Kerr",
+      "originalVersionId": "16",
       "clubId": 116310,
       "leagueId": 2221,
-      "countryId": 36,
-      "versionId": "30",
-      "rating": 90,
-      "preferredFoot": "Left",
+      "countryId": 195,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 5,
-      "preferredPosition": "LM",
+      "preferredPosition": "ST",
       "possiblePositions": [
-        "CAM",
-        "LM",
-        "LW"
+        "ST"
       ],
       "playStyles": [],
       "playStylesPlus": [],
       "rolesPlus": [
-        28,
-        29,
-        32,
-        33,
-        40,
-        127,
-        130,
-        131,
-        138,
-        139
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
+        93,
+        98,
         90,
-        87,
-        88,
-        90,
-        62,
-        75
+        95,
+        47,
+        92
       ],
       "hasDynamicImage": false,
-      "price": 25000,
-      "resourceId": 67336187,
-      "assetId": 227323
+      "resourceId": 67335989,
+      "assetId": 227125
     },
     "67342108": {
       "name": "Esther",
@@ -983,7 +974,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 43500,
+      "price": 43250,
       "resourceId": 67342108,
       "assetId": 233244
     },
@@ -1026,7 +1017,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 22500,
+      "price": 33250,
       "resourceId": 67367174,
       "assetId": 258310
     },
@@ -1069,6 +1060,63 @@
       "hasDynamicImage": true,
       "resourceId": 67380757,
       "assetId": 271893
+    },
+    "100890619": {
+      "name": "Guro Reiten",
+      "cardName": "Reiten",
+      "originalVersionId": "16",
+      "clubId": 116310,
+      "leagueId": 2221,
+      "countryId": 36,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        147
+      ],
+      "attributes": [
+        96,
+        91,
+        95,
+        97,
+        92,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 100890619,
+      "assetId": 227323
     },
     "117672587": {
       "name": "Rose Lavelle",

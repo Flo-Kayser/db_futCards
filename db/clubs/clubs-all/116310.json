@@ -247,7 +247,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 400,
       "resourceId": 226350,
       "assetId": 226350
     },
@@ -288,7 +288,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1900,
       "resourceId": 232074,
       "assetId": 232074
     },
@@ -334,7 +334,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 750,
       "resourceId": 232075,
       "assetId": 232075
     },
@@ -372,7 +372,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 750,
       "resourceId": 233244,
       "assetId": 233244
     },
@@ -408,7 +408,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 4700,
+      "price": 700,
       "resourceId": 238412,
       "assetId": 238412
     },
@@ -449,7 +449,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 243769,
       "assetId": 243769
     },
@@ -526,7 +526,7 @@
         87
       ],
       "hasDynamicImage": false,
-      "price": 9100,
+      "price": 10000,
       "resourceId": 248794,
       "assetId": 248794
     },
@@ -723,7 +723,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 4400,
       "resourceId": 267278,
       "assetId": 267278
     },
@@ -1099,7 +1099,7 @@
         66
       ],
       "hasDynamicImage": true,
-      "price": 60000,
+      "price": 48250,
       "resourceId": 50563723,
       "assetId": 232075
     },
@@ -1277,7 +1277,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 60000,
+      "price": 58000,
       "resourceId": 50589958,
       "assetId": 258310
     },
@@ -1371,7 +1371,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 23500,
+      "price": 16250,
       "resourceId": 50598049,
       "assetId": 266401
     },
@@ -1502,9 +1502,45 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 29500,
+      "price": 20500,
       "resourceId": 67185190,
       "assetId": 76326
+    },
+    "67335989": {
+      "name": "Sam Kerr",
+      "cardName": "Kerr",
+      "originalVersionId": "16",
+      "clubId": 116310,
+      "leagueId": 2221,
+      "countryId": 195,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        93,
+        98,
+        90,
+        95,
+        47,
+        92
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67335989,
+      "assetId": 227125
     },
     "67336187": {
       "name": "Guro Reiten",
@@ -1547,7 +1583,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 25000,
+      "price": 27750,
       "resourceId": 67336187,
       "assetId": 227323
     },
@@ -1601,7 +1637,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 43500,
+      "price": 43250,
       "resourceId": 67342108,
       "assetId": 233244
     },
@@ -1644,7 +1680,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 22500,
+      "price": 33250,
       "resourceId": 67367174,
       "assetId": 258310
     },
@@ -1776,7 +1812,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 1000,
       "resourceId": 84113403,
       "assetId": 227323
     },
@@ -1822,9 +1858,66 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 70000,
+      "price": 72000,
       "resourceId": 84118155,
       "assetId": 232075
+    },
+    "100890619": {
+      "name": "Guro Reiten",
+      "cardName": "Reiten",
+      "originalVersionId": "16",
+      "clubId": 116310,
+      "leagueId": 2221,
+      "countryId": 36,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        107,
+        108,
+        109,
+        110,
+        118,
+        119,
+        120,
+        121,
+        122,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140,
+        147
+      ],
+      "attributes": [
+        96,
+        91,
+        95,
+        97,
+        92,
+        85
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 100890619,
+      "assetId": 227323
     },
     "100895371": {
       "name": "Rose Lavelle",

@@ -60,6 +60,51 @@
     "resourceId": 50337119,
     "assetId": 5471
   },
+  "50570076": {
+    "name": "Peter Schmeichel",
+    "cardName": "Schmeichel",
+    "originalVersionId": "139",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 13,
+    "versionId": "139",
+    "rating": 96,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [
+      10,
+      32,
+      34,
+      35
+    ],
+    "playStylesPlus": [
+      30,
+      31,
+      33,
+      9
+    ],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      97,
+      92,
+      94,
+      99,
+      71,
+      95
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50570076,
+    "assetId": 238428
+  },
   "67157804": {
     "name": "Petr Čech",
     "cardName": "Čech",
@@ -102,9 +147,81 @@
       97
     ],
     "hasDynamicImage": true,
-    "price": 165000,
+    "price": 190000,
     "resourceId": 67157804,
     "assetId": 48940
+  },
+  "67335870": {
+    "name": "Homare Sawa",
+    "cardName": "Sawa",
+    "originalVersionId": "139",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 163,
+    "versionId": "139",
+    "rating": 98,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "LM",
+      "RM"
+    ],
+    "playStyles": [
+      10,
+      14,
+      20,
+      22,
+      24,
+      26,
+      6,
+      9
+    ],
+    "playStylesPlus": [
+      11,
+      16,
+      25,
+      8
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      94,
+      94,
+      99,
+      98,
+      92,
+      88
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67335870,
+    "assetId": 227006
   },
   "67347307": {
     "name": "Laurent Blanc",
@@ -267,6 +384,74 @@
     "resourceId": 67359754,
     "assetId": 250890
   },
+  "67384107": {
+    "name": "Mia Hamm",
+    "cardName": "Hamm",
+    "originalVersionId": "139",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 95,
+    "versionId": "139",
+    "rating": 99,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      0,
+      11,
+      2,
+      21,
+      24,
+      26,
+      7
+    ],
+    "playStylesPlus": [
+      20,
+      22,
+      25,
+      6,
+      8
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      98,
+      99,
+      95,
+      99,
+      60,
+      88
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67384107,
+    "assetId": 275243
+  },
   "84026681": {
     "name": "Nemanja Vidić",
     "cardName": "Vidić",
@@ -338,7 +523,7 @@
       97
     ],
     "hasDynamicImage": true,
-    "price": 301000,
+    "price": 380000,
     "resourceId": 84026681,
     "assetId": 140601
   },
@@ -410,7 +595,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 120700,
+    "sbcPrice": 110450,
     "resourceId": 84113055,
     "assetId": 226975
   },
@@ -483,7 +668,7 @@
       99
     ],
     "hasDynamicImage": true,
-    "price": 51000,
+    "price": 49000,
     "resourceId": 84113404,
     "assetId": 227324
   },
@@ -622,6 +807,143 @@
     "resourceId": 84154593,
     "assetId": 268513
   },
+  "100712665": {
+    "name": "Fernando Torres",
+    "cardName": "Fernando Torres",
+    "originalVersionId": "139",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 45,
+    "versionId": "139",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      1,
+      11,
+      2,
+      21,
+      4,
+      7,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      20,
+      25,
+      6
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      96,
+      99,
+      92,
+      94,
+      55,
+      91
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 473150,
+    "resourceId": 100712665,
+    "assetId": 49369
+  },
+  "100938572": {
+    "name": "Birgit Prinz",
+    "cardName": "Prinz",
+    "originalVersionId": "139",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 21,
+    "versionId": "139",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      20,
+      22,
+      24,
+      25,
+      4,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      2,
+      29,
+      6
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      95,
+      99,
+      85,
+      96,
+      60,
+      93
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 100938572,
+    "assetId": 275276
+  },
   "117630554": {
     "name": "Diego Armando Maradona",
     "cardName": "Maradona",
@@ -687,7 +1009,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 2360000,
+    "price": 2378000,
     "resourceId": 117630554,
     "assetId": 190042
   },
@@ -756,9 +1078,221 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 3602000,
+    "price": 3400000,
     "resourceId": 134245858,
     "assetId": 28130
+  },
+  "134394404": {
+    "name": "Marcelo",
+    "cardName": "Marcelo",
+    "originalVersionId": "139",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 54,
+    "versionId": "139",
+    "rating": 99,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LB",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      0,
+      10,
+      16,
+      17,
+      25,
+      28,
+      6
+    ],
+    "playStylesPlus": [
+      11,
+      20,
+      21,
+      22,
+      8
+    ],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      147
+    ],
+    "attributes": [
+      98,
+      90,
+      99,
+      99,
+      96,
+      91
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 134394404,
+    "assetId": 176676
+  },
+  "134456112": {
+    "name": "Carles Puyol",
+    "cardName": "Carles Puyol",
+    "originalVersionId": "139",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 45,
+    "versionId": "139",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [
+      10,
+      14,
+      18,
+      19,
+      25,
+      26,
+      4,
+      9
+    ],
+    "playStylesPlus": [
+      15,
+      16,
+      17,
+      28
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      123,
+      124,
+      125,
+      126,
+      146,
+      147,
+      148,
+      149
+    ],
+    "attributes": [
+      94,
+      55,
+      90,
+      88,
+      99,
+      95
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 134456112,
+    "assetId": 238384
+  },
+  "150996569": {
+    "name": "Thierry Henry",
+    "cardName": "Henry",
+    "originalVersionId": "139",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 18,
+    "versionId": "139",
+    "rating": 99,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      13,
+      2,
+      22,
+      23,
+      25,
+      7,
+      8
+    ],
+    "playStylesPlus": [
+      0,
+      11,
+      20,
+      21,
+      6
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      99,
+      99,
+      92,
+      97,
+      65,
+      90
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 150996569,
+    "assetId": 1625
   },
   "167813396": {
     "name": "Zlatan Ibrahimović",
@@ -826,7 +1360,7 @@
       99
     ],
     "hasDynamicImage": true,
-    "price": 2390000,
+    "price": 2300000,
     "resourceId": 167813396,
     "assetId": 41236
   }

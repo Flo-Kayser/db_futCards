@@ -41,60 +41,9 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 40250,
+      "price": 25000,
       "resourceId": 50532037,
       "assetId": 200389
-    },
-    "50562547": {
-      "name": "Ademola Lookman",
-      "cardName": "Lookman",
-      "originalVersionId": "55",
-      "clubId": 240,
-      "leagueId": 53,
-      "countryId": 133,
-      "versionId": "55",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        11,
-        20,
-        22,
-        25,
-        3,
-        7
-      ],
-      "playStylesPlus": [
-        6
-      ],
-      "rolesPlus": [
-        33,
-        42,
-        44,
-        132,
-        134,
-        141,
-        143
-      ],
-      "attributes": [
-        90,
-        88,
-        80,
-        92,
-        37,
-        76
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 56250,
-      "resourceId": 50562547,
-      "assetId": 230899
     },
     "50565134": {
       "name": "Robin Le Normand",
@@ -389,7 +338,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 36000,
       "resourceId": 50597687,
       "assetId": 266039
     },
@@ -445,7 +394,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 16250,
       "resourceId": 50604097,
       "assetId": 272449
     },
@@ -497,7 +446,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 78000,
+      "price": 79500,
       "resourceId": 67302611,
       "assetId": 193747
     },
@@ -534,7 +483,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 19250,
+      "price": 14250,
       "resourceId": 67325324,
       "assetId": 216460
     },
@@ -589,7 +538,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 75500,
+      "price": 70000,
       "resourceId": 67341948,
       "assetId": 233084
     },
@@ -653,7 +602,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 41000,
+      "price": 21250,
       "resourceId": 67362260,
       "assetId": 253396
     },
@@ -769,6 +718,60 @@
       "resourceId": 84080845,
       "assetId": 194765
     },
+    "84116979": {
+      "name": "Ademola Lookman",
+      "cardName": "Lookman",
+      "originalVersionId": "16",
+      "clubId": 240,
+      "leagueId": 53,
+      "countryId": 133,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        96,
+        96,
+        90,
+        97,
+        50,
+        88
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 84116979,
+      "assetId": 230899
+    },
     "84143359": {
       "name": "Álex Baena",
       "cardName": "Álex Baena",
@@ -825,7 +828,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 699000,
+      "price": 799000,
       "resourceId": 84143359,
       "assetId": 257279
     },
@@ -991,20 +994,22 @@
       "resourceId": 100910399,
       "assetId": 247103
     },
-    "117657061": {
+    "134434277": {
       "name": "Alexander Sørloth",
       "cardName": "Sørloth",
-      "originalVersionId": "98",
+      "originalVersionId": "16",
       "clubId": 240,
       "leagueId": 53,
       "countryId": 36,
-      "versionId": "98",
-      "rating": 94,
+      "versionId": "16",
+      "rating": 97,
       "preferredFoot": "Left",
       "weakFoot": 5,
       "skillMoves": 4,
-      "preferredPosition": "RW",
+      "preferredPosition": "ST",
       "possiblePositions": [
+        "LM",
+        "LW",
         "RM",
         "RW",
         "ST"
@@ -1016,25 +1021,31 @@
         124,
         125,
         126,
+        127,
+        128,
+        129,
+        130,
         135,
         136,
         137,
+        138,
+        139,
+        140,
         141,
         142,
         143,
         144
       ],
       "attributes": [
-        95,
-        95,
-        90,
+        97,
+        97,
         93,
-        55,
-        95
+        96,
+        60,
+        97
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 65250,
-      "resourceId": 117657061,
+      "resourceId": 134434277,
       "assetId": 216549
     },
     "134443889": {
@@ -1094,7 +1105,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 120000,
+      "price": 139000,
       "resourceId": 134443889,
       "assetId": 226161
     },
@@ -1131,7 +1142,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 100000,
+      "price": 95000,
       "resourceId": 134463919,
       "assetId": 246191
     },
@@ -1230,7 +1241,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 379000,
+      "price": 390000,
       "resourceId": 151241135,
       "assetId": 246191
     }

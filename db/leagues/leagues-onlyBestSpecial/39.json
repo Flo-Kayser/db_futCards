@@ -320,54 +320,6 @@
     "resourceId": 50499596,
     "assetId": 167948
   },
-  "50508228": {
-    "name": "Luis Suárez",
-    "cardName": "Suárez",
-    "originalVersionId": "108",
-    "clubId": 112893,
-    "leagueId": 39,
-    "countryId": 60,
-    "versionId": "108",
-    "rating": 89,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "CAM",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      2,
-      24,
-      25,
-      29,
-      7
-    ],
-    "playStylesPlus": [
-      6
-    ],
-    "rolesPlus": [
-      31,
-      41,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      86,
-      92,
-      84,
-      89,
-      50,
-      85
-    ],
-    "hasDynamicImage": true,
-    "price": 50000,
-    "resourceId": 50508228,
-    "assetId": 176580
-  },
   "50515217": {
     "name": "Eric Maxim Choupo-Moting",
     "cardName": "Choupo-Moting",
@@ -410,7 +362,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 26250,
+    "price": 14500,
     "resourceId": 50515217,
     "assetId": 183569
   },
@@ -560,7 +512,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 40000,
+    "price": 20250,
     "resourceId": 50530353,
     "assetId": 198705
   },
@@ -621,7 +573,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 18500,
+    "price": 19250,
     "resourceId": 50530358,
     "assetId": 198710
   },
@@ -759,7 +711,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 23000,
+    "price": 20000,
     "resourceId": 50533818,
     "assetId": 202170
   },
@@ -804,7 +756,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 30500,
+    "price": 29000,
     "resourceId": 50534715,
     "assetId": 203067
   },
@@ -907,7 +859,7 @@
       66
     ],
     "hasDynamicImage": true,
-    "price": 19750,
+    "price": 14750,
     "resourceId": 50542578,
     "assetId": 210930
   },
@@ -1049,7 +1001,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 19250,
+    "price": 14000,
     "resourceId": 50554077,
     "assetId": 222429
   },
@@ -1114,7 +1066,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 23750,
+    "price": 21750,
     "resourceId": 50558455,
     "assetId": 226807
   },
@@ -1182,7 +1134,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 14750,
     "resourceId": 50562625,
     "assetId": 230977
   },
@@ -1224,7 +1176,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 17750,
     "resourceId": 50565438,
     "assetId": 233790
   },
@@ -1365,7 +1317,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 26750,
+    "price": 24000,
     "resourceId": 50574244,
     "assetId": 242596
   },
@@ -1456,7 +1408,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 40250,
+    "price": 37750,
     "resourceId": 50584944,
     "assetId": 253296
   },
@@ -1556,7 +1508,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 11000,
     "resourceId": 50592127,
     "assetId": 260479
   },
@@ -1644,7 +1596,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 49750,
+    "price": 44000,
     "resourceId": 50598272,
     "assetId": 266624
   },
@@ -1811,7 +1763,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 34000,
+    "price": 26000,
     "resourceId": 50606183,
     "assetId": 274535
   },
@@ -1975,7 +1927,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 22750,
+    "price": 19000,
     "resourceId": 50610336,
     "assetId": 278688
   },
@@ -2128,9 +2080,50 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 20750,
+    "price": 17500,
     "resourceId": 67184009,
     "assetId": 75145
+  },
+  "67285444": {
+    "name": "Luis Suárez",
+    "cardName": "Suárez",
+    "originalVersionId": "16",
+    "clubId": 112893,
+    "leagueId": 39,
+    "countryId": 60,
+    "versionId": "16",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      93,
+      97,
+      95,
+      95,
+      57,
+      92
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67285444,
+    "assetId": 176580
   },
   "67298196": {
     "name": "Jordi Alba",
@@ -2282,7 +2275,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 16000,
     "resourceId": 67321480,
     "assetId": 212616
   },
@@ -2334,7 +2327,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 37000,
+    "price": 33000,
     "resourceId": 67321586,
     "assetId": 212722
   },
@@ -2392,7 +2385,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 16000,
     "resourceId": 67334815,
     "assetId": 225951
   },
@@ -2450,7 +2443,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 16750,
     "resourceId": 67340945,
     "assetId": 232081
   },
@@ -2499,7 +2492,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 24250,
+    "price": 18500,
     "resourceId": 67342264,
     "assetId": 233400
   },
@@ -2559,7 +2552,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 24500,
+    "price": 24750,
     "resourceId": 67343369,
     "assetId": 234505
   },
@@ -2616,7 +2609,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 24500,
+    "price": 20000,
     "resourceId": 67345782,
     "assetId": 236918
   },
@@ -2677,7 +2670,7 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 17500,
     "resourceId": 67346119,
     "assetId": 237255
   },
@@ -2723,7 +2716,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 23000,
+    "price": 26500,
     "resourceId": 67356092,
     "assetId": 247228
   },
@@ -2844,7 +2837,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 45250,
+    "price": 14000,
     "resourceId": 67363442,
     "assetId": 254578
   },
@@ -2953,7 +2946,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 35000,
+    "price": 34500,
     "resourceId": 67369636,
     "assetId": 260772
   },
@@ -3116,7 +3109,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 37250,
+    "price": 37500,
     "resourceId": 84120329,
     "assetId": 234249
   },
@@ -3174,7 +3167,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 20750,
+    "price": 16500,
     "resourceId": 84156597,
     "assetId": 270517
   },
@@ -3398,7 +3391,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 1350000,
+    "price": 1095000,
     "resourceId": 235039047,
     "assetId": 158023
   }

@@ -90,7 +90,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 58500,
+    "price": 61000,
     "resourceId": 50526734,
     "assetId": 195086
   },
@@ -151,7 +151,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 29250,
     "resourceId": 50539058,
     "assetId": 207410
   },
@@ -207,7 +207,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 20750,
+    "price": 15500,
     "resourceId": 50554921,
     "assetId": 223273
   },
@@ -346,7 +346,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 71500,
+    "price": 73000,
     "resourceId": 50562655,
     "assetId": 231007
   },
@@ -406,7 +406,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 27500,
+    "price": 19750,
     "resourceId": 50572743,
     "assetId": 241095
   },
@@ -500,7 +500,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 120000,
+    "price": 29750,
     "resourceId": 50587973,
     "assetId": 256325
   },
@@ -562,7 +562,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 22750,
+    "price": 18250,
     "resourceId": 50589537,
     "assetId": 257889
   },
@@ -676,7 +676,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 19750,
     "resourceId": 50594228,
     "assetId": 262580
   },
@@ -773,7 +773,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 28500,
     "resourceId": 67290647,
     "assetId": 181783
   },
@@ -834,7 +834,7 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 57500,
+    "price": 44500,
     "resourceId": 67360381,
     "assetId": 251517
   },
@@ -872,7 +872,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 47500,
+    "price": 47250,
     "resourceId": 67380259,
     "assetId": 271395
   },
@@ -927,7 +927,7 @@
       99
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 17750,
     "resourceId": 84067538,
     "assetId": 181458
   },
@@ -977,7 +977,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 20750,
+    "price": 15250,
     "resourceId": 84100729,
     "assetId": 214649
   },
@@ -1091,67 +1091,6 @@
     "resourceId": 84148922,
     "assetId": 262842
   },
-  "100840299": {
-    "name": "Luka Modrić",
-    "cardName": "Modrić",
-    "originalVersionId": "11",
-    "clubId": 131681,
-    "leagueId": 31,
-    "countryId": 10,
-    "versionId": "11",
-    "rating": 97,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 5,
-    "preferredPosition": "CDM",
-    "possiblePositions": [
-      "CAM",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      10,
-      13,
-      17,
-      24,
-      25,
-      6
-    ],
-    "playStylesPlus": [
-      11,
-      16,
-      20,
-      8
-    ],
-    "rolesPlus": [
-      18,
-      22,
-      32,
-      33,
-      114,
-      115,
-      116,
-      117,
-      119,
-      120,
-      121,
-      131,
-      134,
-      149
-    ],
-    "attributes": [
-      91,
-      91,
-      97,
-      96,
-      87,
-      87
-    ],
-    "hasDynamicImage": true,
-    "price": 50000,
-    "resourceId": 100840299,
-    "assetId": 177003
-  },
   "100914251": {
     "name": "Josip Stanišić",
     "cardName": "Stanišić",
@@ -1196,7 +1135,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 28750,
     "resourceId": 100914251,
     "assetId": 250955
   },
@@ -1245,9 +1184,67 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 22500,
+    "price": 16750,
     "resourceId": 100938488,
     "assetId": 275192
+  },
+  "134394731": {
+    "name": "Luka Modrić",
+    "cardName": "Modrić",
+    "originalVersionId": "16",
+    "clubId": 131681,
+    "leagueId": 31,
+    "countryId": 10,
+    "versionId": "16",
+    "rating": 99,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "LM",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      149
+    ],
+    "attributes": [
+      93,
+      93,
+      99,
+      99,
+      90,
+      90
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 134394731,
+    "assetId": 177003
   },
   "134492920": {
     "name": "Luka Vušković",
@@ -1295,7 +1292,7 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 21500,
+    "price": 17250,
     "resourceId": 134492920,
     "assetId": 275192
   }

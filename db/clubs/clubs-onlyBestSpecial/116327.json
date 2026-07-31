@@ -151,7 +151,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 29500,
+      "price": 28000,
       "resourceId": 50603758,
       "assetId": 272110
     },
@@ -203,7 +203,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 23500,
+      "price": 20000,
       "resourceId": 67383644,
       "assetId": 274780
     },
@@ -267,59 +267,62 @@
       "resourceId": 84148625,
       "assetId": 262545
     },
-    "84158174": {
+    "117712606": {
       "name": "Fiamma Benítez",
       "cardName": "Fiamma Benítez",
-      "originalVersionId": "11",
+      "originalVersionId": "16",
       "clubId": 116327,
       "leagueId": 2222,
       "countryId": 45,
-      "versionId": "11",
-      "rating": 96,
+      "versionId": "16",
+      "rating": 97,
       "preferredFoot": "Right",
       "weakFoot": 4,
       "skillMoves": 5,
       "preferredPosition": "CAM",
       "possiblePositions": [
         "CAM",
-        "CM"
+        "CDM",
+        "CM",
+        "LM",
+        "RM"
       ],
-      "playStyles": [
-        11,
-        13,
-        20,
-        22,
-        24,
-        25,
-        6
-      ],
-      "playStylesPlus": [
-        0,
-        8,
-        9
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
-        18,
-        19,
-        20,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
         121,
         122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
         131,
         132,
         133,
-        134
+        134,
+        149
       ],
       "attributes": [
-        93,
         94,
-        95,
         96,
-        85,
-        91
+        96,
+        97,
+        87,
+        92
       ],
       "hasDynamicImage": true,
-      "price": 19000,
-      "resourceId": 84158174,
+      "resourceId": 117712606,
       "assetId": 272094
     }
   }

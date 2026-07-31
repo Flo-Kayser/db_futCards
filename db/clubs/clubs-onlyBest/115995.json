@@ -36,7 +36,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 750,
       "resourceId": 226998,
       "assetId": 226998
     },
@@ -77,7 +77,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 900,
       "resourceId": 239345,
       "assetId": 239345
     },
@@ -117,7 +117,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 7400,
+      "price": 7000,
       "resourceId": 239756,
       "assetId": 239756
     },
@@ -155,7 +155,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1100,
       "resourceId": 244302,
       "assetId": 244302
     },
@@ -192,7 +192,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1300,
       "resourceId": 264899,
       "assetId": 264899
     },
@@ -502,7 +502,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 600,
       "resourceId": 277278,
       "assetId": 277278
     },
@@ -584,7 +584,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 59500,
+      "price": 49000,
       "resourceId": 50580365,
       "assetId": 248717
     },
@@ -690,7 +690,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 21750,
+      "price": 24000,
       "resourceId": 50604816,
       "assetId": 273168
     },
@@ -906,7 +906,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 22500,
+      "price": 23500,
       "resourceId": 67356377,
       "assetId": 247513
     },
@@ -951,7 +951,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 24750,
+      "price": 50000,
       "resourceId": 67356652,
       "assetId": 247788
     },
@@ -1003,7 +1003,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 52500,
+      "price": 47750,
       "resourceId": 67373754,
       "assetId": 264890
     },
@@ -1058,7 +1058,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 24000,
       "resourceId": 83956225,
       "assetId": 70145
     },
@@ -1157,7 +1157,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 16750,
       "resourceId": 100906700,
       "assetId": 243404
     },
@@ -1216,62 +1216,9 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 25500,
       "resourceId": 100922583,
       "assetId": 259287
-    },
-    "117689334": {
-      "name": "Klara Bühl",
-      "cardName": "Bühl",
-      "originalVersionId": "11",
-      "clubId": 115995,
-      "leagueId": 2215,
-      "countryId": 21,
-      "versionId": "11",
-      "rating": 97,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        10,
-        12,
-        20,
-        21,
-        24,
-        3
-      ],
-      "playStylesPlus": [
-        0,
-        11,
-        6,
-        8
-      ],
-      "rolesPlus": [
-        127,
-        128,
-        129,
-        130,
-        138,
-        139,
-        140
-      ],
-      "attributes": [
-        93,
-        93,
-        95,
-        97,
-        78,
-        88
-      ],
-      "hasDynamicImage": true,
-      "price": 92000,
-      "resourceId": 117689334,
-      "assetId": 248822
     },
     "117717964": {
       "name": "Edna Imade",
@@ -1310,6 +1257,60 @@
       "price": 350,
       "resourceId": 117717964,
       "assetId": 277452
+    },
+    "151243766": {
+      "name": "Klara Bühl",
+      "cardName": "Bühl",
+      "originalVersionId": "16",
+      "clubId": 115995,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "16",
+      "rating": 98,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        94,
+        94,
+        96,
+        99,
+        80,
+        90
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 151243766,
+      "assetId": 248822
     }
   }
 }

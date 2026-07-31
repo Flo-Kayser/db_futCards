@@ -38,7 +38,7 @@
       76
     ],
     "hasDynamicImage": false,
-    "price": 25000,
+    "price": 20500,
     "resourceId": 266691,
     "assetId": 266691
   },
@@ -84,7 +84,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 12500,
+    "price": 15250,
     "resourceId": 275049,
     "assetId": 275049
   },
@@ -215,7 +215,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 49000,
+    "price": 55000,
     "resourceId": 50514142,
     "assetId": 182494
   },
@@ -321,7 +321,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 27750,
+    "price": 22250,
     "resourceId": 50539363,
     "assetId": 207715
   },
@@ -367,7 +367,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 34000,
+    "price": 30500,
     "resourceId": 50546940,
     "assetId": 215292
   },
@@ -412,7 +412,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 20750,
     "resourceId": 50548108,
     "assetId": 216460
   },
@@ -571,7 +571,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 166000,
+    "price": 170000,
     "resourceId": 50570701,
     "assetId": 239053
   },
@@ -614,7 +614,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 32500,
+    "price": 41000,
     "resourceId": 50572311,
     "assetId": 240663
   },
@@ -758,7 +758,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 19750,
     "resourceId": 50578779,
     "assetId": 247131
   },
@@ -901,7 +901,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 100000,
+    "price": 84000,
     "resourceId": 50584720,
     "assetId": 253072
   },
@@ -1001,7 +1001,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 40250,
+    "price": 37750,
     "resourceId": 50584944,
     "assetId": 253296
   },
@@ -1102,7 +1102,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 22750,
+    "price": 14000,
     "resourceId": 50586465,
     "assetId": 254817
   },
@@ -1247,7 +1247,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "price": 22000,
+    "price": 11500,
     "resourceId": 50606697,
     "assetId": 275049
   },
@@ -1293,7 +1293,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 57500,
+    "price": 50000,
     "resourceId": 50607235,
     "assetId": 275587
   },
@@ -1346,9 +1346,50 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 51500,
+    "price": 65500,
     "resourceId": 50608141,
     "assetId": 276493
+  },
+  "67285444": {
+    "name": "Luis Suárez",
+    "cardName": "Suárez",
+    "originalVersionId": "16",
+    "clubId": 112893,
+    "leagueId": 39,
+    "countryId": 60,
+    "versionId": "16",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      93,
+      97,
+      95,
+      95,
+      57,
+      92
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67285444,
+    "assetId": 176580
   },
   "67291358": {
     "name": "Fernando Muslera",
@@ -1391,7 +1432,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 19000,
+    "price": 16000,
     "resourceId": 67291358,
     "assetId": 182494
   },
@@ -1428,7 +1469,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 19250,
+    "price": 14250,
     "resourceId": 67325324,
     "assetId": 216460
   },
@@ -1532,7 +1573,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 150000,
+    "price": 160000,
     "resourceId": 67347917,
     "assetId": 239053
   },
@@ -1588,7 +1629,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 45000,
+    "price": 47500,
     "resourceId": 67360241,
     "assetId": 251377
   },
@@ -1644,9 +1685,68 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 250000,
+    "price": 255000,
     "resourceId": 67362027,
     "assetId": 253163
+  },
+  "67362170": {
+    "name": "Manuel Ugarte",
+    "cardName": "Ugarte",
+    "originalVersionId": "16",
+    "clubId": 11,
+    "leagueId": 13,
+    "countryId": 60,
+    "versionId": "16",
+    "rating": 96,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CAM",
+      "CB",
+      "CDM",
+      "CM",
+      "RB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      146,
+      148,
+      149
+    ],
+    "attributes": [
+      91,
+      90,
+      93,
+      91,
+      96,
+      96
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67362170,
+    "assetId": 253306
   },
   "67363681": {
     "name": "Maximiliano Araújo",
@@ -1703,7 +1803,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 24250,
+    "price": 19750,
     "resourceId": 67363681,
     "assetId": 254817
   },
@@ -1815,7 +1915,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 13500,
     "resourceId": 67384451,
     "assetId": 275587
   },
@@ -1875,7 +1975,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 20000,
+    "price": 16500,
     "resourceId": 67385357,
     "assetId": 276493
   },
@@ -1927,7 +2027,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 120000,
+    "price": 100000,
     "resourceId": 84125133,
     "assetId": 239053
   },
@@ -1987,7 +2087,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 24500,
+    "price": 22000,
     "resourceId": 84137457,
     "assetId": 251377
   },
@@ -2088,7 +2188,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 43500,
+    "price": 51000,
     "resourceId": 84150405,
     "assetId": 264325
   },
@@ -2142,7 +2242,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 23500,
+    "price": 21750,
     "resourceId": 84152771,
     "assetId": 266691
   },
@@ -2185,7 +2285,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 254000,
+    "price": 187000,
     "resourceId": 100902349,
     "assetId": 239053
   },
@@ -2245,7 +2345,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 369000,
+    "price": 299000,
     "resourceId": 117679565,
     "assetId": 239053
   },
@@ -2307,7 +2407,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 321000,
+    "price": 600000,
     "resourceId": 134456781,
     "assetId": 239053
   },
@@ -2378,7 +2478,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 300000,
+    "price": 249000,
     "resourceId": 151233997,
     "assetId": 239053
   },
@@ -2439,7 +2539,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 750000,
+    "price": 835000,
     "resourceId": 201565645,
     "assetId": 239053
   }

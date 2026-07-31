@@ -222,7 +222,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 4100,
       "resourceId": 265027,
       "assetId": 265027
     },
@@ -518,7 +518,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 20000,
       "resourceId": 50596513,
       "assetId": 264865
     },
@@ -553,7 +553,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 50596675,
       "assetId": 265027
     },
@@ -605,7 +605,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 20000,
       "resourceId": 50597509,
       "assetId": 265861
     },
@@ -654,7 +654,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 19000,
+      "price": 15750,
       "resourceId": 50600856,
       "assetId": 269208
     },
@@ -745,54 +745,6 @@
       "resourceId": 50608196,
       "assetId": 276548
     },
-    "50608473": {
-      "name": "Melween N'Dongala",
-      "cardName": "N'Dongala",
-      "originalVersionId": "68",
-      "clubId": 116035,
-      "leagueId": 2218,
-      "countryId": 18,
-      "versionId": "68",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "RB",
-      "possiblePositions": [
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        14,
-        15,
-        16,
-        18,
-        28,
-        29
-      ],
-      "playStylesPlus": [
-        25
-      ],
-      "rolesPlus": [
-        3,
-        4,
-        25,
-        105,
-        106,
-        123
-      ],
-      "attributes": [
-        92,
-        82,
-        85,
-        88,
-        88,
-        87
-      ],
-      "hasDynamicImage": true,
-      "resourceId": 50608473,
-      "assetId": 276825
-    },
     "50608819": {
       "name": "Maeline Mendy",
       "cardName": "Mendy",
@@ -879,7 +831,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 367000,
+      "price": 395000,
       "resourceId": 67354561,
       "assetId": 245697
     },
@@ -939,9 +891,66 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 22500,
+      "price": 19750,
       "resourceId": 67378675,
       "assetId": 269811
+    },
+    "67385689": {
+      "name": "Melween N'Dongala",
+      "cardName": "N'Dongala",
+      "originalVersionId": "16",
+      "clubId": 116035,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        146,
+        147
+      ],
+      "attributes": [
+        96,
+        90,
+        92,
+        95,
+        95,
+        93
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67385689,
+      "assetId": 276825
     }
   }
 }

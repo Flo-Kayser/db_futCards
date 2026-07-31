@@ -265,7 +265,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 600,
       "resourceId": 232440,
       "assetId": 232440
     },
@@ -305,7 +305,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1000,
       "resourceId": 238227,
       "assetId": 238227
     },
@@ -603,7 +603,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 650,
       "resourceId": 272785,
       "assetId": 272785
     },
@@ -638,7 +638,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 500,
       "resourceId": 273546,
       "assetId": 273546
     },
@@ -677,7 +677,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1500,
       "resourceId": 273933,
       "assetId": 273933
     },
@@ -859,7 +859,7 @@
         40
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 50408264,
       "assetId": 76616
     },
@@ -898,7 +898,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 45500,
+      "price": 48500,
       "resourceId": 50522589,
       "assetId": 190941
     },
@@ -944,7 +944,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 21000,
+      "price": 19750,
       "resourceId": 50533983,
       "assetId": 202335
     },
@@ -1021,7 +1021,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1000,
       "resourceId": 50566684,
       "assetId": 235036
     },
@@ -1103,7 +1103,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 11500,
       "resourceId": 50576859,
       "assetId": 245211
     },
@@ -1322,61 +1322,9 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 57500,
+      "price": 44000,
       "resourceId": 67338125,
       "assetId": 229261
-    },
-    "67361868": {
-      "name": "Ansu Fati",
-      "cardName": "Ansu Fati",
-      "originalVersionId": "91",
-      "clubId": 69,
-      "leagueId": 16,
-      "countryId": 45,
-      "versionId": "91",
-      "rating": 93,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW"
-      ],
-      "playStyles": [
-        0,
-        11,
-        12,
-        23,
-        25,
-        6,
-        7
-      ],
-      "playStylesPlus": [
-        20,
-        21,
-        8
-      ],
-      "rolesPlus": [
-        127,
-        128,
-        129,
-        130,
-        138,
-        139,
-        140
-      ],
-      "attributes": [
-        94,
-        93,
-        92,
-        94,
-        50,
-        77
-      ],
-      "hasDynamicImage": true,
-      "resourceId": 67361868,
-      "assetId": 253004
     },
     "84130995": {
       "name": "Mohammed Salisu",
@@ -1425,6 +1373,60 @@
       "price": 0,
       "resourceId": 84130995,
       "assetId": 244915
+    },
+    "84139084": {
+      "name": "Ansu Fati",
+      "cardName": "Ansu Fati",
+      "originalVersionId": "16",
+      "clubId": 69,
+      "leagueId": 16,
+      "countryId": 45,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        96,
+        95,
+        95,
+        99,
+        55,
+        80
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 84139084,
+      "assetId": 253004
     },
     "100928158": {
       "name": "Maghnes Akliouche",
@@ -1582,7 +1584,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 201000,
+      "price": 160000,
       "resourceId": 117687975,
       "assetId": 247463
     }

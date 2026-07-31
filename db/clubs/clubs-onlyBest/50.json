@@ -37,7 +37,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 2500,
       "resourceId": 192840,
       "assetId": 192840
     },
@@ -78,7 +78,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 1800,
       "resourceId": 225475,
       "assetId": 225475
     },
@@ -576,7 +576,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 264294,
       "assetId": 264294
     },
@@ -866,7 +866,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 350,
       "resourceId": 276736,
       "assetId": 276736
     },
@@ -1119,7 +1119,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 3100,
       "resourceId": 50569363,
       "assetId": 237715
     },
@@ -1164,7 +1164,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 55500,
+      "price": 60000,
       "resourceId": 50589620,
       "assetId": 257972
     },
@@ -1240,7 +1240,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 50602133,
       "assetId": 270485
     },
@@ -1312,7 +1312,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 50606778,
       "assetId": 275130
     },
@@ -1391,7 +1391,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 49750,
+      "price": 49500,
       "resourceId": 50610084,
       "assetId": 278436
     },
@@ -1437,52 +1437,6 @@
       "resourceId": 67362026,
       "assetId": 253162
     },
-    "67364845": {
-      "name": "Zion Suzuki",
-      "cardName": "Suzuki",
-      "originalVersionId": "137",
-      "clubId": 50,
-      "leagueId": 31,
-      "countryId": 163,
-      "versionId": "137",
-      "rating": 95,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 2,
-      "preferredPosition": "GK",
-      "possiblePositions": [
-        "GK"
-      ],
-      "playStyles": [
-        30,
-        31,
-        33,
-        35,
-        9
-      ],
-      "playStylesPlus": [
-        10,
-        32,
-        34
-      ],
-      "rolesPlus": [
-        101,
-        102,
-        145
-      ],
-      "attributes": [
-        95,
-        93,
-        93,
-        97,
-        85,
-        94
-      ],
-      "hasDynamicImage": true,
-      "price": 21500,
-      "resourceId": 67364845,
-      "assetId": 255981
-    },
     "67385607": {
       "name": "Rachid Kouda",
       "cardName": "Kouda",
@@ -1517,6 +1471,41 @@
       "price": 200,
       "resourceId": 67385607,
       "assetId": 276743
+    },
+    "84142061": {
+      "name": "Zion Suzuki",
+      "cardName": "Suzuki",
+      "originalVersionId": "16",
+      "clubId": 50,
+      "leagueId": 31,
+      "countryId": 163,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 2,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        96,
+        95,
+        94,
+        99,
+        87,
+        95
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 84142061,
+      "assetId": 255981
     }
   }
 }

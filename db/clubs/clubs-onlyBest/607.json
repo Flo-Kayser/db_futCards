@@ -75,7 +75,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 200888,
       "assetId": 200888
     },
@@ -271,7 +271,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 225953,
       "assetId": 225953
     },
@@ -428,7 +428,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 241963,
       "assetId": 241963
     },
@@ -506,7 +506,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 258147,
       "assetId": 258147
     },
@@ -691,7 +691,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 5300,
+      "price": 7700,
       "resourceId": 268874,
       "assetId": 268874
     },
@@ -760,7 +760,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 200,
       "resourceId": 272830,
       "assetId": 272830
     },
@@ -906,7 +906,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 200,
       "resourceId": 279593,
       "assetId": 279593
     },
@@ -984,60 +984,9 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1600,
       "resourceId": 50567058,
       "assetId": 235410
-    },
-    "50573500": {
-      "name": "Moussa Diaby",
-      "cardName": "Diaby",
-      "originalVersionId": "111",
-      "clubId": 607,
-      "leagueId": 350,
-      "countryId": 18,
-      "versionId": "111",
-      "rating": 90,
-      "preferredFoot": "Left",
-      "weakFoot": 3,
-      "skillMoves": 4,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        11,
-        12,
-        13,
-        20,
-        21
-      ],
-      "playStylesPlus": [
-        22,
-        25
-      ],
-      "rolesPlus": [
-        23,
-        24,
-        35,
-        125,
-        126,
-        136,
-        137
-      ],
-      "attributes": [
-        96,
-        86,
-        88,
-        93,
-        50,
-        70
-      ],
-      "hasDynamicImage": true,
-      "price": 19250,
-      "resourceId": 50573500,
-      "assetId": 241852
     },
     "50595476": {
       "name": "Roger Fernandes",
@@ -1228,7 +1177,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 106000,
+      "price": 101000,
       "resourceId": 67274017,
       "assetId": 165153
     },
@@ -1326,9 +1275,63 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 135000,
+      "price": 59500,
       "resourceId": 67324778,
       "assetId": 215914
+    },
+    "67350716": {
+      "name": "Moussa Diaby",
+      "cardName": "Diaby",
+      "originalVersionId": "16",
+      "clubId": 607,
+      "leagueId": 350,
+      "countryId": 18,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        97,
+        93,
+        94,
+        96,
+        62,
+        80
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67350716,
+      "assetId": 241852
     },
     "67379477": {
       "name": "Mahamadou Doumbia",
@@ -1387,7 +1390,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 18250,
       "resourceId": 67379477,
       "assetId": 270613
     }
