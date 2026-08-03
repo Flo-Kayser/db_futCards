@@ -68,7 +68,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 7000,
     "resourceId": 73317,
     "assetId": 73317
   },
@@ -137,7 +137,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 4400,
+    "price": 4800,
     "resourceId": 79498,
     "assetId": 79498
   },
@@ -244,7 +244,7 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 3200,
     "resourceId": 191390,
     "assetId": 191390
   },
@@ -323,7 +323,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 5000,
     "resourceId": 201514,
     "assetId": 201514
   },
@@ -590,46 +590,9 @@
       74
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 650,
     "resourceId": 222875,
     "assetId": 222875
-  },
-  "223150": {
-    "name": "Lionel Mpasi",
-    "cardName": "Mpasi",
-    "originalVersionId": "0",
-    "clubId": 1738,
-    "leagueId": 16,
-    "countryId": 110,
-    "versionId": "2001",
-    "rating": 67,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 1,
-    "preferredPosition": "GK",
-    "possiblePositions": [
-      "GK"
-    ],
-    "playStyles": [
-      30,
-      35
-    ],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      1
-    ],
-    "attributes": [
-      67,
-      66,
-      66,
-      65,
-      45,
-      66
-    ],
-    "hasDynamicImage": false,
-    "price": 200,
-    "resourceId": 223150,
-    "assetId": 223150
   },
   "223926": {
     "name": "Samuel Bastien",
@@ -890,7 +853,7 @@
       73
     ],
     "hasDynamicImage": false,
-    "price": 600,
+    "price": 1500,
     "resourceId": 238062,
     "assetId": 238062
   },
@@ -1002,7 +965,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5000,
     "resourceId": 239814,
     "assetId": 239814
   },
@@ -1080,7 +1043,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 600,
     "resourceId": 244843,
     "assetId": 244843
   },
@@ -1117,7 +1080,7 @@
       81
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 1900,
     "resourceId": 245716,
     "assetId": 245716
   },
@@ -1571,7 +1534,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 50405172,
     "assetId": 73524
   },
@@ -1652,7 +1615,7 @@
       79
     ],
     "hasDynamicImage": true,
-    "price": 15000,
+    "price": 24250,
     "resourceId": 50530599,
     "assetId": 198951
   },
@@ -1691,9 +1654,64 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 1600,
+    "price": 350,
     "resourceId": 50544139,
     "assetId": 212491
+  },
+  "50554798": {
+    "name": "Lionel Mpasi",
+    "cardName": "Mpasi",
+    "originalVersionId": "16",
+    "clubId": 1738,
+    "leagueId": 16,
+    "countryId": 110,
+    "versionId": "16",
+    "rating": 95,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      97,
+      96,
+      96,
+      96,
+      45,
+      75
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 37750,
+    "resourceId": 50554798,
+    "assetId": 223150
   },
   "50563133": {
     "name": "Axel Tuanzebe",
@@ -1805,7 +1823,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 1700,
     "resourceId": 50565532,
     "assetId": 233884
   },
@@ -1962,7 +1980,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 550,
+    "price": 950,
     "resourceId": 50591810,
     "assetId": 260162
   },
@@ -2100,7 +2118,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 23500,
+    "price": 23750,
     "resourceId": 50600878,
     "assetId": 269230
   },
@@ -2192,7 +2210,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 40000,
     "resourceId": 67185914,
     "assetId": 77050
   },
@@ -2494,7 +2512,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 22750,
+    "price": 23250,
     "resourceId": 100898120,
     "assetId": 234824
   },

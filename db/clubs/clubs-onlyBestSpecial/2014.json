@@ -1,55 +1,6 @@
 {
   "clubName": "R. Union St.-G.",
   "players": {
-    "50564878": {
-      "name": "Kevin Mac Allister",
-      "cardName": "Mac Allister",
-      "originalVersionId": "11",
-      "clubId": 2014,
-      "leagueId": 4,
-      "countryId": 52,
-      "versionId": "11",
-      "rating": 94,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        14,
-        17,
-        18,
-        22,
-        25,
-        27,
-        9
-      ],
-      "playStylesPlus": [
-        15,
-        16,
-        28
-      ],
-      "rolesPlus": [
-        111,
-        112,
-        113,
-        148
-      ],
-      "attributes": [
-        90,
-        70,
-        75,
-        87,
-        93,
-        94
-      ],
-      "hasDynamicImage": true,
-      "price": 28250,
-      "resourceId": 50564878,
-      "assetId": 233230
-    },
     "50604217": {
       "name": "Kevin Rodríguez",
       "cardName": "Rodríguez",
@@ -93,7 +44,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 37500,
+      "price": 34750,
       "resourceId": 50604217,
       "assetId": 272569
     },
@@ -146,6 +97,66 @@
       "sbcPrice": 80000,
       "resourceId": 67181934,
       "assetId": 73070
+    },
+    "67342094": {
+      "name": "Kevin Mac Allister",
+      "cardName": "Mac Allister",
+      "originalVersionId": "16",
+      "clubId": 2014,
+      "leagueId": 4,
+      "countryId": 52,
+      "versionId": "16",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        146,
+        148,
+        149
+      ],
+      "attributes": [
+        92,
+        93,
+        95,
+        91,
+        94,
+        95
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 35750,
+      "resourceId": 67342094,
+      "assetId": 233230
     }
   }
 }

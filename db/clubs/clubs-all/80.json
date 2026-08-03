@@ -292,7 +292,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 500,
       "resourceId": 216218,
       "assetId": 216218
     },
@@ -365,7 +365,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 700,
       "resourceId": 220140,
       "assetId": 220140
     },
@@ -524,7 +524,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 1600,
       "resourceId": 227945,
       "assetId": 227945
     },
@@ -634,7 +634,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 1500,
       "resourceId": 238062,
       "assetId": 238062
     },
@@ -865,7 +865,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 200,
       "resourceId": 257890,
       "assetId": 257890
     },
@@ -938,7 +938,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 5000,
       "resourceId": 262989,
       "assetId": 262989
     },
@@ -974,7 +974,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 263293,
       "assetId": 263293
     },
@@ -1085,7 +1085,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 4600,
+      "price": 5100,
       "resourceId": 278600,
       "assetId": 278600
     },
@@ -1128,7 +1128,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 43250,
+      "price": 26500,
       "resourceId": 50410922,
       "assetId": 79274
     },
@@ -1220,7 +1220,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 44250,
+      "price": 50000,
       "resourceId": 50553693,
       "assetId": 222045
     },
@@ -1382,9 +1382,80 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 700,
       "resourceId": 50595787,
       "assetId": 264139
+    },
+    "50606577": {
+      "name": "MJ Kamson-Kamara",
+      "cardName": "Kamson-Kamara",
+      "originalVersionId": "0",
+      "clubId": 80,
+      "leagueId": 50,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 52,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        60,
+        24,
+        33,
+        33,
+        50,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50606577,
+      "assetId": 274929
+    },
+    "50610246": {
+      "name": "Macaulay Tait",
+      "cardName": "Tait",
+      "originalVersionId": "1",
+      "clubId": 80,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "3000",
+      "rating": 59,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        18
+      ],
+      "attributes": [
+        66,
+        51,
+        58,
+        63,
+        52,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50610246,
+      "assetId": 278598
     },
     "67330909": {
       "name": "Craig Halkett",
@@ -1431,7 +1502,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 45000,
+      "price": 37250,
       "resourceId": 67330909,
       "assetId": 222045
     }

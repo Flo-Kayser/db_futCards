@@ -1,6 +1,42 @@
 {
   "clubName": "Pisa",
   "players": {
+    "50409027": {
+      "name": "Louis Buffon",
+      "cardName": "Buffon",
+      "originalVersionId": "16",
+      "clubId": 110738,
+      "leagueId": 31,
+      "countryId": 12,
+      "versionId": "16",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        96,
+        90,
+        82,
+        95,
+        72,
+        92
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 37250,
+      "resourceId": 50409027,
+      "assetId": 77379
+    },
     "50524730": {
       "name": "Juan Cuadrado",
       "cardName": "Cuadrado",
@@ -50,7 +86,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 21500,
+      "price": 60000,
       "resourceId": 50524730,
       "assetId": 193082
     },
@@ -136,7 +172,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 69000,
+      "price": 59500,
       "resourceId": 50565044,
       "assetId": 233396
     }
