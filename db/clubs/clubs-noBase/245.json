@@ -52,7 +52,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 32500,
       "resourceId": 50402999,
       "assetId": 71351
     },
@@ -104,7 +104,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 32500,
+      "price": 75000,
       "resourceId": 50531908,
       "assetId": 200260
     },
@@ -150,7 +150,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 61500,
+      "price": 73000,
       "resourceId": 50555337,
       "assetId": 223689
     },
@@ -235,7 +235,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 38000,
+      "price": 41750,
       "resourceId": 50586657,
       "assetId": 255009
     },
@@ -284,7 +284,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 49000,
+      "price": 94500,
       "resourceId": 50587973,
       "assetId": 256325
     },
@@ -422,7 +422,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 47750,
       "resourceId": 50595868,
       "assetId": 264220
     },
@@ -533,7 +533,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 49250,
+      "price": 45000,
       "resourceId": 67180215,
       "assetId": 71351
     },
@@ -585,9 +585,45 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 42500,
+      "price": 35500,
       "resourceId": 67367242,
       "assetId": 258378
+    },
+    "84078528": {
+      "name": "Marc-André ter Stegen",
+      "cardName": "ter Stegen",
+      "originalVersionId": "16",
+      "clubId": 245,
+      "leagueId": 10,
+      "countryId": 21,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 2,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        94,
+        94,
+        99,
+        96,
+        72,
+        93
+      ],
+      "hasDynamicImage": false,
+      "price": 12000,
+      "resourceId": 84078528,
+      "assetId": 192448
     },
     "84144458": {
       "name": "Mika Godts",
@@ -638,8 +674,62 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 45000,
+      "price": 55000,
       "resourceId": 84144458,
+      "assetId": 258378
+    },
+    "100921674": {
+      "name": "Mika Godts",
+      "cardName": "Godts",
+      "originalVersionId": "16",
+      "clubId": 245,
+      "leagueId": 10,
+      "countryId": 7,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        95,
+        94,
+        96,
+        96,
+        63,
+        87
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 100921674,
       "assetId": 258378
     }
   }

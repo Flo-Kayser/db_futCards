@@ -52,7 +52,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 32500,
       "resourceId": 50402999,
       "assetId": 71351
     },
@@ -104,7 +104,7 @@
         76
       ],
       "hasDynamicImage": true,
-      "price": 32500,
+      "price": 75000,
       "resourceId": 50531908,
       "assetId": 200260
     },
@@ -150,7 +150,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 61500,
+      "price": 73000,
       "resourceId": 50555337,
       "assetId": 223689
     },
@@ -235,7 +235,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 38000,
+      "price": 41750,
       "resourceId": 50586657,
       "assetId": 255009
     },
@@ -284,7 +284,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 49000,
+      "price": 94500,
       "resourceId": 50587973,
       "assetId": 256325
     },
@@ -382,7 +382,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 47750,
       "resourceId": 50595868,
       "assetId": 264220
     },
@@ -442,57 +442,94 @@
       "resourceId": 50604005,
       "assetId": 272357
     },
-    "84144458": {
+    "84078528": {
+      "name": "Marc-André ter Stegen",
+      "cardName": "ter Stegen",
+      "originalVersionId": "16",
+      "clubId": 245,
+      "leagueId": 10,
+      "countryId": 21,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 2,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        101,
+        102,
+        145
+      ],
+      "attributes": [
+        94,
+        94,
+        99,
+        96,
+        72,
+        93
+      ],
+      "hasDynamicImage": false,
+      "price": 12000,
+      "resourceId": 84078528,
+      "assetId": 192448
+    },
+    "100921674": {
       "name": "Mika Godts",
       "cardName": "Godts",
-      "originalVersionId": "11",
+      "originalVersionId": "16",
       "clubId": 245,
       "leagueId": 10,
       "countryId": 7,
-      "versionId": "11",
-      "rating": 93,
+      "versionId": "16",
+      "rating": 96,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 4,
       "preferredPosition": "LW",
       "possiblePositions": [
+        "CAM",
         "LM",
-        "LW"
+        "LW",
+        "RM",
+        "RW"
       ],
-      "playStyles": [
-        0,
-        11,
-        12,
-        13,
-        21,
-        22,
-        7
-      ],
-      "playStylesPlus": [
-        20,
-        25,
-        6
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
-        28,
+        123,
+        124,
+        125,
+        126,
         127,
+        128,
         129,
         130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
         138,
         139,
         140
       ],
       "attributes": [
-        92,
-        91,
-        93,
-        93,
-        58,
-        83
+        95,
+        94,
+        96,
+        96,
+        63,
+        87
       ],
       "hasDynamicImage": true,
-      "price": 45000,
-      "resourceId": 84144458,
+      "resourceId": 100921674,
       "assetId": 258378
     }
   }

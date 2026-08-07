@@ -53,7 +53,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 26500,
+      "price": 23500,
       "resourceId": 50522322,
       "assetId": 190674
     },
@@ -189,7 +189,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 60500,
+      "price": 110000,
       "resourceId": 50570902,
       "assetId": 239254
     },
@@ -238,7 +238,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 48000,
+      "price": 55000,
       "resourceId": 50593719,
       "assetId": 262071
     },
@@ -333,7 +333,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 25500,
       "resourceId": 50601141,
       "assetId": 269493
     },
@@ -391,7 +391,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 17750,
+      "price": 19000,
       "resourceId": 50609820,
       "assetId": 278172
     },
@@ -491,7 +491,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 52000,
+      "price": 50000,
       "resourceId": 67322160,
       "assetId": 213296
     },
@@ -551,7 +551,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 20000,
       "resourceId": 67362031,
       "assetId": 253167
     },
@@ -614,58 +614,9 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 24750,
+      "price": 20250,
       "resourceId": 67384912,
       "assetId": 276048
-    },
-    "84064589": {
-      "name": "Olivier Giroud",
-      "cardName": "Giroud",
-      "originalVersionId": "57",
-      "clubId": 65,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "57",
-      "rating": 92,
-      "preferredFoot": "Left",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        11,
-        19,
-        22,
-        29,
-        7,
-        9
-      ],
-      "playStylesPlus": [
-        25,
-        4,
-        6
-      ],
-      "rolesPlus": [
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        92,
-        96,
-        87,
-        93,
-        53,
-        94
-      ],
-      "hasDynamicImage": true,
-      "sbcPrice": 35000,
-      "resourceId": 84064589,
-      "assetId": 178509
     },
     "84164981": {
       "name": "Ayyoub Bouaddi",
@@ -720,9 +671,63 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 31000,
+      "price": 36500,
       "resourceId": 84164981,
       "assetId": 278901
+    },
+    "100841805": {
+      "name": "Olivier Giroud",
+      "cardName": "Giroud",
+      "originalVersionId": "16",
+      "clubId": 65,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        97,
+        99,
+        92,
+        97,
+        62,
+        97
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 100841805,
+      "assetId": 178509
     }
   }
 }

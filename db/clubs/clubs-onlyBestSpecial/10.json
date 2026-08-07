@@ -58,7 +58,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 22250,
       "resourceId": 50539058,
       "assetId": 207410
     },
@@ -158,7 +158,7 @@
         97
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 19500,
       "resourceId": 50571466,
       "assetId": 239818
     },
@@ -200,7 +200,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 34000,
+      "price": 50000,
       "resourceId": 50574289,
       "assetId": 242641
     },
@@ -296,7 +296,7 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 54000,
+      "price": 46750,
       "resourceId": 50603222,
       "assetId": 271574
     },
@@ -346,7 +346,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 17500,
       "resourceId": 50608679,
       "assetId": 277031
     },
@@ -392,7 +392,7 @@
         65
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 13500,
       "resourceId": 50608943,
       "assetId": 277295
     },
@@ -441,7 +441,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 54000,
+      "price": 64000,
       "resourceId": 67312438,
       "assetId": 203574
     },
@@ -502,7 +502,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 57500,
+      "price": 55500,
       "resourceId": 67360381,
       "assetId": 251517
     },
@@ -640,7 +640,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 340000,
+      "price": 310000,
       "resourceId": 84116701,
       "assetId": 230621
     },
@@ -698,7 +698,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 1970000,
+      "price": 1990000,
       "resourceId": 84117946,
       "assetId": 231866
     },
@@ -806,7 +806,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 165000,
+      "price": 140000,
       "resourceId": 84142755,
       "assetId": 256675
     },
@@ -918,7 +918,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 195000,
+      "price": 190000,
       "resourceId": 100893917,
       "assetId": 230621
     },
@@ -976,7 +976,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 1990000,
+      "price": 2265000,
       "resourceId": 100895162,
       "assetId": 231866
     },
@@ -1081,54 +1081,9 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 199000,
+      "price": 233000,
       "resourceId": 100903934,
       "assetId": 240638
-    },
-    "100909716": {
-      "name": "Jérémy Doku",
-      "cardName": "Doku",
-      "originalVersionId": "103",
-      "clubId": 10,
-      "leagueId": 13,
-      "countryId": 7,
-      "versionId": "103",
-      "rating": 95,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 5,
-      "preferredPosition": "LW",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RW"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        127,
-        128,
-        129,
-        130,
-        135,
-        136,
-        137,
-        138,
-        139,
-        140
-      ],
-      "attributes": [
-        98,
-        90,
-        90,
-        97,
-        50,
-        89
-      ],
-      "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 100909716,
-      "assetId": 246420
     },
     "100917539": {
       "name": "Elliot Anderson",
@@ -1183,9 +1138,64 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 51000,
+      "price": 63500,
       "resourceId": 100917539,
       "assetId": 254243
+    },
+    "117686932": {
+      "name": "Jérémy Doku",
+      "cardName": "Doku",
+      "originalVersionId": "16",
+      "clubId": 10,
+      "leagueId": 13,
+      "countryId": 7,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "LW",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        99,
+        93,
+        92,
+        99,
+        52,
+        91
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 272000,
+      "resourceId": 117686932,
+      "assetId": 246420
     },
     "117717939": {
       "name": "Nico O'Reilly",
@@ -1245,67 +1255,63 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 122000,
+      "price": 142000,
       "resourceId": 117717939,
       "assetId": 277427
     },
-    "134469298": {
+    "151246514": {
       "name": "Rayan Cherki",
       "cardName": "Cherki",
-      "originalVersionId": "137",
+      "originalVersionId": "16",
       "clubId": 10,
       "leagueId": 13,
       "countryId": 18,
-      "versionId": "137",
-      "rating": 95,
+      "versionId": "16",
+      "rating": 99,
       "preferredFoot": "Left",
       "weakFoot": 5,
       "skillMoves": 5,
-      "preferredPosition": "CAM",
+      "preferredPosition": "RW",
       "possiblePositions": [
         "CAM",
+        "LM",
+        "LW",
         "RM",
         "RW"
       ],
-      "playStyles": [
-        1,
-        11,
-        12,
-        13,
-        22,
-        23,
-        8
-      ],
-      "playStylesPlus": [
-        0,
-        20,
-        21,
-        6
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
         123,
         124,
         125,
         126,
+        127,
+        128,
+        129,
+        130,
         131,
         132,
         133,
         134,
         135,
         136,
-        137
+        137,
+        138,
+        139,
+        140
       ],
       "attributes": [
-        93,
-        93,
-        96,
         97,
-        46,
-        85
+        97,
+        99,
+        99,
+        50,
+        88
       ],
       "hasDynamicImage": true,
-      "price": 57000,
-      "resourceId": 134469298,
+      "price": 0,
+      "resourceId": 151246514,
       "assetId": 251570
     },
     "168013396": {
@@ -1354,7 +1360,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 90000,
+      "price": 67500,
       "resourceId": 168013396,
       "assetId": 241236
     },
@@ -1404,7 +1410,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 911000,
+      "price": 1035000,
       "resourceId": 218342893,
       "assetId": 239085
     }

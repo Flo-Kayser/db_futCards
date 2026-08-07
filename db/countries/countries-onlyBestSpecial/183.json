@@ -45,7 +45,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 26000,
+    "price": 20000,
     "resourceId": 50500534,
     "assetId": 168886
   },
@@ -131,7 +131,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 25000,
+    "price": 15750,
     "resourceId": 50551723,
     "assetId": 220075
   },
@@ -233,7 +233,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 57000,
+    "price": 43750,
     "resourceId": 50570193,
     "assetId": 238545
   },
@@ -379,7 +379,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 26500,
+    "price": 30000,
     "resourceId": 50586333,
     "assetId": 254685
   },
@@ -545,7 +545,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 22250,
+    "price": 26500,
     "resourceId": 67277744,
     "assetId": 168880
   },
@@ -599,7 +599,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 24000,
+    "price": 16000,
     "resourceId": 67334840,
     "assetId": 225976
   },
@@ -712,26 +712,27 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 55000,
+    "price": 60000,
     "resourceId": 84096682,
     "assetId": 210602
   },
-  "84152774": {
+  "100929990": {
     "name": "Saeed Al Owairan",
     "cardName": "Al Owairan",
-    "originalVersionId": "36",
-    "clubId": 112658,
-    "leagueId": 2118,
+    "originalVersionId": "154",
+    "clubId": 114605,
+    "leagueId": 350,
     "countryId": 183,
-    "versionId": "36",
-    "rating": 95,
+    "versionId": "154",
+    "rating": 97,
     "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "CAM",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "RW",
     "possiblePositions": [
       "CAM",
-      "LM",
+      "LW",
+      "RM",
       "RW",
       "ST"
     ],
@@ -739,22 +740,23 @@
       11,
       12,
       2,
-      21,
+      20,
       22,
-      6,
-      8
+      24,
+      8,
+      9
     ],
     "playStylesPlus": [
       0,
-      20,
+      21,
       25,
-      9
+      6
     ],
     "rolesPlus": [
-      127,
-      128,
-      129,
-      130,
+      123,
+      124,
+      125,
+      126,
       131,
       132,
       133,
@@ -762,6 +764,9 @@
       135,
       136,
       137,
+      138,
+      139,
+      140,
       141,
       142,
       143,
@@ -769,15 +774,15 @@
     ],
     "attributes": [
       99,
-      93,
-      93,
-      93,
-      50,
-      93
+      97,
+      95,
+      96,
+      55,
+      96
     ],
     "hasDynamicImage": true,
-    "price": 0,
-    "resourceId": 84152774,
+    "sbcPrice": 102500,
+    "resourceId": 100929990,
     "assetId": 266694
   }
 }

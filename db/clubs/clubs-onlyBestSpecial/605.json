@@ -47,7 +47,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 45000,
+      "price": 68000,
       "resourceId": 50542162,
       "assetId": 210514
     },
@@ -96,7 +96,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 25000,
+      "price": 15750,
       "resourceId": 50551723,
       "assetId": 220075
     },
@@ -146,7 +146,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 51000,
+      "price": 57000,
       "resourceId": 50554385,
       "assetId": 222737
     },
@@ -194,7 +194,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 115000,
+      "price": 165000,
       "resourceId": 50584720,
       "assetId": 253072
     },
@@ -276,7 +276,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 29500,
+      "price": 15500,
       "resourceId": 67318845,
       "assetId": 209981
     },
@@ -335,7 +335,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 35500,
+      "price": 40000,
       "resourceId": 67332712,
       "assetId": 223848
     },
@@ -389,57 +389,9 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 24000,
+      "price": 16000,
       "resourceId": 67334840,
       "assetId": 225976
-    },
-    "84051233": {
-      "name": "Karim Benzema",
-      "cardName": "Benzema",
-      "originalVersionId": "3",
-      "clubId": 605,
-      "leagueId": 350,
-      "countryId": 18,
-      "versionId": "3",
-      "rating": 88,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        24,
-        26,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        22,
-        6
-      ],
-      "rolesPlus": [
-        34,
-        44,
-        132,
-        141,
-        143
-      ],
-      "attributes": [
-        84,
-        88,
-        85,
-        88,
-        41,
-        82
-      ],
-      "hasDynamicImage": true,
-      "price": 170000,
-      "resourceId": 84051233,
-      "assetId": 165153
     },
     "84087104": {
       "name": "Kalidou Koulibaly",
@@ -474,7 +426,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 16000,
       "resourceId": 84087104,
       "assetId": 201024
     },
@@ -527,7 +479,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 55000,
+      "price": 60000,
       "resourceId": 84096682,
       "assetId": 210602
     },
@@ -570,7 +522,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 148000,
+      "price": 191000,
       "resourceId": 84118736,
       "assetId": 232656
     },
@@ -626,9 +578,51 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 52500,
+      "price": 40250,
       "resourceId": 100887589,
       "assetId": 224293
+    },
+    "117605665": {
+      "name": "Karim Benzema",
+      "cardName": "Benzema",
+      "originalVersionId": "16",
+      "clubId": 605,
+      "leagueId": 350,
+      "countryId": 18,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        91,
+        98,
+        92,
+        96,
+        55,
+        96
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 117605665,
+      "assetId": 165153
     }
   }
 }

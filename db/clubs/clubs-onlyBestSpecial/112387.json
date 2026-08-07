@@ -46,7 +46,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 34250,
       "resourceId": 50543876,
       "assetId": 212228
     },
@@ -108,7 +108,7 @@
         97
       ],
       "hasDynamicImage": true,
-      "price": 24500,
+      "price": 16250,
       "resourceId": 50562586,
       "assetId": 230938
     },
@@ -171,7 +171,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 57000,
+      "price": 43750,
       "resourceId": 50570193,
       "assetId": 238545
     },
@@ -276,7 +276,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 22000,
+      "price": 11250,
       "resourceId": 50583907,
       "assetId": 252259
     },
@@ -331,55 +331,6 @@
       "resourceId": 67313349,
       "assetId": 204485
     },
-    "67356121": {
-      "name": "Ibañez",
-      "cardName": "Ibañez",
-      "originalVersionId": "11",
-      "clubId": 112387,
-      "leagueId": 350,
-      "countryId": 54,
-      "versionId": "11",
-      "rating": 93,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10,
-        15,
-        16,
-        17,
-        18,
-        19,
-        4
-      ],
-      "playStylesPlus": [
-        14,
-        25,
-        28
-      ],
-      "rolesPlus": [
-        111,
-        112,
-        113,
-        148
-      ],
-      "attributes": [
-        92,
-        40,
-        83,
-        84,
-        93,
-        90
-      ],
-      "hasDynamicImage": true,
-      "price": 33500,
-      "resourceId": 67356121,
-      "assetId": 247257
-    },
     "67384001": {
       "name": "Valentin Atangana",
       "cardName": "Atangana",
@@ -427,54 +378,64 @@
       "resourceId": 67384001,
       "assetId": 275137
     },
-    "84133337": {
+    "100910553": {
       "name": "Ibañez",
       "cardName": "Ibañez",
-      "originalVersionId": "62",
+      "originalVersionId": "16",
       "clubId": 112387,
       "leagueId": 350,
       "countryId": 54,
-      "versionId": "62",
-      "rating": 93,
+      "versionId": "16",
+      "rating": 96,
       "preferredFoot": "Right",
-      "weakFoot": 4,
+      "weakFoot": 5,
       "skillMoves": 4,
       "preferredPosition": "CB",
       "possiblePositions": [
-        "CB"
+        "CB",
+        "CDM",
+        "CM",
+        "LB",
+        "RB"
       ],
-      "playStyles": [
-        10,
-        14,
-        17,
-        18,
-        19,
-        28,
-        4,
-        9
-      ],
-      "playStylesPlus": [
-        15,
-        16,
-        25
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
         111,
         112,
         113,
-        148
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        146,
+        147,
+        148,
+        149
       ],
       "attributes": [
-        92,
-        42,
-        84,
-        86,
         94,
-        91
+        45,
+        88,
+        90,
+        97,
+        94
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 77750,
-      "resourceId": 84133337,
+      "resourceId": 100910553,
       "assetId": 247257
     }
   }
