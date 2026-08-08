@@ -1,43 +1,6 @@
 {
   "clubName": "Real Madrid",
   "players": {
-    "50537100": {
-      "name": "Antonio Rüdiger",
-      "cardName": "Rüdiger",
-      "originalVersionId": "30",
-      "clubId": 243,
-      "leagueId": 53,
-      "countryId": 21,
-      "versionId": "30",
-      "rating": 91,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 5,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        48,
-        111,
-        112,
-        113
-      ],
-      "attributes": [
-        88,
-        60,
-        82,
-        80,
-        91,
-        92
-      ],
-      "hasDynamicImage": true,
-      "price": 13000,
-      "resourceId": 50537100,
-      "assetId": 205452
-    },
     "50554157": {
       "name": "Dani Ceballos",
       "cardName": "Dani Ceballos",
@@ -141,7 +104,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 400000,
+      "price": 300000,
       "resourceId": 50579891,
       "assetId": 248243
     },
@@ -202,7 +165,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 16000,
+      "price": 13750,
       "resourceId": 67306309,
       "assetId": 197445
     },
@@ -262,6 +225,67 @@
       "resourceId": 67313827,
       "assetId": 204963
     },
+    "67314316": {
+      "name": "Antonio Rüdiger",
+      "cardName": "Rüdiger",
+      "originalVersionId": "16",
+      "clubId": 243,
+      "leagueId": 53,
+      "countryId": 21,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM",
+        "LB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        146,
+        147,
+        148,
+        149
+      ],
+      "attributes": [
+        94,
+        66,
+        88,
+        86,
+        97,
+        98
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 100750,
+      "resourceId": 67314316,
+      "assetId": 205452
+    },
     "67337482": {
       "name": "Ferland Mendy",
       "cardName": "Mendy",
@@ -317,7 +341,7 @@
         99
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 160000,
+      "sbcPrice": 142000,
       "resourceId": 67337482,
       "assetId": 228618
     },
@@ -452,7 +476,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 70000,
+      "price": 128000,
       "resourceId": 67348994,
       "assetId": 240130
     },
@@ -503,7 +527,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 12000,
+      "price": 11250,
       "resourceId": 67377753,
       "assetId": 268889
     },
@@ -712,7 +736,7 @@
         74
       ],
       "hasDynamicImage": true,
-      "price": 645000,
+      "price": 41500,
       "resourceId": 84129892,
       "assetId": 243812
     },
@@ -809,7 +833,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 277000,
+      "price": 289000,
       "resourceId": 100855415,
       "assetId": 192119
     },
@@ -866,7 +890,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 2000000,
+      "price": 2185000,
       "resourceId": 100915667,
       "assetId": 252371
     },
@@ -931,7 +955,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 45000,
+      "price": 55500,
       "resourceId": 117704821,
       "assetId": 264309
     },
@@ -1049,7 +1073,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 1500000,
+      "price": 1470000,
       "resourceId": 151247315,
       "assetId": 252371
     },
@@ -1108,7 +1132,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 1050000,
+      "price": 1170000,
       "resourceId": 168010954,
       "assetId": 238794
     },
@@ -1160,7 +1184,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 979000,
+      "price": 1098000,
       "resourceId": 168011391,
       "assetId": 239231
     },
@@ -1275,7 +1299,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 1100000,
+      "price": 1278000,
       "resourceId": 201565645,
       "assetId": 239053
     },
@@ -1334,7 +1358,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 2070000,
+      "price": 2200000,
       "resourceId": 218335555,
       "assetId": 231747
     }
