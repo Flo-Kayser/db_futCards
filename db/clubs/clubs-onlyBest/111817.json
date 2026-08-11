@@ -141,7 +141,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 2500,
       "resourceId": 190034,
       "assetId": 190034
     },
@@ -176,7 +176,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 6900,
+      "price": 10000,
       "resourceId": 205559,
       "assetId": 205559
     },
@@ -215,7 +215,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 5700,
       "resourceId": 211240,
       "assetId": 211240
     },
@@ -340,7 +340,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 228774,
       "assetId": 228774
     },
@@ -381,7 +381,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 231236,
       "assetId": 231236
     },
@@ -419,7 +419,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 3000,
       "resourceId": 233767,
       "assetId": 233767
     },
@@ -457,7 +457,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 2000,
       "resourceId": 236621,
       "assetId": 236621
     },
@@ -533,7 +533,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 241266,
       "assetId": 241266
     },
@@ -572,7 +572,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 200,
       "resourceId": 247248,
       "assetId": 247248
     },
@@ -611,7 +611,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 7000,
       "resourceId": 248477,
       "assetId": 248477
     },
@@ -682,7 +682,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 5100,
       "resourceId": 256689,
       "assetId": 256689
     },
@@ -837,7 +837,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 270355,
       "assetId": 270355
     },
@@ -873,7 +873,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1100,
       "resourceId": 272599,
       "assetId": 272599
     },
@@ -994,7 +994,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 276398,
       "assetId": 276398
     },
@@ -1197,6 +1197,44 @@
       "resourceId": 50580125,
       "assetId": 248477
     },
+    "50582818": {
+      "name": "Lassine Sinayoko",
+      "cardName": "Sinayoko",
+      "originalVersionId": "1",
+      "clubId": 111817,
+      "leagueId": 16,
+      "countryId": 126,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        41,
+        43
+      ],
+      "attributes": [
+        75,
+        73,
+        68,
+        73,
+        43,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 50582818,
+      "assetId": 251170
+    },
     "50597689": {
       "name": "Luca Koleosho",
       "cardName": "Koleosho",
@@ -1271,7 +1309,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 3700,
+      "price": 350,
       "resourceId": 50600829,
       "assetId": 269181
     },
@@ -1361,7 +1399,7 @@
         99
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 13000,
       "resourceId": 67301251,
       "assetId": 192387
     },
@@ -1411,7 +1449,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 14750,
+      "price": 19500,
       "resourceId": 67328653,
       "assetId": 219789
     },
@@ -1457,7 +1495,7 @@
         68
       ],
       "hasDynamicImage": true,
-      "price": 47750,
+      "price": 44500,
       "resourceId": 67343476,
       "assetId": 234612
     },
@@ -1512,7 +1550,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 42750,
+      "price": 43000,
       "resourceId": 67344296,
       "assetId": 235432
     },
@@ -1562,9 +1600,50 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 33250,
+      "price": 47250,
       "resourceId": 67365982,
       "assetId": 257118
+    },
+    "67374963": {
+      "name": "Pablo Pagis",
+      "cardName": "Pagis",
+      "originalVersionId": "0",
+      "clubId": 111817,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        29,
+        43
+      ],
+      "attributes": [
+        67,
+        66,
+        60,
+        71,
+        22,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67374963,
+      "assetId": 266099
     },
     "84116100": {
       "name": "Pierre Lees-Melou",
@@ -1610,7 +1689,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 20500,
+      "price": 32500,
       "resourceId": 84116100,
       "assetId": 230020
     }

@@ -353,7 +353,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 5100,
       "resourceId": 271402,
       "assetId": 271402
     },
@@ -541,9 +541,43 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 34250,
+      "price": 35000,
       "resourceId": 50403339,
       "assetId": 71691
+    },
+    "50558997": {
+      "name": "Laëtitia Philippe",
+      "cardName": "Philippe",
+      "originalVersionId": "0",
+      "clubId": 131724,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        79,
+        73,
+        67,
+        77,
+        47,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50558997,
+      "assetId": 227349
     },
     "50593489": {
       "name": "Fátima Pinto",
@@ -646,7 +680,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 11250,
       "resourceId": 50596635,
       "assetId": 264987
     },
@@ -697,9 +731,93 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 20750,
+      "price": 20250,
       "resourceId": 50596744,
       "assetId": 265096
+    },
+    "50597526": {
+      "name": "Léa Declercq",
+      "cardName": "Declercq",
+      "originalVersionId": "0",
+      "clubId": 131724,
+      "leagueId": 2218,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10,
+        16,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        16,
+        18
+      ],
+      "attributes": [
+        71,
+        69,
+        74,
+        75,
+        72,
+        76
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50597526,
+      "assetId": 265878
+    },
+    "50597604": {
+      "name": "Morgane Martins",
+      "cardName": "Martins",
+      "originalVersionId": "1",
+      "clubId": 131724,
+      "leagueId": 2218,
+      "countryId": 38,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        29
+      ],
+      "attributes": [
+        74,
+        46,
+        65,
+        67,
+        70,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50597604,
+      "assetId": 265956
     },
     "50603050": {
       "name": "Ananée Yeboah",
@@ -734,6 +852,118 @@
       "price": 0,
       "resourceId": 50603050,
       "assetId": 271402
+    },
+    "50607173": {
+      "name": "Luisa Guttenberger",
+      "cardName": "Guttenberger",
+      "originalVersionId": "1",
+      "clubId": 131724,
+      "leagueId": 2218,
+      "countryId": 21,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        55,
+        42,
+        55,
+        57,
+        76,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50607173,
+      "assetId": 275525
+    },
+    "67184254": {
+      "name": "Emmi Siren",
+      "cardName": "Siren",
+      "originalVersionId": "0",
+      "clubId": 131724,
+      "leagueId": 2218,
+      "countryId": 17,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7,
+        11
+      ],
+      "attributes": [
+        60,
+        26,
+        36,
+        39,
+        62,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67184254,
+      "assetId": 75390
+    },
+    "67373786": {
+      "name": "Kristin Kögel",
+      "cardName": "Kögel",
+      "originalVersionId": "1",
+      "clubId": 131724,
+      "leagueId": 2218,
+      "countryId": 21,
+      "versionId": "3002",
+      "rating": 82,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        127
+      ],
+      "attributes": [
+        86,
+        79,
+        77,
+        80,
+        46,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 700,
+      "resourceId": 67373786,
+      "assetId": 264922
     }
   }
 }

@@ -68,7 +68,7 @@
       79
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 10000,
     "resourceId": 226506,
     "assetId": 226506
   },
@@ -283,6 +283,44 @@
     "resourceId": 268095,
     "assetId": 268095
   },
+  "50558154": {
+    "name": "Karol Mets",
+    "cardName": "Mets",
+    "originalVersionId": "1",
+    "clubId": 160,
+    "leagueId": 20,
+    "countryId": 208,
+    "versionId": "3001",
+    "rating": 70,
+    "preferredFoot": "Left",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB"
+    ],
+    "playStyles": [
+      10,
+      28
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      11,
+      13
+    ],
+    "attributes": [
+      65,
+      48,
+      57,
+      59,
+      69,
+      79
+    ],
+    "hasDynamicImage": false,
+    "price": 450,
+    "resourceId": 50558154,
+    "assetId": 226506
+  },
   "50595837": {
     "name": "Maksim Paskotši",
     "cardName": "Paskotši",
@@ -324,8 +362,43 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 69000,
+    "price": 61000,
     "resourceId": 50595837,
     "assetId": 264189
+  },
+  "50599743": {
+    "name": "Rocco Robert Shein",
+    "cardName": "Shein",
+    "originalVersionId": "0",
+    "clubId": 1790,
+    "leagueId": 14,
+    "countryId": 208,
+    "versionId": "2001",
+    "rating": 66,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 3,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      18
+    ],
+    "attributes": [
+      74,
+      57,
+      62,
+      66,
+      62,
+      66
+    ],
+    "hasDynamicImage": false,
+    "price": 10000,
+    "resourceId": 50599743,
+    "assetId": 268095
   }
 }

@@ -68,7 +68,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 300,
       "resourceId": 258914,
       "assetId": 258914
     },
@@ -662,7 +662,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 27000,
+      "price": 19750,
       "resourceId": 50578004,
       "assetId": 246356
     },
@@ -710,7 +710,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 20750,
+      "price": 24500,
       "resourceId": 50598589,
       "assetId": 266941
     },
@@ -760,7 +760,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 40500,
+      "price": 40000,
       "resourceId": 50603712,
       "assetId": 272064
     },
@@ -805,9 +805,122 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 55000,
       "resourceId": 50603788,
       "assetId": 272140
+    },
+    "50603793": {
+      "name": "Sheila",
+      "cardName": "Sheila",
+      "originalVersionId": "0",
+      "clubId": 131125,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        24,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        73,
+        74,
+        65,
+        72,
+        51,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50603793,
+      "assetId": 272145
+    },
+    "50603836": {
+      "name": "Lucía Martínez",
+      "cardName": "Lucía Martínez",
+      "originalVersionId": "1",
+      "clubId": 131125,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        20,
+        48
+      ],
+      "attributes": [
+        71,
+        54,
+        74,
+        71,
+        69,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50603836,
+      "assetId": 272188
+    },
+    "50603853": {
+      "name": "Izarne Sarasola",
+      "cardName": "Izarne Sarasola",
+      "originalVersionId": "0",
+      "clubId": 131125,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        9
+      ],
+      "attributes": [
+        65,
+        59,
+        69,
+        67,
+        71,
+        59
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50603853,
+      "assetId": 272205
     },
     "67381027": {
       "name": "Elena Julve",
@@ -865,6 +978,47 @@
       "hasDynamicImage": true,
       "resourceId": 67381027,
       "assetId": 272163
+    },
+    "67384648": {
+      "name": "Lauri",
+      "cardName": "Lauri",
+      "originalVersionId": "1",
+      "clubId": 131125,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "ST"
+      ],
+      "playStyles": [
+        26,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        28,
+        32,
+        43
+      ],
+      "attributes": [
+        75,
+        72,
+        72,
+        75,
+        42,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67384648,
+      "assetId": 275784
     }
   }
 }

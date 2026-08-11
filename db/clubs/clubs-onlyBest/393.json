@@ -486,7 +486,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 3500,
       "resourceId": 232123,
       "assetId": 232123
     },
@@ -979,7 +979,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 82500,
+      "price": 85000,
       "resourceId": 50526734,
       "assetId": 195086
     },
@@ -1089,7 +1089,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 7800,
+      "price": 3000,
       "resourceId": 50577214,
       "assetId": 245566
     },
@@ -1166,9 +1166,93 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 50603125,
       "assetId": 271477
+    },
+    "67328656": {
+      "name": "Baptiste Santamaria",
+      "cardName": "Santamaria",
+      "originalVersionId": "0",
+      "clubId": 393,
+      "leagueId": 63,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        20,
+        49
+      ],
+      "attributes": [
+        42,
+        67,
+        73,
+        74,
+        72,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67328656,
+      "assetId": 219792
+    },
+    "67369836": {
+      "name": "Taha Ali",
+      "cardName": "Ali",
+      "originalVersionId": "1",
+      "clubId": 393,
+      "leagueId": 63,
+      "countryId": 46,
+      "versionId": "3001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 5,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        13,
+        20,
+        23,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        29,
+        30
+      ],
+      "attributes": [
+        86,
+        60,
+        58,
+        75,
+        35,
+        50
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 67369836,
+      "assetId": 260972
     }
   }
 }

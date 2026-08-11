@@ -227,7 +227,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 9100,
       "resourceId": 226765,
       "assetId": 226765
     },
@@ -417,7 +417,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 2600,
       "resourceId": 238093,
       "assetId": 238093
     },
@@ -451,7 +451,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 3200,
       "resourceId": 240955,
       "assetId": 240955
     },
@@ -529,7 +529,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 2000,
       "resourceId": 255886,
       "assetId": 255886
     },
@@ -603,7 +603,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 264147,
       "assetId": 264147
     },
@@ -795,7 +795,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1800,
       "resourceId": 273051,
       "assetId": 273051
     },
@@ -1139,9 +1139,90 @@
         88
       ],
       "hasDynamicImage": false,
-      "price": 42000,
+      "price": 42500,
       "resourceId": 50608829,
       "assetId": 277181
+    },
+    "67335661": {
+      "name": "Víctor Ignacio Malcorra",
+      "cardName": "Malcorra",
+      "originalVersionId": "0",
+      "clubId": 111716,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [
+        12,
+        3,
+        8,
+        9
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        31,
+        33
+      ],
+      "attributes": [
+        68,
+        72,
+        80,
+        78,
+        59,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67335661,
+      "assetId": 226797
+    },
+    "67375035": {
+      "name": "Juan Pintado",
+      "cardName": "Pintado",
+      "originalVersionId": "0",
+      "clubId": 111716,
+      "leagueId": 353,
+      "countryId": 60,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        25
+      ],
+      "attributes": [
+        88,
+        44,
+        64,
+        72,
+        67,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 67375035,
+      "assetId": 266171
     }
   }
 }

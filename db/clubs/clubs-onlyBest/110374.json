@@ -72,7 +72,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 3800,
       "resourceId": 206654,
       "assetId": 206654
     },
@@ -385,7 +385,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 750,
       "resourceId": 237499,
       "assetId": 237499
     },
@@ -421,7 +421,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 700,
       "resourceId": 238004,
       "assetId": 238004
     },
@@ -769,7 +769,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 3400,
       "resourceId": 264044,
       "assetId": 264044
     },
@@ -845,7 +845,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1000,
       "resourceId": 271477,
       "assetId": 271477
     },
@@ -1299,7 +1299,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 2600,
       "resourceId": 50584810,
       "assetId": 253162
     },
@@ -1335,9 +1335,44 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 600,
       "resourceId": 50589433,
       "assetId": 257785
+    },
+    "50591753": {
+      "name": "Radu Drăgușin",
+      "cardName": "Drăgușin",
+      "originalVersionId": "0",
+      "clubId": 110374,
+      "leagueId": 31,
+      "countryId": 39,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        67,
+        37,
+        53,
+        65,
+        75,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50591753,
+      "assetId": 260105
     },
     "50599329": {
       "name": "Nicolás Valentini",
@@ -1457,7 +1492,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 20500,
+      "price": 15750,
       "resourceId": 50608330,
       "assetId": 276682
     },
@@ -1607,6 +1642,44 @@
       "resourceId": 50609988,
       "assetId": 278340
     },
+    "67183599": {
+      "name": "Christ Ravynel Inao Oulaï",
+      "cardName": "Inao Oulaï",
+      "originalVersionId": "0",
+      "clubId": 110374,
+      "leagueId": 31,
+      "countryId": 108,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        16,
+        31,
+        32
+      ],
+      "attributes": [
+        74,
+        50,
+        61,
+        69,
+        58,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67183599,
+      "assetId": 74735
+    },
     "67340944": {
       "name": "Jack Harrison",
       "cardName": "Harrison",
@@ -1656,7 +1729,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 13750,
       "resourceId": 67340944,
       "assetId": 232080
     },
@@ -1752,7 +1825,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 36250,
+      "price": 16000,
       "resourceId": 67351282,
       "assetId": 242418
     },
@@ -1790,9 +1863,85 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 600,
       "resourceId": 67355655,
       "assetId": 246791
+    },
+    "67381647": {
+      "name": "Arthur Atta",
+      "cardName": "Atta",
+      "originalVersionId": "0",
+      "clubId": 110374,
+      "leagueId": 31,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        26
+      ],
+      "attributes": [
+        72,
+        59,
+        66,
+        71,
+        62,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67381647,
+      "assetId": 272783
+    },
+    "84165008": {
+      "name": "Álex Jiménez",
+      "cardName": "Álex Jiménez",
+      "originalVersionId": "1",
+      "clubId": 110374,
+      "leagueId": 31,
+      "countryId": 45,
+      "versionId": "3001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        9
+      ],
+      "attributes": [
+        84,
+        52,
+        61,
+        71,
+        67,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 84165008,
+      "assetId": 278928
     }
   }
 }

@@ -73,7 +73,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 10000,
       "resourceId": 71106,
       "assetId": 71106
     },
@@ -109,7 +109,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 850,
       "resourceId": 72969,
       "assetId": 72969
     },
@@ -257,7 +257,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 2000,
       "resourceId": 205352,
       "assetId": 205352
     },
@@ -749,7 +749,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 1800,
       "resourceId": 240673,
       "assetId": 240673
     },
@@ -942,7 +942,7 @@
         46
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 700,
       "resourceId": 262748,
       "assetId": 262748
     },
@@ -1240,7 +1240,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 10000,
       "resourceId": 50402863,
       "assetId": 71215
     },
@@ -1280,7 +1280,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 9100,
+      "price": 5000,
       "resourceId": 50557315,
       "assetId": 225667
     },
@@ -1437,7 +1437,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 50572432,
       "assetId": 240784
     },
@@ -1558,6 +1558,41 @@
       "resourceId": 50594396,
       "assetId": 262748
     },
+    "50599743": {
+      "name": "Rocco Robert Shein",
+      "cardName": "Shein",
+      "originalVersionId": "0",
+      "clubId": 1790,
+      "leagueId": 14,
+      "countryId": 208,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        74,
+        57,
+        62,
+        66,
+        62,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50599743,
+      "assetId": 268095
+    },
     "50607718": {
       "name": "Terry Devlin",
       "cardName": "Devlin",
@@ -1609,7 +1644,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 35000,
       "resourceId": 50607718,
       "assetId": 276070
     },
@@ -1683,6 +1718,43 @@
       "price": 200,
       "resourceId": 50610471,
       "assetId": 278823
+    },
+    "67380547": {
+      "name": "Marko Milovanović",
+      "cardName": "Milovanović",
+      "originalVersionId": "0",
+      "clubId": 1790,
+      "leagueId": 14,
+      "countryId": 51,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        19,
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        58,
+        67,
+        50,
+        63,
+        26,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 67380547,
+      "assetId": 271683
     }
   }
 }

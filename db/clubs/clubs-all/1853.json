@@ -140,7 +140,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 7700,
       "resourceId": 199005,
       "assetId": 199005
     },
@@ -217,7 +217,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 2000,
       "resourceId": 216475,
       "assetId": 216475
     },
@@ -331,7 +331,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 300,
       "resourceId": 241055,
       "assetId": 241055
     },
@@ -458,7 +458,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 250,
       "resourceId": 243312,
       "assetId": 243312
     },
@@ -657,7 +657,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 850,
       "resourceId": 252865,
       "assetId": 252865
     },
@@ -982,7 +982,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 800,
       "resourceId": 276820,
       "assetId": 276820
     },
@@ -1062,7 +1062,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 59000,
+      "price": 51000,
       "resourceId": 50402615,
       "assetId": 70967
     },
@@ -1101,7 +1101,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 8800,
       "resourceId": 50406422,
       "assetId": 74774
     },
@@ -1149,6 +1149,46 @@
       "resourceId": 50530653,
       "assetId": 199005
     },
+    "50532791": {
+      "name": "Aïssa Mandi",
+      "cardName": "Mandi",
+      "originalVersionId": "0",
+      "clubId": 1853,
+      "leagueId": 53,
+      "countryId": 97,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        4,
+        11,
+        13,
+        48
+      ],
+      "attributes": [
+        57,
+        46,
+        71,
+        67,
+        75,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50532791,
+      "assetId": 201143
+    },
     "50574960": {
       "name": "Pablo Martínez",
       "cardName": "Pablo Martínez",
@@ -1195,7 +1235,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 51000,
+      "price": 41750,
       "resourceId": 50574960,
       "assetId": 243312
     },
@@ -1232,9 +1272,46 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 3600,
+      "price": 1300,
       "resourceId": 50578976,
       "assetId": 247328
+    },
+    "50595743": {
+      "name": "Hugo Sotelo",
+      "cardName": "Hugo Sotelo",
+      "originalVersionId": "0",
+      "clubId": 1853,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        18,
+        19
+      ],
+      "attributes": [
+        69,
+        66,
+        70,
+        72,
+        67,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50595743,
+      "assetId": 264095
     },
     "50595821": {
       "name": "Iván Romero",
@@ -1278,7 +1355,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 35000,
+      "price": 44750,
       "resourceId": 50595821,
       "assetId": 264173
     },
@@ -1456,6 +1533,42 @@
       "price": 0,
       "resourceId": 67380278,
       "assetId": 271414
+    },
+    "67386548": {
+      "name": "Dani Requena",
+      "cardName": "Dani Requena",
+      "originalVersionId": "0",
+      "clubId": 1853,
+      "leagueId": 53,
+      "countryId": 45,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        68,
+        61,
+        63,
+        64,
+        56,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67386548,
+      "assetId": 277684
     }
   }
 }

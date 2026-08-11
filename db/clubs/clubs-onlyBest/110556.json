@@ -31,7 +31,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4900,
       "resourceId": 74484,
       "assetId": 74484
     },
@@ -65,7 +65,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 74485,
       "assetId": 74485
     },
@@ -171,7 +171,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 500,
       "resourceId": 206159,
       "assetId": 206159
     },
@@ -208,7 +208,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 500,
       "resourceId": 222475,
       "assetId": 222475
     },
@@ -396,7 +396,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 500,
       "resourceId": 238516,
       "assetId": 238516
     },
@@ -430,7 +430,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 1700,
       "resourceId": 239795,
       "assetId": 239795
     },
@@ -583,7 +583,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 750,
       "resourceId": 256949,
       "assetId": 256949
     },
@@ -770,7 +770,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 2600,
       "resourceId": 272602,
       "assetId": 272602
     },
@@ -913,7 +913,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 5100,
       "resourceId": 50403201,
       "assetId": 71553
     },
@@ -1190,7 +1190,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 21250,
       "resourceId": 50572586,
       "assetId": 240938
     },
@@ -1392,6 +1392,44 @@
       "resourceId": 50605730,
       "assetId": 274082
     },
+    "50607826": {
+      "name": "Elias Havel",
+      "cardName": "Havel",
+      "originalVersionId": "1",
+      "clubId": 110556,
+      "leagueId": 31,
+      "countryId": 4,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        38,
+        39,
+        42
+      ],
+      "attributes": [
+        72,
+        64,
+        59,
+        63,
+        28,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50607826,
+      "assetId": 276178
+    },
     "67179388": {
       "name": "Franz Stolz",
       "cardName": "Stolz",
@@ -1425,6 +1463,46 @@
       "price": 200,
       "resourceId": 67179388,
       "assetId": 70524
+    },
+    "100904083": {
+      "name": "Hamed Junior Traoré",
+      "cardName": "Traoré",
+      "originalVersionId": "0",
+      "clubId": 110556,
+      "leagueId": 31,
+      "countryId": 108,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        30,
+        33
+      ],
+      "attributes": [
+        78,
+        70,
+        72,
+        80,
+        57,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 100904083,
+      "assetId": 240787
     }
   }
 }

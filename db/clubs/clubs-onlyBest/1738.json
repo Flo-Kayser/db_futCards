@@ -66,7 +66,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 200,
       "resourceId": 72374,
       "assetId": 72374
     },
@@ -134,7 +134,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 3700,
+      "price": 5100,
       "resourceId": 73625,
       "assetId": 73625
     },
@@ -172,7 +172,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 300,
       "resourceId": 188537,
       "assetId": 188537
     },
@@ -212,7 +212,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 7100,
       "resourceId": 203741,
       "assetId": 203741
     },
@@ -250,7 +250,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 210450,
       "assetId": 210450
     },
@@ -360,7 +360,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 9800,
+      "price": 2600,
       "resourceId": 222286,
       "assetId": 222286
     },
@@ -401,7 +401,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 2700,
       "resourceId": 226539,
       "assetId": 226539
     },
@@ -439,7 +439,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 8200,
+      "price": 5500,
       "resourceId": 234514,
       "assetId": 234514
     },
@@ -476,7 +476,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 247264,
       "assetId": 247264
     },
@@ -598,7 +598,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 6900,
       "resourceId": 253121,
       "assetId": 253121
     },
@@ -673,7 +673,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 300,
       "resourceId": 262237,
       "assetId": 262237
     },
@@ -747,7 +747,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 950,
       "resourceId": 264449,
       "assetId": 264449
     },
@@ -815,7 +815,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 9900,
+      "price": 4500,
       "resourceId": 271257,
       "assetId": 271257
     },
@@ -922,6 +922,43 @@
       "resourceId": 50405273,
       "assetId": 73625
     },
+    "50520186": {
+      "name": "Vincent Sasso",
+      "cardName": "Sasso",
+      "originalVersionId": "0",
+      "clubId": 1738,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        37,
+        27,
+        52,
+        52,
+        71,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50520186,
+      "assetId": 188538
+    },
     "50543029": {
       "name": "Sofiane Boufal",
       "cardName": "Boufal",
@@ -962,7 +999,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 8000,
       "resourceId": 50543029,
       "assetId": 211381
     },
@@ -1098,7 +1135,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 2100,
       "resourceId": 50588918,
       "assetId": 257270
     },
@@ -1135,7 +1172,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 950,
       "resourceId": 50588919,
       "assetId": 257271
     },
@@ -1250,6 +1287,45 @@
       "price": 1300,
       "resourceId": 50600044,
       "assetId": 268396
+    },
+    "67371100": {
+      "name": "Amir Richardson",
+      "cardName": "Richardson",
+      "originalVersionId": "1",
+      "clubId": 1738,
+      "leagueId": 16,
+      "countryId": 129,
+      "versionId": "3001",
+      "rating": 72,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        18,
+        19
+      ],
+      "attributes": [
+        73,
+        64,
+        68,
+        72,
+        67,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67371100,
+      "assetId": 262236
     }
   }
 }

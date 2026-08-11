@@ -65,7 +65,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 73027,
       "assetId": 73027
     },
@@ -280,7 +280,7 @@
         89
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 3000,
       "resourceId": 226302,
       "assetId": 226302
     },
@@ -326,7 +326,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1000,
       "resourceId": 227337,
       "assetId": 227337
     },
@@ -370,7 +370,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 1900,
       "resourceId": 240717,
       "assetId": 240717
     },
@@ -450,7 +450,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1800,
       "resourceId": 247790,
       "assetId": 247790
     },
@@ -490,7 +490,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1900,
       "resourceId": 257530,
       "assetId": 257530
     },
@@ -533,7 +533,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 2100,
       "resourceId": 264864,
       "assetId": 264864
     },
@@ -812,7 +812,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 2000,
       "resourceId": 265063,
       "assetId": 265063
     },
@@ -849,7 +849,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 200,
       "resourceId": 265408,
       "assetId": 265408
     },
@@ -1110,7 +1110,7 @@
         78
       ],
       "hasDynamicImage": true,
-      "price": 11500,
+      "price": 18250,
       "resourceId": 50572365,
       "assetId": 240717
     },
@@ -1169,7 +1169,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 21750,
+      "price": 21000,
       "resourceId": 50573495,
       "assetId": 241847
     },
@@ -1287,7 +1287,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 15500,
       "resourceId": 50596582,
       "assetId": 264934
     },
@@ -1500,7 +1500,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 12250,
       "resourceId": 50596711,
       "assetId": 265063
     },
@@ -1545,9 +1545,47 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 40250,
+      "price": 40750,
       "resourceId": 50597057,
       "assetId": 265409
+    },
+    "50604130": {
+      "name": "Julia Landenberger",
+      "cardName": "Landenberger",
+      "originalVersionId": "0",
+      "clubId": 115998,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 1,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12,
+        48
+      ],
+      "attributes": [
+        63,
+        53,
+        59,
+        61,
+        76,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50604130,
+      "assetId": 272482
     },
     "67335166": {
       "name": "Alexandra Popp",
@@ -1655,7 +1693,7 @@
         72
       ],
       "hasDynamicImage": true,
-      "price": 38750,
+      "price": 34750,
       "resourceId": 67336201,
       "assetId": 227337
     },
@@ -1765,7 +1803,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 12500,
       "resourceId": 67350711,
       "assetId": 241847
     },
@@ -1819,9 +1857,44 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 110000,
+      "price": 138000,
       "resourceId": 67373921,
       "assetId": 265057
+    },
+    "67378836": {
+      "name": "Lou Bogaert",
+      "cardName": "Bogaert",
+      "originalVersionId": "0",
+      "clubId": 115998,
+      "leagueId": 2215,
+      "countryId": 18,
+      "versionId": "2002",
+      "rating": 79,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9
+      ],
+      "attributes": [
+        77,
+        51,
+        71,
+        75,
+        78,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67378836,
+      "assetId": 269972
     }
   }
 }

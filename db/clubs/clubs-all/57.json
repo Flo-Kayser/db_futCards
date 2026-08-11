@@ -31,7 +31,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 5100,
       "resourceId": 78070,
       "assetId": 78070
     },
@@ -367,7 +367,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 245563,
       "assetId": 245563
     },
@@ -405,7 +405,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 700,
       "resourceId": 247124,
       "assetId": 247124
     },
@@ -443,7 +443,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 251170,
       "assetId": 251170
     },
@@ -589,7 +589,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 260100,
       "assetId": 260100
     },
@@ -842,7 +842,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 6000,
+      "price": 200,
       "resourceId": 269745,
       "assetId": 269745
     },
@@ -918,7 +918,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 1400,
       "resourceId": 274516,
       "assetId": 274516
     },
@@ -952,7 +952,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 4500,
       "resourceId": 276933,
       "assetId": 276933
     },
@@ -1063,6 +1063,42 @@
       "resourceId": 50406699,
       "assetId": 75051
     },
+    "50537866": {
+      "name": "Paul Nardi",
+      "cardName": "Nardi",
+      "originalVersionId": "1",
+      "clubId": 57,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "3001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        74,
+        68,
+        68,
+        76,
+        50,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 50537866,
+      "assetId": 206218
+    },
     "50578772": {
       "name": "Gideon Mensah",
       "cardName": "Mensah",
@@ -1102,7 +1138,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 12500,
+      "price": 13250,
       "resourceId": 50578772,
       "assetId": 247124
     },
@@ -1136,7 +1172,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 650,
       "resourceId": 50589260,
       "assetId": 257612
     },
@@ -1210,7 +1246,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 700,
       "resourceId": 50592591,
       "assetId": 260943
     },
@@ -1280,7 +1316,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 50594760,
       "assetId": 263112
     },
@@ -1316,7 +1352,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 50607963,
       "assetId": 276315
     },
@@ -1437,6 +1473,44 @@
       "price": 35000,
       "resourceId": 67371892,
       "assetId": 263028
+    },
+    "84160772": {
+      "name": "Rémy Labeau Lascary",
+      "cardName": "Labeau Lascary",
+      "originalVersionId": "0",
+      "clubId": 57,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        36,
+        41
+      ],
+      "attributes": [
+        76,
+        71,
+        63,
+        71,
+        28,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 84160772,
+      "assetId": 274692
     }
   }
 }

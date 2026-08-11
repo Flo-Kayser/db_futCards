@@ -68,7 +68,7 @@
         36
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 400,
       "resourceId": 74326,
       "assetId": 74326
     },
@@ -321,7 +321,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 350,
       "resourceId": 209618,
       "assetId": 209618
     },
@@ -398,7 +398,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 6700,
+      "price": 8900,
       "resourceId": 235888,
       "assetId": 235888
     },
@@ -471,7 +471,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 9400,
       "resourceId": 239814,
       "assetId": 239814
     },
@@ -627,7 +627,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 1900,
       "resourceId": 255523,
       "assetId": 255523
     },
@@ -1166,9 +1166,91 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 4700,
       "resourceId": 50608475,
       "assetId": 276827
+    },
+    "67357220": {
+      "name": "Thierno Ballo",
+      "cardName": "Ballo",
+      "originalVersionId": "1",
+      "clubId": 1819,
+      "leagueId": 17,
+      "countryId": 4,
+      "versionId": "3001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20,
+        25,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        39,
+        42
+      ],
+      "attributes": [
+        87,
+        65,
+        64,
+        75,
+        50,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 67357220,
+      "assetId": 248356
+    },
+    "67365664": {
+      "name": "Jakob Breum",
+      "cardName": "Breum",
+      "originalVersionId": "1",
+      "clubId": 1819,
+      "leagueId": 17,
+      "countryId": 13,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [
+        26
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        31,
+        33
+      ],
+      "attributes": [
+        70,
+        72,
+        72,
+        76,
+        38,
+        63
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 67365664,
+      "assetId": 256800
     }
   }
 }

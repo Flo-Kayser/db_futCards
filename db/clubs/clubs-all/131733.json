@@ -110,7 +110,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 72345,
       "assetId": 72345
     },
@@ -184,7 +184,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 72361,
       "assetId": 72361
     },
@@ -218,7 +218,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 5100,
       "resourceId": 72377,
       "assetId": 72377
     },
@@ -559,7 +559,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 3600,
+      "price": 850,
       "resourceId": 272153,
       "assetId": 272153
     },
@@ -675,7 +675,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 1600,
       "resourceId": 273150,
       "assetId": 273150
     },
@@ -754,7 +754,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 2800,
       "resourceId": 275782,
       "assetId": 275782
     },
@@ -797,6 +797,194 @@
       "price": 350,
       "resourceId": 276904,
       "assetId": 276904
+    },
+    "50403795": {
+      "name": "Paula Gutiérrez",
+      "cardName": "Paula Gutiérrez",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18,
+        20
+      ],
+      "attributes": [
+        67,
+        52,
+        68,
+        68,
+        62,
+        57
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50403795,
+      "assetId": 72147
+    },
+    "50403934": {
+      "name": "Raquel García",
+      "cardName": "Raquel García",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        15
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        64,
+        31,
+        59,
+        55,
+        70,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50403934,
+      "assetId": 72286
+    },
+    "50603749": {
+      "name": "Anita Marcos",
+      "cardName": "Anita Marcos",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        24
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        75,
+        79,
+        72,
+        79,
+        51,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50603749,
+      "assetId": 272101
+    },
+    "50603795": {
+      "name": "Bicho",
+      "cardName": "Bicho",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM"
+      ],
+      "playStyles": [
+        24,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        64,
+        68,
+        69,
+        73,
+        62,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50603795,
+      "assetId": 272147
+    },
+    "50603899": {
+      "name": "Patri Ojeda",
+      "cardName": "Patri Ojeda",
+      "originalVersionId": "0",
+      "clubId": 131733,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11,
+        23,
+        48
+      ],
+      "attributes": [
+        63,
+        60,
+        63,
+        68,
+        73,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50603899,
+      "assetId": 272251
     }
   }
 }
