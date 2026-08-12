@@ -66,7 +66,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 8000,
+      "price": 10000,
       "resourceId": 80622,
       "assetId": 80622
     },
@@ -271,7 +271,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 900,
       "resourceId": 245238,
       "assetId": 245238
     },
@@ -573,7 +573,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 264489,
       "assetId": 264489
     },
@@ -686,7 +686,7 @@
         47
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 5000,
       "resourceId": 271267,
       "assetId": 271267
     },
@@ -724,7 +724,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 10000,
       "resourceId": 271682,
       "assetId": 271682
     },
@@ -762,7 +762,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 7700,
+      "price": 8400,
       "resourceId": 276159,
       "assetId": 276159
     },
@@ -869,7 +869,7 @@
         46
       ],
       "hasDynamicImage": false,
-      "price": 4400,
+      "price": 3300,
       "resourceId": 278524,
       "assetId": 278524
     },
@@ -1091,7 +1091,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 9700,
+      "price": 350,
       "resourceId": 50591912,
       "assetId": 260264
     },
@@ -1128,9 +1128,45 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 350,
       "resourceId": 50597784,
       "assetId": 266136
+    },
+    "50602386": {
+      "name": "Thiago Ezequiel Ojeda",
+      "cardName": "Ojeda",
+      "originalVersionId": "1",
+      "clubId": 462,
+      "leagueId": 54,
+      "countryId": 52,
+      "versionId": "3000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14
+      ],
+      "attributes": [
+        60,
+        61,
+        60,
+        63,
+        62,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50602386,
+      "assetId": 270738
     },
     "50604135": {
       "name": "Dani Pérez",
@@ -1163,7 +1199,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 250,
       "resourceId": 50604135,
       "assetId": 272487
     },
@@ -1236,9 +1272,45 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 19750,
+      "price": 22500,
       "resourceId": 67369128,
       "assetId": 260264
+    },
+    "67381886": {
+      "name": "Yeray",
+      "cardName": "Yeray",
+      "originalVersionId": "1",
+      "clubId": 462,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23
+      ],
+      "attributes": [
+        71,
+        63,
+        61,
+        65,
+        29,
+        43
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 67381886,
+      "assetId": 273022
     }
   }
 }

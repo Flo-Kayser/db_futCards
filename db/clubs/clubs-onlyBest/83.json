@@ -65,7 +65,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4400,
       "resourceId": 79681,
       "assetId": 79681
     },
@@ -140,7 +140,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 211707,
       "assetId": 211707
     },
@@ -257,7 +257,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 219684,
       "assetId": 219684
     },
@@ -332,7 +332,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 7100,
+      "price": 10000,
       "resourceId": 229163,
       "assetId": 229163
     },
@@ -823,7 +823,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 268894,
       "assetId": 268894
     },
@@ -938,7 +938,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 5100,
       "resourceId": 273692,
       "assetId": 273692
     },
@@ -1082,7 +1082,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 4400,
+      "price": 350,
       "resourceId": 50587221,
       "assetId": 255573
     },
@@ -1123,6 +1123,48 @@
       "price": 350,
       "resourceId": 50597073,
       "assetId": 265425
+    },
+    "50598404": {
+      "name": "Alex Lowry",
+      "cardName": "Lowry",
+      "originalVersionId": "0",
+      "clubId": 83,
+      "leagueId": 50,
+      "countryId": 42,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM"
+      ],
+      "playStyles": [
+        13,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        30,
+        31,
+        33
+      ],
+      "attributes": [
+        65,
+        61,
+        65,
+        68,
+        34,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50598404,
+      "assetId": 266756
     },
     "50609173": {
       "name": "Oscar Priestman",
@@ -1215,9 +1257,86 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 15750,
+      "price": 14250,
       "resourceId": 67363000,
       "assetId": 254136
+    },
+    "67372715": {
+      "name": "Alex Paulsen",
+      "cardName": "Paulsen",
+      "originalVersionId": "1",
+      "clubId": 83,
+      "leagueId": 50,
+      "countryId": 198,
+      "versionId": "3001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        72,
+        66,
+        73,
+        74,
+        55,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 67372715,
+      "assetId": 263851
+    },
+    "67381188": {
+      "name": "Jake Girdwood-Reich",
+      "cardName": "Girdwood-Reich",
+      "originalVersionId": "1",
+      "clubId": 83,
+      "leagueId": 50,
+      "countryId": 195,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        18,
+        28
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        15,
+        48
+      ],
+      "attributes": [
+        60,
+        41,
+        53,
+        54,
+        61,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 67381188,
+      "assetId": 272324
     }
   }
 }

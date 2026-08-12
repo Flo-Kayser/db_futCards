@@ -330,7 +330,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 500,
       "resourceId": 239631,
       "assetId": 239631
     },
@@ -367,7 +367,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 700,
       "resourceId": 245563,
       "assetId": 245563
     },
@@ -515,7 +515,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 257204,
       "assetId": 257204
     },
@@ -551,7 +551,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 500,
       "resourceId": 260100,
       "assetId": 260100
     },
@@ -589,7 +589,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 9200,
+      "price": 9900,
       "resourceId": 260943,
       "assetId": 260943
     },
@@ -625,7 +625,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 950,
       "resourceId": 263112,
       "assetId": 263112
     },
@@ -659,7 +659,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 263402,
       "assetId": 263402
     },
@@ -804,7 +804,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 2000,
       "resourceId": 269745,
       "assetId": 269745
     },
@@ -880,7 +880,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 2300,
       "resourceId": 274516,
       "assetId": 274516
     },
@@ -914,7 +914,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 5000,
       "resourceId": 276933,
       "assetId": 276933
     },
@@ -952,7 +952,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 277503,
       "assetId": 277503
     },
@@ -986,7 +986,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 5100,
       "resourceId": 277644,
       "assetId": 277644
     },
@@ -1057,7 +1057,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 350,
       "resourceId": 50537866,
       "assetId": 206218
     },
@@ -1100,7 +1100,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 13500,
       "resourceId": 50578772,
       "assetId": 247124
     },
@@ -1208,9 +1208,44 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 200,
       "resourceId": 50592591,
       "assetId": 260943
+    },
+    "50594679": {
+      "name": "Sékou Fofana",
+      "cardName": "Fofana",
+      "originalVersionId": "1",
+      "clubId": 57,
+      "leagueId": 16,
+      "countryId": 108,
+      "versionId": "3000",
+      "rating": 60,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        69,
+        30,
+        48,
+        53,
+        55,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50594679,
+      "assetId": 263031
     },
     "50594760": {
       "name": "Marvin Senaya",
@@ -1280,7 +1315,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 50607963,
       "assetId": 276315
     },
@@ -1353,7 +1388,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 550,
       "resourceId": 67351441,
       "assetId": 242577
     },
@@ -1401,6 +1436,41 @@
       "price": 35000,
       "resourceId": 67371892,
       "assetId": 263028
+    },
+    "67384201": {
+      "name": "Christ Makosso",
+      "cardName": "Makosso",
+      "originalVersionId": "0",
+      "clubId": 57,
+      "leagueId": 16,
+      "countryId": 107,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        65,
+        34,
+        46,
+        56,
+        67,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 67384201,
+      "assetId": 275337
     },
     "84160772": {
       "name": "Rémy Labeau Lascary",

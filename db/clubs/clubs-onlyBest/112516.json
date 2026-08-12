@@ -31,7 +31,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1900,
       "resourceId": 71515,
       "assetId": 71515
     },
@@ -66,7 +66,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 950,
       "resourceId": 72169,
       "assetId": 72169
     },
@@ -102,7 +102,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 9700,
+      "price": 2600,
       "resourceId": 78986,
       "assetId": 78986
     },
@@ -137,7 +137,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 900,
       "resourceId": 78989,
       "assetId": 78989
     },
@@ -173,7 +173,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 950,
       "resourceId": 78990,
       "assetId": 78990
     },
@@ -244,7 +244,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 700,
       "resourceId": 223818,
       "assetId": 223818
     },
@@ -279,7 +279,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 229327,
       "assetId": 229327
     },
@@ -357,7 +357,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 550,
       "resourceId": 239875,
       "assetId": 239875
     },
@@ -391,7 +391,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 600,
       "resourceId": 256449,
       "assetId": 256449
     },
@@ -428,7 +428,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 700,
       "resourceId": 258468,
       "assetId": 258468
     },
@@ -462,7 +462,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1300,
       "resourceId": 259317,
       "assetId": 259317
     },
@@ -499,7 +499,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 1400,
       "resourceId": 261032,
       "assetId": 261032
     },
@@ -534,7 +534,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 1900,
       "resourceId": 268010,
       "assetId": 268010
     },
@@ -609,7 +609,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 4800,
       "resourceId": 50404539,
       "assetId": 72891
     },
@@ -660,7 +660,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 50500,
+      "price": 48000,
       "resourceId": 50543915,
       "assetId": 212267
     },
@@ -736,7 +736,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 1500,
       "resourceId": 50559206,
       "assetId": 227558
     },
@@ -780,43 +780,44 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 47000,
+      "price": 55000,
       "resourceId": 50600747,
       "assetId": 269099
     },
-    "67366157": {
+    "84143373": {
       "name": "Sphephelo Sithole",
       "cardName": "Sithole",
-      "originalVersionId": "107",
+      "originalVersionId": "16",
       "clubId": 112516,
       "leagueId": 308,
       "countryId": 140,
-      "versionId": "107",
-      "rating": 94,
+      "versionId": "16",
+      "rating": 96,
       "preferredFoot": "Right",
-      "weakFoot": 4,
+      "weakFoot": 5,
       "skillMoves": 4,
       "preferredPosition": "CDM",
       "possiblePositions": [
+        "CB",
         "CDM",
-        "CM"
+        "CM",
+        "LB",
+        "RB"
       ],
-      "playStyles": [
-        10,
-        17,
-        2,
-        20,
-        22,
-        28,
-        8,
-        9
-      ],
-      "playStylesPlus": [
-        11,
-        16,
-        29
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
         114,
         115,
         116,
@@ -826,19 +827,23 @@
         120,
         121,
         122,
+        146,
+        147,
+        148,
         149
       ],
       "attributes": [
+        95,
+        88,
+        93,
         94,
-        86,
-        91,
-        92,
-        94,
-        97
+        96,
+        99
       ],
       "hasDynamicImage": true,
-      "price": 13500,
-      "resourceId": 67366157,
+      "sbcPrice": 47000,
+      "price": 0,
+      "resourceId": 84143373,
       "assetId": 257293
     }
   }

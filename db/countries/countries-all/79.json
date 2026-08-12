@@ -267,6 +267,46 @@
     "resourceId": 264192,
     "assetId": 264192
   },
+  "50571637": {
+    "name": "Terence Vancooten",
+    "cardName": "Vancooten",
+    "originalVersionId": "0",
+    "clubId": 361,
+    "leagueId": 60,
+    "countryId": 79,
+    "versionId": "2001",
+    "rating": 65,
+    "preferredFoot": "Right",
+    "weakFoot": 3,
+    "skillMoves": 2,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM",
+      "RB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      4,
+      11,
+      12,
+      14
+    ],
+    "attributes": [
+      69,
+      37,
+      51,
+      56,
+      63,
+      75
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 50571637,
+    "assetId": 239989
+  },
   "50574609": {
     "name": "Stephen Duke-McKenna",
     "cardName": "Duke-McKenna",
@@ -303,5 +343,44 @@
     "price": 200,
     "resourceId": 50574609,
     "assetId": 242961
+  },
+  "50585022": {
+    "name": "Elliot Bonds",
+    "cardName": "Bonds",
+    "originalVersionId": "0",
+    "clubId": 113926,
+    "leagueId": 61,
+    "countryId": 79,
+    "versionId": "2000",
+    "rating": 63,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 2,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CDM",
+      "CM"
+    ],
+    "playStyles": [
+      17,
+      19
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      14,
+      18
+    ],
+    "attributes": [
+      65,
+      49,
+      57,
+      59,
+      60,
+      74
+    ],
+    "hasDynamicImage": false,
+    "price": 200,
+    "resourceId": 50585022,
+    "assetId": 253374
   }
 }

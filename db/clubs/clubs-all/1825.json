@@ -32,7 +32,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 4700,
       "resourceId": 71590,
       "assetId": 71590
     },
@@ -68,7 +68,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 72779,
       "assetId": 72779
     },
@@ -175,7 +175,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4200,
       "resourceId": 78484,
       "assetId": 78484
     },
@@ -462,7 +462,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 200,
       "resourceId": 250876,
       "assetId": 250876
     },
@@ -1319,6 +1319,75 @@
       "price": 250,
       "resourceId": 50594293,
       "assetId": 262645
+    },
+    "50601208": {
+      "name": "Toni Stahl",
+      "cardName": "Stahl",
+      "originalVersionId": "0",
+      "clubId": 1825,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        64,
+        62,
+        62,
+        65,
+        25,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50601208,
+      "assetId": 269560
+    },
+    "67388394": {
+      "name": "Martin Ens",
+      "cardName": "Ens",
+      "originalVersionId": "0",
+      "clubId": 1825,
+      "leagueId": 2076,
+      "countryId": 21,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        64,
+        40,
+        53,
+        57,
+        61,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67388394,
+      "assetId": 279530
     }
   }
 }

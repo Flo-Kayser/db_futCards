@@ -208,7 +208,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 6300,
+      "price": 6000,
       "resourceId": 80035,
       "assetId": 80035
     },
@@ -246,7 +246,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 350,
       "resourceId": 169115,
       "assetId": 169115
     },
@@ -286,7 +286,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 950,
       "resourceId": 203780,
       "assetId": 203780
     },
@@ -509,7 +509,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 2900,
       "resourceId": 264392,
       "assetId": 264392
     },
@@ -875,6 +875,43 @@
       "resourceId": 277872,
       "assetId": 277872
     },
+    "50404306": {
+      "name": "Vasco Lopes",
+      "cardName": "Vasco Lopes",
+      "originalVersionId": "0",
+      "clubId": 112494,
+      "leagueId": 32,
+      "countryId": 104,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        25,
+        36
+      ],
+      "attributes": [
+        80,
+        61,
+        60,
+        70,
+        31,
+        55
+      ],
+      "hasDynamicImage": false,
+      "price": 5000,
+      "resourceId": 50404306,
+      "assetId": 72658
+    },
     "50404786": {
       "name": "Riccardo Tonin",
       "cardName": "Tonin",
@@ -984,6 +1021,40 @@
       "resourceId": 50567511,
       "assetId": 235863
     },
+    "50568026": {
+      "name": "Alessandro Plizzari",
+      "cardName": "Plizzari",
+      "originalVersionId": "0",
+      "clubId": 112494,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        66,
+        66,
+        59,
+        69,
+        42,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 50568026,
+      "assetId": 236378
+    },
     "50596040": {
       "name": "Karim Zedadka",
       "cardName": "Zedadka",
@@ -1021,6 +1092,40 @@
       "price": 200,
       "resourceId": 50596040,
       "assetId": 264392
+    },
+    "84164432": {
+      "name": "Giacomo Stabile",
+      "cardName": "Stabile",
+      "originalVersionId": "0",
+      "clubId": 112494,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        62,
+        33,
+        45,
+        48,
+        65,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 4900,
+      "resourceId": 84164432,
+      "assetId": 278352
     }
   }
 }

@@ -33,7 +33,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 2000,
       "resourceId": 72454,
       "assetId": 72454
     },
@@ -105,7 +105,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 72457,
       "assetId": 72457
     },
@@ -174,7 +174,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 3600,
       "resourceId": 76338,
       "assetId": 76338
     },
@@ -245,7 +245,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 4100,
+      "price": 200,
       "resourceId": 186122,
       "assetId": 186122
     },
@@ -440,7 +440,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 225310,
       "assetId": 225310
     },
@@ -475,7 +475,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4600,
       "resourceId": 232114,
       "assetId": 232114
     },
@@ -512,7 +512,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 234487,
       "assetId": 234487
     },
@@ -768,7 +768,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 200,
       "resourceId": 262133,
       "assetId": 262133
     },
@@ -803,7 +803,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 2700,
       "resourceId": 264334,
       "assetId": 264334
     },
@@ -840,7 +840,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 5100,
       "resourceId": 270683,
       "assetId": 270683
     },
@@ -883,7 +883,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 55500,
+      "price": 64000,
       "resourceId": 50404105,
       "assetId": 72457
     },
@@ -932,7 +932,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 22750,
+      "price": 19500,
       "resourceId": 50554717,
       "assetId": 223069
     },
@@ -981,7 +981,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 57000,
+      "price": 74000,
       "resourceId": 50556958,
       "assetId": 225310
     },
@@ -1015,9 +1015,43 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 50571982,
       "assetId": 240334
+    },
+    "50571994": {
+      "name": "Shamal George",
+      "cardName": "George",
+      "originalVersionId": "1",
+      "clubId": 112764,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        64,
+        60,
+        60,
+        65,
+        39,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50571994,
+      "assetId": 240346
     },
     "50576718": {
       "name": "Jesse Debrah",
@@ -1053,9 +1087,46 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 4800,
+      "price": 1000,
       "resourceId": 50576718,
       "assetId": 245070
+    },
+    "50584526": {
+      "name": "Richard Taylor",
+      "cardName": "Taylor",
+      "originalVersionId": "0",
+      "clubId": 112764,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        16
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        48
+      ],
+      "attributes": [
+        65,
+        31,
+        46,
+        56,
+        64,
+        67
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 50584526,
+      "assetId": 252878
     },
     "67185435": {
       "name": "Damola Ajayi",
@@ -1092,6 +1163,78 @@
       "price": 5100,
       "resourceId": 67185435,
       "assetId": 76571
+    },
+    "67334731": {
+      "name": "Victor Adeboyejo",
+      "cardName": "Adeboyejo",
+      "originalVersionId": "0",
+      "clubId": 112764,
+      "leagueId": 61,
+      "countryId": 133,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        75,
+        65,
+        51,
+        64,
+        27,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 67334731,
+      "assetId": 225867
+    },
+    "83959239": {
+      "name": "Ethon Archer",
+      "cardName": "Archer",
+      "originalVersionId": "0",
+      "clubId": 112764,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        27,
+        33
+      ],
+      "attributes": [
+        85,
+        56,
+        55,
+        65,
+        48,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 83959239,
+      "assetId": 73159
     }
   }
 }

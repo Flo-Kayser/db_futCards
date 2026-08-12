@@ -31,7 +31,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 10000,
       "resourceId": 71682,
       "assetId": 71682
     },
@@ -67,7 +67,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 4500,
+      "price": 750,
       "resourceId": 158784,
       "assetId": 158784
     },
@@ -140,7 +140,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 9100,
       "resourceId": 221990,
       "assetId": 221990
     },
@@ -256,7 +256,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 3600,
       "resourceId": 241412,
       "assetId": 241412
     },
@@ -294,7 +294,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 1500,
       "resourceId": 251339,
       "assetId": 251339
     },
@@ -332,7 +332,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 600,
       "resourceId": 252362,
       "assetId": 252362
     },
@@ -479,7 +479,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 900,
       "resourceId": 261261,
       "assetId": 261261
     },
@@ -550,7 +550,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 8200,
       "resourceId": 271026,
       "assetId": 271026
     },
@@ -588,7 +588,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 5600,
       "resourceId": 271767,
       "assetId": 271767
     },
@@ -1071,6 +1071,79 @@
       "price": 350,
       "resourceId": 50605553,
       "assetId": 273905
+    },
+    "67188253": {
+      "name": "Bautista Dadín",
+      "cardName": "Dadín",
+      "originalVersionId": "0",
+      "clubId": 111707,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        71,
+        66,
+        61,
+        68,
+        37,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 10000,
+      "resourceId": 67188253,
+      "assetId": 79389
+    },
+    "67367564": {
+      "name": "Matías Godoy",
+      "cardName": "Godoy",
+      "originalVersionId": "0",
+      "clubId": 111707,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        43
+      ],
+      "attributes": [
+        73,
+        64,
+        65,
+        67,
+        39,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 1000,
+      "resourceId": 67367564,
+      "assetId": 258700
     }
   }
 }
