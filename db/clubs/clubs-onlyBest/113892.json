@@ -32,7 +32,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 4400,
       "resourceId": 76658,
       "assetId": 76658
     },
@@ -66,7 +66,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 3000,
       "resourceId": 76661,
       "assetId": 76661
     },
@@ -291,7 +291,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4800,
       "resourceId": 226633,
       "assetId": 226633
     },
@@ -470,7 +470,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 247033,
       "assetId": 247033
     },
@@ -585,7 +585,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 3700,
+      "price": 4000,
       "resourceId": 256429,
       "assetId": 256429
     },
@@ -688,7 +688,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 6800,
+      "price": 1000,
       "resourceId": 272919,
       "assetId": 272919
     },
@@ -724,7 +724,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 276566,
       "assetId": 276566
     },
@@ -759,9 +759,45 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 3500,
+      "price": 250,
       "resourceId": 50406276,
       "assetId": 74628
+    },
+    "50408729": {
+      "name": "Robin Dzabic",
+      "cardName": "Dzabic",
+      "originalVersionId": "0",
+      "clubId": 113892,
+      "leagueId": 56,
+      "countryId": 46,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21
+      ],
+      "attributes": [
+        71,
+        59,
+        60,
+        60,
+        47,
+        53
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50408729,
+      "assetId": 77081
     },
     "50568788": {
       "name": "Ludvig Fritzson",
@@ -869,6 +905,40 @@
       "price": 200,
       "resourceId": 50605244,
       "assetId": 273596
+    },
+    "67183604": {
+      "name": "Nikolai Skuseth",
+      "cardName": "Skuseth",
+      "originalVersionId": "0",
+      "clubId": 113892,
+      "leagueId": 56,
+      "countryId": 36,
+      "versionId": "2000",
+      "rating": 61,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        62,
+        26,
+        46,
+        49,
+        59,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67183604,
+      "assetId": 74740
     }
   }
 }

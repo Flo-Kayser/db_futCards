@@ -32,7 +32,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 200,
       "resourceId": 73049,
       "assetId": 73049
     },
@@ -177,7 +177,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 900,
       "resourceId": 201417,
       "assetId": 201417
     },
@@ -474,7 +474,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 8000,
       "resourceId": 241602,
       "assetId": 241602
     },
@@ -697,7 +697,7 @@
         50
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 259170,
       "assetId": 259170
     },
@@ -1065,7 +1065,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 22000,
       "resourceId": 50593783,
       "assetId": 262135
     },
@@ -1148,7 +1148,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 54000,
+      "price": 54500,
       "resourceId": 50605111,
       "assetId": 273463
     },
@@ -1200,7 +1200,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 22000,
+      "price": 38750,
       "resourceId": 67186457,
       "assetId": 77593
     },
@@ -1240,7 +1240,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 67295209,
       "assetId": 186345
     },
@@ -1276,7 +1276,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 9100,
       "resourceId": 67330705,
       "assetId": 221841
     },
@@ -1332,7 +1332,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 14750,
       "resourceId": 67344320,
       "assetId": 235456
     },
@@ -1461,46 +1461,62 @@
         92
       ],
       "hasDynamicImage": false,
-      "price": 53500,
+      "price": 39750,
       "resourceId": 84138144,
       "assetId": 252064
     },
-    "100868134": {
+    "117645350": {
       "name": "Raúl Jiménez",
       "cardName": "Jiménez",
-      "originalVersionId": "0",
+      "originalVersionId": "16",
       "clubId": 110,
       "leagueId": 13,
       "countryId": 83,
-      "versionId": "2002",
-      "rating": 77,
+      "versionId": "16",
+      "rating": 97,
       "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
+      "weakFoot": 5,
+      "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RW",
         "ST"
       ],
-      "playStyles": [
-        29,
-        5,
-        7
-      ],
+      "playStyles": [],
       "playStylesPlus": [],
       "rolesPlus": [
-        41
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
-        57,
-        79,
-        74,
-        75,
-        46,
-        79
+        95,
+        99,
+        94,
+        95,
+        65,
+        97
       ],
       "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 100868134,
+      "resourceId": 117645350,
       "assetId": 204838
     }
   }

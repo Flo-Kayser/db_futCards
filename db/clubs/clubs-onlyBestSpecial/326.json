@@ -46,7 +46,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 48250,
+      "price": 44000,
       "resourceId": 50524639,
       "assetId": 192991
     },
@@ -128,58 +128,9 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 13500,
       "resourceId": 50563767,
       "assetId": 232119
-    },
-    "50564011": {
-      "name": "Milan Škriniar",
-      "cardName": "Škriniar",
-      "originalVersionId": "11",
-      "clubId": 326,
-      "leagueId": 68,
-      "countryId": 43,
-      "versionId": "11",
-      "rating": 93,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CB",
-      "possiblePositions": [
-        "CB"
-      ],
-      "playStyles": [
-        10,
-        15,
-        17,
-        18,
-        19,
-        8,
-        9
-      ],
-      "playStylesPlus": [
-        14,
-        16,
-        28
-      ],
-      "rolesPlus": [
-        111,
-        112,
-        113,
-        148
-      ],
-      "attributes": [
-        87,
-        65,
-        80,
-        81,
-        93,
-        93
-      ],
-      "hasDynamicImage": true,
-      "price": 49000,
-      "resourceId": 50564011,
-      "assetId": 232363
     },
     "50589816": {
       "name": "Jayden Oosterwolde",
@@ -218,7 +169,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 150000,
+      "price": 120000,
       "resourceId": 50589816,
       "assetId": 258168
     },
@@ -260,7 +211,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 48000,
+      "price": 59000,
       "resourceId": 50592114,
       "assetId": 260466
     },
@@ -308,7 +259,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 62500,
+      "price": 75000,
       "resourceId": 50594616,
       "assetId": 262968
     },
@@ -369,6 +320,66 @@
       "price": 0,
       "resourceId": 67321387,
       "assetId": 212523
+    },
+    "67341227": {
+      "name": "Milan Škriniar",
+      "cardName": "Škriniar",
+      "originalVersionId": "16",
+      "clubId": 326,
+      "leagueId": 68,
+      "countryId": 43,
+      "versionId": "16",
+      "rating": 98,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM",
+        "LB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        146,
+        147,
+        148,
+        149
+      ],
+      "attributes": [
+        93,
+        70,
+        90,
+        92,
+        98,
+        97
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67341227,
+      "assetId": 232363
     },
     "67344708": {
       "name": "Edson Álvarez",
@@ -478,7 +489,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 82000,
+      "price": 80000,
       "resourceId": 67345360,
       "assetId": 236496
     },
@@ -532,7 +543,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 85000,
+      "price": 67000,
       "resourceId": 67367444,
       "assetId": 258580
     },
@@ -589,6 +600,65 @@
       "price": 11500,
       "resourceId": 67369100,
       "assetId": 260236
+    },
+    "84095000": {
+      "name": "Nathan Aké",
+      "cardName": "Aké",
+      "originalVersionId": "16",
+      "clubId": 326,
+      "leagueId": 68,
+      "countryId": 34,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "LB",
+        "LM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        127,
+        128,
+        129,
+        130,
+        146,
+        147,
+        148,
+        149
+      ],
+      "attributes": [
+        91,
+        68,
+        92,
+        94,
+        99,
+        96
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 84095000,
+      "assetId": 208920
     },
     "84096337": {
       "name": "Ederson",
@@ -699,7 +769,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 14500,
+      "price": 13000,
       "resourceId": 84106914,
       "assetId": 220834
     },
@@ -758,7 +828,7 @@
         97
       ],
       "hasDynamicImage": false,
-      "price": 13500,
+      "price": 12000,
       "resourceId": 84110238,
       "assetId": 224158
     },
@@ -802,7 +872,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 131000,
+      "price": 150000,
       "resourceId": 117656426,
       "assetId": 215914
     }

@@ -33,7 +33,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 9500,
+      "price": 200,
       "resourceId": 70909,
       "assetId": 70909
     },
@@ -68,7 +68,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 2600,
       "resourceId": 75280,
       "assetId": 75280
     },
@@ -102,7 +102,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 200,
       "resourceId": 75498,
       "assetId": 75498
     },
@@ -171,7 +171,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 2000,
       "resourceId": 199803,
       "assetId": 199803
     },
@@ -364,7 +364,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 550,
       "resourceId": 234843,
       "assetId": 234843
     },
@@ -404,7 +404,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 1600,
+      "price": 1500,
       "resourceId": 236518,
       "assetId": 236518
     },
@@ -523,7 +523,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 350,
       "resourceId": 253474,
       "assetId": 253474
     },
@@ -604,7 +604,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 700,
       "resourceId": 263116,
       "assetId": 263116
     },
@@ -787,7 +787,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 276863,
       "assetId": 276863
     },
@@ -828,7 +828,7 @@
         81
       ],
       "hasDynamicImage": false,
-      "price": 42000,
+      "price": 45000,
       "resourceId": 50404726,
       "assetId": 73078
     },
@@ -885,7 +885,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 12500,
       "resourceId": 50534077,
       "assetId": 202429
     },
@@ -969,7 +969,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 24000,
+      "price": 27000,
       "resourceId": 50556957,
       "assetId": 225309
     },
@@ -1054,7 +1054,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 10000,
       "resourceId": 50586684,
       "assetId": 255036
     },
@@ -1190,7 +1190,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 33500,
+      "price": 24750,
       "resourceId": 50590363,
       "assetId": 258715
     },
@@ -1244,7 +1244,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 11750,
+      "price": 12250,
       "resourceId": 50590810,
       "assetId": 259162
     },
@@ -1397,71 +1397,9 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 350,
       "resourceId": 84109751,
       "assetId": 223671
-    },
-    "84109870": {
-      "name": "Sheraldo Becker",
-      "cardName": "Becker",
-      "originalVersionId": "111",
-      "clubId": 169,
-      "leagueId": 19,
-      "countryId": 92,
-      "versionId": "111",
-      "rating": 89,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "ST",
-      "possiblePositions": [
-        "CAM",
-        "LM",
-        "RM",
-        "ST"
-      ],
-      "playStyles": [
-        0,
-        11,
-        2,
-        22,
-        29,
-        9
-      ],
-      "playStylesPlus": [
-        21,
-        6
-      ],
-      "rolesPlus": [
-        123,
-        124,
-        125,
-        126,
-        127,
-        128,
-        129,
-        130,
-        131,
-        132,
-        133,
-        134,
-        141,
-        142,
-        143,
-        144
-      ],
-      "attributes": [
-        96,
-        88,
-        84,
-        89,
-        51,
-        85
-      ],
-      "hasDynamicImage": false,
-      "sbcPrice": 60000,
-      "resourceId": 84109870,
-      "assetId": 223790
     },
     "84130188": {
       "name": "Hong Hyeon Seok",
@@ -1499,6 +1437,62 @@
       "price": 350,
       "resourceId": 84130188,
       "assetId": 244108
+    },
+    "100887086": {
+      "name": "Sheraldo Becker",
+      "cardName": "Becker",
+      "originalVersionId": "16",
+      "clubId": 169,
+      "leagueId": 19,
+      "countryId": 92,
+      "versionId": "16",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        99,
+        93,
+        93,
+        95,
+        60,
+        92
+      ],
+      "hasDynamicImage": true,
+      "price": 0,
+      "resourceId": 100887086,
+      "assetId": 223790
     },
     "100909236": {
       "name": "Silas",

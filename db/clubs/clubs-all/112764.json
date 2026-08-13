@@ -69,7 +69,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 200,
       "resourceId": 72456,
       "assetId": 72456
     },
@@ -105,7 +105,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 72457,
       "assetId": 72457
     },
@@ -140,7 +140,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 5000,
       "resourceId": 73222,
       "assetId": 73222
     },
@@ -440,7 +440,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 225310,
       "assetId": 225310
     },
@@ -475,7 +475,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 4600,
+      "price": 200,
       "resourceId": 232114,
       "assetId": 232114
     },
@@ -547,7 +547,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 235218,
       "assetId": 235218
     },
@@ -584,7 +584,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 237355,
       "assetId": 237355
     },
@@ -621,7 +621,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 247085,
       "assetId": 247085
     },
@@ -768,7 +768,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 262133,
       "assetId": 262133
     },
@@ -803,7 +803,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 200,
       "resourceId": 264334,
       "assetId": 264334
     },
@@ -840,7 +840,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 1400,
       "resourceId": 270683,
       "assetId": 270683
     },
@@ -883,7 +883,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 64000,
+      "price": 40000,
       "resourceId": 50404105,
       "assetId": 72457
     },
@@ -932,7 +932,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 19500,
+      "price": 29750,
       "resourceId": 50554717,
       "assetId": 223069
     },
@@ -981,7 +981,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 74000,
+      "price": 59000,
       "resourceId": 50556958,
       "assetId": 225310
     },
@@ -1015,7 +1015,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 250,
       "resourceId": 50571982,
       "assetId": 240334
     },
@@ -1049,7 +1049,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50571994,
       "assetId": 240346
     },
@@ -1124,7 +1124,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50584526,
       "assetId": 252878
     },
@@ -1194,9 +1194,125 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 67334731,
       "assetId": 225867
+    },
+    "67375573": {
+      "name": "JJ McKiernan",
+      "cardName": "McKiernan",
+      "originalVersionId": "0",
+      "clubId": 112764,
+      "leagueId": 61,
+      "countryId": 35,
+      "versionId": "2000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        31,
+        32
+      ],
+      "attributes": [
+        75,
+        59,
+        59,
+        63,
+        44,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 67375573,
+      "assetId": 266709
+    },
+    "67380003": {
+      "name": "Jacob Mendy",
+      "cardName": "Mendy",
+      "originalVersionId": "1",
+      "clubId": 112764,
+      "leagueId": 61,
+      "countryId": 116,
+      "versionId": "3000",
+      "rating": 62,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB"
+      ],
+      "playStyles": [
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6,
+        9,
+        10
+      ],
+      "attributes": [
+        85,
+        42,
+        53,
+        58,
+        54,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67380003,
+      "assetId": 271139
+    },
+    "67385302": {
+      "name": "Kamil Conteh",
+      "cardName": "Conteh",
+      "originalVersionId": "0",
+      "clubId": 112764,
+      "leagueId": 61,
+      "countryId": 138,
+      "versionId": "2000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18
+      ],
+      "attributes": [
+        71,
+        46,
+        56,
+        65,
+        57,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67385302,
+      "assetId": 276438
     },
     "83959239": {
       "name": "Ethon Archer",

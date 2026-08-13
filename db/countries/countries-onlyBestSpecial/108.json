@@ -265,7 +265,7 @@
       97
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 13250,
     "resourceId": 50562586,
     "assetId": 230938
   },
@@ -317,7 +317,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 44000,
+    "price": 45250,
     "resourceId": 50565378,
     "assetId": 233730
   },
@@ -366,7 +366,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 23000,
+    "price": 20750,
     "resourceId": 50568051,
     "assetId": 236403
   },
@@ -410,7 +410,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 60000,
+    "price": 53000,
     "resourceId": 50571237,
     "assetId": 239589
   },
@@ -447,7 +447,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 13500,
     "resourceId": 50578523,
     "assetId": 246875
   },
@@ -811,7 +811,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 60000,
+    "price": 34500,
     "resourceId": 67367308,
     "assetId": 258444
   },
@@ -980,56 +980,6 @@
     "resourceId": 83906369,
     "assetId": 20289
   },
-  "83917512": {
-    "name": "Didier Drogba",
-    "cardName": "Drogba",
-    "originalVersionId": "131",
-    "clubId": 112658,
-    "leagueId": 2118,
-    "countryId": 108,
-    "versionId": "131",
-    "rating": 94,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      11,
-      2,
-      22,
-      24,
-      25,
-      4,
-      9
-    ],
-    "playStylesPlus": [
-      21,
-      29,
-      6
-    ],
-    "rolesPlus": [
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      93,
-      96,
-      86,
-      91,
-      50,
-      94
-    ],
-    "hasDynamicImage": true,
-    "price": 20250,
-    "resourceId": 83917512,
-    "assetId": 31432
-  },
   "84112190": {
     "name": "Nicolas Pépé",
     "cardName": "Pépé",
@@ -1079,7 +1029,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 108000,
+    "price": 113000,
     "resourceId": 84112190,
     "assetId": 226110
   },
@@ -1241,9 +1191,78 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 19500,
+    "price": 15000,
     "resourceId": 84161288,
     "assetId": 275208
+  },
+  "100694728": {
+    "name": "Didier Drogba",
+    "cardName": "Drogba",
+    "originalVersionId": "139",
+    "clubId": 112658,
+    "leagueId": 2118,
+    "countryId": 108,
+    "versionId": "139",
+    "rating": 99,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [
+      11,
+      21,
+      22,
+      24,
+      25,
+      7,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      2,
+      29,
+      4,
+      6
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      96,
+      99,
+      92,
+      96,
+      60,
+      99
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100694728,
+    "assetId": 31432
   },
   "100879616": {
     "name": "Seko Fofana",
@@ -1412,7 +1431,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 470000,
+    "price": 350000,
     "resourceId": 134295740,
     "assetId": 78012
   }
