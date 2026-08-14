@@ -29,7 +29,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 4500,
     "resourceId": 72912,
     "assetId": 72912
   },
@@ -102,7 +102,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 4000,
     "resourceId": 79950,
     "assetId": 79950
   },
@@ -176,7 +176,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 7100,
+    "price": 10000,
     "resourceId": 211042,
     "assetId": 211042
   },
@@ -565,7 +565,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 4300,
+    "price": 9000,
     "resourceId": 255008,
     "assetId": 255008
   },
@@ -640,7 +640,7 @@
       44
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 3300,
     "resourceId": 258500,
     "assetId": 258500
   },
@@ -709,7 +709,7 @@
       72
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 8700,
     "resourceId": 258709,
     "assetId": 258709
   },
@@ -825,7 +825,7 @@
       44
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 350,
     "resourceId": 50590148,
     "assetId": 258500
   },
@@ -885,55 +885,6 @@
     "resourceId": 67113697,
     "assetId": 4833
   },
-  "67138974": {
-    "name": "Dimitar Berbatov",
-    "cardName": "Berbatov",
-    "originalVersionId": "77",
-    "clubId": 114605,
-    "leagueId": 13,
-    "countryId": 9,
-    "versionId": "77",
-    "rating": 91,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      11,
-      13,
-      20,
-      21,
-      5,
-      6,
-      7,
-      8
-    ],
-    "playStylesPlus": [
-      0,
-      22
-    ],
-    "rolesPlus": [
-      44,
-      141,
-      142,
-      143
-    ],
-    "attributes": [
-      90,
-      91,
-      87,
-      91,
-      38,
-      82
-    ],
-    "hasDynamicImage": true,
-    "price": 19750,
-    "resourceId": 67138974,
-    "assetId": 30110
-  },
   "67181776": {
     "name": "Rosen Bozhinov",
     "cardName": "Bozhinov",
@@ -968,57 +919,74 @@
     "resourceId": 67181776,
     "assetId": 72912
   },
-  "83916190": {
+  "100693406": {
     "name": "Dimitar Berbatov",
     "cardName": "Berbatov",
-    "originalVersionId": "58",
+    "originalVersionId": "154",
     "clubId": 114605,
     "leagueId": 13,
     "countryId": 9,
-    "versionId": "58",
-    "rating": 91,
+    "versionId": "154",
+    "rating": 97,
     "preferredFoot": "Right",
     "weakFoot": 4,
     "skillMoves": 5,
     "preferredPosition": "ST",
     "possiblePositions": [
       "CAM",
+      "LM",
+      "LW",
+      "RM",
       "ST"
     ],
     "playStyles": [
-      0,
-      11,
       13,
-      22,
-      25,
+      20,
+      21,
+      23,
+      3,
       7,
-      8
+      8,
+      9
     ],
     "playStylesPlus": [
-      20,
+      0,
+      22,
+      25,
       6
     ],
     "rolesPlus": [
-      31,
-      33,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
       132,
+      133,
       134,
+      138,
+      139,
+      140,
       141,
       142,
       143,
       144
     ],
     "attributes": [
-      91,
-      92,
-      90,
-      92,
-      39,
-      85
+      95,
+      98,
+      96,
+      99,
+      45,
+      92
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 12250,
-    "resourceId": 83916190,
+    "price": 0,
+    "resourceId": 100693406,
     "assetId": 30110
   }
 }

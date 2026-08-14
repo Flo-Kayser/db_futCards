@@ -34,7 +34,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 3100,
+      "price": 5400,
       "resourceId": 70490,
       "assetId": 70490
     },
@@ -69,7 +69,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 9900,
       "resourceId": 70592,
       "assetId": 70592
     },
@@ -148,7 +148,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 350,
       "resourceId": 71527,
       "assetId": 71527
     },
@@ -290,7 +290,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 3000,
       "resourceId": 267204,
       "assetId": 267204
     },
@@ -407,7 +407,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 1500,
       "resourceId": 267268,
       "assetId": 267268
     },
@@ -480,7 +480,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 5100,
       "resourceId": 267334,
       "assetId": 267334
     },
@@ -521,7 +521,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1900,
       "resourceId": 267336,
       "assetId": 267336
     },
@@ -564,7 +564,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 2200,
       "resourceId": 267339,
       "assetId": 267339
     },
@@ -753,7 +753,7 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 44250,
+      "price": 43000,
       "resourceId": 50558545,
       "assetId": 226897
     },
@@ -845,7 +845,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 20250,
+      "price": 22750,
       "resourceId": 50598924,
       "assetId": 267276
     },
@@ -900,7 +900,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 17000,
+      "price": 39750,
       "resourceId": 50598991,
       "assetId": 267343
     },
@@ -980,7 +980,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 13000,
+      "price": 14250,
       "resourceId": 50604784,
       "assetId": 273136
     },
@@ -1019,7 +1019,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 800,
       "resourceId": 50605027,
       "assetId": 273379
     },
@@ -1069,7 +1069,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 17250,
+      "price": 11000,
       "resourceId": 50605115,
       "assetId": 273467
     },
@@ -1164,7 +1164,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 49750,
+      "sbcPrice": 50500,
       "resourceId": 100890189,
       "assetId": 226893
     },
@@ -1219,50 +1219,63 @@
         99
       ],
       "hasDynamicImage": true,
-      "price": 549000,
+      "price": 520000,
       "resourceId": 100943095,
       "assetId": 279799
     },
-    "100943108": {
+    "134497540": {
       "name": "Croix Bethune",
       "cardName": "Bethune",
-      "originalVersionId": "30",
+      "originalVersionId": "16",
       "clubId": 116309,
       "leagueId": 2221,
       "countryId": 95,
-      "versionId": "30",
-      "rating": 89,
+      "versionId": "16",
+      "rating": 97,
       "preferredFoot": "Left",
       "weakFoot": 5,
       "skillMoves": 5,
       "preferredPosition": "CAM",
       "possiblePositions": [
         "CAM",
-        "CM"
+        "CM",
+        "LW",
+        "RW",
+        "ST"
       ],
       "playStyles": [],
       "playStylesPlus": [],
       "rolesPlus": [
-        18,
-        20,
-        34,
+        118,
+        119,
+        120,
         121,
         122,
         131,
         132,
-        133
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
-        88,
-        88,
-        90,
-        90,
-        75,
-        77
+        95,
+        96,
+        97,
+        97,
+        84,
+        85
       ],
-      "hasDynamicImage": false,
-      "price": 36250,
-      "resourceId": 100943108,
+      "hasDynamicImage": true,
+      "resourceId": 134497540,
       "assetId": 279812
     }
   }

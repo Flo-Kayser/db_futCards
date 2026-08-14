@@ -100,7 +100,7 @@
       52
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 77460,
     "assetId": 77460
   },
@@ -142,7 +142,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 70000,
+    "price": 69000,
     "resourceId": 156353,
     "assetId": 156353
   },
@@ -256,7 +256,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 233493,
     "assetId": 233493
   },
@@ -290,7 +290,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 5500,
+    "price": 3000,
     "resourceId": 235184,
     "assetId": 235184
   },
@@ -363,7 +363,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 235590,
     "assetId": 235590
   },
@@ -589,7 +589,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 247428,
     "assetId": 247428
   },
@@ -624,7 +624,7 @@
       61
     ],
     "hasDynamicImage": false,
-    "price": 3500,
+    "price": 10000,
     "resourceId": 248548,
     "assetId": 248548
   },
@@ -659,7 +659,7 @@
       38
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 256039,
     "assetId": 256039
   },
@@ -701,7 +701,7 @@
       60
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 5100,
     "resourceId": 256098,
     "assetId": 256098
   },
@@ -735,7 +735,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 4600,
     "resourceId": 257482,
     "assetId": 257482
   },
@@ -879,7 +879,7 @@
       38
     ],
     "hasDynamicImage": false,
-    "price": 5100,
+    "price": 200,
     "resourceId": 262209,
     "assetId": 262209
   },
@@ -951,7 +951,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 750,
+    "price": 400,
     "resourceId": 264863,
     "assetId": 264863
   },
@@ -1116,7 +1116,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 38000,
+    "price": 42000,
     "resourceId": 50411047,
     "assetId": 79399
   },
@@ -1203,54 +1203,6 @@
     "hasDynamicImage": true,
     "resourceId": 50497797,
     "assetId": 166149
-  },
-  "50553640": {
-    "name": "Hirving Lozano",
-    "cardName": "Lozano",
-    "originalVersionId": "91",
-    "clubId": 131439,
-    "leagueId": 39,
-    "countryId": 83,
-    "versionId": "91",
-    "rating": 88,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "RW"
-    ],
-    "playStyles": [
-      0,
-      12,
-      20,
-      25
-    ],
-    "playStylesPlus": [
-      21
-    ],
-    "rolesPlus": [
-      30,
-      36,
-      39,
-      129,
-      137,
-      140
-    ],
-    "attributes": [
-      94,
-      85,
-      81,
-      88,
-      51,
-      72
-    ],
-    "hasDynamicImage": true,
-    "price": 0,
-    "resourceId": 50553640,
-    "assetId": 221992
   },
   "50564908": {
     "name": "Alexis Vega",
@@ -1340,7 +1292,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 250,
     "resourceId": 50566832,
     "assetId": 235184
   },
@@ -1384,7 +1336,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 150000,
+    "price": 134000,
     "resourceId": 50572872,
     "assetId": 241224
   },
@@ -1535,7 +1487,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 12250,
     "resourceId": 50577937,
     "assetId": 246289
   },
@@ -1779,6 +1731,60 @@
     "resourceId": 67300558,
     "assetId": 191694
   },
+  "67330856": {
+    "name": "Hirving Lozano",
+    "cardName": "Lozano",
+    "originalVersionId": "16",
+    "clubId": 697,
+    "leagueId": 39,
+    "countryId": 83,
+    "versionId": "16",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      99,
+      94,
+      90,
+      97,
+      60,
+      85
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 67330856,
+    "assetId": 221992
+  },
   "67333438": {
     "name": "Orbelín Pineda",
     "cardName": "Pineda",
@@ -1880,7 +1886,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 14500,
     "resourceId": 67344708,
     "assetId": 235844
   },
@@ -1943,7 +1949,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 15250,
     "resourceId": 67345907,
     "assetId": 237043
   },
@@ -2034,7 +2040,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 196000,
+    "price": 210000,
     "resourceId": 84133758,
     "assetId": 247678
   },
@@ -2200,7 +2206,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 20250,
+    "price": 18250,
     "resourceId": 117675091,
     "assetId": 234579
   }

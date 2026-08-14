@@ -1,50 +1,58 @@
 {
   "clubName": "F.C. København",
   "players": {
-    "50572481": {
+    "67349697": {
       "name": "Youssoufa Moukoko",
       "cardName": "Moukoko",
-      "originalVersionId": "3",
+      "originalVersionId": "16",
       "clubId": 819,
       "leagueId": 1,
       "countryId": 21,
-      "versionId": "3",
-      "rating": 87,
+      "versionId": "16",
+      "rating": 96,
       "preferredFoot": "Left",
-      "weakFoot": 4,
+      "weakFoot": 5,
       "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RW",
         "ST"
       ],
-      "playStyles": [
-        0,
-        20,
-        21,
-        5,
-        7
-      ],
-      "playStylesPlus": [
-        22,
-        6
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
-        43,
-        44,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
         141,
-        142
+        142,
+        143,
+        144
       ],
       "attributes": [
+        95,
+        94,
         88,
-        85,
-        75,
-        91,
-        50,
-        80
+        97,
+        60,
+        90
       ],
       "hasDynamicImage": true,
-      "price": 48000,
-      "resourceId": 50572481,
+      "resourceId": 67349697,
       "assetId": 240833
     }
   }

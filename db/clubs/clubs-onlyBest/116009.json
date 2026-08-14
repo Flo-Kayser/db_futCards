@@ -173,7 +173,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 350,
       "resourceId": 244064,
       "assetId": 244064
     },
@@ -210,7 +210,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 2100,
       "resourceId": 258680,
       "assetId": 258680
     },
@@ -366,7 +366,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 5500,
+      "price": 1900,
       "resourceId": 266949,
       "assetId": 266949
     },
@@ -437,7 +437,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 276298,
       "assetId": 276298
     },
@@ -611,7 +611,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 42500,
+      "price": 66500,
       "resourceId": 50558767,
       "assetId": 227119
     },
@@ -708,7 +708,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 20000,
       "resourceId": 50571409,
       "assetId": 239761
     },
@@ -752,7 +752,7 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 17500,
+      "price": 39500,
       "resourceId": 50577520,
       "assetId": 245872
     },
@@ -1124,7 +1124,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 18500,
+      "price": 30750,
       "resourceId": 67365865,
       "assetId": 257001
     },
@@ -1274,7 +1274,7 @@
         90
       ],
       "hasDynamicImage": false,
-      "price": 24000,
+      "price": 23500,
       "resourceId": 67385163,
       "assetId": 276299
     },
@@ -1395,7 +1395,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 16250,
       "resourceId": 84151319,
       "assetId": 265239
     },
@@ -1545,7 +1545,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 14500,
       "resourceId": 100900584,
       "assetId": 237288
     },
@@ -1626,7 +1626,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 850,
       "resourceId": 117705537,
       "assetId": 265025
     },
@@ -1739,50 +1739,66 @@
         91
       ],
       "hasDynamicImage": false,
-      "price": 34000,
+      "price": 38000,
       "resourceId": 151238348,
       "assetId": 243404
     },
-    "151248380": {
+    "168025596": {
       "name": "Ona Batlle",
       "cardName": "Ona Batlle",
-      "originalVersionId": "1",
+      "originalVersionId": "16",
       "clubId": 116009,
       "leagueId": 2216,
       "countryId": 45,
-      "versionId": "3002",
-      "rating": 86,
+      "versionId": "16",
+      "rating": 97,
       "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
+      "weakFoot": 5,
+      "skillMoves": 5,
       "preferredPosition": "RB",
       "possiblePositions": [
         "LB",
+        "LM",
         "RB",
-        "RM"
+        "RM",
+        "RW"
       ],
-      "playStyles": [
-        12,
-        14,
-        21,
-        26
-      ],
+      "playStyles": [],
       "playStylesPlus": [],
       "rolesPlus": [
+        103,
+        104,
+        105,
         106,
-        110
+        107,
+        108,
+        109,
+        110,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        146,
+        147
       ],
       "attributes": [
-        80,
-        54,
-        79,
-        79,
-        81,
-        72
+        98,
+        93,
+        95,
+        95,
+        94,
+        90
       ],
       "hasDynamicImage": false,
       "price": 0,
-      "resourceId": 151248380,
+      "resourceId": 168025596,
       "assetId": 253436
     }
   }

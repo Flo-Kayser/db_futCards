@@ -36,7 +36,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 47500,
+    "price": 45000,
     "resourceId": 50538213,
     "assetId": 206565
   },
@@ -82,7 +82,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 241000,
+    "price": 390000,
     "resourceId": 50542741,
     "assetId": 211093
   },
@@ -138,7 +138,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 55000,
+    "price": 87500,
     "resourceId": 50545532,
     "assetId": 213884
   },
@@ -237,7 +237,7 @@
       89
     ],
     "hasDynamicImage": false,
-    "price": 60500,
+    "price": 55000,
     "resourceId": 50556851,
     "assetId": 225203
   },
@@ -326,7 +326,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 76000,
+    "price": 36250,
     "resourceId": 50557741,
     "assetId": 226093
   },
@@ -367,7 +367,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 39750,
+    "price": 38000,
     "resourceId": 50559593,
     "assetId": 227945
   },
@@ -417,7 +417,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 15250,
     "resourceId": 50565250,
     "assetId": 233602
   },
@@ -461,7 +461,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 17500,
+    "price": 39500,
     "resourceId": 50577520,
     "assetId": 245872
   },
@@ -510,7 +510,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 23500,
+    "price": 19250,
     "resourceId": 50577539,
     "assetId": 245891
   },
@@ -715,7 +715,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 15750,
     "resourceId": 50598463,
     "assetId": 266815
   },
@@ -764,7 +764,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 48750,
+    "price": 42500,
     "resourceId": 50606284,
     "assetId": 274636
   },
@@ -913,7 +913,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 79000,
+    "price": 68500,
     "resourceId": 67319745,
     "assetId": 210881
   },
@@ -962,7 +962,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 38750,
+    "price": 38250,
     "resourceId": 67330909,
     "assetId": 222045
   },
@@ -1079,7 +1079,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 16750,
     "resourceId": 67351144,
     "assetId": 242280
   },
@@ -1191,27 +1191,33 @@
     "resourceId": 100879563,
     "assetId": 216267
   },
-  "100889787": {
+  "117667003": {
     "name": "Kieran Tierney",
     "cardName": "Tierney",
-    "originalVersionId": "109",
+    "originalVersionId": "16",
     "clubId": 78,
     "leagueId": 50,
     "countryId": 42,
-    "versionId": "109",
-    "rating": 96,
+    "versionId": "16",
+    "rating": 97,
     "preferredFoot": "Left",
-    "weakFoot": 4,
+    "weakFoot": 5,
     "skillMoves": 4,
-    "preferredPosition": "CB",
+    "preferredPosition": "LB",
     "possiblePositions": [
       "CB",
       "LB",
-      "LM"
+      "LM",
+      "RB",
+      "RM"
     ],
     "playStyles": [],
     "playStylesPlus": [],
     "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
       107,
       108,
       109,
@@ -1219,24 +1225,28 @@
       111,
       112,
       113,
+      123,
+      124,
+      125,
+      126,
       127,
       128,
       129,
       130,
+      146,
       147,
       148
     ],
     "attributes": [
-      96,
-      92,
-      96,
+      97,
       93,
-      95,
-      94
+      97,
+      94,
+      96,
+      96
     ],
     "hasDynamicImage": true,
-    "price": 45500,
-    "resourceId": 100889787,
+    "resourceId": 117667003,
     "assetId": 226491
   },
   "117677750": {
@@ -1296,7 +1306,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 323000,
+    "price": 208000,
     "resourceId": 117677750,
     "assetId": 237238
   },
@@ -1355,7 +1365,7 @@
       88
     ],
     "hasDynamicImage": false,
-    "price": 80000,
+    "price": 119000,
     "resourceId": 134463607,
     "assetId": 245879
   }

@@ -388,7 +388,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 54000,
+      "price": 65000,
       "resourceId": 67333964,
       "assetId": 225100
     },
@@ -448,55 +448,65 @@
       "resourceId": 67344669,
       "assetId": 235805
     },
-    "84119811": {
-      "name": "Alexander Isak",
-      "cardName": "Isak",
-      "originalVersionId": "107",
+    "67387767": {
+      "name": "Jérémy Jacquet",
+      "cardName": "Jacquet",
+      "originalVersionId": "16",
       "clubId": 9,
       "leagueId": 13,
-      "countryId": 46,
-      "versionId": "107",
+      "countryId": 18,
+      "versionId": "16",
       "rating": 97,
       "preferredFoot": "Right",
       "weakFoot": 5,
       "skillMoves": 4,
-      "preferredPosition": "ST",
+      "preferredPosition": "CB",
       "possiblePositions": [
-        "ST"
+        "CB",
+        "CDM",
+        "CM",
+        "LB",
+        "RB"
       ],
-      "playStyles": [
-        1,
-        11,
-        2,
-        20,
-        22,
-        24,
-        7
-      ],
-      "playStylesPlus": [
-        0,
-        21,
-        6,
-        8
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
-        141,
-        142,
-        143,
-        144
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        146,
+        147,
+        148,
+        149
       ],
       "attributes": [
-        97,
-        97,
         93,
-        97,
-        48,
-        95
+        54,
+        88,
+        88,
+        99,
+        96
       ],
-      "hasDynamicImage": true,
-      "price": 398000,
-      "resourceId": 84119811,
-      "assetId": 233731
+      "hasDynamicImage": false,
+      "resourceId": 67387767,
+      "assetId": 278903
     },
     "84125917": {
       "name": "Alexis Mac Allister",
@@ -674,9 +684,63 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 384000,
+      "price": 409000,
       "resourceId": 84139229,
       "assetId": 253149
+    },
+    "100897027": {
+      "name": "Alexander Isak",
+      "cardName": "Isak",
+      "originalVersionId": "16",
+      "clubId": 9,
+      "leagueId": 13,
+      "countryId": 46,
+      "versionId": "16",
+      "rating": 98,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "attributes": [
+        98,
+        98,
+        95,
+        98,
+        50,
+        96
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 100897027,
+      "assetId": 233731
     },
     "100900068": {
       "name": "Dominik Szoboszlai",
@@ -746,7 +810,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 143000,
+      "price": 175000,
       "resourceId": 100900068,
       "assetId": 236772
     },
@@ -844,7 +908,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 55000,
+      "price": 86500,
       "resourceId": 117686616,
       "assetId": 246104
     },
@@ -902,7 +966,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 1666000,
+      "price": 1743000,
       "resourceId": 134474358,
       "assetId": 256630
     },
@@ -957,7 +1021,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 480000,
+      "price": 425000,
       "resourceId": 151252233,
       "assetId": 257289
     },
@@ -1012,7 +1076,7 @@
         97
       ],
       "hasDynamicImage": true,
-      "price": 3400000,
+      "price": 3161000,
       "resourceId": 167975536,
       "assetId": 203376
     }

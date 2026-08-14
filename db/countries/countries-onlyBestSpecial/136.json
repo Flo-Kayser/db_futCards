@@ -357,7 +357,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 11750,
+    "price": 12500,
     "resourceId": 67324649,
     "assetId": 215785
   },
@@ -421,7 +421,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 44000,
+    "price": 93000,
     "resourceId": 67344217,
     "assetId": 235353
   },
@@ -470,7 +470,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 14000,
+    "price": 14250,
     "resourceId": 67359722,
     "assetId": 250858
   },
@@ -524,7 +524,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 13500,
+    "price": 14500,
     "resourceId": 67370052,
     "assetId": 261188
   },
@@ -580,7 +580,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 23500,
+    "price": 18250,
     "resourceId": 67383779,
     "assetId": 274915
   },
@@ -633,107 +633,6 @@
     "resourceId": 67385497,
     "assetId": 276633
   },
-  "84087104": {
-    "name": "Kalidou Koulibaly",
-    "cardName": "Koulibaly",
-    "originalVersionId": "109",
-    "clubId": 605,
-    "leagueId": 350,
-    "countryId": 136,
-    "versionId": "109",
-    "rating": 95,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 3,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      111,
-      112,
-      113,
-      148
-    ],
-    "attributes": [
-      91,
-      62,
-      84,
-      87,
-      95,
-      96
-    ],
-    "hasDynamicImage": true,
-    "price": 13500,
-    "resourceId": 84087104,
-    "assetId": 201024
-  },
-  "84094802": {
-    "name": "Sadio Mané",
-    "cardName": "Mané",
-    "originalVersionId": "107",
-    "clubId": 112139,
-    "leagueId": 350,
-    "countryId": 136,
-    "versionId": "107",
-    "rating": 95,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "RM",
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      19,
-      22,
-      24,
-      25,
-      7,
-      8,
-      9
-    ],
-    "playStylesPlus": [
-      20,
-      21,
-      6
-    ],
-    "rolesPlus": [
-      123,
-      124,
-      125,
-      126,
-      127,
-      128,
-      129,
-      130,
-      138,
-      139,
-      140,
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      96,
-      95,
-      89,
-      96,
-      56,
-      89
-    ],
-    "hasDynamicImage": true,
-    "price": 0,
-    "resourceId": 84094802,
-    "assetId": 208722
-  },
   "84127787": {
     "name": "Pape Gueye",
     "cardName": "Gueye",
@@ -776,7 +675,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 80000,
+    "price": 110000,
     "resourceId": 84127787,
     "assetId": 241707
   },
@@ -817,5 +716,119 @@
     "price": 0,
     "resourceId": 84145277,
     "assetId": 259197
+  },
+  "100864320": {
+    "name": "Kalidou Koulibaly",
+    "cardName": "Koulibaly",
+    "originalVersionId": "16",
+    "clubId": 605,
+    "leagueId": 350,
+    "countryId": 136,
+    "versionId": "16",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM",
+      "LB",
+      "RB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      146,
+      147,
+      148,
+      149
+    ],
+    "attributes": [
+      93,
+      70,
+      90,
+      91,
+      97,
+      98
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 100864320,
+    "assetId": 201024
+  },
+  "100872018": {
+    "name": "Sadio Mané",
+    "cardName": "Mané",
+    "originalVersionId": "16",
+    "clubId": 112139,
+    "leagueId": 350,
+    "countryId": 136,
+    "versionId": "16",
+    "rating": 98,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      98,
+      97,
+      92,
+      98,
+      60,
+      92
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 100872018,
+    "assetId": 208722
   }
 }

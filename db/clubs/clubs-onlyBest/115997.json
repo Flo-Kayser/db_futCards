@@ -139,7 +139,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 700,
       "resourceId": 226979,
       "assetId": 226979
     },
@@ -323,7 +323,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 2800,
       "resourceId": 265035,
       "assetId": 265035
     },
@@ -361,7 +361,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 700,
       "resourceId": 265053,
       "assetId": 265053
     },
@@ -575,7 +575,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 350,
       "resourceId": 275523,
       "assetId": 275523
     },
@@ -644,7 +644,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 1000,
       "resourceId": 275904,
       "assetId": 275904
     },
@@ -679,7 +679,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 277041,
       "assetId": 277041
     },
@@ -719,7 +719,7 @@
         82
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 750,
       "resourceId": 50570118,
       "assetId": 238470
     },
@@ -932,7 +932,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 16250,
+      "price": 25250,
       "resourceId": 50596573,
       "assetId": 264925
     },
@@ -983,60 +983,9 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 175000,
+      "price": 176000,
       "resourceId": 50596595,
       "assetId": 264947
-    },
-    "50596706": {
-      "name": "Erëleta Memeti",
-      "cardName": "Memeti",
-      "originalVersionId": "117",
-      "clubId": 115997,
-      "leagueId": 2215,
-      "countryId": 219,
-      "versionId": "117",
-      "rating": 85,
-      "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 5,
-      "preferredPosition": "RM",
-      "possiblePositions": [
-        "CM",
-        "LM",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        0,
-        20,
-        25,
-        7,
-        8
-      ],
-      "playStylesPlus": [
-        12
-      ],
-      "rolesPlus": [
-        21,
-        24,
-        28,
-        122,
-        126,
-        130,
-        136
-      ],
-      "attributes": [
-        89,
-        80,
-        83,
-        86,
-        57,
-        70
-      ],
-      "hasDynamicImage": true,
-      "price": 80000,
-      "resourceId": 50596706,
-      "assetId": 265058
     },
     "50609463": {
       "name": "Danique Tolhoek",
@@ -1117,9 +1066,64 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 30000,
+      "price": 20000,
       "resourceId": 67336001,
       "assetId": 227137
+    },
+    "67373922": {
+      "name": "Erëleta Memeti",
+      "cardName": "Memeti",
+      "originalVersionId": "16",
+      "clubId": 115997,
+      "leagueId": 2215,
+      "countryId": 219,
+      "versionId": "16",
+      "rating": 95,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        97,
+        90,
+        93,
+        96,
+        70,
+        80
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 67373922,
+      "assetId": 265058
     },
     "84151016": {
       "name": "Géraldine Reuteler",
@@ -1236,7 +1240,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 14500,
       "resourceId": 84151201,
       "assetId": 265121
     },

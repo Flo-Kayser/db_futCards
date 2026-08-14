@@ -101,7 +101,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 6900,
+      "price": 7500,
       "resourceId": 77631,
       "assetId": 77631
     },
@@ -169,7 +169,7 @@
         42
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 80067,
       "assetId": 80067
     },
@@ -286,7 +286,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1400,
       "resourceId": 210372,
       "assetId": 210372
     },
@@ -512,7 +512,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 256420,
       "assetId": 256420
     },
@@ -689,7 +689,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 1200,
       "resourceId": 276747,
       "assetId": 276747
     },
@@ -759,7 +759,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 300,
       "resourceId": 50402818,
       "assetId": 71170
     },
@@ -834,7 +834,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 5000,
       "resourceId": 50551741,
       "assetId": 220093
     },
@@ -919,7 +919,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 950,
       "resourceId": 50564915,
       "assetId": 233267
     },
@@ -1098,7 +1098,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 700,
       "resourceId": 50595973,
       "assetId": 264325
     },
@@ -1188,7 +1188,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 950,
       "resourceId": 50607836,
       "assetId": 276188
     },
@@ -1234,70 +1234,9 @@
         73
       ],
       "hasDynamicImage": true,
-      "price": 40750,
+      "price": 43000,
       "resourceId": 50608549,
       "assetId": 276901
-    },
-    "67328547": {
-      "name": "Corentin Tolisso",
-      "cardName": "Tolisso",
-      "originalVersionId": "11",
-      "clubId": 66,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "11",
-      "rating": 92,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        10,
-        14,
-        20,
-        22,
-        25,
-        26,
-        8
-      ],
-      "playStylesPlus": [
-        16,
-        24,
-        6
-      ],
-      "rolesPlus": [
-        15,
-        17,
-        32,
-        33,
-        49,
-        114,
-        116,
-        118,
-        119,
-        120,
-        121,
-        122,
-        131,
-        134
-      ],
-      "attributes": [
-        90,
-        91,
-        91,
-        90,
-        90,
-        92
-      ],
-      "hasDynamicImage": true,
-      "price": 12250,
-      "resourceId": 67328547,
-      "assetId": 219683
     },
     "67334127": {
       "name": "Duje Ćaleta-Car",
@@ -1383,7 +1322,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 65000,
+      "price": 46000,
       "resourceId": 67349566,
       "assetId": 240702
     },
@@ -1444,7 +1383,7 @@
         97
       ],
       "hasDynamicImage": true,
-      "sbcPrice": 30250,
+      "sbcPrice": 25250,
       "price": 0,
       "resourceId": 67370966,
       "assetId": 262102
@@ -1487,7 +1426,7 @@
         81
       ],
       "hasDynamicImage": true,
-      "price": 32500,
+      "price": 33500,
       "resourceId": 67374323,
       "assetId": 265459
     },
@@ -1549,6 +1488,64 @@
       "resourceId": 84097336,
       "assetId": 211256
     },
+    "84105763": {
+      "name": "Corentin Tolisso",
+      "cardName": "Tolisso",
+      "originalVersionId": "16",
+      "clubId": 66,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        149
+      ],
+      "attributes": [
+        94,
+        95,
+        96,
+        94,
+        94,
+        96
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 84105763,
+      "assetId": 219683
+    },
     "84129660": {
       "name": "Loïs Openda",
       "cardName": "Openda",
@@ -1600,7 +1597,7 @@
         94
       ],
       "hasDynamicImage": false,
-      "price": 120000,
+      "price": 132000,
       "resourceId": 84129660,
       "assetId": 243580
     },
@@ -1666,7 +1663,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 14000,
+      "price": 21250,
       "resourceId": 84133130,
       "assetId": 247050
     },
@@ -1721,7 +1718,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 11750,
+      "price": 12500,
       "resourceId": 100925401,
       "assetId": 262105
     },
@@ -1774,7 +1771,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 12250,
+      "price": 13500,
       "resourceId": 134490233,
       "assetId": 272505
     }

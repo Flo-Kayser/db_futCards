@@ -1,4 +1,76 @@
 {
+  "67148250": {
+    "name": "DaMarcus Beasley",
+    "cardName": "Beasley",
+    "originalVersionId": "154",
+    "clubId": 114605,
+    "leagueId": 39,
+    "countryId": 95,
+    "versionId": "154",
+    "rating": 96,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CDM",
+      "CM",
+      "LB",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [
+      12,
+      14,
+      16,
+      24,
+      26,
+      28,
+      6,
+      8
+    ],
+    "playStylesPlus": [
+      20,
+      21,
+      25,
+      9
+    ],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      147,
+      149
+    ],
+    "attributes": [
+      99,
+      91,
+      95,
+      97,
+      90,
+      90
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 67148250,
+    "assetId": 39386
+  },
   "67300836": {
     "name": "David Ginola",
     "cardName": "Ginola",
@@ -65,7 +137,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 750000,
+    "price": 700000,
     "resourceId": 67300836,
     "assetId": 191972
   },
@@ -139,7 +211,7 @@
       99
     ],
     "hasDynamicImage": true,
-    "price": 95500,
+    "price": 130000,
     "resourceId": 83891547,
     "assetId": 5467
   },
@@ -350,7 +422,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 152000,
+    "price": 193000,
     "resourceId": 83967724,
     "assetId": 81644
   },
@@ -419,7 +491,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 373500,
+    "sbcPrice": 356250,
     "price": 0,
     "resourceId": 84006354,
     "assetId": 120274
@@ -495,9 +567,80 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 40000,
+    "price": 37000,
     "resourceId": 84055801,
     "assetId": 169721
+  },
+  "84113341": {
+    "name": "Alex Scott",
+    "cardName": "Scott",
+    "originalVersionId": "154",
+    "clubId": 114605,
+    "leagueId": 2216,
+    "countryId": 14,
+    "versionId": "154",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [
+      10,
+      12,
+      16,
+      20,
+      22,
+      25,
+      26,
+      9
+    ],
+    "playStylesPlus": [
+      14,
+      17,
+      21,
+      28
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      146,
+      147
+    ],
+    "attributes": [
+      97,
+      88,
+      94,
+      92,
+      99,
+      95
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 84113341,
+    "assetId": 227261
   },
   "84152770": {
     "name": "Lúcio",
@@ -617,7 +760,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 37250,
+    "price": 47500,
     "resourceId": 84161172,
     "assetId": 275092
   },
@@ -690,6 +833,76 @@
     "resourceId": 100684071,
     "assetId": 20775
   },
+  "100693406": {
+    "name": "Dimitar Berbatov",
+    "cardName": "Berbatov",
+    "originalVersionId": "154",
+    "clubId": 114605,
+    "leagueId": 13,
+    "countryId": 9,
+    "versionId": "154",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "RM",
+      "ST"
+    ],
+    "playStyles": [
+      13,
+      20,
+      21,
+      23,
+      3,
+      7,
+      8,
+      9
+    ],
+    "playStylesPlus": [
+      0,
+      22,
+      25,
+      6
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      95,
+      98,
+      96,
+      99,
+      45,
+      92
+    ],
+    "hasDynamicImage": true,
+    "price": 0,
+    "resourceId": 100693406,
+    "assetId": 30110
+  },
   "100710686": {
     "name": "Gilberto Silva",
     "cardName": "Gilberto Silva",
@@ -761,7 +974,7 @@
       97
     ],
     "hasDynamicImage": true,
-    "price": 95000,
+    "price": 100000,
     "resourceId": 100710686,
     "assetId": 47390
   },
@@ -834,7 +1047,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 77500,
+    "price": 90000,
     "resourceId": 100835173,
     "assetId": 171877
   },
@@ -903,7 +1116,7 @@
       96
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 92250,
+    "sbcPrice": 94000,
     "price": 0,
     "resourceId": 100929990,
     "assetId": 266694
@@ -977,7 +1190,7 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 350000,
+    "price": 390000,
     "resourceId": 117493814,
     "assetId": 53302
   },
