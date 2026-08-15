@@ -66,7 +66,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 4000,
       "resourceId": 79922,
       "assetId": 79922
     },
@@ -105,7 +105,7 @@
         90
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 4100,
       "resourceId": 212831,
       "assetId": 212831
     },
@@ -296,7 +296,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 200,
       "resourceId": 247601,
       "assetId": 247601
     },
@@ -369,7 +369,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 750,
       "resourceId": 262621,
       "assetId": 262621
     },
@@ -479,7 +479,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 200,
       "resourceId": 50402642,
       "assetId": 70994
     },
@@ -602,7 +602,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 50585076,
       "assetId": 253428
     },
@@ -745,7 +745,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 9700,
       "resourceId": 50595947,
       "assetId": 264299
     },
@@ -1011,7 +1011,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 56000,
+      "price": 49500,
       "resourceId": 67333964,
       "assetId": 225100
     },
@@ -1308,7 +1308,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 370000,
+      "price": 406000,
       "resourceId": 84139229,
       "assetId": 253149
     },
@@ -1363,7 +1363,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 1760000,
+      "price": 2200000,
       "resourceId": 100897027,
       "assetId": 233731
     },
@@ -1435,7 +1435,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 175000,
+      "price": 140000,
       "resourceId": 100900068,
       "assetId": 236772
     },
@@ -1493,26 +1493,32 @@
       "resourceId": 117649843,
       "assetId": 209331
     },
-    "117686616": {
+    "134463832": {
       "name": "Ryan Gravenberch",
       "cardName": "Gravenberch",
-      "originalVersionId": "109",
+      "originalVersionId": "16",
       "clubId": 9,
       "leagueId": 13,
       "countryId": 34,
-      "versionId": "109",
-      "rating": 96,
+      "versionId": "16",
+      "rating": 98,
       "preferredFoot": "Right",
       "weakFoot": 5,
-      "skillMoves": 4,
+      "skillMoves": 5,
       "preferredPosition": "CDM",
       "possiblePositions": [
+        "CAM",
+        "CB",
         "CDM",
-        "CM"
+        "CM",
+        "ST"
       ],
       "playStyles": [],
       "playStylesPlus": [],
       "rolesPlus": [
+        111,
+        112,
+        113,
         114,
         115,
         116,
@@ -1522,19 +1528,28 @@
         120,
         121,
         122,
+        131,
+        132,
+        133,
+        134,
+        141,
+        142,
+        143,
+        144,
+        148,
         149
       ],
       "attributes": [
-        91,
-        88,
-        94,
-        96,
-        95,
-        94
+        93,
+        92,
+        97,
+        98,
+        98,
+        96
       ],
       "hasDynamicImage": true,
-      "price": 86500,
-      "resourceId": 117686616,
+      "sbcPrice": 327000,
+      "resourceId": 134463832,
       "assetId": 246104
     },
     "134474358": {
@@ -1591,7 +1606,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 1500000,
+      "price": 1647000,
       "resourceId": 134474358,
       "assetId": 256630
     },
@@ -1646,7 +1661,7 @@
         89
       ],
       "hasDynamicImage": true,
-      "price": 425000,
+      "price": 385000,
       "resourceId": 151252233,
       "assetId": 257289
     },
@@ -1701,7 +1716,7 @@
         97
       ],
       "hasDynamicImage": true,
-      "price": 3110000,
+      "price": 3841000,
       "resourceId": 167975536,
       "assetId": 203376
     }
