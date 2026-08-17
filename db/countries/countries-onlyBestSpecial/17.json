@@ -83,51 +83,6 @@
     "resourceId": 50407038,
     "assetId": 75390
   },
-  "50522010": {
-    "name": "Teemu Pukki",
-    "cardName": "Pukki",
-    "originalVersionId": "108",
-    "clubId": 100325,
-    "leagueId": 322,
-    "countryId": 17,
-    "versionId": "108",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "ST",
-    "possiblePositions": [
-      "ST"
-    ],
-    "playStyles": [
-      0,
-      2,
-      25,
-      29,
-      9
-    ],
-    "playStylesPlus": [
-      6
-    ],
-    "rolesPlus": [
-      43,
-      44,
-      141,
-      142
-    ],
-    "attributes": [
-      88,
-      88,
-      80,
-      84,
-      51,
-      86
-    ],
-    "hasDynamicImage": true,
-    "price": 0,
-    "resourceId": 50522010,
-    "assetId": 190362
-  },
   "50522589": {
     "name": "Lukáš Hrádecký",
     "cardName": "Hrádecký",
@@ -163,7 +118,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 44500,
+    "price": 69500,
     "resourceId": 50522589,
     "assetId": 190941
   },
@@ -209,6 +164,61 @@
     "price": 30000,
     "resourceId": 50594991,
     "assetId": 263343
+  },
+  "67299226": {
+    "name": "Teemu Pukki",
+    "cardName": "Pukki",
+    "originalVersionId": "16",
+    "clubId": 100325,
+    "leagueId": 322,
+    "countryId": 17,
+    "versionId": "16",
+    "rating": 96,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      95,
+      97,
+      90,
+      94,
+      60,
+      95
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 63750,
+    "resourceId": 67299226,
+    "assetId": 190362
   },
   "67329029": {
     "name": "Joel Pohjanpalo",

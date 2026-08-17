@@ -1,49 +1,59 @@
 {
   "clubName": "HJK Helsinki",
   "players": {
-    "50522010": {
+    "67299226": {
       "name": "Teemu Pukki",
       "cardName": "Pukki",
-      "originalVersionId": "108",
+      "originalVersionId": "16",
       "clubId": 100325,
       "leagueId": 322,
       "countryId": 17,
-      "versionId": "108",
-      "rating": 86,
+      "versionId": "16",
+      "rating": 96,
       "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
+      "weakFoot": 5,
+      "skillMoves": 4,
       "preferredPosition": "ST",
       "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "RW",
         "ST"
       ],
-      "playStyles": [
-        0,
-        2,
-        25,
-        29,
-        9
-      ],
-      "playStylesPlus": [
-        6
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
-        43,
-        44,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
         141,
-        142
+        142,
+        143,
+        144
       ],
       "attributes": [
-        88,
-        88,
-        80,
-        84,
-        51,
-        86
+        95,
+        97,
+        90,
+        94,
+        60,
+        95
       ],
       "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 50522010,
+      "sbcPrice": 63750,
+      "resourceId": 67299226,
       "assetId": 190362
     }
   }

@@ -34,7 +34,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 70725,
       "assetId": 70725
     },
@@ -70,7 +70,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 73356,
       "assetId": 73356
     },
@@ -109,7 +109,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 74409,
       "assetId": 74409
     },
@@ -251,7 +251,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 250,
       "resourceId": 193091,
       "assetId": 193091
     },
@@ -289,7 +289,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 450,
       "resourceId": 199386,
       "assetId": 199386
     },
@@ -365,7 +365,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 3000,
       "resourceId": 205995,
       "assetId": 205995
     },
@@ -482,7 +482,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 232829,
       "assetId": 232829
     },
@@ -605,7 +605,7 @@
         49
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 1200,
       "resourceId": 245894,
       "assetId": 245894
     },
@@ -641,7 +641,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 200,
       "resourceId": 253211,
       "assetId": 253211
     },
@@ -715,7 +715,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1000,
       "resourceId": 262334,
       "assetId": 262334
     },
@@ -749,7 +749,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 2900,
+      "price": 3000,
       "resourceId": 265747,
       "assetId": 265747
     },
@@ -839,7 +839,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 34750,
+      "price": 35000,
       "resourceId": 50405003,
       "assetId": 73355
     },
@@ -880,7 +880,7 @@
         75
       ],
       "hasDynamicImage": true,
-      "price": 68000,
+      "price": 62000,
       "resourceId": 50406527,
       "assetId": 74879
     },
@@ -972,7 +972,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 37500,
+      "price": 37250,
       "resourceId": 50535708,
       "assetId": 204060
     },
@@ -1009,51 +1009,9 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 4300,
+      "price": 200,
       "resourceId": 50562798,
       "assetId": 231150
-    },
-    "50562888": {
-      "name": "Emre Mor",
-      "cardName": "Mor",
-      "originalVersionId": "1",
-      "clubId": 1910,
-      "leagueId": 10,
-      "countryId": 48,
-      "versionId": "3001",
-      "rating": 73,
-      "preferredFoot": "Left",
-      "weakFoot": 2,
-      "skillMoves": 4,
-      "preferredPosition": "RW",
-      "possiblePositions": [
-        "CAM",
-        "RM",
-        "RW"
-      ],
-      "playStyles": [
-        20,
-        7
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        23,
-        25,
-        33,
-        37
-      ],
-      "attributes": [
-        85,
-        67,
-        66,
-        80,
-        38,
-        56
-      ],
-      "hasDynamicImage": false,
-      "price": 400,
-      "resourceId": 50562888,
-      "assetId": 231240
     },
     "50571026": {
       "name": "Kaj Sierhuis",
@@ -1085,7 +1043,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 200,
       "resourceId": 50571026,
       "assetId": 239378
     },
@@ -1122,7 +1080,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 8600,
       "resourceId": 50571529,
       "assetId": 239881
     },
@@ -1214,7 +1172,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 19250,
       "resourceId": 50594228,
       "assetId": 262580
     },
@@ -1315,9 +1273,64 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 18000,
+      "price": 18250,
       "resourceId": 50609457,
       "assetId": 277809
+    },
+    "67340104": {
+      "name": "Emre Mor",
+      "cardName": "Mor",
+      "originalVersionId": "16",
+      "clubId": 1910,
+      "leagueId": 10,
+      "countryId": 48,
+      "versionId": "16",
+      "rating": 96,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        97,
+        94,
+        93,
+        96,
+        65,
+        80
+      ],
+      "hasDynamicImage": false,
+      "sbcPrice": 21250,
+      "resourceId": 67340104,
+      "assetId": 231240
     },
     "67373592": {
       "name": "Ahmetcan Kaplan",
@@ -1363,7 +1376,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 26250,
+      "price": 27500,
       "resourceId": 67373592,
       "assetId": 264728
     },
@@ -1462,7 +1475,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 650,
+      "price": 200,
       "resourceId": 67387223,
       "assetId": 278359
     }
