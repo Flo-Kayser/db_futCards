@@ -108,7 +108,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 1000,
       "resourceId": 211009,
       "assetId": 211009
     },
@@ -223,7 +223,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 229682,
       "assetId": 229682
     },
@@ -333,7 +333,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 233487,
       "assetId": 233487
     },
@@ -371,7 +371,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 2000,
       "resourceId": 236315,
       "assetId": 236315
     },
@@ -603,7 +603,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 251176,
       "assetId": 251176
     },
@@ -729,7 +729,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 7100,
       "resourceId": 253054,
       "assetId": 253054
     },
@@ -846,7 +846,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 260402,
       "assetId": 260402
     },
@@ -998,7 +998,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 6500,
       "resourceId": 268737,
       "assetId": 268737
     },
@@ -1195,7 +1195,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 400,
       "resourceId": 50548112,
       "assetId": 216464
     },
@@ -1230,7 +1230,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1400,
       "resourceId": 50550307,
       "assetId": 218659
     },
@@ -1267,7 +1267,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 200,
       "resourceId": 50552592,
       "assetId": 220944
     },
@@ -1384,7 +1384,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1400,
+      "price": 3400,
       "resourceId": 50575267,
       "assetId": 243619
     },
@@ -1511,7 +1511,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 300,
       "resourceId": 50586400,
       "assetId": 254752
     },
@@ -1640,7 +1640,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 8900,
       "resourceId": 50592490,
       "assetId": 260842
     },
@@ -1752,7 +1752,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 50611194,
       "assetId": 279546
     },
@@ -1799,7 +1799,7 @@
         87
       ],
       "hasDynamicImage": true,
-      "price": 59000,
+      "price": 34000,
       "resourceId": 67325328,
       "assetId": 216464
     },
@@ -1901,6 +1901,122 @@
       "price": 200,
       "resourceId": 67372386,
       "assetId": 263522
+    },
+    "67378558": {
+      "name": "Radek Vitek",
+      "cardName": "Vitek",
+      "originalVersionId": "1",
+      "clubId": 12,
+      "leagueId": 14,
+      "countryId": 12,
+      "versionId": "3001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        32
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        70,
+        68,
+        65,
+        73,
+        46,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 67378558,
+      "assetId": 269694
+    },
+    "84160615": {
+      "name": "Max Arfsten",
+      "cardName": "Arfsten",
+      "originalVersionId": "0",
+      "clubId": 12,
+      "leagueId": 14,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Left",
+      "weakFoot": 5,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        30,
+        33
+      ],
+      "attributes": [
+        75,
+        61,
+        60,
+        69,
+        60,
+        65
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 84160615,
+      "assetId": 274535
+    },
+    "117695717": {
+      "name": "Sebastian Berhalter",
+      "cardName": "Berhalter",
+      "originalVersionId": "0",
+      "clubId": 12,
+      "leagueId": 14,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        18,
+        25
+      ],
+      "attributes": [
+        71,
+        54,
+        66,
+        67,
+        65,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 117695717,
+      "assetId": 255205
     }
   }
 }

@@ -206,7 +206,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 1000,
       "resourceId": 75213,
       "assetId": 75213
     },
@@ -512,7 +512,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 900,
       "resourceId": 225591,
       "assetId": 225591
     },
@@ -595,7 +595,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 650,
       "resourceId": 232244,
       "assetId": 232244
     },
@@ -707,7 +707,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 950,
       "resourceId": 248137,
       "assetId": 248137
     },
@@ -948,7 +948,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 350,
       "resourceId": 261082,
       "assetId": 261082
     },
@@ -983,7 +983,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 3000,
       "resourceId": 261885,
       "assetId": 261885
     },
@@ -1092,6 +1092,42 @@
       "resourceId": 276829,
       "assetId": 276829
     },
+    "50405535": {
+      "name": "Luciano Giménez",
+      "cardName": "Giménez",
+      "originalVersionId": "0",
+      "clubId": 101083,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        43,
+        44
+      ],
+      "attributes": [
+        69,
+        67,
+        56,
+        66,
+        44,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 0,
+      "resourceId": 50405535,
+      "assetId": 73887
+    },
     "50514142": {
       "name": "Fernando Muslera",
       "cardName": "Muslera",
@@ -1128,7 +1164,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 55000,
+      "price": 43750,
       "resourceId": 50514142,
       "assetId": 182494
     },
@@ -1167,7 +1203,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 450,
+      "price": 400,
       "resourceId": 50590348,
       "assetId": 258700
     },
@@ -1393,9 +1429,48 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 20000,
+      "price": 17000,
       "resourceId": 67291358,
       "assetId": 182494
+    },
+    "67384207": {
+      "name": "Baltasar Rodríguez",
+      "cardName": "Rodríguez",
+      "originalVersionId": "0",
+      "clubId": 101083,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        21,
+        33,
+        38
+      ],
+      "attributes": [
+        74,
+        60,
+        70,
+        74,
+        54,
+        48
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 67384207,
+      "assetId": 275343
     }
   }
 }

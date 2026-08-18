@@ -109,7 +109,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 75697,
       "assetId": 75697
     },
@@ -218,7 +218,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 10000,
       "resourceId": 226130,
       "assetId": 226130
     },
@@ -342,7 +342,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 10000,
       "resourceId": 231733,
       "assetId": 231733
     },
@@ -380,7 +380,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 250,
       "resourceId": 235970,
       "assetId": 235970
     },
@@ -606,7 +606,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 750,
       "resourceId": 255468,
       "assetId": 255468
     },
@@ -680,7 +680,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1800,
       "resourceId": 257027,
       "assetId": 257027
     },
@@ -718,7 +718,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 2400,
       "resourceId": 262423,
       "assetId": 262423
     },
@@ -984,6 +984,44 @@
       "resourceId": 50595758,
       "assetId": 264110
     },
+    "50601986": {
+      "name": "Vilarrasa",
+      "cardName": "Vilarrasa",
+      "originalVersionId": "0",
+      "clubId": 10846,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [
+        15
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        27
+      ],
+      "attributes": [
+        69,
+        57,
+        69,
+        67,
+        65,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50601986,
+      "assetId": 270338
+    },
     "50611574": {
       "name": "Dadie",
       "cardName": "Dadie",
@@ -1019,6 +1057,40 @@
       "price": 200,
       "resourceId": 50611574,
       "assetId": 279926
+    },
+    "67378507": {
+      "name": "Alex Forés",
+      "cardName": "Alex Forés",
+      "originalVersionId": "1",
+      "clubId": 10846,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "3001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42
+      ],
+      "attributes": [
+        71,
+        73,
+        56,
+        67,
+        37,
+        62
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67378507,
+      "assetId": 269643
     }
   }
 }

@@ -142,7 +142,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2300,
       "resourceId": 192071,
       "assetId": 192071
     },
@@ -179,7 +179,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 400,
       "resourceId": 193333,
       "assetId": 193333
     },
@@ -522,7 +522,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 7600,
       "resourceId": 248171,
       "assetId": 248171
     },
@@ -556,7 +556,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 350,
       "resourceId": 251953,
       "assetId": 251953
     },
@@ -672,7 +672,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 276035,
       "assetId": 276035
     },
@@ -706,7 +706,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 277117,
       "assetId": 277117
     },
@@ -744,7 +744,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 450,
       "resourceId": 277870,
       "assetId": 277870
     },
@@ -933,7 +933,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 200,
       "resourceId": 50590212,
       "assetId": 258564
     },
@@ -971,6 +971,82 @@
       "price": 200,
       "resourceId": 50595670,
       "assetId": 264022
+    },
+    "67182853": {
+      "name": "Marco Ruggero",
+      "cardName": "Ruggero",
+      "originalVersionId": "0",
+      "clubId": 110908,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        48
+      ],
+      "attributes": [
+        61,
+        38,
+        46,
+        47,
+        71,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 67182853,
+      "assetId": 73989
+    },
+    "67380439": {
+      "name": "Simone Pafundi",
+      "cardName": "Pafundi",
+      "originalVersionId": "1",
+      "clubId": 110908,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "3001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "ST"
+      ],
+      "playStyles": [
+        0,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        32,
+        33
+      ],
+      "attributes": [
+        76,
+        62,
+        68,
+        75,
+        46,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67380439,
+      "assetId": 271575
     }
   }
 }

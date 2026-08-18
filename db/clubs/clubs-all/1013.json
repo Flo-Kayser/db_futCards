@@ -246,7 +246,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 75337,
       "assetId": 75337
     },
@@ -315,7 +315,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 77026,
       "assetId": 77026
     },
@@ -431,7 +431,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1100,
+      "price": 10000,
       "resourceId": 223498,
       "assetId": 223498
     },
@@ -696,7 +696,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1000,
       "resourceId": 247143,
       "assetId": 247143
     },
@@ -958,7 +958,7 @@
         96
       ],
       "hasDynamicImage": true,
-      "price": 150000,
+      "price": 189000,
       "resourceId": 50406908,
       "assetId": 75260
     },
@@ -1039,6 +1039,40 @@
       "price": 200,
       "resourceId": 50556930,
       "assetId": 225282
+    },
+    "50559388": {
+      "name": "Danilo Arboleda",
+      "cardName": "Arboleda",
+      "originalVersionId": "1",
+      "clubId": 1013,
+      "leagueId": 353,
+      "countryId": 56,
+      "versionId": "3001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        76,
+        24,
+        53,
+        46,
+        70,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50559388,
+      "assetId": 227740
     },
     "50569642": {
       "name": "Nahuel Barrios",
@@ -1239,9 +1273,44 @@
         97
       ],
       "hasDynamicImage": true,
-      "price": 42750,
+      "price": 37250,
       "resourceId": 67184124,
       "assetId": 75260
+    },
+    "67335034": {
+      "name": "Emiliano Amor",
+      "cardName": "Amor",
+      "originalVersionId": "0",
+      "clubId": 1013,
+      "leagueId": 353,
+      "countryId": 186,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        44,
+        36,
+        47,
+        51,
+        69,
+        74
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67335034,
+      "assetId": 226170
     }
   }
 }

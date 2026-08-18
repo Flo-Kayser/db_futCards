@@ -31,7 +31,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4200,
       "resourceId": 76171,
       "assetId": 76171
     },
@@ -65,7 +65,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 1100,
       "resourceId": 78934,
       "assetId": 78934
     },
@@ -314,7 +314,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 8300,
       "resourceId": 197926,
       "assetId": 197926
     },
@@ -349,7 +349,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 3900,
+      "price": 2000,
       "resourceId": 204042,
       "assetId": 204042
     },
@@ -387,7 +387,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 10000,
       "resourceId": 205407,
       "assetId": 205407
     },
@@ -423,7 +423,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 4800,
+      "price": 200,
       "resourceId": 219586,
       "assetId": 219586
     },
@@ -570,7 +570,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 9100,
       "resourceId": 224996,
       "assetId": 224996
     },
@@ -953,6 +953,81 @@
       "price": 200,
       "resourceId": 50567583,
       "assetId": 235935
+    },
+    "50569261": {
+      "name": "Marco Pompetti",
+      "cardName": "Pompetti",
+      "originalVersionId": "0",
+      "clubId": 110912,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        0,
+        3
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        18,
+        20
+      ],
+      "attributes": [
+        65,
+        62,
+        68,
+        68,
+        60,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50569261,
+      "assetId": 237613
+    },
+    "67180961": {
+      "name": "Alessandro Dellavalle",
+      "cardName": "Dellavalle",
+      "originalVersionId": "0",
+      "clubId": 110912,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        48
+      ],
+      "attributes": [
+        63,
+        26,
+        40,
+        47,
+        65,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67180961,
+      "assetId": 72097
     }
   }
 }

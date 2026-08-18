@@ -31,7 +31,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 72028,
       "assetId": 72028
     },
@@ -181,7 +181,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 2000,
       "resourceId": 228716,
       "assetId": 228716
     },
@@ -293,7 +293,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2000,
       "resourceId": 237442,
       "assetId": 237442
     },
@@ -371,7 +371,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 750,
       "resourceId": 243449,
       "assetId": 243449
     },
@@ -681,7 +681,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 263883,
       "assetId": 263883
     },
@@ -716,7 +716,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 4000,
       "resourceId": 264506,
       "assetId": 264506
     },
@@ -827,7 +827,7 @@
         43
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 5100,
       "resourceId": 265561,
       "assetId": 265561
     },
@@ -862,7 +862,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 6000,
+      "price": 9600,
       "resourceId": 268508,
       "assetId": 268508
     },
@@ -973,7 +973,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 50403676,
       "assetId": 72028
     },
@@ -1089,7 +1089,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1200,
       "resourceId": 50595531,
       "assetId": 263883
     },
@@ -1126,7 +1126,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 5900,
+      "price": 1900,
       "resourceId": 50598321,
       "assetId": 266673
     },
@@ -1235,6 +1235,84 @@
       "price": 200,
       "resourceId": 67179965,
       "assetId": 71101
+    },
+    "67355216": {
+      "name": "Hugo Guillamón",
+      "cardName": "Hugo Guillamón",
+      "originalVersionId": "1",
+      "clubId": 459,
+      "leagueId": 54,
+      "countryId": 45,
+      "versionId": "3001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        15,
+        19,
+        20
+      ],
+      "attributes": [
+        52,
+        64,
+        67,
+        71,
+        75,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67355216,
+      "assetId": 246352
+    },
+    "67365889": {
+      "name": "Konrad de la Fuente",
+      "cardName": "de la Fuente",
+      "originalVersionId": "0",
+      "clubId": 459,
+      "leagueId": 54,
+      "countryId": 95,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        30,
+        39
+      ],
+      "attributes": [
+        78,
+        64,
+        62,
+        71,
+        19,
+        46
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 67365889,
+      "assetId": 257025
     }
   }
 }

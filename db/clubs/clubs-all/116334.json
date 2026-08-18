@@ -302,7 +302,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1800,
       "resourceId": 268949,
       "assetId": 268949
     },
@@ -345,7 +345,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1000,
       "resourceId": 272005,
       "assetId": 272005
     },
@@ -683,7 +683,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 700,
       "resourceId": 276771,
       "assetId": 276771
     },
@@ -720,7 +720,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 500,
       "resourceId": 277544,
       "assetId": 277544
     },
@@ -833,9 +833,83 @@
         70
       ],
       "hasDynamicImage": true,
-      "price": 45000,
+      "price": 43750,
       "resourceId": 50579178,
       "assetId": 247530
+    },
+    "50597550": {
+      "name": "Romane Lejeune",
+      "cardName": "Lejeune",
+      "originalVersionId": "0",
+      "clubId": 116334,
+      "leagueId": 2222,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        45,
+        34,
+        48,
+        60,
+        70,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50597550,
+      "assetId": 265902
+    },
+    "50603729": {
+      "name": "Ana González",
+      "cardName": "Ana González",
+      "originalVersionId": "0",
+      "clubId": 116334,
+      "leagueId": 2222,
+      "countryId": 45,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        21
+      ],
+      "attributes": [
+        66,
+        64,
+        69,
+        70,
+        74,
+        77
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50603729,
+      "assetId": 272081
     },
     "50603730": {
       "name": "Sandra Villafañe",
@@ -923,7 +997,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 36250,
+      "price": 37250,
       "resourceId": 50603852,
       "assetId": 272204
     },
@@ -983,6 +1057,77 @@
       "resourceId": 50603889,
       "assetId": 272241
     },
+    "50603892": {
+      "name": "Raiderlín Carrasco",
+      "cardName": "Carrasco",
+      "originalVersionId": "1",
+      "clubId": 116334,
+      "leagueId": 2222,
+      "countryId": 61,
+      "versionId": "3001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        27
+      ],
+      "attributes": [
+        81,
+        58,
+        65,
+        71,
+        67,
+        70
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50603892,
+      "assetId": 272244
+    },
+    "50604906": {
+      "name": "Kate Taylor",
+      "cardName": "Taylor",
+      "originalVersionId": "0",
+      "clubId": 116334,
+      "leagueId": 2222,
+      "countryId": 198,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        67,
+        38,
+        53,
+        54,
+        72,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50604906,
+      "assetId": 273258
+    },
     "67381068": {
       "name": "Allegra Poljak",
       "cardName": "Poljak",
@@ -1022,7 +1167,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 12750,
+      "price": 11000,
       "resourceId": 67381068,
       "assetId": 272204
     }

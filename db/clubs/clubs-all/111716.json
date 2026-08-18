@@ -269,7 +269,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 300,
       "resourceId": 226798,
       "assetId": 226798
     },
@@ -308,7 +308,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 600,
+      "price": 350,
       "resourceId": 228961,
       "assetId": 228961
     },
@@ -417,7 +417,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 3000,
       "resourceId": 238093,
       "assetId": 238093
     },
@@ -451,7 +451,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 9600,
       "resourceId": 240955,
       "assetId": 240955
     },
@@ -529,7 +529,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2500,
       "resourceId": 255886,
       "assetId": 255886
     },
@@ -565,7 +565,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 9000,
+      "price": 200,
       "resourceId": 256167,
       "assetId": 256167
     },
@@ -718,7 +718,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 500,
       "resourceId": 271969,
       "assetId": 271969
     },
@@ -795,7 +795,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 750,
+      "price": 2200,
       "resourceId": 273051,
       "assetId": 273051
     },
@@ -868,7 +868,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5000,
       "resourceId": 277181,
       "assetId": 277181
     },
@@ -973,7 +973,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 200,
       "resourceId": 279845,
       "assetId": 279845
     },
@@ -1130,6 +1130,46 @@
       "resourceId": 50594852,
       "assetId": 263204
     },
+    "50605208": {
+      "name": "Matías Rocha",
+      "cardName": "Rocha",
+      "originalVersionId": "0",
+      "clubId": 111716,
+      "leagueId": 353,
+      "countryId": 60,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3,
+        11,
+        13
+      ],
+      "attributes": [
+        60,
+        51,
+        56,
+        57,
+        66,
+        71
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50605208,
+      "assetId": 273560
+    },
     "50608829": {
       "name": "Rafael Profini",
       "cardName": "Profini",
@@ -1178,7 +1218,7 @@
         88
       ],
       "hasDynamicImage": false,
-      "price": 47500,
+      "price": 41500,
       "resourceId": 50608829,
       "assetId": 277181
     },
@@ -1262,6 +1302,44 @@
       "price": 350,
       "resourceId": 67375035,
       "assetId": 266171
+    },
+    "67383964": {
+      "name": "Joaquín Mosqueira",
+      "cardName": "Mosqueira",
+      "originalVersionId": "0",
+      "clubId": 111716,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        14,
+        15,
+        18
+      ],
+      "attributes": [
+        69,
+        55,
+        67,
+        67,
+        65,
+        68
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 67383964,
+      "assetId": 275100
     }
   }
 }

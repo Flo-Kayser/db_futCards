@@ -34,7 +34,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1300,
+      "price": 200,
       "resourceId": 70168,
       "assetId": 70168
     },
@@ -69,7 +69,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 10000,
       "resourceId": 70697,
       "assetId": 70697
     },
@@ -142,7 +142,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1700,
+      "price": 1400,
       "resourceId": 75214,
       "assetId": 75214
     },
@@ -177,7 +177,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 4400,
+      "price": 3200,
       "resourceId": 75950,
       "assetId": 75950
     },
@@ -251,7 +251,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 4600,
+      "price": 1500,
       "resourceId": 76713,
       "assetId": 76713
     },
@@ -431,7 +431,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 3800,
+      "price": 1000,
       "resourceId": 77051,
       "assetId": 77051
     },
@@ -467,7 +467,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 10000,
       "resourceId": 188968,
       "assetId": 188968
     },
@@ -507,7 +507,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 3300,
       "resourceId": 205630,
       "assetId": 205630
     },
@@ -545,7 +545,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 5400,
+      "price": 5500,
       "resourceId": 210452,
       "assetId": 210452
     },
@@ -670,7 +670,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 1800,
       "resourceId": 233959,
       "assetId": 233959
     },
@@ -743,7 +743,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 4900,
       "resourceId": 246236,
       "assetId": 246236
     },
@@ -812,7 +812,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 254725,
       "assetId": 254725
     },
@@ -849,7 +849,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 2000,
       "resourceId": 256616,
       "assetId": 256616
     },
@@ -888,7 +888,7 @@
         39
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5000,
       "resourceId": 261183,
       "assetId": 261183
     },
@@ -1035,7 +1035,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 8800,
+      "price": 1400,
       "resourceId": 272860,
       "assetId": 272860
     },
@@ -1071,7 +1071,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 9000,
       "resourceId": 272947,
       "assetId": 272947
     },
@@ -1250,9 +1250,53 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 9900,
       "resourceId": 50411037,
       "assetId": 79389
+    },
+    "50575853": {
+      "name": "Maximiliano Salas",
+      "cardName": "Salas",
+      "originalVersionId": "0",
+      "clubId": 111020,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "2002",
+      "rating": 76,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [
+        2,
+        21,
+        25
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        36,
+        39,
+        42,
+        43
+      ],
+      "attributes": [
+        81,
+        76,
+        68,
+        75,
+        47,
+        84
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50575853,
+      "assetId": 244205
     },
     "50584897": {
       "name": "José Florentín",
@@ -1375,6 +1419,45 @@
       "price": 200,
       "resourceId": 50597809,
       "assetId": 266161
+    },
+    "67356014": {
+      "name": "Alex Vigo",
+      "cardName": "Vigo",
+      "originalVersionId": "1",
+      "clubId": 111020,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "3001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [
+        21
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        5,
+        6,
+        25
+      ],
+      "attributes": [
+        84,
+        56,
+        62,
+        70,
+        61,
+        69
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 67356014,
+      "assetId": 247150
     }
   }
 }

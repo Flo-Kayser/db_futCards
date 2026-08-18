@@ -34,7 +34,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 10000,
       "resourceId": 72159,
       "assetId": 72159
     },
@@ -155,7 +155,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 9500,
+      "price": 650,
       "resourceId": 203042,
       "assetId": 203042
     },
@@ -235,7 +235,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2300,
+      "price": 200,
       "resourceId": 213693,
       "assetId": 213693
     },
@@ -314,7 +314,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 4200,
       "resourceId": 226401,
       "assetId": 226401
     },
@@ -355,7 +355,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 450,
       "resourceId": 237640,
       "assetId": 237640
     },
@@ -433,7 +433,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 6900,
+      "price": 10000,
       "resourceId": 239881,
       "assetId": 239881
     },
@@ -475,7 +475,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 2700,
       "resourceId": 243392,
       "assetId": 243392
     },
@@ -749,7 +749,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 7700,
+      "price": 200,
       "resourceId": 263157,
       "assetId": 263157
     },
@@ -828,7 +828,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 3200,
       "resourceId": 271716,
       "assetId": 271716
     },
@@ -863,7 +863,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 2600,
+      "price": 200,
       "resourceId": 277266,
       "assetId": 277266
     },
@@ -899,7 +899,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 4600,
       "resourceId": 278957,
       "assetId": 278957
     },
@@ -1037,7 +1037,7 @@
         89
       ],
       "hasDynamicImage": false,
-      "price": 70500,
+      "price": 67000,
       "resourceId": 50556851,
       "assetId": 225203
     },
@@ -1126,7 +1126,7 @@
         82
       ],
       "hasDynamicImage": true,
-      "price": 100000,
+      "price": 94000,
       "resourceId": 50571458,
       "assetId": 239810
     },
@@ -1164,7 +1164,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 10000,
       "resourceId": 50571665,
       "assetId": 240017
     },
@@ -1213,7 +1213,7 @@
         84
       ],
       "hasDynamicImage": true,
-      "price": 30250,
+      "price": 24750,
       "resourceId": 50571708,
       "assetId": 240060
     },
@@ -1496,7 +1496,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 90000,
+      "price": 71000,
       "resourceId": 50594952,
       "assetId": 263304
     },
@@ -1574,7 +1574,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 50603364,
       "assetId": 271716
     },
@@ -1617,6 +1617,46 @@
       "price": 200,
       "resourceId": 50605705,
       "assetId": 274057
+    },
+    "50605839": {
+      "name": "Daisuke Yokota",
+      "cardName": "Yokota",
+      "originalVersionId": "0",
+      "clubId": 86,
+      "leagueId": 50,
+      "countryId": 163,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "RW",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        32,
+        33,
+        36
+      ],
+      "attributes": [
+        79,
+        59,
+        65,
+        74,
+        46,
+        49
+      ],
+      "hasDynamicImage": false,
+      "price": 300,
+      "resourceId": 50605839,
+      "assetId": 274191
     },
     "50610894": {
       "name": "Ryan Naderi",
@@ -1693,7 +1733,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 5300,
+      "price": 350,
       "resourceId": 67325082,
       "assetId": 216218
     },
@@ -1735,6 +1775,41 @@
       "price": 200,
       "resourceId": 67367347,
       "assetId": 258483
+    },
+    "67387552": {
+      "name": "Olwethu Makhanya",
+      "cardName": "Makhanya",
+      "originalVersionId": "0",
+      "clubId": 86,
+      "leagueId": 50,
+      "countryId": 140,
+      "versionId": "2000",
+      "rating": 57,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        48
+      ],
+      "attributes": [
+        74,
+        32,
+        42,
+        44,
+        56,
+        64
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67387552,
+      "assetId": 278688
     },
     "84111873": {
       "name": "Ben Godfrey",
@@ -1817,7 +1892,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 47000,
+      "price": 37250,
       "resourceId": 84156946,
       "assetId": 270866
     }

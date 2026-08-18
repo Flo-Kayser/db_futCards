@@ -103,7 +103,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 10000,
       "resourceId": 223627,
       "assetId": 223627
     },
@@ -181,7 +181,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 7100,
       "resourceId": 224959,
       "assetId": 224959
     },
@@ -514,7 +514,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5000,
       "resourceId": 270699,
       "assetId": 270699
     },
@@ -696,7 +696,7 @@
         45
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 50556843,
       "assetId": 225195
     },
@@ -736,6 +736,128 @@
       "price": 0,
       "resourceId": 50557248,
       "assetId": 225600
+    },
+    "50570915": {
+      "name": "Afimico Pululu",
+      "cardName": "Pululu",
+      "originalVersionId": "1",
+      "clubId": 113222,
+      "leagueId": 350,
+      "countryId": 110,
+      "versionId": "3001",
+      "rating": 72,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        6,
+        7
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        42,
+        43
+      ],
+      "attributes": [
+        85,
+        70,
+        58,
+        73,
+        27,
+        75
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 50570915,
+      "assetId": 239267
+    },
+    "50584687": {
+      "name": "Mory Konaté",
+      "cardName": "Konaté",
+      "originalVersionId": "1",
+      "clubId": 113222,
+      "leagueId": 350,
+      "countryId": 118,
+      "versionId": "3001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        19
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15
+      ],
+      "attributes": [
+        44,
+        50,
+        59,
+        61,
+        66,
+        82
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50584687,
+      "assetId": 253039
+    },
+    "50587135": {
+      "name": "Sofiane Bendebka",
+      "cardName": "Bendebka",
+      "originalVersionId": "1",
+      "clubId": 113222,
+      "leagueId": 350,
+      "countryId": 97,
+      "versionId": "3001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        19,
+        20,
+        26,
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        17,
+        21,
+        33,
+        49
+      ],
+      "attributes": [
+        74,
+        71,
+        68,
+        73,
+        65,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 50587135,
+      "assetId": 255487
     }
   }
 }

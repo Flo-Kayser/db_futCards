@@ -34,7 +34,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 2900,
       "resourceId": 72284,
       "assetId": 72284
     },
@@ -303,7 +303,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 231615,
       "assetId": 231615
     },
@@ -454,7 +454,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 237975,
       "assetId": 237975
     },
@@ -791,7 +791,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 5100,
       "resourceId": 263840,
       "assetId": 263840
     },
@@ -969,7 +969,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 278895,
       "assetId": 278895
     },
@@ -1340,6 +1340,82 @@
       "price": 200,
       "resourceId": 67356990,
       "assetId": 248126
+    },
+    "67357552": {
+      "name": "Oliver Cooper",
+      "cardName": "Cooper",
+      "originalVersionId": "0",
+      "clubId": 1937,
+      "leagueId": 61,
+      "countryId": 50,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        32,
+        33
+      ],
+      "attributes": [
+        70,
+        61,
+        65,
+        71,
+        58,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 67357552,
+      "assetId": 248688
+    },
+    "84161324": {
+      "name": "Ishé Samuels-Smith",
+      "cardName": "Samuels-Smith",
+      "originalVersionId": "0",
+      "clubId": 1937,
+      "leagueId": 61,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "CB",
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        75,
+        43,
+        60,
+        62,
+        63,
+        66
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 84161324,
+      "assetId": 275244
     }
   }
 }

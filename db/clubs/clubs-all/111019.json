@@ -32,7 +32,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 3500,
       "resourceId": 70679,
       "assetId": 70679
     },
@@ -173,7 +173,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 75072,
       "assetId": 75072
     },
@@ -353,7 +353,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 10000,
       "resourceId": 205972,
       "assetId": 205972
     },
@@ -546,7 +546,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 232646,
       "assetId": 232646
     },
@@ -1081,7 +1081,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 3400,
+      "price": 3800,
       "resourceId": 272949,
       "assetId": 272949
     },
@@ -1116,7 +1116,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 3200,
+      "price": 9100,
       "resourceId": 273603,
       "assetId": 273603
     },
@@ -1189,7 +1189,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 4800,
       "resourceId": 50505021,
       "assetId": 173373
     },
@@ -1230,7 +1230,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 750,
       "resourceId": 50528080,
       "assetId": 196432
     },
@@ -1273,6 +1273,47 @@
       "price": 350,
       "resourceId": 50539702,
       "assetId": 208054
+    },
+    "50546616": {
+      "name": "Federico Mancuello",
+      "cardName": "Mancuello",
+      "originalVersionId": "1",
+      "clubId": 111019,
+      "leagueId": 353,
+      "countryId": 52,
+      "versionId": "3001",
+      "rating": 72,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 4,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [
+        10
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        22,
+        31,
+        32
+      ],
+      "attributes": [
+        62,
+        67,
+        77,
+        74,
+        55,
+        61
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 50546616,
+      "assetId": 214968
     },
     "50546734": {
       "name": "Brayan Cortés",
@@ -1342,7 +1383,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 2500,
       "resourceId": 50558323,
       "assetId": 226675
     },
@@ -1586,6 +1627,41 @@
       "price": 200,
       "resourceId": 50589752,
       "assetId": 258104
+    },
+    "50600736": {
+      "name": "Alan Nuñez",
+      "cardName": "Nuñez",
+      "originalVersionId": "0",
+      "clubId": 111019,
+      "leagueId": 353,
+      "countryId": 58,
+      "versionId": "2000",
+      "rating": 60,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        3
+      ],
+      "attributes": [
+        74,
+        52,
+        54,
+        60,
+        57,
+        56
+      ],
+      "hasDynamicImage": false,
+      "price": 200,
+      "resourceId": 50600736,
+      "assetId": 269088
     }
   }
 }

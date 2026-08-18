@@ -107,7 +107,7 @@
         59
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 7000,
       "resourceId": 206436,
       "assetId": 206436
     },
@@ -643,7 +643,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1000,
       "resourceId": 263976,
       "assetId": 263976
     },
@@ -716,7 +716,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 3300,
       "resourceId": 277454,
       "assetId": 277454
     },
@@ -823,7 +823,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 278132,
       "assetId": 278132
     },
@@ -871,6 +871,43 @@
       "price": 11000,
       "resourceId": 50521529,
       "assetId": 189881
+    },
+    "50542327": {
+      "name": "Paulo Oliveira",
+      "cardName": "Paulo Oliveira",
+      "originalVersionId": "1",
+      "clubId": 113057,
+      "leagueId": 350,
+      "countryId": 38,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        53,
+        34,
+        52,
+        61,
+        76,
+        72
+      ],
+      "hasDynamicImage": false,
+      "price": 450,
+      "resourceId": 50542327,
+      "assetId": 210679
     },
     "50567161": {
       "name": "Silvère Ganvoula",
@@ -1012,9 +1049,49 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 200,
       "resourceId": 50594897,
       "assetId": 263249
+    },
+    "67380537": {
+      "name": "Lázaro",
+      "cardName": "Lázaro",
+      "originalVersionId": "0",
+      "clubId": 113057,
+      "leagueId": 350,
+      "countryId": 54,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "LW",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23,
+        27,
+        29,
+        42
+      ],
+      "attributes": [
+        78,
+        64,
+        64,
+        67,
+        39,
+        60
+      ],
+      "hasDynamicImage": false,
+      "price": 250,
+      "resourceId": 67380537,
+      "assetId": 271673
     }
   }
 }

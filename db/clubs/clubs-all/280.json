@@ -295,7 +295,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 10000,
       "resourceId": 215399,
       "assetId": 215399
     },
@@ -558,7 +558,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 240493,
       "assetId": 240493
     },
@@ -744,7 +744,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 10000,
       "resourceId": 246679,
       "assetId": 246679
     },
@@ -930,7 +930,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 4000,
       "resourceId": 262109,
       "assetId": 262109
     },
@@ -1288,6 +1288,47 @@
       "resourceId": 50602631,
       "assetId": 270983
     },
+    "50602705": {
+      "name": "Gustavo Sá",
+      "cardName": "Gustavo Sá",
+      "originalVersionId": "1",
+      "clubId": 280,
+      "leagueId": 63,
+      "countryId": 38,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        19,
+        6,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        21,
+        31,
+        32
+      ],
+      "attributes": [
+        75,
+        69,
+        74,
+        74,
+        70,
+        73
+      ],
+      "hasDynamicImage": false,
+      "price": 400,
+      "resourceId": 50602705,
+      "assetId": 271057
+    },
     "50604366": {
       "name": "Joel Roca",
       "cardName": "Joel Roca",
@@ -1397,6 +1438,43 @@
       "price": 350,
       "resourceId": 50609673,
       "assetId": 278025
+    },
+    "67309023": {
+      "name": "Stefan Ortega",
+      "cardName": "Ortega",
+      "originalVersionId": "0",
+      "clubId": 280,
+      "leagueId": 63,
+      "countryId": 21,
+      "versionId": "2002",
+      "rating": 79,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        34
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        45
+      ],
+      "attributes": [
+        78,
+        77,
+        85,
+        81,
+        52,
+        78
+      ],
+      "hasDynamicImage": false,
+      "price": 350,
+      "resourceId": 67309023,
+      "assetId": 200159
     },
     "67312844": {
       "name": "Konstantinos Fortounis",
@@ -1535,7 +1613,7 @@
         88
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 16250,
       "resourceId": 67335919,
       "assetId": 227055
     },
