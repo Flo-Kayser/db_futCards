@@ -155,47 +155,6 @@
       "resourceId": 214680,
       "assetId": 214680
     },
-    "216320": {
-      "name": "Seko Fofana",
-      "cardName": "Fofana",
-      "originalVersionId": "0",
-      "clubId": 74,
-      "leagueId": 16,
-      "countryId": 108,
-      "versionId": "2002",
-      "rating": 77,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 3,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        2,
-        26,
-        8
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        16,
-        21
-      ],
-      "attributes": [
-        68,
-        75,
-        74,
-        76,
-        71,
-        80
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 216320,
-      "assetId": 216320
-    },
     "220093": {
       "name": "Hans Hateboer",
       "cardName": "Hateboer",
@@ -908,7 +867,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50411338,
       "assetId": 79690
     },
@@ -1650,6 +1609,66 @@
       "price": 350,
       "resourceId": 84094867,
       "assetId": 208787
+    },
+    "117656832": {
+      "name": "Seko Fofana",
+      "cardName": "Fofana",
+      "originalVersionId": "30",
+      "clubId": 74,
+      "leagueId": 16,
+      "countryId": 108,
+      "versionId": "30",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CB",
+        "CDM",
+        "CM",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        146,
+        148,
+        149
+      ],
+      "attributes": [
+        95,
+        93,
+        94,
+        96,
+        93,
+        98
+      ],
+      "hasDynamicImage": true,
+      "price": 12250,
+      "resourceId": 117656832,
+      "assetId": 216320
     }
   }
 }

@@ -1346,7 +1346,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 0,
+      "price": 350,
       "resourceId": 67376725,
       "assetId": 267861
     },
@@ -1390,70 +1390,6 @@
       "price": 2000,
       "resourceId": 67380780,
       "assetId": 271916
-    },
-    "83966250": {
-      "name": "Wesley",
-      "cardName": "Wesley",
-      "originalVersionId": "120",
-      "clubId": 52,
-      "leagueId": 31,
-      "countryId": 54,
-      "versionId": "120",
-      "rating": 91,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "LM",
-      "possiblePositions": [
-        "LM",
-        "LW",
-        "RB",
-        "RM"
-      ],
-      "playStyles": [
-        0,
-        12,
-        14,
-        18,
-        20,
-        21,
-        26
-      ],
-      "playStylesPlus": [
-        16,
-        25,
-        8
-      ],
-      "rolesPlus": [
-        3,
-        4,
-        105,
-        106,
-        123,
-        124,
-        125,
-        126,
-        127,
-        128,
-        129,
-        130,
-        138,
-        139,
-        140,
-        146
-      ],
-      "attributes": [
-        95,
-        80,
-        87,
-        91,
-        90,
-        87
-      ],
-      "hasDynamicImage": true,
-      "price": 27000,
-      "resourceId": 83966250,
-      "assetId": 80170
     },
     "84097190": {
       "name": "Paulo Dybala",
@@ -1551,27 +1487,91 @@
       "resourceId": 84151775,
       "assetId": 265695
     },
-    "100894743": {
+    "117520682": {
+      "name": "Wesley",
+      "cardName": "Wesley",
+      "originalVersionId": "96",
+      "clubId": 52,
+      "leagueId": 31,
+      "countryId": 54,
+      "versionId": "96",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 5,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "RB",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [
+        16,
+        25
+      ],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        146,
+        147
+      ],
+      "attributes": [
+        98,
+        90,
+        93,
+        97,
+        96,
+        94
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 117520682,
+      "assetId": 80170
+    },
+    "117671959": {
       "name": "Donyell Malen",
       "cardName": "Malen",
-      "originalVersionId": "109",
+      "originalVersionId": "82",
       "clubId": 52,
       "leagueId": 31,
       "countryId": 34,
-      "versionId": "109",
-      "rating": 94,
+      "versionId": "82",
+      "rating": 97,
       "preferredFoot": "Right",
-      "weakFoot": 4,
+      "weakFoot": 5,
       "skillMoves": 5,
       "preferredPosition": "RM",
       "possiblePositions": [
         "LM",
+        "LW",
         "RM",
         "RW",
         "ST"
       ],
       "playStyles": [],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        21,
+        6
+      ],
       "rolesPlus": [
         123,
         124,
@@ -1584,22 +1584,25 @@
         135,
         136,
         137,
+        138,
+        139,
+        140,
         141,
         142,
         143,
         144
       ],
       "attributes": [
-        96,
-        92,
-        90,
+        98,
         95,
-        54,
-        86
+        94,
+        97,
+        60,
+        90
       ],
       "hasDynamicImage": true,
-      "price": 0,
-      "resourceId": 100894743,
+      "price": 35250,
+      "resourceId": 117671959,
       "assetId": 231447
     }
   }

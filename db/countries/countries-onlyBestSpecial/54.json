@@ -384,7 +384,8 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 1277000,
+    "sbcPrice": 978250,
+    "price": 1060000,
     "resourceId": 50522519,
     "assetId": 190871
   },
@@ -1869,55 +1870,6 @@
     "resourceId": 50604784,
     "assetId": 273136
   },
-  "50605111": {
-    "name": "João Gomes",
-    "cardName": "João Gomes",
-    "originalVersionId": "3",
-    "clubId": 110,
-    "leagueId": 13,
-    "countryId": 54,
-    "versionId": "3",
-    "rating": 84,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      0,
-      18,
-      22,
-      24,
-      9
-    ],
-    "playStylesPlus": [
-      11
-    ],
-    "rolesPlus": [
-      14,
-      16,
-      19,
-      20,
-      118,
-      121,
-      149
-    ],
-    "attributes": [
-      80,
-      75,
-      80,
-      84,
-      85,
-      82
-    ],
-    "hasDynamicImage": true,
-    "price": 35750,
-    "resourceId": 50605111,
-    "assetId": 273463
-  },
   "50608543": {
     "name": "Alemão",
     "cardName": "Alemão",
@@ -2849,7 +2801,7 @@
       75
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 12750,
     "resourceId": 67345931,
     "assetId": 237067
   },
@@ -2961,7 +2913,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 12750,
     "resourceId": 67350373,
     "assetId": 241509
   },
@@ -3162,6 +3114,66 @@
     "hasDynamicImage": true,
     "resourceId": 67380757,
     "assetId": 271893
+  },
+  "67382327": {
+    "name": "João Gomes",
+    "cardName": "João Gomes",
+    "originalVersionId": "16",
+    "clubId": 2,
+    "leagueId": 13,
+    "countryId": 54,
+    "versionId": "16",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CDM",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM",
+      "LB",
+      "RB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      146,
+      147,
+      148,
+      149
+    ],
+    "attributes": [
+      92,
+      94,
+      95,
+      97,
+      99,
+      92
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 67382327,
+    "assetId": 273463
   },
   "67383644": {
     "name": "Luany",
@@ -3387,73 +3399,9 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 59500,
+    "price": 81000,
     "resourceId": 83963870,
     "assetId": 77790
-  },
-  "83966250": {
-    "name": "Wesley",
-    "cardName": "Wesley",
-    "originalVersionId": "120",
-    "clubId": 52,
-    "leagueId": 31,
-    "countryId": 54,
-    "versionId": "120",
-    "rating": 91,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "RB",
-      "RM"
-    ],
-    "playStyles": [
-      0,
-      12,
-      14,
-      18,
-      20,
-      21,
-      26
-    ],
-    "playStylesPlus": [
-      16,
-      25,
-      8
-    ],
-    "rolesPlus": [
-      3,
-      4,
-      105,
-      106,
-      123,
-      124,
-      125,
-      126,
-      127,
-      128,
-      129,
-      130,
-      138,
-      139,
-      140,
-      146
-    ],
-    "attributes": [
-      95,
-      80,
-      87,
-      91,
-      90,
-      87
-    ],
-    "hasDynamicImage": true,
-    "price": 27000,
-    "resourceId": 83966250,
-    "assetId": 80170
   },
   "84021535": {
     "name": "Maicon",
@@ -4338,7 +4286,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 12000,
+    "price": 12500,
     "resourceId": 84157212,
     "assetId": 271132
   },
@@ -4927,9 +4875,69 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 9100000,
+    "price": 9032000,
     "resourceId": 117478088,
     "assetId": 37576
+  },
+  "117520682": {
+    "name": "Wesley",
+    "cardName": "Wesley",
+    "originalVersionId": "96",
+    "clubId": 52,
+    "leagueId": 31,
+    "countryId": 54,
+    "versionId": "96",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      16,
+      25
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      146,
+      147
+    ],
+    "attributes": [
+      98,
+      90,
+      93,
+      97,
+      96,
+      94
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 117520682,
+    "assetId": 80170
   },
   "117625455": {
     "name": "Ramires",
@@ -5118,7 +5126,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 17000,
     "resourceId": 117680092,
     "assetId": 239580
   },
@@ -5317,7 +5325,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 5750000,
+    "price": 5350000,
     "resourceId": 134245858,
     "assetId": 28130
   },
@@ -5389,7 +5397,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 1390000,
+    "price": 1400000,
     "resourceId": 134394404,
     "assetId": 176676
   },
@@ -5511,7 +5519,7 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 515000,
+    "price": 512000,
     "resourceId": 151227524,
     "assetId": 232580
   },
@@ -5720,7 +5728,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 840000,
+    "price": 801000,
     "resourceId": 168010954,
     "assetId": 238794
   },
@@ -5774,7 +5782,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 190000,
+    "price": 180000,
     "resourceId": 168044665,
     "assetId": 272505
   }

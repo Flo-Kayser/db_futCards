@@ -690,6 +690,62 @@
     "resourceId": 50541429,
     "assetId": 209781
   },
+  "50542544": {
+    "name": "Morgan Sanson",
+    "cardName": "Sanson",
+    "originalVersionId": "30",
+    "clubId": 72,
+    "leagueId": 16,
+    "countryId": 18,
+    "versionId": "30",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CM",
+      "LM",
+      "LW",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      93,
+      94,
+      97,
+      97,
+      90,
+      91
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 50542544,
+    "assetId": 210896
+  },
   "50542545": {
     "name": "Chancel Mbemba",
     "cardName": "Mbemba",
@@ -2361,7 +2417,7 @@
       97
     ],
     "hasDynamicImage": false,
-    "price": 55000,
+    "price": 80000,
     "resourceId": 50590620,
     "assetId": 258972
   },
@@ -3037,7 +3093,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 14250,
+    "price": 13500,
     "resourceId": 50605596,
     "assetId": 273948
   },
@@ -3139,7 +3195,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 39250,
     "resourceId": 50608549,
     "assetId": 276901
   },
@@ -3620,7 +3676,7 @@
       99
     ],
     "hasDynamicImage": true,
-    "price": 12750,
+    "price": 13000,
     "resourceId": 67301251,
     "assetId": 192387
   },
@@ -3732,7 +3788,7 @@
       97
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 13750,
     "resourceId": 67311199,
     "assetId": 202335
   },
@@ -4234,56 +4290,6 @@
     "price": 0,
     "resourceId": 67331221,
     "assetId": 222357
-  },
-  "67338125": {
-    "name": "Denis Zakaria",
-    "cardName": "Zakaria",
-    "originalVersionId": "3",
-    "clubId": 69,
-    "leagueId": 16,
-    "countryId": 47,
-    "versionId": "3",
-    "rating": 86,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      15,
-      16,
-      17,
-      24,
-      4
-    ],
-    "playStylesPlus": [
-      10
-    ],
-    "rolesPlus": [
-      11,
-      14,
-      18,
-      49,
-      113,
-      116,
-      119
-    ],
-    "attributes": [
-      84,
-      71,
-      80,
-      83,
-      85,
-      89
-    ],
-    "hasDynamicImage": true,
-    "price": 60000,
-    "resourceId": 67338125,
-    "assetId": 229261
   },
   "67338848": {
     "name": "Ben Chilwell",
@@ -5099,7 +5105,7 @@
       97
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 26500,
+    "sbcPrice": 31000,
     "price": 0,
     "resourceId": 67370966,
     "assetId": 262102
@@ -5781,7 +5787,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 14500,
+    "price": 12750,
     "resourceId": 84115316,
     "assetId": 229236
   },
@@ -5934,7 +5940,7 @@
       87
     ],
     "hasDynamicImage": false,
-    "price": 12750,
+    "price": 13500,
     "resourceId": 84123759,
     "assetId": 237679
   },
@@ -6398,7 +6404,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 16250,
+    "price": 18250,
     "resourceId": 84161288,
     "assetId": 275208
   },
@@ -6510,7 +6516,7 @@
       97
     ],
     "hasDynamicImage": true,
-    "price": 285000,
+    "price": 175000,
     "resourceId": 100841805,
     "assetId": 178509
   },
@@ -6562,6 +6568,70 @@
     "price": 17000,
     "resourceId": 100851863,
     "assetId": 188567
+  },
+  "100892557": {
+    "name": "Denis Zakaria",
+    "cardName": "Zakaria",
+    "originalVersionId": "151",
+    "clubId": 69,
+    "leagueId": 16,
+    "countryId": 47,
+    "versionId": "151",
+    "rating": 96,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM",
+      "LB",
+      "RB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      16,
+      17
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      146,
+      147,
+      148,
+      149
+    ],
+    "attributes": [
+      95,
+      86,
+      91,
+      93,
+      96,
+      98
+    ],
+    "hasDynamicImage": true,
+    "price": 12250,
+    "resourceId": 100892557,
+    "assetId": 229261
   },
   "100918730": {
     "name": "Julio César Enciso",
@@ -6679,7 +6749,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 12250,
+    "price": 17500,
     "resourceId": 100925401,
     "assetId": 262105
   },
@@ -6913,9 +6983,69 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 1090000,
+    "price": 755000,
     "resourceId": 117636376,
     "assetId": 195864
+  },
+  "117656832": {
+    "name": "Seko Fofana",
+    "cardName": "Fofana",
+    "originalVersionId": "30",
+    "clubId": 74,
+    "leagueId": 16,
+    "countryId": 108,
+    "versionId": "30",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CB",
+      "CDM",
+      "CM",
+      "RB"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      131,
+      132,
+      133,
+      134,
+      146,
+      148,
+      149
+    ],
+    "attributes": [
+      95,
+      93,
+      94,
+      96,
+      93,
+      98
+    ],
+    "hasDynamicImage": true,
+    "price": 12250,
+    "resourceId": 117656832,
+    "assetId": 216320
   },
   "117666783": {
     "name": "Fabián Ruiz",
@@ -6971,7 +7101,7 @@
       93
     ],
     "hasDynamicImage": true,
-    "price": 785000,
+    "price": 670000,
     "resourceId": 117666783,
     "assetId": 226271
   },
@@ -7339,7 +7469,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 1440000,
+    "price": 1049000,
     "resourceId": 134482380,
     "assetId": 264652
   },
@@ -7403,7 +7533,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 499000,
+    "price": 467000,
     "resourceId": 134489149,
     "assetId": 271421
   },
@@ -7569,7 +7699,7 @@
       97
     ],
     "hasDynamicImage": true,
-    "price": 92500,
+    "price": 195000,
     "resourceId": 151251140,
     "assetId": 256196
   },
@@ -7626,7 +7756,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 235000,
+    "price": 261000,
     "resourceId": 151267778,
     "assetId": 272834
   },
@@ -7685,45 +7815,41 @@
       90
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 498750,
+    "sbcPrice": 500000,
     "price": 0,
     "resourceId": 168027413,
     "assetId": 255253
   },
-  "218335251": {
+  "251889683": {
     "name": "Ousmane Dembélé",
     "cardName": "Dembélé",
-    "originalVersionId": "138",
+    "originalVersionId": "82",
     "clubId": 73,
     "leagueId": 16,
     "countryId": 18,
-    "versionId": "138",
-    "rating": 98,
+    "versionId": "82",
+    "rating": 99,
     "preferredFoot": "Left",
     "weakFoot": 5,
     "skillMoves": 5,
-    "preferredPosition": "RW",
+    "preferredPosition": "ST",
     "possiblePositions": [
       "CAM",
+      "LW",
+      "RM",
       "RW",
       "ST"
     ],
-    "playStyles": [
-      11,
-      13,
-      20,
-      22,
-      23,
-      25,
-      9
-    ],
+    "playStyles": [],
     "playStylesPlus": [
       0,
-      21,
-      6,
-      8
+      20
     ],
     "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
       131,
       132,
       133,
@@ -7731,22 +7857,24 @@
       135,
       136,
       137,
+      138,
+      139,
+      140,
       141,
       142,
       143,
       144
     ],
     "attributes": [
+      99,
       98,
-      97,
-      93,
-      98,
-      67,
-      87
+      95,
+      99,
+      72,
+      90
     ],
     "hasDynamicImage": true,
-    "price": 1050000,
-    "resourceId": 218335251,
+    "resourceId": 251889683,
     "assetId": 231443
   }
 }

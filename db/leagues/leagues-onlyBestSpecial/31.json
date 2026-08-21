@@ -132,55 +132,6 @@
     "resourceId": 50332673,
     "assetId": 1025
   },
-  "50402614": {
-    "name": "Jacobo Ramón",
-    "cardName": "Jacobo Ramón",
-    "originalVersionId": "11",
-    "clubId": 1745,
-    "leagueId": 31,
-    "countryId": 45,
-    "versionId": "11",
-    "rating": 94,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 3,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [
-      15,
-      17,
-      18,
-      19,
-      25,
-      28,
-      9
-    ],
-    "playStylesPlus": [
-      10,
-      14,
-      16
-    ],
-    "rolesPlus": [
-      111,
-      112,
-      113,
-      148
-    ],
-    "attributes": [
-      88,
-      46,
-      84,
-      81,
-      94,
-      91
-    ],
-    "hasDynamicImage": true,
-    "price": 12500,
-    "resourceId": 50402614,
-    "assetId": 70966
-  },
   "50409027": {
     "name": "Louis Buffon",
     "cardName": "Buffon",
@@ -2712,7 +2663,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 21000,
+    "price": 16750,
     "resourceId": 50575241,
     "assetId": 243593
   },
@@ -3044,7 +2995,7 @@
       70
     ],
     "hasDynamicImage": true,
-    "price": 37500,
+    "price": 33750,
     "resourceId": 50580377,
     "assetId": 248729
   },
@@ -3839,7 +3790,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 13000,
     "resourceId": 50595855,
     "assetId": 264207
   },
@@ -3945,7 +3896,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 13000,
     "resourceId": 50597422,
     "assetId": 265774
   },
@@ -5367,7 +5318,7 @@
       90
     ],
     "hasDynamicImage": true,
-    "price": 13750,
+    "price": 18000,
     "resourceId": 67333096,
     "assetId": 224232
   },
@@ -6434,7 +6385,7 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 13500,
     "resourceId": 67363846,
     "assetId": 254982
   },
@@ -6497,56 +6448,6 @@
     "sbcPrice": 39750,
     "resourceId": 67364475,
     "assetId": 255611
-  },
-  "67364518": {
-    "name": "Pierre Kalulu",
-    "cardName": "Kalulu",
-    "originalVersionId": "111",
-    "clubId": 45,
-    "leagueId": 31,
-    "countryId": 18,
-    "versionId": "111",
-    "rating": 91,
-    "preferredFoot": "Right",
-    "weakFoot": 3,
-    "skillMoves": 3,
-    "preferredPosition": "CB",
-    "possiblePositions": [
-      "CB"
-    ],
-    "playStyles": [
-      10,
-      14,
-      15,
-      16,
-      18,
-      25,
-      28,
-      8,
-      9
-    ],
-    "playStylesPlus": [
-      17,
-      21
-    ],
-    "rolesPlus": [
-      111,
-      112,
-      113,
-      148
-    ],
-    "attributes": [
-      89,
-      66,
-      81,
-      83,
-      92,
-      89
-    ],
-    "hasDynamicImage": true,
-    "price": 11500,
-    "resourceId": 67364518,
-    "assetId": 255654
   },
   "67366154": {
     "name": "João Mário",
@@ -6805,7 +6706,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 12750,
     "resourceId": 67387203,
     "assetId": 278339
   },
@@ -6883,6 +6784,69 @@
     "resourceId": 83902699,
     "assetId": 16619
   },
+  "83957046": {
+    "name": "Jacobo Ramón",
+    "cardName": "Jacobo Ramón",
+    "originalVersionId": "117",
+    "clubId": 1745,
+    "leagueId": 31,
+    "countryId": 45,
+    "versionId": "117",
+    "rating": 96,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "CB",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "CM",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      14,
+      15
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      146,
+      148,
+      149
+    ],
+    "attributes": [
+      93,
+      60,
+      92,
+      93,
+      96,
+      96
+    ],
+    "hasDynamicImage": true,
+    "price": 12250,
+    "resourceId": 83957046,
+    "assetId": 70966
+  },
   "83965350": {
     "name": "Alisson",
     "cardName": "Alisson",
@@ -6939,70 +6903,6 @@
     "price": 32500,
     "resourceId": 83965350,
     "assetId": 79270
-  },
-  "83966250": {
-    "name": "Wesley",
-    "cardName": "Wesley",
-    "originalVersionId": "120",
-    "clubId": 52,
-    "leagueId": 31,
-    "countryId": 54,
-    "versionId": "120",
-    "rating": 91,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "LM",
-    "possiblePositions": [
-      "LM",
-      "LW",
-      "RB",
-      "RM"
-    ],
-    "playStyles": [
-      0,
-      12,
-      14,
-      18,
-      20,
-      21,
-      26
-    ],
-    "playStylesPlus": [
-      16,
-      25,
-      8
-    ],
-    "rolesPlus": [
-      3,
-      4,
-      105,
-      106,
-      123,
-      124,
-      125,
-      126,
-      127,
-      128,
-      129,
-      130,
-      138,
-      139,
-      140,
-      146
-    ],
-    "attributes": [
-      95,
-      80,
-      87,
-      91,
-      90,
-      87
-    ],
-    "hasDynamicImage": true,
-    "price": 27000,
-    "resourceId": 83966250,
-    "assetId": 80170
   },
   "84006354": {
     "name": "Antonio Di Natale",
@@ -7247,7 +7147,7 @@
       84
     ],
     "hasDynamicImage": true,
-    "price": 15500,
+    "price": 11250,
     "resourceId": 84094910,
     "assetId": 208830
   },
@@ -7400,7 +7300,7 @@
       80
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 12750,
     "resourceId": 84102489,
     "assetId": 216409
   },
@@ -7553,7 +7453,7 @@
       77
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 77000,
+    "sbcPrice": 78500,
     "resourceId": 84118491,
     "assetId": 232411
   },
@@ -7733,6 +7633,69 @@
     "resourceId": 84141089,
     "assetId": 255009
   },
+  "84141734": {
+    "name": "Pierre Kalulu",
+    "cardName": "Kalulu",
+    "originalVersionId": "151",
+    "clubId": 45,
+    "leagueId": 31,
+    "countryId": 18,
+    "versionId": "151",
+    "rating": 96,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "CB",
+      "CDM",
+      "LB",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      16,
+      28
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      123,
+      124,
+      125,
+      126,
+      146,
+      147,
+      148,
+      149
+    ],
+    "attributes": [
+      94,
+      75,
+      91,
+      92,
+      97,
+      95
+    ],
+    "hasDynamicImage": true,
+    "price": 12250,
+    "resourceId": 84141734,
+    "assetId": 255654
+  },
   "84142061": {
     "name": "Zion Suzuki",
     "cardName": "Suzuki",
@@ -7765,7 +7728,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 21750,
+    "price": 35000,
     "resourceId": 84142061,
     "assetId": 255981
   },
@@ -8158,98 +8121,6 @@
     "resourceId": 100885373,
     "assetId": 222077
   },
-  "100894743": {
-    "name": "Donyell Malen",
-    "cardName": "Malen",
-    "originalVersionId": "109",
-    "clubId": 52,
-    "leagueId": 31,
-    "countryId": 34,
-    "versionId": "109",
-    "rating": 94,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "RM",
-    "possiblePositions": [
-      "LM",
-      "RM",
-      "RW",
-      "ST"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      123,
-      124,
-      125,
-      126,
-      127,
-      128,
-      129,
-      130,
-      135,
-      136,
-      137,
-      141,
-      142,
-      143,
-      144
-    ],
-    "attributes": [
-      96,
-      92,
-      90,
-      95,
-      54,
-      86
-    ],
-    "hasDynamicImage": true,
-    "price": 0,
-    "resourceId": 100894743,
-    "assetId": 231447
-  },
-  "100905017": {
-    "name": "Rafael Leão",
-    "cardName": "Rafael Leão",
-    "originalVersionId": "103",
-    "clubId": 131681,
-    "leagueId": 31,
-    "countryId": 38,
-    "versionId": "103",
-    "rating": 95,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 5,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "LM",
-      "LW"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      127,
-      128,
-      129,
-      130,
-      138,
-      139,
-      140
-    ],
-    "attributes": [
-      99,
-      93,
-      92,
-      96,
-      45,
-      89
-    ],
-    "hasDynamicImage": true,
-    "price": 0,
-    "resourceId": 100905017,
-    "assetId": 241721
-  },
   "100922861": {
     "name": "Yoan Bonny",
     "cardName": "Bonny",
@@ -8419,9 +8290,69 @@
       96
     ],
     "hasDynamicImage": true,
-    "price": 330000,
+    "price": 320000,
     "resourceId": 117493814,
     "assetId": 53302
+  },
+  "117520682": {
+    "name": "Wesley",
+    "cardName": "Wesley",
+    "originalVersionId": "96",
+    "clubId": 52,
+    "leagueId": 31,
+    "countryId": 54,
+    "versionId": "96",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 5,
+    "preferredPosition": "RB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "RB",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      16,
+      25
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      146,
+      147
+    ],
+    "attributes": [
+      98,
+      90,
+      93,
+      97,
+      96,
+      94
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 117520682,
+    "assetId": 80170
   },
   "117633497": {
     "name": "Kevin De Bruyne",
@@ -8478,7 +8409,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 1275000,
+    "price": 1320000,
     "resourceId": 117633497,
     "assetId": 192985
   },
@@ -8677,6 +8608,64 @@
     "resourceId": 117669749,
     "assetId": 229237
   },
+  "117671959": {
+    "name": "Donyell Malen",
+    "cardName": "Malen",
+    "originalVersionId": "82",
+    "clubId": 52,
+    "leagueId": 31,
+    "countryId": 34,
+    "versionId": "82",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "RM",
+    "possiblePositions": [
+      "LM",
+      "LW",
+      "RM",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      21,
+      6
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      98,
+      95,
+      94,
+      97,
+      60,
+      90
+    ],
+    "hasDynamicImage": true,
+    "price": 35250,
+    "resourceId": 117671959,
+    "assetId": 231447
+  },
   "117677011": {
     "name": "Douglas Luiz",
     "cardName": "Douglas Luiz",
@@ -8735,67 +8724,6 @@
     "price": 18000,
     "resourceId": 117677011,
     "assetId": 236499
-  },
-  "117677750": {
-    "name": "Scott McTominay",
-    "cardName": "McTominay",
-    "originalVersionId": "11",
-    "clubId": 48,
-    "leagueId": 31,
-    "countryId": 42,
-    "versionId": "11",
-    "rating": 94,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "CM",
-    "possiblePositions": [
-      "CAM",
-      "CDM",
-      "CM"
-    ],
-    "playStyles": [
-      0,
-      11,
-      16,
-      19,
-      20,
-      29,
-      8
-    ],
-    "playStylesPlus": [
-      28,
-      6,
-      9
-    ],
-    "rolesPlus": [
-      15,
-      17,
-      32,
-      34,
-      49,
-      114,
-      116,
-      118,
-      119,
-      120,
-      121,
-      122,
-      131,
-      133
-    ],
-    "attributes": [
-      90,
-      94,
-      93,
-      91,
-      89,
-      94
-    ],
-    "hasDynamicImage": true,
-    "price": 220000,
-    "resourceId": 117677750,
-    "assetId": 237238
   },
   "117679256": {
     "name": "Weston McKennie",
@@ -8903,9 +8831,67 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 13250,
+    "price": 17000,
     "resourceId": 117680092,
     "assetId": 239580
+  },
+  "117682233": {
+    "name": "Rafael Leão",
+    "cardName": "Rafael Leão",
+    "originalVersionId": "96",
+    "clubId": 131681,
+    "leagueId": 31,
+    "countryId": 38,
+    "versionId": "96",
+    "rating": 99,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      25,
+      6
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      99,
+      96,
+      95,
+      99,
+      50,
+      93
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 799500,
+    "resourceId": 117682233,
+    "assetId": 241721
   },
   "117691982": {
     "name": "Charles De Ketelaere",
@@ -8959,7 +8945,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 239000,
+    "price": 191000,
     "resourceId": 117691982,
     "assetId": 251470
   },
@@ -9068,7 +9054,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 12500,
+    "price": 13000,
     "resourceId": 117718358,
     "assetId": 277846
   },
@@ -9282,6 +9268,68 @@
     "sbcPrice": 63250,
     "resourceId": 151226422,
     "assetId": 231478
+  },
+  "151232182": {
+    "name": "Scott McTominay",
+    "cardName": "McTominay",
+    "originalVersionId": "55",
+    "clubId": 48,
+    "leagueId": 31,
+    "countryId": 42,
+    "versionId": "55",
+    "rating": 98,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      16,
+      9
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      131,
+      132,
+      133,
+      134,
+      146,
+      149
+    ],
+    "attributes": [
+      95,
+      98,
+      98,
+      95,
+      94,
+      97
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 151232182,
+    "assetId": 237238
   },
   "151272898": {
     "name": "Kenan Yıldız",

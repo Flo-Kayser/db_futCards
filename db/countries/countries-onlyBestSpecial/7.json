@@ -302,7 +302,7 @@
       83
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 35000,
     "resourceId": 50547982,
     "assetId": 216334
   },
@@ -345,7 +345,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 39250,
+    "price": 20250,
     "resourceId": 50560631,
     "assetId": 228983
   },
@@ -433,7 +433,7 @@
       82
     ],
     "hasDynamicImage": true,
-    "price": 99500,
+    "price": 100000,
     "resourceId": 50571458,
     "assetId": 239810
   },
@@ -660,7 +660,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 13000,
     "resourceId": 50597422,
     "assetId": 265774
   },
@@ -718,49 +718,6 @@
     "price": 35000,
     "resourceId": 50601687,
     "assetId": 270039
-  },
-  "67311235": {
-    "name": "Thomas Meunier",
-    "cardName": "Meunier",
-    "originalVersionId": "109",
-    "clubId": 1325,
-    "leagueId": 78,
-    "countryId": 7,
-    "versionId": "109",
-    "rating": 92,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "RB",
-    "possiblePositions": [
-      "RB",
-      "RM"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      103,
-      104,
-      105,
-      106,
-      123,
-      124,
-      125,
-      126,
-      146
-    ],
-    "attributes": [
-      91,
-      90,
-      88,
-      91,
-      92,
-      97
-    ],
-    "hasDynamicImage": true,
-    "price": 14500,
-    "resourceId": 67311235,
-    "assetId": 202371
   },
   "67312350": {
     "name": "Thorgan Hazard",
@@ -992,58 +949,63 @@
     "resourceId": 84078585,
     "assetId": 192505
   },
-  "84094498": {
-    "name": "Yannick Carrasco",
-    "cardName": "Carrasco",
-    "originalVersionId": "65",
-    "clubId": 111674,
-    "leagueId": 350,
+  "84088451": {
+    "name": "Thomas Meunier",
+    "cardName": "Meunier",
+    "originalVersionId": "16",
+    "clubId": 106,
+    "leagueId": 13,
     "countryId": 7,
-    "versionId": "65",
-    "rating": 92,
+    "versionId": "16",
+    "rating": 97,
     "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "LW",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "RB",
     "possiblePositions": [
+      "CB",
+      "LB",
       "LM",
-      "LW"
+      "RB",
+      "RM"
     ],
-    "playStyles": [
-      10,
-      11,
-      12,
-      25,
-      6,
-      7,
-      9
-    ],
-    "playStylesPlus": [
-      0,
-      20,
-      21
-    ],
+    "playStyles": [],
+    "playStylesPlus": [],
     "rolesPlus": [
-      28,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      123,
+      124,
+      125,
+      126,
       127,
+      128,
       129,
       130,
-      138,
-      139,
-      140
+      146,
+      147,
+      148
     ],
     "attributes": [
       94,
-      92,
-      90,
-      92,
-      70,
-      83
+      93,
+      94,
+      94,
+      97,
+      99
     ],
-    "hasDynamicImage": true,
-    "sbcPrice": 42000,
-    "resourceId": 84094498,
-    "assetId": 208418
+    "hasDynamicImage": false,
+    "resourceId": 84088451,
+    "assetId": 202371
   },
   "84102473": {
     "name": "Youri Tielemans",
@@ -1350,7 +1312,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 350000,
+    "price": 300000,
     "resourceId": 100855415,
     "assetId": 192119
   },
@@ -1422,6 +1384,63 @@
     "resourceId": 100870717,
     "assetId": 207421
   },
+  "100871714": {
+    "name": "Yannick Carrasco",
+    "cardName": "Carrasco",
+    "originalVersionId": "96",
+    "clubId": 111674,
+    "leagueId": 350,
+    "countryId": 7,
+    "versionId": "96",
+    "rating": 98,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "LW",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "RM",
+      "RW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      25,
+      6
+    ],
+    "rolesPlus": [
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140
+    ],
+    "attributes": [
+      98,
+      97,
+      96,
+      98,
+      76,
+      90
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 100871714,
+    "assetId": 208418
+  },
   "100921674": {
     "name": "Mika Godts",
     "cardName": "Godts",
@@ -1473,7 +1492,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 12250,
+    "price": 12500,
     "resourceId": 100921674,
     "assetId": 258378
   },
@@ -1528,7 +1547,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 12250,
+    "price": 17500,
     "resourceId": 100925401,
     "assetId": 262105
   },
@@ -1587,7 +1606,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 1275000,
+    "price": 1320000,
     "resourceId": 117633497,
     "assetId": 192985
   },
@@ -1642,7 +1661,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 267750,
+    "sbcPrice": 251750,
     "price": 0,
     "resourceId": 117686932,
     "assetId": 246420
@@ -1699,7 +1718,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 239000,
+    "price": 191000,
     "resourceId": 117691982,
     "assetId": 251470
   },
@@ -1768,7 +1787,7 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 1250000,
+    "price": 1180000,
     "resourceId": 134401005,
     "assetId": 183277
   }

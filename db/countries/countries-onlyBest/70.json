@@ -513,7 +513,7 @@
       50
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 200,
     "resourceId": 79958,
     "assetId": 79958
   },
@@ -897,7 +897,7 @@
       84
     ],
     "hasDynamicImage": false,
-    "price": 900,
+    "price": 1000,
     "resourceId": 227383,
     "assetId": 227383
   },
@@ -3680,7 +3680,7 @@
       82
     ],
     "hasDynamicImage": false,
-    "price": 1500,
+    "price": 1400,
     "resourceId": 50569321,
     "assetId": 237673
   },
@@ -3755,7 +3755,7 @@
       85
     ],
     "hasDynamicImage": false,
-    "price": 4200,
+    "price": 350,
     "resourceId": 50574657,
     "assetId": 243009
   },
@@ -4224,7 +4224,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 13000,
     "resourceId": 50595855,
     "assetId": 264207
   },
@@ -4611,7 +4611,7 @@
       71
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 300,
     "resourceId": 50609395,
     "assetId": 277747
   },
@@ -4673,7 +4673,7 @@
       92
     ],
     "hasDynamicImage": true,
-    "price": 15750,
+    "price": 14750,
     "resourceId": 50610656,
     "assetId": 279008
   },
@@ -4887,62 +4887,6 @@
     "price": 13500,
     "resourceId": 67340945,
     "assetId": 232081
-  },
-  "67343260": {
-    "name": "Alphonso Davies",
-    "cardName": "Davies",
-    "originalVersionId": "107",
-    "clubId": 21,
-    "leagueId": 19,
-    "countryId": 70,
-    "versionId": "107",
-    "rating": 96,
-    "preferredFoot": "Left",
-    "weakFoot": 4,
-    "skillMoves": 4,
-    "preferredPosition": "LB",
-    "possiblePositions": [
-      "LB",
-      "LM"
-    ],
-    "playStyles": [
-      10,
-      12,
-      16,
-      18,
-      24,
-      25,
-      9
-    ],
-    "playStylesPlus": [
-      14,
-      17,
-      21,
-      28
-    ],
-    "rolesPlus": [
-      107,
-      108,
-      109,
-      110,
-      127,
-      128,
-      129,
-      130,
-      147
-    ],
-    "attributes": [
-      98,
-      86,
-      91,
-      95,
-      96,
-      91
-    ],
-    "hasDynamicImage": true,
-    "price": 423000,
-    "resourceId": 67343260,
-    "assetId": 234396
   },
   "67352494": {
     "name": "Jonathan David",
@@ -5560,6 +5504,67 @@
     "sbcPrice": 12250,
     "resourceId": 84112857,
     "assetId": 226777
+  },
+  "84120476": {
+    "name": "Alphonso Davies",
+    "cardName": "Davies",
+    "originalVersionId": "151",
+    "clubId": 21,
+    "leagueId": 19,
+    "countryId": 70,
+    "versionId": "151",
+    "rating": 98,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LM",
+    "possiblePositions": [
+      "CDM",
+      "CM",
+      "LB",
+      "LM",
+      "LW"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      16,
+      21
+    ],
+    "rolesPlus": [
+      107,
+      108,
+      109,
+      110,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      147,
+      149
+    ],
+    "attributes": [
+      99,
+      90,
+      95,
+      97,
+      97,
+      94
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 84120476,
+    "assetId": 234396
   },
   "84128460": {
     "name": "Stephen Eustáquio",

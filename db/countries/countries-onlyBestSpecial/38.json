@@ -1382,7 +1382,7 @@
       73
     ],
     "hasDynamicImage": true,
-    "price": 30000,
+    "price": 39250,
     "resourceId": 50608549,
     "assetId": 276901
   },
@@ -1551,7 +1551,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 11250,
+    "price": 13500,
     "resourceId": 67271211,
     "assetId": 162347
   },
@@ -2140,7 +2140,7 @@
       94
     ],
     "hasDynamicImage": true,
-    "price": 18000,
+    "price": 15250,
     "resourceId": 67361008,
     "assetId": 252144
   },
@@ -2793,58 +2793,9 @@
       85
     ],
     "hasDynamicImage": true,
-    "price": 87000,
+    "price": 82500,
     "resourceId": 100684071,
     "assetId": 20775
-  },
-  "100873810": {
-    "name": "João Cancelo",
-    "cardName": "João Cancelo",
-    "originalVersionId": "109",
-    "clubId": 241,
-    "leagueId": 53,
-    "countryId": 38,
-    "versionId": "109",
-    "rating": 95,
-    "preferredFoot": "Right",
-    "weakFoot": 4,
-    "skillMoves": 5,
-    "preferredPosition": "RB",
-    "possiblePositions": [
-      "LB",
-      "RB",
-      "RM"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      103,
-      104,
-      105,
-      106,
-      107,
-      108,
-      109,
-      110,
-      123,
-      124,
-      125,
-      126,
-      146,
-      147
-    ],
-    "attributes": [
-      95,
-      87,
-      95,
-      96,
-      94,
-      92
-    ],
-    "hasDynamicImage": true,
-    "price": 99500,
-    "resourceId": 100873810,
-    "assetId": 210514
   },
   "100887589": {
     "name": "Rúben Neves",
@@ -2902,47 +2853,6 @@
     "resourceId": 100887589,
     "assetId": 224293
   },
-  "100905017": {
-    "name": "Rafael Leão",
-    "cardName": "Rafael Leão",
-    "originalVersionId": "103",
-    "clubId": 131681,
-    "leagueId": 31,
-    "countryId": 38,
-    "versionId": "103",
-    "rating": 95,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 5,
-    "preferredPosition": "LW",
-    "possiblePositions": [
-      "LM",
-      "LW"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      127,
-      128,
-      129,
-      130,
-      138,
-      139,
-      140
-    ],
-    "attributes": [
-      99,
-      93,
-      92,
-      96,
-      45,
-      89
-    ],
-    "hasDynamicImage": true,
-    "price": 0,
-    "resourceId": 100905017,
-    "assetId": 241721
-  },
   "100905815": {
     "name": "Eusébio",
     "cardName": "Eusébio",
@@ -2998,7 +2908,7 @@
       86
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 451750,
+    "sbcPrice": 435150,
     "price": 0,
     "resourceId": 100905815,
     "assetId": 242519
@@ -3048,6 +2958,127 @@
     "price": 0,
     "resourceId": 100924346,
     "assetId": 261050
+  },
+  "117651026": {
+    "name": "João Cancelo",
+    "cardName": "João Cancelo",
+    "originalVersionId": "151",
+    "clubId": 241,
+    "leagueId": 53,
+    "countryId": 38,
+    "versionId": "151",
+    "rating": 97,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "CDM",
+      "LB",
+      "LM",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      14,
+      25
+    ],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      114,
+      115,
+      116,
+      117,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      146,
+      147,
+      149
+    ],
+    "attributes": [
+      97,
+      90,
+      97,
+      98,
+      96,
+      95
+    ],
+    "hasDynamicImage": true,
+    "price": 30250,
+    "resourceId": 117651026,
+    "assetId": 210514
+  },
+  "117682233": {
+    "name": "Rafael Leão",
+    "cardName": "Rafael Leão",
+    "originalVersionId": "96",
+    "clubId": 131681,
+    "leagueId": 31,
+    "countryId": 38,
+    "versionId": "96",
+    "rating": 99,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "LM",
+      "LW",
+      "RW",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      25,
+      6
+    ],
+    "rolesPlus": [
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144
+    ],
+    "attributes": [
+      99,
+      96,
+      95,
+      99,
+      50,
+      93
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 799500,
+    "resourceId": 117682233,
+    "assetId": 241721
   },
   "117682956": {
     "name": "João Félix",
@@ -3209,61 +3240,6 @@
     "resourceId": 117697415,
     "assetId": 256903
   },
-  "134429926": {
-    "name": "Bruno Fernandes",
-    "cardName": "Bruno Fernandes",
-    "originalVersionId": "11",
-    "clubId": 11,
-    "leagueId": 13,
-    "countryId": 38,
-    "versionId": "11",
-    "rating": 97,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [
-      13,
-      20,
-      26,
-      3,
-      6,
-      9
-    ],
-    "playStylesPlus": [
-      0,
-      10,
-      11,
-      8
-    ],
-    "rolesPlus": [
-      18,
-      19,
-      20,
-      121,
-      122,
-      131,
-      132,
-      133,
-      134
-    ],
-    "attributes": [
-      92,
-      95,
-      97,
-      95,
-      80,
-      87
-    ],
-    "hasDynamicImage": true,
-    "price": 100000,
-    "resourceId": 134429926,
-    "assetId": 212198
-  },
   "134436395": {
     "name": "Bernardo Silva",
     "cardName": "Bernardo Silva",
@@ -3375,7 +3351,7 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 235000,
+    "price": 261000,
     "resourceId": 151267778,
     "assetId": 272834
   },
@@ -3417,49 +3393,6 @@
     "price": 3500000,
     "resourceId": 167792961,
     "assetId": 20801
-  },
-  "167984358": {
-    "name": "Bruno Fernandes",
-    "cardName": "Bruno Fernandes",
-    "originalVersionId": "109",
-    "clubId": 11,
-    "leagueId": 13,
-    "countryId": 38,
-    "versionId": "109",
-    "rating": 97,
-    "preferredFoot": "Right",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "CAM",
-    "possiblePositions": [
-      "CAM",
-      "CM"
-    ],
-    "playStyles": [],
-    "playStylesPlus": [],
-    "rolesPlus": [
-      118,
-      119,
-      120,
-      121,
-      122,
-      131,
-      132,
-      133,
-      134
-    ],
-    "attributes": [
-      93,
-      96,
-      97,
-      96,
-      85,
-      87
-    ],
-    "hasDynamicImage": true,
-    "price": 180000,
-    "resourceId": 167984358,
-    "assetId": 212198
   },
   "168027413": {
     "name": "Vitinha",
@@ -3516,9 +3449,75 @@
       90
     ],
     "hasDynamicImage": true,
-    "sbcPrice": 498750,
+    "sbcPrice": 500000,
     "price": 0,
     "resourceId": 168027413,
     "assetId": 255253
+  },
+  "184761574": {
+    "name": "Bruno Fernandes",
+    "cardName": "Bruno Fernandes",
+    "originalVersionId": "117",
+    "clubId": 11,
+    "leagueId": 13,
+    "countryId": 38,
+    "versionId": "117",
+    "rating": 99,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 5,
+    "preferredPosition": "CAM",
+    "possiblePositions": [
+      "CAM",
+      "CDM",
+      "CM",
+      "LM",
+      "RM",
+      "ST"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      0,
+      8
+    ],
+    "rolesPlus": [
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      141,
+      142,
+      143,
+      144,
+      149
+    ],
+    "attributes": [
+      95,
+      99,
+      99,
+      98,
+      90,
+      92
+    ],
+    "hasDynamicImage": true,
+    "resourceId": 184761574,
+    "assetId": 212198
   }
 }

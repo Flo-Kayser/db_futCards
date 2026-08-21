@@ -211,44 +211,6 @@
       "resourceId": 204513,
       "assetId": 204513
     },
-    "210896": {
-      "name": "Morgan Sanson",
-      "cardName": "Sanson",
-      "originalVersionId": "0",
-      "clubId": 72,
-      "leagueId": 16,
-      "countryId": 18,
-      "versionId": "2002",
-      "rating": 76,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        24
-      ],
-      "playStylesPlus": [],
-      "rolesPlus": [
-        22,
-        33
-      ],
-      "attributes": [
-        62,
-        73,
-        77,
-        76,
-        70,
-        74
-      ],
-      "hasDynamicImage": false,
-      "price": 350,
-      "resourceId": 210896,
-      "assetId": 210896
-    },
     "224422": {
       "name": "Jérémie Boga",
       "cardName": "Boga",
@@ -408,7 +370,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 800,
       "resourceId": 239093,
       "assetId": 239093
     },
@@ -1087,6 +1049,62 @@
       "resourceId": 50406126,
       "assetId": 74478
     },
+    "50542544": {
+      "name": "Morgan Sanson",
+      "cardName": "Sanson",
+      "originalVersionId": "30",
+      "clubId": 72,
+      "leagueId": 16,
+      "countryId": 18,
+      "versionId": "30",
+      "rating": 97,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "LM",
+        "LW",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        138,
+        139,
+        140
+      ],
+      "attributes": [
+        93,
+        94,
+        97,
+        97,
+        90,
+        91
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 50542544,
+      "assetId": 210896
+    },
     "50545015": {
       "name": "Laurent Abergel",
       "cardName": "Abergel",
@@ -1349,7 +1367,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 14250,
+      "price": 13500,
       "resourceId": 50605596,
       "assetId": 273948
     },
@@ -1383,7 +1401,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 67183344,
       "assetId": 74480
     },

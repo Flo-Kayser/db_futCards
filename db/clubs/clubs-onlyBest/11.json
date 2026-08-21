@@ -937,7 +937,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 1200,
       "resourceId": 50601342,
       "assetId": 269694
     },
@@ -1561,7 +1561,7 @@
         97
       ],
       "hasDynamicImage": true,
-      "price": 78000,
+      "price": 70000,
       "resourceId": 67377951,
       "assetId": 269087
     },
@@ -1622,7 +1622,7 @@
         97
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 57000,
       "resourceId": 84089343,
       "assetId": 203263
     },
@@ -1846,7 +1846,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 46250,
+      "price": 50000,
       "resourceId": 84163512,
       "assetId": 277432
     },
@@ -1901,7 +1901,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 361000,
+      "price": 400000,
       "resourceId": 100906310,
       "assetId": 243014
     },
@@ -1962,61 +1962,6 @@
       "resourceId": 134417873,
       "assetId": 200145
     },
-    "134429926": {
-      "name": "Bruno Fernandes",
-      "cardName": "Bruno Fernandes",
-      "originalVersionId": "11",
-      "clubId": 11,
-      "leagueId": 13,
-      "countryId": 38,
-      "versionId": "11",
-      "rating": 97,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "CAM",
-      "possiblePositions": [
-        "CAM",
-        "CM"
-      ],
-      "playStyles": [
-        13,
-        20,
-        26,
-        3,
-        6,
-        9
-      ],
-      "playStylesPlus": [
-        0,
-        10,
-        11,
-        8
-      ],
-      "rolesPlus": [
-        18,
-        19,
-        20,
-        121,
-        122,
-        131,
-        132,
-        133,
-        134
-      ],
-      "attributes": [
-        92,
-        95,
-        97,
-        95,
-        80,
-        87
-      ],
-      "hasDynamicImage": true,
-      "price": 100000,
-      "resourceId": 134429926,
-      "assetId": 212198
-    },
     "134449405": {
       "name": "Marcus Rashford",
       "cardName": "Rashford",
@@ -2060,47 +2005,70 @@
       "resourceId": 134449405,
       "assetId": 231677
     },
-    "167984358": {
+    "184761574": {
       "name": "Bruno Fernandes",
       "cardName": "Bruno Fernandes",
-      "originalVersionId": "109",
+      "originalVersionId": "117",
       "clubId": 11,
       "leagueId": 13,
       "countryId": 38,
-      "versionId": "109",
-      "rating": 97,
+      "versionId": "117",
+      "rating": 99,
       "preferredFoot": "Right",
       "weakFoot": 5,
-      "skillMoves": 4,
+      "skillMoves": 5,
       "preferredPosition": "CAM",
       "possiblePositions": [
         "CAM",
-        "CM"
+        "CDM",
+        "CM",
+        "LM",
+        "RM",
+        "ST"
       ],
       "playStyles": [],
-      "playStylesPlus": [],
+      "playStylesPlus": [
+        0,
+        8
+      ],
       "rolesPlus": [
+        114,
+        115,
+        116,
+        117,
         118,
         119,
         120,
         121,
         122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
         131,
         132,
         133,
-        134
+        134,
+        141,
+        142,
+        143,
+        144,
+        149
       ],
       "attributes": [
-        93,
-        96,
-        97,
-        96,
-        85,
-        87
+        95,
+        99,
+        99,
+        98,
+        90,
+        92
       ],
       "hasDynamicImage": true,
-      "price": 180000,
-      "resourceId": 167984358,
+      "resourceId": 184761574,
       "assetId": 212198
     }
   }

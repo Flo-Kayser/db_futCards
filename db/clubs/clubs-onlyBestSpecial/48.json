@@ -652,7 +652,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 12250,
+      "price": 12750,
       "resourceId": 84102489,
       "assetId": 216409
     },
@@ -770,70 +770,9 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 1275000,
+      "price": 1320000,
       "resourceId": 117633497,
       "assetId": 192985
-    },
-    "117677750": {
-      "name": "Scott McTominay",
-      "cardName": "McTominay",
-      "originalVersionId": "11",
-      "clubId": 48,
-      "leagueId": 31,
-      "countryId": 42,
-      "versionId": "11",
-      "rating": 94,
-      "preferredFoot": "Right",
-      "weakFoot": 5,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        0,
-        11,
-        16,
-        19,
-        20,
-        29,
-        8
-      ],
-      "playStylesPlus": [
-        28,
-        6,
-        9
-      ],
-      "rolesPlus": [
-        15,
-        17,
-        32,
-        34,
-        49,
-        114,
-        116,
-        118,
-        119,
-        120,
-        121,
-        122,
-        131,
-        133
-      ],
-      "attributes": [
-        90,
-        94,
-        93,
-        91,
-        89,
-        94
-      ],
-      "hasDynamicImage": true,
-      "price": 220000,
-      "resourceId": 117677750,
-      "assetId": 237238
     },
     "134477127": {
       "name": "Rasmus Højlund",
@@ -883,6 +822,68 @@
       "price": 35250,
       "resourceId": 134477127,
       "assetId": 259399
+    },
+    "151232182": {
+      "name": "Scott McTominay",
+      "cardName": "McTominay",
+      "originalVersionId": "55",
+      "clubId": 48,
+      "leagueId": 31,
+      "countryId": 42,
+      "versionId": "55",
+      "rating": 98,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [
+        16,
+        9
+      ],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        146,
+        149
+      ],
+      "attributes": [
+        95,
+        98,
+        98,
+        95,
+        94,
+        97
+      ],
+      "hasDynamicImage": true,
+      "resourceId": 151232182,
+      "assetId": 237238
     }
   }
 }
