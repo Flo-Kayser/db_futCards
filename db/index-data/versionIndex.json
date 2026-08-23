@@ -677,7 +677,7 @@
       }
     },
     "82": {
-      "count": 40,
+      "count": 42,
       "file": "db/versions/82.json",
       "details": {
         "name": "Unbreakables",
@@ -1082,7 +1082,15 @@
     "138": {
       "count": 39,
       "file": "db/versions/138.json",
-      "details": null
+      "details": {
+        "name": "Festival of Football: Summer Stars",
+        "hasStrip": true,
+        "createdAt": "2026-08-23T14:27:02.949Z",
+        "url": "https://assets.easysbc.io/fc26/cards/e_138_0.png",
+        "primaryColor": "#ecffea",
+        "secondaryColor": "#360e5f",
+        "tertiaryColor": "#ecffea"
+      }
     },
     "139": {
       "count": 44,
@@ -1361,6 +1369,6 @@
   "meta": {
     "totalVersions": 105,
     "totalVersionsWithoutBase": 99,
-    "updatedAt": "2026-08-22T17:32:53.832Z"
+    "updatedAt": "2026-08-23T17:32:03.795Z"
   }
 }
