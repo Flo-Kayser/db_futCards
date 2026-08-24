@@ -174,7 +174,7 @@
         77
       ],
       "hasDynamicImage": true,
-      "price": 50000,
+      "price": 60000,
       "resourceId": 50572401,
       "assetId": 240753
     },
@@ -396,7 +396,7 @@
         79
       ],
       "hasDynamicImage": true,
-      "price": 43500,
+      "price": 72000,
       "resourceId": 67380264,
       "assetId": 271400
     },
@@ -443,7 +443,7 @@
         86
       ],
       "hasDynamicImage": true,
-      "price": 29000,
+      "price": 25000,
       "resourceId": 84112931,
       "assetId": 226851
     },
@@ -505,66 +505,6 @@
       "price": 25050,
       "resourceId": 84126867,
       "assetId": 240787
-    },
-    "84137886": {
-      "name": "Quinten Timber",
-      "cardName": "Timber",
-      "originalVersionId": "91",
-      "clubId": 219,
-      "leagueId": 16,
-      "countryId": 34,
-      "versionId": "91",
-      "rating": 91,
-      "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
-      "preferredPosition": "CM",
-      "possiblePositions": [
-        "CAM",
-        "CDM",
-        "CM"
-      ],
-      "playStyles": [
-        17,
-        2,
-        20,
-        22,
-        24,
-        6,
-        9
-      ],
-      "playStylesPlus": [
-        10,
-        28,
-        8
-      ],
-      "rolesPlus": [
-        15,
-        17,
-        32,
-        33,
-        34,
-        49,
-        114,
-        116,
-        118,
-        119,
-        120,
-        121,
-        122,
-        131
-      ],
-      "attributes": [
-        88,
-        90,
-        90,
-        91,
-        87,
-        92
-      ],
-      "hasDynamicImage": true,
-      "resourceId": 84137886,
-      "assetId": 251806
     },
     "84157887": {
       "name": "Ethan Nwaneri",
@@ -671,9 +611,70 @@
         85
       ],
       "hasDynamicImage": true,
-      "price": 31500,
+      "price": 28250,
       "resourceId": 100851863,
       "assetId": 188567
+    },
+    "100915102": {
+      "name": "Quinten Timber",
+      "cardName": "Timber",
+      "originalVersionId": "30",
+      "clubId": 219,
+      "leagueId": 16,
+      "countryId": 34,
+      "versionId": "30",
+      "rating": 98,
+      "preferredFoot": "Right",
+      "weakFoot": 5,
+      "skillMoves": 5,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CAM",
+        "CDM",
+        "CM",
+        "LB",
+        "RB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        131,
+        132,
+        133,
+        134,
+        146,
+        147,
+        149
+      ],
+      "attributes": [
+        92,
+        94,
+        93,
+        98,
+        92,
+        98
+      ],
+      "hasDynamicImage": true,
+      "sbcPrice": 106250,
+      "resourceId": 100915102,
+      "assetId": 251806
     }
   }
 }
