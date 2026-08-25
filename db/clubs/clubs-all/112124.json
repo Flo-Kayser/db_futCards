@@ -66,7 +66,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 72831,
       "assetId": 72831
     },
@@ -142,7 +142,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 10000,
       "resourceId": 72834,
       "assetId": 72834
     },
@@ -250,7 +250,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 8900,
       "resourceId": 76540,
       "assetId": 76540
     },
@@ -286,7 +286,7 @@
         55
       ],
       "hasDynamicImage": false,
-      "price": 5000,
+      "price": 4900,
       "resourceId": 80075,
       "assetId": 80075
     },
@@ -428,7 +428,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1200,
+      "price": 10000,
       "resourceId": 235863,
       "assetId": 235863
     },
@@ -579,7 +579,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 9700,
+      "price": 4600,
       "resourceId": 252410,
       "assetId": 252410
     },
@@ -649,7 +649,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 259973,
       "assetId": 259973
     },
@@ -759,7 +759,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 277636,
       "assetId": 277636
     },
@@ -795,7 +795,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 1900,
       "resourceId": 277769,
       "assetId": 277769
     },
@@ -829,7 +829,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 2700,
+      "price": 2800,
       "resourceId": 278352,
       "assetId": 278352
     },
@@ -899,7 +899,7 @@
         64
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 800,
       "resourceId": 50404505,
       "assetId": 72857
     },
@@ -933,7 +933,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 10000,
       "resourceId": 50600322,
       "assetId": 268674
     },
@@ -1046,6 +1046,40 @@
       "resourceId": 50609284,
       "assetId": 277636
     },
+    "50609986": {
+      "name": "Saná Fernandes",
+      "cardName": "Saná Fernandes",
+      "originalVersionId": "1",
+      "clubId": 112124,
+      "leagueId": 32,
+      "countryId": 38,
+      "versionId": "3000",
+      "rating": 62,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        84,
+        58,
+        52,
+        69,
+        36,
+        44
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50609986,
+      "assetId": 278338
+    },
     "50609999": {
       "name": "Kevin Zeroli",
       "cardName": "Zeroli",
@@ -1080,6 +1114,112 @@
       "price": 5900,
       "resourceId": 50609999,
       "assetId": 278351
+    },
+    "67180265": {
+      "name": "Justin Kumi",
+      "cardName": "Kumi",
+      "originalVersionId": "0",
+      "clubId": 112124,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CM",
+      "possiblePositions": [
+        "CM"
+      ],
+      "playStyles": [
+        18
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18
+      ],
+      "attributes": [
+        62,
+        59,
+        65,
+        66,
+        54,
+        53
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67180265,
+      "assetId": 71401
+    },
+    "67182797": {
+      "name": "Federico Artioli",
+      "cardName": "Artioli",
+      "originalVersionId": "1",
+      "clubId": 112124,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "3000",
+      "rating": 63,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        16,
+        18
+      ],
+      "attributes": [
+        55,
+        48,
+        59,
+        61,
+        59,
+        62
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67182797,
+      "assetId": 73933
+    },
+    "67357035": {
+      "name": "Davide Bettella",
+      "cardName": "Bettella",
+      "originalVersionId": "0",
+      "clubId": 112124,
+      "leagueId": 32,
+      "countryId": 27,
+      "versionId": "2001",
+      "rating": 65,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        51,
+        35,
+        47,
+        50,
+        67,
+        57
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67357035,
+      "assetId": 248171
     }
   }
 }

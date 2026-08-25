@@ -107,7 +107,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 7200,
       "resourceId": 203751,
       "assetId": 203751
     },
@@ -265,7 +265,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 2400,
+      "price": 650,
       "resourceId": 220139,
       "assetId": 220139
     },
@@ -455,7 +455,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 233851,
       "assetId": 233851
     },
@@ -880,7 +880,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 5100,
       "resourceId": 260798,
       "assetId": 260798
     },
@@ -1078,6 +1078,41 @@
       "price": 200,
       "resourceId": 50402758,
       "assetId": 71110
+    },
+    "50406966": {
+      "name": "Abdoul Ouattara",
+      "cardName": "Ouattara",
+      "originalVersionId": "0",
+      "clubId": 94,
+      "leagueId": 14,
+      "countryId": 108,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "RM",
+      "possiblePositions": [
+        "CAM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        23
+      ],
+      "attributes": [
+        74,
+        55,
+        62,
+        69,
+        41,
+        62
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50406966,
+      "assetId": 75318
     },
     "50407162": {
       "name": "Ryan Doherty",
@@ -1284,7 +1319,7 @@
         94
       ],
       "hasDynamicImage": true,
-      "price": 25250,
+      "price": 37250,
       "resourceId": 50565250,
       "assetId": 233602
     },
@@ -1464,7 +1499,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 1000,
       "resourceId": 50575323,
       "assetId": 243675
     },
@@ -1671,7 +1706,7 @@
         80
       ],
       "hasDynamicImage": false,
-      "price": 6800,
+      "price": 200,
       "resourceId": 50591071,
       "assetId": 259423
     },
@@ -2102,6 +2137,47 @@
       "price": 350,
       "resourceId": 84153760,
       "assetId": 267680
+    },
+    "134473162": {
+      "name": "Julio César Enciso",
+      "cardName": "Enciso",
+      "originalVersionId": "1",
+      "clubId": 94,
+      "leagueId": 14,
+      "countryId": 58,
+      "versionId": "3001",
+      "rating": 73,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "LM",
+        "RM",
+        "ST"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        30,
+        32,
+        33
+      ],
+      "attributes": [
+        74,
+        72,
+        70,
+        78,
+        33,
+        51
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 134473162,
+      "assetId": 255434
     }
   }
 }

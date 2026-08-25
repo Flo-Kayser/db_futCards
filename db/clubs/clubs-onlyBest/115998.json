@@ -31,7 +31,7 @@
         62
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 70830,
       "assetId": 70830
     },
@@ -168,7 +168,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 200,
       "resourceId": 76201,
       "assetId": 76201
     },
@@ -280,7 +280,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1100,
       "resourceId": 247790,
       "assetId": 247790
     },
@@ -320,7 +320,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 850,
+      "price": 1800,
       "resourceId": 257530,
       "assetId": 257530
     },
@@ -399,7 +399,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 750,
       "resourceId": 265004,
       "assetId": 265004
     },
@@ -828,7 +828,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 50596707,
       "assetId": 265059
     },
@@ -1142,9 +1142,47 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 18750,
+      "price": 16000,
       "resourceId": 67350711,
       "assetId": 241847
+    },
+    "67373803": {
+      "name": "Lara Prašnikar",
+      "cardName": "Prašnikar",
+      "originalVersionId": "1",
+      "clubId": 115998,
+      "leagueId": 2215,
+      "countryId": 44,
+      "versionId": "3002",
+      "rating": 82,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 4,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "ST"
+      ],
+      "playStyles": [
+        20,
+        22
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41,
+        43
+      ],
+      "attributes": [
+        78,
+        80,
+        74,
+        82,
+        44,
+        79
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67373803,
+      "assetId": 264939
     },
     "67373921": {
       "name": "Cora Zicai",
@@ -1234,6 +1272,41 @@
       "price": 350,
       "resourceId": 67378836,
       "assetId": 269972
+    },
+    "67383710": {
+      "name": "Mara Alber",
+      "cardName": "Alber",
+      "originalVersionId": "0",
+      "clubId": 115998,
+      "leagueId": 2215,
+      "countryId": 21,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LM",
+        "RM",
+        "RW"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26
+      ],
+      "attributes": [
+        75,
+        61,
+        64,
+        70,
+        54,
+        66
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67383710,
+      "assetId": 274846
     }
   }
 }

@@ -216,7 +216,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 221705,
       "assetId": 221705
     },
@@ -291,7 +291,7 @@
         72
       ],
       "hasDynamicImage": false,
-      "price": 800,
+      "price": 550,
       "resourceId": 229073,
       "assetId": 229073
     },
@@ -818,7 +818,7 @@
         67
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 10000,
       "resourceId": 252878,
       "assetId": 252878
     },
@@ -889,7 +889,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 5100,
       "resourceId": 257126,
       "assetId": 257126
     },
@@ -963,7 +963,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 350,
       "resourceId": 265777,
       "assetId": 265777
     },
@@ -1224,7 +1224,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 600,
       "resourceId": 50562512,
       "assetId": 230864
     },
@@ -1338,6 +1338,43 @@
       "resourceId": 50577814,
       "assetId": 246166
     },
+    "50578040": {
+      "name": "Lewis Brunt",
+      "cardName": "Brunt",
+      "originalVersionId": "0",
+      "clubId": 4,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "2001",
+      "rating": 67,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        12,
+        14,
+        48
+      ],
+      "attributes": [
+        77,
+        49,
+        58,
+        64,
+        65,
+        74
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50578040,
+      "assetId": 246392
+    },
     "50591155": {
       "name": "Rob Apter",
       "cardName": "Apter",
@@ -1406,7 +1443,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 9500,
+      "price": 10000,
       "resourceId": 50592599,
       "assetId": 260951
     },
@@ -1445,7 +1482,7 @@
         54
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 1500,
       "resourceId": 50600575,
       "assetId": 268927
     },
@@ -1520,7 +1557,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 50606582,
       "assetId": 274934
     },
@@ -1561,9 +1598,42 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 50609678,
       "assetId": 278030
+    },
+    "67334948": {
+      "name": "Ryan Hardie",
+      "cardName": "Hardie",
+      "originalVersionId": "0",
+      "clubId": 4,
+      "leagueId": 60,
+      "countryId": 42,
+      "versionId": "2001",
+      "rating": 69,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        82,
+        68,
+        51,
+        70,
+        27,
+        65
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67334948,
+      "assetId": 226084
     },
     "67359889": {
       "name": "Larrazabal",
@@ -1707,6 +1777,45 @@
       "price": 0,
       "resourceId": 67380607,
       "assetId": 271743
+    },
+    "84158459": {
+      "name": "Samuel Iling-Junior",
+      "cardName": "Iling-Junior",
+      "originalVersionId": "1",
+      "clubId": 4,
+      "leagueId": 60,
+      "countryId": 14,
+      "versionId": "3001",
+      "rating": 74,
+      "preferredFoot": "Left",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "LB",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        10,
+        27,
+        28
+      ],
+      "attributes": [
+        81,
+        64,
+        71,
+        77,
+        56,
+        62
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 84158459,
+      "assetId": 272379
     }
   }
 }

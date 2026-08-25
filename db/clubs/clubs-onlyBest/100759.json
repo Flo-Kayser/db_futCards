@@ -428,7 +428,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 1000,
       "resourceId": 248091,
       "assetId": 248091
     },
@@ -722,7 +722,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 4000,
       "resourceId": 262483,
       "assetId": 262483
     },
@@ -756,7 +756,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 262704,
       "assetId": 262704
     },
@@ -899,7 +899,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 200,
       "resourceId": 50404346,
       "assetId": 72698
     },
@@ -979,6 +979,39 @@
       "price": 200,
       "resourceId": 50410714,
       "assetId": 79066
+    },
+    "50412222": {
+      "name": "Igor Nikic",
+      "cardName": "Nikic",
+      "originalVersionId": "0",
+      "clubId": 100759,
+      "leagueId": 330,
+      "countryId": 15,
+      "versionId": "2001",
+      "rating": 68,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        71,
+        68,
+        70,
+        70,
+        30,
+        67
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50412222,
+      "assetId": 80574
     },
     "50566917": {
       "name": "Silviu Balaure",
@@ -1176,6 +1209,41 @@
       "price": 200,
       "resourceId": 50609025,
       "assetId": 277377
+    },
+    "67377328": {
+      "name": "Gabriel Charpentier",
+      "cardName": "Charpentier",
+      "originalVersionId": "0",
+      "clubId": 100759,
+      "leagueId": 330,
+      "countryId": 107,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [
+        4
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        51,
+        67,
+        48,
+        66,
+        27,
+        64
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67377328,
+      "assetId": 268464
     }
   }
 }

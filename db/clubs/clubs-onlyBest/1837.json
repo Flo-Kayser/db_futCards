@@ -31,7 +31,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 173165,
       "assetId": 173165
     },
@@ -106,7 +106,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 2400,
       "resourceId": 198857,
       "assetId": 198857
     },
@@ -182,7 +182,7 @@
         61
       ],
       "hasDynamicImage": false,
-      "price": 5400,
+      "price": 10000,
       "resourceId": 208424,
       "assetId": 208424
     },
@@ -220,7 +220,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 5100,
       "resourceId": 213685,
       "assetId": 213685
     },
@@ -328,7 +328,7 @@
         66
       ],
       "hasDynamicImage": false,
-      "price": 4900,
+      "price": 4400,
       "resourceId": 220509,
       "assetId": 220509
     },
@@ -366,7 +366,7 @@
         68
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 250,
       "resourceId": 220933,
       "assetId": 220933
     },
@@ -521,7 +521,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 9600,
       "resourceId": 236541,
       "assetId": 236541
     },
@@ -591,7 +591,7 @@
         53
       ],
       "hasDynamicImage": false,
-      "price": 4000,
+      "price": 5100,
       "resourceId": 257777,
       "assetId": 257777
     },
@@ -632,7 +632,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 1800,
+      "price": 1600,
       "resourceId": 263647,
       "assetId": 263647
     },
@@ -706,7 +706,7 @@
         48
       ],
       "hasDynamicImage": false,
-      "price": 1500,
+      "price": 3000,
       "resourceId": 266158,
       "assetId": 266158
     },
@@ -742,7 +742,7 @@
         63
       ],
       "hasDynamicImage": false,
-      "price": 8000,
+      "price": 2500,
       "resourceId": 270088,
       "assetId": 270088
     },
@@ -777,7 +777,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 8500,
+      "price": 7500,
       "resourceId": 270655,
       "assetId": 270655
     },
@@ -964,7 +964,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 2200,
+      "price": 9500,
       "resourceId": 278966,
       "assetId": 278966
     },
@@ -1054,7 +1054,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 18500,
+      "price": 15750,
       "resourceId": 50529867,
       "assetId": 198219
     },
@@ -1245,7 +1245,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 7000,
       "resourceId": 50568415,
       "assetId": 236767
     },
@@ -1285,7 +1285,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 10000,
       "resourceId": 50568439,
       "assetId": 236791
     },
@@ -1368,6 +1368,45 @@
       "price": 200,
       "resourceId": 50576739,
       "assetId": 245091
+    },
+    "50578067": {
+      "name": "Yari Verschaeren",
+      "cardName": "Verschaeren",
+      "originalVersionId": "1",
+      "clubId": 1837,
+      "leagueId": 32,
+      "countryId": 7,
+      "versionId": "3001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 4,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM"
+      ],
+      "playStyles": [
+        13,
+        20
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        22,
+        33
+      ],
+      "attributes": [
+        68,
+        70,
+        74,
+        79,
+        44,
+        50
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50578067,
+      "assetId": 246419
     },
     "50583599": {
       "name": "Manuel Cicconi",
@@ -1573,6 +1612,42 @@
       "resourceId": 50592891,
       "assetId": 261243
     },
+    "50593867": {
+      "name": "Björn Meijer",
+      "cardName": "Meijer",
+      "originalVersionId": "1",
+      "clubId": 1837,
+      "leagueId": 32,
+      "countryId": 34,
+      "versionId": "3001",
+      "rating": 73,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        9,
+        10,
+        30
+      ],
+      "attributes": [
+        68,
+        62,
+        69,
+        67,
+        71,
+        79
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50593867,
+      "assetId": 262219
+    },
     "50595692": {
       "name": "Mattia Viti",
       "cardName": "Viti",
@@ -1641,7 +1716,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 200,
       "resourceId": 50606973,
       "assetId": 275325
     },

@@ -258,7 +258,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 600,
       "resourceId": 217805,
       "assetId": 217805
     },
@@ -922,7 +922,7 @@
         51
       ],
       "hasDynamicImage": false,
-      "price": 950,
+      "price": 10000,
       "resourceId": 275431,
       "assetId": 275431
     },
@@ -1102,9 +1102,79 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 10000,
       "resourceId": 50568851,
       "assetId": 237203
+    },
+    "50572444": {
+      "name": "Manuel Roffo",
+      "cardName": "Roffo",
+      "originalVersionId": "0",
+      "clubId": 112716,
+      "leagueId": 1003,
+      "countryId": 52,
+      "versionId": "2001",
+      "rating": 74,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 1,
+      "preferredPosition": "GK",
+      "possiblePositions": [
+        "GK"
+      ],
+      "playStyles": [
+        31,
+        35
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        1
+      ],
+      "attributes": [
+        75,
+        72,
+        72,
+        75,
+        23,
+        72
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50572444,
+      "assetId": 240796
+    },
+    "50576594": {
+      "name": "Iván Ramírez",
+      "cardName": "Ramírez",
+      "originalVersionId": "0",
+      "clubId": 112716,
+      "leagueId": 1003,
+      "countryId": 58,
+      "versionId": "2001",
+      "rating": 71,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 2,
+      "preferredPosition": "RB",
+      "possiblePositions": [
+        "RB",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        6
+      ],
+      "attributes": [
+        71,
+        48,
+        68,
+        68,
+        66,
+        70
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50576594,
+      "assetId": 244946
     }
   }
 }

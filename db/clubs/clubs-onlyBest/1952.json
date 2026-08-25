@@ -186,7 +186,7 @@
         83
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 202693,
       "assetId": 202693
     },
@@ -408,7 +408,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 8000,
+      "price": 9300,
       "resourceId": 225441,
       "assetId": 225441
     },
@@ -487,7 +487,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 9200,
+      "price": 10000,
       "resourceId": 235267,
       "assetId": 235267
     },
@@ -564,7 +564,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 10000,
       "resourceId": 243414,
       "assetId": 243414
     },
@@ -637,7 +637,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 550,
+      "price": 10000,
       "resourceId": 251275,
       "assetId": 251275
     },
@@ -785,7 +785,7 @@
         44
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 5100,
       "resourceId": 261420,
       "assetId": 261420
     },
@@ -863,7 +863,7 @@
         60
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2000,
       "resourceId": 270379,
       "assetId": 270379
     },
@@ -1133,7 +1133,7 @@
         56
       ],
       "hasDynamicImage": false,
-      "price": 400,
+      "price": 350,
       "resourceId": 50563425,
       "assetId": 231777
     },
@@ -1170,7 +1170,7 @@
         73
       ],
       "hasDynamicImage": false,
-      "price": 1000,
+      "price": 350,
       "resourceId": 50564701,
       "assetId": 233053
     },
@@ -1574,7 +1574,7 @@
         95
       ],
       "hasDynamicImage": false,
-      "price": 22750,
+      "price": 23000,
       "resourceId": 67311906,
       "assetId": 203042
     },
@@ -1656,6 +1656,42 @@
       "resourceId": 67350951,
       "assetId": 242087
     },
+    "67366135": {
+      "name": "Lucas Gourna-Douath",
+      "cardName": "Gourna-Douath",
+      "originalVersionId": "0",
+      "clubId": 1952,
+      "leagueId": 14,
+      "countryId": 18,
+      "versionId": "2001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CDM",
+      "possiblePositions": [
+        "CDM",
+        "CM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        15,
+        16,
+        21
+      ],
+      "attributes": [
+        75,
+        52,
+        64,
+        71,
+        69,
+        74
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67366135,
+      "assetId": 257271
+    },
     "67377303": {
       "name": "Toby Collyer",
       "cardName": "Collyer",
@@ -1687,7 +1723,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 8000,
       "resourceId": 67377303,
       "assetId": 268439
     },
@@ -1767,6 +1803,74 @@
       "price": 200,
       "resourceId": 67383843,
       "assetId": 274979
+    },
+    "83961225": {
+      "name": "Lucas Herrington",
+      "cardName": "Herrington",
+      "originalVersionId": "0",
+      "clubId": 1952,
+      "leagueId": 14,
+      "countryId": 195,
+      "versionId": "2000",
+      "rating": 59,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        12
+      ],
+      "attributes": [
+        65,
+        32,
+        42,
+        45,
+        57,
+        66
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 83961225,
+      "assetId": 75145
+    },
+    "84162713": {
+      "name": "Nobel Mendy",
+      "cardName": "Mendy",
+      "originalVersionId": "0",
+      "clubId": 1952,
+      "leagueId": 14,
+      "countryId": 136,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB",
+        "LB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11
+      ],
+      "attributes": [
+        65,
+        44,
+        57,
+        56,
+        64,
+        68
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 84162713,
+      "assetId": 276633
     }
   }
 }

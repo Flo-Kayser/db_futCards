@@ -178,7 +178,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 4600,
+      "price": 10000,
       "resourceId": 216774,
       "assetId": 216774
     },
@@ -1082,7 +1082,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 2500,
       "resourceId": 50556735,
       "assetId": 225087
     },
@@ -1306,7 +1306,7 @@
         65
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 5000,
       "resourceId": 50591658,
       "assetId": 260010
     },
@@ -1408,6 +1408,40 @@
       "resourceId": 50601330,
       "assetId": 269682
     },
+    "50604554": {
+      "name": "Dhari Al Enazi",
+      "cardName": "Al Enazi",
+      "originalVersionId": "0",
+      "clubId": 111674,
+      "leagueId": 350,
+      "countryId": 183,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "LB",
+      "possiblePositions": [
+        "LB",
+        "LM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        7
+      ],
+      "attributes": [
+        75,
+        32,
+        51,
+        62,
+        57,
+        62
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50604554,
+      "assetId": 272906
+    },
     "50610039": {
       "name": "Unai Hernández",
       "cardName": "Unai Hernández",
@@ -1444,7 +1478,7 @@
         57
       ],
       "hasDynamicImage": false,
-      "price": 7800,
+      "price": 9600,
       "resourceId": 50610039,
       "assetId": 278391
     },
@@ -1498,6 +1532,45 @@
       "sbcPrice": 6200,
       "resourceId": 67183565,
       "assetId": 74701
+    },
+    "67328661": {
+      "name": "Roger Martínez",
+      "cardName": "Martínez",
+      "originalVersionId": "1",
+      "clubId": 111674,
+      "leagueId": 350,
+      "countryId": 56,
+      "versionId": "3001",
+      "rating": 72,
+      "preferredFoot": "Right",
+      "weakFoot": 4,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "CAM",
+        "LW",
+        "ST"
+      ],
+      "playStyles": [
+        29
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        39,
+        42,
+        43
+      ],
+      "attributes": [
+        73,
+        72,
+        66,
+        75,
+        41,
+        79
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67328661,
+      "assetId": 219797
     },
     "100871714": {
       "name": "Yannick Carrasco",
@@ -1553,7 +1626,7 @@
         90
       ],
       "hasDynamicImage": true,
-      "price": 25250,
+      "price": 40500,
       "resourceId": 100871714,
       "assetId": 208418
     }

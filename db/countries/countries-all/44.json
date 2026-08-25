@@ -67,7 +67,7 @@
       68
     ],
     "hasDynamicImage": false,
-    "price": 1000,
+    "price": 4000,
     "resourceId": 72707,
     "assetId": 72707
   },
@@ -141,7 +141,7 @@
       70
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 73188,
     "assetId": 73188
   },
@@ -176,7 +176,7 @@
       65
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 3200,
     "resourceId": 73405,
     "assetId": 73405
   },
@@ -528,7 +528,7 @@
       56
     ],
     "hasDynamicImage": false,
-    "price": 1900,
+    "price": 3900,
     "resourceId": 195365,
     "assetId": 195365
   },
@@ -567,7 +567,7 @@
       86
     ],
     "hasDynamicImage": false,
-    "price": 2800,
+    "price": 3100,
     "resourceId": 200389,
     "assetId": 200389
   },
@@ -984,7 +984,7 @@
       62
     ],
     "hasDynamicImage": false,
-    "price": 3000,
+    "price": 2600,
     "resourceId": 240095,
     "assetId": 240095
   },
@@ -1247,7 +1247,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 1800,
     "resourceId": 251260,
     "assetId": 251260
   },
@@ -1291,7 +1291,7 @@
       78
     ],
     "hasDynamicImage": false,
-    "price": 3300,
+    "price": 1700,
     "resourceId": 251662,
     "assetId": 251662
   },
@@ -1410,7 +1410,7 @@
       80
     ],
     "hasDynamicImage": false,
-    "price": 700,
+    "price": 750,
     "resourceId": 260592,
     "assetId": 260592
   },
@@ -1701,7 +1701,7 @@
       63
     ],
     "hasDynamicImage": false,
-    "price": 250,
+    "price": 350,
     "resourceId": 268912,
     "assetId": 268912
   },
@@ -1740,7 +1740,7 @@
       69
     ],
     "hasDynamicImage": false,
-    "price": 3000,
+    "price": 450,
     "resourceId": 270017,
     "assetId": 270017
   },
@@ -1919,7 +1919,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 250,
     "resourceId": 272943,
     "assetId": 272943
   },
@@ -2136,7 +2136,7 @@
       54
     ],
     "hasDynamicImage": false,
-    "price": 10000,
+    "price": 6900,
     "resourceId": 276736,
     "assetId": 276736
   },
@@ -2247,7 +2247,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 350,
+    "price": 200,
     "resourceId": 277593,
     "assetId": 277593
   },
@@ -2282,7 +2282,7 @@
       57
     ],
     "hasDynamicImage": false,
-    "price": 4900,
+    "price": 3400,
     "resourceId": 279797,
     "assetId": 279797
   },
@@ -2318,7 +2318,7 @@
       58
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 350,
     "resourceId": 50410901,
     "assetId": 79253
   },
@@ -2402,7 +2402,7 @@
       66
     ],
     "hasDynamicImage": false,
-    "price": 450,
+    "price": 350,
     "resourceId": 50555514,
     "assetId": 223866
   },
@@ -2439,7 +2439,7 @@
       59
     ],
     "hasDynamicImage": false,
-    "price": 200,
+    "price": 10000,
     "resourceId": 50561694,
     "assetId": 230046
   },
@@ -2478,7 +2478,7 @@
       67
     ],
     "hasDynamicImage": false,
-    "price": 5200,
+    "price": 10000,
     "resourceId": 50570112,
     "assetId": 238464
   },
@@ -2944,6 +2944,45 @@
     "resourceId": 50608384,
     "assetId": 276736
   },
+  "67309253": {
+    "name": "Jan Oblak",
+    "cardName": "Oblak",
+    "originalVersionId": "55",
+    "clubId": 240,
+    "leagueId": 53,
+    "countryId": 44,
+    "versionId": "55",
+    "rating": 99,
+    "preferredFoot": "Right",
+    "weakFoot": 5,
+    "skillMoves": 2,
+    "preferredPosition": "GK",
+    "possiblePositions": [
+      "GK"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [
+      31,
+      34
+    ],
+    "rolesPlus": [
+      101,
+      102,
+      145
+    ],
+    "attributes": [
+      96,
+      99,
+      92,
+      99,
+      72,
+      97
+    ],
+    "hasDynamicImage": true,
+    "sbcPrice": 102500,
+    "resourceId": 67309253,
+    "assetId": 200389
+  },
   "67349181": {
     "name": "Žan Celar",
     "cardName": "Celar",
@@ -2979,5 +3018,43 @@
     "price": 200,
     "resourceId": 67349181,
     "assetId": 240317
+  },
+  "67373803": {
+    "name": "Lara Prašnikar",
+    "cardName": "Prašnikar",
+    "originalVersionId": "1",
+    "clubId": 115998,
+    "leagueId": 2215,
+    "countryId": 44,
+    "versionId": "3002",
+    "rating": 82,
+    "preferredFoot": "Right",
+    "weakFoot": 4,
+    "skillMoves": 4,
+    "preferredPosition": "ST",
+    "possiblePositions": [
+      "CAM",
+      "ST"
+    ],
+    "playStyles": [
+      20,
+      22
+    ],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      41,
+      43
+    ],
+    "attributes": [
+      78,
+      80,
+      74,
+      82,
+      44,
+      79
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 67373803,
+    "assetId": 264939
   }
 }

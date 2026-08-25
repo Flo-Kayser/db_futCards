@@ -35,7 +35,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 9000,
+      "price": 5000,
       "resourceId": 72246,
       "assetId": 72246
     },
@@ -401,7 +401,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 242759,
       "assetId": 242759
     },
@@ -438,7 +438,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 700,
+      "price": 400,
       "resourceId": 250805,
       "assetId": 250805
     },
@@ -953,6 +953,44 @@
       "resourceId": 50539807,
       "assetId": 208159
     },
+    "50572192": {
+      "name": "Giotto Morandi",
+      "cardName": "Morandi",
+      "originalVersionId": "0",
+      "clubId": 322,
+      "leagueId": 189,
+      "countryId": 47,
+      "versionId": "2001",
+      "rating": 70,
+      "preferredFoot": "Left",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "CAM",
+      "possiblePositions": [
+        "CAM",
+        "CM",
+        "RM"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        22,
+        26,
+        31,
+        33
+      ],
+      "attributes": [
+        76,
+        67,
+        70,
+        70,
+        52,
+        63
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50572192,
+      "assetId": 240544
+    },
     "50582929": {
       "name": "Sven Köhler",
       "cardName": "Köhler",
@@ -1111,6 +1149,78 @@
       "price": 350,
       "resourceId": 50603286,
       "assetId": 271638
+    },
+    "67183216": {
+      "name": "Bujar Pllana",
+      "cardName": "Pllana",
+      "originalVersionId": "0",
+      "clubId": 322,
+      "leagueId": 189,
+      "countryId": 1,
+      "versionId": "2000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 2,
+      "preferredPosition": "CB",
+      "possiblePositions": [
+        "CB"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        11,
+        13
+      ],
+      "attributes": [
+        63,
+        35,
+        44,
+        41,
+        63,
+        74
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67183216,
+      "assetId": 74352
+    },
+    "67353456": {
+      "name": "Julian von Moos",
+      "cardName": "von Moos",
+      "originalVersionId": "0",
+      "clubId": 322,
+      "leagueId": 189,
+      "countryId": 47,
+      "versionId": "2001",
+      "rating": 66,
+      "preferredFoot": "Left",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "RM",
+        "RW",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        26,
+        35,
+        36,
+        43
+      ],
+      "attributes": [
+        80,
+        60,
+        60,
+        68,
+        28,
+        58
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67353456,
+      "assetId": 244592
     }
   }
 }

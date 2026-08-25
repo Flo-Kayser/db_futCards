@@ -69,7 +69,7 @@
         75
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 250,
       "resourceId": 196952,
       "assetId": 196952
     },
@@ -186,7 +186,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 500,
+      "price": 2400,
       "resourceId": 213147,
       "assetId": 213147
     },
@@ -375,7 +375,7 @@
         76
       ],
       "hasDynamicImage": false,
-      "price": 350,
+      "price": 400,
       "resourceId": 235744,
       "assetId": 235744
     },
@@ -1125,6 +1125,39 @@
       "resourceId": 50543766,
       "assetId": 212118
     },
+    "50562626": {
+      "name": "Taiwo Awoniyi",
+      "cardName": "Awoniyi",
+      "originalVersionId": "0",
+      "clubId": 1800,
+      "leagueId": 14,
+      "countryId": 133,
+      "versionId": "2002",
+      "rating": 75,
+      "preferredFoot": "Right",
+      "weakFoot": 2,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        44
+      ],
+      "attributes": [
+        71,
+        75,
+        60,
+        69,
+        32,
+        77
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 50562626,
+      "assetId": 230978
+    },
     "50567392": {
       "name": "Brandon Thomas-Asante",
       "cardName": "Thomas-Asante",
@@ -1592,7 +1625,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 2000,
+      "price": 6500,
       "resourceId": 50605264,
       "assetId": 273616
     },
@@ -1671,9 +1704,52 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 1900,
+      "price": 200,
       "resourceId": 67182502,
       "assetId": 73638
+    },
+    "67343605": {
+      "name": "Gustavo Hamer",
+      "cardName": "Hamer",
+      "originalVersionId": "0",
+      "clubId": 1800,
+      "leagueId": 14,
+      "countryId": 34,
+      "versionId": "2002",
+      "rating": 77,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "LM",
+      "possiblePositions": [
+        "CM",
+        "LM",
+        "LW"
+      ],
+      "playStyles": [
+        13,
+        24,
+        3,
+        7,
+        8
+      ],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        18,
+        27,
+        29
+      ],
+      "attributes": [
+        70,
+        72,
+        79,
+        76,
+        72,
+        76
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67343605,
+      "assetId": 234741
     },
     "67344608": {
       "name": "Brandon Thomas-Asante",
@@ -1865,7 +1941,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 18250,
+      "price": 17500,
       "resourceId": 67360490,
       "assetId": 251626
     },
@@ -1904,7 +1980,7 @@
         52
       ],
       "hasDynamicImage": false,
-      "price": 300,
+      "price": 250,
       "resourceId": 67373448,
       "assetId": 264584
     },
@@ -1946,6 +2022,40 @@
       "price": 200,
       "resourceId": 67379710,
       "assetId": 270846
+    },
+    "67386349": {
+      "name": "Sidiki Chérif",
+      "cardName": "Chérif",
+      "originalVersionId": "1",
+      "clubId": 1800,
+      "leagueId": 14,
+      "countryId": 18,
+      "versionId": "3000",
+      "rating": 64,
+      "preferredFoot": "Right",
+      "weakFoot": 3,
+      "skillMoves": 3,
+      "preferredPosition": "ST",
+      "possiblePositions": [
+        "LM",
+        "ST"
+      ],
+      "playStyles": [],
+      "playStylesPlus": [],
+      "rolesPlus": [
+        41
+      ],
+      "attributes": [
+        69,
+        62,
+        55,
+        67,
+        32,
+        55
+      ],
+      "hasDynamicImage": false,
+      "resourceId": 67386349,
+      "assetId": 277485
     }
   }
 }
