@@ -142,7 +142,7 @@
         84
       ],
       "hasDynamicImage": false,
-      "price": 900,
+      "price": 850,
       "resourceId": 186153,
       "assetId": 186153
     },
@@ -649,7 +649,7 @@
         80
       ],
       "hasDynamicImage": true,
-      "price": 22500,
+      "price": 44000,
       "resourceId": 67374464,
       "assetId": 265600
     },
@@ -718,7 +718,7 @@
         97
       ],
       "hasDynamicImage": true,
-      "price": 1250000,
+      "price": 1125000,
       "resourceId": 84127541,
       "assetId": 241461
     },
@@ -780,7 +780,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 785000,
+      "price": 812000,
       "resourceId": 84127566,
       "assetId": 241486
     },
@@ -842,7 +842,7 @@
         93
       ],
       "hasDynamicImage": true,
-      "price": 1598000,
+      "price": 1300000,
       "resourceId": 84130340,
       "assetId": 244260
     },
@@ -910,7 +910,7 @@
         98
       ],
       "hasDynamicImage": true,
-      "price": 800000,
+      "price": 640000,
       "resourceId": 84131117,
       "assetId": 245037
     },
@@ -1230,7 +1230,7 @@
         95
       ],
       "hasDynamicImage": true,
-      "price": 13250,
+      "price": 14750,
       "resourceId": 117651026,
       "assetId": 210514
     },
@@ -1323,46 +1323,58 @@
       "resourceId": 117672378,
       "assetId": 231866
     },
-    "117683476": {
+    "134460692": {
       "name": "Anthony Gordon",
       "cardName": "Gordon",
-      "originalVersionId": "1",
+      "originalVersionId": "16",
       "clubId": 241,
       "leagueId": 53,
       "countryId": 14,
-      "versionId": "3002",
-      "rating": 83,
+      "versionId": "16",
+      "rating": 98,
       "preferredFoot": "Right",
-      "weakFoot": 3,
-      "skillMoves": 3,
+      "weakFoot": 5,
+      "skillMoves": 5,
       "preferredPosition": "LW",
       "possiblePositions": [
         "LM",
         "LW",
-        "RW"
+        "RM",
+        "RW",
+        "ST"
       ],
-      "playStyles": [
-        0,
-        12,
-        21,
-        25
-      ],
+      "playStyles": [],
       "playStylesPlus": [],
       "rolesPlus": [
-        36,
-        39
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
-        91,
-        79,
-        78,
-        83,
-        50,
-        71
+        99,
+        96,
+        95,
+        97,
+        72,
+        90
       ],
       "hasDynamicImage": false,
-      "price": 850,
-      "resourceId": 117683476,
+      "resourceId": 134460692,
       "assetId": 242964
     },
     "134469582": {
@@ -1424,7 +1436,7 @@
         91
       ],
       "hasDynamicImage": true,
-      "price": 998000,
+      "price": 949000,
       "resourceId": 134469582,
       "assetId": 251854
     },
@@ -1527,7 +1539,7 @@
         99
       ],
       "hasDynamicImage": true,
-      "price": 1250000,
+      "price": 1390000,
       "resourceId": 151272990,
       "assetId": 278046
     },
@@ -1568,7 +1580,7 @@
         92
       ],
       "hasDynamicImage": true,
-      "price": 543000,
+      "price": 480000,
       "resourceId": 168005579,
       "assetId": 233419
     },
@@ -1623,7 +1635,7 @@
         83
       ],
       "hasDynamicImage": true,
-      "price": 2850000,
+      "price": 3566000,
       "resourceId": 184827019,
       "assetId": 277643
     }
