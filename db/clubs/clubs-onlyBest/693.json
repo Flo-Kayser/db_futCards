@@ -333,7 +333,7 @@
         78
       ],
       "hasDynamicImage": false,
-      "price": 2500,
+      "price": 10000,
       "resourceId": 233630,
       "assetId": 233630
     },
@@ -409,7 +409,7 @@
         79
       ],
       "hasDynamicImage": false,
-      "price": 10000,
+      "price": 2800,
       "resourceId": 239894,
       "assetId": 239894
     },
@@ -530,7 +530,7 @@
         77
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4900,
       "resourceId": 243459,
       "assetId": 243459
     },
@@ -602,7 +602,7 @@
         70
       ],
       "hasDynamicImage": false,
-      "price": 3000,
+      "price": 200,
       "resourceId": 247278,
       "assetId": 247278
     },
@@ -637,7 +637,7 @@
         69
       ],
       "hasDynamicImage": false,
-      "price": 5100,
+      "price": 4500,
       "resourceId": 247474,
       "assetId": 247474
     },
@@ -677,7 +677,7 @@
         71
       ],
       "hasDynamicImage": false,
-      "price": 250,
+      "price": 200,
       "resourceId": 255273,
       "assetId": 255273
     },
@@ -787,7 +787,7 @@
         58
       ],
       "hasDynamicImage": false,
-      "price": 7000,
+      "price": 10000,
       "resourceId": 260984,
       "assetId": 260984
     },
@@ -1208,7 +1208,7 @@
         74
       ],
       "hasDynamicImage": false,
-      "price": 200,
+      "price": 300,
       "resourceId": 50587604,
       "assetId": 255956
     },
@@ -1246,47 +1246,58 @@
       "resourceId": 50611353,
       "assetId": 279705
     },
-    "134406273": {
+    "117629057": {
       "name": "Robert Lewandowski",
       "cardName": "Lewandowski",
-      "originalVersionId": "1",
+      "originalVersionId": "16",
       "clubId": 693,
       "leagueId": 39,
       "countryId": 37,
-      "versionId": "3002",
-      "rating": 88,
+      "versionId": "16",
+      "rating": 98,
       "preferredFoot": "Right",
-      "weakFoot": 4,
-      "skillMoves": 4,
+      "weakFoot": 5,
+      "skillMoves": 5,
       "preferredPosition": "ST",
       "possiblePositions": [
+        "CAM",
+        "LM",
+        "LW",
+        "RW",
         "ST"
       ],
-      "playStyles": [
-        0,
-        2,
-        22,
-        4,
-        6,
-        8
-      ],
-      "playStylesPlus": [
-        1
-      ],
+      "playStyles": [],
+      "playStylesPlus": [],
       "rolesPlus": [
-        141
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144
       ],
       "attributes": [
-        74,
-        89,
-        79,
-        85,
-        44,
-        84
+        93,
+        99,
+        92,
+        97,
+        57,
+        97
       ],
       "hasDynamicImage": false,
-      "price": 5300,
-      "resourceId": 134406273,
+      "resourceId": 117629057,
       "assetId": 188545
     }
   }

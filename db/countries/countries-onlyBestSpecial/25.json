@@ -87,7 +87,7 @@
       89
     ],
     "hasDynamicImage": true,
-    "price": 495000,
+    "price": 550000,
     "resourceId": 50331888,
     "assetId": 240
   },
@@ -191,7 +191,7 @@
       87
     ],
     "hasDynamicImage": true,
-    "price": 29000,
+    "price": 45500,
     "resourceId": 50512466,
     "assetId": 180818
   },
@@ -337,7 +337,7 @@
       74
     ],
     "hasDynamicImage": true,
-    "price": 28000,
+    "price": 38750,
     "resourceId": 50541911,
     "assetId": 210263
   },
@@ -392,7 +392,7 @@
       91
     ],
     "hasDynamicImage": true,
-    "price": 27000,
+    "price": 69000,
     "resourceId": 50567053,
     "assetId": 235405
   },
@@ -491,7 +491,7 @@
       88
     ],
     "hasDynamicImage": true,
-    "price": 52500,
+    "price": 54000,
     "resourceId": 50580132,
     "assetId": 248484
   },
@@ -740,68 +740,9 @@
       95
     ],
     "hasDynamicImage": true,
-    "price": 13000,
+    "price": 12000,
     "resourceId": 84145688,
     "assetId": 259608
-  },
-  "84151319": {
-    "name": "Katie McCabe",
-    "cardName": "McCabe",
-    "originalVersionId": "11",
-    "clubId": 116009,
-    "leagueId": 2216,
-    "countryId": 25,
-    "versionId": "11",
-    "rating": 92,
-    "preferredFoot": "Left",
-    "weakFoot": 5,
-    "skillMoves": 4,
-    "preferredPosition": "LB",
-    "possiblePositions": [
-      "LB",
-      "LM",
-      "LW"
-    ],
-    "playStyles": [
-      14,
-      16,
-      17,
-      18,
-      20,
-      27,
-      8
-    ],
-    "playStylesPlus": [
-      12,
-      21,
-      28
-    ],
-    "rolesPlus": [
-      30,
-      39,
-      107,
-      108,
-      109,
-      110,
-      127,
-      128,
-      129,
-      138,
-      140,
-      147
-    ],
-    "attributes": [
-      90,
-      87,
-      88,
-      88,
-      92,
-      92
-    ],
-    "hasDynamicImage": true,
-    "price": 36500,
-    "resourceId": 84151319,
-    "assetId": 265239
   },
   "84153318": {
     "name": "Denise O'Sullivan",
@@ -908,5 +849,62 @@
     "price": 0,
     "resourceId": 100909198,
     "assetId": 245902
+  },
+  "117705751": {
+    "name": "Katie McCabe",
+    "cardName": "McCabe",
+    "originalVersionId": "16",
+    "clubId": 116010,
+    "leagueId": 2216,
+    "countryId": 25,
+    "versionId": "16",
+    "rating": 98,
+    "preferredFoot": "Left",
+    "weakFoot": 5,
+    "skillMoves": 4,
+    "preferredPosition": "LB",
+    "possiblePositions": [
+      "LB",
+      "LM",
+      "LW",
+      "RB",
+      "RM"
+    ],
+    "playStyles": [],
+    "playStylesPlus": [],
+    "rolesPlus": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      138,
+      139,
+      140,
+      146,
+      147
+    ],
+    "attributes": [
+      94,
+      90,
+      94,
+      93,
+      95,
+      99
+    ],
+    "hasDynamicImage": false,
+    "resourceId": 117705751,
+    "assetId": 265239
   }
 }
